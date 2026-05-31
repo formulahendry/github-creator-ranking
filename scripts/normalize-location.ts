@@ -31,6 +31,10 @@ const countryMatchers: Array<{ code: string; patterns: RegExp[] }> = [
     code: 'US',
     patterns: [/\busa\b/i, /\bunited states\b/i, /\bus\b/i, /\bsf\b/i, /\bnew york\b/i],
   },
+  {
+    code: 'SG',
+    patterns: [/\bsingapore\b/i, /\bsg\b/i, /新加坡/],
+  },
 ];
 
 export function normalizeCountry(location: string | null | undefined): string | null {

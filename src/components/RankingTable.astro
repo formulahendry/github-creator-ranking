@@ -37,7 +37,7 @@ const { items } = Astro.props;
                   </span>
                 </a>
               </td>
-              <td>{item.countryCode || 'Unknown'}</td>
+              <td>{item.countryCode || item.location || 'Unknown'}</td>
               <td class="numeric">{formatNumber(item.starsPrimary)}</td>
               <td class="numeric">{formatNumber(item.repoCountPrimary)}</td>
               <td>
