@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-05-31T13:50:40.799Z",
+  "isPartial": true,
+  "minStars": 100,
+  "maxStars": 250000,
+  "searchPagesPerBucket": 1,
+  "searchBucketLimit": 4,
+  "buckets": [
+    {
+      "language": "typescript",
+      "stars": "125051..250000",
+      "totalCount": 7,
+      "collectedRepos": 7,
+      "truncated": false
+    },
+    {
+      "language": "typescript",
+      "stars": "62576..125050",
+      "totalCount": 38,
+      "collectedRepos": 38,
+      "truncated": false
+    },
+    {
+      "language": "typescript",
+      "stars": "31338..62575",
+      "totalCount": 128,
+      "collectedRepos": 100,
+      "truncated": true
+    },
+    {
+      "language": "typescript",
+      "stars": "15719..31337",
+      "totalCount": 275,
+      "collectedRepos": 100,
+      "truncated": true
+    }
+  ]
+}

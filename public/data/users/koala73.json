@@ -1,0 +1,34 @@
+{
+  "login": "koala73",
+  "name": "Elie Habib",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/996596?v=4",
+  "htmlUrl": "https://github.com/koala73",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T13:50:40.799Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 55132,
+      "repoCountPrimary": 1,
+      "starsContains": 55132,
+      "repoCountContains": 1,
+      "globalRank": 9,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "worldmonitor",
+          "fullName": "koala73/worldmonitor",
+          "stars": 55132,
+          "url": "https://github.com/koala73/worldmonitor",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

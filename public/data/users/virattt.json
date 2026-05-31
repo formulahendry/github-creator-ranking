@@ -1,0 +1,34 @@
+{
+  "login": "virattt",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/901795?v=4",
+  "htmlUrl": "https://github.com/virattt",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T13:50:40.799Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 26713,
+      "repoCountPrimary": 1,
+      "starsContains": 26713,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "dexter",
+          "fullName": "virattt/dexter",
+          "stars": 26713,
+          "url": "https://github.com/virattt/dexter",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

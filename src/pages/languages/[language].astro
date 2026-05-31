@@ -1,0 +1,36 @@
+---
+import RankingTable from '../../components/RankingTable.astro';
+import StatCard from '../../components/StatCard.astro';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getLanguageRanking, getMeta } from '../../lib/data';
+import { formatNumber } from '../../lib/format';
+
+export function getStaticPaths() {
+  return getMeta().languages.map((language) => ({
+    params: { language: language.slug },
+  }));
+}
+
+const { language } = Astro.params;
+const ranking = getLanguageRanking(language);
+---
+
+<BaseLayout title={`${ranking.language.name} Creator Ranking`}>
+  <section class="page-heading">
+    <p class="eyebrow">Global ranking</p>
+    <h1>{ranking.language.name} creators</h1>
+    <p>{ranking.methodology}</p>
+    {ranking.isPartial && <p class="notice">This is a partial dataset. Run the data workflow for a fuller ranking.</p>}
+  </section>
+
+  <section class="stats-grid">
+    <StatCard label="Creators" value={formatNumber(ranking.items.length)} />
+    <StatCard
+      label="Total stars shown"
+      value={formatNumber(ranking.items.reduce((sum, item) => sum + item.starsPrimary, 0))}
+    />
+    <StatCard label="Generated" value={new Date(ranking.generatedAt).toLocaleDateString('en-US')} />
+  </section>
+
+  <RankingTable items={ranking.items} />
+</BaseLayout>

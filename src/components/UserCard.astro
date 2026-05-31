@@ -1,0 +1,19 @@
+---
+import { formatNumber, withBase } from '../lib/format';
+import type { RankingItem } from '../lib/types';
+
+interface Props {
+  item: RankingItem;
+}
+
+const { item } = Astro.props;
+---
+
+<a class="user-card" href={withBase(`/users/${item.login}`)}>
+  <img src={item.avatarUrl} alt="" loading="lazy" />
+  <div>
+    <strong>{item.name || item.login}</strong>
+    <span>@{item.login}</span>
+    <small>{formatNumber(item.starsPrimary)} TypeScript stars</small>
+  </div>
+</a>

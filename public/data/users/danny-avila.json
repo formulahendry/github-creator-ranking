@@ -1,0 +1,34 @@
+{
+  "login": "danny-avila",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/110412045?v=4",
+  "htmlUrl": "https://github.com/danny-avila",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T13:50:40.799Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 37721,
+      "repoCountPrimary": 1,
+      "starsContains": 37721,
+      "repoCountContains": 1,
+      "globalRank": 24,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "LibreChat",
+          "fullName": "danny-avila/LibreChat",
+          "stars": 37721,
+          "url": "https://github.com/danny-avila/LibreChat",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

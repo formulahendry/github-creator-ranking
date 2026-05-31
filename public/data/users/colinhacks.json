@@ -1,0 +1,34 @@
+{
+  "login": "colinhacks",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3084745?v=4",
+  "htmlUrl": "https://github.com/colinhacks",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T13:50:40.799Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 42829,
+      "repoCountPrimary": 1,
+      "starsContains": 42829,
+      "repoCountContains": 1,
+      "globalRank": 17,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "zod",
+          "fullName": "colinhacks/zod",
+          "stars": 42829,
+          "url": "https://github.com/colinhacks/zod",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

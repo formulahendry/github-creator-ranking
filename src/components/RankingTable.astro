@@ -1,0 +1,60 @@
+---
+import { formatNumber, withBase } from '../lib/format';
+import type { RankingItem } from '../lib/types';
+
+interface Props {
+  items: RankingItem[];
+}
+
+const { items } = Astro.props;
+---
+
+<div class="table-wrap">
+  <table class="ranking-table">
+    <thead>
+      <tr>
+        <th>Rank</th>
+        <th>Creator</th>
+        <th>Country</th>
+        <th class="numeric">Stars</th>
+        <th class="numeric">Repos</th>
+        <th>Top repository</th>
+      </tr>
+    </thead>
+    <tbody>
+      {
+        items.map((item) => {
+          const topRepo = item.topRepos[0];
+          return (
+            <tr>
+              <td class="rank">#{formatNumber(item.rank)}</td>
+              <td>
+                <a class="creator-cell" href={withBase(`/users/${item.login}`)}>
+                  <img src={item.avatarUrl} alt="" loading="lazy" />
+                  <span>
+                    <strong>{item.name || item.login}</strong>
+                    <small>@{item.login}</small>
+                  </span>
+                </a>
+              </td>
+              <td>{item.countryCode || 'Unknown'}</td>
+              <td class="numeric">{formatNumber(item.starsPrimary)}</td>
+              <td class="numeric">{formatNumber(item.repoCountPrimary)}</td>
+              <td>
+                {
+                  topRepo ? (
+                    <a href={topRepo.url} target="_blank" rel="noreferrer">
+                      {topRepo.fullName}
+                    </a>
+                  ) : (
+                    '—'
+                  )
+                }
+              </td>
+            </tr>
+          );
+        })
+      }
+    </tbody>
+  </table>
+</div>

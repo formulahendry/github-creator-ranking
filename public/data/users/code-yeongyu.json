@@ -1,0 +1,34 @@
+{
+  "login": "code-yeongyu",
+  "name": "YeonGyu-Kim",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/11153873?v=4",
+  "htmlUrl": "https://github.com/code-yeongyu",
+  "location": "Seoul",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T13:50:40.799Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 60399,
+      "repoCountPrimary": 1,
+      "starsContains": 60399,
+      "repoCountContains": 1,
+      "globalRank": 7,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "oh-my-openagent",
+          "fullName": "code-yeongyu/oh-my-openagent",
+          "stars": 60399,
+          "url": "https://github.com/code-yeongyu/oh-my-openagent",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

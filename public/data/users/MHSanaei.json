@@ -1,0 +1,34 @@
+{
+  "login": "MHSanaei",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/33454419?v=4",
+  "htmlUrl": "https://github.com/MHSanaei",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T13:50:40.799Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 38892,
+      "repoCountPrimary": 1,
+      "starsContains": 38892,
+      "repoCountContains": 1,
+      "globalRank": 20,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "3x-ui",
+          "fullName": "MHSanaei/3x-ui",
+          "stars": 38892,
+          "url": "https://github.com/MHSanaei/3x-ui",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

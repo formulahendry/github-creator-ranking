@@ -1,0 +1,34 @@
+{
+  "login": "jquense",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/339286?v=4",
+  "htmlUrl": "https://github.com/jquense",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T13:50:40.799Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 23682,
+      "repoCountPrimary": 1,
+      "starsContains": 23682,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "yup",
+          "fullName": "jquense/yup",
+          "stars": 23682,
+          "url": "https://github.com/jquense/yup",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

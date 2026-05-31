@@ -1,0 +1,34 @@
+{
+  "login": "lyswhut",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/20365169?v=4",
+  "htmlUrl": "https://github.com/lyswhut",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T13:50:40.799Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 51305,
+      "repoCountPrimary": 1,
+      "starsContains": 51305,
+      "repoCountContains": 1,
+      "globalRank": 11,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "lx-music-desktop",
+          "fullName": "lyswhut/lx-music-desktop",
+          "stars": 51305,
+          "url": "https://github.com/lyswhut/lx-music-desktop",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

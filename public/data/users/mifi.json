@@ -1,0 +1,34 @@
+{
+  "login": "mifi",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/402547?v=4",
+  "htmlUrl": "https://github.com/mifi",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T13:50:40.799Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 40807,
+      "repoCountPrimary": 1,
+      "starsContains": 40807,
+      "repoCountContains": 1,
+      "globalRank": 19,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "lossless-cut",
+          "fullName": "mifi/lossless-cut",
+          "stars": 40807,
+          "url": "https://github.com/mifi/lossless-cut",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

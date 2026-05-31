@@ -1,0 +1,34 @@
+{
+  "login": "slymnoyann",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/187266731?v=4",
+  "htmlUrl": "https://github.com/slymnoyann",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T13:50:40.799Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 29402,
+      "repoCountPrimary": 1,
+      "starsContains": 29402,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "hey-1",
+          "fullName": "slymnoyann/hey-1",
+          "stars": 29402,
+          "url": "https://github.com/slymnoyann/hey-1",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

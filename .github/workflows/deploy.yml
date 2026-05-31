@@ -1,0 +1,57 @@
+name: Deploy static site
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: '17 3 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      SITE: https://formulahendry.github.io
+      BASE_PATH: /github-creator-ranking
+      DISCOVER_RANKINGS: 'true'
+      LANGUAGES: TypeScript
+      TARGET_USERS: formulahendry
+      MIN_STARS: '100'
+      MAX_STARS: '250000'
+      SEARCH_PAGES: '10'
+      SEARCH_BUCKET_LIMIT: '50'
+      OWNER_PROFILE_LIMIT: '1000'
+      GLOBAL_LIMIT: '500'
+      COUNTRY_LIMIT: '200'
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - run: npm run data:generate
+      - run: npm run build
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

@@ -1,0 +1,34 @@
+{
+  "login": "conwnet",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/17734694?v=4",
+  "htmlUrl": "https://github.com/conwnet",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T13:50:40.799Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 23297,
+      "repoCountPrimary": 1,
+      "starsContains": 23297,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "github1s",
+          "fullName": "conwnet/github1s",
+          "stars": 23297,
+          "url": "https://github.com/conwnet/github1s",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

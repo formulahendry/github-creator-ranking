@@ -1,0 +1,34 @@
+{
+  "login": "JedWatson",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/872310?v=4",
+  "htmlUrl": "https://github.com/JedWatson",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T13:50:40.799Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 28045,
+      "repoCountPrimary": 1,
+      "starsContains": 28045,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-select",
+          "fullName": "JedWatson/react-select",
+          "stars": 28045,
+          "url": "https://github.com/JedWatson/react-select",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

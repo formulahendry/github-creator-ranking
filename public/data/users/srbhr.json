@@ -1,0 +1,34 @@
+{
+  "login": "srbhr",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/54472864?v=4",
+  "htmlUrl": "https://github.com/srbhr",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T13:50:40.799Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 27208,
+      "repoCountPrimary": 1,
+      "starsContains": 27208,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Resume-Matcher",
+          "fullName": "srbhr/Resume-Matcher",
+          "stars": 27208,
+          "url": "https://github.com/srbhr/Resume-Matcher",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

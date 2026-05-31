@@ -1,0 +1,37 @@
+---
+import '../styles/global.css';
+import { withBase } from '../lib/format';
+
+interface Props {
+  title: string;
+  description?: string;
+}
+
+const { title, description = 'GitHub creator rankings by programming language stars.' } = Astro.props;
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="description" content={description} />
+    <meta name="viewport" content="width=device-width" />
+    <link rel="icon" type="image/svg+xml" href={withBase('/favicon.svg')} />
+    <title>{title}</title>
+  </head>
+  <body>
+    <header class="site-header">
+      <nav class="nav">
+        <a class="brand" href={withBase('/')}>GitHub Creator Ranking</a>
+        <div class="nav-links">
+          <a href={withBase('/languages/typescript')}>TypeScript</a>
+          <a href={withBase('/countries/china/typescript')}>China</a>
+          <a href={withBase('/methodology')}>Methodology</a>
+        </div>
+      </nav>
+    </header>
+    <main class="main">
+      <slot />
+    </main>
+  </body>
+</html>

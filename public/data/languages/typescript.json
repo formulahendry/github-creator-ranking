@@ -1,0 +1,571 @@
+{
+  "language": {
+    "slug": "typescript",
+    "name": "TypeScript",
+    "githubQuery": "TypeScript"
+  },
+  "scope": "global",
+  "metric": "starsPrimary",
+  "generatedAt": "2026-05-31T13:50:40.799Z",
+  "isPartial": true,
+  "methodology": "Primary metric: public non-fork repositories whose GitHub primary language matches the selected language.",
+  "items": [
+    {
+      "rank": 1,
+      "login": "yangshun",
+      "name": "Yangshun Tay",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1315101?v=4",
+      "htmlUrl": "https://github.com/yangshun",
+      "location": "Singapore",
+      "countryCode": null,
+      "starsPrimary": 139821,
+      "repoCountPrimary": 1,
+      "starsContains": 139821,
+      "repoCountContains": 1,
+      "topRepos": [
+        {
+          "name": "tech-interview-handbook",
+          "fullName": "yangshun/tech-interview-handbook",
+          "stars": 139821,
+          "url": "https://github.com/yangshun/tech-interview-handbook",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "login": "garrytan",
+      "name": "Garry Tan",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/19957?v=4",
+      "htmlUrl": "https://github.com/garrytan",
+      "location": "San Francisco, CA",
+      "countryCode": null,
+      "starsPrimary": 104970,
+      "repoCountPrimary": 1,
+      "starsContains": 104970,
+      "repoCountContains": 1,
+      "topRepos": [
+        {
+          "name": "gstack",
+          "fullName": "garrytan/gstack",
+          "stars": 104970,
+          "url": "https://github.com/garrytan/gstack",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "login": "thedotmack",
+      "name": "Alex Newman",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/683968?v=4",
+      "htmlUrl": "https://github.com/thedotmack",
+      "location": null,
+      "countryCode": null,
+      "starsPrimary": 79841,
+      "repoCountPrimary": 1,
+      "starsContains": 79841,
+      "repoCountContains": 1,
+      "topRepos": [
+        {
+          "name": "claude-mem",
+          "fullName": "thedotmack/claude-mem",
+          "stars": 79841,
+          "url": "https://github.com/thedotmack/claude-mem",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "login": "abi",
+      "name": "Abi Raja",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/23818?v=4",
+      "htmlUrl": "https://github.com/abi",
+      "location": "San Francisco",
+      "countryCode": null,
+      "starsPrimary": 72746,
+      "repoCountPrimary": 1,
+      "starsContains": 72746,
+      "repoCountContains": 1,
+      "topRepos": [
+        {
+          "name": "screenshot-to-code",
+          "fullName": "abi/screenshot-to-code",
+          "stars": 72746,
+          "url": "https://github.com/abi/screenshot-to-code",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "login": "Eugeny",
+      "name": "Eugene",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/161476?v=4",
+      "htmlUrl": "https://github.com/Eugeny",
+      "location": "Düsseldorf, DE",
+      "countryCode": null,
+      "starsPrimary": 71765,
+      "repoCountPrimary": 1,
+      "starsContains": 71765,
+      "repoCountContains": 1,
+      "topRepos": [
+        {
+          "name": "tabby",
+          "fullName": "Eugeny/tabby",
+          "stars": 71765,
+          "url": "https://github.com/Eugeny/tabby",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "login": "Yeachan-Heo",
+      "name": "Bellman",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/54757707?v=4",
+      "htmlUrl": "https://github.com/Yeachan-Heo",
+      "location": "Seoul ",
+      "countryCode": null,
+      "starsPrimary": 65447,
+      "repoCountPrimary": 2,
+      "starsContains": 65447,
+      "repoCountContains": 2,
+      "topRepos": [
+        {
+          "name": "oh-my-claudecode",
+          "fullName": "Yeachan-Heo/oh-my-claudecode",
+          "stars": 35412,
+          "url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "oh-my-codex",
+          "fullName": "Yeachan-Heo/oh-my-codex",
+          "stars": 30035,
+          "url": "https://github.com/Yeachan-Heo/oh-my-codex",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "login": "code-yeongyu",
+      "name": "YeonGyu-Kim",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/11153873?v=4",
+      "htmlUrl": "https://github.com/code-yeongyu",
+      "location": "Seoul",
+      "countryCode": null,
+      "starsPrimary": 60399,
+      "repoCountPrimary": 1,
+      "starsContains": 60399,
+      "repoCountContains": 1,
+      "topRepos": [
+        {
+          "name": "oh-my-openagent",
+          "fullName": "code-yeongyu/oh-my-openagent",
+          "stars": 60399,
+          "url": "https://github.com/code-yeongyu/oh-my-openagent",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "login": "ruvnet",
+      "name": "rUv",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2934394?v=4",
+      "htmlUrl": "https://github.com/ruvnet",
+      "location": "0x",
+      "countryCode": null,
+      "starsPrimary": 56829,
+      "repoCountPrimary": 1,
+      "starsContains": 56829,
+      "repoCountContains": 1,
+      "topRepos": [
+        {
+          "name": "ruflo",
+          "fullName": "ruvnet/ruflo",
+          "stars": 56829,
+          "url": "https://github.com/ruvnet/ruflo",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "login": "koala73",
+      "name": "Elie Habib",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/996596?v=4",
+      "htmlUrl": "https://github.com/koala73",
+      "location": null,
+      "countryCode": null,
+      "starsPrimary": 55132,
+      "repoCountPrimary": 1,
+      "starsContains": 55132,
+      "repoCountContains": 1,
+      "topRepos": [
+        {
+          "name": "worldmonitor",
+          "fullName": "koala73/worldmonitor",
+          "stars": 55132,
+          "url": "https://github.com/koala73/worldmonitor",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "login": "laurent22",
+      "name": "Laurent Cozic",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1285584?v=4",
+      "htmlUrl": "https://github.com/laurent22",
+      "location": "London",
+      "countryCode": null,
+      "starsPrimary": 55042,
+      "repoCountPrimary": 1,
+      "starsContains": 55042,
+      "repoCountContains": 1,
+      "topRepos": [
+        {
+          "name": "joplin",
+          "fullName": "laurent22/joplin",
+          "stars": 55042,
+          "url": "https://github.com/laurent22/joplin",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 11,
+      "login": "lyswhut",
+      "name": null,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/20365169?v=4",
+      "htmlUrl": "https://github.com/lyswhut",
+      "location": null,
+      "countryCode": null,
+      "starsPrimary": 51305,
+      "repoCountPrimary": 1,
+      "starsContains": 51305,
+      "repoCountContains": 1,
+      "topRepos": [
+        {
+          "name": "lx-music-desktop",
+          "fullName": "lyswhut/lx-music-desktop",
+          "stars": 51305,
+          "url": "https://github.com/lyswhut/lx-music-desktop",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 12,
+      "login": "chenglou",
+      "name": null,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1909539?v=4",
+      "htmlUrl": "https://github.com/chenglou",
+      "location": null,
+      "countryCode": null,
+      "starsPrimary": 47990,
+      "repoCountPrimary": 1,
+      "starsContains": 47990,
+      "repoCountContains": 1,
+      "topRepos": [
+        {
+          "name": "pretext",
+          "fullName": "chenglou/pretext",
+          "stars": 47990,
+          "url": "https://github.com/chenglou/pretext",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 13,
+      "login": "Lum1104",
+      "name": null,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/87774050?v=4",
+      "htmlUrl": "https://github.com/Lum1104",
+      "location": null,
+      "countryCode": null,
+      "starsPrimary": 46718,
+      "repoCountPrimary": 1,
+      "starsContains": 46718,
+      "repoCountContains": 1,
+      "topRepos": [
+        {
+          "name": "Understand-Anything",
+          "fullName": "Lum1104/Understand-Anything",
+          "stars": 46718,
+          "url": "https://github.com/Lum1104/Understand-Anything",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 14,
+      "login": "DIYgod",
+      "name": null,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/8266075?v=4",
+      "htmlUrl": "https://github.com/DIYgod",
+      "location": null,
+      "countryCode": null,
+      "starsPrimary": 44390,
+      "repoCountPrimary": 1,
+      "starsContains": 44390,
+      "repoCountContains": 1,
+      "topRepos": [
+        {
+          "name": "RSSHub",
+          "fullName": "DIYgod/RSSHub",
+          "stars": 44390,
+          "url": "https://github.com/DIYgod/RSSHub",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 15,
+      "login": "AykutSarac",
+      "name": null,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/47941171?v=4",
+      "htmlUrl": "https://github.com/AykutSarac",
+      "location": null,
+      "countryCode": null,
+      "starsPrimary": 44062,
+      "repoCountPrimary": 1,
+      "starsContains": 44062,
+      "repoCountContains": 1,
+      "topRepos": [
+        {
+          "name": "jsoncrack.com",
+          "fullName": "AykutSarac/jsoncrack.com",
+          "stars": 44062,
+          "url": "https://github.com/AykutSarac/jsoncrack.com",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 16,
+      "login": "streamich",
+      "name": null,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/9773803?v=4",
+      "htmlUrl": "https://github.com/streamich",
+      "location": null,
+      "countryCode": null,
+      "starsPrimary": 43987,
+      "repoCountPrimary": 1,
+      "starsContains": 43987,
+      "repoCountContains": 1,
+      "topRepos": [
+        {
+          "name": "react-use",
+          "fullName": "streamich/react-use",
+          "stars": 43987,
+          "url": "https://github.com/streamich/react-use",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 17,
+      "login": "colinhacks",
+      "name": null,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/3084745?v=4",
+      "htmlUrl": "https://github.com/colinhacks",
+      "location": null,
+      "countryCode": null,
+      "starsPrimary": 42829,
+      "repoCountPrimary": 1,
+      "starsContains": 42829,
+      "repoCountContains": 1,
+      "topRepos": [
+        {
+          "name": "zod",
+          "fullName": "colinhacks/zod",
+          "stars": 42829,
+          "url": "https://github.com/colinhacks/zod",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 18,
+      "login": "abhigyanpatwari",
+      "name": null,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/126312502?v=4",
+      "htmlUrl": "https://github.com/abhigyanpatwari",
+      "location": null,
+      "countryCode": null,
+      "starsPrimary": 40887,
+      "repoCountPrimary": 1,
+      "starsContains": 40887,
+      "repoCountContains": 1,
+      "topRepos": [
+        {
+          "name": "GitNexus",
+          "fullName": "abhigyanpatwari/GitNexus",
+          "stars": 40887,
+          "url": "https://github.com/abhigyanpatwari/GitNexus",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 19,
+      "login": "mifi",
+      "name": null,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/402547?v=4",
+      "htmlUrl": "https://github.com/mifi",
+      "location": null,
+      "countryCode": null,
+      "starsPrimary": 40807,
+      "repoCountPrimary": 1,
+      "starsContains": 40807,
+      "repoCountContains": 1,
+      "topRepos": [
+        {
+          "name": "lossless-cut",
+          "fullName": "mifi/lossless-cut",
+          "stars": 40807,
+          "url": "https://github.com/mifi/lossless-cut",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 20,
+      "login": "MHSanaei",
+      "name": null,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/33454419?v=4",
+      "htmlUrl": "https://github.com/MHSanaei",
+      "location": null,
+      "countryCode": null,
+      "starsPrimary": 38892,
+      "repoCountPrimary": 1,
+      "starsContains": 38892,
+      "repoCountContains": 1,
+      "topRepos": [
+        {
+          "name": "3x-ui",
+          "fullName": "MHSanaei/3x-ui",
+          "stars": 38892,
+          "url": "https://github.com/MHSanaei/3x-ui",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 21,
+      "login": "vadimdemedes",
+      "name": null,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/697676?v=4",
+      "htmlUrl": "https://github.com/vadimdemedes",
+      "location": null,
+      "countryCode": null,
+      "starsPrimary": 38673,
+      "repoCountPrimary": 1,
+      "starsContains": 38673,
+      "repoCountContains": 1,
+      "topRepos": [
+        {
+          "name": "ink",
+          "fullName": "vadimdemedes/ink",
+          "stars": 38673,
+          "url": "https://github.com/vadimdemedes/ink",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 22,
+      "login": "amruthpillai",
+      "name": null,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1134738?v=4",
+      "htmlUrl": "https://github.com/amruthpillai",
+      "location": null,
+      "countryCode": null,
+      "starsPrimary": 38097,
+      "repoCountPrimary": 1,
+      "starsContains": 38097,
+      "repoCountContains": 1,
+      "topRepos": [
+        {
+          "name": "reactive-resume",
+          "fullName": "amruthpillai/reactive-resume",
+          "stars": 38097,
+          "url": "https://github.com/amruthpillai/reactive-resume",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 23,
+      "login": "siddharthvaddem",
+      "name": null,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/70214527?v=4",
+      "htmlUrl": "https://github.com/siddharthvaddem",
+      "location": null,
+      "countryCode": null,
+      "starsPrimary": 37854,
+      "repoCountPrimary": 1,
+      "starsContains": 37854,
+      "repoCountContains": 1,
+      "topRepos": [
+        {
+          "name": "openscreen",
+          "fullName": "siddharthvaddem/openscreen",
+          "stars": 37854,
+          "url": "https://github.com/siddharthvaddem/openscreen",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 24,
+      "login": "danny-avila",
+      "name": null,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/110412045?v=4",
+      "htmlUrl": "https://github.com/danny-avila",
+      "location": null,
+      "countryCode": null,
+      "starsPrimary": 37721,
+      "repoCountPrimary": 1,
+      "starsContains": 37721,
+      "repoCountContains": 1,
+      "topRepos": [
+        {
+          "name": "LibreChat",
+          "fullName": "danny-avila/LibreChat",
+          "stars": 37721,
+          "url": "https://github.com/danny-avila/LibreChat",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 25,
+      "login": "alan2207",
+      "name": null,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/12713315?v=4",
+      "htmlUrl": "https://github.com/alan2207",
+      "location": null,
+      "countryCode": null,
+      "starsPrimary": 35212,
+      "repoCountPrimary": 1,
+      "starsContains": 35212,
+      "repoCountContains": 1,
+      "topRepos": [
+        {
+          "name": "bulletproof-react",
+          "fullName": "alan2207/bulletproof-react",
+          "stars": 35212,
+          "url": "https://github.com/alan2207/bulletproof-react",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "pubkey",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/8926560?v=4",
+  "htmlUrl": "https://github.com/pubkey",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T13:50:40.799Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 23211,
+      "repoCountPrimary": 1,
+      "starsContains": 23211,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "rxdb",
+          "fullName": "pubkey/rxdb",
+          "stars": 23211,
+          "url": "https://github.com/pubkey/rxdb",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

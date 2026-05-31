@@ -1,0 +1,34 @@
+{
+  "login": "Lum1104",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/87774050?v=4",
+  "htmlUrl": "https://github.com/Lum1104",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T13:50:40.799Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 46718,
+      "repoCountPrimary": 1,
+      "starsContains": 46718,
+      "repoCountContains": 1,
+      "globalRank": 13,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Understand-Anything",
+          "fullName": "Lum1104/Understand-Anything",
+          "stars": 46718,
+          "url": "https://github.com/Lum1104/Understand-Anything",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

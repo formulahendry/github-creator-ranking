@@ -1,0 +1,69 @@
+{
+  "language": {
+    "slug": "typescript",
+    "name": "TypeScript",
+    "githubQuery": "TypeScript"
+  },
+  "scope": "country",
+  "country": {
+    "slug": "china",
+    "name": "China",
+    "code": "CN"
+  },
+  "metric": "starsPrimary",
+  "generatedAt": "2026-05-31T13:50:40.799Z",
+  "isPartial": true,
+  "methodology": "Primary metric filtered to users whose public GitHub profile location normalizes to the selected country.",
+  "items": [
+    {
+      "rank": 1,
+      "login": "formulahendry",
+      "name": "Jun Han",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1050213?v=4",
+      "htmlUrl": "https://github.com/formulahendry",
+      "location": "Shanghai, China",
+      "countryCode": "CN",
+      "starsPrimary": 5932,
+      "repoCountPrimary": 35,
+      "starsContains": 6294,
+      "repoCountContains": 38,
+      "topRepos": [
+        {
+          "name": "vscode-code-runner",
+          "fullName": "formulahendry/vscode-code-runner",
+          "stars": 2406,
+          "url": "https://github.com/formulahendry/vscode-code-runner",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "wechat-acp",
+          "fullName": "formulahendry/wechat-acp",
+          "stars": 656,
+          "url": "https://github.com/formulahendry/wechat-acp",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "mcp-server-spec-driven-development",
+          "fullName": "formulahendry/mcp-server-spec-driven-development",
+          "stars": 430,
+          "url": "https://github.com/formulahendry/mcp-server-spec-driven-development",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "acp-ui",
+          "fullName": "formulahendry/acp-ui",
+          "stars": 309,
+          "url": "https://github.com/formulahendry/acp-ui",
+          "primaryLanguage": "Vue"
+        },
+        {
+          "name": "vscode-ycy",
+          "fullName": "formulahendry/vscode-ycy",
+          "stars": 286,
+          "url": "https://github.com/formulahendry/vscode-ycy",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

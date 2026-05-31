@@ -1,0 +1,57 @@
+---
+import StatCard from '../../components/StatCard.astro';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getUserDataset, listUserLogins } from '../../lib/data';
+import { formatNumber, formatRank } from '../../lib/format';
+
+export function getStaticPaths() {
+  return listUserLogins().map((login) => ({
+    params: { login },
+  }));
+}
+
+const { login } = Astro.params;
+const user = getUserDataset(login);
+const primaryLanguage = user.languages[0];
+---
+
+<BaseLayout title={`${user.name || user.login} - GitHub Creator Ranking`}>
+  <section class="profile-heading">
+    <img src={user.avatarUrl} alt="" />
+    <div>
+      <p class="eyebrow">Creator profile</p>
+      <h1>{user.name || user.login}</h1>
+      <p>
+        <a href={user.htmlUrl} target="_blank" rel="noreferrer">@{user.login}</a>
+        {user.location && <> · {user.location}</>}
+      </p>
+    </div>
+  </section>
+
+  {
+    primaryLanguage && (
+      <>
+        <section class="stats-grid">
+          <StatCard label="Global rank" value={formatRank(primaryLanguage.globalRank)} />
+          <StatCard label="Country rank" value={formatRank(primaryLanguage.countryRank)} />
+          <StatCard label="Primary stars" value={formatNumber(primaryLanguage.starsPrimary)} />
+          <StatCard label="Primary repos" value={formatNumber(primaryLanguage.repoCountPrimary)} />
+        </section>
+
+        <section class="panel">
+          <h2>Top {primaryLanguage.language.name} repositories</h2>
+          <div class="repo-list">
+            {
+              primaryLanguage.topRepos.map((repo) => (
+                <a href={repo.url} target="_blank" rel="noreferrer">
+                  <strong>{repo.fullName}</strong>
+                  <span>{formatNumber(repo.stars)} stars</span>
+                </a>
+              ))
+            }
+          </div>
+        </section>
+      </>
+    )
+  }
+</BaseLayout>

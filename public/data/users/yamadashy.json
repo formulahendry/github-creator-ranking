@@ -1,0 +1,34 @@
+{
+  "login": "yamadashy",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5019072?v=4",
+  "htmlUrl": "https://github.com/yamadashy",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T13:50:40.799Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 25790,
+      "repoCountPrimary": 1,
+      "starsContains": 25790,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "repomix",
+          "fullName": "yamadashy/repomix",
+          "stars": 25790,
+          "url": "https://github.com/yamadashy/repomix",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

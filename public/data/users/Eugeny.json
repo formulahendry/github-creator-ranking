@@ -1,0 +1,34 @@
+{
+  "login": "Eugeny",
+  "name": "Eugene",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/161476?v=4",
+  "htmlUrl": "https://github.com/Eugeny",
+  "location": "Düsseldorf, DE",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T13:50:40.799Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 71765,
+      "repoCountPrimary": 1,
+      "starsContains": 71765,
+      "repoCountContains": 1,
+      "globalRank": 5,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "tabby",
+          "fullName": "Eugeny/tabby",
+          "stars": 71765,
+          "url": "https://github.com/Eugeny/tabby",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

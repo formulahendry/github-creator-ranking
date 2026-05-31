@@ -1,0 +1,34 @@
+{
+  "login": "laurent22",
+  "name": "Laurent Cozic",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1285584?v=4",
+  "htmlUrl": "https://github.com/laurent22",
+  "location": "London",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T13:50:40.799Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 55042,
+      "repoCountPrimary": 1,
+      "starsContains": 55042,
+      "repoCountContains": 1,
+      "globalRank": 10,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "joplin",
+          "fullName": "laurent22/joplin",
+          "stars": 55042,
+          "url": "https://github.com/laurent22/joplin",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

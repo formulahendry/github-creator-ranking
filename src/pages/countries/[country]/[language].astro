@@ -1,0 +1,39 @@
+---
+import RankingTable from '../../../components/RankingTable.astro';
+import StatCard from '../../../components/StatCard.astro';
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import { getCountryRanking, getMeta } from '../../../lib/data';
+import { formatNumber } from '../../../lib/format';
+
+export function getStaticPaths() {
+  const meta = getMeta();
+  return meta.countries.flatMap((country) =>
+    meta.languages.map((language) => ({
+      params: { country: country.slug, language: language.slug },
+    })),
+  );
+}
+
+const { country, language } = Astro.params;
+const ranking = getCountryRanking(country, language);
+---
+
+<BaseLayout title={`${ranking.country?.name} ${ranking.language.name} Creator Ranking`}>
+  <section class="page-heading">
+    <p class="eyebrow">Country ranking</p>
+    <h1>{ranking.country?.name} {ranking.language.name} creators</h1>
+    <p>{ranking.methodology}</p>
+    <p class="notice">Country is inferred from public GitHub profile location text and may be incomplete.</p>
+  </section>
+
+  <section class="stats-grid">
+    <StatCard label="Creators" value={formatNumber(ranking.items.length)} />
+    <StatCard
+      label="Total stars shown"
+      value={formatNumber(ranking.items.reduce((sum, item) => sum + item.starsPrimary, 0))}
+    />
+    <StatCard label="Generated" value={new Date(ranking.generatedAt).toLocaleDateString('en-US')} />
+  </section>
+
+  <RankingTable items={ranking.items} />
+</BaseLayout>

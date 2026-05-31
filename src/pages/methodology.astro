@@ -1,0 +1,43 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout title="Methodology - GitHub Creator Ranking">
+  <section class="page-heading">
+    <p class="eyebrow">Methodology</p>
+    <h1>How rankings are calculated</h1>
+  </section>
+
+  <section class="content">
+    <h2>Default metric</h2>
+    <p>
+      The default ranking metric is the sum of stars from public, non-fork repositories whose primary
+      GitHub language matches the selected language.
+    </p>
+
+    <h2>Contains-language metric</h2>
+    <p>
+      The data also keeps a wider metric for repositories that contain the language in GitHub's
+      language breakdown, even when the primary language is different. This is not the default ranking
+      metric in Phase 1.
+    </p>
+
+    <h2>Users and organizations</h2>
+    <p>
+      Phase 1 ranks personal GitHub users. Organization rankings can be added later with the same
+      aggregation pipeline.
+    </p>
+
+    <h2>Country rankings</h2>
+    <p>
+      Country is inferred from public GitHub profile location text. This is approximate because GitHub
+      location is free-form, optional, and not verified.
+    </p>
+
+    <h2>Data source</h2>
+    <p>
+      Data is collected from the GitHub public API and generated into static JSON files during the
+      scheduled build.
+    </p>
+  </section>
+</BaseLayout>

@@ -1,0 +1,34 @@
+{
+  "login": "AykutSarac",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/47941171?v=4",
+  "htmlUrl": "https://github.com/AykutSarac",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T13:50:40.799Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 44062,
+      "repoCountPrimary": 1,
+      "starsContains": 44062,
+      "repoCountContains": 1,
+      "globalRank": 15,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "jsoncrack.com",
+          "fullName": "AykutSarac/jsoncrack.com",
+          "stars": 44062,
+          "url": "https://github.com/AykutSarac/jsoncrack.com",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}
