@@ -23,14 +23,14 @@ jobs:
       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       SITE: https://formulahendry.github.io
       BASE_PATH: /github-creator-ranking
-      DISCOVER_RANKINGS: 'true'
+      DISCOVER_RANKINGS: ${{ vars.DISCOVER_RANKINGS || 'false' }}
       LANGUAGES: TypeScript
       TARGET_USERS: formulahendry
       MIN_STARS: '100'
       MAX_STARS: '250000'
-      SEARCH_PAGES: '10'
-      SEARCH_BUCKET_LIMIT: '50'
-      OWNER_PROFILE_LIMIT: '1000'
+      SEARCH_PAGES: ${{ vars.SEARCH_PAGES || '1' }}
+      SEARCH_BUCKET_LIMIT: ${{ vars.SEARCH_BUCKET_LIMIT || '4' }}
+      OWNER_PROFILE_LIMIT: ${{ vars.OWNER_PROFILE_LIMIT || '50' }}
       GLOBAL_LIMIT: '500'
       COUNTRY_LIMIT: '200'
     steps:

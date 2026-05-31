@@ -44,4 +44,6 @@ COUNTRY_LIMIT=200
 
 The crawler splits GitHub Search by star buckets when a query exceeds GitHub's 1,000-result search cap. API responses are cached in `.cache/github-api/`, so interrupted runs can resume without re-fetching completed requests. Set `DISABLE_GITHUB_CACHE=true` to bypass the cache.
 
+GitHub Actions disables discovery by default to keep Pages deployments reliable with the built-in `GITHUB_TOKEN` Search API limits. Set repository variables such as `DISCOVER_RANKINGS=true`, `SEARCH_BUCKET_LIMIT`, and `SEARCH_PAGES` when you want scheduled deployments to run broader discovery.
+
 The country ranking uses public GitHub profile `location` text and is therefore approximate.
