@@ -1,0 +1,34 @@
+{
+  "login": "Chilfish",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/60336739?v=4",
+  "htmlUrl": "https://github.com/Chilfish",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 473,
+      "repoCountPrimary": 1,
+      "starsContains": 473,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Weibo-archiver",
+          "fullName": "Chilfish/Weibo-archiver",
+          "stars": 473,
+          "url": "https://github.com/Chilfish/Weibo-archiver",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

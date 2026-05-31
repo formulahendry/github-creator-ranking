@@ -1,0 +1,48 @@
+{
+  "login": "gund",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3644678?v=4",
+  "htmlUrl": "https://github.com/gund",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 997,
+      "repoCountPrimary": 3,
+      "starsContains": 997,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ng-dynamic-component",
+          "fullName": "gund/ng-dynamic-component",
+          "stars": 563,
+          "url": "https://github.com/gund/ng-dynamic-component",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "eslint-plugin-deprecation",
+          "fullName": "gund/eslint-plugin-deprecation",
+          "stars": 330,
+          "url": "https://github.com/gund/eslint-plugin-deprecation",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ng-http-interceptor",
+          "fullName": "gund/ng-http-interceptor",
+          "stars": 104,
+          "url": "https://github.com/gund/ng-http-interceptor",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

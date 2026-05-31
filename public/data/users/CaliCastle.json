@@ -1,0 +1,41 @@
+{
+  "login": "CaliCastle",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/10830749?v=4",
+  "htmlUrl": "https://github.com/CaliCastle",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2067,
+      "repoCountPrimary": 2,
+      "starsContains": 2067,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "cali.so",
+          "fullName": "CaliCastle/cali.so",
+          "stars": 1944,
+          "url": "https://github.com/CaliCastle/cali.so",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "cali-fm",
+          "fullName": "CaliCastle/cali-fm",
+          "stars": 123,
+          "url": "https://github.com/CaliCastle/cali-fm",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

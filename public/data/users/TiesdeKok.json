@@ -1,0 +1,34 @@
+{
+  "login": "TiesdeKok",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/13317782?v=4",
+  "htmlUrl": "https://github.com/TiesdeKok",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 308,
+      "repoCountPrimary": 1,
+      "starsContains": 308,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "chat-gpt-jupyter-extension",
+          "fullName": "TiesdeKok/chat-gpt-jupyter-extension",
+          "stars": 308,
+          "url": "https://github.com/TiesdeKok/chat-gpt-jupyter-extension",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "teijo",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/977817?v=4",
+  "htmlUrl": "https://github.com/teijo",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 499,
+      "repoCountPrimary": 1,
+      "starsContains": 499,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "jquery-bracket",
+          "fullName": "teijo/jquery-bracket",
+          "stars": 499,
+          "url": "https://github.com/teijo/jquery-bracket",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

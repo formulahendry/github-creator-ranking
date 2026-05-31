@@ -1,0 +1,34 @@
+{
+  "login": "spencerc99",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/14796580?v=4",
+  "htmlUrl": "https://github.com/spencerc99",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 351,
+      "repoCountPrimary": 1,
+      "starsContains": 351,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "playhtml",
+          "fullName": "spencerc99/playhtml",
+          "stars": 351,
+          "url": "https://github.com/spencerc99/playhtml",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

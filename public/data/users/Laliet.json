@@ -1,0 +1,34 @@
+{
+  "login": "Laliet",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/193228909?v=4",
+  "htmlUrl": "https://github.com/Laliet",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 358,
+      "repoCountPrimary": 1,
+      "starsContains": 358,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "cc-switch-web",
+          "fullName": "Laliet/cc-switch-web",
+          "stars": 358,
+          "url": "https://github.com/Laliet/cc-switch-web",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

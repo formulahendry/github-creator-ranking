@@ -1,0 +1,41 @@
+{
+  "login": "franciscop",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2801252?v=4",
+  "htmlUrl": "https://github.com/franciscop",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2637,
+      "repoCountPrimary": 2,
+      "starsContains": 2637,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "brownies",
+          "fullName": "franciscop/brownies",
+          "stars": 2508,
+          "url": "https://github.com/franciscop/brownies",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-text",
+          "fullName": "franciscop/react-text",
+          "stars": 129,
+          "url": "https://github.com/franciscop/react-text",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

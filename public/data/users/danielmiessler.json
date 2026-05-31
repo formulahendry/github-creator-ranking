@@ -1,0 +1,55 @@
+{
+  "login": "danielmiessler",
+  "name": "Daniel Miessler 🛡️",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/50654?v=4",
+  "htmlUrl": "https://github.com/danielmiessler",
+  "location": "San Francisco Bay Area",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 15820,
+      "repoCountPrimary": 4,
+      "starsContains": 15820,
+      "repoCountContains": 4,
+      "globalRank": 121,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Personal_AI_Infrastructure",
+          "fullName": "danielmiessler/Personal_AI_Infrastructure",
+          "stars": 14544,
+          "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Substrate",
+          "fullName": "danielmiessler/Substrate",
+          "stars": 834,
+          "url": "https://github.com/danielmiessler/Substrate",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Ladder",
+          "fullName": "danielmiessler/Ladder",
+          "stars": 227,
+          "url": "https://github.com/danielmiessler/Ladder",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Daemon",
+          "fullName": "danielmiessler/Daemon",
+          "stars": 215,
+          "url": "https://github.com/danielmiessler/Daemon",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

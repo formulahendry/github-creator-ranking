@@ -1,0 +1,41 @@
+{
+  "login": "2234839",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/28727933?v=4",
+  "htmlUrl": "https://github.com/2234839",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 421,
+      "repoCountPrimary": 2,
+      "starsContains": 421,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "web-font",
+          "fullName": "2234839/web-font",
+          "stars": 287,
+          "url": "https://github.com/2234839/web-font",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "TsFullStack",
+          "fullName": "2234839/TsFullStack",
+          "stars": 134,
+          "url": "https://github.com/2234839/TsFullStack",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

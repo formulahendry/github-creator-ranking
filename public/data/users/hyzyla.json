@@ -1,0 +1,41 @@
+{
+  "login": "hyzyla",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7952949?v=4",
+  "htmlUrl": "https://github.com/hyzyla",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 282,
+      "repoCountPrimary": 2,
+      "starsContains": 282,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "pdfium",
+          "fullName": "hyzyla/pdfium",
+          "stars": 179,
+          "url": "https://github.com/hyzyla/pdfium",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "pdf-debugger",
+          "fullName": "hyzyla/pdf-debugger",
+          "stars": 103,
+          "url": "https://github.com/hyzyla/pdf-debugger",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

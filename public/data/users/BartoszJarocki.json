@@ -1,0 +1,41 @@
+{
+  "login": "BartoszJarocki",
+  "name": "Bartosz Jarocki",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1017620?v=4",
+  "htmlUrl": "https://github.com/BartoszJarocki",
+  "location": "Wrocław, Poland",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 9981,
+      "repoCountPrimary": 2,
+      "starsContains": 9981,
+      "repoCountContains": 2,
+      "globalRank": 222,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "cv",
+          "fullName": "BartoszJarocki/cv",
+          "stars": 9657,
+          "url": "https://github.com/BartoszJarocki/cv",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "jarocki.me",
+          "fullName": "BartoszJarocki/jarocki.me",
+          "stars": 324,
+          "url": "https://github.com/BartoszJarocki/jarocki.me",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

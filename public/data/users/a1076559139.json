@@ -1,0 +1,34 @@
+{
+  "login": "a1076559139",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/8677640?v=4",
+  "htmlUrl": "https://github.com/a1076559139",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 236,
+      "repoCountPrimary": 1,
+      "starsContains": 236,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "XForge",
+          "fullName": "a1076559139/XForge",
+          "stars": 236,
+          "url": "https://github.com/a1076559139/XForge",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

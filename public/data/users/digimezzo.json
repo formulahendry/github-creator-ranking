@@ -1,0 +1,41 @@
+{
+  "login": "digimezzo",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/11945339?v=4",
+  "htmlUrl": "https://github.com/digimezzo",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2520,
+      "repoCountPrimary": 2,
+      "starsContains": 2520,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "dopamine",
+          "fullName": "digimezzo/dopamine",
+          "stars": 2199,
+          "url": "https://github.com/digimezzo/dopamine",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "knowte",
+          "fullName": "digimezzo/knowte",
+          "stars": 321,
+          "url": "https://github.com/digimezzo/knowte",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

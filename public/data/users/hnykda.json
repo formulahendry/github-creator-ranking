@@ -1,0 +1,34 @@
+{
+  "login": "hnykda",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2741256?v=4",
+  "htmlUrl": "https://github.com/hnykda",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 198,
+      "repoCountPrimary": 1,
+      "starsContains": 198,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "wifi-heatmapper",
+          "fullName": "hnykda/wifi-heatmapper",
+          "stars": 198,
+          "url": "https://github.com/hnykda/wifi-heatmapper",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

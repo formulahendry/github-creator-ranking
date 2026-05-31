@@ -1,0 +1,41 @@
+{
+  "login": "kriziu",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/39315916?v=4",
+  "htmlUrl": "https://github.com/kriziu",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 285,
+      "repoCountPrimary": 2,
+      "starsContains": 285,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "collabio",
+          "fullName": "kriziu/collabio",
+          "stars": 144,
+          "url": "https://github.com/kriziu/collabio",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "shoes-ecommerce",
+          "fullName": "kriziu/shoes-ecommerce",
+          "stars": 141,
+          "url": "https://github.com/kriziu/shoes-ecommerce",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

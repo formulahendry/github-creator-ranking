@@ -1,0 +1,41 @@
+{
+  "login": "ardeora",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/45807386?v=4",
+  "htmlUrl": "https://github.com/ardeora",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1019,
+      "repoCountPrimary": 2,
+      "starsContains": 1019,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "solid-toast",
+          "fullName": "ardeora/solid-toast",
+          "stars": 918,
+          "url": "https://github.com/ardeora/solid-toast",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "astro-tanstack-lwj",
+          "fullName": "ardeora/astro-tanstack-lwj",
+          "stars": 101,
+          "url": "https://github.com/ardeora/astro-tanstack-lwj",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "Sheherezadhe",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/102605523?v=4",
+  "htmlUrl": "https://github.com/Sheherezadhe",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 121,
+      "repoCountPrimary": 1,
+      "starsContains": 121,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "awair-uploader",
+          "fullName": "Sheherezadhe/awair-uploader",
+          "stars": 121,
+          "url": "https://github.com/Sheherezadhe/awair-uploader",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

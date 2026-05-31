@@ -1,0 +1,34 @@
+{
+  "login": "dilanx",
+  "name": "Dilan Nair",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/16329935?v=4",
+  "htmlUrl": "https://github.com/dilanx",
+  "location": "Iowa, United States",
+  "countryCode": "US",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 7430,
+      "repoCountPrimary": 1,
+      "starsContains": 7430,
+      "repoCountContains": 1,
+      "globalRank": 304,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "craco",
+          "fullName": "dilanx/craco",
+          "stars": 7430,
+          "url": "https://github.com/dilanx/craco",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

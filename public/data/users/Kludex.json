@@ -1,0 +1,34 @@
+{
+  "login": "Kludex",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7353520?v=4",
+  "htmlUrl": "https://github.com/Kludex",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1603,
+      "repoCountPrimary": 1,
+      "starsContains": 1603,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "awesome-fastapi-projects",
+          "fullName": "Kludex/awesome-fastapi-projects",
+          "stars": 1603,
+          "url": "https://github.com/Kludex/awesome-fastapi-projects",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

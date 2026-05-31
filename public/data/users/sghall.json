@@ -1,0 +1,41 @@
+{
+  "login": "sghall",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/4615775?v=4",
+  "htmlUrl": "https://github.com/sghall",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1856,
+      "repoCountPrimary": 2,
+      "starsContains": 1856,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-vertex",
+          "fullName": "sghall/react-vertex",
+          "stars": 1236,
+          "url": "https://github.com/sghall/react-vertex",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-compound-slider",
+          "fullName": "sghall/react-compound-slider",
+          "stars": 620,
+          "url": "https://github.com/sghall/react-compound-slider",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

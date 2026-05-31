@@ -1,0 +1,48 @@
+{
+  "login": "mike-lischke",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2398704?v=4",
+  "htmlUrl": "https://github.com/mike-lischke",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1075,
+      "repoCountPrimary": 3,
+      "starsContains": 1075,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vscode-antlr4",
+          "fullName": "mike-lischke/vscode-antlr4",
+          "stars": 471,
+          "url": "https://github.com/mike-lischke/vscode-antlr4",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "antlr4-c3",
+          "fullName": "mike-lischke/antlr4-c3",
+          "stars": 469,
+          "url": "https://github.com/mike-lischke/antlr4-c3",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "antlr4ng",
+          "fullName": "mike-lischke/antlr4ng",
+          "stars": 135,
+          "url": "https://github.com/mike-lischke/antlr4ng",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

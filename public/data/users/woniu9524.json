@@ -1,0 +1,55 @@
+{
+  "login": "woniu9524",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/55396173?v=4",
+  "htmlUrl": "https://github.com/woniu9524",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1598,
+      "repoCountPrimary": 4,
+      "starsContains": 1598,
+      "repoCountContains": 4,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "CodeAsk",
+          "fullName": "woniu9524/CodeAsk",
+          "stars": 909,
+          "url": "https://github.com/woniu9524/CodeAsk",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "couple-flying-chess",
+          "fullName": "woniu9524/couple-flying-chess",
+          "stars": 372,
+          "url": "https://github.com/woniu9524/couple-flying-chess",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ParallelChat",
+          "fullName": "woniu9524/ParallelChat",
+          "stars": 188,
+          "url": "https://github.com/woniu9524/ParallelChat",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "love-ludo",
+          "fullName": "woniu9524/love-ludo",
+          "stars": 129,
+          "url": "https://github.com/woniu9524/love-ludo",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

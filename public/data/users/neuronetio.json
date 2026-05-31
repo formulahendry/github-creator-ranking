@@ -1,0 +1,34 @@
+{
+  "login": "neuronetio",
+  "name": "neuronet",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/25027696?v=4",
+  "htmlUrl": "https://github.com/neuronetio",
+  "location": "Poland, Kalisz",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3587,
+      "repoCountPrimary": 1,
+      "starsContains": 3587,
+      "repoCountContains": 1,
+      "globalRank": 745,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "gantt-schedule-timeline-calendar",
+          "fullName": "neuronetio/gantt-schedule-timeline-calendar",
+          "stars": 3587,
+          "url": "https://github.com/neuronetio/gantt-schedule-timeline-calendar",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

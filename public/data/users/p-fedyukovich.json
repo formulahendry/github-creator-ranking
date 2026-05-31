@@ -1,0 +1,34 @@
+{
+  "login": "p-fedyukovich",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/10584823?v=4",
+  "htmlUrl": "https://github.com/p-fedyukovich",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 103,
+      "repoCountPrimary": 1,
+      "starsContains": 103,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "nestjs-google-pubsub-microservice",
+          "fullName": "p-fedyukovich/nestjs-google-pubsub-microservice",
+          "stars": 103,
+          "url": "https://github.com/p-fedyukovich/nestjs-google-pubsub-microservice",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

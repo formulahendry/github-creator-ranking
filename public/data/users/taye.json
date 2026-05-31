@@ -1,0 +1,34 @@
+{
+  "login": "taye",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1679746?v=4",
+  "htmlUrl": "https://github.com/taye",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 12909,
+      "repoCountPrimary": 1,
+      "starsContains": 12909,
+      "repoCountContains": 1,
+      "globalRank": 160,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "interact.js",
+          "fullName": "taye/interact.js",
+          "stars": 12909,
+          "url": "https://github.com/taye/interact.js",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

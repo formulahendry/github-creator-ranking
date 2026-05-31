@@ -1,0 +1,34 @@
+{
+  "login": "jacomyal",
+  "name": "Alexis Jacomy",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/144846?v=4",
+  "htmlUrl": "https://github.com/jacomyal",
+  "location": "Nantes, France",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 12048,
+      "repoCountPrimary": 1,
+      "starsContains": 12048,
+      "repoCountContains": 1,
+      "globalRank": 171,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "sigma.js",
+          "fullName": "jacomyal/sigma.js",
+          "stars": 12048,
+          "url": "https://github.com/jacomyal/sigma.js",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

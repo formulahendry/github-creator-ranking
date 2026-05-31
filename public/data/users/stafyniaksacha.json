@@ -1,0 +1,34 @@
+{
+  "login": "stafyniaksacha",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3911343?v=4",
+  "htmlUrl": "https://github.com/stafyniaksacha",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 171,
+      "repoCountPrimary": 1,
+      "starsContains": 171,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vite-plugin-radar",
+          "fullName": "stafyniaksacha/vite-plugin-radar",
+          "stars": 171,
+          "url": "https://github.com/stafyniaksacha/vite-plugin-radar",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

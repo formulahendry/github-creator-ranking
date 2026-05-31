@@ -1,0 +1,34 @@
+{
+  "login": "sunniejs",
+  "name": "sunnie",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/35954879?v=4",
+  "htmlUrl": "https://github.com/sunniejs",
+  "location": "Shanghai, China",
+  "countryCode": "CN",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3475,
+      "repoCountPrimary": 1,
+      "starsContains": 3475,
+      "repoCountContains": 1,
+      "globalRank": 775,
+      "countryRank": 89,
+      "topRepos": [
+        {
+          "name": "vue-h5-template",
+          "fullName": "sunniejs/vue-h5-template",
+          "stars": 3475,
+          "url": "https://github.com/sunniejs/vue-h5-template",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "dtinth",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/193136?v=4",
+  "htmlUrl": "https://github.com/dtinth",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 382,
+      "repoCountPrimary": 2,
+      "starsContains": 382,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "todo-actions",
+          "fullName": "dtinth/todo-actions",
+          "stars": 219,
+          "url": "https://github.com/dtinth/todo-actions",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "setup-github-actions-caching-for-turbo",
+          "fullName": "dtinth/setup-github-actions-caching-for-turbo",
+          "stars": 163,
+          "url": "https://github.com/dtinth/setup-github-actions-caching-for-turbo",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "josStorer",
+  "name": "josc146",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/13366013?v=4",
+  "htmlUrl": "https://github.com/josStorer",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 6650,
+      "repoCountPrimary": 2,
+      "starsContains": 6650,
+      "repoCountContains": 2,
+      "globalRank": 351,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "RWKV-Runner",
+          "fullName": "josStorer/RWKV-Runner",
+          "stars": 6371,
+          "url": "https://github.com/josStorer/RWKV-Runner",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "genshin-ts",
+          "fullName": "josStorer/genshin-ts",
+          "stars": 279,
+          "url": "https://github.com/josStorer/genshin-ts",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

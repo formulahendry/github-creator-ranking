@@ -1,0 +1,34 @@
+{
+  "login": "al1abb",
+  "name": "Ali Abbasov",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/60220042?v=4",
+  "htmlUrl": "https://github.com/al1abb",
+  "location": "Azerbaijan",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 6302,
+      "repoCountPrimary": 1,
+      "starsContains": 6302,
+      "repoCountContains": 1,
+      "globalRank": 373,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "invoify",
+          "fullName": "al1abb/invoify",
+          "stars": 6302,
+          "url": "https://github.com/al1abb/invoify",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

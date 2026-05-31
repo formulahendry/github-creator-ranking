@@ -1,0 +1,34 @@
+{
+  "login": "lepikhinb",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/17538801?v=4",
+  "htmlUrl": "https://github.com/lepikhinb",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 115,
+      "repoCountPrimary": 1,
+      "starsContains": 115,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "momentum-paginator",
+          "fullName": "lepikhinb/momentum-paginator",
+          "stars": 115,
+          "url": "https://github.com/lepikhinb/momentum-paginator",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

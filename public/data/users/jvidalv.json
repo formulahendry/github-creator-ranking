@@ -1,0 +1,41 @@
+{
+  "login": "jvidalv",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/27777508?v=4",
+  "htmlUrl": "https://github.com/jvidalv",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 459,
+      "repoCountPrimary": 2,
+      "starsContains": 459,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vital",
+          "fullName": "jvidalv/vital",
+          "stars": 292,
+          "url": "https://github.com/jvidalv/vital",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "nextal",
+          "fullName": "jvidalv/nextal",
+          "stars": 167,
+          "url": "https://github.com/jvidalv/nextal",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

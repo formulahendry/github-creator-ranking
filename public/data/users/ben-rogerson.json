@@ -1,0 +1,41 @@
+{
+  "login": "ben-rogerson",
+  "name": "Ben Rogerson",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/21288568?v=4",
+  "htmlUrl": "https://github.com/ben-rogerson",
+  "location": "Australia",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 8494,
+      "repoCountPrimary": 2,
+      "starsContains": 8494,
+      "repoCountContains": 2,
+      "globalRank": 265,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "twin.macro",
+          "fullName": "ben-rogerson/twin.macro",
+          "stars": 8029,
+          "url": "https://github.com/ben-rogerson/twin.macro",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "twin.examples",
+          "fullName": "ben-rogerson/twin.examples",
+          "stars": 465,
+          "url": "https://github.com/ben-rogerson/twin.examples",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

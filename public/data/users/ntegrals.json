@@ -1,0 +1,48 @@
+{
+  "login": "ntegrals",
+  "name": "Julian Schoen",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/26648900?v=4",
+  "htmlUrl": "https://github.com/ntegrals",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 11206,
+      "repoCountPrimary": 3,
+      "starsContains": 11206,
+      "repoCountContains": 3,
+      "globalRank": 183,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "openbrowser",
+          "fullName": "ntegrals/openbrowser",
+          "stars": 9463,
+          "url": "https://github.com/ntegrals/openbrowser",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "10x",
+          "fullName": "ntegrals/10x",
+          "stars": 1352,
+          "url": "https://github.com/ntegrals/10x",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "december",
+          "fullName": "ntegrals/december",
+          "stars": 391,
+          "url": "https://github.com/ntegrals/december",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

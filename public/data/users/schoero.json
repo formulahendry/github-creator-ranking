@@ -1,0 +1,41 @@
+{
+  "login": "schoero",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/42278642?v=4",
+  "htmlUrl": "https://github.com/schoero",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1022,
+      "repoCountPrimary": 2,
+      "starsContains": 1022,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "eslint-plugin-better-tailwindcss",
+          "fullName": "schoero/eslint-plugin-better-tailwindcss",
+          "stars": 787,
+          "url": "https://github.com/schoero/eslint-plugin-better-tailwindcss",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "swissqrbill",
+          "fullName": "schoero/swissqrbill",
+          "stars": 235,
+          "url": "https://github.com/schoero/swissqrbill",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

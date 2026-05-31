@@ -1,0 +1,41 @@
+{
+  "login": "benvinegar",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2153?v=4",
+  "htmlUrl": "https://github.com/benvinegar",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2215,
+      "repoCountPrimary": 2,
+      "starsContains": 2215,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "counterscale",
+          "fullName": "benvinegar/counterscale",
+          "stars": 2054,
+          "url": "https://github.com/benvinegar/counterscale",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "termdraw",
+          "fullName": "benvinegar/termdraw",
+          "stars": 161,
+          "url": "https://github.com/benvinegar/termdraw",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

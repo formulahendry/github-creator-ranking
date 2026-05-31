@@ -1,0 +1,34 @@
+{
+  "login": "chain00x",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/90015694?v=4",
+  "htmlUrl": "https://github.com/chain00x",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 257,
+      "repoCountPrimary": 1,
+      "starsContains": 257,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "WMPFDebugger-arm",
+          "fullName": "chain00x/WMPFDebugger-arm",
+          "stars": 257,
+          "url": "https://github.com/chain00x/WMPFDebugger-arm",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "CameronFoxly",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/19292210?v=4",
+  "htmlUrl": "https://github.com/CameronFoxly",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 780,
+      "repoCountPrimary": 1,
+      "starsContains": 780,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Ascii-Motion",
+          "fullName": "CameronFoxly/Ascii-Motion",
+          "stars": 780,
+          "url": "https://github.com/CameronFoxly/Ascii-Motion",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

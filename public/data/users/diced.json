@@ -1,0 +1,34 @@
+{
+  "login": "diced",
+  "name": "dicedtomato",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/35403473?v=4",
+  "htmlUrl": "https://github.com/diced",
+  "location": "Seattle, WA",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3191,
+      "repoCountPrimary": 1,
+      "starsContains": 3191,
+      "repoCountContains": 1,
+      "globalRank": 840,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "zipline",
+          "fullName": "diced/zipline",
+          "stars": 3191,
+          "url": "https://github.com/diced/zipline",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

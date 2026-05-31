@@ -1,0 +1,34 @@
+{
+  "login": "TeXmeijin",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7464929?v=4",
+  "htmlUrl": "https://github.com/TeXmeijin",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 307,
+      "repoCountPrimary": 1,
+      "starsContains": 307,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vite-react-ts-tailwind-firebase-starter",
+          "fullName": "TeXmeijin/vite-react-ts-tailwind-firebase-starter",
+          "stars": 307,
+          "url": "https://github.com/TeXmeijin/vite-react-ts-tailwind-firebase-starter",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

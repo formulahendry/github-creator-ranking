@@ -1,0 +1,34 @@
+{
+  "login": "ar-nelson",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2817092?v=4",
+  "htmlUrl": "https://github.com/ar-nelson",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 437,
+      "repoCountPrimary": 1,
+      "starsContains": 437,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "spartan-schema",
+          "fullName": "ar-nelson/spartan-schema",
+          "stars": 437,
+          "url": "https://github.com/ar-nelson/spartan-schema",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "login": "lklima",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/44346970?v=4",
+  "htmlUrl": "https://github.com/lklima",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1253,
+      "repoCountPrimary": 5,
+      "starsContains": 1253,
+      "repoCountContains": 5,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "rive-animated-app",
+          "fullName": "lklima/rive-animated-app",
+          "stars": 359,
+          "url": "https://github.com/lklima/rive-animated-app",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "rn-parallax-cards",
+          "fullName": "lklima/rn-parallax-cards",
+          "stars": 358,
+          "url": "https://github.com/lklima/rn-parallax-cards",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "rn-flight-animation",
+          "fullName": "lklima/rn-flight-animation",
+          "stars": 261,
+          "url": "https://github.com/lklima/rn-flight-animation",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "motion-pizza",
+          "fullName": "lklima/motion-pizza",
+          "stars": 162,
+          "url": "https://github.com/lklima/motion-pizza",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "rn-transitions",
+          "fullName": "lklima/rn-transitions",
+          "stars": 113,
+          "url": "https://github.com/lklima/rn-transitions",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

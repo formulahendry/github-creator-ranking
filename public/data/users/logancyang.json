@@ -1,0 +1,34 @@
+{
+  "login": "logancyang",
+  "name": "Logan Yang",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/4860545?v=4",
+  "htmlUrl": "https://github.com/logancyang",
+  "location": "Seattle",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 7122,
+      "repoCountPrimary": 1,
+      "starsContains": 7122,
+      "repoCountContains": 1,
+      "globalRank": 324,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "obsidian-copilot",
+          "fullName": "logancyang/obsidian-copilot",
+          "stars": 7122,
+          "url": "https://github.com/logancyang/obsidian-copilot",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

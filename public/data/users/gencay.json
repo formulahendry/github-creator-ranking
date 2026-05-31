@@ -1,0 +1,34 @@
+{
+  "login": "gencay",
+  "name": "Ali Gençay",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1168485?v=4",
+  "htmlUrl": "https://github.com/gencay",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3457,
+      "repoCountPrimary": 1,
+      "starsContains": 3457,
+      "repoCountContains": 1,
+      "globalRank": 780,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vscode-chatgpt",
+          "fullName": "gencay/vscode-chatgpt",
+          "stars": 3457,
+          "url": "https://github.com/gencay/vscode-chatgpt",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

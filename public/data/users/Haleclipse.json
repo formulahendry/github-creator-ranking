@@ -1,0 +1,41 @@
+{
+  "login": "Haleclipse",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/15519695?v=4",
+  "htmlUrl": "https://github.com/Haleclipse",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 347,
+      "repoCountPrimary": 2,
+      "starsContains": 347,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Cometix-Tab",
+          "fullName": "Haleclipse/Cometix-Tab",
+          "stars": 186,
+          "url": "https://github.com/Haleclipse/Cometix-Tab",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Claudiatron",
+          "fullName": "Haleclipse/Claudiatron",
+          "stars": 161,
+          "url": "https://github.com/Haleclipse/Claudiatron",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

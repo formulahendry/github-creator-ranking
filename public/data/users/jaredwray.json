@@ -1,0 +1,41 @@
+{
+  "login": "jaredwray",
+  "name": "Jared Wray",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1205481?v=4",
+  "htmlUrl": "https://github.com/jaredwray",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 5119,
+      "repoCountPrimary": 2,
+      "starsContains": 5119,
+      "repoCountContains": 2,
+      "globalRank": 489,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "keyv",
+          "fullName": "jaredwray/keyv",
+          "stars": 3139,
+          "url": "https://github.com/jaredwray/keyv",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "cacheable",
+          "fullName": "jaredwray/cacheable",
+          "stars": 1980,
+          "url": "https://github.com/jaredwray/cacheable",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

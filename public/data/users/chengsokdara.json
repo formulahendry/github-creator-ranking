@@ -1,0 +1,34 @@
+{
+  "login": "chengsokdara",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2707253?v=4",
+  "htmlUrl": "https://github.com/chengsokdara",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 786,
+      "repoCountPrimary": 1,
+      "starsContains": 786,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "use-whisper",
+          "fullName": "chengsokdara/use-whisper",
+          "stars": 786,
+          "url": "https://github.com/chengsokdara/use-whisper",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

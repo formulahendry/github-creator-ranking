@@ -1,0 +1,34 @@
+{
+  "login": "farux",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/33874906?v=4",
+  "htmlUrl": "https://github.com/farux",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 415,
+      "repoCountPrimary": 1,
+      "starsContains": 415,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "obsidian-auto-note-mover",
+          "fullName": "farux/obsidian-auto-note-mover",
+          "stars": 415,
+          "url": "https://github.com/farux/obsidian-auto-note-mover",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

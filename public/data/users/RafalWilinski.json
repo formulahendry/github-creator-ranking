@@ -1,0 +1,55 @@
+{
+  "login": "RafalWilinski",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3391616?v=4",
+  "htmlUrl": "https://github.com/RafalWilinski",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2422,
+      "repoCountPrimary": 4,
+      "starsContains": 2422,
+      "repoCountContains": 4,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "telegram-chatgpt-concierge-bot",
+          "fullName": "RafalWilinski/telegram-chatgpt-concierge-bot",
+          "stars": 1131,
+          "url": "https://github.com/RafalWilinski/telegram-chatgpt-concierge-bot",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "cloudflare-rag",
+          "fullName": "RafalWilinski/cloudflare-rag",
+          "stars": 602,
+          "url": "https://github.com/RafalWilinski/cloudflare-rag",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "mcp-apple-notes",
+          "fullName": "RafalWilinski/mcp-apple-notes",
+          "stars": 393,
+          "url": "https://github.com/RafalWilinski/mcp-apple-notes",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "aws-mcp",
+          "fullName": "RafalWilinski/aws-mcp",
+          "stars": 296,
+          "url": "https://github.com/RafalWilinski/aws-mcp",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

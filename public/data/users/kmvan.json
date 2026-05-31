@@ -1,0 +1,34 @@
+{
+  "login": "kmvan",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3839554?v=4",
+  "htmlUrl": "https://github.com/kmvan",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1397,
+      "repoCountPrimary": 1,
+      "starsContains": 1397,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "x-prober",
+          "fullName": "kmvan/x-prober",
+          "stars": 1397,
+          "url": "https://github.com/kmvan/x-prober",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

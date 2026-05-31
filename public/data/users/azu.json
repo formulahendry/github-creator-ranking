@@ -1,0 +1,62 @@
+{
+  "login": "azu",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/19714?v=4",
+  "htmlUrl": "https://github.com/azu",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 784,
+      "repoCountPrimary": 5,
+      "starsContains": 784,
+      "repoCountContains": 5,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "kvs",
+          "fullName": "azu/kvs",
+          "stars": 190,
+          "url": "https://github.com/azu/kvs",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "monorepo-utils",
+          "fullName": "azu/monorepo-utils",
+          "stars": 181,
+          "url": "https://github.com/azu/monorepo-utils",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "book-review",
+          "fullName": "azu/book-review",
+          "stars": 145,
+          "url": "https://github.com/azu/book-review",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "irodr",
+          "fullName": "azu/irodr",
+          "stars": 139,
+          "url": "https://github.com/azu/irodr",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "har-extractor",
+          "fullName": "azu/har-extractor",
+          "stars": 129,
+          "url": "https://github.com/azu/har-extractor",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

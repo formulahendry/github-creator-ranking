@@ -1,0 +1,55 @@
+{
+  "login": "kawamataryo",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/11070996?v=4",
+  "htmlUrl": "https://github.com/kawamataryo",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1681,
+      "repoCountPrimary": 4,
+      "starsContains": 1681,
+      "repoCountContains": 4,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "sky-follower-bridge",
+          "fullName": "kawamataryo/sky-follower-bridge",
+          "stars": 868,
+          "url": "https://github.com/kawamataryo/sky-follower-bridge",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vue-word-highlighter",
+          "fullName": "kawamataryo/vue-word-highlighter",
+          "stars": 339,
+          "url": "https://github.com/kawamataryo/vue-word-highlighter",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "chikamichi",
+          "fullName": "kawamataryo/chikamichi",
+          "stars": 317,
+          "url": "https://github.com/kawamataryo/chikamichi",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "suppress-ts-errors",
+          "fullName": "kawamataryo/suppress-ts-errors",
+          "stars": 157,
+          "url": "https://github.com/kawamataryo/suppress-ts-errors",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

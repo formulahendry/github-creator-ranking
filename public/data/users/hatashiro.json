@@ -1,0 +1,41 @@
+{
+  "login": "hatashiro",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1013641?v=4",
+  "htmlUrl": "https://github.com/hatashiro",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 287,
+      "repoCountPrimary": 2,
+      "starsContains": 287,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "lens.ts",
+          "fullName": "hatashiro/lens.ts",
+          "stars": 149,
+          "url": "https://github.com/hatashiro/lens.ts",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "kou",
+          "fullName": "hatashiro/kou",
+          "stars": 138,
+          "url": "https://github.com/hatashiro/kou",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

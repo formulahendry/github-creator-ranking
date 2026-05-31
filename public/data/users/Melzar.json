@@ -1,0 +1,41 @@
+{
+  "login": "Melzar",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2510629?v=4",
+  "htmlUrl": "https://github.com/Melzar",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 486,
+      "repoCountPrimary": 2,
+      "starsContains": 486,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "onion-architecture-boilerplate",
+          "fullName": "Melzar/onion-architecture-boilerplate",
+          "stars": 329,
+          "url": "https://github.com/Melzar/onion-architecture-boilerplate",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "clean-architecture-nextjs-react-boilerplate",
+          "fullName": "Melzar/clean-architecture-nextjs-react-boilerplate",
+          "stars": 157,
+          "url": "https://github.com/Melzar/clean-architecture-nextjs-react-boilerplate",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "PavelLaptev",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/18498712?v=4",
+  "htmlUrl": "https://github.com/PavelLaptev",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 599,
+      "repoCountPrimary": 2,
+      "starsContains": 599,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "css-houdini-squircle",
+          "fullName": "PavelLaptev/css-houdini-squircle",
+          "stars": 438,
+          "url": "https://github.com/PavelLaptev/css-houdini-squircle",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "JSON-to-Figma",
+          "fullName": "PavelLaptev/JSON-to-Figma",
+          "stars": 161,
+          "url": "https://github.com/PavelLaptev/JSON-to-Figma",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

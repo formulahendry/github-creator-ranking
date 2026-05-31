@@ -1,0 +1,34 @@
+{
+  "login": "turkerdev",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/48413508?v=4",
+  "htmlUrl": "https://github.com/turkerdev",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 583,
+      "repoCountPrimary": 1,
+      "starsContains": 583,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "fastify-type-provider-zod",
+          "fullName": "turkerdev/fastify-type-provider-zod",
+          "stars": 583,
+          "url": "https://github.com/turkerdev/fastify-type-provider-zod",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

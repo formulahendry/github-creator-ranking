@@ -1,0 +1,41 @@
+{
+  "login": "sachinraja",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/58836760?v=4",
+  "htmlUrl": "https://github.com/sachinraja",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 723,
+      "repoCountPrimary": 2,
+      "starsContains": 723,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "zod-to-ts",
+          "fullName": "sachinraja/zod-to-ts",
+          "stars": 403,
+          "url": "https://github.com/sachinraja/zod-to-ts",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "trpc-playground",
+          "fullName": "sachinraja/trpc-playground",
+          "stars": 320,
+          "url": "https://github.com/sachinraja/trpc-playground",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "login": "thien-do",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5953369?v=4",
+  "htmlUrl": "https://github.com/thien-do",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 768,
+      "repoCountPrimary": 4,
+      "starsContains": 768,
+      "repoCountContains": 4,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "typed-tailwind",
+          "fullName": "thien-do/typed-tailwind",
+          "stars": 411,
+          "url": "https://github.com/thien-do/typed-tailwind",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "moai",
+          "fullName": "thien-do/moai",
+          "stars": 128,
+          "url": "https://github.com/thien-do/moai",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "memos-pub",
+          "fullName": "thien-do/memos-pub",
+          "stars": 115,
+          "url": "https://github.com/thien-do/memos-pub",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "samuwrite",
+          "fullName": "thien-do/samuwrite",
+          "stars": 114,
+          "url": "https://github.com/thien-do/samuwrite",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

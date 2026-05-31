@@ -1,0 +1,48 @@
+{
+  "login": "Charca",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/44473?v=4",
+  "htmlUrl": "https://github.com/Charca",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 662,
+      "repoCountPrimary": 3,
+      "starsContains": 662,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "cloudflare-pages-auth",
+          "fullName": "Charca/cloudflare-pages-auth",
+          "stars": 331,
+          "url": "https://github.com/Charca/cloudflare-pages-auth",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "astro-records",
+          "fullName": "Charca/astro-records",
+          "stars": 218,
+          "url": "https://github.com/Charca/astro-records",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "astro-photo-gallery",
+          "fullName": "Charca/astro-photo-gallery",
+          "stars": 113,
+          "url": "https://github.com/Charca/astro-photo-gallery",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

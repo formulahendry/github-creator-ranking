@@ -1,0 +1,34 @@
+{
+  "login": "heyzgj",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/22608334?v=4",
+  "htmlUrl": "https://github.com/heyzgj",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 170,
+      "repoCountPrimary": 1,
+      "starsContains": 170,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "cursor-project-master",
+          "fullName": "heyzgj/cursor-project-master",
+          "stars": 170,
+          "url": "https://github.com/heyzgj/cursor-project-master",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

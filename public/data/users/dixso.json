@@ -1,0 +1,34 @@
+{
+  "login": "dixso",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1495899?v=4",
+  "htmlUrl": "https://github.com/dixso",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 614,
+      "repoCountPrimary": 1,
+      "starsContains": 614,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "custombox",
+          "fullName": "dixso/custombox",
+          "stars": 614,
+          "url": "https://github.com/dixso/custombox",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "vinitkumar",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/537678?v=4",
+  "htmlUrl": "https://github.com/vinitkumar",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 309,
+      "repoCountPrimary": 1,
+      "starsContains": 309,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "node-twitter",
+          "fullName": "vinitkumar/node-twitter",
+          "stars": 309,
+          "url": "https://github.com/vinitkumar/node-twitter",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

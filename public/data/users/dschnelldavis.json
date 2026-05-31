@@ -1,0 +1,34 @@
+{
+  "login": "dschnelldavis",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7855094?v=4",
+  "htmlUrl": "https://github.com/dschnelldavis",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 286,
+      "repoCountPrimary": 1,
+      "starsContains": 286,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "angular2-json-schema-form",
+          "fullName": "dschnelldavis/angular2-json-schema-form",
+          "stars": 286,
+          "url": "https://github.com/dschnelldavis/angular2-json-schema-form",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "login": "G4brym",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5445926?v=4",
+  "htmlUrl": "https://github.com/G4brym",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1208,
+      "repoCountPrimary": 4,
+      "starsContains": 1208,
+      "repoCountContains": 4,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "R2-Explorer",
+          "fullName": "G4brym/R2-Explorer",
+          "stars": 571,
+          "url": "https://github.com/G4brym/R2-Explorer",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "workers-qb",
+          "fullName": "G4brym/workers-qb",
+          "stars": 394,
+          "url": "https://github.com/G4brym/workers-qb",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "email-explorer",
+          "fullName": "G4brym/email-explorer",
+          "stars": 139,
+          "url": "https://github.com/G4brym/email-explorer",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "workers-research",
+          "fullName": "G4brym/workers-research",
+          "stars": 104,
+          "url": "https://github.com/G4brym/workers-research",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "marcopesani",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/50498?v=4",
+  "htmlUrl": "https://github.com/marcopesani",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 154,
+      "repoCountPrimary": 1,
+      "starsContains": 154,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "mcp-server-serper",
+          "fullName": "marcopesani/mcp-server-serper",
+          "stars": 154,
+          "url": "https://github.com/marcopesani/mcp-server-serper",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

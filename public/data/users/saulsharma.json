@@ -1,0 +1,62 @@
+{
+  "login": "saulsharma",
+  "name": "Saúl",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/28447850?v=4",
+  "htmlUrl": "https://github.com/saulsharma",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3882,
+      "repoCountPrimary": 6,
+      "starsContains": 3882,
+      "repoCountContains": 6,
+      "globalRank": 686,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "netflix-ui",
+          "fullName": "saulsharma/netflix-ui",
+          "stars": 1690,
+          "url": "https://github.com/saulsharma/netflix-ui",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-native-sheet-transitions",
+          "fullName": "saulsharma/react-native-sheet-transitions",
+          "stars": 962,
+          "url": "https://github.com/saulsharma/react-native-sheet-transitions",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "apple-music-sheet-ui",
+          "fullName": "saulsharma/apple-music-sheet-ui",
+          "stars": 409,
+          "url": "https://github.com/saulsharma/apple-music-sheet-ui",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "apple-news-ui",
+          "fullName": "saulsharma/apple-news-ui",
+          "stars": 383,
+          "url": "https://github.com/saulsharma/apple-news-ui",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "twitter-ui",
+          "fullName": "saulsharma/twitter-ui",
+          "stars": 303,
+          "url": "https://github.com/saulsharma/twitter-ui",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "j4wg",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/134260761?v=4",
+  "htmlUrl": "https://github.com/j4wg",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1875,
+      "repoCountPrimary": 1,
+      "starsContains": 1875,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "interview-coder-withoupaywall-opensource",
+          "fullName": "j4wg/interview-coder-withoupaywall-opensource",
+          "stars": 1875,
+          "url": "https://github.com/j4wg/interview-coder-withoupaywall-opensource",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "manojjha86",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/68413139?v=4",
+  "htmlUrl": "https://github.com/manojjha86",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 151,
+      "repoCountPrimary": 1,
+      "starsContains": 151,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "angular-16-complete-course",
+          "fullName": "manojjha86/angular-16-complete-course",
+          "stars": 151,
+          "url": "https://github.com/manojjha86/angular-16-complete-course",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

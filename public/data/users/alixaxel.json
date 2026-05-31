@@ -1,0 +1,34 @@
+{
+  "login": "alixaxel",
+  "name": "Alix Axel",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/262782?v=4",
+  "htmlUrl": "https://github.com/alixaxel",
+  "location": "Portugal",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3288,
+      "repoCountPrimary": 1,
+      "starsContains": 3288,
+      "repoCountContains": 1,
+      "globalRank": 820,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "chrome-aws-lambda",
+          "fullName": "alixaxel/chrome-aws-lambda",
+          "stars": 3288,
+          "url": "https://github.com/alixaxel/chrome-aws-lambda",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "SHISME",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/17661313?v=4",
+  "htmlUrl": "https://github.com/SHISME",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 360,
+      "repoCountPrimary": 1,
+      "starsContains": 360,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-native-draggable-grid",
+          "fullName": "SHISME/react-native-draggable-grid",
+          "stars": 360,
+          "url": "https://github.com/SHISME/react-native-draggable-grid",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

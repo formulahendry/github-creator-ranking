@@ -1,0 +1,62 @@
+{
+  "login": "folke",
+  "name": "Folke Lemaitre",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/292349?v=4",
+  "htmlUrl": "https://github.com/folke",
+  "location": "Ghent, Belgium",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2746,
+      "repoCountPrimary": 5,
+      "starsContains": 2746,
+      "repoCountContains": 5,
+      "globalRank": 978,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ultra-runner",
+          "fullName": "folke/ultra-runner",
+          "stars": 1245,
+          "url": "https://github.com/folke/ultra-runner",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "esbuild-runner",
+          "fullName": "folke/esbuild-runner",
+          "stars": 729,
+          "url": "https://github.com/folke/esbuild-runner",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "devmoji",
+          "fullName": "folke/devmoji",
+          "stars": 390,
+          "url": "https://github.com/folke/devmoji",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "polydock",
+          "fullName": "folke/polydock",
+          "stars": 217,
+          "url": "https://github.com/folke/polydock",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vscode-monorepo-workspace",
+          "fullName": "folke/vscode-monorepo-workspace",
+          "stars": 165,
+          "url": "https://github.com/folke/vscode-monorepo-workspace",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

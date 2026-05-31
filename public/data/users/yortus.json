@@ -1,0 +1,41 @@
+{
+  "login": "yortus",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1252361?v=4",
+  "htmlUrl": "https://github.com/yortus",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2016,
+      "repoCountPrimary": 2,
+      "starsContains": 2016,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "asyncawait",
+          "fullName": "yortus/asyncawait",
+          "stars": 1900,
+          "url": "https://github.com/yortus/asyncawait",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "DBFFile",
+          "fullName": "yortus/DBFFile",
+          "stars": 116,
+          "url": "https://github.com/yortus/DBFFile",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

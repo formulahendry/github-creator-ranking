@@ -1,0 +1,41 @@
+{
+  "login": "yuvalsuede",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1270865?v=4",
+  "htmlUrl": "https://github.com/yuvalsuede",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1664,
+      "repoCountPrimary": 2,
+      "starsContains": 1664,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ai-component-generator",
+          "fullName": "yuvalsuede/ai-component-generator",
+          "stars": 1352,
+          "url": "https://github.com/yuvalsuede/ai-component-generator",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "jasper-alternative-gpt",
+          "fullName": "yuvalsuede/jasper-alternative-gpt",
+          "stars": 312,
+          "url": "https://github.com/yuvalsuede/jasper-alternative-gpt",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "pboymt",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/10893582?v=4",
+  "htmlUrl": "https://github.com/pboymt",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 290,
+      "repoCountPrimary": 2,
+      "starsContains": 290,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "autojs-dev",
+          "fullName": "pboymt/autojs-dev",
+          "stars": 173,
+          "url": "https://github.com/pboymt/autojs-dev",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Steam520",
+          "fullName": "pboymt/Steam520",
+          "stars": 117,
+          "url": "https://github.com/pboymt/Steam520",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

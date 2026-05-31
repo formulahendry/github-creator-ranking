@@ -1,0 +1,62 @@
+{
+  "login": "posva",
+  "name": "Eduardo San Martin Morote",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/664177?v=4",
+  "htmlUrl": "https://github.com/posva",
+  "location": "Berlin",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 8068,
+      "repoCountPrimary": 6,
+      "starsContains": 8068,
+      "repoCountContains": 6,
+      "globalRank": 282,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "unplugin-vue-router",
+          "fullName": "posva/unplugin-vue-router",
+          "stars": 2250,
+          "url": "https://github.com/posva/unplugin-vue-router",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "pinia-colada",
+          "fullName": "posva/pinia-colada",
+          "stars": 2176,
+          "url": "https://github.com/posva/pinia-colada",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vue-promised",
+          "fullName": "posva/vue-promised",
+          "stars": 1933,
+          "url": "https://github.com/posva/vue-promised",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "mande",
+          "fullName": "posva/mande",
+          "stars": 1330,
+          "url": "https://github.com/posva/mande",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vue-router-mock",
+          "fullName": "posva/vue-router-mock",
+          "stars": 220,
+          "url": "https://github.com/posva/vue-router-mock",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "j0hnm4r5",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3644972?v=4",
+  "htmlUrl": "https://github.com/j0hnm4r5",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 622,
+      "repoCountPrimary": 1,
+      "starsContains": 622,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "awesome-creative-technology",
+          "fullName": "j0hnm4r5/awesome-creative-technology",
+          "stars": 622,
+          "url": "https://github.com/j0hnm4r5/awesome-creative-technology",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

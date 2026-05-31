@@ -1,0 +1,55 @@
+{
+  "login": "lencx",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/16164244?v=4",
+  "htmlUrl": "https://github.com/lencx",
+  "location": "Shanghai",
+  "countryCode": "CN",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 10283,
+      "repoCountPrimary": 4,
+      "starsContains": 10283,
+      "repoCountContains": 4,
+      "globalRank": 213,
+      "countryRank": 27,
+      "topRepos": [
+        {
+          "name": "Noi",
+          "fullName": "lencx/Noi",
+          "stars": 8918,
+          "url": "https://github.com/lencx/Noi",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "tauri-tutorial",
+          "fullName": "lencx/tauri-tutorial",
+          "stars": 643,
+          "url": "https://github.com/lencx/tauri-tutorial",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "GPTHub",
+          "fullName": "lencx/GPTHub",
+          "stars": 566,
+          "url": "https://github.com/lencx/GPTHub",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "z",
+          "fullName": "lencx/z",
+          "stars": 156,
+          "url": "https://github.com/lencx/z",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

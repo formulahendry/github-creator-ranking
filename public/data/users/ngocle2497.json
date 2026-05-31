@@ -1,0 +1,41 @@
+{
+  "login": "ngocle2497",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/43195241?v=4",
+  "htmlUrl": "https://github.com/ngocle2497",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 402,
+      "repoCountPrimary": 2,
+      "starsContains": 402,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "BoilerplateReactNative",
+          "fullName": "ngocle2497/BoilerplateReactNative",
+          "stars": 253,
+          "url": "https://github.com/ngocle2497/BoilerplateReactNative",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "curved-bottom-navigation-bar",
+          "fullName": "ngocle2497/curved-bottom-navigation-bar",
+          "stars": 149,
+          "url": "https://github.com/ngocle2497/curved-bottom-navigation-bar",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

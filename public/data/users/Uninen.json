@@ -1,0 +1,41 @@
+{
+  "login": "Uninen",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/43100?v=4",
+  "htmlUrl": "https://github.com/Uninen",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 952,
+      "repoCountPrimary": 2,
+      "starsContains": 952,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "tauri-vue-template",
+          "fullName": "Uninen/tauri-vue-template",
+          "stars": 478,
+          "url": "https://github.com/Uninen/tauri-vue-template",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vite-ts-tailwind-starter",
+          "fullName": "Uninen/vite-ts-tailwind-starter",
+          "stars": 474,
+          "url": "https://github.com/Uninen/vite-ts-tailwind-starter",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

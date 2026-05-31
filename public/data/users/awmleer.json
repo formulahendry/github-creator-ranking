@@ -1,0 +1,41 @@
+{
+  "login": "awmleer",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/16526078?v=4",
+  "htmlUrl": "https://github.com/awmleer",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 360,
+      "repoCountPrimary": 2,
+      "starsContains": 360,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "reto",
+          "fullName": "awmleer/reto",
+          "stars": 214,
+          "url": "https://github.com/awmleer/reto",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "use-async-memo",
+          "fullName": "awmleer/use-async-memo",
+          "stars": 146,
+          "url": "https://github.com/awmleer/use-async-memo",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

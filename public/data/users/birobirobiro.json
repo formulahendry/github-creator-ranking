@@ -1,0 +1,34 @@
+{
+  "login": "birobirobiro",
+  "name": "João Inácio Neto",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/22185823?v=4",
+  "htmlUrl": "https://github.com/birobirobiro",
+  "location": "São Paulo, Brazil\t",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 19661,
+      "repoCountPrimary": 1,
+      "starsContains": 19661,
+      "repoCountContains": 1,
+      "globalRank": 94,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "awesome-shadcn-ui",
+          "fullName": "birobirobiro/awesome-shadcn-ui",
+          "stars": 19661,
+          "url": "https://github.com/birobirobiro/awesome-shadcn-ui",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

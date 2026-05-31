@@ -1,0 +1,34 @@
+{
+  "login": "farizdotid",
+  "name": "Fariz Ramadhan",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/17017569?v=4",
+  "htmlUrl": "https://github.com/farizdotid",
+  "location": "Purwakarta, West Java, Indonesia.",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 5229,
+      "repoCountPrimary": 1,
+      "starsContains": 5229,
+      "repoCountContains": 1,
+      "globalRank": 475,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "DAFTAR-API-LOKAL-INDONESIA",
+          "fullName": "farizdotid/DAFTAR-API-LOKAL-INDONESIA",
+          "stars": 5229,
+          "url": "https://github.com/farizdotid/DAFTAR-API-LOKAL-INDONESIA",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "junian",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3881052?v=4",
+  "htmlUrl": "https://github.com/junian",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 581,
+      "repoCountPrimary": 1,
+      "starsContains": 581,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "markdown-resume",
+          "fullName": "junian/markdown-resume",
+          "stars": 581,
+          "url": "https://github.com/junian/markdown-resume",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

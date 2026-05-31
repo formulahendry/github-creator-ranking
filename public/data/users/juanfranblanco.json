@@ -1,0 +1,34 @@
+{
+  "login": "juanfranblanco",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/562371?v=4",
+  "htmlUrl": "https://github.com/juanfranblanco",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 956,
+      "repoCountPrimary": 1,
+      "starsContains": 956,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vscode-solidity",
+          "fullName": "juanfranblanco/vscode-solidity",
+          "stars": 956,
+          "url": "https://github.com/juanfranblanco/vscode-solidity",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "login": "tajo",
+  "name": "Vojtech Miksu",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1387913?v=4",
+  "htmlUrl": "https://github.com/tajo",
+  "location": "San Francisco, CA",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 5493,
+      "repoCountPrimary": 3,
+      "starsContains": 5493,
+      "repoCountContains": 3,
+      "globalRank": 445,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ladle",
+          "fullName": "tajo/ladle",
+          "stars": 2943,
+          "url": "https://github.com/tajo/ladle",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-movable",
+          "fullName": "tajo/react-movable",
+          "stars": 1672,
+          "url": "https://github.com/tajo/react-movable",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-range",
+          "fullName": "tajo/react-range",
+          "stars": 878,
+          "url": "https://github.com/tajo/react-range",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

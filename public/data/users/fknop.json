@@ -1,0 +1,34 @@
+{
+  "login": "fknop",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6775689?v=4",
+  "htmlUrl": "https://github.com/fknop",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 727,
+      "repoCountPrimary": 1,
+      "starsContains": 727,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "angular-pipes",
+          "fullName": "fknop/angular-pipes",
+          "stars": 727,
+          "url": "https://github.com/fknop/angular-pipes",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

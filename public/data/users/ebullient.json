@@ -1,0 +1,62 @@
+{
+  "login": "ebullient",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/808713?v=4",
+  "htmlUrl": "https://github.com/ebullient",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2069,
+      "repoCountPrimary": 5,
+      "starsContains": 2069,
+      "repoCountContains": 5,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "obsidian-admonition",
+          "fullName": "ebullient/obsidian-admonition",
+          "stars": 1280,
+          "url": "https://github.com/ebullient/obsidian-admonition",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "obsidian-slides-extended",
+          "fullName": "ebullient/obsidian-slides-extended",
+          "stars": 245,
+          "url": "https://github.com/ebullient/obsidian-slides-extended",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "obsidian-task-collector",
+          "fullName": "ebullient/obsidian-task-collector",
+          "stars": 239,
+          "url": "https://github.com/ebullient/obsidian-task-collector",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "obsidian-day-planner-og",
+          "fullName": "ebullient/obsidian-day-planner-og",
+          "stars": 177,
+          "url": "https://github.com/ebullient/obsidian-day-planner-og",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "obsidian-snippetor",
+          "fullName": "ebullient/obsidian-snippetor",
+          "stars": 128,
+          "url": "https://github.com/ebullient/obsidian-snippetor",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

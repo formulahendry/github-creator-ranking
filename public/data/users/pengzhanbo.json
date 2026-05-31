@@ -1,0 +1,41 @@
+{
+  "login": "pengzhanbo",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/16745751?v=4",
+  "htmlUrl": "https://github.com/pengzhanbo",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 724,
+      "repoCountPrimary": 2,
+      "starsContains": 724,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vuepress-theme-plume",
+          "fullName": "pengzhanbo/vuepress-theme-plume",
+          "stars": 469,
+          "url": "https://github.com/pengzhanbo/vuepress-theme-plume",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vite-plugin-mock-dev-server",
+          "fullName": "pengzhanbo/vite-plugin-mock-dev-server",
+          "stars": 255,
+          "url": "https://github.com/pengzhanbo/vite-plugin-mock-dev-server",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

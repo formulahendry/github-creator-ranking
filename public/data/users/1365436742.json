@@ -1,0 +1,34 @@
+{
+  "login": "1365436742",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/51362520?v=4",
+  "htmlUrl": "https://github.com/1365436742",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 732,
+      "repoCountPrimary": 1,
+      "starsContains": 732,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "element-ai-vue",
+          "fullName": "1365436742/element-ai-vue",
+          "stars": 732,
+          "url": "https://github.com/1365436742/element-ai-vue",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

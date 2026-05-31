@@ -1,0 +1,34 @@
+{
+  "login": "gameall3d",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6930815?v=4",
+  "htmlUrl": "https://github.com/gameall3d",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 112,
+      "repoCountPrimary": 1,
+      "starsContains": 112,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "LifeRestart_Cocos",
+          "fullName": "gameall3d/LifeRestart_Cocos",
+          "stars": 112,
+          "url": "https://github.com/gameall3d/LifeRestart_Cocos",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

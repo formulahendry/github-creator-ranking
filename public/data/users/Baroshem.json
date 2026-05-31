@@ -1,0 +1,48 @@
+{
+  "login": "Baroshem",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/37120330?v=4",
+  "htmlUrl": "https://github.com/Baroshem",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1375,
+      "repoCountPrimary": 3,
+      "starsContains": 1375,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "nuxt-security",
+          "fullName": "Baroshem/nuxt-security",
+          "stars": 976,
+          "url": "https://github.com/Baroshem/nuxt-security",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "microservice-template",
+          "fullName": "Baroshem/microservice-template",
+          "stars": 291,
+          "url": "https://github.com/Baroshem/microservice-template",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "nuxt-lazy-hydrate",
+          "fullName": "Baroshem/nuxt-lazy-hydrate",
+          "stars": 108,
+          "url": "https://github.com/Baroshem/nuxt-lazy-hydrate",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

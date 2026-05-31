@@ -1,0 +1,34 @@
+{
+  "login": "LucivHuang",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/29232478?v=4",
+  "htmlUrl": "https://github.com/LucivHuang",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 687,
+      "repoCountPrimary": 1,
+      "starsContains": 687,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "heimdallr-sdk",
+          "fullName": "LucivHuang/heimdallr-sdk",
+          "stars": 687,
+          "url": "https://github.com/LucivHuang/heimdallr-sdk",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

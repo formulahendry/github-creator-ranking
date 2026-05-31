@@ -1,0 +1,48 @@
+{
+  "login": "TfTHacker",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/69121180?v=4",
+  "htmlUrl": "https://github.com/TfTHacker",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2281,
+      "repoCountPrimary": 3,
+      "starsContains": 2281,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "obsidian42-brat",
+          "fullName": "TfTHacker/obsidian42-brat",
+          "stars": 1471,
+          "url": "https://github.com/TfTHacker/obsidian42-brat",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "obsidian42-strange-new-worlds",
+          "fullName": "TfTHacker/obsidian42-strange-new-worlds",
+          "stars": 568,
+          "url": "https://github.com/TfTHacker/obsidian42-strange-new-worlds",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "obsidian42-text-transporter",
+          "fullName": "TfTHacker/obsidian42-text-transporter",
+          "stars": 242,
+          "url": "https://github.com/TfTHacker/obsidian42-text-transporter",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

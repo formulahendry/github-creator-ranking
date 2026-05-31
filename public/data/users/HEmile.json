@@ -1,0 +1,48 @@
+{
+  "login": "HEmile",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1289165?v=4",
+  "htmlUrl": "https://github.com/HEmile",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1040,
+      "repoCountPrimary": 3,
+      "starsContains": 1040,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "juggl",
+          "fullName": "HEmile/juggl",
+          "stars": 800,
+          "url": "https://github.com/HEmile/juggl",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "obsidian-neo4j-graph-view",
+          "fullName": "HEmile/obsidian-neo4j-graph-view",
+          "stars": 120,
+          "url": "https://github.com/HEmile/obsidian-neo4j-graph-view",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "obsidian-search-on-internet",
+          "fullName": "HEmile/obsidian-search-on-internet",
+          "stars": 120,
+          "url": "https://github.com/HEmile/obsidian-search-on-internet",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

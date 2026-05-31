@@ -1,0 +1,48 @@
+{
+  "login": "Shougo",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/41495?v=4",
+  "htmlUrl": "https://github.com/Shougo",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1242,
+      "repoCountPrimary": 3,
+      "starsContains": 1242,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ddc.vim",
+          "fullName": "Shougo/ddc.vim",
+          "stars": 744,
+          "url": "https://github.com/Shougo/ddc.vim",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ddu.vim",
+          "fullName": "Shougo/ddu.vim",
+          "stars": 321,
+          "url": "https://github.com/Shougo/ddu.vim",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "dpp.vim",
+          "fullName": "Shougo/dpp.vim",
+          "stars": 177,
+          "url": "https://github.com/Shougo/dpp.vim",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

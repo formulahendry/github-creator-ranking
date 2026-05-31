@@ -1,0 +1,62 @@
+{
+  "login": "Anish-Agnihotri",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/4398624?v=4",
+  "htmlUrl": "https://github.com/Anish-Agnihotri",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1974,
+      "repoCountPrimary": 7,
+      "starsContains": 1974,
+      "repoCountContains": 7,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "merkle-airdrop-starter",
+          "fullName": "Anish-Agnihotri/merkle-airdrop-starter",
+          "stars": 746,
+          "url": "https://github.com/Anish-Agnihotri/merkle-airdrop-starter",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "pool-sniper",
+          "fullName": "Anish-Agnihotri/pool-sniper",
+          "stars": 430,
+          "url": "https://github.com/Anish-Agnihotri/pool-sniper",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "friendmex",
+          "fullName": "Anish-Agnihotri/friendmex",
+          "stars": 198,
+          "url": "https://github.com/Anish-Agnihotri/friendmex",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "MultiFaucet",
+          "fullName": "Anish-Agnihotri/MultiFaucet",
+          "stars": 167,
+          "url": "https://github.com/Anish-Agnihotri/MultiFaucet",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "mevboost.org",
+          "fullName": "Anish-Agnihotri/mevboost.org",
+          "stars": 159,
+          "url": "https://github.com/Anish-Agnihotri/mevboost.org",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "liumengniu",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/24428623?v=4",
+  "htmlUrl": "https://github.com/liumengniu",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 601,
+      "repoCountPrimary": 1,
+      "starsContains": 601,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "majiang",
+          "fullName": "liumengniu/majiang",
+          "stars": 601,
+          "url": "https://github.com/liumengniu/majiang",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

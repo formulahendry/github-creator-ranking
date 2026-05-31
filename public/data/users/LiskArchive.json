@@ -1,0 +1,48 @@
+{
+  "login": "LiskArchive",
+  "name": "Lisk Archive",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/25390529?v=4",
+  "htmlUrl": "https://github.com/LiskArchive",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3070,
+      "repoCountPrimary": 3,
+      "starsContains": 3070,
+      "repoCountContains": 3,
+      "globalRank": 877,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "lisk-sdk",
+          "fullName": "LiskArchive/lisk-sdk",
+          "stars": 2686,
+          "url": "https://github.com/LiskArchive/lisk-sdk",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "lisk-elements",
+          "fullName": "LiskArchive/lisk-elements",
+          "stars": 245,
+          "url": "https://github.com/LiskArchive/lisk-elements",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "lisk-commander",
+          "fullName": "LiskArchive/lisk-commander",
+          "stars": 139,
+          "url": "https://github.com/LiskArchive/lisk-commander",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

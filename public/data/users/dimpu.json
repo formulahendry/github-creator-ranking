@@ -1,0 +1,34 @@
+{
+  "login": "dimpu",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1271995?v=4",
+  "htmlUrl": "https://github.com/dimpu",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 264,
+      "repoCountPrimary": 1,
+      "starsContains": 264,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ngx-md",
+          "fullName": "dimpu/ngx-md",
+          "stars": 264,
+          "url": "https://github.com/dimpu/ngx-md",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

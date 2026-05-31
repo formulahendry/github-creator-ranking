@@ -1,0 +1,34 @@
+{
+  "login": "bbycroft",
+  "name": "Brendan Bycroft",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/4110531?v=4",
+  "htmlUrl": "https://github.com/bbycroft",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 5403,
+      "repoCountPrimary": 1,
+      "starsContains": 5403,
+      "repoCountContains": 1,
+      "globalRank": 457,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "llm-viz",
+          "fullName": "bbycroft/llm-viz",
+          "stars": 5403,
+          "url": "https://github.com/bbycroft/llm-viz",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

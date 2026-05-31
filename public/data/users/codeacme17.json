@@ -1,0 +1,41 @@
+{
+  "login": "codeacme17",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/67408722?v=4",
+  "htmlUrl": "https://github.com/codeacme17",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1276,
+      "repoCountPrimary": 2,
+      "starsContains": 1276,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "examor",
+          "fullName": "codeacme17/examor",
+          "stars": 1072,
+          "url": "https://github.com/codeacme17/examor",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "echo-ui",
+          "fullName": "codeacme17/echo-ui",
+          "stars": 204,
+          "url": "https://github.com/codeacme17/echo-ui",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

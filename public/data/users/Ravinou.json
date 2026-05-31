@@ -1,0 +1,34 @@
+{
+  "login": "Ravinou",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/39600829?v=4",
+  "htmlUrl": "https://github.com/Ravinou",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 636,
+      "repoCountPrimary": 1,
+      "starsContains": 636,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "borgwarehouse",
+          "fullName": "Ravinou/borgwarehouse",
+          "stars": 636,
+          "url": "https://github.com/Ravinou/borgwarehouse",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

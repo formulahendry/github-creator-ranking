@@ -1,0 +1,41 @@
+{
+  "login": "AnmolSaini16",
+  "name": "Anmoldeep Singh",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/72123368?v=4",
+  "htmlUrl": "https://github.com/AnmolSaini16",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 9994,
+      "repoCountPrimary": 2,
+      "starsContains": 9994,
+      "repoCountContains": 2,
+      "globalRank": 221,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "mapcn",
+          "fullName": "AnmolSaini16/mapcn",
+          "stars": 9549,
+          "url": "https://github.com/AnmolSaini16/mapcn",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "next-maps",
+          "fullName": "AnmolSaini16/next-maps",
+          "stars": 445,
+          "url": "https://github.com/AnmolSaini16/next-maps",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "habibalmawali",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/31030616?v=4",
+  "htmlUrl": "https://github.com/habibalmawali",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 133,
+      "repoCountPrimary": 1,
+      "starsContains": 133,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "UI-Challenges",
+          "fullName": "habibalmawali/UI-Challenges",
+          "stars": 133,
+          "url": "https://github.com/habibalmawali/UI-Challenges",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

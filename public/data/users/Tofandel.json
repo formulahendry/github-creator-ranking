@@ -1,0 +1,34 @@
+{
+  "login": "Tofandel",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6115458?v=4",
+  "htmlUrl": "https://github.com/Tofandel",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 225,
+      "repoCountPrimary": 1,
+      "starsContains": 225,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "prerenderer",
+          "fullName": "Tofandel/prerenderer",
+          "stars": 225,
+          "url": "https://github.com/Tofandel/prerenderer",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

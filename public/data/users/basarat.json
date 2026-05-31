@@ -1,0 +1,62 @@
+{
+  "login": "basarat",
+  "name": "Basarat Ali Syed",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/874898?v=4",
+  "htmlUrl": "https://github.com/basarat",
+  "location": "Melbourne, Australia",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 23640,
+      "repoCountPrimary": 6,
+      "starsContains": 23640,
+      "repoCountContains": 6,
+      "globalRank": 70,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "typescript-book",
+          "fullName": "basarat/typescript-book",
+          "stars": 21523,
+          "url": "https://github.com/basarat/typescript-book",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "typescript-collections",
+          "fullName": "basarat/typescript-collections",
+          "stars": 1211,
+          "url": "https://github.com/basarat/typescript-collections",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "algorithms",
+          "fullName": "basarat/algorithms",
+          "stars": 303,
+          "url": "https://github.com/basarat/algorithms",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "byots",
+          "fullName": "basarat/byots",
+          "stars": 272,
+          "url": "https://github.com/basarat/byots",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "typescript-react",
+          "fullName": "basarat/typescript-react",
+          "stars": 180,
+          "url": "https://github.com/basarat/typescript-react",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

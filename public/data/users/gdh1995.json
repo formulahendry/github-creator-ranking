@@ -1,0 +1,34 @@
+{
+  "login": "gdh1995",
+  "name": "Dahan Gong",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5547703?v=4",
+  "htmlUrl": "https://github.com/gdh1995",
+  "location": "Beijing, China",
+  "countryCode": "CN",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 4437,
+      "repoCountPrimary": 1,
+      "starsContains": 4437,
+      "repoCountContains": 1,
+      "globalRank": 579,
+      "countryRank": 71,
+      "topRepos": [
+        {
+          "name": "vimium-c",
+          "fullName": "gdh1995/vimium-c",
+          "stars": 4437,
+          "url": "https://github.com/gdh1995/vimium-c",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

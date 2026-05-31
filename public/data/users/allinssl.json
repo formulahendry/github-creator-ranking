@@ -1,0 +1,34 @@
+{
+  "login": "allinssl",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/207519482?v=4",
+  "htmlUrl": "https://github.com/allinssl",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3495,
+      "repoCountPrimary": 1,
+      "starsContains": 3495,
+      "repoCountContains": 1,
+      "globalRank": 769,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "allinssl",
+          "fullName": "allinssl/allinssl",
+          "stars": 3495,
+          "url": "https://github.com/allinssl/allinssl",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

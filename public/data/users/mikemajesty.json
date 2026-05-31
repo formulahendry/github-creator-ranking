@@ -1,0 +1,41 @@
+{
+  "login": "mikemajesty",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/11630212?v=4",
+  "htmlUrl": "https://github.com/mikemajesty",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 772,
+      "repoCountPrimary": 2,
+      "starsContains": 772,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "nestjs-microservice-boilerplate-api",
+          "fullName": "mikemajesty/nestjs-microservice-boilerplate-api",
+          "stars": 392,
+          "url": "https://github.com/mikemajesty/nestjs-microservice-boilerplate-api",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "nestjs-monorepo",
+          "fullName": "mikemajesty/nestjs-monorepo",
+          "stars": 380,
+          "url": "https://github.com/mikemajesty/nestjs-monorepo",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

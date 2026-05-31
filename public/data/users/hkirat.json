@@ -1,0 +1,62 @@
+{
+  "login": "hkirat",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/8079861?v=4",
+  "htmlUrl": "https://github.com/hkirat",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1163,
+      "repoCountPrimary": 6,
+      "starsContains": 1163,
+      "repoCountContains": 6,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "bolt.newer",
+          "fullName": "hkirat/bolt.newer",
+          "stars": 396,
+          "url": "https://github.com/hkirat/bolt.newer",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vercel",
+          "fullName": "hkirat/vercel",
+          "stars": 201,
+          "url": "https://github.com/hkirat/vercel",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ai-trading-agent",
+          "fullName": "hkirat/ai-trading-agent",
+          "stars": 171,
+          "url": "https://github.com/hkirat/ai-trading-agent",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "real-time-chat",
+          "fullName": "hkirat/real-time-chat",
+          "stars": 164,
+          "url": "https://github.com/hkirat/real-time-chat",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "omegle",
+          "fullName": "hkirat/omegle",
+          "stars": 123,
+          "url": "https://github.com/hkirat/omegle",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

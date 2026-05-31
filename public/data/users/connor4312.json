@@ -1,0 +1,48 @@
+{
+  "login": "connor4312",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2230985?v=4",
+  "htmlUrl": "https://github.com/connor4312",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2118,
+      "repoCountPrimary": 3,
+      "starsContains": 2118,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "cockatiel",
+          "fullName": "connor4312/cockatiel",
+          "stars": 1786,
+          "url": "https://github.com/connor4312/cockatiel",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "blake3",
+          "fullName": "connor4312/blake3",
+          "stars": 199,
+          "url": "https://github.com/connor4312/blake3",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "js-fuzz",
+          "fullName": "connor4312/js-fuzz",
+          "stars": 133,
+          "url": "https://github.com/connor4312/js-fuzz",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

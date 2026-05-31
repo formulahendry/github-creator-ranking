@@ -1,0 +1,41 @@
+{
+  "login": "onesine",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/55294457?v=4",
+  "htmlUrl": "https://github.com/onesine",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 801,
+      "repoCountPrimary": 2,
+      "starsContains": 801,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-tailwindcss-datepicker",
+          "fullName": "onesine/react-tailwindcss-datepicker",
+          "stars": 607,
+          "url": "https://github.com/onesine/react-tailwindcss-datepicker",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-tailwindcss-select",
+          "fullName": "onesine/react-tailwindcss-select",
+          "stars": 194,
+          "url": "https://github.com/onesine/react-tailwindcss-select",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

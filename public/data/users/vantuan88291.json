@@ -1,0 +1,34 @@
+{
+  "login": "vantuan88291",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/9206731?v=4",
+  "htmlUrl": "https://github.com/vantuan88291",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 666,
+      "repoCountPrimary": 1,
+      "starsContains": 666,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-native-ota-hot-update",
+          "fullName": "vantuan88291/react-native-ota-hot-update",
+          "stars": 666,
+          "url": "https://github.com/vantuan88291/react-native-ota-hot-update",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

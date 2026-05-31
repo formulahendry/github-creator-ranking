@@ -1,0 +1,34 @@
+{
+  "login": "Kamalnrf",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/12810203?v=4",
+  "htmlUrl": "https://github.com/Kamalnrf",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 516,
+      "repoCountPrimary": 1,
+      "starsContains": 516,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "claude-plugins",
+          "fullName": "Kamalnrf/claude-plugins",
+          "stars": 516,
+          "url": "https://github.com/Kamalnrf/claude-plugins",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

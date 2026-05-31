@@ -1,0 +1,41 @@
+{
+  "login": "runk",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/903687?v=4",
+  "htmlUrl": "https://github.com/runk",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 949,
+      "repoCountPrimary": 2,
+      "starsContains": 949,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "node-maxmind",
+          "fullName": "runk/node-maxmind",
+          "stars": 645,
+          "url": "https://github.com/runk/node-maxmind",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "node-chardet",
+          "fullName": "runk/node-chardet",
+          "stars": 304,
+          "url": "https://github.com/runk/node-chardet",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

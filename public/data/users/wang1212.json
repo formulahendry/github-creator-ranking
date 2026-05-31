@@ -1,0 +1,34 @@
+{
+  "login": "wang1212",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/18679119?v=4",
+  "htmlUrl": "https://github.com/wang1212",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 116,
+      "repoCountPrimary": 1,
+      "starsContains": 116,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "awesome-favorites-list",
+          "fullName": "wang1212/awesome-favorites-list",
+          "stars": 116,
+          "url": "https://github.com/wang1212/awesome-favorites-list",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

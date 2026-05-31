@@ -1,0 +1,62 @@
+{
+  "login": "mkosir",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3073826?v=4",
+  "htmlUrl": "https://github.com/mkosir",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1959,
+      "repoCountPrimary": 5,
+      "starsContains": 1959,
+      "repoCountContains": 5,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-parallax-tilt",
+          "fullName": "mkosir/react-parallax-tilt",
+          "stars": 1068,
+          "url": "https://github.com/mkosir/react-parallax-tilt",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "typeorm-express-typescript",
+          "fullName": "mkosir/typeorm-express-typescript",
+          "stars": 460,
+          "url": "https://github.com/mkosir/typeorm-express-typescript",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "frontend-monorepo-boilerplate",
+          "fullName": "mkosir/frontend-monorepo-boilerplate",
+          "stars": 175,
+          "url": "https://github.com/mkosir/frontend-monorepo-boilerplate",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "trpc-api-boilerplate",
+          "fullName": "mkosir/trpc-api-boilerplate",
+          "stars": 134,
+          "url": "https://github.com/mkosir/trpc-api-boilerplate",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-hook-mighty-mouse",
+          "fullName": "mkosir/react-hook-mighty-mouse",
+          "stars": 122,
+          "url": "https://github.com/mkosir/react-hook-mighty-mouse",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

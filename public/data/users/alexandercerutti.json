@@ -1,0 +1,41 @@
+{
+  "login": "alexandercerutti",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5442545?v=4",
+  "htmlUrl": "https://github.com/alexandercerutti",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1387,
+      "repoCountPrimary": 2,
+      "starsContains": 1387,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "passkit-generator",
+          "fullName": "alexandercerutti/passkit-generator",
+          "stars": 1213,
+          "url": "https://github.com/alexandercerutti/passkit-generator",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "passkit-visual-designer",
+          "fullName": "alexandercerutti/passkit-visual-designer",
+          "stars": 174,
+          "url": "https://github.com/alexandercerutti/passkit-visual-designer",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

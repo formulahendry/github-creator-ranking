@@ -1,0 +1,34 @@
+{
+  "login": "lino-levan",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/11367844?v=4",
+  "htmlUrl": "https://github.com/lino-levan",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 354,
+      "repoCountPrimary": 1,
+      "starsContains": 354,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "astral",
+          "fullName": "lino-levan/astral",
+          "stars": 354,
+          "url": "https://github.com/lino-levan/astral",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

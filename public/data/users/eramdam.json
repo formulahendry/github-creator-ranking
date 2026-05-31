@@ -1,0 +1,34 @@
+{
+  "login": "eramdam",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1409924?v=4",
+  "htmlUrl": "https://github.com/eramdam",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1094,
+      "repoCountPrimary": 1,
+      "starsContains": 1094,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "BetterTweetDeck",
+          "fullName": "eramdam/BetterTweetDeck",
+          "stars": 1094,
+          "url": "https://github.com/eramdam/BetterTweetDeck",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

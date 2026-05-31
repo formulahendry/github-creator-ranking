@@ -1,0 +1,34 @@
+{
+  "login": "Chillee",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6355099?v=4",
+  "htmlUrl": "https://github.com/Chillee",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 311,
+      "repoCountPrimary": 1,
+      "starsContains": 311,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "VSCodeNeovim",
+          "fullName": "Chillee/VSCodeNeovim",
+          "stars": 311,
+          "url": "https://github.com/Chillee/VSCodeNeovim",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

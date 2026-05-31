@@ -1,0 +1,34 @@
+{
+  "login": "claudio-silva",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1999803?v=4",
+  "htmlUrl": "https://github.com/claudio-silva",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 549,
+      "repoCountPrimary": 1,
+      "starsContains": 549,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "claude-artifact-runner",
+          "fullName": "claudio-silva/claude-artifact-runner",
+          "stars": 549,
+          "url": "https://github.com/claudio-silva/claude-artifact-runner",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

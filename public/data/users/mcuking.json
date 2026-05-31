@@ -1,0 +1,41 @@
+{
+  "login": "mcuking",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/22924912?v=4",
+  "htmlUrl": "https://github.com/mcuking",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1852,
+      "repoCountPrimary": 2,
+      "starsContains": 1852,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "mobile-web-best-practice",
+          "fullName": "mcuking/mobile-web-best-practice",
+          "stars": 1747,
+          "url": "https://github.com/mcuking/mobile-web-best-practice",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vue2react",
+          "fullName": "mcuking/vue2react",
+          "stars": 105,
+          "url": "https://github.com/mcuking/vue2react",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

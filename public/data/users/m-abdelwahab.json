@@ -1,0 +1,34 @@
+{
+  "login": "m-abdelwahab",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/27310414?v=4",
+  "htmlUrl": "https://github.com/m-abdelwahab",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 113,
+      "repoCountPrimary": 1,
+      "starsContains": 113,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "course-platform",
+          "fullName": "m-abdelwahab/course-platform",
+          "stars": 113,
+          "url": "https://github.com/m-abdelwahab/course-platform",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

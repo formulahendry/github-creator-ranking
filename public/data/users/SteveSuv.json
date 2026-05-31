@@ -1,0 +1,41 @@
+{
+  "login": "SteveSuv",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/35391006?v=4",
+  "htmlUrl": "https://github.com/SteveSuv",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1029,
+      "repoCountPrimary": 2,
+      "starsContains": 1029,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "remix-words-funny",
+          "fullName": "SteveSuv/remix-words-funny",
+          "stars": 922,
+          "url": "https://github.com/SteveSuv/remix-words-funny",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "remix-t3-stack",
+          "fullName": "SteveSuv/remix-t3-stack",
+          "stars": 107,
+          "url": "https://github.com/SteveSuv/remix-t3-stack",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

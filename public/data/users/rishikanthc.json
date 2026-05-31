@@ -1,0 +1,34 @@
+{
+  "login": "rishikanthc",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7254479?v=4",
+  "htmlUrl": "https://github.com/rishikanthc",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 180,
+      "repoCountPrimary": 1,
+      "starsContains": 180,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "markopolis",
+          "fullName": "rishikanthc/markopolis",
+          "stars": 180,
+          "url": "https://github.com/rishikanthc/markopolis",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

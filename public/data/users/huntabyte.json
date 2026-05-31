@@ -1,0 +1,55 @@
+{
+  "login": "huntabyte",
+  "name": "Hunter Johnston",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/64506580?v=4",
+  "htmlUrl": "https://github.com/huntabyte",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 12956,
+      "repoCountPrimary": 4,
+      "starsContains": 12956,
+      "repoCountContains": 4,
+      "globalRank": 159,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "shadcn-svelte",
+          "fullName": "huntabyte/shadcn-svelte",
+          "stars": 8805,
+          "url": "https://github.com/huntabyte/shadcn-svelte",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "bits-ui",
+          "fullName": "huntabyte/bits-ui",
+          "stars": 3318,
+          "url": "https://github.com/huntabyte/bits-ui",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vaul-svelte",
+          "fullName": "huntabyte/vaul-svelte",
+          "stars": 640,
+          "url": "https://github.com/huntabyte/vaul-svelte",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "chatty",
+          "fullName": "huntabyte/chatty",
+          "stars": 193,
+          "url": "https://github.com/huntabyte/chatty",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

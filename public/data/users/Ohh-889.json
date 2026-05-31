@@ -1,0 +1,34 @@
+{
+  "login": "Ohh-889",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/155351881?v=4",
+  "htmlUrl": "https://github.com/Ohh-889",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 767,
+      "repoCountPrimary": 1,
+      "starsContains": 767,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "skyroc-admin",
+          "fullName": "Ohh-889/skyroc-admin",
+          "stars": 767,
+          "url": "https://github.com/Ohh-889/skyroc-admin",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

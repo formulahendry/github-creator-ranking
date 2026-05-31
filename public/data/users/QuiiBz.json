@@ -1,0 +1,41 @@
+{
+  "login": "QuiiBz",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/43268759?v=4",
+  "htmlUrl": "https://github.com/QuiiBz",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1652,
+      "repoCountPrimary": 2,
+      "starsContains": 1652,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "next-international",
+          "fullName": "QuiiBz/next-international",
+          "stars": 1445,
+          "url": "https://github.com/QuiiBz/next-international",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ogstudio",
+          "fullName": "QuiiBz/ogstudio",
+          "stars": 207,
+          "url": "https://github.com/QuiiBz/ogstudio",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "login": "paulmillr",
+  "name": "Paul Miller",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/574696?v=4",
+  "htmlUrl": "https://github.com/paulmillr",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 17372,
+      "repoCountPrimary": 13,
+      "starsContains": 17372,
+      "repoCountContains": 13,
+      "globalRank": 109,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "chokidar",
+          "fullName": "paulmillr/chokidar",
+          "stars": 12129,
+          "url": "https://github.com/paulmillr/chokidar",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "noble-curves",
+          "fullName": "paulmillr/noble-curves",
+          "stars": 909,
+          "url": "https://github.com/paulmillr/noble-curves",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "noble-secp256k1",
+          "fullName": "paulmillr/noble-secp256k1",
+          "stars": 874,
+          "url": "https://github.com/paulmillr/noble-secp256k1",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "noble-hashes",
+          "fullName": "paulmillr/noble-hashes",
+          "stars": 871,
+          "url": "https://github.com/paulmillr/noble-hashes",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "noble-ed25519",
+          "fullName": "paulmillr/noble-ed25519",
+          "stars": 508,
+          "url": "https://github.com/paulmillr/noble-ed25519",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

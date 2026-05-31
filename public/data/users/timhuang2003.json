@@ -1,0 +1,34 @@
+{
+  "login": "timhuang2003",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/29955972?v=4",
+  "htmlUrl": "https://github.com/timhuang2003",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 283,
+      "repoCountPrimary": 1,
+      "starsContains": 283,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "AINEWPROJECT",
+          "fullName": "timhuang2003/AINEWPROJECT",
+          "stars": 283,
+          "url": "https://github.com/timhuang2003/AINEWPROJECT",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

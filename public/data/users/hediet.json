@@ -1,0 +1,62 @@
+{
+  "login": "hediet",
+  "name": "Henning Dieterichs",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2931520?v=4",
+  "htmlUrl": "https://github.com/hediet",
+  "location": "Zurich",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 18467,
+      "repoCountPrimary": 7,
+      "starsContains": 18467,
+      "repoCountContains": 7,
+      "globalRank": 100,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vscode-drawio",
+          "fullName": "hediet/vscode-drawio",
+          "stars": 9444,
+          "url": "https://github.com/hediet/vscode-drawio",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vscode-debug-visualizer",
+          "fullName": "hediet/vscode-debug-visualizer",
+          "stars": 8162,
+          "url": "https://github.com/hediet/vscode-debug-visualizer",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vscode-realtime-debugging",
+          "fullName": "hediet/vscode-realtime-debugging",
+          "stars": 278,
+          "url": "https://github.com/hediet/vscode-realtime-debugging",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "browser-ext-github-monaco",
+          "fullName": "hediet/browser-ext-github-monaco",
+          "stars": 259,
+          "url": "https://github.com/hediet/browser-ext-github-monaco",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "easy-attach",
+          "fullName": "hediet/easy-attach",
+          "stars": 109,
+          "url": "https://github.com/hediet/easy-attach",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "AERT-7Y",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/265234268?v=4",
+  "htmlUrl": "https://github.com/AERT-7Y",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 645,
+      "repoCountPrimary": 1,
+      "starsContains": 645,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "kiro-auto",
+          "fullName": "AERT-7Y/kiro-auto",
+          "stars": 645,
+          "url": "https://github.com/AERT-7Y/kiro-auto",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

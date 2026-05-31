@@ -1,0 +1,34 @@
+{
+  "login": "cexll",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/26520956?v=4",
+  "htmlUrl": "https://github.com/cexll",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 175,
+      "repoCountPrimary": 1,
+      "starsContains": 175,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "codex-mcp-server",
+          "fullName": "cexll/codex-mcp-server",
+          "stars": 175,
+          "url": "https://github.com/cexll/codex-mcp-server",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

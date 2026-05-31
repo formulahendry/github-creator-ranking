@@ -1,0 +1,41 @@
+{
+  "login": "PleasePrompto",
+  "name": "Please Prompto!",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/238042401?v=4",
+  "htmlUrl": "https://github.com/PleasePrompto",
+  "location": "Germany",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2761,
+      "repoCountPrimary": 2,
+      "starsContains": 2761,
+      "repoCountContains": 2,
+      "globalRank": 972,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "notebooklm-mcp",
+          "fullName": "PleasePrompto/notebooklm-mcp",
+          "stars": 2639,
+          "url": "https://github.com/PleasePrompto/notebooklm-mcp",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "google-ai-mode-mcp",
+          "fullName": "PleasePrompto/google-ai-mode-mcp",
+          "stars": 122,
+          "url": "https://github.com/PleasePrompto/google-ai-mode-mcp",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

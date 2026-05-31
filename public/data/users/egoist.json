@@ -1,0 +1,62 @@
+{
+  "login": "egoist",
+  "name": "EGOIST",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/8784712?v=4",
+  "htmlUrl": "https://github.com/egoist",
+  "location": "China",
+  "countryCode": "CN",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 26600,
+      "repoCountPrimary": 46,
+      "starsContains": 26600,
+      "repoCountContains": 46,
+      "globalRank": 57,
+      "countryRank": 6,
+      "topRepos": [
+        {
+          "name": "tsup",
+          "fullName": "egoist/tsup",
+          "stars": 11256,
+          "url": "https://github.com/egoist/tsup",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "sitefetch",
+          "fullName": "egoist/sitefetch",
+          "stars": 1733,
+          "url": "https://github.com/egoist/sitefetch",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "chatwise-releases",
+          "fullName": "egoist/chatwise-releases",
+          "stars": 1343,
+          "url": "https://github.com/egoist/chatwise-releases",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "bili",
+          "fullName": "egoist/bili",
+          "stars": 1033,
+          "url": "https://github.com/egoist/bili",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "esbuild-register",
+          "fullName": "egoist/esbuild-register",
+          "stars": 1015,
+          "url": "https://github.com/egoist/esbuild-register",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

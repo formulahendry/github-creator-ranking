@@ -1,0 +1,41 @@
+{
+  "login": "Pustur",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/13663338?v=4",
+  "htmlUrl": "https://github.com/Pustur",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 482,
+      "repoCountPrimary": 2,
+      "starsContains": 482,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "whatsapp-chat-parser-website",
+          "fullName": "Pustur/whatsapp-chat-parser-website",
+          "stars": 265,
+          "url": "https://github.com/Pustur/whatsapp-chat-parser-website",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "whatsapp-chat-parser",
+          "fullName": "Pustur/whatsapp-chat-parser",
+          "stars": 217,
+          "url": "https://github.com/Pustur/whatsapp-chat-parser",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

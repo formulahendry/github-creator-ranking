@@ -1,0 +1,34 @@
+{
+  "login": "konstantinruge",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/46243719?v=4",
+  "htmlUrl": "https://github.com/konstantinruge",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 169,
+      "repoCountPrimary": 1,
+      "starsContains": 169,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "gatsby-theme-portfolio-minimal",
+          "fullName": "konstantinruge/gatsby-theme-portfolio-minimal",
+          "stars": 169,
+          "url": "https://github.com/konstantinruge/gatsby-theme-portfolio-minimal",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

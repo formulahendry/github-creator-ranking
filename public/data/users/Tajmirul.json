@@ -1,0 +1,34 @@
+{
+  "login": "Tajmirul",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/62275307?v=4",
+  "htmlUrl": "https://github.com/Tajmirul",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 198,
+      "repoCountPrimary": 1,
+      "starsContains": 198,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "portfolio-2.0",
+          "fullName": "Tajmirul/portfolio-2.0",
+          "stars": 198,
+          "url": "https://github.com/Tajmirul/portfolio-2.0",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

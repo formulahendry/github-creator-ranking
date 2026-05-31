@@ -1,0 +1,34 @@
+{
+  "login": "Abhiz2411",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/66440654?v=4",
+  "htmlUrl": "https://github.com/Abhiz2411",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 310,
+      "repoCountPrimary": 1,
+      "starsContains": 310,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "3D-interactive-portfolio",
+          "fullName": "Abhiz2411/3D-interactive-portfolio",
+          "stars": 310,
+          "url": "https://github.com/Abhiz2411/3D-interactive-portfolio",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

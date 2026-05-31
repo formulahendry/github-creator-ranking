@@ -1,0 +1,41 @@
+{
+  "login": "nateshmbhat",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/23279926?v=4",
+  "htmlUrl": "https://github.com/nateshmbhat",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 215,
+      "repoCountPrimary": 2,
+      "starsContains": 215,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "electron-react-ts-starter",
+          "fullName": "nateshmbhat/electron-react-ts-starter",
+          "stars": 114,
+          "url": "https://github.com/nateshmbhat/electron-react-ts-starter",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "windows-terminal-tweaker",
+          "fullName": "nateshmbhat/windows-terminal-tweaker",
+          "stars": 101,
+          "url": "https://github.com/nateshmbhat/windows-terminal-tweaker",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

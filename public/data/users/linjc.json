@@ -1,0 +1,48 @@
+{
+  "login": "linjc",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/23377681?v=4",
+  "htmlUrl": "https://github.com/linjc",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1420,
+      "repoCountPrimary": 3,
+      "starsContains": 1420,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "smooth-signature",
+          "fullName": "linjc/smooth-signature",
+          "stars": 1014,
+          "url": "https://github.com/linjc/smooth-signature",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "mini-smooth-signature",
+          "fullName": "linjc/mini-smooth-signature",
+          "stars": 228,
+          "url": "https://github.com/linjc/mini-smooth-signature",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "mini-stores",
+          "fullName": "linjc/mini-stores",
+          "stars": 178,
+          "url": "https://github.com/linjc/mini-stores",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

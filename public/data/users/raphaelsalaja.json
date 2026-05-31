@@ -1,0 +1,62 @@
+{
+  "login": "raphaelsalaja",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/52125687?v=4",
+  "htmlUrl": "https://github.com/raphaelsalaja",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2198,
+      "repoCountPrimary": 6,
+      "starsContains": 2198,
+      "repoCountContains": 6,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "userinterface-wiki",
+          "fullName": "raphaelsalaja/userinterface-wiki",
+          "stars": 778,
+          "url": "https://github.com/raphaelsalaja/userinterface-wiki",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "audio",
+          "fullName": "raphaelsalaja/audio",
+          "stars": 364,
+          "url": "https://github.com/raphaelsalaja/audio",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "sylph",
+          "fullName": "raphaelsalaja/sylph",
+          "stars": 333,
+          "url": "https://github.com/raphaelsalaja/sylph",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "toldo",
+          "fullName": "raphaelsalaja/toldo",
+          "stars": 290,
+          "url": "https://github.com/raphaelsalaja/toldo",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "calligraph",
+          "fullName": "raphaelsalaja/calligraph",
+          "stars": 242,
+          "url": "https://github.com/raphaelsalaja/calligraph",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

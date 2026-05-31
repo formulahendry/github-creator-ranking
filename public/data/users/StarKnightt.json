@@ -1,0 +1,41 @@
+{
+  "login": "StarKnightt",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/92244026?v=4",
+  "htmlUrl": "https://github.com/StarKnightt",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 314,
+      "repoCountPrimary": 2,
+      "starsContains": 314,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "prasendev",
+          "fullName": "StarKnightt/prasendev",
+          "stars": 197,
+          "url": "https://github.com/StarKnightt/prasendev",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "liquid-effect-animation",
+          "fullName": "StarKnightt/liquid-effect-animation",
+          "stars": 117,
+          "url": "https://github.com/StarKnightt/liquid-effect-animation",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

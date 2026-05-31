@@ -1,0 +1,34 @@
+{
+  "login": "AVIDS2",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/172191005?v=4",
+  "htmlUrl": "https://github.com/AVIDS2",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 443,
+      "repoCountPrimary": 1,
+      "starsContains": 443,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "memorix",
+          "fullName": "AVIDS2/memorix",
+          "stars": 443,
+          "url": "https://github.com/AVIDS2/memorix",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

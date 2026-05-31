@@ -1,0 +1,34 @@
+{
+  "login": "xmlking",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/627951?v=4",
+  "htmlUrl": "https://github.com/xmlking",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 581,
+      "repoCountPrimary": 1,
+      "starsContains": 581,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ngx-starter-kit",
+          "fullName": "xmlking/ngx-starter-kit",
+          "stars": 581,
+          "url": "https://github.com/xmlking/ngx-starter-kit",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

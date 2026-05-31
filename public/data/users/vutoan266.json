@@ -1,0 +1,34 @@
+{
+  "login": "vutoan266",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/18349710?v=4",
+  "htmlUrl": "https://github.com/vutoan266",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 320,
+      "repoCountPrimary": 1,
+      "starsContains": 320,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-images-uploading",
+          "fullName": "vutoan266/react-images-uploading",
+          "stars": 320,
+          "url": "https://github.com/vutoan266/react-images-uploading",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "FlorianBruniaux",
+  "name": "Florian BRUNIAUX",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3902606?v=4",
+  "htmlUrl": "https://github.com/FlorianBruniaux",
+  "location": "Provins",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 4593,
+      "repoCountPrimary": 1,
+      "starsContains": 4593,
+      "repoCountContains": 1,
+      "globalRank": 560,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "claude-code-ultimate-guide",
+          "fullName": "FlorianBruniaux/claude-code-ultimate-guide",
+          "stars": 4593,
+          "url": "https://github.com/FlorianBruniaux/claude-code-ultimate-guide",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

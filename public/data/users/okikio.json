@@ -1,0 +1,41 @@
+{
+  "login": "okikio",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/17222836?v=4",
+  "htmlUrl": "https://github.com/okikio",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1110,
+      "repoCountPrimary": 2,
+      "starsContains": 1110,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "bundlejs",
+          "fullName": "okikio/bundlejs",
+          "stars": 912,
+          "url": "https://github.com/okikio/bundlejs",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "inthistweet",
+          "fullName": "okikio/inthistweet",
+          "stars": 198,
+          "url": "https://github.com/okikio/inthistweet",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

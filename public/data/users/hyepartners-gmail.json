@@ -1,0 +1,34 @@
+{
+  "login": "hyepartners-gmail",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/132968914?v=4",
+  "htmlUrl": "https://github.com/hyepartners-gmail",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 217,
+      "repoCountPrimary": 1,
+      "starsContains": 217,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vibevideo-mcp",
+          "fullName": "hyepartners-gmail/vibevideo-mcp",
+          "stars": 217,
+          "url": "https://github.com/hyepartners-gmail/vibevideo-mcp",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

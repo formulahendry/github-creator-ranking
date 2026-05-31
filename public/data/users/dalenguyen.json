@@ -1,0 +1,48 @@
+{
+  "login": "dalenguyen",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/14116156?v=4",
+  "htmlUrl": "https://github.com/dalenguyen",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1075,
+      "repoCountPrimary": 3,
+      "starsContains": 1075,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "firestore-backup-restore",
+          "fullName": "dalenguyen/firestore-backup-restore",
+          "stars": 497,
+          "url": "https://github.com/dalenguyen/firestore-backup-restore",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "rest-api-node-typescript",
+          "fullName": "dalenguyen/rest-api-node-typescript",
+          "stars": 469,
+          "url": "https://github.com/dalenguyen/rest-api-node-typescript",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "serverless-rest-api",
+          "fullName": "dalenguyen/serverless-rest-api",
+          "stars": 109,
+          "url": "https://github.com/dalenguyen/serverless-rest-api",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

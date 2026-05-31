@@ -1,0 +1,34 @@
+{
+  "login": "samarthagarwal",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3234592?v=4",
+  "htmlUrl": "https://github.com/samarthagarwal",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 209,
+      "repoCountPrimary": 1,
+      "starsContains": 209,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "wooionic3",
+          "fullName": "samarthagarwal/wooionic3",
+          "stars": 209,
+          "url": "https://github.com/samarthagarwal/wooionic3",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

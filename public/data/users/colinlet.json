@@ -1,0 +1,34 @@
+{
+  "login": "colinlet",
+  "name": "凌枫",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/8656366?v=4",
+  "htmlUrl": "https://github.com/colinlet",
+  "location": "深圳",
+  "countryCode": "CN",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2954,
+      "repoCountPrimary": 1,
+      "starsContains": 2954,
+      "repoCountContains": 1,
+      "globalRank": 912,
+      "countryRank": 109,
+      "topRepos": [
+        {
+          "name": "PHP-Interview-QA",
+          "fullName": "colinlet/PHP-Interview-QA",
+          "stars": 2954,
+          "url": "https://github.com/colinlet/PHP-Interview-QA",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

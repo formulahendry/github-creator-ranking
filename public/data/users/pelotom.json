@@ -1,0 +1,55 @@
+{
+  "login": "pelotom",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/128019?v=4",
+  "htmlUrl": "https://github.com/pelotom",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1827,
+      "repoCountPrimary": 4,
+      "starsContains": 1827,
+      "repoCountContains": 4,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "use-methods",
+          "fullName": "pelotom/use-methods",
+          "stars": 711,
+          "url": "https://github.com/pelotom/use-methods",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "type-zoo",
+          "fullName": "pelotom/type-zoo",
+          "stars": 498,
+          "url": "https://github.com/pelotom/type-zoo",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "unionize",
+          "fullName": "pelotom/unionize",
+          "stars": 403,
+          "url": "https://github.com/pelotom/unionize",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "hkts",
+          "fullName": "pelotom/hkts",
+          "stars": 215,
+          "url": "https://github.com/pelotom/hkts",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

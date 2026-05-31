@@ -1,0 +1,34 @@
+{
+  "login": "turaling",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/23704367?v=4",
+  "htmlUrl": "https://github.com/turaling",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 452,
+      "repoCountPrimary": 1,
+      "starsContains": 452,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vscode-portfolio",
+          "fullName": "turaling/vscode-portfolio",
+          "stars": 452,
+          "url": "https://github.com/turaling/vscode-portfolio",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "zhengkyl",
+  "name": "Kyle Zheng",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/45705859?v=4",
+  "htmlUrl": "https://github.com/zhengkyl",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3369,
+      "repoCountPrimary": 1,
+      "starsContains": 3369,
+      "repoCountContains": 1,
+      "globalRank": 805,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "qrframe",
+          "fullName": "zhengkyl/qrframe",
+          "stars": 3369,
+          "url": "https://github.com/zhengkyl/qrframe",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

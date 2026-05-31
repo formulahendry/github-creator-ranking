@@ -1,0 +1,41 @@
+{
+  "login": "Ellpeck",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5741138?v=4",
+  "htmlUrl": "https://github.com/Ellpeck",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1016,
+      "repoCountPrimary": 2,
+      "starsContains": 1016,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ObsidianCustomFrames",
+          "fullName": "Ellpeck/ObsidianCustomFrames",
+          "stars": 821,
+          "url": "https://github.com/Ellpeck/ObsidianCustomFrames",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ObsidianSimpleTimeTracker",
+          "fullName": "Ellpeck/ObsidianSimpleTimeTracker",
+          "stars": 195,
+          "url": "https://github.com/Ellpeck/ObsidianSimpleTimeTracker",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

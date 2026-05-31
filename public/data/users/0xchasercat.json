@@ -1,0 +1,41 @@
+{
+  "login": "0xchasercat",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/182936445?v=4",
+  "htmlUrl": "https://github.com/0xchasercat",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1868,
+      "repoCountPrimary": 2,
+      "starsContains": 1868,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "flint",
+          "fullName": "0xchasercat/flint",
+          "stars": 1663,
+          "url": "https://github.com/0xchasercat/flint",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "mochi",
+          "fullName": "0xchasercat/mochi",
+          "stars": 205,
+          "url": "https://github.com/0xchasercat/mochi",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

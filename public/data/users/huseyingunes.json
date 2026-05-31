@@ -1,0 +1,34 @@
+{
+  "login": "huseyingunes",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1270814?v=4",
+  "htmlUrl": "https://github.com/huseyingunes",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 129,
+      "repoCountPrimary": 1,
+      "starsContains": 129,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ileri_internet_programlama",
+          "fullName": "huseyingunes/ileri_internet_programlama",
+          "stars": 129,
+          "url": "https://github.com/huseyingunes/ileri_internet_programlama",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

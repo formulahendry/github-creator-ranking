@@ -1,0 +1,34 @@
+{
+  "login": "imtiger",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2855042?v=4",
+  "htmlUrl": "https://github.com/imtiger",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 221,
+      "repoCountPrimary": 1,
+      "starsContains": 221,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "wxt-react-shadcn-tailwindcss-chrome-extension",
+          "fullName": "imtiger/wxt-react-shadcn-tailwindcss-chrome-extension",
+          "stars": 221,
+          "url": "https://github.com/imtiger/wxt-react-shadcn-tailwindcss-chrome-extension",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

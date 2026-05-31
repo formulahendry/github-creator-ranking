@@ -1,0 +1,41 @@
+{
+  "login": "ardov",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/20913587?v=4",
+  "htmlUrl": "https://github.com/ardov",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 710,
+      "repoCountPrimary": 2,
+      "starsContains": 710,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "huetone",
+          "fullName": "ardov/huetone",
+          "stars": 440,
+          "url": "https://github.com/ardov/huetone",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "zerro",
+          "fullName": "ardov/zerro",
+          "stars": 270,
+          "url": "https://github.com/ardov/zerro",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

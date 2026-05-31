@@ -1,0 +1,34 @@
+{
+  "login": "SohelIslamImran",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/76745339?v=4",
+  "htmlUrl": "https://github.com/SohelIslamImran",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 272,
+      "repoCountPrimary": 1,
+      "starsContains": 272,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "expo-in-app-updates",
+          "fullName": "SohelIslamImran/expo-in-app-updates",
+          "stars": 272,
+          "url": "https://github.com/SohelIslamImran/expo-in-app-updates",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

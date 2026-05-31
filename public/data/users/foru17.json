@@ -1,0 +1,41 @@
+{
+  "login": "foru17",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1920586?v=4",
+  "htmlUrl": "https://github.com/foru17",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2215,
+      "repoCountPrimary": 2,
+      "starsContains": 2215,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "neko-master",
+          "fullName": "foru17/neko-master",
+          "stars": 1885,
+          "url": "https://github.com/foru17/neko-master",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "make-x-great-again",
+          "fullName": "foru17/make-x-great-again",
+          "stars": 330,
+          "url": "https://github.com/foru17/make-x-great-again",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

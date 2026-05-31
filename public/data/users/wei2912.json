@@ -1,0 +1,34 @@
+{
+  "login": "wei2912",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2070423?v=4",
+  "htmlUrl": "https://github.com/wei2912",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 187,
+      "repoCountPrimary": 1,
+      "starsContains": 187,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "obsidian-latex",
+          "fullName": "wei2912/obsidian-latex",
+          "stars": 187,
+          "url": "https://github.com/wei2912/obsidian-latex",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

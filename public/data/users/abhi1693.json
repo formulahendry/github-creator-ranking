@@ -1,0 +1,34 @@
+{
+  "login": "abhi1693",
+  "name": "Abhimanyu Saharan",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5083532?v=4",
+  "htmlUrl": "https://github.com/abhi1693",
+  "location": "India",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 4008,
+      "repoCountPrimary": 1,
+      "starsContains": 4008,
+      "repoCountContains": 1,
+      "globalRank": 659,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "openclaw-mission-control",
+          "fullName": "abhi1693/openclaw-mission-control",
+          "stars": 4008,
+          "url": "https://github.com/abhi1693/openclaw-mission-control",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

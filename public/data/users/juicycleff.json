@@ -1,0 +1,41 @@
+{
+  "login": "juicycleff",
+  "name": "Rex Raphael",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/11243590?v=4",
+  "htmlUrl": "https://github.com/juicycleff",
+  "location": "Texas, USA",
+  "countryCode": "US",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3101,
+      "repoCountPrimary": 2,
+      "starsContains": 3101,
+      "repoCountContains": 2,
+      "globalRank": 870,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ultimate-backend",
+          "fullName": "juicycleff/ultimate-backend",
+          "stars": 2898,
+          "url": "https://github.com/juicycleff/ultimate-backend",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "nestjs-event-store",
+          "fullName": "juicycleff/nestjs-event-store",
+          "stars": 203,
+          "url": "https://github.com/juicycleff/nestjs-event-store",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

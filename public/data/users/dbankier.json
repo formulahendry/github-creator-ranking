@@ -1,0 +1,34 @@
+{
+  "login": "dbankier",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/806365?v=4",
+  "htmlUrl": "https://github.com/dbankier",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 133,
+      "repoCountPrimary": 1,
+      "starsContains": 133,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vscode-quick-select",
+          "fullName": "dbankier/vscode-quick-select",
+          "stars": 133,
+          "url": "https://github.com/dbankier/vscode-quick-select",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

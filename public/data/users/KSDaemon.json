@@ -1,0 +1,34 @@
+{
+  "login": "KSDaemon",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/458096?v=4",
+  "htmlUrl": "https://github.com/KSDaemon",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 300,
+      "repoCountPrimary": 1,
+      "starsContains": 300,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "wampy.js",
+          "fullName": "KSDaemon/wampy.js",
+          "stars": 300,
+          "url": "https://github.com/KSDaemon/wampy.js",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

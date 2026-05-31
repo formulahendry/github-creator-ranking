@@ -1,0 +1,34 @@
+{
+  "login": "Whopus",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/180406008?v=4",
+  "htmlUrl": "https://github.com/Whopus",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 888,
+      "repoCountPrimary": 1,
+      "starsContains": 888,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "yome-agent",
+          "fullName": "Whopus/yome-agent",
+          "stars": 888,
+          "url": "https://github.com/Whopus/yome-agent",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

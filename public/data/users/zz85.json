@@ -1,0 +1,34 @@
+{
+  "login": "zz85",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/314997?v=4",
+  "htmlUrl": "https://github.com/zz85",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1440,
+      "repoCountPrimary": 1,
+      "starsContains": 1440,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "space-radar",
+          "fullName": "zz85/space-radar",
+          "stars": 1440,
+          "url": "https://github.com/zz85/space-radar",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

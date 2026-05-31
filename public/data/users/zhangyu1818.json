@@ -1,0 +1,41 @@
+{
+  "login": "zhangyu1818",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/11534968?v=4",
+  "htmlUrl": "https://github.com/zhangyu1818",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1134,
+      "repoCountPrimary": 2,
+      "starsContains": 1134,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "appicon-forge",
+          "fullName": "zhangyu1818/appicon-forge",
+          "stars": 997,
+          "url": "https://github.com/zhangyu1818/appicon-forge",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "blog",
+          "fullName": "zhangyu1818/blog",
+          "stars": 137,
+          "url": "https://github.com/zhangyu1818/blog",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

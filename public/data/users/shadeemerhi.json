@@ -1,0 +1,41 @@
+{
+  "login": "shadeemerhi",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/65373763?v=4",
+  "htmlUrl": "https://github.com/shadeemerhi",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 343,
+      "repoCountPrimary": 2,
+      "starsContains": 343,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "reddit-clone-yt",
+          "fullName": "shadeemerhi/reddit-clone-yt",
+          "stars": 242,
+          "url": "https://github.com/shadeemerhi/reddit-clone-yt",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "imessage-graphql",
+          "fullName": "shadeemerhi/imessage-graphql",
+          "stars": 101,
+          "url": "https://github.com/shadeemerhi/imessage-graphql",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

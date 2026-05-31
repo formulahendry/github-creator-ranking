@@ -1,0 +1,62 @@
+{
+  "login": "mazipan",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7221389?v=4",
+  "htmlUrl": "https://github.com/mazipan",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1251,
+      "repoCountPrimary": 6,
+      "starsContains": 1251,
+      "repoCountContains": 6,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "baca-quran.id",
+          "fullName": "mazipan/baca-quran.id",
+          "stars": 433,
+          "url": "https://github.com/mazipan/baca-quran.id",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vue-currency-filter",
+          "fullName": "mazipan/vue-currency-filter",
+          "stars": 244,
+          "url": "https://github.com/mazipan/vue-currency-filter",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ksana.in",
+          "fullName": "mazipan/ksana.in",
+          "stars": 199,
+          "url": "https://github.com/mazipan/ksana.in",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "tanyaaja.in",
+          "fullName": "mazipan/tanyaaja.in",
+          "stars": 147,
+          "url": "https://github.com/mazipan/tanyaaja.in",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "nuxt-storage",
+          "fullName": "mazipan/nuxt-storage",
+          "stars": 128,
+          "url": "https://github.com/mazipan/nuxt-storage",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "AlariCode",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2528600?v=4",
+  "htmlUrl": "https://github.com/AlariCode",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 455,
+      "repoCountPrimary": 2,
+      "starsContains": 455,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "nestjs-rmq",
+          "fullName": "AlariCode/nestjs-rmq",
+          "stars": 321,
+          "url": "https://github.com/AlariCode/nestjs-rmq",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "top-app-demo",
+          "fullName": "AlariCode/top-app-demo",
+          "stars": 134,
+          "url": "https://github.com/AlariCode/top-app-demo",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

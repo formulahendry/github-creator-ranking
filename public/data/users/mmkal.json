@@ -1,0 +1,62 @@
+{
+  "login": "mmkal",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/15040698?v=4",
+  "htmlUrl": "https://github.com/mmkal",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1524,
+      "repoCountPrimary": 5,
+      "starsContains": 1524,
+      "repoCountContains": 5,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "expect-type",
+          "fullName": "mmkal/expect-type",
+          "stars": 555,
+          "url": "https://github.com/mmkal/expect-type",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "trpc-cli",
+          "fullName": "mmkal/trpc-cli",
+          "stars": 357,
+          "url": "https://github.com/mmkal/trpc-cli",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "pgkit",
+          "fullName": "mmkal/pgkit",
+          "stars": 288,
+          "url": "https://github.com/mmkal/pgkit",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "handy-redis",
+          "fullName": "mmkal/handy-redis",
+          "stars": 173,
+          "url": "https://github.com/mmkal/handy-redis",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ts",
+          "fullName": "mmkal/ts",
+          "stars": 151,
+          "url": "https://github.com/mmkal/ts",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

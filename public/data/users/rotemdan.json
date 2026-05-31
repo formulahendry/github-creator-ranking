@@ -1,0 +1,34 @@
+{
+  "login": "rotemdan",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/8589488?v=4",
+  "htmlUrl": "https://github.com/rotemdan",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 327,
+      "repoCountPrimary": 1,
+      "starsContains": 327,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "lzutf8.js",
+          "fullName": "rotemdan/lzutf8.js",
+          "stars": 327,
+          "url": "https://github.com/rotemdan/lzutf8.js",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

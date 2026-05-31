@@ -1,0 +1,41 @@
+{
+  "login": "geekdada",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3274850?v=4",
+  "htmlUrl": "https://github.com/geekdada",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 502,
+      "repoCountPrimary": 2,
+      "starsContains": 502,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "yasd",
+          "fullName": "geekdada/yasd",
+          "stars": 293,
+          "url": "https://github.com/geekdada/yasd",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "bob-plugin-deepl-translate",
+          "fullName": "geekdada/bob-plugin-deepl-translate",
+          "stars": 209,
+          "url": "https://github.com/geekdada/bob-plugin-deepl-translate",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

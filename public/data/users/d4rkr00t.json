@@ -1,0 +1,41 @@
+{
+  "login": "d4rkr00t",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/200119?v=4",
+  "htmlUrl": "https://github.com/d4rkr00t",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 879,
+      "repoCountPrimary": 2,
+      "starsContains": 879,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "whybundled",
+          "fullName": "d4rkr00t/whybundled",
+          "stars": 533,
+          "url": "https://github.com/d4rkr00t/whybundled",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "prosemirror-dev-tools",
+          "fullName": "d4rkr00t/prosemirror-dev-tools",
+          "stars": 346,
+          "url": "https://github.com/d4rkr00t/prosemirror-dev-tools",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

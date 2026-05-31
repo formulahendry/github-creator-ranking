@@ -1,0 +1,48 @@
+{
+  "login": "hexrcs",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/26751752?v=4",
+  "htmlUrl": "https://github.com/hexrcs",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 443,
+      "repoCountPrimary": 3,
+      "starsContains": 443,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "prisma-next-auth",
+          "fullName": "hexrcs/prisma-next-auth",
+          "stars": 189,
+          "url": "https://github.com/hexrcs/prisma-next-auth",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "wiki-cli",
+          "fullName": "hexrcs/wiki-cli",
+          "stars": 151,
+          "url": "https://github.com/hexrcs/wiki-cli",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "fullstack-graphql-next-nexus-prisma",
+          "fullName": "hexrcs/fullstack-graphql-next-nexus-prisma",
+          "stars": 103,
+          "url": "https://github.com/hexrcs/fullstack-graphql-next-nexus-prisma",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

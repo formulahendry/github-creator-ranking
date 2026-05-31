@@ -1,0 +1,48 @@
+{
+  "login": "chrisgrieser",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/73286100?v=4",
+  "htmlUrl": "https://github.com/chrisgrieser",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 436,
+      "repoCountPrimary": 3,
+      "starsContains": 436,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "obsidian-theme-design-utilities",
+          "fullName": "chrisgrieser/obsidian-theme-design-utilities",
+          "stars": 150,
+          "url": "https://github.com/chrisgrieser/obsidian-theme-design-utilities",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "obsidian-quadro",
+          "fullName": "chrisgrieser/obsidian-quadro",
+          "stars": 146,
+          "url": "https://github.com/chrisgrieser/obsidian-quadro",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "obsidian-smarter-md-hotkeys",
+          "fullName": "chrisgrieser/obsidian-smarter-md-hotkeys",
+          "stars": 140,
+          "url": "https://github.com/chrisgrieser/obsidian-smarter-md-hotkeys",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

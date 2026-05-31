@@ -1,0 +1,41 @@
+{
+  "login": "daniel-sc",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/117919?v=4",
+  "htmlUrl": "https://github.com/daniel-sc",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 463,
+      "repoCountPrimary": 2,
+      "starsContains": 463,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "bash-shell-to-bat-converter",
+          "fullName": "daniel-sc/bash-shell-to-bat-converter",
+          "stars": 243,
+          "url": "https://github.com/daniel-sc/bash-shell-to-bat-converter",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ng-extract-i18n-merge",
+          "fullName": "daniel-sc/ng-extract-i18n-merge",
+          "stars": 220,
+          "url": "https://github.com/daniel-sc/ng-extract-i18n-merge",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

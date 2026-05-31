@@ -1,0 +1,48 @@
+{
+  "login": "aigem",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/143108111?v=4",
+  "htmlUrl": "https://github.com/aigem",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 645,
+      "repoCountPrimary": 3,
+      "starsContains": 645,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "aice_ps",
+          "fullName": "aigem/aice_ps",
+          "stars": 332,
+          "url": "https://github.com/aigem/aice_ps",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "CFr2-webdav",
+          "fullName": "aigem/CFr2-webdav",
+          "stars": 197,
+          "url": "https://github.com/aigem/CFr2-webdav",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "cf-flux-remix",
+          "fullName": "aigem/cf-flux-remix",
+          "stars": 116,
+          "url": "https://github.com/aigem/cf-flux-remix",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

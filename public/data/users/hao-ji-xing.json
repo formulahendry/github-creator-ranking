@@ -1,0 +1,41 @@
+{
+  "login": "hao-ji-xing",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1819149?v=4",
+  "htmlUrl": "https://github.com/hao-ji-xing",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 403,
+      "repoCountPrimary": 2,
+      "starsContains": 403,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "openclaw-weixin",
+          "fullName": "hao-ji-xing/openclaw-weixin",
+          "stars": 259,
+          "url": "https://github.com/hao-ji-xing/openclaw-weixin",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "cc-weixin",
+          "fullName": "hao-ji-xing/cc-weixin",
+          "stars": 144,
+          "url": "https://github.com/hao-ji-xing/cc-weixin",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "login": "w8r",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/26884?v=4",
+  "htmlUrl": "https://github.com/w8r",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1255,
+      "repoCountPrimary": 4,
+      "starsContains": 1255,
+      "repoCountContains": 4,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "martinez",
+          "fullName": "w8r/martinez",
+          "stars": 765,
+          "url": "https://github.com/w8r/martinez",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "GreinerHormann",
+          "fullName": "w8r/GreinerHormann",
+          "stars": 250,
+          "url": "https://github.com/w8r/GreinerHormann",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "splay-tree",
+          "fullName": "w8r/splay-tree",
+          "stars": 121,
+          "url": "https://github.com/w8r/splay-tree",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "avl",
+          "fullName": "w8r/avl",
+          "stars": 119,
+          "url": "https://github.com/w8r/avl",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

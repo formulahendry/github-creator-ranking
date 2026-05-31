@@ -1,0 +1,34 @@
+{
+  "login": "JakeBecker",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/547940?v=4",
+  "htmlUrl": "https://github.com/JakeBecker",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 387,
+      "repoCountPrimary": 1,
+      "starsContains": 387,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vscode-elixir-ls",
+          "fullName": "JakeBecker/vscode-elixir-ls",
+          "stars": 387,
+          "url": "https://github.com/JakeBecker/vscode-elixir-ls",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

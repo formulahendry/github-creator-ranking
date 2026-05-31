@@ -1,0 +1,34 @@
+{
+  "login": "tomwanzek",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/16323903?v=4",
+  "htmlUrl": "https://github.com/tomwanzek",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 204,
+      "repoCountPrimary": 1,
+      "starsContains": 204,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "d3-ng2-service",
+          "fullName": "tomwanzek/d3-ng2-service",
+          "stars": 204,
+          "url": "https://github.com/tomwanzek/d3-ng2-service",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

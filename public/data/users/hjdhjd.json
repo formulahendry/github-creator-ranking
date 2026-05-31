@@ -1,0 +1,62 @@
+{
+  "login": "hjdhjd",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/20155129?v=4",
+  "htmlUrl": "https://github.com/hjdhjd",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2952,
+      "repoCountPrimary": 5,
+      "starsContains": 2952,
+      "repoCountContains": 5,
+      "globalRank": 915,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "homebridge-unifi-protect",
+          "fullName": "hjdhjd/homebridge-unifi-protect",
+          "stars": 1735,
+          "url": "https://github.com/hjdhjd/homebridge-unifi-protect",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "homebridge-myq",
+          "fullName": "hjdhjd/homebridge-myq",
+          "stars": 546,
+          "url": "https://github.com/hjdhjd/homebridge-myq",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "unifi-protect",
+          "fullName": "hjdhjd/unifi-protect",
+          "stars": 388,
+          "url": "https://github.com/hjdhjd/unifi-protect",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "myq",
+          "fullName": "hjdhjd/myq",
+          "stars": 156,
+          "url": "https://github.com/hjdhjd/myq",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "homebridge-ratgdo",
+          "fullName": "hjdhjd/homebridge-ratgdo",
+          "stars": 127,
+          "url": "https://github.com/hjdhjd/homebridge-ratgdo",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

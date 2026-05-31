@@ -1,0 +1,41 @@
+{
+  "login": "bartholomej",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5861310?v=4",
+  "htmlUrl": "https://github.com/bartholomej",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 463,
+      "repoCountPrimary": 2,
+      "starsContains": 463,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "svelte-sitemap",
+          "fullName": "bartholomej/svelte-sitemap",
+          "stars": 349,
+          "url": "https://github.com/bartholomej/svelte-sitemap",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "material-scrolltop",
+          "fullName": "bartholomej/material-scrolltop",
+          "stars": 114,
+          "url": "https://github.com/bartholomej/material-scrolltop",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

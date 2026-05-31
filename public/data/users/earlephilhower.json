@@ -1,0 +1,34 @@
+{
+  "login": "earlephilhower",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/11875?v=4",
+  "htmlUrl": "https://github.com/earlephilhower",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 338,
+      "repoCountPrimary": 1,
+      "starsContains": 338,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "arduino-littlefs-upload",
+          "fullName": "earlephilhower/arduino-littlefs-upload",
+          "stars": 338,
+          "url": "https://github.com/earlephilhower/arduino-littlefs-upload",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

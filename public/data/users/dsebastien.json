@@ -1,0 +1,41 @@
+{
+  "login": "dsebastien",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/89887?v=4",
+  "htmlUrl": "https://github.com/dsebastien",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 370,
+      "repoCountPrimary": 2,
+      "starsContains": 370,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "obsidian-life-tracker-base-view",
+          "fullName": "dsebastien/obsidian-life-tracker-base-view",
+          "stars": 218,
+          "url": "https://github.com/dsebastien/obsidian-life-tracker-base-view",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "obsidian-dataview-serializer",
+          "fullName": "dsebastien/obsidian-dataview-serializer",
+          "stars": 152,
+          "url": "https://github.com/dsebastien/obsidian-dataview-serializer",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

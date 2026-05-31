@@ -1,0 +1,34 @@
+{
+  "login": "Mr-Quin",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/8700123?v=4",
+  "htmlUrl": "https://github.com/Mr-Quin",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 515,
+      "repoCountPrimary": 1,
+      "starsContains": 515,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "danmaku-anywhere",
+          "fullName": "Mr-Quin/danmaku-anywhere",
+          "stars": 515,
+          "url": "https://github.com/Mr-Quin/danmaku-anywhere",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

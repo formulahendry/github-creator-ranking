@@ -1,0 +1,41 @@
+{
+  "login": "sanshao85",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/192583346?v=4",
+  "htmlUrl": "https://github.com/sanshao85",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 298,
+      "repoCountPrimary": 2,
+      "starsContains": 298,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "mcp-feedback-collector-web",
+          "fullName": "sanshao85/mcp-feedback-collector-web",
+          "stars": 167,
+          "url": "https://github.com/sanshao85/mcp-feedback-collector-web",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "persistent-terminal-mcp",
+          "fullName": "sanshao85/persistent-terminal-mcp",
+          "stars": 131,
+          "url": "https://github.com/sanshao85/persistent-terminal-mcp",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

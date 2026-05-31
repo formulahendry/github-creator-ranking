@@ -1,0 +1,41 @@
+{
+  "login": "ZahraMirzaei",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/39621660?v=4",
+  "htmlUrl": "https://github.com/ZahraMirzaei",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 449,
+      "repoCountPrimary": 2,
+      "starsContains": 449,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "online-shop",
+          "fullName": "ZahraMirzaei/online-shop",
+          "stars": 295,
+          "url": "https://github.com/ZahraMirzaei/online-shop",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "admin-panel",
+          "fullName": "ZahraMirzaei/admin-panel",
+          "stars": 154,
+          "url": "https://github.com/ZahraMirzaei/admin-panel",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

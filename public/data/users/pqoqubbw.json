@@ -1,0 +1,34 @@
+{
+  "login": "pqoqubbw",
+  "name": "dmytro",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/71014515?v=4",
+  "htmlUrl": "https://github.com/pqoqubbw",
+  "location": "Hungary, Budapest",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 7641,
+      "repoCountPrimary": 1,
+      "starsContains": 7641,
+      "repoCountContains": 1,
+      "globalRank": 298,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "icons",
+          "fullName": "pqoqubbw/icons",
+          "stars": 7641,
+          "url": "https://github.com/pqoqubbw/icons",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "MSzturc",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/4275753?v=4",
+  "htmlUrl": "https://github.com/MSzturc",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1454,
+      "repoCountPrimary": 2,
+      "starsContains": 1454,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "obsidian-advanced-slides",
+          "fullName": "MSzturc/obsidian-advanced-slides",
+          "stars": 1239,
+          "url": "https://github.com/MSzturc/obsidian-advanced-slides",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "obsidian-better-pdf-plugin",
+          "fullName": "MSzturc/obsidian-better-pdf-plugin",
+          "stars": 215,
+          "url": "https://github.com/MSzturc/obsidian-better-pdf-plugin",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

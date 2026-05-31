@@ -1,0 +1,41 @@
+{
+  "login": "blueberrycongee",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/117764480?v=4",
+  "htmlUrl": "https://github.com/blueberrycongee",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1171,
+      "repoCountPrimary": 2,
+      "starsContains": 1171,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Lumina-Note",
+          "fullName": "blueberrycongee/Lumina-Note",
+          "stars": 867,
+          "url": "https://github.com/blueberrycongee/Lumina-Note",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "termcanvas",
+          "fullName": "blueberrycongee/termcanvas",
+          "stars": 304,
+          "url": "https://github.com/blueberrycongee/termcanvas",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

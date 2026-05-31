@@ -1,0 +1,34 @@
+{
+  "login": "lsqy",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/18533232?v=4",
+  "htmlUrl": "https://github.com/lsqy",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2007,
+      "repoCountPrimary": 1,
+      "starsContains": 2007,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "taro-music",
+          "fullName": "lsqy/taro-music",
+          "stars": 2007,
+          "url": "https://github.com/lsqy/taro-music",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

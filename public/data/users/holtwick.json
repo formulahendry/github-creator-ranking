@@ -1,0 +1,34 @@
+{
+  "login": "holtwick",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/49557?v=4",
+  "htmlUrl": "https://github.com/holtwick",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1622,
+      "repoCountPrimary": 1,
+      "starsContains": 1622,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "briefing",
+          "fullName": "holtwick/briefing",
+          "stars": 1622,
+          "url": "https://github.com/holtwick/briefing",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "upupming",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/24741764?v=4",
+  "htmlUrl": "https://github.com/upupming",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 887,
+      "repoCountPrimary": 1,
+      "starsContains": 887,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "new-grad-positions",
+          "fullName": "upupming/new-grad-positions",
+          "stars": 887,
+          "url": "https://github.com/upupming/new-grad-positions",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

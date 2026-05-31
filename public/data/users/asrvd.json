@@ -1,0 +1,48 @@
+{
+  "login": "asrvd",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/68690233?v=4",
+  "htmlUrl": "https://github.com/asrvd",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 413,
+      "repoCountPrimary": 3,
+      "starsContains": 413,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "asrvd.me",
+          "fullName": "asrvd/asrvd.me",
+          "stars": 164,
+          "url": "https://github.com/asrvd/asrvd.me",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "waifus-for-programmers",
+          "fullName": "asrvd/waifus-for-programmers",
+          "stars": 127,
+          "url": "https://github.com/asrvd/waifus-for-programmers",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "lyrist",
+          "fullName": "asrvd/lyrist",
+          "stars": 122,
+          "url": "https://github.com/asrvd/lyrist",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "login": "meteorlxy",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/18205362?v=4",
+  "htmlUrl": "https://github.com/meteorlxy",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1046,
+      "repoCountPrimary": 3,
+      "starsContains": 1046,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vssue",
+          "fullName": "meteorlxy/vssue",
+          "stars": 793,
+          "url": "https://github.com/meteorlxy/vssue",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vue-showdown",
+          "fullName": "meteorlxy/vue-showdown",
+          "stars": 134,
+          "url": "https://github.com/meteorlxy/vue-showdown",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "eslint-plugin-prettier-vue",
+          "fullName": "meteorlxy/eslint-plugin-prettier-vue",
+          "stars": 119,
+          "url": "https://github.com/meteorlxy/eslint-plugin-prettier-vue",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

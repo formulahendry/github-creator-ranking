@@ -1,0 +1,62 @@
+{
+  "login": "malerba118",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5760059?v=4",
+  "htmlUrl": "https://github.com/malerba118",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2512,
+      "repoCountPrimary": 5,
+      "starsContains": 2512,
+      "repoCountContains": 5,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "scrollex",
+          "fullName": "malerba118/scrollex",
+          "stars": 1494,
+          "url": "https://github.com/malerba118/scrollex",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-particle-image",
+          "fullName": "malerba118/react-particle-image",
+          "stars": 507,
+          "url": "https://github.com/malerba118/react-particle-image",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "xorma",
+          "fullName": "malerba118/xorma",
+          "stars": 250,
+          "url": "https://github.com/malerba118/xorma",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "tailwindcss-fade",
+          "fullName": "malerba118/tailwindcss-fade",
+          "stars": 161,
+          "url": "https://github.com/malerba118/tailwindcss-fade",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "supabase-comments-extension",
+          "fullName": "malerba118/supabase-comments-extension",
+          "stars": 100,
+          "url": "https://github.com/malerba118/supabase-comments-extension",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

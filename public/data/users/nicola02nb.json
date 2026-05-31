@@ -1,0 +1,34 @@
+{
+  "login": "nicola02nb",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/61830443?v=4",
+  "htmlUrl": "https://github.com/nicola02nb",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 124,
+      "repoCountPrimary": 1,
+      "starsContains": 124,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "completeDiscordQuest",
+          "fullName": "nicola02nb/completeDiscordQuest",
+          "stars": 124,
+          "url": "https://github.com/nicola02nb/completeDiscordQuest",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

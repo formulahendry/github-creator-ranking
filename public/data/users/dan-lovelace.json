@@ -1,0 +1,34 @@
+{
+  "login": "dan-lovelace",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/13373818?v=4",
+  "htmlUrl": "https://github.com/dan-lovelace",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 226,
+      "repoCountPrimary": 1,
+      "starsContains": 226,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "giggle",
+          "fullName": "dan-lovelace/giggle",
+          "stars": 226,
+          "url": "https://github.com/dan-lovelace/giggle",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

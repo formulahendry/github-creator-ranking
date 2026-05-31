@@ -1,0 +1,62 @@
+{
+  "login": "vahid-nejad",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7630781?v=4",
+  "htmlUrl": "https://github.com/vahid-nejad",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1039,
+      "repoCountPrimary": 7,
+      "starsContains": 1039,
+      "repoCountContains": 7,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "next-auth-fullstack",
+          "fullName": "vahid-nejad/next-auth-fullstack",
+          "stars": 223,
+          "url": "https://github.com/vahid-nejad/next-auth-fullstack",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Refresh-Token-Next-Auth",
+          "fullName": "vahid-nejad/Refresh-Token-Next-Auth",
+          "stars": 170,
+          "url": "https://github.com/vahid-nejad/Refresh-Token-Next-Auth",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "nestjs",
+          "fullName": "vahid-nejad/nestjs",
+          "stars": 162,
+          "url": "https://github.com/vahid-nejad/nestjs",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "NestJS-NextJS-Authentication-Turborepo",
+          "fullName": "vahid-nejad/NestJS-NextJS-Authentication-Turborepo",
+          "stars": 151,
+          "url": "https://github.com/vahid-nejad/NestJS-NextJS-Authentication-Turborepo",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "next-auth-nextjs13",
+          "fullName": "vahid-nejad/next-auth-nextjs13",
+          "stars": 129,
+          "url": "https://github.com/vahid-nejad/next-auth-nextjs13",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

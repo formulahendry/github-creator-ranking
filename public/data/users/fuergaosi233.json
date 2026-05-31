@@ -1,0 +1,41 @@
+{
+  "login": "fuergaosi233",
+  "name": "Holegots",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/22197568?v=4",
+  "htmlUrl": "https://github.com/fuergaosi233",
+  "location": "Beijing",
+  "countryCode": "CN",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 13460,
+      "repoCountPrimary": 2,
+      "starsContains": 13460,
+      "repoCountContains": 2,
+      "globalRank": 146,
+      "countryRank": 15,
+      "topRepos": [
+        {
+          "name": "wechat-chatgpt",
+          "fullName": "fuergaosi233/wechat-chatgpt",
+          "stars": 13240,
+          "url": "https://github.com/fuergaosi233/wechat-chatgpt",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "openai-proxy",
+          "fullName": "fuergaosi233/openai-proxy",
+          "stars": 220,
+          "url": "https://github.com/fuergaosi233/openai-proxy",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

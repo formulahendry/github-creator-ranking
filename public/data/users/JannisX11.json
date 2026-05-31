@@ -1,0 +1,34 @@
+{
+  "login": "JannisX11",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/29278436?v=4",
+  "htmlUrl": "https://github.com/JannisX11",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 119,
+      "repoCountPrimary": 1,
+      "starsContains": 119,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "hytale-blockbench-plugin",
+          "fullName": "JannisX11/hytale-blockbench-plugin",
+          "stars": 119,
+          "url": "https://github.com/JannisX11/hytale-blockbench-plugin",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

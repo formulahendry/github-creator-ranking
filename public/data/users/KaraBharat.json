@@ -1,0 +1,62 @@
+{
+  "login": "KaraBharat",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/19618857?v=4",
+  "htmlUrl": "https://github.com/KaraBharat",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 785,
+      "repoCountPrimary": 5,
+      "starsContains": 785,
+      "repoCountContains": 5,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-full-stack-components",
+          "fullName": "KaraBharat/react-full-stack-components",
+          "stars": 183,
+          "url": "https://github.com/KaraBharat/react-full-stack-components",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Task-List-Demo",
+          "fullName": "KaraBharat/Task-List-Demo",
+          "stars": 180,
+          "url": "https://github.com/KaraBharat/Task-List-Demo",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "shadcn-crm-dashboard",
+          "fullName": "KaraBharat/shadcn-crm-dashboard",
+          "stars": 179,
+          "url": "https://github.com/KaraBharat/shadcn-crm-dashboard",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ReactViTenStack",
+          "fullName": "KaraBharat/ReactViTenStack",
+          "stars": 131,
+          "url": "https://github.com/KaraBharat/ReactViTenStack",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "full-stack-global-search-demo",
+          "fullName": "KaraBharat/full-stack-global-search-demo",
+          "stars": 112,
+          "url": "https://github.com/KaraBharat/full-stack-global-search-demo",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

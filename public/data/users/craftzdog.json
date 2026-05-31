@@ -1,0 +1,62 @@
+{
+  "login": "craftzdog",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1332805?v=4",
+  "htmlUrl": "https://github.com/craftzdog",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1594,
+      "repoCountPrimary": 6,
+      "starsContains": 1594,
+      "repoCountContains": 6,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-native-animated-todo",
+          "fullName": "craftzdog/react-native-animated-todo",
+          "stars": 462,
+          "url": "https://github.com/craftzdog/react-native-animated-todo",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-native-sqlite-2",
+          "fullName": "craftzdog/react-native-sqlite-2",
+          "stars": 384,
+          "url": "https://github.com/craftzdog/react-native-sqlite-2",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "inkdrop-ui-mockup-react-native",
+          "fullName": "craftzdog/inkdrop-ui-mockup-react-native",
+          "stars": 250,
+          "url": "https://github.com/craftzdog/inkdrop-ui-mockup-react-native",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-native-checkbox-reanimated",
+          "fullName": "craftzdog/react-native-checkbox-reanimated",
+          "stars": 185,
+          "url": "https://github.com/craftzdog/react-native-checkbox-reanimated",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "pouchdb-adapter-react-native-sqlite",
+          "fullName": "craftzdog/pouchdb-adapter-react-native-sqlite",
+          "stars": 161,
+          "url": "https://github.com/craftzdog/pouchdb-adapter-react-native-sqlite",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

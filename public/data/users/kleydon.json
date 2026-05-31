@@ -1,0 +1,34 @@
+{
+  "login": "kleydon",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6138843?v=4",
+  "htmlUrl": "https://github.com/kleydon",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 143,
+      "repoCountPrimary": 1,
+      "starsContains": 143,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "prisma-session-store",
+          "fullName": "kleydon/prisma-session-store",
+          "stars": 143,
+          "url": "https://github.com/kleydon/prisma-session-store",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "Vijayabaskar56",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/84858449?v=4",
+  "htmlUrl": "https://github.com/Vijayabaskar56",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 823,
+      "repoCountPrimary": 2,
+      "starsContains": 823,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "tancn",
+          "fullName": "Vijayabaskar56/tancn",
+          "stars": 656,
+          "url": "https://github.com/Vijayabaskar56/tancn",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "tanstack-start-faster",
+          "fullName": "Vijayabaskar56/tanstack-start-faster",
+          "stars": 167,
+          "url": "https://github.com/Vijayabaskar56/tanstack-start-faster",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

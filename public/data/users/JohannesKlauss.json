@@ -1,0 +1,34 @@
+{
+  "login": "JohannesKlauss",
+  "name": "Johannes Klauss",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6214415?v=4",
+  "htmlUrl": "https://github.com/JohannesKlauss",
+  "location": "Hamburg",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3468,
+      "repoCountPrimary": 1,
+      "starsContains": 3468,
+      "repoCountContains": 1,
+      "globalRank": 777,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-hotkeys-hook",
+          "fullName": "JohannesKlauss/react-hotkeys-hook",
+          "stars": 3468,
+          "url": "https://github.com/JohannesKlauss/react-hotkeys-hook",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

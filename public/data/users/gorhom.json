@@ -1,0 +1,62 @@
+{
+  "login": "gorhom",
+  "name": "Mo Gorhom",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/4061838?v=4",
+  "htmlUrl": "https://github.com/gorhom",
+  "location": "Amsterdam",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 13792,
+      "repoCountPrimary": 7,
+      "starsContains": 13792,
+      "repoCountContains": 7,
+      "globalRank": 144,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-native-bottom-sheet",
+          "fullName": "gorhom/react-native-bottom-sheet",
+          "stars": 8975,
+          "url": "https://github.com/gorhom/react-native-bottom-sheet",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-native-animated-tabbar",
+          "fullName": "gorhom/react-native-animated-tabbar",
+          "stars": 1843,
+          "url": "https://github.com/gorhom/react-native-animated-tabbar",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-native-sticky-item",
+          "fullName": "gorhom/react-native-sticky-item",
+          "stars": 992,
+          "url": "https://github.com/gorhom/react-native-sticky-item",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-native-paper-onboarding",
+          "fullName": "gorhom/react-native-paper-onboarding",
+          "stars": 910,
+          "url": "https://github.com/gorhom/react-native-paper-onboarding",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-native-portal",
+          "fullName": "gorhom/react-native-portal",
+          "stars": 786,
+          "url": "https://github.com/gorhom/react-native-portal",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

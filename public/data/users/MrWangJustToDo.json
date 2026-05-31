@@ -1,0 +1,34 @@
+{
+  "login": "MrWangJustToDo",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/57748455?v=4",
+  "htmlUrl": "https://github.com/MrWangJustToDo",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 704,
+      "repoCountPrimary": 1,
+      "starsContains": 704,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "git-diff-view",
+          "fullName": "MrWangJustToDo/git-diff-view",
+          "stars": 704,
+          "url": "https://github.com/MrWangJustToDo/git-diff-view",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

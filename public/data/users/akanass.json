@@ -1,0 +1,34 @@
+{
+  "login": "akanass",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1673977?v=4",
+  "htmlUrl": "https://github.com/akanass",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 120,
+      "repoCountPrimary": 1,
+      "starsContains": 120,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "rx-http-request",
+          "fullName": "akanass/rx-http-request",
+          "stars": 120,
+          "url": "https://github.com/akanass/rx-http-request",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

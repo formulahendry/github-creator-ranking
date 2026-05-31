@@ -1,0 +1,34 @@
+{
+  "login": "skanaar",
+  "name": "Daniel Kallin",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/641015?v=4",
+  "htmlUrl": "https://github.com/skanaar",
+  "location": "Stockholm",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2827,
+      "repoCountPrimary": 1,
+      "starsContains": 2827,
+      "repoCountContains": 1,
+      "globalRank": 946,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "nomnoml",
+          "fullName": "skanaar/nomnoml",
+          "stars": 2827,
+          "url": "https://github.com/skanaar/nomnoml",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

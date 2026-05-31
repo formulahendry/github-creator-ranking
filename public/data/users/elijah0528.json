@@ -1,0 +1,34 @@
+{
+  "login": "elijah0528",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/80718858?v=4",
+  "htmlUrl": "https://github.com/elijah0528",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 524,
+      "repoCountPrimary": 1,
+      "starsContains": 524,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "video2ascii",
+          "fullName": "elijah0528/video2ascii",
+          "stars": 524,
+          "url": "https://github.com/elijah0528/video2ascii",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

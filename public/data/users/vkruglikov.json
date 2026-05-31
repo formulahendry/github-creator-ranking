@@ -1,0 +1,34 @@
+{
+  "login": "vkruglikov",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/9719024?v=4",
+  "htmlUrl": "https://github.com/vkruglikov",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 617,
+      "repoCountPrimary": 1,
+      "starsContains": 617,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-telegram-web-app",
+          "fullName": "vkruglikov/react-telegram-web-app",
+          "stars": 617,
+          "url": "https://github.com/vkruglikov/react-telegram-web-app",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

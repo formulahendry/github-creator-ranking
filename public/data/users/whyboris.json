@@ -1,0 +1,41 @@
+{
+  "login": "whyboris",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/17264277?v=4",
+  "htmlUrl": "https://github.com/whyboris",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 816,
+      "repoCountPrimary": 2,
+      "starsContains": 816,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Video-Hub-App",
+          "fullName": "whyboris/Video-Hub-App",
+          "stars": 703,
+          "url": "https://github.com/whyboris/Video-Hub-App",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Simplest-File-Renamer",
+          "fullName": "whyboris/Simplest-File-Renamer",
+          "stars": 113,
+          "url": "https://github.com/whyboris/Simplest-File-Renamer",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

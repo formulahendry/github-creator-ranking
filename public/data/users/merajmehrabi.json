@@ -1,0 +1,34 @@
+{
+  "login": "merajmehrabi",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/315069?v=4",
+  "htmlUrl": "https://github.com/merajmehrabi",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 458,
+      "repoCountPrimary": 1,
+      "starsContains": 458,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "puppeteer-mcp-server",
+          "fullName": "merajmehrabi/puppeteer-mcp-server",
+          "stars": 458,
+          "url": "https://github.com/merajmehrabi/puppeteer-mcp-server",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

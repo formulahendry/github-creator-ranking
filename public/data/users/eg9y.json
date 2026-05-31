@@ -1,0 +1,34 @@
+{
+  "login": "eg9y",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/23127928?v=4",
+  "htmlUrl": "https://github.com/eg9y",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 234,
+      "repoCountPrimary": 1,
+      "starsContains": 234,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "PS5bot",
+          "fullName": "eg9y/PS5bot",
+          "stars": 234,
+          "url": "https://github.com/eg9y/PS5bot",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

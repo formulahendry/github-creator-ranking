@@ -1,0 +1,34 @@
+{
+  "login": "stevenpetryk",
+  "name": "Steven Petryk",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1724000?v=4",
+  "htmlUrl": "https://github.com/stevenpetryk",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3403,
+      "repoCountPrimary": 1,
+      "starsContains": 3403,
+      "repoCountContains": 1,
+      "globalRank": 792,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "mafs",
+          "fullName": "stevenpetryk/mafs",
+          "stars": 3403,
+          "url": "https://github.com/stevenpetryk/mafs",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

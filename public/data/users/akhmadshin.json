@@ -1,0 +1,34 @@
+{
+  "login": "akhmadshin",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/56607346?v=4",
+  "htmlUrl": "https://github.com/akhmadshin",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 155,
+      "repoCountPrimary": 1,
+      "starsContains": 155,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "next-query-glue-starter",
+          "fullName": "akhmadshin/next-query-glue-starter",
+          "stars": 155,
+          "url": "https://github.com/akhmadshin/next-query-glue-starter",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

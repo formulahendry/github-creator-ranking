@@ -1,0 +1,34 @@
+{
+  "login": "Antyos",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/17516195?v=4",
+  "htmlUrl": "https://github.com/Antyos",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 148,
+      "repoCountPrimary": 1,
+      "starsContains": 148,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vscode-openscad",
+          "fullName": "Antyos/vscode-openscad",
+          "stars": 148,
+          "url": "https://github.com/Antyos/vscode-openscad",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

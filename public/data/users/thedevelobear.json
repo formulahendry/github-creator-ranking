@@ -1,0 +1,34 @@
+{
+  "login": "thedevelobear",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/29607890?v=4",
+  "htmlUrl": "https://github.com/thedevelobear",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1673,
+      "repoCountPrimary": 1,
+      "starsContains": 1673,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-rewards",
+          "fullName": "thedevelobear/react-rewards",
+          "stars": 1673,
+          "url": "https://github.com/thedevelobear/react-rewards",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

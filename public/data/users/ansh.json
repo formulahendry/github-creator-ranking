@@ -1,0 +1,48 @@
+{
+  "login": "ansh",
+  "name": "Ansh",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/8207733?v=4",
+  "htmlUrl": "https://github.com/ansh",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 4808,
+      "repoCountPrimary": 3,
+      "starsContains": 4808,
+      "repoCountContains": 3,
+      "globalRank": 532,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "jiffyreader-public-archive",
+          "fullName": "ansh/jiffyreader-public-archive",
+          "stars": 3997,
+          "url": "https://github.com/ansh/jiffyreader-public-archive",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "template-2",
+          "fullName": "ansh/template-2",
+          "stars": 671,
+          "url": "https://github.com/ansh/template-2",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "deeperseeker-app",
+          "fullName": "ansh/deeperseeker-app",
+          "stars": 140,
+          "url": "https://github.com/ansh/deeperseeker-app",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

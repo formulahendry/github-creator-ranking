@@ -1,0 +1,41 @@
+{
+  "login": "RealKai42",
+  "name": "Kai",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/44634134?v=4",
+  "htmlUrl": "https://github.com/RealKai42",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 23097,
+      "repoCountPrimary": 2,
+      "starsContains": 23097,
+      "repoCountContains": 2,
+      "globalRank": 74,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "qwerty-learner",
+          "fullName": "RealKai42/qwerty-learner",
+          "stars": 22214,
+          "url": "https://github.com/RealKai42/qwerty-learner",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "qwerty-learner-vscode",
+          "fullName": "RealKai42/qwerty-learner-vscode",
+          "stars": 883,
+          "url": "https://github.com/RealKai42/qwerty-learner-vscode",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

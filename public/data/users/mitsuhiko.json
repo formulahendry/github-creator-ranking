@@ -1,0 +1,55 @@
+{
+  "login": "mitsuhiko",
+  "name": "Armin Ronacher",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7396?v=4",
+  "htmlUrl": "https://github.com/mitsuhiko",
+  "location": "Austria",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2997,
+      "repoCountPrimary": 4,
+      "starsContains": 2997,
+      "repoCountContains": 4,
+      "globalRank": 895,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "agent-stuff",
+          "fullName": "mitsuhiko/agent-stuff",
+          "stars": 2551,
+          "url": "https://github.com/mitsuhiko/agent-stuff",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vite-console-forward-plugin",
+          "fullName": "mitsuhiko/vite-console-forward-plugin",
+          "stars": 157,
+          "url": "https://github.com/mitsuhiko/vite-console-forward-plugin",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "pi-ds4",
+          "fullName": "mitsuhiko/pi-ds4",
+          "stars": 145,
+          "url": "https://github.com/mitsuhiko/pi-ds4",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "pi-llamacpp",
+          "fullName": "mitsuhiko/pi-llamacpp",
+          "stars": 144,
+          "url": "https://github.com/mitsuhiko/pi-llamacpp",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "login": "ritwickdey",
+  "name": "Ritwick Dey",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/18099464?v=4",
+  "htmlUrl": "https://github.com/ritwickdey",
+  "location": "India",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 8224,
+      "repoCountPrimary": 3,
+      "starsContains": 8224,
+      "repoCountContains": 3,
+      "globalRank": 276,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vscode-live-server",
+          "fullName": "ritwickdey/vscode-live-server",
+          "stars": 6831,
+          "url": "https://github.com/ritwickdey/vscode-live-server",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vscode-live-server-plus-plus",
+          "fullName": "ritwickdey/vscode-live-server-plus-plus",
+          "stars": 735,
+          "url": "https://github.com/ritwickdey/vscode-live-server-plus-plus",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vscode-live-sass-compiler",
+          "fullName": "ritwickdey/vscode-live-sass-compiler",
+          "stars": 658,
+          "url": "https://github.com/ritwickdey/vscode-live-sass-compiler",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "TalAter",
+  "name": "Tal Ater",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/926653?v=4",
+  "htmlUrl": "https://github.com/TalAter",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 6810,
+      "repoCountPrimary": 1,
+      "starsContains": 6810,
+      "repoCountContains": 1,
+      "globalRank": 340,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "annyang",
+          "fullName": "TalAter/annyang",
+          "stars": 6810,
+          "url": "https://github.com/TalAter/annyang",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

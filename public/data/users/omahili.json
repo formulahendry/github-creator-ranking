@@ -1,0 +1,41 @@
+{
+  "login": "omahili",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3227034?v=4",
+  "htmlUrl": "https://github.com/omahili",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 512,
+      "repoCountPrimary": 2,
+      "starsContains": 512,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-native-reorderable-list",
+          "fullName": "omahili/react-native-reorderable-list",
+          "stars": 315,
+          "url": "https://github.com/omahili/react-native-reorderable-list",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "seatchart.js",
+          "fullName": "omahili/seatchart.js",
+          "stars": 197,
+          "url": "https://github.com/omahili/seatchart.js",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

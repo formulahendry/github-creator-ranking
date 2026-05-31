@@ -1,0 +1,34 @@
+{
+  "login": "iam4x",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/893837?v=4",
+  "htmlUrl": "https://github.com/iam4x",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1689,
+      "repoCountPrimary": 1,
+      "starsContains": 1689,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "bobarr",
+          "fullName": "iam4x/bobarr",
+          "stars": 1689,
+          "url": "https://github.com/iam4x/bobarr",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

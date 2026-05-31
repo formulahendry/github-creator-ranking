@@ -1,0 +1,55 @@
+{
+  "login": "rafgraph",
+  "name": "Rafael Pedicini",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/11911299?v=4",
+  "htmlUrl": "https://github.com/rafgraph",
+  "location": "New York, NY",
+  "countryCode": "US",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 4813,
+      "repoCountPrimary": 4,
+      "starsContains": 4813,
+      "repoCountContains": 4,
+      "globalRank": 530,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "spa-github-pages",
+          "fullName": "rafgraph/spa-github-pages",
+          "stars": 4036,
+          "url": "https://github.com/rafgraph/spa-github-pages",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "detect-it",
+          "fullName": "rafgraph/detect-it",
+          "stars": 434,
+          "url": "https://github.com/rafgraph/detect-it",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "rollpkg",
+          "fullName": "rafgraph/rollpkg",
+          "stars": 176,
+          "url": "https://github.com/rafgraph/rollpkg",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-interactive",
+          "fullName": "rafgraph/react-interactive",
+          "stars": 167,
+          "url": "https://github.com/rafgraph/react-interactive",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

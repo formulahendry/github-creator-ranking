@@ -1,0 +1,41 @@
+{
+  "login": "YukiGasai",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/38146192?v=4",
+  "htmlUrl": "https://github.com/YukiGasai",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 668,
+      "repoCountPrimary": 2,
+      "starsContains": 668,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "obsidian-google-calendar",
+          "fullName": "YukiGasai/obsidian-google-calendar",
+          "stars": 485,
+          "url": "https://github.com/YukiGasai/obsidian-google-calendar",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "obsidian-google-tasks",
+          "fullName": "YukiGasai/obsidian-google-tasks",
+          "stars": 183,
+          "url": "https://github.com/YukiGasai/obsidian-google-tasks",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

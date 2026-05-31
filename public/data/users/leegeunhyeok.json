@@ -1,0 +1,41 @@
+{
+  "login": "leegeunhyeok",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/26512984?v=4",
+  "htmlUrl": "https://github.com/leegeunhyeok",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 455,
+      "repoCountPrimary": 2,
+      "starsContains": 455,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-native-esbuild",
+          "fullName": "leegeunhyeok/react-native-esbuild",
+          "stars": 288,
+          "url": "https://github.com/leegeunhyeok/react-native-esbuild",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "rollipop",
+          "fullName": "leegeunhyeok/rollipop",
+          "stars": 167,
+          "url": "https://github.com/leegeunhyeok/rollipop",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

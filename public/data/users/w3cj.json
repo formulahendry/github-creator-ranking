@@ -1,0 +1,62 @@
+{
+  "login": "w3cj",
+  "name": "CJ",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/14241866?v=4",
+  "htmlUrl": "https://github.com/w3cj",
+  "location": "Denver, CO",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3020,
+      "repoCountPrimary": 7,
+      "starsContains": 3020,
+      "repoCountContains": 7,
+      "globalRank": 885,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "hono-open-api-starter",
+          "fullName": "w3cj/hono-open-api-starter",
+          "stars": 995,
+          "url": "https://github.com/w3cj/hono-open-api-starter",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "express-api-starter-ts",
+          "fullName": "w3cj/express-api-starter-ts",
+          "stars": 506,
+          "url": "https://github.com/w3cj/express-api-starter-ts",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "stoker",
+          "fullName": "w3cj/stoker",
+          "stars": 440,
+          "url": "https://github.com/w3cj/stoker",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "bytedash",
+          "fullName": "w3cj/bytedash",
+          "stars": 345,
+          "url": "https://github.com/w3cj/bytedash",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "next-start",
+          "fullName": "w3cj/next-start",
+          "stars": 254,
+          "url": "https://github.com/w3cj/next-start",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

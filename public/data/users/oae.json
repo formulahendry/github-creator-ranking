@@ -1,0 +1,48 @@
+{
+  "login": "oae",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1043714?v=4",
+  "htmlUrl": "https://github.com/oae",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2331,
+      "repoCountPrimary": 3,
+      "starsContains": 2331,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "gnome-shell-pano",
+          "fullName": "oae/gnome-shell-pano",
+          "stars": 1357,
+          "url": "https://github.com/oae/gnome-shell-pano",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "kaizoku",
+          "fullName": "oae/kaizoku",
+          "stars": 679,
+          "url": "https://github.com/oae/kaizoku",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "gnome-shell-extensions-sync",
+          "fullName": "oae/gnome-shell-extensions-sync",
+          "stars": 295,
+          "url": "https://github.com/oae/gnome-shell-extensions-sync",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

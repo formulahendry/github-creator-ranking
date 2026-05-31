@@ -1,0 +1,34 @@
+{
+  "login": "Agranom",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/22710340?v=4",
+  "htmlUrl": "https://github.com/Agranom",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 338,
+      "repoCountPrimary": 1,
+      "starsContains": 338,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ngx-material-timepicker",
+          "fullName": "Agranom/ngx-material-timepicker",
+          "stars": 338,
+          "url": "https://github.com/Agranom/ngx-material-timepicker",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

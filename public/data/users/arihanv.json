@@ -1,0 +1,34 @@
+{
+  "login": "arihanv",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/63890951?v=4",
+  "htmlUrl": "https://github.com/arihanv",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 226,
+      "repoCountPrimary": 1,
+      "starsContains": 226,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Shush",
+          "fullName": "arihanv/Shush",
+          "stars": 226,
+          "url": "https://github.com/arihanv/Shush",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

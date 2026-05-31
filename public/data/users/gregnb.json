@@ -1,0 +1,34 @@
+{
+  "login": "gregnb",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/19170080?v=4",
+  "htmlUrl": "https://github.com/gregnb",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 464,
+      "repoCountPrimary": 1,
+      "starsContains": 464,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "filemanager-webpack-plugin",
+          "fullName": "gregnb/filemanager-webpack-plugin",
+          "stars": 464,
+          "url": "https://github.com/gregnb/filemanager-webpack-plugin",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

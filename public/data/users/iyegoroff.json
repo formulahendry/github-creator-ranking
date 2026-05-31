@@ -1,0 +1,48 @@
+{
+  "login": "iyegoroff",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/4447438?v=4",
+  "htmlUrl": "https://github.com/iyegoroff",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 678,
+      "repoCountPrimary": 3,
+      "starsContains": 678,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-native-color-matrix-image-filters",
+          "fullName": "iyegoroff/react-native-color-matrix-image-filters",
+          "stars": 373,
+          "url": "https://github.com/iyegoroff/react-native-color-matrix-image-filters",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-native-collapsible-header-views",
+          "fullName": "iyegoroff/react-native-collapsible-header-views",
+          "stars": 197,
+          "url": "https://github.com/iyegoroff/react-native-collapsible-header-views",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "spectypes",
+          "fullName": "iyegoroff/spectypes",
+          "stars": 108,
+          "url": "https://github.com/iyegoroff/spectypes",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

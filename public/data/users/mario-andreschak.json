@@ -1,0 +1,55 @@
+{
+  "login": "mario-andreschak",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/196235471?v=4",
+  "htmlUrl": "https://github.com/mario-andreschak",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 975,
+      "repoCountPrimary": 4,
+      "starsContains": 975,
+      "repoCountContains": 4,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "FLUJO",
+          "fullName": "mario-andreschak/FLUJO",
+          "stars": 585,
+          "url": "https://github.com/mario-andreschak/FLUJO",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "mcp-abap-abap-adt-api",
+          "fullName": "mario-andreschak/mcp-abap-abap-adt-api",
+          "stars": 144,
+          "url": "https://github.com/mario-andreschak/mcp-abap-abap-adt-api",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "mcp-abap-adt",
+          "fullName": "mario-andreschak/mcp-abap-adt",
+          "stars": 135,
+          "url": "https://github.com/mario-andreschak/mcp-abap-adt",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "mcp-windows-desktop-automation",
+          "fullName": "mario-andreschak/mcp-windows-desktop-automation",
+          "stars": 111,
+          "url": "https://github.com/mario-andreschak/mcp-windows-desktop-automation",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

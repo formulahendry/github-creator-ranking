@@ -1,0 +1,34 @@
+{
+  "login": "ujen5173",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/115857092?v=4",
+  "htmlUrl": "https://github.com/ujen5173",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 103,
+      "repoCountPrimary": 1,
+      "starsContains": 103,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "hash",
+          "fullName": "ujen5173/hash",
+          "stars": 103,
+          "url": "https://github.com/ujen5173/hash",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

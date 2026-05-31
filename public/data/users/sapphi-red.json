@@ -1,0 +1,41 @@
+{
+  "login": "sapphi-red",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/49056869?v=4",
+  "htmlUrl": "https://github.com/sapphi-red",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 645,
+      "repoCountPrimary": 2,
+      "starsContains": 645,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vite-plugin-static-copy",
+          "fullName": "sapphi-red/vite-plugin-static-copy",
+          "stars": 423,
+          "url": "https://github.com/sapphi-red/vite-plugin-static-copy",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vite-setup-catalogue",
+          "fullName": "sapphi-red/vite-setup-catalogue",
+          "stars": 222,
+          "url": "https://github.com/sapphi-red/vite-setup-catalogue",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

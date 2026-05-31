@@ -1,0 +1,48 @@
+{
+  "login": "ronami",
+  "name": "Ronen Amiel",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5484230?v=4",
+  "htmlUrl": "https://github.com/ronami",
+  "location": "Tel Aviv Yafo, Israel",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3855,
+      "repoCountPrimary": 3,
+      "starsContains": 3855,
+      "repoCountContains": 3,
+      "globalRank": 690,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "HypeScript",
+          "fullName": "ronami/HypeScript",
+          "stars": 1967,
+          "url": "https://github.com/ronami/HypeScript",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "meta-typing",
+          "fullName": "ronami/meta-typing",
+          "stars": 1577,
+          "url": "https://github.com/ronami/meta-typing",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "typelang",
+          "fullName": "ronami/typelang",
+          "stars": 311,
+          "url": "https://github.com/ronami/typelang",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

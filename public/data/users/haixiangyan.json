@@ -1,0 +1,41 @@
+{
+  "login": "haixiangyan",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/17061654?v=4",
+  "htmlUrl": "https://github.com/haixiangyan",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 500,
+      "repoCountPrimary": 2,
+      "starsContains": 500,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "nest-todo",
+          "fullName": "haixiangyan/nest-todo",
+          "stars": 397,
+          "url": "https://github.com/haixiangyan/nest-todo",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "jest-tutorial-example",
+          "fullName": "haixiangyan/jest-tutorial-example",
+          "stars": 103,
+          "url": "https://github.com/haixiangyan/jest-tutorial-example",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

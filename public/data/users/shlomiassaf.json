@@ -1,0 +1,48 @@
+{
+  "login": "shlomiassaf",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5377501?v=4",
+  "htmlUrl": "https://github.com/shlomiassaf",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1056,
+      "repoCountPrimary": 3,
+      "starsContains": 1056,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ngx-modialog",
+          "fullName": "shlomiassaf/ngx-modialog",
+          "stars": 681,
+          "url": "https://github.com/shlomiassaf/ngx-modialog",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ngrid",
+          "fullName": "shlomiassaf/ngrid",
+          "stars": 241,
+          "url": "https://github.com/shlomiassaf/ngrid",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ngx-chess",
+          "fullName": "shlomiassaf/ngx-chess",
+          "stars": 134,
+          "url": "https://github.com/shlomiassaf/ngx-chess",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

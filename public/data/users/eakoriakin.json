@@ -1,0 +1,34 @@
+{
+  "login": "eakoriakin",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2555923?v=4",
+  "htmlUrl": "https://github.com/eakoriakin",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 553,
+      "repoCountPrimary": 1,
+      "starsContains": 553,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ionic-selectable",
+          "fullName": "eakoriakin/ionic-selectable",
+          "stars": 553,
+          "url": "https://github.com/eakoriakin/ionic-selectable",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

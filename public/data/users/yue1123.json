@@ -1,0 +1,34 @@
+{
+  "login": "yue1123",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/61490799?v=4",
+  "htmlUrl": "https://github.com/yue1123",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 447,
+      "repoCountPrimary": 1,
+      "starsContains": 447,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ts-config-helper",
+          "fullName": "yue1123/ts-config-helper",
+          "stars": 447,
+          "url": "https://github.com/yue1123/ts-config-helper",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

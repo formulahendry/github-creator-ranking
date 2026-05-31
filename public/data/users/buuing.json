@@ -1,0 +1,48 @@
+{
+  "login": "buuing",
+  "name": "D_Q",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/36689704?v=4",
+  "htmlUrl": "https://github.com/buuing",
+  "location": "天桥下",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 9122,
+      "repoCountPrimary": 3,
+      "starsContains": 9122,
+      "repoCountContains": 3,
+      "globalRank": 252,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "lucky-canvas",
+          "fullName": "buuing/lucky-canvas",
+          "stars": 8710,
+          "url": "https://github.com/buuing/lucky-canvas",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "mini-sandbox",
+          "fullName": "buuing/mini-sandbox",
+          "stars": 251,
+          "url": "https://github.com/buuing/mini-sandbox",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Rubiks-Cube",
+          "fullName": "buuing/Rubiks-Cube",
+          "stars": 161,
+          "url": "https://github.com/buuing/Rubiks-Cube",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

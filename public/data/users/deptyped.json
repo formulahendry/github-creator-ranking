@@ -1,0 +1,41 @@
+{
+  "login": "deptyped",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/26162440?v=4",
+  "htmlUrl": "https://github.com/deptyped",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 554,
+      "repoCountPrimary": 2,
+      "starsContains": 554,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "prisma-extension-pagination",
+          "fullName": "deptyped/prisma-extension-pagination",
+          "stars": 282,
+          "url": "https://github.com/deptyped/prisma-extension-pagination",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vue-telegram",
+          "fullName": "deptyped/vue-telegram",
+          "stars": 272,
+          "url": "https://github.com/deptyped/vue-telegram",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

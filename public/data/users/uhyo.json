@@ -1,0 +1,55 @@
+{
+  "login": "uhyo",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/748348?v=4",
+  "htmlUrl": "https://github.com/uhyo",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1346,
+      "repoCountPrimary": 4,
+      "starsContains": 1346,
+      "repoCountContains": 4,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "better-typescript-lib",
+          "fullName": "uhyo/better-typescript-lib",
+          "stars": 510,
+          "url": "https://github.com/uhyo/better-typescript-lib",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "eslint-plugin-import-access",
+          "fullName": "uhyo/eslint-plugin-import-access",
+          "stars": 419,
+          "url": "https://github.com/uhyo/eslint-plugin-import-access",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "rocon",
+          "fullName": "uhyo/rocon",
+          "stars": 251,
+          "url": "https://github.com/uhyo/rocon",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "lightwindcss",
+          "fullName": "uhyo/lightwindcss",
+          "stars": 166,
+          "url": "https://github.com/uhyo/lightwindcss",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

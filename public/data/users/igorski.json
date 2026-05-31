@@ -1,0 +1,41 @@
+{
+  "login": "igorski",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/730069?v=4",
+  "htmlUrl": "https://github.com/igorski",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 582,
+      "repoCountPrimary": 2,
+      "starsContains": 582,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "bitmappery",
+          "fullName": "igorski/bitmappery",
+          "stars": 324,
+          "url": "https://github.com/igorski/bitmappery",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "efflux-tracker",
+          "fullName": "igorski/efflux-tracker",
+          "stars": 258,
+          "url": "https://github.com/igorski/efflux-tracker",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

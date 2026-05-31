@@ -1,0 +1,41 @@
+{
+  "login": "paol-imi",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/51744523?v=4",
+  "htmlUrl": "https://github.com/paol-imi",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 861,
+      "repoCountPrimary": 2,
+      "starsContains": 861,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-reparenting",
+          "fullName": "paol-imi/react-reparenting",
+          "stars": 493,
+          "url": "https://github.com/paol-imi/react-reparenting",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "muuri-react",
+          "fullName": "paol-imi/muuri-react",
+          "stars": 368,
+          "url": "https://github.com/paol-imi/muuri-react",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

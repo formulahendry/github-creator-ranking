@@ -1,0 +1,34 @@
+{
+  "login": "Jonghakseo",
+  "name": "JongHak Seo",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/53500778?v=4",
+  "htmlUrl": "https://github.com/Jonghakseo",
+  "location": "Seoul. korea",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 4899,
+      "repoCountPrimary": 1,
+      "starsContains": 4899,
+      "repoCountContains": 1,
+      "globalRank": 520,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "chrome-extension-boilerplate-react-vite",
+          "fullName": "Jonghakseo/chrome-extension-boilerplate-react-vite",
+          "stars": 4899,
+          "url": "https://github.com/Jonghakseo/chrome-extension-boilerplate-react-vite",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

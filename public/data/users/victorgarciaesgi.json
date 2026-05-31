@@ -1,0 +1,48 @@
+{
+  "login": "victorgarciaesgi",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/15092120?v=4",
+  "htmlUrl": "https://github.com/victorgarciaesgi",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1190,
+      "repoCountPrimary": 3,
+      "starsContains": 1190,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "regle",
+          "fullName": "victorgarciaesgi/regle",
+          "stars": 457,
+          "url": "https://github.com/victorgarciaesgi/regle",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "nuxt-typed-router",
+          "fullName": "victorgarciaesgi/nuxt-typed-router",
+          "stars": 413,
+          "url": "https://github.com/victorgarciaesgi/nuxt-typed-router",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vue-chart-3",
+          "fullName": "victorgarciaesgi/vue-chart-3",
+          "stars": 320,
+          "url": "https://github.com/victorgarciaesgi/vue-chart-3",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

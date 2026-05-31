@@ -1,0 +1,34 @@
+{
+  "login": "Learus",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/33862893?v=4",
+  "htmlUrl": "https://github.com/Learus",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 555,
+      "repoCountPrimary": 1,
+      "starsContains": 555,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-material-ui-carousel",
+          "fullName": "Learus/react-material-ui-carousel",
+          "stars": 555,
+          "url": "https://github.com/Learus/react-material-ui-carousel",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

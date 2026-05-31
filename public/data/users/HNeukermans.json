@@ -1,0 +1,34 @@
+{
+  "login": "HNeukermans",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2285199?v=4",
+  "htmlUrl": "https://github.com/HNeukermans",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 173,
+      "repoCountPrimary": 1,
+      "starsContains": 173,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ng2-signalr",
+          "fullName": "HNeukermans/ng2-signalr",
+          "stars": 173,
+          "url": "https://github.com/HNeukermans/ng2-signalr",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "login": "sibiraj-s",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/20282546?v=4",
+  "htmlUrl": "https://github.com/sibiraj-s",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1026,
+      "repoCountPrimary": 3,
+      "starsContains": 1026,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ngx-editor",
+          "fullName": "sibiraj-s/ngx-editor",
+          "stars": 500,
+          "url": "https://github.com/sibiraj-s/ngx-editor",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "svelte-tiptap",
+          "fullName": "sibiraj-s/svelte-tiptap",
+          "stars": 331,
+          "url": "https://github.com/sibiraj-s/svelte-tiptap",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ngx-tiptap",
+          "fullName": "sibiraj-s/ngx-tiptap",
+          "stars": 195,
+          "url": "https://github.com/sibiraj-s/ngx-tiptap",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

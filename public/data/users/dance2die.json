@@ -1,0 +1,41 @@
+{
+  "login": "dance2die",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/8465237?v=4",
+  "htmlUrl": "https://github.com/dance2die",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 278,
+      "repoCountPrimary": 2,
+      "starsContains": 278,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-use-localstorage",
+          "fullName": "dance2die/react-use-localstorage",
+          "stars": 169,
+          "url": "https://github.com/dance2die/react-use-localstorage",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "cra-template-tailwindcss-typescript",
+          "fullName": "dance2die/cra-template-tailwindcss-typescript",
+          "stars": 109,
+          "url": "https://github.com/dance2die/cra-template-tailwindcss-typescript",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

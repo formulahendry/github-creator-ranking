@@ -1,0 +1,34 @@
+{
+  "login": "yuchannslv5",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/112772524?v=4",
+  "htmlUrl": "https://github.com/yuchannslv5",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 337,
+      "repoCountPrimary": 1,
+      "starsContains": 337,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "warpflare",
+          "fullName": "yuchannslv5/warpflare",
+          "stars": 337,
+          "url": "https://github.com/yuchannslv5/warpflare",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "SoYoung210",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/18658235?v=4",
+  "htmlUrl": "https://github.com/SoYoung210",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 238,
+      "repoCountPrimary": 2,
+      "starsContains": 238,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "immutable.wedding",
+          "fullName": "SoYoung210/immutable.wedding",
+          "stars": 138,
+          "url": "https://github.com/SoYoung210/immutable.wedding",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "craft",
+          "fullName": "SoYoung210/craft",
+          "stars": 100,
+          "url": "https://github.com/SoYoung210/craft",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

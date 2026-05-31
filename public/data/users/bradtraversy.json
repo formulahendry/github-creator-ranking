@@ -1,0 +1,62 @@
+{
+  "login": "bradtraversy",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5550850?v=4",
+  "htmlUrl": "https://github.com/bradtraversy",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2647,
+      "repoCountPrimary": 9,
+      "starsContains": 2647,
+      "repoCountContains": 9,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "mern_shopping_list",
+          "fullName": "bradtraversy/mern_shopping_list",
+          "stars": 612,
+          "url": "https://github.com/bradtraversy/mern_shopping_list",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "angular-crash-2021",
+          "fullName": "bradtraversy/angular-crash-2021",
+          "stars": 489,
+          "url": "https://github.com/bradtraversy/angular-crash-2021",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "prostore",
+          "fullName": "bradtraversy/prostore",
+          "stars": 328,
+          "url": "https://github.com/bradtraversy/prostore",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react_webpack_starter",
+          "fullName": "bradtraversy/react_webpack_starter",
+          "stars": 273,
+          "url": "https://github.com/bradtraversy/react_webpack_starter",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "deno-rest-api",
+          "fullName": "bradtraversy/deno-rest-api",
+          "stars": 267,
+          "url": "https://github.com/bradtraversy/deno-rest-api",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

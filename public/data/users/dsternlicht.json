@@ -1,0 +1,34 @@
+{
+  "login": "dsternlicht",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1046545?v=4",
+  "htmlUrl": "https://github.com/dsternlicht",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 493,
+      "repoCountPrimary": 1,
+      "starsContains": 493,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "RESTool",
+          "fullName": "dsternlicht/RESTool",
+          "stars": 493,
+          "url": "https://github.com/dsternlicht/RESTool",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

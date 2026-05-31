@@ -1,0 +1,41 @@
+{
+  "login": "LukasMarx",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/8080408?v=4",
+  "htmlUrl": "https://github.com/LukasMarx",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 235,
+      "repoCountPrimary": 2,
+      "starsContains": 235,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "angular-file-upload",
+          "fullName": "LukasMarx/angular-file-upload",
+          "stars": 135,
+          "url": "https://github.com/LukasMarx/angular-file-upload",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "angular-dynamic-components",
+          "fullName": "LukasMarx/angular-dynamic-components",
+          "stars": 100,
+          "url": "https://github.com/LukasMarx/angular-dynamic-components",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

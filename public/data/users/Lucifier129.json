@@ -1,0 +1,41 @@
+{
+  "login": "Lucifier129",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6636455?v=4",
+  "htmlUrl": "https://github.com/Lucifier129",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 392,
+      "repoCountPrimary": 2,
+      "starsContains": 392,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-imvc",
+          "fullName": "Lucifier129/react-imvc",
+          "stars": 270,
+          "url": "https://github.com/Lucifier129/react-imvc",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "bistate",
+          "fullName": "Lucifier129/bistate",
+          "stars": 122,
+          "url": "https://github.com/Lucifier129/bistate",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "fpapado",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3210764?v=4",
+  "htmlUrl": "https://github.com/fpapado",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 523,
+      "repoCountPrimary": 2,
+      "starsContains": 523,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-lazy-images",
+          "fullName": "fpapado/react-lazy-images",
+          "stars": 265,
+          "url": "https://github.com/fpapado/react-lazy-images",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "svg-use",
+          "fullName": "fpapado/svg-use",
+          "stars": 258,
+          "url": "https://github.com/fpapado/svg-use",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

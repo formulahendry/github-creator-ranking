@@ -1,0 +1,34 @@
+{
+  "login": "10cl",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6964022?v=4",
+  "htmlUrl": "https://github.com/10cl",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 586,
+      "repoCountPrimary": 1,
+      "starsContains": 586,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "chatdev",
+          "fullName": "10cl/chatdev",
+          "stars": 586,
+          "url": "https://github.com/10cl/chatdev",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "dsgriffin",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/4924254?v=4",
+  "htmlUrl": "https://github.com/dsgriffin",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 110,
+      "repoCountPrimary": 1,
+      "starsContains": 110,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ionic-3-file-transfer-example",
+          "fullName": "dsgriffin/ionic-3-file-transfer-example",
+          "stars": 110,
+          "url": "https://github.com/dsgriffin/ionic-3-file-transfer-example",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

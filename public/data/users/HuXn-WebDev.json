@@ -1,0 +1,62 @@
+{
+  "login": "HuXn-WebDev",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/85052811?v=4",
+  "htmlUrl": "https://github.com/HuXn-WebDev",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1668,
+      "repoCountPrimary": 5,
+      "starsContains": 1668,
+      "repoCountContains": 5,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "THE-BIGGEST-REACT-COURSE-ON-THE-INTERNET",
+          "fullName": "HuXn-WebDev/THE-BIGGEST-REACT-COURSE-ON-THE-INTERNET",
+          "stars": 960,
+          "url": "https://github.com/HuXn-WebDev/THE-BIGGEST-REACT-COURSE-ON-THE-INTERNET",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Next.js-15-Masterclass",
+          "fullName": "HuXn-WebDev/Next.js-15-Masterclass",
+          "stars": 313,
+          "url": "https://github.com/HuXn-WebDev/Next.js-15-Masterclass",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "React-Native-With-Projects",
+          "fullName": "HuXn-WebDev/React-Native-With-Projects",
+          "stars": 155,
+          "url": "https://github.com/HuXn-WebDev/React-Native-With-Projects",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "TypeScript-Complete-Course",
+          "fullName": "HuXn-WebDev/TypeScript-Complete-Course",
+          "stars": 122,
+          "url": "https://github.com/HuXn-WebDev/TypeScript-Complete-Course",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Auth.js-v5-Complete-Course",
+          "fullName": "HuXn-WebDev/Auth.js-v5-Complete-Course",
+          "stars": 118,
+          "url": "https://github.com/HuXn-WebDev/Auth.js-v5-Complete-Course",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "solst-ice",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/188945768?v=4",
+  "htmlUrl": "https://github.com/solst-ice",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 736,
+      "repoCountPrimary": 1,
+      "starsContains": 736,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "chirp",
+          "fullName": "solst-ice/chirp",
+          "stars": 736,
+          "url": "https://github.com/solst-ice/chirp",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

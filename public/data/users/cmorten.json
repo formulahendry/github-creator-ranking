@@ -1,0 +1,48 @@
+{
+  "login": "cmorten",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/11313985?v=4",
+  "htmlUrl": "https://github.com/cmorten",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1093,
+      "repoCountPrimary": 3,
+      "starsContains": 1093,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "opine",
+          "fullName": "cmorten/opine",
+          "stars": 849,
+          "url": "https://github.com/cmorten/opine",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "superdeno",
+          "fullName": "cmorten/superdeno",
+          "stars": 124,
+          "url": "https://github.com/cmorten/superdeno",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "superoak",
+          "fullName": "cmorten/superoak",
+          "stars": 120,
+          "url": "https://github.com/cmorten/superoak",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

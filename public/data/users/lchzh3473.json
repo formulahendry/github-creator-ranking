@@ -1,0 +1,34 @@
+{
+  "login": "lchzh3473",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/61674328?v=4",
+  "htmlUrl": "https://github.com/lchzh3473",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 315,
+      "repoCountPrimary": 1,
+      "starsContains": 315,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "sim-phi",
+          "fullName": "lchzh3473/sim-phi",
+          "stars": 315,
+          "url": "https://github.com/lchzh3473/sim-phi",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

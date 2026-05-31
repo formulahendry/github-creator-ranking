@@ -1,0 +1,34 @@
+{
+  "login": "hyungyunlim",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/29306891?v=4",
+  "htmlUrl": "https://github.com/hyungyunlim",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 112,
+      "repoCountPrimary": 1,
+      "starsContains": 112,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "obsidian-social-archiver-releases",
+          "fullName": "hyungyunlim/obsidian-social-archiver-releases",
+          "stars": 112,
+          "url": "https://github.com/hyungyunlim/obsidian-social-archiver-releases",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

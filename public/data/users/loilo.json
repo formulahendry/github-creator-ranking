@@ -1,0 +1,41 @@
+{
+  "login": "loilo",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1922624?v=4",
+  "htmlUrl": "https://github.com/loilo",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 288,
+      "repoCountPrimary": 2,
+      "starsContains": 288,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "auto-group-tabs",
+          "fullName": "loilo/auto-group-tabs",
+          "stars": 158,
+          "url": "https://github.com/loilo/auto-group-tabs",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "color-blend",
+          "fullName": "loilo/color-blend",
+          "stars": 130,
+          "url": "https://github.com/loilo/color-blend",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

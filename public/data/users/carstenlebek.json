@@ -1,0 +1,41 @@
+{
+  "login": "carstenlebek",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/59960385?v=4",
+  "htmlUrl": "https://github.com/carstenlebek",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 311,
+      "repoCountPrimary": 2,
+      "starsContains": 311,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "shopify-node-app-starter",
+          "fullName": "carstenlebek/shopify-node-app-starter",
+          "stars": 176,
+          "url": "https://github.com/carstenlebek/shopify-node-app-starter",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "shopify-non-embedded-app-template",
+          "fullName": "carstenlebek/shopify-non-embedded-app-template",
+          "stars": 135,
+          "url": "https://github.com/carstenlebek/shopify-non-embedded-app-template",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

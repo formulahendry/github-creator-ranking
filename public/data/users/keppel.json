@@ -1,0 +1,34 @@
+{
+  "login": "keppel",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1269291?v=4",
+  "htmlUrl": "https://github.com/keppel",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 973,
+      "repoCountPrimary": 1,
+      "starsContains": 973,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "lotion",
+          "fullName": "keppel/lotion",
+          "stars": 973,
+          "url": "https://github.com/keppel/lotion",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

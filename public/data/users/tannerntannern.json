@@ -1,0 +1,34 @@
+{
+  "login": "tannerntannern",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/17892434?v=4",
+  "htmlUrl": "https://github.com/tannerntannern",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 407,
+      "repoCountPrimary": 1,
+      "starsContains": 407,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ts-mixer",
+          "fullName": "tannerntannern/ts-mixer",
+          "stars": 407,
+          "url": "https://github.com/tannerntannern/ts-mixer",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "hadynz",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/315585?v=4",
+  "htmlUrl": "https://github.com/hadynz",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1384,
+      "repoCountPrimary": 2,
+      "starsContains": 1384,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "obsidian-kindle-plugin",
+          "fullName": "hadynz/obsidian-kindle-plugin",
+          "stars": 1247,
+          "url": "https://github.com/hadynz/obsidian-kindle-plugin",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "obsidian-sidekick",
+          "fullName": "hadynz/obsidian-sidekick",
+          "stars": 137,
+          "url": "https://github.com/hadynz/obsidian-sidekick",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "login": "andrew-levy",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/29075740?v=4",
+  "htmlUrl": "https://github.com/andrew-levy",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1199,
+      "repoCountPrimary": 3,
+      "starsContains": 1199,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "swiftui-react-native",
+          "fullName": "andrew-levy/swiftui-react-native",
+          "stars": 880,
+          "url": "https://github.com/andrew-levy/swiftui-react-native",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "jetpack-compose-react-native",
+          "fullName": "andrew-levy/jetpack-compose-react-native",
+          "stars": 172,
+          "url": "https://github.com/andrew-levy/jetpack-compose-react-native",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-native-safari-extension",
+          "fullName": "andrew-levy/react-native-safari-extension",
+          "stars": 147,
+          "url": "https://github.com/andrew-levy/react-native-safari-extension",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

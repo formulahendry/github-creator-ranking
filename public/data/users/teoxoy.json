@@ -1,0 +1,48 @@
+{
+  "login": "teoxoy",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/28601907?v=4",
+  "htmlUrl": "https://github.com/teoxoy",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 796,
+      "repoCountPrimary": 3,
+      "starsContains": 796,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "factorio-blueprint-editor",
+          "fullName": "teoxoy/factorio-blueprint-editor",
+          "stars": 418,
+          "url": "https://github.com/teoxoy/factorio-blueprint-editor",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "profile-readme-stats",
+          "fullName": "teoxoy/profile-readme-stats",
+          "stars": 271,
+          "url": "https://github.com/teoxoy/profile-readme-stats",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "lua-in-js",
+          "fullName": "teoxoy/lua-in-js",
+          "stars": 107,
+          "url": "https://github.com/teoxoy/lua-in-js",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

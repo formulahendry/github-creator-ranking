@@ -1,0 +1,34 @@
+{
+  "login": "tmorin",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1984597?v=4",
+  "htmlUrl": "https://github.com/tmorin",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 167,
+      "repoCountPrimary": 1,
+      "starsContains": 167,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "plantuml-libs",
+          "fullName": "tmorin/plantuml-libs",
+          "stars": 167,
+          "url": "https://github.com/tmorin/plantuml-libs",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

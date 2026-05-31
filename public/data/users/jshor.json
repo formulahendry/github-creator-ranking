@@ -1,0 +1,41 @@
+{
+  "login": "jshor",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/4731130?v=4",
+  "htmlUrl": "https://github.com/jshor",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 571,
+      "repoCountPrimary": 2,
+      "starsContains": 571,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "datebook",
+          "fullName": "jshor/datebook",
+          "stars": 339,
+          "url": "https://github.com/jshor/datebook",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "symbology",
+          "fullName": "jshor/symbology",
+          "stars": 232,
+          "url": "https://github.com/jshor/symbology",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "stefanoslig",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6942946?v=4",
+  "htmlUrl": "https://github.com/stefanoslig",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1035,
+      "repoCountPrimary": 1,
+      "starsContains": 1035,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "angular-ngrx-nx-realworld-example-app",
+          "fullName": "stefanoslig/angular-ngrx-nx-realworld-example-app",
+          "stars": 1035,
+          "url": "https://github.com/stefanoslig/angular-ngrx-nx-realworld-example-app",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

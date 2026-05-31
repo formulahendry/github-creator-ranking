@@ -1,0 +1,34 @@
+{
+  "login": "skick1234",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/11555687?v=4",
+  "htmlUrl": "https://github.com/skick1234",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 468,
+      "repoCountPrimary": 1,
+      "starsContains": 468,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "DisTube",
+          "fullName": "skick1234/DisTube",
+          "stars": 468,
+          "url": "https://github.com/skick1234/DisTube",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

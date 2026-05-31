@@ -1,0 +1,48 @@
+{
+  "login": "FranciscoMoretti",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/16997807?v=4",
+  "htmlUrl": "https://github.com/FranciscoMoretti",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1480,
+      "repoCountPrimary": 3,
+      "starsContains": 1480,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "chat-js",
+          "fullName": "FranciscoMoretti/chat-js",
+          "stars": 1177,
+          "url": "https://github.com/FranciscoMoretti/chat-js",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "carousel-generator",
+          "fullName": "FranciscoMoretti/carousel-generator",
+          "stars": 190,
+          "url": "https://github.com/FranciscoMoretti/carousel-generator",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ai-sdk-deep-research",
+          "fullName": "FranciscoMoretti/ai-sdk-deep-research",
+          "stars": 113,
+          "url": "https://github.com/FranciscoMoretti/ai-sdk-deep-research",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

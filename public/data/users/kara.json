@@ -1,0 +1,41 @@
+{
+  "login": "kara",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3871688?v=4",
+  "htmlUrl": "https://github.com/kara",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 267,
+      "repoCountPrimary": 2,
+      "starsContains": 267,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "leashed-in",
+          "fullName": "kara/leashed-in",
+          "stars": 135,
+          "url": "https://github.com/kara/leashed-in",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "puppy-love",
+          "fullName": "kara/puppy-love",
+          "stars": 132,
+          "url": "https://github.com/kara/puppy-love",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

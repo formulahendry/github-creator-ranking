@@ -1,0 +1,34 @@
+{
+  "login": "matthewp",
+  "name": " Matthew Phillips",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/361671?v=4",
+  "htmlUrl": "https://github.com/matthewp",
+  "location": "Louisville, KY",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2719,
+      "repoCountPrimary": 1,
+      "starsContains": 2719,
+      "repoCountContains": 1,
+      "globalRank": 987,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "haunted",
+          "fullName": "matthewp/haunted",
+          "stars": 2719,
+          "url": "https://github.com/matthewp/haunted",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

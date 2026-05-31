@@ -1,0 +1,34 @@
+{
+  "login": "nippur72",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2598443?v=4",
+  "htmlUrl": "https://github.com/nippur72",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 179,
+      "repoCountPrimary": 1,
+      "starsContains": 179,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "PolymerTS",
+          "fullName": "nippur72/PolymerTS",
+          "stars": 179,
+          "url": "https://github.com/nippur72/PolymerTS",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

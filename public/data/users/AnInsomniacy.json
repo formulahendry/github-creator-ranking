@@ -1,0 +1,41 @@
+{
+  "login": "AnInsomniacy",
+  "name": "AnInsomniac",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/62804262?v=4",
+  "htmlUrl": "https://github.com/AnInsomniacy",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 7196,
+      "repoCountPrimary": 2,
+      "starsContains": 7196,
+      "repoCountContains": 2,
+      "globalRank": 320,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "motrix-next",
+          "fullName": "AnInsomniacy/motrix-next",
+          "stars": 7024,
+          "url": "https://github.com/AnInsomniacy/motrix-next",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "motrix-next-extension",
+          "fullName": "AnInsomniacy/motrix-next-extension",
+          "stars": 172,
+          "url": "https://github.com/AnInsomniacy/motrix-next-extension",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

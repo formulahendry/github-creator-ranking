@@ -1,0 +1,34 @@
+{
+  "login": "KasparEtter",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/16501371?v=4",
+  "htmlUrl": "https://github.com/KasparEtter",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 127,
+      "repoCountPrimary": 1,
+      "starsContains": 127,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ef1p",
+          "fullName": "KasparEtter/ef1p",
+          "stars": 127,
+          "url": "https://github.com/KasparEtter/ef1p",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

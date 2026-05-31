@@ -1,0 +1,34 @@
+{
+  "login": "prazzon",
+  "name": "Praise Ogunleye",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/64360739?v=4",
+  "htmlUrl": "https://github.com/prazzon",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3946,
+      "repoCountPrimary": 1,
+      "starsContains": 3946,
+      "repoCountContains": 1,
+      "globalRank": 671,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Flexbox-Labs",
+          "fullName": "prazzon/Flexbox-Labs",
+          "stars": 3946,
+          "url": "https://github.com/prazzon/Flexbox-Labs",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

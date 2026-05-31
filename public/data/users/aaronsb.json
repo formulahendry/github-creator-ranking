@@ -1,0 +1,41 @@
+{
+  "login": "aaronsb",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2738471?v=4",
+  "htmlUrl": "https://github.com/aaronsb",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 484,
+      "repoCountPrimary": 2,
+      "starsContains": 484,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "obsidian-mcp-plugin",
+          "fullName": "aaronsb/obsidian-mcp-plugin",
+          "stars": 334,
+          "url": "https://github.com/aaronsb/obsidian-mcp-plugin",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "google-workspace-mcp",
+          "fullName": "aaronsb/google-workspace-mcp",
+          "stars": 150,
+          "url": "https://github.com/aaronsb/google-workspace-mcp",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

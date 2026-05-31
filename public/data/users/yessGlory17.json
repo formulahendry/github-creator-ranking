@@ -1,0 +1,41 @@
+{
+  "login": "yessGlory17",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/52113663?v=4",
+  "htmlUrl": "https://github.com/yessGlory17",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 701,
+      "repoCountPrimary": 2,
+      "starsContains": 701,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "programmer-browser",
+          "fullName": "yessGlory17/programmer-browser",
+          "stars": 601,
+          "url": "https://github.com/yessGlory17/programmer-browser",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "argus",
+          "fullName": "yessGlory17/argus",
+          "stars": 100,
+          "url": "https://github.com/yessGlory17/argus",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

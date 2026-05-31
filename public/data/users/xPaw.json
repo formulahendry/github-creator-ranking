@@ -1,0 +1,34 @@
+{
+  "login": "xPaw",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/613331?v=4",
+  "htmlUrl": "https://github.com/xPaw",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 230,
+      "repoCountPrimary": 1,
+      "starsContains": 230,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "SteamWebAPIDocumentation",
+          "fullName": "xPaw/SteamWebAPIDocumentation",
+          "stars": 230,
+          "url": "https://github.com/xPaw/SteamWebAPIDocumentation",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

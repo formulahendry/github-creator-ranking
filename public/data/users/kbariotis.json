@@ -1,0 +1,34 @@
+{
+  "login": "kbariotis",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/605742?v=4",
+  "htmlUrl": "https://github.com/kbariotis",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 275,
+      "repoCountPrimary": 1,
+      "starsContains": 275,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "throw.js",
+          "fullName": "kbariotis/throw.js",
+          "stars": 275,
+          "url": "https://github.com/kbariotis/throw.js",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

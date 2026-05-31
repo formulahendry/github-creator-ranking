@@ -1,0 +1,34 @@
+{
+  "login": "zmzimpl",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/27490895?v=4",
+  "htmlUrl": "https://github.com/zmzimpl",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1540,
+      "repoCountPrimary": 1,
+      "starsContains": 1540,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "chrome-power-app",
+          "fullName": "zmzimpl/chrome-power-app",
+          "stars": 1540,
+          "url": "https://github.com/zmzimpl/chrome-power-app",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

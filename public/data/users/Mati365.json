@@ -1,0 +1,41 @@
+{
+  "login": "Mati365",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3949262?v=4",
+  "htmlUrl": "https://github.com/Mati365",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 535,
+      "repoCountPrimary": 2,
+      "starsContains": 535,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ts-c-compiler",
+          "fullName": "Mati365/ts-c-compiler",
+          "stars": 409,
+          "url": "https://github.com/Mati365/ts-c-compiler",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ckeditor5-phoenix",
+          "fullName": "Mati365/ckeditor5-phoenix",
+          "stars": 126,
+          "url": "https://github.com/Mati365/ckeditor5-phoenix",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

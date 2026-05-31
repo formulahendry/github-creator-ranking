@@ -1,0 +1,41 @@
+{
+  "login": "alphardex",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/22198352?v=4",
+  "htmlUrl": "https://github.com/alphardex",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 636,
+      "repoCountPrimary": 2,
+      "starsContains": 636,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "su7-replica",
+          "fullName": "alphardex/su7-replica",
+          "stars": 499,
+          "url": "https://github.com/alphardex/su7-replica",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "maku.js",
+          "fullName": "alphardex/maku.js",
+          "stars": 137,
+          "url": "https://github.com/alphardex/maku.js",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

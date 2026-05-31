@@ -1,0 +1,34 @@
+{
+  "login": "MudOnTire",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/11326927?v=4",
+  "htmlUrl": "https://github.com/MudOnTire",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 109,
+      "repoCountPrimary": 1,
+      "starsContains": 109,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "antd-pro-page-tabs",
+          "fullName": "MudOnTire/antd-pro-page-tabs",
+          "stars": 109,
+          "url": "https://github.com/MudOnTire/antd-pro-page-tabs",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "tanweai",
+  "name": "Tanwe AI",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/256783335?v=4",
+  "htmlUrl": "https://github.com/tanweai",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 17846,
+      "repoCountPrimary": 1,
+      "starsContains": 17846,
+      "repoCountContains": 1,
+      "globalRank": 108,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "pua",
+          "fullName": "tanweai/pua",
+          "stars": 17846,
+          "url": "https://github.com/tanweai/pua",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

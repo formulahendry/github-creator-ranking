@@ -1,0 +1,34 @@
+{
+  "login": "goniszewski",
+  "name": "Robert Goniszewski",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/43510122?v=4",
+  "htmlUrl": "https://github.com/goniszewski",
+  "location": "Gdańsk",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2807,
+      "repoCountPrimary": 1,
+      "starsContains": 2807,
+      "repoCountContains": 1,
+      "globalRank": 954,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "grimoire",
+          "fullName": "goniszewski/grimoire",
+          "stars": 2807,
+          "url": "https://github.com/goniszewski/grimoire",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

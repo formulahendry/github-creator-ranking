@@ -1,0 +1,34 @@
+{
+  "login": "wwwlike",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1787789?v=4",
+  "htmlUrl": "https://github.com/wwwlike",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 252,
+      "repoCountPrimary": 1,
+      "starsContains": 252,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vlife-admin-react",
+          "fullName": "wwwlike/vlife-admin-react",
+          "stars": 252,
+          "url": "https://github.com/wwwlike/vlife-admin-react",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

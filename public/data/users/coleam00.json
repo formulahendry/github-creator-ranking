@@ -1,0 +1,62 @@
+{
+  "login": "coleam00",
+  "name": "Cole Medin",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/47287758?v=4",
+  "htmlUrl": "https://github.com/coleam00",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 23008,
+      "repoCountPrimary": 5,
+      "starsContains": 23008,
+      "repoCountContains": 5,
+      "globalRank": 75,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Archon",
+          "fullName": "coleam00/Archon",
+          "stars": 22042,
+          "url": "https://github.com/coleam00/Archon",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "remote-agentic-coding-system",
+          "fullName": "coleam00/remote-agentic-coding-system",
+          "stars": 350,
+          "url": "https://github.com/coleam00/remote-agentic-coding-system",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "remote-mcp-server-with-auth",
+          "fullName": "coleam00/remote-mcp-server-with-auth",
+          "stars": 293,
+          "url": "https://github.com/coleam00/remote-mcp-server-with-auth",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "link-in-bio-page-builder",
+          "fullName": "coleam00/link-in-bio-page-builder",
+          "stars": 205,
+          "url": "https://github.com/coleam00/link-in-bio-page-builder",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "adversarial-dev",
+          "fullName": "coleam00/adversarial-dev",
+          "stars": 118,
+          "url": "https://github.com/coleam00/adversarial-dev",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

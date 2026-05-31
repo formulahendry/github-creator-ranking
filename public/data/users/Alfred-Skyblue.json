@@ -1,0 +1,34 @@
+{
+  "login": "Alfred-Skyblue",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/55641773?v=4",
+  "htmlUrl": "https://github.com/Alfred-Skyblue",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1276,
+      "repoCountPrimary": 1,
+      "starsContains": 1276,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "v-scale-screen",
+          "fullName": "Alfred-Skyblue/v-scale-screen",
+          "stars": 1276,
+          "url": "https://github.com/Alfred-Skyblue/v-scale-screen",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

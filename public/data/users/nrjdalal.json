@@ -1,0 +1,48 @@
+{
+  "login": "nrjdalal",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/58145505?v=4",
+  "htmlUrl": "https://github.com/nrjdalal",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 680,
+      "repoCountPrimary": 3,
+      "starsContains": 680,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "gitpick",
+          "fullName": "nrjdalal/gitpick",
+          "stars": 308,
+          "url": "https://github.com/nrjdalal/gitpick",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "rdt-li",
+          "fullName": "nrjdalal/rdt-li",
+          "stars": 255,
+          "url": "https://github.com/nrjdalal/rdt-li",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "shadcn-ui-snippets",
+          "fullName": "nrjdalal/shadcn-ui-snippets",
+          "stars": 117,
+          "url": "https://github.com/nrjdalal/shadcn-ui-snippets",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

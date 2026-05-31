@@ -1,0 +1,41 @@
+{
+  "login": "horprogs",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/14051960?v=4",
+  "htmlUrl": "https://github.com/horprogs",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 866,
+      "repoCountPrimary": 2,
+      "starsContains": 866,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Just-validate",
+          "fullName": "horprogs/Just-validate",
+          "stars": 590,
+          "url": "https://github.com/horprogs/Just-validate",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-query",
+          "fullName": "horprogs/react-query",
+          "stars": 276,
+          "url": "https://github.com/horprogs/react-query",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

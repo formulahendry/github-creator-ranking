@@ -1,0 +1,48 @@
+{
+  "login": "pleerock",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1753397?v=4",
+  "htmlUrl": "https://github.com/pleerock",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 371,
+      "repoCountPrimary": 3,
+      "starsContains": 371,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "gulpclass",
+          "fullName": "pleerock/gulpclass",
+          "stars": 155,
+          "url": "https://github.com/pleerock/gulpclass",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ngx-modal",
+          "fullName": "pleerock/ngx-modal",
+          "stars": 108,
+          "url": "https://github.com/pleerock/ngx-modal",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ngx-popover",
+          "fullName": "pleerock/ngx-popover",
+          "stars": 108,
+          "url": "https://github.com/pleerock/ngx-popover",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

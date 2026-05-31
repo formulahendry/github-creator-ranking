@@ -1,0 +1,34 @@
+{
+  "login": "AndyMik90",
+  "name": "André Mikalsen",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/119136210?v=4",
+  "htmlUrl": "https://github.com/AndyMik90",
+  "location": "Norway",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 14313,
+      "repoCountPrimary": 1,
+      "starsContains": 14313,
+      "repoCountContains": 1,
+      "globalRank": 137,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Aperant",
+          "fullName": "AndyMik90/Aperant",
+          "stars": 14313,
+          "url": "https://github.com/AndyMik90/Aperant",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

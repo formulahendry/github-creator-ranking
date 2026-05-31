@@ -1,0 +1,55 @@
+{
+  "login": "rsms",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/47046?v=4",
+  "htmlUrl": "https://github.com/rsms",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1988,
+      "repoCountPrimary": 4,
+      "starsContains": 1988,
+      "repoCountContains": 4,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "estrella",
+          "fullName": "rsms/estrella",
+          "stars": 1105,
+          "url": "https://github.com/rsms/estrella",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "figplug",
+          "fullName": "rsms/figplug",
+          "stars": 370,
+          "url": "https://github.com/rsms/figplug",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "wasm-util",
+          "fullName": "rsms/wasm-util",
+          "stars": 361,
+          "url": "https://github.com/rsms/wasm-util",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "co",
+          "fullName": "rsms/co",
+          "stars": 152,
+          "url": "https://github.com/rsms/co",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

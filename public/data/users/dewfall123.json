@@ -1,0 +1,48 @@
+{
+  "login": "dewfall123",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/11796149?v=4",
+  "htmlUrl": "https://github.com/dewfall123",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 485,
+      "repoCountPrimary": 3,
+      "starsContains": 485,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vitepress-for-component",
+          "fullName": "dewfall123/vitepress-for-component",
+          "stars": 196,
+          "url": "https://github.com/dewfall123/vitepress-for-component",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ruabick",
+          "fullName": "dewfall123/ruabick",
+          "stars": 155,
+          "url": "https://github.com/dewfall123/ruabick",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ahooks-vue",
+          "fullName": "dewfall123/ahooks-vue",
+          "stars": 134,
+          "url": "https://github.com/dewfall123/ahooks-vue",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

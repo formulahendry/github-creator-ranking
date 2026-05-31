@@ -1,0 +1,34 @@
+{
+  "login": "JustFly1984",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2255993?v=4",
+  "htmlUrl": "https://github.com/JustFly1984",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1969,
+      "repoCountPrimary": 1,
+      "starsContains": 1969,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-google-maps-api",
+          "fullName": "JustFly1984/react-google-maps-api",
+          "stars": 1969,
+          "url": "https://github.com/JustFly1984/react-google-maps-api",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

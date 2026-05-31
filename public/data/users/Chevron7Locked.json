@@ -1,0 +1,34 @@
+{
+  "login": "Chevron7Locked",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/26398311?v=4",
+  "htmlUrl": "https://github.com/Chevron7Locked",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1141,
+      "repoCountPrimary": 1,
+      "starsContains": 1141,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "kima-hub",
+          "fullName": "Chevron7Locked/kima-hub",
+          "stars": 1141,
+          "url": "https://github.com/Chevron7Locked/kima-hub",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

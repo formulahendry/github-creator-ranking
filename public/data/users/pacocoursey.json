@@ -1,0 +1,41 @@
+{
+  "login": "pacocoursey",
+  "name": "paco",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/34928425?v=4",
+  "htmlUrl": "https://github.com/pacocoursey",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 6457,
+      "repoCountPrimary": 2,
+      "starsContains": 6457,
+      "repoCountContains": 2,
+      "globalRank": 360,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "next-themes",
+          "fullName": "pacocoursey/next-themes",
+          "stars": 6289,
+          "url": "https://github.com/pacocoursey/next-themes",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "use-delayed-render",
+          "fullName": "pacocoursey/use-delayed-render",
+          "stars": 168,
+          "url": "https://github.com/pacocoursey/use-delayed-render",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

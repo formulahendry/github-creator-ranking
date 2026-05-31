@@ -1,0 +1,48 @@
+{
+  "login": "UretzkyZvi",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6106808?v=4",
+  "htmlUrl": "https://github.com/UretzkyZvi",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 804,
+      "repoCountPrimary": 3,
+      "starsContains": 804,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "planner",
+          "fullName": "UretzkyZvi/planner",
+          "stars": 439,
+          "url": "https://github.com/UretzkyZvi/planner",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "capture-photo",
+          "fullName": "UretzkyZvi/capture-photo",
+          "stars": 196,
+          "url": "https://github.com/UretzkyZvi/capture-photo",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "search-address",
+          "fullName": "UretzkyZvi/search-address",
+          "stars": 169,
+          "url": "https://github.com/UretzkyZvi/search-address",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

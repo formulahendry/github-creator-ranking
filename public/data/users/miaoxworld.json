@@ -1,0 +1,34 @@
+{
+  "login": "miaoxworld",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/189187993?v=4",
+  "htmlUrl": "https://github.com/miaoxworld",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1700,
+      "repoCountPrimary": 1,
+      "starsContains": 1700,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "openclaw-manager",
+          "fullName": "miaoxworld/openclaw-manager",
+          "stars": 1700,
+          "url": "https://github.com/miaoxworld/openclaw-manager",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

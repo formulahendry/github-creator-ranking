@@ -1,0 +1,34 @@
+{
+  "login": "woofers",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7284672?v=4",
+  "htmlUrl": "https://github.com/woofers",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 364,
+      "repoCountPrimary": 1,
+      "starsContains": 364,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-wavify",
+          "fullName": "woofers/react-wavify",
+          "stars": 364,
+          "url": "https://github.com/woofers/react-wavify",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

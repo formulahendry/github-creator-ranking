@@ -1,0 +1,41 @@
+{
+  "login": "mtwn105",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/12975481?v=4",
+  "htmlUrl": "https://github.com/mtwn105",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 259,
+      "repoCountPrimary": 2,
+      "starsContains": 259,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "decipher-research-agent",
+          "fullName": "mtwn105/decipher-research-agent",
+          "stars": 152,
+          "url": "https://github.com/mtwn105/decipher-research-agent",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "GitHubWrapped",
+          "fullName": "mtwn105/GitHubWrapped",
+          "stars": 107,
+          "url": "https://github.com/mtwn105/GitHubWrapped",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "maxwroc",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/8268674?v=4",
+  "htmlUrl": "https://github.com/maxwroc",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1239,
+      "repoCountPrimary": 1,
+      "starsContains": 1239,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "battery-state-card",
+          "fullName": "maxwroc/battery-state-card",
+          "stars": 1239,
+          "url": "https://github.com/maxwroc/battery-state-card",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

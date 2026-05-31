@@ -1,0 +1,34 @@
+{
+  "login": "bwiklund",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3586801?v=4",
+  "htmlUrl": "https://github.com/bwiklund",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 562,
+      "repoCountPrimary": 1,
+      "starsContains": 562,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "gamepad.js",
+          "fullName": "bwiklund/gamepad.js",
+          "stars": 562,
+          "url": "https://github.com/bwiklund/gamepad.js",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

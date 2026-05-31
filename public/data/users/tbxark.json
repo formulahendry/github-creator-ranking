@@ -1,0 +1,41 @@
+{
+  "login": "tbxark",
+  "name": "TBXark",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/9513891?v=4",
+  "htmlUrl": "https://github.com/tbxark",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 4490,
+      "repoCountPrimary": 2,
+      "starsContains": 4490,
+      "repoCountContains": 2,
+      "globalRank": 572,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ChatGPT-Telegram-Workers",
+          "fullName": "tbxark/ChatGPT-Telegram-Workers",
+          "stars": 3798,
+          "url": "https://github.com/tbxark/ChatGPT-Telegram-Workers",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "mail2telegram",
+          "fullName": "tbxark/mail2telegram",
+          "stars": 692,
+          "url": "https://github.com/tbxark/mail2telegram",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

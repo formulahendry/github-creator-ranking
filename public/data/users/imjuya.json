@@ -1,0 +1,34 @@
+{
+  "login": "imjuya",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/204206495?v=4",
+  "htmlUrl": "https://github.com/imjuya",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 142,
+      "repoCountPrimary": 1,
+      "starsContains": 142,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "juya-news-card",
+          "fullName": "imjuya/juya-news-card",
+          "stars": 142,
+          "url": "https://github.com/imjuya/juya-news-card",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

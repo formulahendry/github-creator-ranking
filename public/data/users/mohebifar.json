@@ -1,0 +1,62 @@
+{
+  "login": "mohebifar",
+  "name": "Mohamad Mohebifar",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6104558?v=4",
+  "htmlUrl": "https://github.com/mohebifar",
+  "location": "Sunnyvale, CA",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 5360,
+      "repoCountPrimary": 6,
+      "starsContains": 5360,
+      "repoCountContains": 6,
+      "globalRank": 461,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-native-copilot",
+          "fullName": "mohebifar/react-native-copilot",
+          "stars": 2430,
+          "url": "https://github.com/mohebifar/react-native-copilot",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "made-in-iran",
+          "fullName": "mohebifar/made-in-iran",
+          "stars": 960,
+          "url": "https://github.com/mohebifar/made-in-iran",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vidact",
+          "fullName": "mohebifar/vidact",
+          "stars": 783,
+          "url": "https://github.com/mohebifar/vidact",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "tooscut",
+          "fullName": "mohebifar/tooscut",
+          "stars": 674,
+          "url": "https://github.com/mohebifar/tooscut",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-unforget",
+          "fullName": "mohebifar/react-unforget",
+          "stars": 386,
+          "url": "https://github.com/mohebifar/react-unforget",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

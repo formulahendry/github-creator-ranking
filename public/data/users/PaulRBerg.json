@@ -1,0 +1,34 @@
+{
+  "login": "PaulRBerg",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/8782666?v=4",
+  "htmlUrl": "https://github.com/PaulRBerg",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1972,
+      "repoCountPrimary": 1,
+      "starsContains": 1972,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "hardhat-template",
+          "fullName": "PaulRBerg/hardhat-template",
+          "stars": 1972,
+          "url": "https://github.com/PaulRBerg/hardhat-template",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

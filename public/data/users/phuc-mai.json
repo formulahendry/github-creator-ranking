@@ -1,0 +1,48 @@
+{
+  "login": "phuc-mai",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/120724201?v=4",
+  "htmlUrl": "https://github.com/phuc-mai",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 504,
+      "repoCountPrimary": 3,
+      "starsContains": 504,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "borcella_admin",
+          "fullName": "phuc-mai/borcella_admin",
+          "stars": 179,
+          "url": "https://github.com/phuc-mai/borcella_admin",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "academy",
+          "fullName": "phuc-mai/academy",
+          "stars": 171,
+          "url": "https://github.com/phuc-mai/academy",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "borcella_store",
+          "fullName": "phuc-mai/borcella_store",
+          "stars": 154,
+          "url": "https://github.com/phuc-mai/borcella_store",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

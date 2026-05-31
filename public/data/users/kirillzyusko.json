@@ -1,0 +1,48 @@
+{
+  "login": "kirillzyusko",
+  "name": "Kirill Zyusko",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/22820318?v=4",
+  "htmlUrl": "https://github.com/kirillzyusko",
+  "location": "Poland, Warsaw",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 4810,
+      "repoCountPrimary": 3,
+      "starsContains": 4810,
+      "repoCountContains": 3,
+      "globalRank": 531,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-native-keyboard-controller",
+          "fullName": "kirillzyusko/react-native-keyboard-controller",
+          "stars": 3593,
+          "url": "https://github.com/kirillzyusko/react-native-keyboard-controller",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-native-teleport",
+          "fullName": "kirillzyusko/react-native-teleport",
+          "stars": 711,
+          "url": "https://github.com/kirillzyusko/react-native-teleport",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-native-bundle-splitter",
+          "fullName": "kirillzyusko/react-native-bundle-splitter",
+          "stars": 506,
+          "url": "https://github.com/kirillzyusko/react-native-bundle-splitter",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

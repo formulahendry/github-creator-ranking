@@ -1,0 +1,41 @@
+{
+  "login": "zhukunpenglinyutong",
+  "name": "朱昆鹏",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/31264015?v=4",
+  "htmlUrl": "https://github.com/zhukunpenglinyutong",
+  "location": "Beijing China",
+  "countryCode": "CN",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 6506,
+      "repoCountPrimary": 2,
+      "starsContains": 6506,
+      "repoCountContains": 2,
+      "globalRank": 359,
+      "countryRank": 47,
+      "topRepos": [
+        {
+          "name": "jetbrains-cc-gui",
+          "fullName": "zhukunpenglinyutong/jetbrains-cc-gui",
+          "stars": 3793,
+          "url": "https://github.com/zhukunpenglinyutong/jetbrains-cc-gui",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "desktop-cc-gui",
+          "fullName": "zhukunpenglinyutong/desktop-cc-gui",
+          "stars": 2713,
+          "url": "https://github.com/zhukunpenglinyutong/desktop-cc-gui",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

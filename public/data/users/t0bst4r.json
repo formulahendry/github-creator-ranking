@@ -1,0 +1,34 @@
+{
+  "login": "t0bst4r",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/82281152?v=4",
+  "htmlUrl": "https://github.com/t0bst4r",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1485,
+      "repoCountPrimary": 1,
+      "starsContains": 1485,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "home-assistant-matter-hub",
+          "fullName": "t0bst4r/home-assistant-matter-hub",
+          "stars": 1485,
+          "url": "https://github.com/t0bst4r/home-assistant-matter-hub",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

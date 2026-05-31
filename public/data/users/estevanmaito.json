@@ -1,0 +1,34 @@
+{
+  "login": "estevanmaito",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/8527573?v=4",
+  "htmlUrl": "https://github.com/estevanmaito",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 753,
+      "repoCountPrimary": 1,
+      "starsContains": 753,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "windmill-react-ui",
+          "fullName": "estevanmaito/windmill-react-ui",
+          "stars": 753,
+          "url": "https://github.com/estevanmaito/windmill-react-ui",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

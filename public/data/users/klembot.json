@@ -1,0 +1,34 @@
+{
+  "login": "klembot",
+  "name": "Chris Klimas",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1405578?v=4",
+  "htmlUrl": "https://github.com/klembot",
+  "location": "Baltimore",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2760,
+      "repoCountPrimary": 1,
+      "starsContains": 2760,
+      "repoCountContains": 1,
+      "globalRank": 973,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "twinejs",
+          "fullName": "klembot/twinejs",
+          "stars": 2760,
+          "url": "https://github.com/klembot/twinejs",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

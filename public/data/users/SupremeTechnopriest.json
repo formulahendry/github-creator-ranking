@@ -1,0 +1,34 @@
+{
+  "login": "SupremeTechnopriest",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2261598?v=4",
+  "htmlUrl": "https://github.com/SupremeTechnopriest",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1200,
+      "repoCountPrimary": 1,
+      "starsContains": 1200,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-idle-timer",
+          "fullName": "SupremeTechnopriest/react-idle-timer",
+          "stars": 1200,
+          "url": "https://github.com/SupremeTechnopriest/react-idle-timer",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

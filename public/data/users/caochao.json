@@ -1,0 +1,34 @@
+{
+  "login": "caochao",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1911170?v=4",
+  "htmlUrl": "https://github.com/caochao",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 846,
+      "repoCountPrimary": 1,
+      "starsContains": 846,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "cocos_creator_proj_base",
+          "fullName": "caochao/cocos_creator_proj_base",
+          "stars": 846,
+          "url": "https://github.com/caochao/cocos_creator_proj_base",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

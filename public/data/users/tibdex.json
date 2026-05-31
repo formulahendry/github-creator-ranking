@@ -1,0 +1,48 @@
+{
+  "login": "tibdex",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6574550?v=4",
+  "htmlUrl": "https://github.com/tibdex",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 863,
+      "repoCountPrimary": 3,
+      "starsContains": 863,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "github-app-token",
+          "fullName": "tibdex/github-app-token",
+          "stars": 560,
+          "url": "https://github.com/tibdex/github-app-token",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "autorebase",
+          "fullName": "tibdex/autorebase",
+          "stars": 159,
+          "url": "https://github.com/tibdex/autorebase",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "autosquash",
+          "fullName": "tibdex/autosquash",
+          "stars": 144,
+          "url": "https://github.com/tibdex/autosquash",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "ChangoMan",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/716376?v=4",
+  "htmlUrl": "https://github.com/ChangoMan",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 533,
+      "repoCountPrimary": 2,
+      "starsContains": 533,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "nextjs-mdx-blog",
+          "fullName": "ChangoMan/nextjs-mdx-blog",
+          "stars": 432,
+          "url": "https://github.com/ChangoMan/nextjs-mdx-blog",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "web3modal-example",
+          "fullName": "ChangoMan/web3modal-example",
+          "stars": 101,
+          "url": "https://github.com/ChangoMan/web3modal-example",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

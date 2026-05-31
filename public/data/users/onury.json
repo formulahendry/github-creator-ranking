@@ -1,0 +1,48 @@
+{
+  "login": "onury",
+  "name": "Onur Yıldırım",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3665990?v=4",
+  "htmlUrl": "https://github.com/onury",
+  "location": "İstanbul, Turkey",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2708,
+      "repoCountPrimary": 3,
+      "starsContains": 2708,
+      "repoCountContains": 3,
+      "globalRank": 990,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "accesscontrol",
+          "fullName": "onury/accesscontrol",
+          "stars": 2286,
+          "url": "https://github.com/onury/accesscontrol",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "invert-color",
+          "fullName": "onury/invert-color",
+          "stars": 291,
+          "url": "https://github.com/onury/invert-color",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "tasktimer",
+          "fullName": "onury/tasktimer",
+          "stars": 131,
+          "url": "https://github.com/onury/tasktimer",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "phantomptr",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/254021847?v=4",
+  "htmlUrl": "https://github.com/phantomptr",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 121,
+      "repoCountPrimary": 1,
+      "starsContains": 121,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ps5upload",
+          "fullName": "phantomptr/ps5upload",
+          "stars": 121,
+          "url": "https://github.com/phantomptr/ps5upload",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "login": "coddingtonbear",
+  "name": "Adam Coddington",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/527661?v=4",
+  "htmlUrl": "https://github.com/coddingtonbear",
+  "location": "Chicago, Illinois, USA",
+  "countryCode": "US",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3060,
+      "repoCountPrimary": 3,
+      "starsContains": 3060,
+      "repoCountContains": 3,
+      "globalRank": 878,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "obsidian-local-rest-api",
+          "fullName": "coddingtonbear/obsidian-local-rest-api",
+          "stars": 2366,
+          "url": "https://github.com/coddingtonbear/obsidian-local-rest-api",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "obsidian-web",
+          "fullName": "coddingtonbear/obsidian-web",
+          "stars": 550,
+          "url": "https://github.com/coddingtonbear/obsidian-web",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "obsidian-csv-table",
+          "fullName": "coddingtonbear/obsidian-csv-table",
+          "stars": 144,
+          "url": "https://github.com/coddingtonbear/obsidian-csv-table",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

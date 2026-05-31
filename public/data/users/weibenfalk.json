@@ -1,0 +1,41 @@
+{
+  "login": "weibenfalk",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/11212270?v=4",
+  "htmlUrl": "https://github.com/weibenfalk",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 281,
+      "repoCountPrimary": 2,
+      "starsContains": 281,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-quiz",
+          "fullName": "weibenfalk/react-quiz",
+          "stars": 159,
+          "url": "https://github.com/weibenfalk/react-quiz",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-shopping-cart",
+          "fullName": "weibenfalk/react-shopping-cart",
+          "stars": 122,
+          "url": "https://github.com/weibenfalk/react-shopping-cart",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

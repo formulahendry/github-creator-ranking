@@ -1,0 +1,34 @@
+{
+  "login": "ni5arga",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/45588772?v=4",
+  "htmlUrl": "https://github.com/ni5arga",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 374,
+      "repoCountPrimary": 1,
+      "starsContains": 374,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "sightline",
+          "fullName": "ni5arga/sightline",
+          "stars": 374,
+          "url": "https://github.com/ni5arga/sightline",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

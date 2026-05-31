@@ -1,0 +1,55 @@
+{
+  "login": "phibr0",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/59741989?v=4",
+  "htmlUrl": "https://github.com/phibr0",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1536,
+      "repoCountPrimary": 4,
+      "starsContains": 1536,
+      "repoCountContains": 4,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "obsidian-charts",
+          "fullName": "phibr0/obsidian-charts",
+          "stars": 781,
+          "url": "https://github.com/phibr0/obsidian-charts",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "obsidian-dictionary",
+          "fullName": "phibr0/obsidian-dictionary",
+          "stars": 431,
+          "url": "https://github.com/phibr0/obsidian-dictionary",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "obsidian-emoji-shortcodes",
+          "fullName": "phibr0/obsidian-emoji-shortcodes",
+          "stars": 224,
+          "url": "https://github.com/phibr0/obsidian-emoji-shortcodes",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "obsidian-advanced-toolbar",
+          "fullName": "phibr0/obsidian-advanced-toolbar",
+          "stars": 100,
+          "url": "https://github.com/phibr0/obsidian-advanced-toolbar",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

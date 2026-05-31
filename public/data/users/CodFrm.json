@@ -1,0 +1,34 @@
+{
+  "login": "CodFrm",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/22783163?v=4",
+  "htmlUrl": "https://github.com/CodFrm",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2674,
+      "repoCountPrimary": 1,
+      "starsContains": 2674,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "cxmooc-tools",
+          "fullName": "CodFrm/cxmooc-tools",
+          "stars": 2674,
+          "url": "https://github.com/CodFrm/cxmooc-tools",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

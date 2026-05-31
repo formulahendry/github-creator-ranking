@@ -1,0 +1,34 @@
+{
+  "login": "aizhimou",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/19943786?v=4",
+  "htmlUrl": "https://github.com/aizhimou",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 590,
+      "repoCountPrimary": 1,
+      "starsContains": 590,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "jav-play",
+          "fullName": "aizhimou/jav-play",
+          "stars": 590,
+          "url": "https://github.com/aizhimou/jav-play",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

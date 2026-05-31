@@ -1,0 +1,41 @@
+{
+  "login": "AnWeber",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/13434739?v=4",
+  "htmlUrl": "https://github.com/AnWeber",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1175,
+      "repoCountPrimary": 2,
+      "starsContains": 1175,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "httpyac",
+          "fullName": "AnWeber/httpyac",
+          "stars": 835,
+          "url": "https://github.com/AnWeber/httpyac",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vscode-httpyac",
+          "fullName": "AnWeber/vscode-httpyac",
+          "stars": 340,
+          "url": "https://github.com/AnWeber/vscode-httpyac",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

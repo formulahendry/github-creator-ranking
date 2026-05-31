@@ -1,0 +1,41 @@
+{
+  "login": "dbuezas",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/777196?v=4",
+  "htmlUrl": "https://github.com/dbuezas",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 776,
+      "repoCountPrimary": 2,
+      "starsContains": 776,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "lovelace-plotly-graph-card",
+          "fullName": "dbuezas/lovelace-plotly-graph-card",
+          "stars": 630,
+          "url": "https://github.com/dbuezas/lovelace-plotly-graph-card",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "arduino-web-oscilloscope",
+          "fullName": "dbuezas/arduino-web-oscilloscope",
+          "stars": 146,
+          "url": "https://github.com/dbuezas/arduino-web-oscilloscope",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

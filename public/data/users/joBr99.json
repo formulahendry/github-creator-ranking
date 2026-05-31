@@ -1,0 +1,34 @@
+{
+  "login": "joBr99",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/29555657?v=4",
+  "htmlUrl": "https://github.com/joBr99",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 987,
+      "repoCountPrimary": 1,
+      "starsContains": 987,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "nspanel-lovelace-ui",
+          "fullName": "joBr99/nspanel-lovelace-ui",
+          "stars": 987,
+          "url": "https://github.com/joBr99/nspanel-lovelace-ui",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

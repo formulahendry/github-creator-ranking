@@ -1,11 +1,11 @@
 {
   "login": "nilbuild",
-  "name": null,
+  "name": "Kamran Ahmed",
   "avatarUrl": "https://avatars.githubusercontent.com/u/4921183?v=4",
   "htmlUrl": "https://github.com/nilbuild",
-  "location": null,
+  "location": "United Kingdom",
   "countryCode": null,
-  "generatedAt": "2026-05-31T13:50:40.799Z",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
   "isPartial": true,
   "languages": [
     {
@@ -14,18 +14,46 @@
         "name": "TypeScript",
         "githubQuery": "TypeScript"
       },
-      "starsPrimary": 25689,
-      "repoCountPrimary": 1,
-      "starsContains": 25689,
-      "repoCountContains": 1,
-      "globalRank": null,
+      "starsPrimary": 27720,
+      "repoCountPrimary": 6,
+      "starsContains": 27720,
+      "repoCountContains": 6,
+      "globalRank": 51,
       "countryRank": null,
       "topRepos": [
         {
           "name": "driver.js",
           "fullName": "nilbuild/driver.js",
-          "stars": 25689,
+          "stars": 25690,
           "url": "https://github.com/nilbuild/driver.js",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "diffity",
+          "fullName": "nilbuild/diffity",
+          "stars": 684,
+          "url": "https://github.com/nilbuild/diffity",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "claude-run",
+          "fullName": "nilbuild/claude-run",
+          "stars": 601,
+          "url": "https://github.com/nilbuild/claude-run",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "aws-cost-cli",
+          "fullName": "nilbuild/aws-cost-cli",
+          "stars": 473,
+          "url": "https://github.com/nilbuild/aws-cost-cli",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "local-ses",
+          "fullName": "nilbuild/local-ses",
+          "stars": 163,
+          "url": "https://github.com/nilbuild/local-ses",
           "primaryLanguage": "TypeScript"
         }
       ]

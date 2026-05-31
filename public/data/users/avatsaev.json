@@ -1,0 +1,55 @@
+{
+  "login": "avatsaev",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/518974?v=4",
+  "htmlUrl": "https://github.com/avatsaev",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1106,
+      "repoCountPrimary": 4,
+      "starsContains": 1106,
+      "repoCountContains": 4,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "angular-contacts-app-example",
+          "fullName": "avatsaev/angular-contacts-app-example",
+          "stars": 615,
+          "url": "https://github.com/avatsaev/angular-contacts-app-example",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "angular4-docker-example",
+          "fullName": "avatsaev/angular4-docker-example",
+          "stars": 207,
+          "url": "https://github.com/avatsaev/angular4-docker-example",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "angular-ngrx-socket-frontend",
+          "fullName": "avatsaev/angular-ngrx-socket-frontend",
+          "stars": 180,
+          "url": "https://github.com/avatsaev/angular-ngrx-socket-frontend",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "kawachat2-client",
+          "fullName": "avatsaev/kawachat2-client",
+          "stars": 104,
+          "url": "https://github.com/avatsaev/kawachat2-client",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

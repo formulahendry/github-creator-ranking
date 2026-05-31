@@ -1,0 +1,41 @@
+{
+  "login": "alesgenova",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/15913822?v=4",
+  "htmlUrl": "https://github.com/alesgenova",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 652,
+      "repoCountPrimary": 2,
+      "starsContains": 652,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "post-me",
+          "fullName": "alesgenova/post-me",
+          "stars": 526,
+          "url": "https://github.com/alesgenova/post-me",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "pitch-detection-app",
+          "fullName": "alesgenova/pitch-detection-app",
+          "stars": 126,
+          "url": "https://github.com/alesgenova/pitch-detection-app",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

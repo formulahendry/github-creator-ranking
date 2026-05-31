@@ -1,0 +1,34 @@
+{
+  "login": "timoschlueter",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3465220?v=4",
+  "htmlUrl": "https://github.com/timoschlueter",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 284,
+      "repoCountPrimary": 1,
+      "starsContains": 284,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "nightscout-librelink-up",
+          "fullName": "timoschlueter/nightscout-librelink-up",
+          "stars": 284,
+          "url": "https://github.com/timoschlueter/nightscout-librelink-up",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

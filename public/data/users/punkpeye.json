@@ -1,0 +1,48 @@
+{
+  "login": "punkpeye",
+  "name": "Frank Fiegel",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/108313943?v=4",
+  "htmlUrl": "https://github.com/punkpeye",
+  "location": "Miami, FL",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3914,
+      "repoCountPrimary": 3,
+      "starsContains": 3914,
+      "repoCountContains": 3,
+      "globalRank": 679,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "fastmcp",
+          "fullName": "punkpeye/fastmcp",
+          "stars": 3154,
+          "url": "https://github.com/punkpeye/fastmcp",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "pipenet",
+          "fullName": "punkpeye/pipenet",
+          "stars": 498,
+          "url": "https://github.com/punkpeye/pipenet",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "mcp-proxy",
+          "fullName": "punkpeye/mcp-proxy",
+          "stars": 262,
+          "url": "https://github.com/punkpeye/mcp-proxy",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

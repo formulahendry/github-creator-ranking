@@ -1,0 +1,41 @@
+{
+  "login": "WesSouza",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/126160?v=4",
+  "htmlUrl": "https://github.com/WesSouza",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 505,
+      "repoCountPrimary": 2,
+      "starsContains": 505,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "calendar-base",
+          "fullName": "WesSouza/calendar-base",
+          "stars": 385,
+          "url": "https://github.com/WesSouza/calendar-base",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "lgtv-ip-control",
+          "fullName": "WesSouza/lgtv-ip-control",
+          "stars": 120,
+          "url": "https://github.com/WesSouza/lgtv-ip-control",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

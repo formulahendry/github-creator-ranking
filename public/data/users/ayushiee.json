@@ -1,0 +1,41 @@
+{
+  "login": "ayushiee",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/41392106?v=4",
+  "htmlUrl": "https://github.com/ayushiee",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 475,
+      "repoCountPrimary": 2,
+      "starsContains": 475,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "nextflix",
+          "fullName": "ayushiee/nextflix",
+          "stars": 348,
+          "url": "https://github.com/ayushiee/nextflix",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "fb-clone",
+          "fullName": "ayushiee/fb-clone",
+          "stars": 127,
+          "url": "https://github.com/ayushiee/fb-clone",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

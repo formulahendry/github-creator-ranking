@@ -1,0 +1,34 @@
+{
+  "login": "zandaqo",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/8959662?v=4",
+  "htmlUrl": "https://github.com/zandaqo",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 731,
+      "repoCountPrimary": 1,
+      "starsContains": 731,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "structurae",
+          "fullName": "zandaqo/structurae",
+          "stars": 731,
+          "url": "https://github.com/zandaqo/structurae",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

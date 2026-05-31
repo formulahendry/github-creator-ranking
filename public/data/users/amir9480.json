@@ -1,0 +1,41 @@
+{
+  "login": "amir9480",
+  "name": "Amir Alizadeh",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/16279288?v=4",
+  "htmlUrl": "https://github.com/amir9480",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 4611,
+      "repoCountPrimary": 2,
+      "starsContains": 4611,
+      "repoCountContains": 2,
+      "globalRank": 557,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vscode-laravel-extra-intellisense",
+          "fullName": "amir9480/vscode-laravel-extra-intellisense",
+          "stars": 4180,
+          "url": "https://github.com/amir9480/vscode-laravel-extra-intellisense",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vscode-cpp-helper",
+          "fullName": "amir9480/vscode-cpp-helper",
+          "stars": 431,
+          "url": "https://github.com/amir9480/vscode-cpp-helper",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

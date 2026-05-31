@@ -1,0 +1,34 @@
+{
+  "login": "C4illin",
+  "name": "Emrik Östling",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/20753603?v=4",
+  "htmlUrl": "https://github.com/C4illin",
+  "location": "Gothenburg, Sweden",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 16941,
+      "repoCountPrimary": 1,
+      "starsContains": 16941,
+      "repoCountContains": 1,
+      "globalRank": 113,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ConvertX",
+          "fullName": "C4illin/ConvertX",
+          "stars": 16941,
+          "url": "https://github.com/C4illin/ConvertX",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

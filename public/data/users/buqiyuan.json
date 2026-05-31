@@ -1,0 +1,62 @@
+{
+  "login": "buqiyuan",
+  "name": "bqy_fe",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/39730999?v=4",
+  "htmlUrl": "https://github.com/buqiyuan",
+  "location": "GuangZhou, China",
+  "countryCode": "CN",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 10641,
+      "repoCountPrimary": 5,
+      "starsContains": 10641,
+      "repoCountContains": 5,
+      "globalRank": 203,
+      "countryRank": 26,
+      "topRepos": [
+        {
+          "name": "vue3-antdv-admin",
+          "fullName": "buqiyuan/vue3-antdv-admin",
+          "stars": 4097,
+          "url": "https://github.com/buqiyuan/vue3-antdv-admin",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vite-vue3-lowcode",
+          "fullName": "buqiyuan/vite-vue3-lowcode",
+          "stars": 3410,
+          "url": "https://github.com/buqiyuan/vite-vue3-lowcode",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "nest-admin",
+          "fullName": "buqiyuan/nest-admin",
+          "stars": 2224,
+          "url": "https://github.com/buqiyuan/nest-admin",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "electron-vite-monorepo",
+          "fullName": "buqiyuan/electron-vite-monorepo",
+          "stars": 733,
+          "url": "https://github.com/buqiyuan/electron-vite-monorepo",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-antd-admin",
+          "fullName": "buqiyuan/react-antd-admin",
+          "stars": 177,
+          "url": "https://github.com/buqiyuan/react-antd-admin",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "albertromkes",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/923673?v=4",
+  "htmlUrl": "https://github.com/albertromkes",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 141,
+      "repoCountPrimary": 1,
+      "starsContains": 141,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "tabout",
+          "fullName": "albertromkes/tabout",
+          "stars": 141,
+          "url": "https://github.com/albertromkes/tabout",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

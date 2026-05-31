@@ -1,0 +1,48 @@
+{
+  "login": "polyipseity",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/17660922?v=4",
+  "htmlUrl": "https://github.com/polyipseity",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1130,
+      "repoCountPrimary": 3,
+      "starsContains": 1130,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "obsidian-terminal",
+          "fullName": "polyipseity/obsidian-terminal",
+          "stars": 837,
+          "url": "https://github.com/polyipseity/obsidian-terminal",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "obsidian-show-hidden-files",
+          "fullName": "polyipseity/obsidian-show-hidden-files",
+          "stars": 191,
+          "url": "https://github.com/polyipseity/obsidian-show-hidden-files",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "obsidian-modules",
+          "fullName": "polyipseity/obsidian-modules",
+          "stars": 102,
+          "url": "https://github.com/polyipseity/obsidian-modules",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

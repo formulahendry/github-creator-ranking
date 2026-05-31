@@ -1,0 +1,41 @@
+{
+  "login": "guilhermerodz",
+  "name": "Guilherme Rodz",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/10366880?v=4",
+  "htmlUrl": "https://github.com/guilhermerodz",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3423,
+      "repoCountPrimary": 2,
+      "starsContains": 3423,
+      "repoCountContains": 2,
+      "globalRank": 788,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "input-otp",
+          "fullName": "guilhermerodz/input-otp",
+          "stars": 3073,
+          "url": "https://github.com/guilhermerodz/input-otp",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "luna",
+          "fullName": "guilhermerodz/luna",
+          "stars": 350,
+          "url": "https://github.com/guilhermerodz/luna",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

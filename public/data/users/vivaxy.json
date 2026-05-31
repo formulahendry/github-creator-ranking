@@ -1,0 +1,41 @@
+{
+  "login": "vivaxy",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/4216856?v=4",
+  "htmlUrl": "https://github.com/vivaxy",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 557,
+      "repoCountPrimary": 2,
+      "starsContains": 557,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vscode-conventional-commits",
+          "fullName": "vivaxy/vscode-conventional-commits",
+          "stars": 363,
+          "url": "https://github.com/vivaxy/vscode-conventional-commits",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "gacp",
+          "fullName": "vivaxy/gacp",
+          "stars": 194,
+          "url": "https://github.com/vivaxy/gacp",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

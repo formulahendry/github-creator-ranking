@@ -1,0 +1,34 @@
+{
+  "login": "eumemic",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/94939491?v=4",
+  "htmlUrl": "https://github.com/eumemic",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1427,
+      "repoCountPrimary": 1,
+      "starsContains": 1427,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ai-legion",
+          "fullName": "eumemic/ai-legion",
+          "stars": 1427,
+          "url": "https://github.com/eumemic/ai-legion",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

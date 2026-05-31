@@ -1,0 +1,34 @@
+{
+  "login": "emadda",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/57841411?v=4",
+  "htmlUrl": "https://github.com/emadda",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 125,
+      "repoCountPrimary": 1,
+      "starsContains": 125,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "worker-tabserve-reverse-proxy",
+          "fullName": "emadda/worker-tabserve-reverse-proxy",
+          "stars": 125,
+          "url": "https://github.com/emadda/worker-tabserve-reverse-proxy",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

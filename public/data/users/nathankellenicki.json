@@ -1,0 +1,34 @@
+{
+  "login": "nathankellenicki",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2862695?v=4",
+  "htmlUrl": "https://github.com/nathankellenicki",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 518,
+      "repoCountPrimary": 1,
+      "starsContains": 518,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "node-poweredup",
+          "fullName": "nathankellenicki/node-poweredup",
+          "stars": 518,
+          "url": "https://github.com/nathankellenicki/node-poweredup",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

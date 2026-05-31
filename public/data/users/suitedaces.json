@@ -1,0 +1,34 @@
+{
+  "login": "suitedaces",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/50865782?v=4",
+  "htmlUrl": "https://github.com/suitedaces",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 232,
+      "repoCountPrimary": 1,
+      "starsContains": 232,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "dorabot",
+          "fullName": "suitedaces/dorabot",
+          "stars": 232,
+          "url": "https://github.com/suitedaces/dorabot",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

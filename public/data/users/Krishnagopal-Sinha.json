@@ -1,0 +1,34 @@
+{
+  "login": "Krishnagopal-Sinha",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/78201744?v=4",
+  "htmlUrl": "https://github.com/Krishnagopal-Sinha",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 131,
+      "repoCountPrimary": 1,
+      "starsContains": 131,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "better-nothing-glyph-composer",
+          "fullName": "Krishnagopal-Sinha/better-nothing-glyph-composer",
+          "stars": 131,
+          "url": "https://github.com/Krishnagopal-Sinha/better-nothing-glyph-composer",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

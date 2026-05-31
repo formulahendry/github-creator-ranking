@@ -1,0 +1,41 @@
+{
+  "login": "Aylur",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/104676705?v=4",
+  "htmlUrl": "https://github.com/Aylur",
+  "location": "Hungary",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3253,
+      "repoCountPrimary": 2,
+      "starsContains": 3253,
+      "repoCountContains": 2,
+      "globalRank": 828,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ags",
+          "fullName": "Aylur/ags",
+          "stars": 3039,
+          "url": "https://github.com/Aylur/ags",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "gnome-extensions",
+          "fullName": "Aylur/gnome-extensions",
+          "stars": 214,
+          "url": "https://github.com/Aylur/gnome-extensions",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

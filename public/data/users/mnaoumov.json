@@ -1,0 +1,48 @@
+{
+  "login": "mnaoumov",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/735878?v=4",
+  "htmlUrl": "https://github.com/mnaoumov",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 345,
+      "repoCountPrimary": 3,
+      "starsContains": 345,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "obsidian-codescript-toolkit",
+          "fullName": "mnaoumov/obsidian-codescript-toolkit",
+          "stars": 133,
+          "url": "https://github.com/mnaoumov/obsidian-codescript-toolkit",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "obsidian-custom-attachment-location",
+          "fullName": "mnaoumov/obsidian-custom-attachment-location",
+          "stars": 109,
+          "url": "https://github.com/mnaoumov/obsidian-custom-attachment-location",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "obsidian-dev-utils",
+          "fullName": "mnaoumov/obsidian-dev-utils",
+          "stars": 103,
+          "url": "https://github.com/mnaoumov/obsidian-dev-utils",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

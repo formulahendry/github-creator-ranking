@@ -1,0 +1,34 @@
+{
+  "login": "corbt",
+  "name": "Kyle Corbitt",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/176426?v=4",
+  "htmlUrl": "https://github.com/corbt",
+  "location": "San Francisco",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3488,
+      "repoCountPrimary": 1,
+      "starsContains": 3488,
+      "repoCountContains": 1,
+      "globalRank": 772,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "agent.exe",
+          "fullName": "corbt/agent.exe",
+          "stars": 3488,
+          "url": "https://github.com/corbt/agent.exe",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

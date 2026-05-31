@@ -1,0 +1,34 @@
+{
+  "login": "willianjusten",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3991845?v=4",
+  "htmlUrl": "https://github.com/willianjusten",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 222,
+      "repoCountPrimary": 1,
+      "starsContains": 222,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "nba-remix",
+          "fullName": "willianjusten/nba-remix",
+          "stars": 222,
+          "url": "https://github.com/willianjusten/nba-remix",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

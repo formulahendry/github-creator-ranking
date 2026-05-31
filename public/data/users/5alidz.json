@@ -1,0 +1,34 @@
+{
+  "login": "5alidz",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/10210400?v=4",
+  "htmlUrl": "https://github.com/5alidz",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 181,
+      "repoCountPrimary": 1,
+      "starsContains": 181,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "tiny-schema-validator",
+          "fullName": "5alidz/tiny-schema-validator",
+          "stars": 181,
+          "url": "https://github.com/5alidz/tiny-schema-validator",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

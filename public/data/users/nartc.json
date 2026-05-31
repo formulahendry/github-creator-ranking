@@ -1,0 +1,48 @@
+{
+  "login": "nartc",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/25516557?v=4",
+  "htmlUrl": "https://github.com/nartc",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1518,
+      "repoCountPrimary": 3,
+      "starsContains": 1518,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "mapper",
+          "fullName": "nartc/mapper",
+          "stars": 1006,
+          "url": "https://github.com/nartc/mapper",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "nest-mean",
+          "fullName": "nartc/nest-mean",
+          "stars": 374,
+          "url": "https://github.com/nartc/nest-mean",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-native-barcode-mask",
+          "fullName": "nartc/react-native-barcode-mask",
+          "stars": 138,
+          "url": "https://github.com/nartc/react-native-barcode-mask",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

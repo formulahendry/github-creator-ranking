@@ -1,0 +1,41 @@
+{
+  "login": "ianstormtaylor",
+  "name": "Ian Storm Taylor",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/311752?v=4",
+  "htmlUrl": "https://github.com/ianstormtaylor",
+  "location": "San Francisco, CA",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 38822,
+      "repoCountPrimary": 2,
+      "starsContains": 38822,
+      "repoCountContains": 2,
+      "globalRank": 29,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "slate",
+          "fullName": "ianstormtaylor/slate",
+          "stars": 31679,
+          "url": "https://github.com/ianstormtaylor/slate",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "superstruct",
+          "fullName": "ianstormtaylor/superstruct",
+          "stars": 7143,
+          "url": "https://github.com/ianstormtaylor/superstruct",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

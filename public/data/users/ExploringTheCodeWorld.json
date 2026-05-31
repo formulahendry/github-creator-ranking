@@ -1,0 +1,34 @@
+{
+  "login": "ExploringTheCodeWorld",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/124872047?v=4",
+  "htmlUrl": "https://github.com/ExploringTheCodeWorld",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 113,
+      "repoCountPrimary": 1,
+      "starsContains": 113,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "relationship-ts",
+          "fullName": "ExploringTheCodeWorld/relationship-ts",
+          "stars": 113,
+          "url": "https://github.com/ExploringTheCodeWorld/relationship-ts",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

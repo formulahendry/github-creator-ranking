@@ -1,0 +1,41 @@
+{
+  "login": "amandaghassaei",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3218981?v=4",
+  "htmlUrl": "https://github.com/amandaghassaei",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1766,
+      "repoCountPrimary": 2,
+      "starsContains": 1766,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "gpu-io",
+          "fullName": "amandaghassaei/gpu-io",
+          "stars": 1468,
+          "url": "https://github.com/amandaghassaei/gpu-io",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "FluidSimulation",
+          "fullName": "amandaghassaei/FluidSimulation",
+          "stars": 298,
+          "url": "https://github.com/amandaghassaei/FluidSimulation",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

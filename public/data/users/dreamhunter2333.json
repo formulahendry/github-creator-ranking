@@ -1,0 +1,41 @@
+{
+  "login": "dreamhunter2333",
+  "name": "Dream Hunter",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/32295532?v=4",
+  "htmlUrl": "https://github.com/dreamhunter2333",
+  "location": "Tokyo",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 10531,
+      "repoCountPrimary": 2,
+      "starsContains": 10531,
+      "repoCountContains": 2,
+      "globalRank": 207,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "cloudflare_temp_email",
+          "fullName": "dreamhunter2333/cloudflare_temp_email",
+          "stars": 9742,
+          "url": "https://github.com/dreamhunter2333/cloudflare_temp_email",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "chatgpt-tarot-divination",
+          "fullName": "dreamhunter2333/chatgpt-tarot-divination",
+          "stars": 789,
+          "url": "https://github.com/dreamhunter2333/chatgpt-tarot-divination",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

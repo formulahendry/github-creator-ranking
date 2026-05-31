@@ -1,0 +1,34 @@
+{
+  "login": "nzbasic",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/54062686?v=4",
+  "htmlUrl": "https://github.com/nzbasic",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 221,
+      "repoCountPrimary": 1,
+      "starsContains": 221,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "batch-beatmap-downloader",
+          "fullName": "nzbasic/batch-beatmap-downloader",
+          "stars": 221,
+          "url": "https://github.com/nzbasic/batch-beatmap-downloader",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

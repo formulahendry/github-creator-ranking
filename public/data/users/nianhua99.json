@@ -1,0 +1,34 @@
+{
+  "login": "nianhua99",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/48168645?v=4",
+  "htmlUrl": "https://github.com/nianhua99",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1352,
+      "repoCountPrimary": 1,
+      "starsContains": 1352,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "PandoraHelper",
+          "fullName": "nianhua99/PandoraHelper",
+          "stars": 1352,
+          "url": "https://github.com/nianhua99/PandoraHelper",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

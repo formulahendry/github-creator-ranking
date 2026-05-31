@@ -1,0 +1,48 @@
+{
+  "login": "peaceiris",
+  "name": "Shohei Ueda",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/30958501?v=4",
+  "htmlUrl": "https://github.com/peaceiris",
+  "location": "Japan",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 7185,
+      "repoCountPrimary": 3,
+      "starsContains": 7185,
+      "repoCountContains": 3,
+      "globalRank": 321,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "actions-gh-pages",
+          "fullName": "peaceiris/actions-gh-pages",
+          "stars": 5300,
+          "url": "https://github.com/peaceiris/actions-gh-pages",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "actions-hugo",
+          "fullName": "peaceiris/actions-hugo",
+          "stars": 1559,
+          "url": "https://github.com/peaceiris/actions-hugo",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "actions-mdbook",
+          "fullName": "peaceiris/actions-mdbook",
+          "stars": 326,
+          "url": "https://github.com/peaceiris/actions-mdbook",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "login": "OrJDev",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/91349014?v=4",
+  "htmlUrl": "https://github.com/OrJDev",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1065,
+      "repoCountPrimary": 4,
+      "starsContains": 1065,
+      "repoCountContains": 4,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "create-jd-app",
+          "fullName": "OrJDev/create-jd-app",
+          "stars": 668,
+          "url": "https://github.com/OrJDev/create-jd-app",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "trpc-limiter",
+          "fullName": "OrJDev/trpc-limiter",
+          "stars": 153,
+          "url": "https://github.com/OrJDev/trpc-limiter",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "prpc",
+          "fullName": "OrJDev/prpc",
+          "stars": 128,
+          "url": "https://github.com/OrJDev/prpc",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "solid-trpc",
+          "fullName": "OrJDev/solid-trpc",
+          "stars": 116,
+          "url": "https://github.com/OrJDev/solid-trpc",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

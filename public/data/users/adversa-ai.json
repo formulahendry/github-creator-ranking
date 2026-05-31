@@ -1,0 +1,34 @@
+{
+  "login": "adversa-ai",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/260643622?v=4",
+  "htmlUrl": "https://github.com/adversa-ai",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 346,
+      "repoCountPrimary": 1,
+      "starsContains": 346,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "secureclaw",
+          "fullName": "adversa-ai/secureclaw",
+          "stars": 346,
+          "url": "https://github.com/adversa-ai/secureclaw",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "login": "serkodev",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/44749100?v=4",
+  "htmlUrl": "https://github.com/serkodev",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1714,
+      "repoCountPrimary": 3,
+      "starsContains": 1714,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "markdown-exit",
+          "fullName": "serkodev/markdown-exit",
+          "stars": 1351,
+          "url": "https://github.com/serkodev/markdown-exit",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "nuxt-pages-plus",
+          "fullName": "serkodev/nuxt-pages-plus",
+          "stars": 242,
+          "url": "https://github.com/serkodev/nuxt-pages-plus",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "nuxt-monorepo",
+          "fullName": "serkodev/nuxt-monorepo",
+          "stars": 121,
+          "url": "https://github.com/serkodev/nuxt-monorepo",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

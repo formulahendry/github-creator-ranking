@@ -1,0 +1,34 @@
+{
+  "login": "sollidy",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/70297692?v=4",
+  "htmlUrl": "https://github.com/sollidy",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 133,
+      "repoCountPrimary": 1,
+      "starsContains": 133,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "telegram-bot-vercel-boilerplate",
+          "fullName": "sollidy/telegram-bot-vercel-boilerplate",
+          "stars": 133,
+          "url": "https://github.com/sollidy/telegram-bot-vercel-boilerplate",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

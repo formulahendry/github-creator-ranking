@@ -1,0 +1,41 @@
+{
+  "login": "Mrtenz",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7503723?v=4",
+  "htmlUrl": "https://github.com/Mrtenz",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 314,
+      "repoCountPrimary": 2,
+      "starsContains": 314,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "FindETH",
+          "fullName": "Mrtenz/FindETH",
+          "stars": 206,
+          "url": "https://github.com/Mrtenz/FindETH",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "eip-712",
+          "fullName": "Mrtenz/eip-712",
+          "stars": 108,
+          "url": "https://github.com/Mrtenz/eip-712",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "bloodyowl",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1688645?v=4",
+  "htmlUrl": "https://github.com/bloodyowl",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 758,
+      "repoCountPrimary": 1,
+      "starsContains": 758,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "boxed",
+          "fullName": "bloodyowl/boxed",
+          "stars": 758,
+          "url": "https://github.com/bloodyowl/boxed",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

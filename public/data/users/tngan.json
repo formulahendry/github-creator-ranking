@@ -1,0 +1,34 @@
+{
+  "login": "tngan",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/10245912?v=4",
+  "htmlUrl": "https://github.com/tngan",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 662,
+      "repoCountPrimary": 1,
+      "starsContains": 662,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "samlify",
+          "fullName": "tngan/samlify",
+          "stars": 662,
+          "url": "https://github.com/tngan/samlify",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

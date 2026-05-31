@@ -1,0 +1,41 @@
+{
+  "login": "chibicode",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/992008?v=4",
+  "htmlUrl": "https://github.com/chibicode",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 716,
+      "repoCountPrimary": 2,
+      "starsContains": 716,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "TypeScript-for-Beginner-Programmers",
+          "fullName": "chibicode/TypeScript-for-Beginner-Programmers",
+          "stars": 555,
+          "url": "https://github.com/chibicode/TypeScript-for-Beginner-Programmers",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Y-Combinator-for-Non-programmers",
+          "fullName": "chibicode/Y-Combinator-for-Non-programmers",
+          "stars": 161,
+          "url": "https://github.com/chibicode/Y-Combinator-for-Non-programmers",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

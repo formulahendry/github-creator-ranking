@@ -1,0 +1,34 @@
+{
+  "login": "arielweinberger",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/4976416?v=4",
+  "htmlUrl": "https://github.com/arielweinberger",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 954,
+      "repoCountPrimary": 1,
+      "starsContains": 954,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "nestjs-recipe",
+          "fullName": "arielweinberger/nestjs-recipe",
+          "stars": 954,
+          "url": "https://github.com/arielweinberger/nestjs-recipe",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

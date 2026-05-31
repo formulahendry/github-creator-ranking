@@ -1,0 +1,48 @@
+{
+  "login": "arabold",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1548229?v=4",
+  "htmlUrl": "https://github.com/arabold",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1656,
+      "repoCountPrimary": 3,
+      "starsContains": 1656,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "docs-mcp-server",
+          "fullName": "arabold/docs-mcp-server",
+          "stars": 1398,
+          "url": "https://github.com/arabold/docs-mcp-server",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "serverless-sentry-plugin",
+          "fullName": "arabold/serverless-sentry-plugin",
+          "stars": 153,
+          "url": "https://github.com/arabold/serverless-sentry-plugin",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-native-whirlwind",
+          "fullName": "arabold/react-native-whirlwind",
+          "stars": 105,
+          "url": "https://github.com/arabold/react-native-whirlwind",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

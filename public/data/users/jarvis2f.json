@@ -1,0 +1,41 @@
+{
+  "login": "jarvis2f",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/137974272?v=4",
+  "htmlUrl": "https://github.com/jarvis2f",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 660,
+      "repoCountPrimary": 2,
+      "starsContains": 660,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vortex",
+          "fullName": "jarvis2f/vortex",
+          "stars": 339,
+          "url": "https://github.com/jarvis2f/vortex",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ais-ninja",
+          "fullName": "jarvis2f/ais-ninja",
+          "stars": 321,
+          "url": "https://github.com/jarvis2f/ais-ninja",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "login": "deepkolos",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/12824616?v=4",
+  "htmlUrl": "https://github.com/deepkolos",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 595,
+      "repoCountPrimary": 3,
+      "starsContains": 595,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "platformize",
+          "fullName": "deepkolos/platformize",
+          "stars": 346,
+          "url": "https://github.com/deepkolos/platformize",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "wxmp-tensorflow",
+          "fullName": "deepkolos/wxmp-tensorflow",
+          "stars": 125,
+          "url": "https://github.com/deepkolos/wxmp-tensorflow",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "shader-graph-wgsl",
+          "fullName": "deepkolos/shader-graph-wgsl",
+          "stars": 124,
+          "url": "https://github.com/deepkolos/shader-graph-wgsl",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "timbertson",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/14172?v=4",
+  "htmlUrl": "https://github.com/timbertson",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 525,
+      "repoCountPrimary": 2,
+      "starsContains": 525,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "shellshape",
+          "fullName": "timbertson/shellshape",
+          "stars": 391,
+          "url": "https://github.com/timbertson/shellshape",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "slinger",
+          "fullName": "timbertson/slinger",
+          "stars": 134,
+          "url": "https://github.com/timbertson/slinger",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

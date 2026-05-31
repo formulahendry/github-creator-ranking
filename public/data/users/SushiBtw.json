@@ -1,0 +1,34 @@
+{
+  "login": "SushiBtw",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/45533122?v=4",
+  "htmlUrl": "https://github.com/SushiBtw",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 152,
+      "repoCountPrimary": 1,
+      "starsContains": 152,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "discord-music-player",
+          "fullName": "SushiBtw/discord-music-player",
+          "stars": 152,
+          "url": "https://github.com/SushiBtw/discord-music-player",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

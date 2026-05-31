@@ -1,0 +1,34 @@
+{
+  "login": "ethanwillis",
+  "name": "Ethan Willis",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/182492?v=4",
+  "htmlUrl": "https://github.com/ethanwillis",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3998,
+      "repoCountPrimary": 1,
+      "starsContains": 3998,
+      "repoCountContains": 1,
+      "globalRank": 661,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "zotero-scihub",
+          "fullName": "ethanwillis/zotero-scihub",
+          "stars": 3998,
+          "url": "https://github.com/ethanwillis/zotero-scihub",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

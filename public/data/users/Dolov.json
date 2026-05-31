@@ -1,0 +1,41 @@
+{
+  "login": "Dolov",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/19704420?v=4",
+  "htmlUrl": "https://github.com/Dolov",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1080,
+      "repoCountPrimary": 2,
+      "starsContains": 1080,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "chrome-QuickGo",
+          "fullName": "Dolov/chrome-QuickGo",
+          "stars": 779,
+          "url": "https://github.com/Dolov/chrome-QuickGo",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "chrome-best-cookier",
+          "fullName": "Dolov/chrome-best-cookier",
+          "stars": 301,
+          "url": "https://github.com/Dolov/chrome-best-cookier",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "login": "lukasoppermann",
+  "name": "Lukas Oppermann",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/813754?v=4",
+  "htmlUrl": "https://github.com/lukasoppermann",
+  "location": "Berlin, Germany",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3144,
+      "repoCountPrimary": 4,
+      "starsContains": 3144,
+      "repoCountContains": 4,
+      "globalRank": 859,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "html5sortable",
+          "fullName": "lukasoppermann/html5sortable",
+          "stars": 1644,
+          "url": "https://github.com/lukasoppermann/html5sortable",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "design-tokens",
+          "fullName": "lukasoppermann/design-tokens",
+          "stars": 1107,
+          "url": "https://github.com/lukasoppermann/design-tokens",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "style-dictionary-utils",
+          "fullName": "lukasoppermann/style-dictionary-utils",
+          "stars": 226,
+          "url": "https://github.com/lukasoppermann/style-dictionary-utils",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "design-token-transformer",
+          "fullName": "lukasoppermann/design-token-transformer",
+          "stars": 167,
+          "url": "https://github.com/lukasoppermann/design-token-transformer",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

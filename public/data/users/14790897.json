@@ -1,0 +1,62 @@
+{
+  "login": "14790897",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/121866954?v=4",
+  "htmlUrl": "https://github.com/14790897",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2620,
+      "repoCountPrimary": 5,
+      "starsContains": 2620,
+      "repoCountContains": 5,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "paper-ai",
+          "fullName": "14790897/paper-ai",
+          "stars": 1685,
+          "url": "https://github.com/14790897/paper-ai",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "MapDistancePro",
+          "fullName": "14790897/MapDistancePro",
+          "stars": 313,
+          "url": "https://github.com/14790897/MapDistancePro",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "tg-voice-ai",
+          "fullName": "14790897/tg-voice-ai",
+          "stars": 260,
+          "url": "https://github.com/14790897/tg-voice-ai",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Ali-NFC2QR",
+          "fullName": "14790897/Ali-NFC2QR",
+          "stars": 228,
+          "url": "https://github.com/14790897/Ali-NFC2QR",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "CookiesClerk",
+          "fullName": "14790897/CookiesClerk",
+          "stars": 134,
+          "url": "https://github.com/14790897/CookiesClerk",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

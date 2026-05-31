@@ -1,0 +1,34 @@
+{
+  "login": "dnlzro",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/25471061?v=4",
+  "htmlUrl": "https://github.com/dnlzro",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 651,
+      "repoCountPrimary": 1,
+      "starsContains": 651,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "horizon",
+          "fullName": "dnlzro/horizon",
+          "stars": 651,
+          "url": "https://github.com/dnlzro/horizon",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

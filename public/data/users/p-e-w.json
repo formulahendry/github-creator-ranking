@@ -1,0 +1,41 @@
+{
+  "login": "p-e-w",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2702526?v=4",
+  "htmlUrl": "https://github.com/p-e-w",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 505,
+      "repoCountPrimary": 2,
+      "starsContains": 505,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "waidrin",
+          "fullName": "p-e-w/waidrin",
+          "stars": 344,
+          "url": "https://github.com/p-e-w/waidrin",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "arrows",
+          "fullName": "p-e-w/arrows",
+          "stars": 161,
+          "url": "https://github.com/p-e-w/arrows",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "ZaneH",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/8400251?v=4",
+  "htmlUrl": "https://github.com/ZaneH",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2306,
+      "repoCountPrimary": 2,
+      "starsContains": 2306,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "piano-trainer",
+          "fullName": "ZaneH/piano-trainer",
+          "stars": 2174,
+          "url": "https://github.com/ZaneH/piano-trainer",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "metronome",
+          "fullName": "ZaneH/metronome",
+          "stars": 132,
+          "url": "https://github.com/ZaneH/metronome",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

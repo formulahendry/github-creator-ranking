@@ -1,0 +1,34 @@
+{
+  "login": "kbysiec",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/26285420?v=4",
+  "htmlUrl": "https://github.com/kbysiec",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 336,
+      "repoCountPrimary": 1,
+      "starsContains": 336,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vite-vanilla-ts-lib-starter",
+          "fullName": "kbysiec/vite-vanilla-ts-lib-starter",
+          "stars": 336,
+          "url": "https://github.com/kbysiec/vite-vanilla-ts-lib-starter",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "login": "PawanOsman",
+  "name": "Pawan Osman",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/8727627?v=4",
+  "htmlUrl": "https://github.com/PawanOsman",
+  "location": "As Sulaymaniyah, Iraq",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 6528,
+      "repoCountPrimary": 4,
+      "starsContains": 6528,
+      "repoCountContains": 4,
+      "globalRank": 358,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ChatGPT",
+          "fullName": "PawanOsman/ChatGPT",
+          "stars": 5890,
+          "url": "https://github.com/PawanOsman/ChatGPT",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "GoogleBard",
+          "fullName": "PawanOsman/GoogleBard",
+          "stars": 420,
+          "url": "https://github.com/PawanOsman/GoogleBard",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "chatgpt-io",
+          "fullName": "PawanOsman/chatgpt-io",
+          "stars": 118,
+          "url": "https://github.com/PawanOsman/chatgpt-io",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ChatGPT-Official",
+          "fullName": "PawanOsman/ChatGPT-Official",
+          "stars": 100,
+          "url": "https://github.com/PawanOsman/ChatGPT-Official",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

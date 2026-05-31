@@ -1,0 +1,34 @@
+{
+  "login": "okisdev",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/66008528?v=4",
+  "htmlUrl": "https://github.com/okisdev",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1270,
+      "repoCountPrimary": 1,
+      "starsContains": 1270,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ChatChat",
+          "fullName": "okisdev/ChatChat",
+          "stars": 1270,
+          "url": "https://github.com/okisdev/ChatChat",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

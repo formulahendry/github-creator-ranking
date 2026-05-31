@@ -1,0 +1,34 @@
+{
+  "login": "vibalijoshi",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/69690510?v=4",
+  "htmlUrl": "https://github.com/vibalijoshi",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 429,
+      "repoCountPrimary": 1,
+      "starsContains": 429,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "List-of-Opportunities",
+          "fullName": "vibalijoshi/List-of-Opportunities",
+          "stars": 429,
+          "url": "https://github.com/vibalijoshi/List-of-Opportunities",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

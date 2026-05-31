@@ -1,0 +1,55 @@
+{
+  "login": "rajeshdavidbabu",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/15684795?v=4",
+  "htmlUrl": "https://github.com/rajeshdavidbabu",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 574,
+      "repoCountPrimary": 4,
+      "starsContains": 574,
+      "repoCountContains": 4,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "pdf-chat-ai",
+          "fullName": "rajeshdavidbabu/pdf-chat-ai",
+          "stars": 193,
+          "url": "https://github.com/rajeshdavidbabu/pdf-chat-ai",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "pdf-chat-ai-sdk",
+          "fullName": "rajeshdavidbabu/pdf-chat-ai-sdk",
+          "stars": 165,
+          "url": "https://github.com/rajeshdavidbabu/pdf-chat-ai-sdk",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "s3-upload-thing",
+          "fullName": "rajeshdavidbabu/s3-upload-thing",
+          "stars": 115,
+          "url": "https://github.com/rajeshdavidbabu/s3-upload-thing",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "remix-craftjs-starter",
+          "fullName": "rajeshdavidbabu/remix-craftjs-starter",
+          "stars": 101,
+          "url": "https://github.com/rajeshdavidbabu/remix-craftjs-starter",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

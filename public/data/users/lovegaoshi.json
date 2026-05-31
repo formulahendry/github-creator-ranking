@@ -1,0 +1,34 @@
+{
+  "login": "lovegaoshi",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/106490582?v=4",
+  "htmlUrl": "https://github.com/lovegaoshi",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1295,
+      "repoCountPrimary": 1,
+      "starsContains": 1295,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "azusa-player-mobile",
+          "fullName": "lovegaoshi/azusa-player-mobile",
+          "stars": 1295,
+          "url": "https://github.com/lovegaoshi/azusa-player-mobile",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "login": "samccone",
+  "name": "Sam Saccone",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/883126?v=4",
+  "htmlUrl": "https://github.com/samccone",
+  "location": "∆∆∆<script>alert(prompt('why'))</script>",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3287,
+      "repoCountPrimary": 3,
+      "starsContains": 3287,
+      "repoCountContains": 3,
+      "globalRank": 821,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "bundle-buddy",
+          "fullName": "samccone/bundle-buddy",
+          "stars": 2884,
+          "url": "https://github.com/samccone/bundle-buddy",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "fidgetspin.xyz",
+          "fullName": "samccone/fidgetspin.xyz",
+          "stars": 300,
+          "url": "https://github.com/samccone/fidgetspin.xyz",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "thermal_print",
+          "fullName": "samccone/thermal_print",
+          "stars": 103,
+          "url": "https://github.com/samccone/thermal_print",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

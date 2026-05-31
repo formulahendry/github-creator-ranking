@@ -1,0 +1,34 @@
+{
+  "login": "callumlocke",
+  "name": "Callum Locke",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/250617?v=4",
+  "htmlUrl": "https://github.com/callumlocke",
+  "location": "London",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 4115,
+      "repoCountPrimary": 1,
+      "starsContains": 4115,
+      "repoCountContains": 1,
+      "globalRank": 636,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "json-formatter",
+          "fullName": "callumlocke/json-formatter",
+          "stars": 4115,
+          "url": "https://github.com/callumlocke/json-formatter",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

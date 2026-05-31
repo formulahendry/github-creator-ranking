@@ -1,0 +1,34 @@
+{
+  "login": "Marcosfitzsimons",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/67470920?v=4",
+  "htmlUrl": "https://github.com/Marcosfitzsimons",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 333,
+      "repoCountPrimary": 1,
+      "starsContains": 333,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "multi-step-form",
+          "fullName": "Marcosfitzsimons/multi-step-form",
+          "stars": 333,
+          "url": "https://github.com/Marcosfitzsimons/multi-step-form",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,11 +1,11 @@
 {
   "login": "conwnet",
-  "name": null,
+  "name": "netcon",
   "avatarUrl": "https://avatars.githubusercontent.com/u/17734694?v=4",
   "htmlUrl": "https://github.com/conwnet",
-  "location": null,
-  "countryCode": null,
-  "generatedAt": "2026-05-31T13:50:40.799Z",
+  "location": "China",
+  "countryCode": "CN",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
   "isPartial": true,
   "languages": [
     {
@@ -18,8 +18,8 @@
       "repoCountPrimary": 1,
       "starsContains": 23297,
       "repoCountContains": 1,
-      "globalRank": null,
-      "countryRank": null,
+      "globalRank": 73,
+      "countryRank": 9,
       "topRepos": [
         {
           "name": "github1s",

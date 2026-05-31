@@ -1,0 +1,34 @@
+{
+  "login": "harpreetkhalsagtbit",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2958292?v=4",
+  "htmlUrl": "https://github.com/harpreetkhalsagtbit",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 315,
+      "repoCountPrimary": 1,
+      "starsContains": 315,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "country-state-city",
+          "fullName": "harpreetkhalsagtbit/country-state-city",
+          "stars": 315,
+          "url": "https://github.com/harpreetkhalsagtbit/country-state-city",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

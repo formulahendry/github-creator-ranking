@@ -1,0 +1,34 @@
+{
+  "login": "cita-777",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/177306803?v=4",
+  "htmlUrl": "https://github.com/cita-777",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2657,
+      "repoCountPrimary": 1,
+      "starsContains": 2657,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "metapi",
+          "fullName": "cita-777/metapi",
+          "stars": 2657,
+          "url": "https://github.com/cita-777/metapi",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

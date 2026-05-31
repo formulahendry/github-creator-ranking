@@ -1,0 +1,41 @@
+{
+  "login": "Dhaiwat10",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/39617427?v=4",
+  "htmlUrl": "https://github.com/Dhaiwat10",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 364,
+      "repoCountPrimary": 2,
+      "starsContains": 364,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-link-preview",
+          "fullName": "Dhaiwat10/react-link-preview",
+          "stars": 196,
+          "url": "https://github.com/Dhaiwat10/react-link-preview",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "create-web3-frontend",
+          "fullName": "Dhaiwat10/create-web3-frontend",
+          "stars": 168,
+          "url": "https://github.com/Dhaiwat10/create-web3-frontend",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

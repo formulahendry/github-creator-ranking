@@ -1,0 +1,55 @@
+{
+  "login": "VadimDez",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3748453?v=4",
+  "htmlUrl": "https://github.com/VadimDez",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2012,
+      "repoCountPrimary": 4,
+      "starsContains": 2012,
+      "repoCountContains": 4,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ng2-pdf-viewer",
+          "fullName": "VadimDez/ng2-pdf-viewer",
+          "stars": 1347,
+          "url": "https://github.com/VadimDez/ng2-pdf-viewer",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Counter-Strike-JS",
+          "fullName": "VadimDez/Counter-Strike-JS",
+          "stars": 290,
+          "url": "https://github.com/VadimDez/Counter-Strike-JS",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ngx-order-pipe",
+          "fullName": "VadimDez/ngx-order-pipe",
+          "stars": 234,
+          "url": "https://github.com/VadimDez/ngx-order-pipe",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ngx-filter-pipe",
+          "fullName": "VadimDez/ngx-filter-pipe",
+          "stars": 141,
+          "url": "https://github.com/VadimDez/ngx-filter-pipe",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

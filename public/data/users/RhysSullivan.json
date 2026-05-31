@@ -1,0 +1,62 @@
+{
+  "login": "RhysSullivan",
+  "name": "Rhys Sullivan",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/39114868?v=4",
+  "htmlUrl": "https://github.com/RhysSullivan",
+  "location": "San Francisco",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 4104,
+      "repoCountPrimary": 7,
+      "starsContains": 4104,
+      "repoCountContains": 7,
+      "globalRank": 640,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "executor",
+          "fullName": "RhysSullivan/executor",
+          "stars": 1872,
+          "url": "https://github.com/RhysSullivan/executor",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "shiptalkers",
+          "fullName": "RhysSullivan/shiptalkers",
+          "stars": 797,
+          "url": "https://github.com/RhysSullivan/shiptalkers",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "epstein-files-browser",
+          "fullName": "RhysSullivan/epstein-files-browser",
+          "stars": 769,
+          "url": "https://github.com/RhysSullivan/epstein-files-browser",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "tenant-kit",
+          "fullName": "RhysSullivan/tenant-kit",
+          "stars": 189,
+          "url": "https://github.com/RhysSullivan/tenant-kit",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "hogchat",
+          "fullName": "RhysSullivan/hogchat",
+          "stars": 166,
+          "url": "https://github.com/RhysSullivan/hogchat",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

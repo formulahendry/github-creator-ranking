@@ -1,0 +1,41 @@
+{
+  "login": "Joe12387",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/489322?v=4",
+  "htmlUrl": "https://github.com/Joe12387",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 661,
+      "repoCountPrimary": 2,
+      "starsContains": 661,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "detectIncognito",
+          "fullName": "Joe12387/detectIncognito",
+          "stars": 537,
+          "url": "https://github.com/Joe12387/detectIncognito",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "OP-Fingerprinting-Script",
+          "fullName": "Joe12387/OP-Fingerprinting-Script",
+          "stars": 124,
+          "url": "https://github.com/Joe12387/OP-Fingerprinting-Script",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

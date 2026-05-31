@@ -1,0 +1,34 @@
+{
+  "login": "nashsu",
+  "name": "nash_su",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2127280?v=4",
+  "htmlUrl": "https://github.com/nashsu",
+  "location": "Xi'an",
+  "countryCode": "CN",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 9974,
+      "repoCountPrimary": 1,
+      "starsContains": 9974,
+      "repoCountContains": 1,
+      "globalRank": 223,
+      "countryRank": 28,
+      "topRepos": [
+        {
+          "name": "llm_wiki",
+          "fullName": "nashsu/llm_wiki",
+          "stars": 9974,
+          "url": "https://github.com/nashsu/llm_wiki",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

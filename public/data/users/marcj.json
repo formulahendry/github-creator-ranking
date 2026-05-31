@@ -1,0 +1,41 @@
+{
+  "login": "marcj",
+  "name": "marc j. schmidt",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/450980?v=4",
+  "htmlUrl": "https://github.com/marcj",
+  "location": "The Island of Rügen, Germany",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3847,
+      "repoCountPrimary": 2,
+      "starsContains": 3847,
+      "repoCountContains": 2,
+      "globalRank": 692,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "deepkit",
+          "fullName": "marcj/deepkit",
+          "stars": 3548,
+          "url": "https://github.com/marcj/deepkit",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "angular2-localstorage",
+          "fullName": "marcj/angular2-localstorage",
+          "stars": 299,
+          "url": "https://github.com/marcj/angular2-localstorage",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

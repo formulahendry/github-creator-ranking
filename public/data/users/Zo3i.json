@@ -1,0 +1,34 @@
+{
+  "login": "Zo3i",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/30296801?v=4",
+  "htmlUrl": "https://github.com/Zo3i",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 416,
+      "repoCountPrimary": 1,
+      "starsContains": 416,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "chatgptWithMidjourney",
+          "fullName": "Zo3i/chatgptWithMidjourney",
+          "stars": 416,
+          "url": "https://github.com/Zo3i/chatgptWithMidjourney",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "aitmiloud",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/102025307?v=4",
+  "htmlUrl": "https://github.com/aitmiloud",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 309,
+      "repoCountPrimary": 2,
+      "starsContains": 309,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "zellige",
+          "fullName": "aitmiloud/zellige",
+          "stars": 183,
+          "url": "https://github.com/aitmiloud/zellige",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "cmi-node",
+          "fullName": "aitmiloud/cmi-node",
+          "stars": 126,
+          "url": "https://github.com/aitmiloud/cmi-node",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

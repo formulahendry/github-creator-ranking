@@ -1,0 +1,62 @@
+{
+  "login": "privatenumber",
+  "name": "Hiroki Osame",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1075694?v=4",
+  "htmlUrl": "https://github.com/privatenumber",
+  "location": "Tokyo, Japan",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 23781,
+      "repoCountPrimary": 14,
+      "starsContains": 23781,
+      "repoCountContains": 14,
+      "globalRank": 69,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "tsx",
+          "fullName": "privatenumber/tsx",
+          "stars": 12011,
+          "url": "https://github.com/privatenumber/tsx",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "esbuild-loader",
+          "fullName": "privatenumber/esbuild-loader",
+          "stars": 3610,
+          "url": "https://github.com/privatenumber/esbuild-loader",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "tasuku",
+          "fullName": "privatenumber/tasuku",
+          "stars": 2203,
+          "url": "https://github.com/privatenumber/tasuku",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "minification-benchmarks",
+          "fullName": "privatenumber/minification-benchmarks",
+          "stars": 1615,
+          "url": "https://github.com/privatenumber/minification-benchmarks",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "pkgroll",
+          "fullName": "privatenumber/pkgroll",
+          "stars": 1559,
+          "url": "https://github.com/privatenumber/pkgroll",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

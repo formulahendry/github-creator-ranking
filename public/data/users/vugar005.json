@@ -1,0 +1,41 @@
+{
+  "login": "vugar005",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/28726265?v=4",
+  "htmlUrl": "https://github.com/vugar005",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 363,
+      "repoCountPrimary": 2,
+      "starsContains": 363,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "youtube-webapp-turborepo",
+          "fullName": "vugar005/youtube-webapp-turborepo",
+          "stars": 231,
+          "url": "https://github.com/vugar005/youtube-webapp-turborepo",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ngx-awesome-uploader",
+          "fullName": "vugar005/ngx-awesome-uploader",
+          "stars": 132,
+          "url": "https://github.com/vugar005/ngx-awesome-uploader",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

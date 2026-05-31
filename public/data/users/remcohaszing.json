@@ -1,0 +1,41 @@
+{
+  "login": "remcohaszing",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/779047?v=4",
+  "htmlUrl": "https://github.com/remcohaszing",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 432,
+      "repoCountPrimary": 2,
+      "starsContains": 432,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "monaco-yaml",
+          "fullName": "remcohaszing/monaco-yaml",
+          "stars": 327,
+          "url": "https://github.com/remcohaszing/monaco-yaml",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "monaco-tailwindcss",
+          "fullName": "remcohaszing/monaco-tailwindcss",
+          "stars": 105,
+          "url": "https://github.com/remcohaszing/monaco-tailwindcss",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

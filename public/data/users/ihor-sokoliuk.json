@@ -1,0 +1,34 @@
+{
+  "login": "ihor-sokoliuk",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/17313213?v=4",
+  "htmlUrl": "https://github.com/ihor-sokoliuk",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 831,
+      "repoCountPrimary": 1,
+      "starsContains": 831,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "mcp-searxng",
+          "fullName": "ihor-sokoliuk/mcp-searxng",
+          "stars": 831,
+          "url": "https://github.com/ihor-sokoliuk/mcp-searxng",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

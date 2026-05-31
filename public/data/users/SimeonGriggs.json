@@ -1,0 +1,41 @@
+{
+  "login": "SimeonGriggs",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/9684022?v=4",
+  "htmlUrl": "https://github.com/SimeonGriggs",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1449,
+      "repoCountPrimary": 2,
+      "starsContains": 1449,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "tints.dev",
+          "fullName": "SimeonGriggs/tints.dev",
+          "stars": 1262,
+          "url": "https://github.com/SimeonGriggs/tints.dev",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "sanity-react-router-template",
+          "fullName": "SimeonGriggs/sanity-react-router-template",
+          "stars": 187,
+          "url": "https://github.com/SimeonGriggs/sanity-react-router-template",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

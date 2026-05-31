@@ -1,0 +1,41 @@
+{
+  "login": "Code-Hex",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6500104?v=4",
+  "htmlUrl": "https://github.com/Code-Hex",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 530,
+      "repoCountPrimary": 2,
+      "starsContains": 530,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "graphql-codegen-typescript-validation-schema",
+          "fullName": "Code-Hex/graphql-codegen-typescript-validation-schema",
+          "stars": 356,
+          "url": "https://github.com/Code-Hex/graphql-codegen-typescript-validation-schema",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "firebase-auth-cloudflare-workers",
+          "fullName": "Code-Hex/firebase-auth-cloudflare-workers",
+          "stars": 174,
+          "url": "https://github.com/Code-Hex/firebase-auth-cloudflare-workers",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

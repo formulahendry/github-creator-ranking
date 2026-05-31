@@ -5,7 +5,7 @@
   "htmlUrl": "https://github.com/thedotmack",
   "location": null,
   "countryCode": null,
-  "generatedAt": "2026-05-31T13:50:40.799Z",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
   "isPartial": true,
   "languages": [
     {
@@ -14,17 +14,17 @@
         "name": "TypeScript",
         "githubQuery": "TypeScript"
       },
-      "starsPrimary": 79841,
+      "starsPrimary": 79898,
       "repoCountPrimary": 1,
-      "starsContains": 79841,
+      "starsContains": 79898,
       "repoCountContains": 1,
-      "globalRank": 3,
+      "globalRank": 4,
       "countryRank": null,
       "topRepos": [
         {
           "name": "claude-mem",
           "fullName": "thedotmack/claude-mem",
-          "stars": 79841,
+          "stars": 79898,
           "url": "https://github.com/thedotmack/claude-mem",
           "primaryLanguage": "TypeScript"
         }

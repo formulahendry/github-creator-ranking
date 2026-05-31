@@ -1,0 +1,41 @@
+{
+  "login": "nvh95",
+  "name": "Hung Viet Nguyen",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/8603085?v=4",
+  "htmlUrl": "https://github.com/nvh95",
+  "location": "Vietnam",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2786,
+      "repoCountPrimary": 2,
+      "starsContains": 2786,
+      "repoCountContains": 2,
+      "globalRank": 958,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "jest-preview",
+          "fullName": "nvh95/jest-preview",
+          "stars": 2393,
+          "url": "https://github.com/nvh95/jest-preview",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vitest-preview",
+          "fullName": "nvh95/vitest-preview",
+          "stars": 393,
+          "url": "https://github.com/nvh95/vitest-preview",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "co-pine",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/77868200?v=4",
+  "htmlUrl": "https://github.com/co-pine",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 198,
+      "repoCountPrimary": 1,
+      "starsContains": 198,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ai-excalidraw",
+          "fullName": "co-pine/ai-excalidraw",
+          "stars": 198,
+          "url": "https://github.com/co-pine/ai-excalidraw",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

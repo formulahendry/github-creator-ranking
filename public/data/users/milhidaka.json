@@ -1,0 +1,34 @@
+{
+  "login": "milhidaka",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/9245788?v=4",
+  "htmlUrl": "https://github.com/milhidaka",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 130,
+      "repoCountPrimary": 1,
+      "starsContains": 130,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "webgpu-blas",
+          "fullName": "milhidaka/webgpu-blas",
+          "stars": 130,
+          "url": "https://github.com/milhidaka/webgpu-blas",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

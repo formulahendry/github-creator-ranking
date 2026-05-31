@@ -1,0 +1,62 @@
+{
+  "login": "shahradelahi",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/17948260?v=4",
+  "htmlUrl": "https://github.com/shahradelahi",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2340,
+      "repoCountPrimary": 10,
+      "starsContains": 2340,
+      "repoCountContains": 10,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "next-extra",
+          "fullName": "shahradelahi/next-extra",
+          "stars": 511,
+          "url": "https://github.com/shahradelahi/next-extra",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "storage-box",
+          "fullName": "shahradelahi/storage-box",
+          "stars": 446,
+          "url": "https://github.com/shahradelahi/storage-box",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "node-vault",
+          "fullName": "shahradelahi/node-vault",
+          "stars": 375,
+          "url": "https://github.com/shahradelahi/node-vault",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vault-cli",
+          "fullName": "shahradelahi/vault-cli",
+          "stars": 206,
+          "url": "https://github.com/shahradelahi/vault-cli",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "zod-request",
+          "fullName": "shahradelahi/zod-request",
+          "stars": 170,
+          "url": "https://github.com/shahradelahi/zod-request",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

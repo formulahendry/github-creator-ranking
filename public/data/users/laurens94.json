@@ -1,0 +1,34 @@
+{
+  "login": "laurens94",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5780704?v=4",
+  "htmlUrl": "https://github.com/laurens94",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 122,
+      "repoCountPrimary": 1,
+      "starsContains": 122,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vue-timeline-chart",
+          "fullName": "laurens94/vue-timeline-chart",
+          "stars": 122,
+          "url": "https://github.com/laurens94/vue-timeline-chart",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

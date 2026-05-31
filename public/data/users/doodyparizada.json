@@ -1,0 +1,34 @@
+{
+  "login": "doodyparizada",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/965572?v=4",
+  "htmlUrl": "https://github.com/doodyparizada",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 148,
+      "repoCountPrimary": 1,
+      "starsContains": 148,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "word2vec-spam-filter",
+          "fullName": "doodyparizada/word2vec-spam-filter",
+          "stars": 148,
+          "url": "https://github.com/doodyparizada/word2vec-spam-filter",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

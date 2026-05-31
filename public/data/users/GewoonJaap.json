@@ -1,0 +1,34 @@
+{
+  "login": "GewoonJaap",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/33700526?v=4",
+  "htmlUrl": "https://github.com/GewoonJaap",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 886,
+      "repoCountPrimary": 1,
+      "starsContains": 886,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "gemini-cli-openai",
+          "fullName": "GewoonJaap/gemini-cli-openai",
+          "stars": 886,
+          "url": "https://github.com/GewoonJaap/gemini-cli-openai",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

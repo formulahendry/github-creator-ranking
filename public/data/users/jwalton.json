@@ -1,0 +1,41 @@
+{
+  "login": "jwalton",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1771003?v=4",
+  "htmlUrl": "https://github.com/jwalton",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 749,
+      "repoCountPrimary": 2,
+      "starsContains": 749,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "node-amqp-connection-manager",
+          "fullName": "jwalton/node-amqp-connection-manager",
+          "stars": 559,
+          "url": "https://github.com/jwalton/node-amqp-connection-manager",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "gh-find-current-pr",
+          "fullName": "jwalton/gh-find-current-pr",
+          "stars": 190,
+          "url": "https://github.com/jwalton/gh-find-current-pr",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

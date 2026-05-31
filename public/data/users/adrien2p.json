@@ -1,0 +1,55 @@
+{
+  "login": "adrien2p",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/25098370?v=4",
+  "htmlUrl": "https://github.com/adrien2p",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 796,
+      "repoCountPrimary": 4,
+      "starsContains": 796,
+      "repoCountContains": 4,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "medusa-extender",
+          "fullName": "adrien2p/medusa-extender",
+          "stars": 350,
+          "url": "https://github.com/adrien2p/medusa-extender",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "medusa-plugins",
+          "fullName": "adrien2p/medusa-plugins",
+          "stars": 184,
+          "url": "https://github.com/adrien2p/medusa-plugins",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "nestjs-sequelize-jwt",
+          "fullName": "adrien2p/nestjs-sequelize-jwt",
+          "stars": 156,
+          "url": "https://github.com/adrien2p/nestjs-sequelize-jwt",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "nestjs-graphql",
+          "fullName": "adrien2p/nestjs-graphql",
+          "stars": 106,
+          "url": "https://github.com/adrien2p/nestjs-graphql",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

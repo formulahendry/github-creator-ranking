@@ -1,0 +1,34 @@
+{
+  "login": "qpwo",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/10591373?v=4",
+  "htmlUrl": "https://github.com/qpwo",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 219,
+      "repoCountPrimary": 1,
+      "starsContains": 219,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "actual-malware",
+          "fullName": "qpwo/actual-malware",
+          "stars": 219,
+          "url": "https://github.com/qpwo/actual-malware",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

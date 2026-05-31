@@ -1,0 +1,34 @@
+{
+  "login": "iRedScarf",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/37926645?v=4",
+  "htmlUrl": "https://github.com/iRedScarf",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 106,
+      "repoCountPrimary": 1,
+      "starsContains": 106,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "onedrive-index",
+          "fullName": "iRedScarf/onedrive-index",
+          "stars": 106,
+          "url": "https://github.com/iRedScarf/onedrive-index",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

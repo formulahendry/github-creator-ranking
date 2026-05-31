@@ -1,0 +1,62 @@
+{
+  "login": "jaywcjlove",
+  "name": "小弟调调",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1680273?v=4",
+  "htmlUrl": "https://github.com/jaywcjlove",
+  "location": "Suzhou, China",
+  "countryCode": "CN",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 10794,
+      "repoCountPrimary": 11,
+      "starsContains": 10794,
+      "repoCountContains": 11,
+      "globalRank": 197,
+      "countryRank": 25,
+      "topRepos": [
+        {
+          "name": "hotkeys-js",
+          "fullName": "jaywcjlove/hotkeys-js",
+          "stars": 7098,
+          "url": "https://github.com/jaywcjlove/hotkeys-js",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "svgtofont",
+          "fullName": "jaywcjlove/svgtofont",
+          "stars": 723,
+          "url": "https://github.com/jaywcjlove/svgtofont",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "validator.js",
+          "fullName": "jaywcjlove/validator.js",
+          "stars": 553,
+          "url": "https://github.com/jaywcjlove/validator.js",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "wxmp",
+          "fullName": "jaywcjlove/wxmp",
+          "stars": 531,
+          "url": "https://github.com/jaywcjlove/wxmp",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "mocker-api",
+          "fullName": "jaywcjlove/mocker-api",
+          "stars": 502,
+          "url": "https://github.com/jaywcjlove/mocker-api",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

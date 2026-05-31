@@ -1,0 +1,41 @@
+{
+  "login": "konodyuk",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/20307856?v=4",
+  "htmlUrl": "https://github.com/konodyuk",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 244,
+      "repoCountPrimary": 2,
+      "starsContains": 244,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "obsidian-typing",
+          "fullName": "konodyuk/obsidian-typing",
+          "stars": 143,
+          "url": "https://github.com/konodyuk/obsidian-typing",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "obsidian-text-expander",
+          "fullName": "konodyuk/obsidian-text-expander",
+          "stars": 101,
+          "url": "https://github.com/konodyuk/obsidian-text-expander",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

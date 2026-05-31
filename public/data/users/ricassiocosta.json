@@ -1,0 +1,34 @@
+{
+  "login": "ricassiocosta",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/42079830?v=4",
+  "htmlUrl": "https://github.com/ricassiocosta",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 157,
+      "repoCountPrimary": 1,
+      "starsContains": 157,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "backend-para-rinha-2025-node",
+          "fullName": "ricassiocosta/backend-para-rinha-2025-node",
+          "stars": 157,
+          "url": "https://github.com/ricassiocosta/backend-para-rinha-2025-node",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

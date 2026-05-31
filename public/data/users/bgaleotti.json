@@ -1,0 +1,34 @@
+{
+  "login": "bgaleotti",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/333036?v=4",
+  "htmlUrl": "https://github.com/bgaleotti",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 174,
+      "repoCountPrimary": 1,
+      "starsContains": 174,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-query-native-devtools",
+          "fullName": "bgaleotti/react-query-native-devtools",
+          "stars": 174,
+          "url": "https://github.com/bgaleotti/react-query-native-devtools",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "3Alan",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/49978973?v=4",
+  "htmlUrl": "https://github.com/3Alan",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 319,
+      "repoCountPrimary": 2,
+      "starsContains": 319,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "DocsMind",
+          "fullName": "3Alan/DocsMind",
+          "stars": 197,
+          "url": "https://github.com/3Alan/DocsMind",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "chatpdf-demo",
+          "fullName": "3Alan/chatpdf-demo",
+          "stars": 122,
+          "url": "https://github.com/3Alan/chatpdf-demo",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

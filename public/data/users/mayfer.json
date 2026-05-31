@@ -1,0 +1,41 @@
+{
+  "login": "mayfer",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/901384?v=4",
+  "htmlUrl": "https://github.com/mayfer",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 694,
+      "repoCountPrimary": 2,
+      "starsContains": 694,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "dbpill",
+          "fullName": "mayfer/dbpill",
+          "stars": 526,
+          "url": "https://github.com/mayfer/dbpill",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "electrobun-macos-native-blur",
+          "fullName": "mayfer/electrobun-macos-native-blur",
+          "stars": 168,
+          "url": "https://github.com/mayfer/electrobun-macos-native-blur",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

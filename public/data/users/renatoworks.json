@@ -1,0 +1,34 @@
+{
+  "login": "renatoworks",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/130500381?v=4",
+  "htmlUrl": "https://github.com/renatoworks",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 621,
+      "repoCountPrimary": 1,
+      "starsContains": 621,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "3dsvg",
+          "fullName": "renatoworks/3dsvg",
+          "stars": 621,
+          "url": "https://github.com/renatoworks/3dsvg",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

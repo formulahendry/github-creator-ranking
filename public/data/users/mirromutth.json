@@ -1,0 +1,34 @@
+{
+  "login": "mirromutth",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/29607994?v=4",
+  "htmlUrl": "https://github.com/mirromutth",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 148,
+      "repoCountPrimary": 1,
+      "starsContains": 148,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "mysql-action",
+          "fullName": "mirromutth/mysql-action",
+          "stars": 148,
+          "url": "https://github.com/mirromutth/mysql-action",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "wclr",
+  "name": "Alex",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/736697?v=4",
+  "htmlUrl": "https://github.com/wclr",
+  "location": "Upper Worlds",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 9710,
+      "repoCountPrimary": 2,
+      "starsContains": 9710,
+      "repoCountContains": 2,
+      "globalRank": 231,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "yalc",
+          "fullName": "wclr/yalc",
+          "stars": 6269,
+          "url": "https://github.com/wclr/yalc",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ts-node-dev",
+          "fullName": "wclr/ts-node-dev",
+          "stars": 3441,
+          "url": "https://github.com/wclr/ts-node-dev",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

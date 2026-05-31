@@ -1,0 +1,48 @@
+{
+  "login": "ekzhang",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7550632?v=4",
+  "htmlUrl": "https://github.com/ekzhang",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1560,
+      "repoCountPrimary": 3,
+      "starsContains": 1560,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "jax-js",
+          "fullName": "ekzhang/jax-js",
+          "stars": 812,
+          "url": "https://github.com/ekzhang/jax-js",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "composing.studio",
+          "fullName": "ekzhang/composing.studio",
+          "stars": 544,
+          "url": "https://github.com/ekzhang/composing.studio",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "rushlight",
+          "fullName": "ekzhang/rushlight",
+          "stars": 204,
+          "url": "https://github.com/ekzhang/rushlight",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

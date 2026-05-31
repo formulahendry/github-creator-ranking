@@ -1,0 +1,41 @@
+{
+  "login": "Dunqing",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/29533304?v=4",
+  "htmlUrl": "https://github.com/Dunqing",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 496,
+      "repoCountPrimary": 2,
+      "starsContains": 496,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "resume",
+          "fullName": "Dunqing/resume",
+          "stars": 385,
+          "url": "https://github.com/Dunqing/resume",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vite-ant-design-pro",
+          "fullName": "Dunqing/vite-ant-design-pro",
+          "stars": 111,
+          "url": "https://github.com/Dunqing/vite-ant-design-pro",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

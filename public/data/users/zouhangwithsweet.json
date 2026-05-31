@@ -1,0 +1,41 @@
+{
+  "login": "zouhangwithsweet",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/21095710?v=4",
+  "htmlUrl": "https://github.com/zouhangwithsweet",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 594,
+      "repoCountPrimary": 2,
+      "starsContains": 594,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "fubukicss-tool",
+          "fullName": "zouhangwithsweet/fubukicss-tool",
+          "stars": 379,
+          "url": "https://github.com/zouhangwithsweet/fubukicss-tool",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vue-components-lib-seed",
+          "fullName": "zouhangwithsweet/vue-components-lib-seed",
+          "stars": 215,
+          "url": "https://github.com/zouhangwithsweet/vue-components-lib-seed",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

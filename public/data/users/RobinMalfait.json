@@ -1,0 +1,41 @@
+{
+  "login": "RobinMalfait",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1834413?v=4",
+  "htmlUrl": "https://github.com/RobinMalfait",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 525,
+      "repoCountPrimary": 2,
+      "starsContains": 525,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "lazy-collections",
+          "fullName": "RobinMalfait/lazy-collections",
+          "stars": 418,
+          "url": "https://github.com/RobinMalfait/lazy-collections",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "placebo",
+          "fullName": "RobinMalfait/placebo",
+          "stars": 107,
+          "url": "https://github.com/RobinMalfait/placebo",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

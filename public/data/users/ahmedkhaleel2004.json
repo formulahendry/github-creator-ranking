@@ -1,0 +1,34 @@
+{
+  "login": "ahmedkhaleel2004",
+  "name": "Ahmed Khaleel",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/111161052?v=4",
+  "htmlUrl": "https://github.com/ahmedkhaleel2004",
+  "location": "Toronto",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 15656,
+      "repoCountPrimary": 1,
+      "starsContains": 15656,
+      "repoCountContains": 1,
+      "globalRank": 124,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "gitdiagram",
+          "fullName": "ahmedkhaleel2004/gitdiagram",
+          "stars": 15656,
+          "url": "https://github.com/ahmedkhaleel2004/gitdiagram",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "login": "subframe7536",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/78338239?v=4",
+  "htmlUrl": "https://github.com/subframe7536",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 881,
+      "repoCountPrimary": 4,
+      "starsContains": 881,
+      "repoCountContains": 4,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vscode-custom-ui-style",
+          "fullName": "subframe7536/vscode-custom-ui-style",
+          "stars": 368,
+          "url": "https://github.com/subframe7536/vscode-custom-ui-style",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vscode-theme-maple",
+          "fullName": "subframe7536/vscode-theme-maple",
+          "stars": 273,
+          "url": "https://github.com/subframe7536/vscode-theme-maple",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vscode-codeimg",
+          "fullName": "subframe7536/vscode-codeimg",
+          "stars": 137,
+          "url": "https://github.com/subframe7536/vscode-codeimg",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "kysely-sqlite-tools",
+          "fullName": "subframe7536/kysely-sqlite-tools",
+          "stars": 103,
+          "url": "https://github.com/subframe7536/kysely-sqlite-tools",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "lilnasy",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/69170106?v=4",
+  "htmlUrl": "https://github.com/lilnasy",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 336,
+      "repoCountPrimary": 2,
+      "starsContains": 336,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "see",
+          "fullName": "lilnasy/see",
+          "stars": 175,
+          "url": "https://github.com/lilnasy/see",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "gratelets",
+          "fullName": "lilnasy/gratelets",
+          "stars": 161,
+          "url": "https://github.com/lilnasy/gratelets",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

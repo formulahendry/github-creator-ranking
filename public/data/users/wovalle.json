@@ -1,0 +1,34 @@
+{
+  "login": "wovalle",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7854116?v=4",
+  "htmlUrl": "https://github.com/wovalle",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 583,
+      "repoCountPrimary": 1,
+      "starsContains": 583,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "fireorm",
+          "fullName": "wovalle/fireorm",
+          "stars": 583,
+          "url": "https://github.com/wovalle/fireorm",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

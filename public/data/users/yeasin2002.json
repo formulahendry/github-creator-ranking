@@ -1,0 +1,41 @@
+{
+  "login": "yeasin2002",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/87494463?v=4",
+  "htmlUrl": "https://github.com/yeasin2002",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 330,
+      "repoCountPrimary": 2,
+      "starsContains": 330,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "bulletproof-nextjs-starter",
+          "fullName": "yeasin2002/bulletproof-nextjs-starter",
+          "stars": 228,
+          "url": "https://github.com/yeasin2002/bulletproof-nextjs-starter",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-ts-starter",
+          "fullName": "yeasin2002/react-ts-starter",
+          "stars": 102,
+          "url": "https://github.com/yeasin2002/react-ts-starter",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

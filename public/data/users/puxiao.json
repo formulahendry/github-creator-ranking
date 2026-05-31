@@ -1,0 +1,34 @@
+{
+  "login": "puxiao",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3401635?v=4",
+  "htmlUrl": "https://github.com/puxiao",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 344,
+      "repoCountPrimary": 1,
+      "starsContains": 344,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "notes",
+          "fullName": "puxiao/notes",
+          "stars": 344,
+          "url": "https://github.com/puxiao/notes",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

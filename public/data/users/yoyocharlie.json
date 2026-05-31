@@ -1,0 +1,34 @@
+{
+  "login": "yoyocharlie",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/106707326?v=4",
+  "htmlUrl": "https://github.com/yoyocharlie",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 113,
+      "repoCountPrimary": 1,
+      "starsContains": 113,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "nextMotion",
+          "fullName": "yoyocharlie/nextMotion",
+          "stars": 113,
+          "url": "https://github.com/yoyocharlie/nextMotion",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

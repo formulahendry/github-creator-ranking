@@ -1,0 +1,41 @@
+{
+  "login": "frolic",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/508855?v=4",
+  "htmlUrl": "https://github.com/frolic",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 316,
+      "repoCountPrimary": 2,
+      "starsContains": 316,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ethfs",
+          "fullName": "frolic/ethfs",
+          "stars": 166,
+          "url": "https://github.com/frolic/ethfs",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "web3-scaffold",
+          "fullName": "frolic/web3-scaffold",
+          "stars": 150,
+          "url": "https://github.com/frolic/web3-scaffold",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

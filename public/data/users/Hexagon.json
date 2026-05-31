@@ -1,0 +1,41 @@
+{
+  "login": "Hexagon",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/419737?v=4",
+  "htmlUrl": "https://github.com/Hexagon",
+  "location": "Sweden",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2754,
+      "repoCountPrimary": 2,
+      "starsContains": 2754,
+      "repoCountContains": 2,
+      "globalRank": 976,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "croner",
+          "fullName": "Hexagon/croner",
+          "stars": 2558,
+          "url": "https://github.com/Hexagon/croner",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "pup",
+          "fullName": "Hexagon/pup",
+          "stars": 196,
+          "url": "https://github.com/Hexagon/pup",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

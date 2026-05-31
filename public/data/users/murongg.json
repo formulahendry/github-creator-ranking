@@ -1,0 +1,41 @@
+{
+  "login": "murongg",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/38655613?v=4",
+  "htmlUrl": "https://github.com/murongg",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 512,
+      "repoCountPrimary": 2,
+      "starsContains": 512,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "markra",
+          "fullName": "murongg/markra",
+          "stars": 320,
+          "url": "https://github.com/murongg/markra",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vue3-lazyload",
+          "fullName": "murongg/vue3-lazyload",
+          "stars": 192,
+          "url": "https://github.com/murongg/vue3-lazyload",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "login": "voldikss",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/20282795?v=4",
+  "htmlUrl": "https://github.com/voldikss",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 483,
+      "repoCountPrimary": 4,
+      "starsContains": 483,
+      "repoCountContains": 4,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "coc-todolist",
+          "fullName": "voldikss/coc-todolist",
+          "stars": 132,
+          "url": "https://github.com/voldikss/coc-todolist",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "coc-browser",
+          "fullName": "voldikss/coc-browser",
+          "stars": 128,
+          "url": "https://github.com/voldikss/coc-browser",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "coc-extensions",
+          "fullName": "voldikss/coc-extensions",
+          "stars": 122,
+          "url": "https://github.com/voldikss/coc-extensions",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "coc-cmake",
+          "fullName": "voldikss/coc-cmake",
+          "stars": 101,
+          "url": "https://github.com/voldikss/coc-cmake",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

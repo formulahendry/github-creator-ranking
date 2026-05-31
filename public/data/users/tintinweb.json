@@ -1,0 +1,48 @@
+{
+  "login": "tintinweb",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2865694?v=4",
+  "htmlUrl": "https://github.com/tintinweb",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 761,
+      "repoCountPrimary": 3,
+      "starsContains": 761,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "pi-subagents",
+          "fullName": "tintinweb/pi-subagents",
+          "stars": 399,
+          "url": "https://github.com/tintinweb/pi-subagents",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vscode-interactive-graphviz",
+          "fullName": "tintinweb/vscode-interactive-graphviz",
+          "stars": 204,
+          "url": "https://github.com/tintinweb/vscode-interactive-graphviz",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "pi-gitnexus",
+          "fullName": "tintinweb/pi-gitnexus",
+          "stars": 158,
+          "url": "https://github.com/tintinweb/pi-gitnexus",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

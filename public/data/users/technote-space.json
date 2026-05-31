@@ -1,0 +1,48 @@
+{
+  "login": "technote-space",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/39912269?v=4",
+  "htmlUrl": "https://github.com/technote-space",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 581,
+      "repoCountPrimary": 3,
+      "starsContains": 581,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "toc-generator",
+          "fullName": "technote-space/toc-generator",
+          "stars": 245,
+          "url": "https://github.com/technote-space/toc-generator",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "get-diff-action",
+          "fullName": "technote-space/get-diff-action",
+          "stars": 192,
+          "url": "https://github.com/technote-space/get-diff-action",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "workflow-conclusion-action",
+          "fullName": "technote-space/workflow-conclusion-action",
+          "stars": 144,
+          "url": "https://github.com/technote-space/workflow-conclusion-action",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "Pana",
+  "name": "Pana",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/552081?v=4",
+  "htmlUrl": "https://github.com/Pana",
+  "location": "Beijing, China",
+  "countryCode": "CN",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3008,
+      "repoCountPrimary": 1,
+      "starsContains": 3008,
+      "repoCountContains": 1,
+      "globalRank": 889,
+      "countryRank": 106,
+      "topRepos": [
+        {
+          "name": "nrm",
+          "fullName": "Pana/nrm",
+          "stars": 3008,
+          "url": "https://github.com/Pana/nrm",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

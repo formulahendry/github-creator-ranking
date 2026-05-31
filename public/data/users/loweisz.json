@@ -1,0 +1,34 @@
+{
+  "login": "loweisz",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/34910067?v=4",
+  "htmlUrl": "https://github.com/loweisz",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 470,
+      "repoCountPrimary": 1,
+      "starsContains": 470,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "generate-avatar",
+          "fullName": "loweisz/generate-avatar",
+          "stars": 470,
+          "url": "https://github.com/loweisz/generate-avatar",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

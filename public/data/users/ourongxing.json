@@ -1,0 +1,55 @@
+{
+  "login": "ourongxing",
+  "name": "Ou",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/48356807?v=4",
+  "htmlUrl": "https://github.com/ourongxing",
+  "location": "Chongqing, China",
+  "countryCode": "CN",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 24079,
+      "repoCountPrimary": 4,
+      "starsContains": 24079,
+      "repoCountContains": 4,
+      "globalRank": 66,
+      "countryRank": 7,
+      "topRepos": [
+        {
+          "name": "newsnow",
+          "fullName": "ourongxing/newsnow",
+          "stars": 20521,
+          "url": "https://github.com/ourongxing/newsnow",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "chatgpt-vercel",
+          "fullName": "ourongxing/chatgpt-vercel",
+          "stars": 3216,
+          "url": "https://github.com/ourongxing/chatgpt-vercel",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ohmymn",
+          "fullName": "ourongxing/ohmymn",
+          "stars": 225,
+          "url": "https://github.com/ourongxing/ohmymn",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "web-printer",
+          "fullName": "ourongxing/web-printer",
+          "stars": 117,
+          "url": "https://github.com/ourongxing/web-printer",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

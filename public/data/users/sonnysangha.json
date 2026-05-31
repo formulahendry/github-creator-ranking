@@ -1,0 +1,62 @@
+{
+  "login": "sonnysangha",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/24712956?v=4",
+  "htmlUrl": "https://github.com/sonnysangha",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 969,
+      "repoCountPrimary": 7,
+      "starsContains": 969,
+      "repoCountContains": 7,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ticket-marketplace-saas-nextjs15-convex-clerk-stripe-connect",
+          "fullName": "sonnysangha/ticket-marketplace-saas-nextjs15-convex-clerk-stripe-connect",
+          "stars": 215,
+          "url": "https://github.com/sonnysangha/ticket-marketplace-saas-nextjs15-convex-clerk-stripe-connect",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "lms-course-platform-saas-nextjs15-sanity-stripe-clerk-shadcn-typescript",
+          "fullName": "sonnysangha/lms-course-platform-saas-nextjs15-sanity-stripe-clerk-shadcn-typescript",
+          "stars": 157,
+          "url": "https://github.com/sonnysangha/lms-course-platform-saas-nextjs15-sanity-stripe-clerk-shadcn-typescript",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ai-agent-langchain-langgraph-convex-clerk-ibm-wxtools-nextjs15",
+          "fullName": "sonnysangha/ai-agent-langchain-langgraph-convex-clerk-ibm-wxtools-nextjs15",
+          "stars": 150,
+          "url": "https://github.com/sonnysangha/ai-agent-langchain-langgraph-convex-clerk-ibm-wxtools-nextjs15",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "AI-Image-generator-microsoft-azure",
+          "fullName": "sonnysangha/AI-Image-generator-microsoft-azure",
+          "stars": 117,
+          "url": "https://github.com/sonnysangha/AI-Image-generator-microsoft-azure",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "stripe-payment-elements-with-https-nextjs-14-demo",
+          "fullName": "sonnysangha/stripe-payment-elements-with-https-nextjs-14-demo",
+          "stars": 114,
+          "url": "https://github.com/sonnysangha/stripe-payment-elements-with-https-nextjs-14-demo",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

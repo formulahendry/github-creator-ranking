@@ -1,0 +1,48 @@
+{
+  "login": "noelrohi",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/105811202?v=4",
+  "htmlUrl": "https://github.com/noelrohi",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 518,
+      "repoCountPrimary": 3,
+      "starsContains": 518,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "anirohi",
+          "fullName": "noelrohi/anirohi",
+          "stars": 250,
+          "url": "https://github.com/noelrohi/anirohi",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "kd",
+          "fullName": "noelrohi/kd",
+          "stars": 148,
+          "url": "https://github.com/noelrohi/kd",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "thr",
+          "fullName": "noelrohi/thr",
+          "stars": 120,
+          "url": "https://github.com/noelrohi/thr",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

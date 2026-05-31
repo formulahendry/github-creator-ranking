@@ -1,0 +1,34 @@
+{
+  "login": "MaxAst",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/13224092?v=4",
+  "htmlUrl": "https://github.com/MaxAst",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 539,
+      "repoCountPrimary": 1,
+      "starsContains": 539,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "expo-share-extension",
+          "fullName": "MaxAst/expo-share-extension",
+          "stars": 539,
+          "url": "https://github.com/MaxAst/expo-share-extension",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

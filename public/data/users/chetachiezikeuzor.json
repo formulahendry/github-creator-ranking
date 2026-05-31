@@ -1,0 +1,48 @@
+{
+  "login": "chetachiezikeuzor",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/79069364?v=4",
+  "htmlUrl": "https://github.com/chetachiezikeuzor",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1470,
+      "repoCountPrimary": 3,
+      "starsContains": 1470,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Highlightr-Plugin",
+          "fullName": "chetachiezikeuzor/Highlightr-Plugin",
+          "stars": 799,
+          "url": "https://github.com/chetachiezikeuzor/Highlightr-Plugin",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "cMenu-Plugin",
+          "fullName": "chetachiezikeuzor/cMenu-Plugin",
+          "stars": 475,
+          "url": "https://github.com/chetachiezikeuzor/cMenu-Plugin",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "MySnippets-Plugin",
+          "fullName": "chetachiezikeuzor/MySnippets-Plugin",
+          "stars": 196,
+          "url": "https://github.com/chetachiezikeuzor/MySnippets-Plugin",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

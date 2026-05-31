@@ -1,0 +1,41 @@
+{
+  "login": "RobinTail",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/13189514?v=4",
+  "htmlUrl": "https://github.com/RobinTail",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 941,
+      "repoCountPrimary": 2,
+      "starsContains": 941,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "express-zod-api",
+          "fullName": "RobinTail/express-zod-api",
+          "stars": 825,
+          "url": "https://github.com/RobinTail/express-zod-api",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "zod-sockets",
+          "fullName": "RobinTail/zod-sockets",
+          "stars": 116,
+          "url": "https://github.com/RobinTail/zod-sockets",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

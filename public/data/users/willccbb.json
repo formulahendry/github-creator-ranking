@@ -1,0 +1,41 @@
+{
+  "login": "willccbb",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/9730447?v=4",
+  "htmlUrl": "https://github.com/willccbb",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 246,
+      "repoCountPrimary": 2,
+      "starsContains": 246,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "mcp-client-server",
+          "fullName": "willccbb/mcp-client-server",
+          "stars": 125,
+          "url": "https://github.com/willccbb/mcp-client-server",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "claude-code-mcp",
+          "fullName": "willccbb/claude-code-mcp",
+          "stars": 121,
+          "url": "https://github.com/willccbb/claude-code-mcp",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

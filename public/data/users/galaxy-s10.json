@@ -1,0 +1,48 @@
+{
+  "login": "galaxy-s10",
+  "name": "shuisheng",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/61055341?v=4",
+  "htmlUrl": "https://github.com/galaxy-s10",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 7346,
+      "repoCountPrimary": 3,
+      "starsContains": 7346,
+      "repoCountContains": 3,
+      "globalRank": 309,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "billd-desk",
+          "fullName": "galaxy-s10/billd-desk",
+          "stars": 6856,
+          "url": "https://github.com/galaxy-s10/billd-desk",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "billd-live-server",
+          "fullName": "galaxy-s10/billd-live-server",
+          "stars": 273,
+          "url": "https://github.com/galaxy-s10/billd-live-server",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "billd-desk-server",
+          "fullName": "galaxy-s10/billd-desk-server",
+          "stars": 217,
+          "url": "https://github.com/galaxy-s10/billd-desk-server",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

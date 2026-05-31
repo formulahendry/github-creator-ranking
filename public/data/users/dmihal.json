@@ -1,0 +1,41 @@
+{
+  "login": "dmihal",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1661138?v=4",
+  "htmlUrl": "https://github.com/dmihal",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 250,
+      "repoCountPrimary": 2,
+      "starsContains": 250,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "eth-permit",
+          "fullName": "dmihal/eth-permit",
+          "stars": 142,
+          "url": "https://github.com/dmihal/eth-permit",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "crypto-fees",
+          "fullName": "dmihal/crypto-fees",
+          "stars": 108,
+          "url": "https://github.com/dmihal/crypto-fees",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

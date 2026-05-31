@@ -1,0 +1,48 @@
+{
+  "login": "jonaskello",
+  "name": "Jonas Kello",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/664076?v=4",
+  "htmlUrl": "https://github.com/jonaskello",
+  "location": "Jönköping, Sweden",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2950,
+      "repoCountPrimary": 3,
+      "starsContains": 2950,
+      "repoCountContains": 3,
+      "globalRank": 916,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "tsconfig-paths",
+          "fullName": "jonaskello/tsconfig-paths",
+          "stars": 1904,
+          "url": "https://github.com/jonaskello/tsconfig-paths",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "tsconfig-paths-webpack-plugin",
+          "fullName": "jonaskello/tsconfig-paths-webpack-plugin",
+          "stars": 623,
+          "url": "https://github.com/jonaskello/tsconfig-paths-webpack-plugin",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "tslint-immutable",
+          "fullName": "jonaskello/tslint-immutable",
+          "stars": 423,
+          "url": "https://github.com/jonaskello/tslint-immutable",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

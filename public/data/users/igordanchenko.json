@@ -1,0 +1,41 @@
+{
+  "login": "igordanchenko",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/64441155?v=4",
+  "htmlUrl": "https://github.com/igordanchenko",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2035,
+      "repoCountPrimary": 2,
+      "starsContains": 2035,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "yet-another-react-lightbox",
+          "fullName": "igordanchenko/yet-another-react-lightbox",
+          "stars": 1261,
+          "url": "https://github.com/igordanchenko/yet-another-react-lightbox",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-photo-album",
+          "fullName": "igordanchenko/react-photo-album",
+          "stars": 774,
+          "url": "https://github.com/igordanchenko/react-photo-album",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

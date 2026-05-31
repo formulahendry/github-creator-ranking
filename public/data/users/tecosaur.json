@@ -1,0 +1,34 @@
+{
+  "login": "tecosaur",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/20903656?v=4",
+  "htmlUrl": "https://github.com/tecosaur",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 579,
+      "repoCountPrimary": 1,
+      "starsContains": 579,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "LaTeX-Utilities",
+          "fullName": "tecosaur/LaTeX-Utilities",
+          "stars": 579,
+          "url": "https://github.com/tecosaur/LaTeX-Utilities",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

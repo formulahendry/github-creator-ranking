@@ -1,0 +1,41 @@
+{
+  "login": "felixmosh",
+  "name": "Felix Mosheev",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/9304194?v=4",
+  "htmlUrl": "https://github.com/felixmosh",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3483,
+      "repoCountPrimary": 2,
+      "starsContains": 3483,
+      "repoCountContains": 2,
+      "globalRank": 773,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "bull-board",
+          "fullName": "felixmosh/bull-board",
+          "stars": 3347,
+          "url": "https://github.com/felixmosh/bull-board",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "turborepo-gh-artifacts",
+          "fullName": "felixmosh/turborepo-gh-artifacts",
+          "stars": 136,
+          "url": "https://github.com/felixmosh/turborepo-gh-artifacts",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

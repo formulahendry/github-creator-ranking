@@ -1,0 +1,41 @@
+{
+  "login": "Zheng-Changfu",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/59198121?v=4",
+  "htmlUrl": "https://github.com/Zheng-Changfu",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 822,
+      "repoCountPrimary": 2,
+      "starsContains": 822,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "naive-ui-pro",
+          "fullName": "Zheng-Changfu/naive-ui-pro",
+          "stars": 570,
+          "url": "https://github.com/Zheng-Changfu/naive-ui-pro",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "pro-naive-ui",
+          "fullName": "Zheng-Changfu/pro-naive-ui",
+          "stars": 252,
+          "url": "https://github.com/Zheng-Changfu/pro-naive-ui",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

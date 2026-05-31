@@ -1,0 +1,62 @@
+{
+  "login": "kentcdodds",
+  "name": "Kent C. Dodds",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1500684?v=4",
+  "htmlUrl": "https://github.com/kentcdodds",
+  "location": "Salt Lake City, Utah, USA",
+  "countryCode": "US",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 15948,
+      "repoCountPrimary": 14,
+      "starsContains": 15948,
+      "repoCountContains": 14,
+      "globalRank": 120,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "cross-env",
+          "fullName": "kentcdodds/cross-env",
+          "stars": 6526,
+          "url": "https://github.com/kentcdodds/cross-env",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "match-sorter",
+          "fullName": "kentcdodds/match-sorter",
+          "stars": 4098,
+          "url": "https://github.com/kentcdodds/match-sorter",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "use-deep-compare-effect",
+          "fullName": "kentcdodds/use-deep-compare-effect",
+          "stars": 1920,
+          "url": "https://github.com/kentcdodds/use-deep-compare-effect",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "babel-plugin-preval",
+          "fullName": "kentcdodds/babel-plugin-preval",
+          "stars": 1364,
+          "url": "https://github.com/kentcdodds/babel-plugin-preval",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "advanced-remix",
+          "fullName": "kentcdodds/advanced-remix",
+          "stars": 403,
+          "url": "https://github.com/kentcdodds/advanced-remix",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "ObaidUrRehman",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1729964?v=4",
+  "htmlUrl": "https://github.com/ObaidUrRehman",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 240,
+      "repoCountPrimary": 1,
+      "starsContains": 240,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ng-drag-drop",
+          "fullName": "ObaidUrRehman/ng-drag-drop",
+          "stars": 240,
+          "url": "https://github.com/ObaidUrRehman/ng-drag-drop",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

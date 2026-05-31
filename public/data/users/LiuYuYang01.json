@@ -1,0 +1,41 @@
+{
+  "login": "LiuYuYang01",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/103110550?v=4",
+  "htmlUrl": "https://github.com/LiuYuYang01",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1089,
+      "repoCountPrimary": 2,
+      "starsContains": 1089,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ThriveX-Blog",
+          "fullName": "LiuYuYang01/ThriveX-Blog",
+          "stars": 810,
+          "url": "https://github.com/LiuYuYang01/ThriveX-Blog",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ThriveX-Admin",
+          "fullName": "LiuYuYang01/ThriveX-Admin",
+          "stars": 279,
+          "url": "https://github.com/LiuYuYang01/ThriveX-Admin",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

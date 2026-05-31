@@ -1,0 +1,34 @@
+{
+  "login": "Lapis0x0",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/70219915?v=4",
+  "htmlUrl": "https://github.com/Lapis0x0",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1092,
+      "repoCountPrimary": 1,
+      "starsContains": 1092,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "obsidian-yolo",
+          "fullName": "Lapis0x0/obsidian-yolo",
+          "stars": 1092,
+          "url": "https://github.com/Lapis0x0/obsidian-yolo",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

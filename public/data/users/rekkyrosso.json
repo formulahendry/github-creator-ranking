@@ -1,0 +1,34 @@
+{
+  "login": "rekkyrosso",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/8402800?v=4",
+  "htmlUrl": "https://github.com/rekkyrosso",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 312,
+      "repoCountPrimary": 1,
+      "starsContains": 312,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ampcast",
+          "fullName": "rekkyrosso/ampcast",
+          "stars": 312,
+          "url": "https://github.com/rekkyrosso/ampcast",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

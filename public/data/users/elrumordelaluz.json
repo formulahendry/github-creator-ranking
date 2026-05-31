@@ -1,0 +1,48 @@
+{
+  "login": "elrumordelaluz",
+  "name": "Lionel Tzatzkin",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/784056?v=4",
+  "htmlUrl": "https://github.com/elrumordelaluz",
+  "location": "here",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 4540,
+      "repoCountPrimary": 3,
+      "starsContains": 4540,
+      "repoCountContains": 3,
+      "globalRank": 566,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "reactour",
+          "fullName": "elrumordelaluz/reactour",
+          "stars": 4082,
+          "url": "https://github.com/elrumordelaluz/reactour",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "reshake",
+          "fullName": "elrumordelaluz/reshake",
+          "stars": 279,
+          "url": "https://github.com/elrumordelaluz/reshake",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "svgsprit.es",
+          "fullName": "elrumordelaluz/svgsprit.es",
+          "stars": 179,
+          "url": "https://github.com/elrumordelaluz/svgsprit.es",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

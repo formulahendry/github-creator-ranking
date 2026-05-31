@@ -1,0 +1,41 @@
+{
+  "login": "haishanh",
+  "name": "haishan",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1166872?v=4",
+  "htmlUrl": "https://github.com/haishanh",
+  "location": "Shanghai",
+  "countryCode": "CN",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 5088,
+      "repoCountPrimary": 2,
+      "starsContains": 5088,
+      "repoCountContains": 2,
+      "globalRank": 493,
+      "countryRank": 59,
+      "topRepos": [
+        {
+          "name": "yacd",
+          "fullName": "haishanh/yacd",
+          "stars": 4810,
+          "url": "https://github.com/haishanh/yacd",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "cherry",
+          "fullName": "haishanh/cherry",
+          "stars": 278,
+          "url": "https://github.com/haishanh/cherry",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

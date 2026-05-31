@@ -1,0 +1,34 @@
+{
+  "login": "omichelsen",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/876633?v=4",
+  "htmlUrl": "https://github.com/omichelsen",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 639,
+      "repoCountPrimary": 1,
+      "starsContains": 639,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "compare-versions",
+          "fullName": "omichelsen/compare-versions",
+          "stars": 639,
+          "url": "https://github.com/omichelsen/compare-versions",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

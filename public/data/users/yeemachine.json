@@ -1,0 +1,34 @@
+{
+  "login": "yeemachine",
+  "name": "Rich",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/16789300?v=4",
+  "htmlUrl": "https://github.com/yeemachine",
+  "location": "Mountain View",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 5650,
+      "repoCountPrimary": 1,
+      "starsContains": 5650,
+      "repoCountContains": 1,
+      "globalRank": 430,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "kalidokit",
+          "fullName": "yeemachine/kalidokit",
+          "stars": 5650,
+          "url": "https://github.com/yeemachine/kalidokit",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

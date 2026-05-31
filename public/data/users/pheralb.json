@@ -1,0 +1,62 @@
+{
+  "login": "pheralb",
+  "name": "Pablo Hdez",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/62877300?v=4",
+  "htmlUrl": "https://github.com/pheralb",
+  "location": "Spain",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 7657,
+      "repoCountPrimary": 7,
+      "starsContains": 7657,
+      "repoCountContains": 7,
+      "globalRank": 297,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "svgl",
+          "fullName": "pheralb/svgl",
+          "stars": 6078,
+          "url": "https://github.com/pheralb/svgl",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "slug",
+          "fullName": "pheralb/slug",
+          "stars": 741,
+          "url": "https://github.com/pheralb/slug",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-symbols",
+          "fullName": "pheralb/react-symbols",
+          "stars": 213,
+          "url": "https://github.com/pheralb/react-symbols",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "toast",
+          "fullName": "pheralb/toast",
+          "stars": 196,
+          "url": "https://github.com/pheralb/toast",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "superui",
+          "fullName": "pheralb/superui",
+          "stars": 152,
+          "url": "https://github.com/pheralb/superui",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "Niekes",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2843543?v=4",
+  "htmlUrl": "https://github.com/Niekes",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 411,
+      "repoCountPrimary": 1,
+      "starsContains": 411,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "d3-3d",
+          "fullName": "Niekes/d3-3d",
+          "stars": 411,
+          "url": "https://github.com/Niekes/d3-3d",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

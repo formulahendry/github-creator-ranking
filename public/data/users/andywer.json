@@ -1,0 +1,62 @@
+{
+  "login": "andywer",
+  "name": "Andy Wermke",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1842462?v=4",
+  "htmlUrl": "https://github.com/andywer",
+  "location": "Berlin, Germany",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 4658,
+      "repoCountPrimary": 5,
+      "starsContains": 4658,
+      "repoCountContains": 5,
+      "globalRank": 552,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "threads.js",
+          "fullName": "andywer/threads.js",
+          "stars": 3523,
+          "url": "https://github.com/andywer/threads.js",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "pg-listen",
+          "fullName": "andywer/pg-listen",
+          "stars": 635,
+          "url": "https://github.com/andywer/pg-listen",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "postguard",
+          "fullName": "andywer/postguard",
+          "stars": 179,
+          "url": "https://github.com/andywer/postguard",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "use-inline-memo",
+          "fullName": "andywer/use-inline-memo",
+          "stars": 165,
+          "url": "https://github.com/andywer/use-inline-memo",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "squid",
+          "fullName": "andywer/squid",
+          "stars": 156,
+          "url": "https://github.com/andywer/squid",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "timc1",
+  "name": "Tim",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/12195101?v=4",
+  "htmlUrl": "https://github.com/timc1",
+  "location": "NYC",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 5209,
+      "repoCountPrimary": 1,
+      "starsContains": 5209,
+      "repoCountContains": 1,
+      "globalRank": 478,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "kbar",
+          "fullName": "timc1/kbar",
+          "stars": 5209,
+          "url": "https://github.com/timc1/kbar",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

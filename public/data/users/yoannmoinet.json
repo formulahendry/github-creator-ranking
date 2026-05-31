@@ -1,0 +1,34 @@
+{
+  "login": "yoannmoinet",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/597828?v=4",
+  "htmlUrl": "https://github.com/yoannmoinet",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1924,
+      "repoCountPrimary": 1,
+      "starsContains": 1924,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "nipplejs",
+          "fullName": "yoannmoinet/nipplejs",
+          "stars": 1924,
+          "url": "https://github.com/yoannmoinet/nipplejs",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "login": "thewh1teagle",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/61390950?v=4",
+  "htmlUrl": "https://github.com/thewh1teagle",
+  "location": "The martian",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 7050,
+      "repoCountPrimary": 3,
+      "starsContains": 7050,
+      "repoCountContains": 3,
+      "globalRank": 330,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vibe",
+          "fullName": "thewh1teagle/vibe",
+          "stars": 6311,
+          "url": "https://github.com/thewh1teagle/vibe",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "mobslide",
+          "fullName": "thewh1teagle/mobslide",
+          "stars": 489,
+          "url": "https://github.com/thewh1teagle/mobslide",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "lingo",
+          "fullName": "thewh1teagle/lingo",
+          "stars": 250,
+          "url": "https://github.com/thewh1teagle/lingo",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

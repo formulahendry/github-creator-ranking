@@ -1,0 +1,34 @@
+{
+  "login": "BidingCC",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/203263360?v=4",
+  "htmlUrl": "https://github.com/BidingCC",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1664,
+      "repoCountPrimary": 1,
+      "starsContains": 1664,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "BuildingAI",
+          "fullName": "BidingCC/BuildingAI",
+          "stars": 1664,
+          "url": "https://github.com/BidingCC/BuildingAI",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

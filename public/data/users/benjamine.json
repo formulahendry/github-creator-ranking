@@ -1,0 +1,34 @@
+{
+  "login": "benjamine",
+  "name": "Benjamín Eidelman",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/384553?v=4",
+  "htmlUrl": "https://github.com/benjamine",
+  "location": "Buenos Aires, Argentina",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 5314,
+      "repoCountPrimary": 1,
+      "starsContains": 5314,
+      "repoCountContains": 1,
+      "globalRank": 464,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "jsondiffpatch",
+          "fullName": "benjamine/jsondiffpatch",
+          "stars": 5314,
+          "url": "https://github.com/benjamine/jsondiffpatch",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

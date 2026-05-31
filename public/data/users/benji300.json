@@ -1,0 +1,41 @@
+{
+  "login": "benji300",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/54955848?v=4",
+  "htmlUrl": "https://github.com/benji300",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 384,
+      "repoCountPrimary": 2,
+      "starsContains": 384,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "joplin-note-tabs",
+          "fullName": "benji300/joplin-note-tabs",
+          "stars": 275,
+          "url": "https://github.com/benji300/joplin-note-tabs",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "joplin-favorites",
+          "fullName": "benji300/joplin-favorites",
+          "stars": 109,
+          "url": "https://github.com/benji300/joplin-favorites",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

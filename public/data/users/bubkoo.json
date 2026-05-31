@@ -1,0 +1,41 @@
+{
+  "login": "bubkoo",
+  "name": "Neo",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6045824?v=4",
+  "htmlUrl": "https://github.com/bubkoo",
+  "location": "Hangzhou, China  ",
+  "countryCode": "CN",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 7370,
+      "repoCountPrimary": 2,
+      "starsContains": 7370,
+      "repoCountContains": 2,
+      "globalRank": 306,
+      "countryRank": 39,
+      "topRepos": [
+        {
+          "name": "html-to-image",
+          "fullName": "bubkoo/html-to-image",
+          "stars": 7152,
+          "url": "https://github.com/bubkoo/html-to-image",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ascii-progress",
+          "fullName": "bubkoo/ascii-progress",
+          "stars": 218,
+          "url": "https://github.com/bubkoo/ascii-progress",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

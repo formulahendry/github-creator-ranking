@@ -1,0 +1,34 @@
+{
+  "login": "pacexy",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/32255488?v=4",
+  "htmlUrl": "https://github.com/pacexy",
+  "location": "Shanghai, China",
+  "countryCode": "CN",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3171,
+      "repoCountPrimary": 1,
+      "starsContains": 3171,
+      "repoCountContains": 1,
+      "globalRank": 848,
+      "countryRank": 100,
+      "topRepos": [
+        {
+          "name": "flow",
+          "fullName": "pacexy/flow",
+          "stars": 3171,
+          "url": "https://github.com/pacexy/flow",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

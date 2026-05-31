@@ -1,0 +1,41 @@
+{
+  "login": "pierpo",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6313316?v=4",
+  "htmlUrl": "https://github.com/pierpo",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1425,
+      "repoCountPrimary": 2,
+      "starsContains": 1425,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-archer",
+          "fullName": "pierpo/react-archer",
+          "stars": 1293,
+          "url": "https://github.com/pierpo/react-archer",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "phaser3-simple-rpg",
+          "fullName": "pierpo/phaser3-simple-rpg",
+          "stars": 132,
+          "url": "https://github.com/pierpo/phaser3-simple-rpg",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

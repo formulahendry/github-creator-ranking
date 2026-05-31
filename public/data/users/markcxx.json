@@ -1,0 +1,34 @@
+{
+  "login": "markcxx",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/128893330?v=4",
+  "htmlUrl": "https://github.com/markcxx",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 407,
+      "repoCountPrimary": 1,
+      "starsContains": 407,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "coco-downloader",
+          "fullName": "markcxx/coco-downloader",
+          "stars": 407,
+          "url": "https://github.com/markcxx/coco-downloader",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

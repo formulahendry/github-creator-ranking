@@ -1,0 +1,41 @@
+{
+  "login": "justindujardin",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/101493?v=4",
+  "htmlUrl": "https://github.com/justindujardin",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 791,
+      "repoCountPrimary": 2,
+      "starsContains": 791,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ng2-material",
+          "fullName": "justindujardin/ng2-material",
+          "stars": 628,
+          "url": "https://github.com/justindujardin/ng2-material",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "angular-rpg",
+          "fullName": "justindujardin/angular-rpg",
+          "stars": 163,
+          "url": "https://github.com/justindujardin/angular-rpg",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

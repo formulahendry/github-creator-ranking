@@ -1,0 +1,41 @@
+{
+  "login": "rwieruch",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2479967?v=4",
+  "htmlUrl": "https://github.com/rwieruch",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 764,
+      "repoCountPrimary": 2,
+      "starsContains": 764,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "nextjs-firebase-authentication",
+          "fullName": "rwieruch/nextjs-firebase-authentication",
+          "stars": 654,
+          "url": "https://github.com/rwieruch/nextjs-firebase-authentication",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "the-road-to-next-app",
+          "fullName": "rwieruch/the-road-to-next-app",
+          "stars": 110,
+          "url": "https://github.com/rwieruch/the-road-to-next-app",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

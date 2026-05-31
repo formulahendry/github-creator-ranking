@@ -1,0 +1,34 @@
+{
+  "login": "wszgrcy",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/9607121?v=4",
+  "htmlUrl": "https://github.com/wszgrcy",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 208,
+      "repoCountPrimary": 1,
+      "starsContains": 208,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "angular-miniprogram",
+          "fullName": "wszgrcy/angular-miniprogram",
+          "stars": 208,
+          "url": "https://github.com/wszgrcy/angular-miniprogram",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

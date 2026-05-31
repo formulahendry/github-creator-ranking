@@ -5,7 +5,7 @@
   "htmlUrl": "https://github.com/abi",
   "location": "San Francisco",
   "countryCode": null,
-  "generatedAt": "2026-05-31T13:50:40.799Z",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
   "isPartial": true,
   "languages": [
     {
@@ -14,18 +14,25 @@
         "name": "TypeScript",
         "githubQuery": "TypeScript"
       },
-      "starsPrimary": 72746,
-      "repoCountPrimary": 1,
-      "starsContains": 72746,
-      "repoCountContains": 1,
-      "globalRank": 4,
+      "starsPrimary": 75422,
+      "repoCountPrimary": 2,
+      "starsContains": 75422,
+      "repoCountContains": 2,
+      "globalRank": 5,
       "countryRank": null,
       "topRepos": [
         {
           "name": "screenshot-to-code",
           "fullName": "abi/screenshot-to-code",
-          "stars": 72746,
+          "stars": 72747,
           "url": "https://github.com/abi/screenshot-to-code",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "secret-llama",
+          "fullName": "abi/secret-llama",
+          "stars": 2675,
+          "url": "https://github.com/abi/secret-llama",
           "primaryLanguage": "TypeScript"
         }
       ]

@@ -1,0 +1,41 @@
+{
+  "login": "langyuxiansheng",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/29669030?v=4",
+  "htmlUrl": "https://github.com/langyuxiansheng",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 739,
+      "repoCountPrimary": 2,
+      "starsContains": 739,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vue-sign-canvas",
+          "fullName": "langyuxiansheng/vue-sign-canvas",
+          "stars": 459,
+          "url": "https://github.com/langyuxiansheng/vue-sign-canvas",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vue-aliplayer-v2",
+          "fullName": "langyuxiansheng/vue-aliplayer-v2",
+          "stars": 280,
+          "url": "https://github.com/langyuxiansheng/vue-aliplayer-v2",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

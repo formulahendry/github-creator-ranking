@@ -1,0 +1,41 @@
+{
+  "login": "Gin-Quin",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7723740?v=4",
+  "htmlUrl": "https://github.com/Gin-Quin",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 354,
+      "repoCountPrimary": 2,
+      "starsContains": 354,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "esrun",
+          "fullName": "Gin-Quin/esrun",
+          "stars": 179,
+          "url": "https://github.com/Gin-Quin/esrun",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "gravity",
+          "fullName": "Gin-Quin/gravity",
+          "stars": 175,
+          "url": "https://github.com/Gin-Quin/gravity",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

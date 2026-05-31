@@ -1,0 +1,34 @@
+{
+  "login": "Fr0stbyteR",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1910803?v=4",
+  "htmlUrl": "https://github.com/Fr0stbyteR",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 154,
+      "repoCountPrimary": 1,
+      "starsContains": 154,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "jspatcher",
+          "fullName": "Fr0stbyteR/jspatcher",
+          "stars": 154,
+          "url": "https://github.com/Fr0stbyteR/jspatcher",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

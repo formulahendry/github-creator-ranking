@@ -1,0 +1,34 @@
+{
+  "login": "Skn0tt",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/14912729?v=4",
+  "htmlUrl": "https://github.com/Skn0tt",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 160,
+      "repoCountPrimary": 1,
+      "starsContains": 160,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "nextjs-nestjs-integration-example",
+          "fullName": "Skn0tt/nextjs-nestjs-integration-example",
+          "stars": 160,
+          "url": "https://github.com/Skn0tt/nextjs-nestjs-integration-example",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

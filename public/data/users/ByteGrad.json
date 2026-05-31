@@ -1,0 +1,41 @@
+{
+  "login": "ByteGrad",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/82057865?v=4",
+  "htmlUrl": "https://github.com/ByteGrad",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 989,
+      "repoCountPrimary": 2,
+      "starsContains": 989,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "portfolio-website",
+          "fullName": "ByteGrad/portfolio-website",
+          "stars": 772,
+          "url": "https://github.com/ByteGrad/portfolio-website",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Professional-React-and-Next.js-Course",
+          "fullName": "ByteGrad/Professional-React-and-Next.js-Course",
+          "stars": 217,
+          "url": "https://github.com/ByteGrad/Professional-React-and-Next.js-Course",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "sbycrosz",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/4867178?v=4",
+  "htmlUrl": "https://github.com/sbycrosz",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1505,
+      "repoCountPrimary": 1,
+      "starsContains": 1505,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-native-credit-card-input",
+          "fullName": "sbycrosz/react-native-credit-card-input",
+          "stars": 1505,
+          "url": "https://github.com/sbycrosz/react-native-credit-card-input",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "Destiner",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/4247901?v=4",
+  "htmlUrl": "https://github.com/Destiner",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 313,
+      "repoCountPrimary": 2,
+      "starsContains": 313,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ethcall",
+          "fullName": "Destiner/ethcall",
+          "stars": 178,
+          "url": "https://github.com/Destiner/ethcall",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "mev-inspect-js",
+          "fullName": "Destiner/mev-inspect-js",
+          "stars": 135,
+          "url": "https://github.com/Destiner/mev-inspect-js",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

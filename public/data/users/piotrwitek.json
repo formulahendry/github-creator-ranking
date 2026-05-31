@@ -1,0 +1,62 @@
+{
+  "login": "piotrwitek",
+  "name": "Piotr Witek",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/739075?v=4",
+  "htmlUrl": "https://github.com/piotrwitek",
+  "location": "Remote from Poland",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 22093,
+      "repoCountPrimary": 6,
+      "starsContains": 22093,
+      "repoCountContains": 6,
+      "globalRank": 83,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-redux-typescript-guide",
+          "fullName": "piotrwitek/react-redux-typescript-guide",
+          "stars": 13296,
+          "url": "https://github.com/piotrwitek/react-redux-typescript-guide",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "utility-types",
+          "fullName": "piotrwitek/utility-types",
+          "stars": 5759,
+          "url": "https://github.com/piotrwitek/utility-types",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "typesafe-actions",
+          "fullName": "piotrwitek/typesafe-actions",
+          "stars": 2405,
+          "url": "https://github.com/piotrwitek/typesafe-actions",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-redux-typescript-realworld-app",
+          "fullName": "piotrwitek/react-redux-typescript-realworld-app",
+          "stars": 251,
+          "url": "https://github.com/piotrwitek/react-redux-typescript-realworld-app",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-redux-typescript-jspm-starter",
+          "fullName": "piotrwitek/react-redux-typescript-jspm-starter",
+          "stars": 231,
+          "url": "https://github.com/piotrwitek/react-redux-typescript-jspm-starter",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

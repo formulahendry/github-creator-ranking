@@ -1,0 +1,34 @@
+{
+  "login": "ai-poet",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/37033089?v=4",
+  "htmlUrl": "https://github.com/ai-poet",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 308,
+      "repoCountPrimary": 1,
+      "starsContains": 308,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "amadeus-system-new",
+          "fullName": "ai-poet/amadeus-system-new",
+          "stars": 308,
+          "url": "https://github.com/ai-poet/amadeus-system-new",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

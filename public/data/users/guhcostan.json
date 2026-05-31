@@ -1,0 +1,34 @@
+{
+  "login": "guhcostan",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/22989468?v=4",
+  "htmlUrl": "https://github.com/guhcostan",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1763,
+      "repoCountPrimary": 1,
+      "starsContains": 1763,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "mac-cleaner-cli",
+          "fullName": "guhcostan/mac-cleaner-cli",
+          "stars": 1763,
+          "url": "https://github.com/guhcostan/mac-cleaner-cli",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

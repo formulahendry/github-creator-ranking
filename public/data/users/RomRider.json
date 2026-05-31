@@ -1,0 +1,41 @@
+{
+  "login": "RomRider",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/21064206?v=4",
+  "htmlUrl": "https://github.com/RomRider",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1933,
+      "repoCountPrimary": 2,
+      "starsContains": 1933,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "apexcharts-card",
+          "fullName": "RomRider/apexcharts-card",
+          "stars": 1789,
+          "url": "https://github.com/RomRider/apexcharts-card",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "node-divoom-timebox-evo",
+          "fullName": "RomRider/node-divoom-timebox-evo",
+          "stars": 144,
+          "url": "https://github.com/RomRider/node-divoom-timebox-evo",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

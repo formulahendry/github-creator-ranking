@@ -1,0 +1,34 @@
+{
+  "login": "praneshr",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/10805204?v=4",
+  "htmlUrl": "https://github.com/praneshr",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1662,
+      "repoCountPrimary": 1,
+      "starsContains": 1662,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-diff-viewer",
+          "fullName": "praneshr/react-diff-viewer",
+          "stars": 1662,
+          "url": "https://github.com/praneshr/react-diff-viewer",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

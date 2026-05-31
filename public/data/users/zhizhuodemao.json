@@ -1,0 +1,34 @@
+{
+  "login": "zhizhuodemao",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/47770924?v=4",
+  "htmlUrl": "https://github.com/zhizhuodemao",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1597,
+      "repoCountPrimary": 1,
+      "starsContains": 1597,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "js-reverse-mcp",
+          "fullName": "zhizhuodemao/js-reverse-mcp",
+          "stars": 1597,
+          "url": "https://github.com/zhizhuodemao/js-reverse-mcp",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

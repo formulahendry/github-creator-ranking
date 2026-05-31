@@ -1,0 +1,34 @@
+{
+  "login": "123xiao",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/17847207?v=4",
+  "htmlUrl": "https://github.com/123xiao",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1183,
+      "repoCountPrimary": 1,
+      "starsContains": 1183,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "sex-agreement-app",
+          "fullName": "123xiao/sex-agreement-app",
+          "stars": 1183,
+          "url": "https://github.com/123xiao/sex-agreement-app",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

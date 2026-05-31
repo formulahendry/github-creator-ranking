@@ -1,0 +1,48 @@
+{
+  "login": "zackradisic",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/56137411?v=4",
+  "htmlUrl": "https://github.com/zackradisic",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 469,
+      "repoCountPrimary": 3,
+      "starsContains": 469,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "go-playground-wasm",
+          "fullName": "zackradisic/go-playground-wasm",
+          "stars": 187,
+          "url": "https://github.com/zackradisic/go-playground-wasm",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "node-soundcloud-downloader",
+          "fullName": "zackradisic/node-soundcloud-downloader",
+          "stars": 150,
+          "url": "https://github.com/zackradisic/node-soundcloud-downloader",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "tyfsm",
+          "fullName": "zackradisic/tyfsm",
+          "stars": 132,
+          "url": "https://github.com/zackradisic/tyfsm",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

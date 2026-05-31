@@ -1,0 +1,41 @@
+{
+  "login": "browniefed",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1714673?v=4",
+  "htmlUrl": "https://github.com/browniefed",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 734,
+      "repoCountPrimary": 2,
+      "starsContains": 734,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-native-ticker",
+          "fullName": "browniefed/react-native-ticker",
+          "stars": 457,
+          "url": "https://github.com/browniefed/react-native-ticker",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "pdxlivebus",
+          "fullName": "browniefed/pdxlivebus",
+          "stars": 277,
+          "url": "https://github.com/browniefed/pdxlivebus",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

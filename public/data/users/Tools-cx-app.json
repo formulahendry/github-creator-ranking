@@ -1,0 +1,34 @@
+{
+  "login": "Tools-cx-app",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/127004703?v=4",
+  "htmlUrl": "https://github.com/Tools-cx-app",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 304,
+      "repoCountPrimary": 1,
+      "starsContains": 304,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "meta-magic_mount-rs",
+          "fullName": "Tools-cx-app/meta-magic_mount-rs",
+          "stars": 304,
+          "url": "https://github.com/Tools-cx-app/meta-magic_mount-rs",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

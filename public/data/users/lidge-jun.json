@@ -1,0 +1,41 @@
+{
+  "login": "lidge-jun",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/243035832?v=4",
+  "htmlUrl": "https://github.com/lidge-jun",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 438,
+      "repoCountPrimary": 2,
+      "starsContains": 438,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ima2-gen",
+          "fullName": "lidge-jun/ima2-gen",
+          "stars": 302,
+          "url": "https://github.com/lidge-jun/ima2-gen",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "cli-jaw",
+          "fullName": "lidge-jun/cli-jaw",
+          "stars": 136,
+          "url": "https://github.com/lidge-jun/cli-jaw",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "Tibing",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/17410089?v=4",
+  "htmlUrl": "https://github.com/Tibing",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 370,
+      "repoCountPrimary": 2,
+      "starsContains": 370,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "platform-terminal",
+          "fullName": "Tibing/platform-terminal",
+          "stars": 232,
+          "url": "https://github.com/Tibing/platform-terminal",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "async-pipeline",
+          "fullName": "Tibing/async-pipeline",
+          "stars": 138,
+          "url": "https://github.com/Tibing/async-pipeline",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

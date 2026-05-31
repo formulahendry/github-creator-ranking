@@ -1,0 +1,34 @@
+{
+  "login": "erma0",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/76248124?v=4",
+  "htmlUrl": "https://github.com/erma0",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1590,
+      "repoCountPrimary": 1,
+      "starsContains": 1590,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "douyin",
+          "fullName": "erma0/douyin",
+          "stars": 1590,
+          "url": "https://github.com/erma0/douyin",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "yogthos",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/121208?v=4",
+  "htmlUrl": "https://github.com/yogthos",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 326,
+      "repoCountPrimary": 2,
+      "starsContains": 326,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "chiasmus",
+          "fullName": "yogthos/chiasmus",
+          "stars": 188,
+          "url": "https://github.com/yogthos/chiasmus",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Matryoshka",
+          "fullName": "yogthos/Matryoshka",
+          "stars": 138,
+          "url": "https://github.com/yogthos/Matryoshka",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

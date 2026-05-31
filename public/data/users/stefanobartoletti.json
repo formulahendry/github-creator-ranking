@@ -1,0 +1,34 @@
+{
+  "login": "stefanobartoletti",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/36746429?v=4",
+  "htmlUrl": "https://github.com/stefanobartoletti",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 178,
+      "repoCountPrimary": 1,
+      "starsContains": 178,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "nuxt-social-share",
+          "fullName": "stefanobartoletti/nuxt-social-share",
+          "stars": 178,
+          "url": "https://github.com/stefanobartoletti/nuxt-social-share",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

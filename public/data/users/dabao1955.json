@@ -1,0 +1,34 @@
+{
+  "login": "dabao1955",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/79307765?v=4",
+  "htmlUrl": "https://github.com/dabao1955",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 175,
+      "repoCountPrimary": 1,
+      "starsContains": 175,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "kernel_build_action",
+          "fullName": "dabao1955/kernel_build_action",
+          "stars": 175,
+          "url": "https://github.com/dabao1955/kernel_build_action",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

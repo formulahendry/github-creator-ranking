@@ -1,0 +1,41 @@
+{
+  "login": "korbinjoe",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5051627?v=4",
+  "htmlUrl": "https://github.com/korbinjoe",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2533,
+      "repoCountPrimary": 2,
+      "starsContains": 2533,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "excalidraw-cn",
+          "fullName": "korbinjoe/excalidraw-cn",
+          "stars": 2417,
+          "url": "https://github.com/korbinjoe/excalidraw-cn",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "obsidian-excalidraw-cn-plugin",
+          "fullName": "korbinjoe/obsidian-excalidraw-cn-plugin",
+          "stars": 116,
+          "url": "https://github.com/korbinjoe/obsidian-excalidraw-cn-plugin",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

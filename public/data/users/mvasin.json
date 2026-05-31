@@ -1,0 +1,34 @@
+{
+  "login": "mvasin",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/12434833?v=4",
+  "htmlUrl": "https://github.com/mvasin",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1062,
+      "repoCountPrimary": 1,
+      "starsContains": 1062,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-div-100vh",
+          "fullName": "mvasin/react-div-100vh",
+          "stars": 1062,
+          "url": "https://github.com/mvasin/react-div-100vh",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "benjitaylor",
+  "name": "Benji Taylor",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/30378142?v=4",
+  "htmlUrl": "https://github.com/benjitaylor",
+  "location": "Los Angeles",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 4401,
+      "repoCountPrimary": 2,
+      "starsContains": 4401,
+      "repoCountContains": 2,
+      "globalRank": 586,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "agentation",
+          "fullName": "benjitaylor/agentation",
+          "stars": 3793,
+          "url": "https://github.com/benjitaylor/agentation",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "liveline",
+          "fullName": "benjitaylor/liveline",
+          "stars": 608,
+          "url": "https://github.com/benjitaylor/liveline",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

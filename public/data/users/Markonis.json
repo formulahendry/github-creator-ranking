@@ -1,0 +1,41 @@
+{
+  "login": "Markonis",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5911748?v=4",
+  "htmlUrl": "https://github.com/Markonis",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 248,
+      "repoCountPrimary": 2,
+      "starsContains": 248,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "link-redirection",
+          "fullName": "Markonis/link-redirection",
+          "stars": 146,
+          "url": "https://github.com/Markonis/link-redirection",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "coder-type",
+          "fullName": "Markonis/coder-type",
+          "stars": 102,
+          "url": "https://github.com/Markonis/coder-type",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

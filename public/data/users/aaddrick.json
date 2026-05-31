@@ -1,0 +1,34 @@
+{
+  "login": "aaddrick",
+  "name": "Aaddrick",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/22264982?v=4",
+  "htmlUrl": "https://github.com/aaddrick",
+  "location": "Ottawa, Ontario",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 4560,
+      "repoCountPrimary": 1,
+      "starsContains": 4560,
+      "repoCountContains": 1,
+      "globalRank": 564,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "claude-desktop-debian",
+          "fullName": "aaddrick/claude-desktop-debian",
+          "stars": 4560,
+          "url": "https://github.com/aaddrick/claude-desktop-debian",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

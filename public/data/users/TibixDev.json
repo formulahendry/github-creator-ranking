@@ -1,0 +1,34 @@
+{
+  "login": "TibixDev",
+  "name": "Tibix",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/21055141?v=4",
+  "htmlUrl": "https://github.com/TibixDev",
+  "location": "Romania",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 21468,
+      "repoCountPrimary": 1,
+      "starsContains": 21468,
+      "repoCountContains": 1,
+      "globalRank": 85,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "winboat",
+          "fullName": "TibixDev/winboat",
+          "stars": 21468,
+          "url": "https://github.com/TibixDev/winboat",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

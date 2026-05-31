@@ -1,0 +1,41 @@
+{
+  "login": "mmarinovic",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/4189477?v=4",
+  "htmlUrl": "https://github.com/mmarinovic",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1738,
+      "repoCountPrimary": 2,
+      "starsContains": 1738,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "tailwindsql",
+          "fullName": "mmarinovic/tailwindsql",
+          "stars": 1295,
+          "url": "https://github.com/mmarinovic/tailwindsql",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "React2AWS",
+          "fullName": "mmarinovic/React2AWS",
+          "stars": 443,
+          "url": "https://github.com/mmarinovic/React2AWS",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

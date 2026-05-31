@@ -1,0 +1,34 @@
+{
+  "login": "Prince-Mendiratta",
+  "name": "Prince Mendiratta",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/54077356?v=4",
+  "htmlUrl": "https://github.com/Prince-Mendiratta",
+  "location": "New Delhi",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 5531,
+      "repoCountPrimary": 1,
+      "starsContains": 5531,
+      "repoCountContains": 1,
+      "globalRank": 440,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "BotsApp",
+          "fullName": "Prince-Mendiratta/BotsApp",
+          "stars": 5531,
+          "url": "https://github.com/Prince-Mendiratta/BotsApp",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

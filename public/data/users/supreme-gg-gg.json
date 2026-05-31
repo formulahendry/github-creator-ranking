@@ -1,0 +1,34 @@
+{
+  "login": "supreme-gg-gg",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/145060541?v=4",
+  "htmlUrl": "https://github.com/supreme-gg-gg",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1949,
+      "repoCountPrimary": 1,
+      "starsContains": 1949,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "instagram-cli",
+          "fullName": "supreme-gg-gg/instagram-cli",
+          "stars": 1949,
+          "url": "https://github.com/supreme-gg-gg/instagram-cli",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

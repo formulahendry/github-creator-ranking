@@ -1,0 +1,48 @@
+{
+  "login": "pjeby",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3527052?v=4",
+  "htmlUrl": "https://github.com/pjeby",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 766,
+      "repoCountPrimary": 3,
+      "starsContains": 766,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "quick-explorer",
+          "fullName": "pjeby/quick-explorer",
+          "stars": 329,
+          "url": "https://github.com/pjeby/quick-explorer",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "pane-relief",
+          "fullName": "pjeby/pane-relief",
+          "stars": 299,
+          "url": "https://github.com/pjeby/pane-relief",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "hotkey-helper",
+          "fullName": "pjeby/hotkey-helper",
+          "stars": 138,
+          "url": "https://github.com/pjeby/hotkey-helper",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

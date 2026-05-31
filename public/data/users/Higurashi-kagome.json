@@ -1,0 +1,34 @@
+{
+  "login": "Higurashi-kagome",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/51501079?v=4",
+  "htmlUrl": "https://github.com/Higurashi-kagome",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 778,
+      "repoCountPrimary": 1,
+      "starsContains": 778,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "wereader",
+          "fullName": "Higurashi-kagome/wereader",
+          "stars": 778,
+          "url": "https://github.com/Higurashi-kagome/wereader",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

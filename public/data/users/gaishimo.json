@@ -1,0 +1,34 @@
+{
+  "login": "gaishimo",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/4277693?v=4",
+  "htmlUrl": "https://github.com/gaishimo",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 402,
+      "repoCountPrimary": 1,
+      "starsContains": 402,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "eas-widget-example",
+          "fullName": "gaishimo/eas-widget-example",
+          "stars": 402,
+          "url": "https://github.com/gaishimo/eas-widget-example",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "Flux159",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/904070?v=4",
+  "htmlUrl": "https://github.com/Flux159",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1535,
+      "repoCountPrimary": 2,
+      "starsContains": 1535,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "mcp-server-kubernetes",
+          "fullName": "Flux159/mcp-server-kubernetes",
+          "stars": 1400,
+          "url": "https://github.com/Flux159/mcp-server-kubernetes",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "mcp-chat",
+          "fullName": "Flux159/mcp-chat",
+          "stars": 135,
+          "url": "https://github.com/Flux159/mcp-chat",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "treetips",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/12574048?v=4",
+  "htmlUrl": "https://github.com/treetips",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 120,
+      "repoCountPrimary": 1,
+      "starsContains": 120,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "typescript-nextjs-redux-material-ui-example",
+          "fullName": "treetips/typescript-nextjs-redux-material-ui-example",
+          "stars": 120,
+          "url": "https://github.com/treetips/typescript-nextjs-redux-material-ui-example",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

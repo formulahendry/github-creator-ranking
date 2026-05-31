@@ -1,0 +1,34 @@
+{
+  "login": "hngngn",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/97839073?v=4",
+  "htmlUrl": "https://github.com/hngngn",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 735,
+      "repoCountPrimary": 1,
+      "starsContains": 735,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "shadcn-solid",
+          "fullName": "hngngn/shadcn-solid",
+          "stars": 735,
+          "url": "https://github.com/hngngn/shadcn-solid",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

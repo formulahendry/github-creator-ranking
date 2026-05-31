@@ -1,0 +1,34 @@
+{
+  "login": "Victxrlarixs",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/35201083?v=4",
+  "htmlUrl": "https://github.com/Victxrlarixs",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 125,
+      "repoCountPrimary": 1,
+      "starsContains": 125,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "debian-time-capsule",
+          "fullName": "Victxrlarixs/debian-time-capsule",
+          "stars": 125,
+          "url": "https://github.com/Victxrlarixs/debian-time-capsule",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

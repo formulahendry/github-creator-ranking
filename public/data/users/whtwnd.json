@@ -1,0 +1,34 @@
+{
+  "login": "whtwnd",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/172400027?v=4",
+  "htmlUrl": "https://github.com/whtwnd",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 165,
+      "repoCountPrimary": 1,
+      "starsContains": 165,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "whitewind-blog",
+          "fullName": "whtwnd/whitewind-blog",
+          "stars": 165,
+          "url": "https://github.com/whtwnd/whitewind-blog",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

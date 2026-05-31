@@ -1,0 +1,34 @@
+{
+  "login": "xachary",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/16830398?v=4",
+  "htmlUrl": "https://github.com/xachary",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 198,
+      "repoCountPrimary": 1,
+      "starsContains": 198,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "konva-designer-sample",
+          "fullName": "xachary/konva-designer-sample",
+          "stars": 198,
+          "url": "https://github.com/xachary/konva-designer-sample",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

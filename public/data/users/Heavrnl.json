@@ -1,0 +1,34 @@
+{
+  "login": "Heavrnl",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/80159437?v=4",
+  "htmlUrl": "https://github.com/Heavrnl",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1784,
+      "repoCountPrimary": 1,
+      "starsContains": 1784,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "nexus-terminal",
+          "fullName": "Heavrnl/nexus-terminal",
+          "stars": 1784,
+          "url": "https://github.com/Heavrnl/nexus-terminal",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

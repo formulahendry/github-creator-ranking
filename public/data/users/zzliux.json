@@ -1,0 +1,34 @@
+{
+  "login": "zzliux",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/8658472?v=4",
+  "htmlUrl": "https://github.com/zzliux",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 424,
+      "repoCountPrimary": 1,
+      "starsContains": 424,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "assttyys_autojs",
+          "fullName": "zzliux/assttyys_autojs",
+          "stars": 424,
+          "url": "https://github.com/zzliux/assttyys_autojs",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

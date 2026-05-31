@@ -1,0 +1,48 @@
+{
+  "login": "hmans",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1061?v=4",
+  "htmlUrl": "https://github.com/hmans",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1972,
+      "repoCountPrimary": 3,
+      "starsContains": 1972,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "miniplex",
+          "fullName": "hmans/miniplex",
+          "stars": 1019,
+          "url": "https://github.com/hmans/miniplex",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "composer-suite",
+          "fullName": "hmans/composer-suite",
+          "stars": 553,
+          "url": "https://github.com/hmans/composer-suite",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "three-elements",
+          "fullName": "hmans/three-elements",
+          "stars": 400,
+          "url": "https://github.com/hmans/three-elements",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

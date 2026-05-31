@@ -1,0 +1,34 @@
+{
+  "login": "kych0912",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/102653189?v=4",
+  "htmlUrl": "https://github.com/kych0912",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 227,
+      "repoCountPrimary": 1,
+      "starsContains": 227,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "saas-starter-ko",
+          "fullName": "kych0912/saas-starter-ko",
+          "stars": 227,
+          "url": "https://github.com/kych0912/saas-starter-ko",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

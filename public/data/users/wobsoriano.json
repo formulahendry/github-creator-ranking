@@ -1,0 +1,62 @@
+{
+  "login": "wobsoriano",
+  "name": "Robert Soriano",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/13049130?v=4",
+  "htmlUrl": "https://github.com/wobsoriano",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3891,
+      "repoCountPrimary": 18,
+      "starsContains": 3891,
+      "repoCountContains": 18,
+      "globalRank": 685,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "trpc-nuxt",
+          "fullName": "wobsoriano/trpc-nuxt",
+          "stars": 782,
+          "url": "https://github.com/wobsoriano/trpc-nuxt",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "lexical-vue",
+          "fullName": "wobsoriano/lexical-vue",
+          "stars": 360,
+          "url": "https://github.com/wobsoriano/lexical-vue",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "pinia-shared-state",
+          "fullName": "wobsoriano/pinia-shared-state",
+          "stars": 301,
+          "url": "https://github.com/wobsoriano/pinia-shared-state",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "v-perfect-signature",
+          "fullName": "wobsoriano/v-perfect-signature",
+          "stars": 256,
+          "url": "https://github.com/wobsoriano/v-perfect-signature",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "svelte-clerk",
+          "fullName": "wobsoriano/svelte-clerk",
+          "stars": 244,
+          "url": "https://github.com/wobsoriano/svelte-clerk",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

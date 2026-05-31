@@ -1,0 +1,62 @@
+{
+  "login": "haydenbleasel",
+  "name": "Hayden Bleasel",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/4142719?v=4",
+  "htmlUrl": "https://github.com/haydenbleasel",
+  "location": "San Francisco, CA",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 4778,
+      "repoCountPrimary": 5,
+      "starsContains": 4778,
+      "repoCountContains": 5,
+      "globalRank": 535,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ultracite",
+          "fullName": "haydenbleasel/ultracite",
+          "stars": 2987,
+          "url": "https://github.com/haydenbleasel/ultracite",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "files-sdk",
+          "fullName": "haydenbleasel/files-sdk",
+          "stars": 1098,
+          "url": "https://github.com/haydenbleasel/files-sdk",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "eververse",
+          "fullName": "haydenbleasel/eververse",
+          "stars": 359,
+          "url": "https://github.com/haydenbleasel/eververse",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "haydenbleasel",
+          "fullName": "haydenbleasel/haydenbleasel",
+          "stars": 189,
+          "url": "https://github.com/haydenbleasel/haydenbleasel",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ghost",
+          "fullName": "haydenbleasel/ghost",
+          "stars": 145,
+          "url": "https://github.com/haydenbleasel/ghost",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

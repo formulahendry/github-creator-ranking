@@ -1,0 +1,62 @@
+{
+  "login": "felipemotarocha",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5685113?v=4",
+  "htmlUrl": "https://github.com/felipemotarocha",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1407,
+      "repoCountPrimary": 7,
+      "starsContains": 1407,
+      "repoCountContains": 7,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "fullstackweek-barber",
+          "fullName": "felipemotarocha/fullstackweek-barber",
+          "stars": 377,
+          "url": "https://github.com/felipemotarocha/fullstackweek-barber",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "fullstackweek-store",
+          "fullName": "felipemotarocha/fullstackweek-store",
+          "stars": 262,
+          "url": "https://github.com/felipemotarocha/fullstackweek-store",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "fullstackweek-foods",
+          "fullName": "felipemotarocha/fullstackweek-foods",
+          "stars": 210,
+          "url": "https://github.com/felipemotarocha/fullstackweek-foods",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "fullstackweek-barber-v2",
+          "fullName": "felipemotarocha/fullstackweek-barber-v2",
+          "stars": 161,
+          "url": "https://github.com/felipemotarocha/fullstackweek-barber-v2",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "fullstackweek-financeai",
+          "fullName": "felipemotarocha/fullstackweek-financeai",
+          "stars": 148,
+          "url": "https://github.com/felipemotarocha/fullstackweek-financeai",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

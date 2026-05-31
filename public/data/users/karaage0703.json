@@ -1,0 +1,34 @@
+{
+  "login": "karaage0703",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5562157?v=4",
+  "htmlUrl": "https://github.com/karaage0703",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 145,
+      "repoCountPrimary": 1,
+      "starsContains": 145,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "xangi",
+          "fullName": "karaage0703/xangi",
+          "stars": 145,
+          "url": "https://github.com/karaage0703/xangi",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

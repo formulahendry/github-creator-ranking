@@ -1,0 +1,34 @@
+{
+  "login": "RexanWONG",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/96183717?v=4",
+  "htmlUrl": "https://github.com/RexanWONG",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2016,
+      "repoCountPrimary": 1,
+      "starsContains": 2016,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "text-behind-image",
+          "fullName": "RexanWONG/text-behind-image",
+          "stars": 2016,
+          "url": "https://github.com/RexanWONG/text-behind-image",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

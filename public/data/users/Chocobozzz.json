@@ -1,0 +1,34 @@
+{
+  "login": "Chocobozzz",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5180488?v=4",
+  "htmlUrl": "https://github.com/Chocobozzz",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 14741,
+      "repoCountPrimary": 1,
+      "starsContains": 14741,
+      "repoCountContains": 1,
+      "globalRank": 131,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "PeerTube",
+          "fullName": "Chocobozzz/PeerTube",
+          "stars": 14741,
+          "url": "https://github.com/Chocobozzz/PeerTube",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

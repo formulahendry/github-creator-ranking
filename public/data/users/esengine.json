@@ -1,0 +1,48 @@
+{
+  "login": "esengine",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/18465053?v=4",
+  "htmlUrl": "https://github.com/esengine",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1325,
+      "repoCountPrimary": 3,
+      "starsContains": 1325,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "esengine",
+          "fullName": "esengine/esengine",
+          "stars": 877,
+          "url": "https://github.com/esengine/esengine",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "estella",
+          "fullName": "esengine/estella",
+          "stars": 304,
+          "url": "https://github.com/esengine/estella",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "BehaviourTree-ai",
+          "fullName": "esengine/BehaviourTree-ai",
+          "stars": 144,
+          "url": "https://github.com/esengine/BehaviourTree-ai",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

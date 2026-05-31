@@ -1,11 +1,11 @@
 {
   "login": "chenglou",
-  "name": null,
+  "name": "Cheng Lou",
   "avatarUrl": "https://avatars.githubusercontent.com/u/1909539?v=4",
   "htmlUrl": "https://github.com/chenglou",
-  "location": null,
+  "location": "California",
   "countryCode": null,
-  "generatedAt": "2026-05-31T13:50:40.799Z",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
   "isPartial": true,
   "languages": [
     {
@@ -14,17 +14,17 @@
         "name": "TypeScript",
         "githubQuery": "TypeScript"
       },
-      "starsPrimary": 47990,
+      "starsPrimary": 48001,
       "repoCountPrimary": 1,
-      "starsContains": 47990,
+      "starsContains": 48001,
       "repoCountContains": 1,
-      "globalRank": 12,
+      "globalRank": 20,
       "countryRank": null,
       "topRepos": [
         {
           "name": "pretext",
           "fullName": "chenglou/pretext",
-          "stars": 47990,
+          "stars": 48001,
           "url": "https://github.com/chenglou/pretext",
           "primaryLanguage": "TypeScript"
         }

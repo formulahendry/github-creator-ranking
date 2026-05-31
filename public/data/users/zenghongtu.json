@@ -1,0 +1,62 @@
+{
+  "login": "zenghongtu",
+  "name": "jasonzeng",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/25629121?v=4",
+  "htmlUrl": "https://github.com/zenghongtu",
+  "location": "Chengdu, China",
+  "countryCode": "CN",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 4798,
+      "repoCountPrimary": 6,
+      "starsContains": 4798,
+      "repoCountContains": 6,
+      "globalRank": 534,
+      "countryRank": 67,
+      "topRepos": [
+        {
+          "name": "PPet",
+          "fullName": "zenghongtu/PPet",
+          "stars": 2023,
+          "url": "https://github.com/zenghongtu/PPet",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-use-chinese",
+          "fullName": "zenghongtu/react-use-chinese",
+          "stars": 1043,
+          "url": "https://github.com/zenghongtu/react-use-chinese",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Mob",
+          "fullName": "zenghongtu/Mob",
+          "stars": 955,
+          "url": "https://github.com/zenghongtu/Mob",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Remu",
+          "fullName": "zenghongtu/Remu",
+          "stars": 518,
+          "url": "https://github.com/zenghongtu/Remu",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "GitHub-Pro",
+          "fullName": "zenghongtu/GitHub-Pro",
+          "stars": 156,
+          "url": "https://github.com/zenghongtu/GitHub-Pro",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

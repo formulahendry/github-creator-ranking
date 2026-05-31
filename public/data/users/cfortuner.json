@@ -1,0 +1,34 @@
+{
+  "login": "cfortuner",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5430709?v=4",
+  "htmlUrl": "https://github.com/cfortuner",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1748,
+      "repoCountPrimary": 1,
+      "starsContains": 1748,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "promptable",
+          "fullName": "cfortuner/promptable",
+          "stars": 1748,
+          "url": "https://github.com/cfortuner/promptable",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "grvcoelho",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7416751?v=4",
+  "htmlUrl": "https://github.com/grvcoelho",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 121,
+      "repoCountPrimary": 1,
+      "starsContains": 121,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "arturia",
+          "fullName": "grvcoelho/arturia",
+          "stars": 121,
+          "url": "https://github.com/grvcoelho/arturia",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

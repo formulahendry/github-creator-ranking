@@ -1,0 +1,48 @@
+{
+  "login": "mizdra",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/9639995?v=4",
+  "htmlUrl": "https://github.com/mizdra",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 912,
+      "repoCountPrimary": 3,
+      "starsContains": 912,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "eslint-interactive",
+          "fullName": "mizdra/eslint-interactive",
+          "stars": 450,
+          "url": "https://github.com/mizdra/eslint-interactive",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "happy-css-modules",
+          "fullName": "mizdra/happy-css-modules",
+          "stars": 277,
+          "url": "https://github.com/mizdra/happy-css-modules",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "css-modules-kit",
+          "fullName": "mizdra/css-modules-kit",
+          "stars": 185,
+          "url": "https://github.com/mizdra/css-modules-kit",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

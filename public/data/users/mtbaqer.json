@@ -1,0 +1,34 @@
+{
+  "login": "mtbaqer",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/32401657?v=4",
+  "htmlUrl": "https://github.com/mtbaqer",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 332,
+      "repoCountPrimary": 1,
+      "starsContains": 332,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vscode-better-folding",
+          "fullName": "mtbaqer/vscode-better-folding",
+          "stars": 332,
+          "url": "https://github.com/mtbaqer/vscode-better-folding",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

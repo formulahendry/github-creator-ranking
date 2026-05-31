@@ -1,0 +1,41 @@
+{
+  "login": "vipzhicheng",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1209538?v=4",
+  "htmlUrl": "https://github.com/vipzhicheng",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 726,
+      "repoCountPrimary": 2,
+      "starsContains": 726,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "logseq-plugin-vim-shortcuts",
+          "fullName": "vipzhicheng/logseq-plugin-vim-shortcuts",
+          "stars": 404,
+          "url": "https://github.com/vipzhicheng/logseq-plugin-vim-shortcuts",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "logseq-plugin-mark-map",
+          "fullName": "vipzhicheng/logseq-plugin-mark-map",
+          "stars": 322,
+          "url": "https://github.com/vipzhicheng/logseq-plugin-mark-map",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

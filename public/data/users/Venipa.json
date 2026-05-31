@@ -1,0 +1,34 @@
+{
+  "login": "Venipa",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/17952364?v=4",
+  "htmlUrl": "https://github.com/Venipa",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 963,
+      "repoCountPrimary": 1,
+      "starsContains": 963,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ytmdesktop2",
+          "fullName": "Venipa/ytmdesktop2",
+          "stars": 963,
+          "url": "https://github.com/Venipa/ytmdesktop2",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

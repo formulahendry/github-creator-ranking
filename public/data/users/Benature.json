@@ -1,0 +1,34 @@
+{
+  "login": "Benature",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/35028647?v=4",
+  "htmlUrl": "https://github.com/Benature",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 265,
+      "repoCountPrimary": 1,
+      "starsContains": 265,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "obsidian-text-format",
+          "fullName": "Benature/obsidian-text-format",
+          "stars": 265,
+          "url": "https://github.com/Benature/obsidian-text-format",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

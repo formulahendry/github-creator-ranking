@@ -1,0 +1,41 @@
+{
+  "login": "zennomi",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/43679352?v=4",
+  "htmlUrl": "https://github.com/zennomi",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 485,
+      "repoCountPrimary": 2,
+      "starsContains": 485,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "truyendex",
+          "fullName": "zennomi/truyendex",
+          "stars": 291,
+          "url": "https://github.com/zennomi/truyendex",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "truyendrive",
+          "fullName": "zennomi/truyendrive",
+          "stars": 194,
+          "url": "https://github.com/zennomi/truyendrive",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

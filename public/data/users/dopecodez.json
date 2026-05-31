@@ -1,0 +1,34 @@
+{
+  "login": "dopecodez",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/34269105?v=4",
+  "htmlUrl": "https://github.com/dopecodez",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 101,
+      "repoCountPrimary": 1,
+      "starsContains": 101,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Wikipedia",
+          "fullName": "dopecodez/Wikipedia",
+          "stars": 101,
+          "url": "https://github.com/dopecodez/Wikipedia",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

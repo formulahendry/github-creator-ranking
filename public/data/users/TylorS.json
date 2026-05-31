@@ -1,0 +1,41 @@
+{
+  "login": "TylorS",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6282473?v=4",
+  "htmlUrl": "https://github.com/TylorS",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 484,
+      "repoCountPrimary": 2,
+      "starsContains": 484,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "typed",
+          "fullName": "TylorS/typed",
+          "stars": 363,
+          "url": "https://github.com/TylorS/typed",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "typed-unmaintained",
+          "fullName": "TylorS/typed-unmaintained",
+          "stars": 121,
+          "url": "https://github.com/TylorS/typed-unmaintained",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

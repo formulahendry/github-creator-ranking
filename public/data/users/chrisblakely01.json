@@ -1,0 +1,48 @@
+{
+  "login": "chrisblakely01",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/10871707?v=4",
+  "htmlUrl": "https://github.com/chrisblakely01",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 631,
+      "repoCountPrimary": 3,
+      "starsContains": 631,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "mern-booking-app",
+          "fullName": "chrisblakely01/mern-booking-app",
+          "stars": 290,
+          "url": "https://github.com/chrisblakely01/mern-booking-app",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "mern-food-ordering-app-frontend",
+          "fullName": "chrisblakely01/mern-food-ordering-app-frontend",
+          "stars": 183,
+          "url": "https://github.com/chrisblakely01/mern-food-ordering-app-frontend",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "mern-food-ordering-app-backend",
+          "fullName": "chrisblakely01/mern-food-ordering-app-backend",
+          "stars": 158,
+          "url": "https://github.com/chrisblakely01/mern-food-ordering-app-backend",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

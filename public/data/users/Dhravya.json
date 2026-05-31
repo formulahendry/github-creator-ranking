@@ -1,0 +1,48 @@
+{
+  "login": "Dhravya",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/63950637?v=4",
+  "htmlUrl": "https://github.com/Dhravya",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 801,
+      "repoCountPrimary": 3,
+      "starsContains": 801,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "notty",
+          "fullName": "Dhravya/notty",
+          "stars": 478,
+          "url": "https://github.com/Dhravya/notty",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "webpull",
+          "fullName": "Dhravya/webpull",
+          "stars": 218,
+          "url": "https://github.com/Dhravya/webpull",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "landing-effects",
+          "fullName": "Dhravya/landing-effects",
+          "stars": 105,
+          "url": "https://github.com/Dhravya/landing-effects",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

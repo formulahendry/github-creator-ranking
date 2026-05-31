@@ -1,0 +1,34 @@
+{
+  "login": "Lemick",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7532692?v=4",
+  "htmlUrl": "https://github.com/Lemick",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 129,
+      "repoCountPrimary": 1,
+      "starsContains": 129,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "open-iframe-resizer",
+          "fullName": "Lemick/open-iframe-resizer",
+          "stars": 129,
+          "url": "https://github.com/Lemick/open-iframe-resizer",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

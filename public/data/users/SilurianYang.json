@@ -1,0 +1,34 @@
+{
+  "login": "SilurianYang",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/31280665?v=4",
+  "htmlUrl": "https://github.com/SilurianYang",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 761,
+      "repoCountPrimary": 1,
+      "starsContains": 761,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "uni-simple-router",
+          "fullName": "SilurianYang/uni-simple-router",
+          "stars": 761,
+          "url": "https://github.com/SilurianYang/uni-simple-router",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

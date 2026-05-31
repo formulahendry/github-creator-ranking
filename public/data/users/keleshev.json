@@ -1,0 +1,34 @@
+{
+  "login": "keleshev",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/619158?v=4",
+  "htmlUrl": "https://github.com/keleshev",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 355,
+      "repoCountPrimary": 1,
+      "starsContains": 355,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "compiling-to-assembly-from-scratch",
+          "fullName": "keleshev/compiling-to-assembly-from-scratch",
+          "stars": 355,
+          "url": "https://github.com/keleshev/compiling-to-assembly-from-scratch",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

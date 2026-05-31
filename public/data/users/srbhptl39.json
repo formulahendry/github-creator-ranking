@@ -1,0 +1,34 @@
+{
+  "login": "srbhptl39",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/29562367?v=4",
+  "htmlUrl": "https://github.com/srbhptl39",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2485,
+      "repoCountPrimary": 1,
+      "starsContains": 2485,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "MCP-SuperAssistant",
+          "fullName": "srbhptl39/MCP-SuperAssistant",
+          "stars": 2485,
+          "url": "https://github.com/srbhptl39/MCP-SuperAssistant",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

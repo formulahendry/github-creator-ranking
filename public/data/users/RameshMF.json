@@ -1,0 +1,41 @@
+{
+  "login": "RameshMF",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/21032758?v=4",
+  "htmlUrl": "https://github.com/RameshMF",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 462,
+      "repoCountPrimary": 2,
+      "starsContains": 462,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Angular8-SpringBoot-CRUD-Tutorial",
+          "fullName": "RameshMF/Angular8-SpringBoot-CRUD-Tutorial",
+          "stars": 246,
+          "url": "https://github.com/RameshMF/Angular8-SpringBoot-CRUD-Tutorial",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Angular-10-Spring-Boot-CRUD-Full-Stack-App",
+          "fullName": "RameshMF/Angular-10-Spring-Boot-CRUD-Full-Stack-App",
+          "stars": 216,
+          "url": "https://github.com/RameshMF/Angular-10-Spring-Boot-CRUD-Full-Stack-App",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

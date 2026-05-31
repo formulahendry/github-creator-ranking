@@ -1,0 +1,62 @@
+{
+  "login": "mckaywrigley",
+  "name": "Mckay Wrigley",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/29221284?v=4",
+  "htmlUrl": "https://github.com/mckaywrigley",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 47772,
+      "repoCountPrimary": 18,
+      "starsContains": 47772,
+      "repoCountContains": 18,
+      "globalRank": 21,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "chatbot-ui",
+          "fullName": "mckaywrigley/chatbot-ui",
+          "stars": 33259,
+          "url": "https://github.com/mckaywrigley/chatbot-ui",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ai-code-translator",
+          "fullName": "mckaywrigley/ai-code-translator",
+          "stars": 4164,
+          "url": "https://github.com/mckaywrigley/ai-code-translator",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "paul-graham-gpt",
+          "fullName": "mckaywrigley/paul-graham-gpt",
+          "stars": 2664,
+          "url": "https://github.com/mckaywrigley/paul-graham-gpt",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "mckays-app-template",
+          "fullName": "mckaywrigley/mckays-app-template",
+          "stars": 1935,
+          "url": "https://github.com/mckaywrigley/mckays-app-template",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "clarity-ai",
+          "fullName": "mckaywrigley/clarity-ai",
+          "stars": 1415,
+          "url": "https://github.com/mckaywrigley/clarity-ai",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

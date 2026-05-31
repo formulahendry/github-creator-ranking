@@ -1,0 +1,34 @@
+{
+  "login": "lazerwalker",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/821238?v=4",
+  "htmlUrl": "https://github.com/lazerwalker",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 123,
+      "repoCountPrimary": 1,
+      "starsContains": 123,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "storyboard",
+          "fullName": "lazerwalker/storyboard",
+          "stars": 123,
+          "url": "https://github.com/lazerwalker/storyboard",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

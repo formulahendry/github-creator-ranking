@@ -1,0 +1,34 @@
+{
+  "login": "NileshPatel17",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/27020381?v=4",
+  "htmlUrl": "https://github.com/NileshPatel17",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 328,
+      "repoCountPrimary": 1,
+      "starsContains": 328,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ng-multiselect-dropdown",
+          "fullName": "NileshPatel17/ng-multiselect-dropdown",
+          "stars": 328,
+          "url": "https://github.com/NileshPatel17/ng-multiselect-dropdown",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

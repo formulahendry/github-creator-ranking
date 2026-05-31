@@ -1,0 +1,34 @@
+{
+  "login": "seawind8888",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/16148014?v=4",
+  "htmlUrl": "https://github.com/seawind8888",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 245,
+      "repoCountPrimary": 1,
+      "starsContains": 245,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Nobibi",
+          "fullName": "seawind8888/Nobibi",
+          "stars": 245,
+          "url": "https://github.com/seawind8888/Nobibi",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

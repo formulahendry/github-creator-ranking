@@ -1,0 +1,41 @@
+{
+  "login": "harrylettering",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/26543258?v=4",
+  "htmlUrl": "https://github.com/harrylettering",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 418,
+      "repoCountPrimary": 2,
+      "starsContains": 418,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "claude-trace-replay",
+          "fullName": "harrylettering/claude-trace-replay",
+          "stars": 256,
+          "url": "https://github.com/harrylettering/claude-trace-replay",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "CodeMemory",
+          "fullName": "harrylettering/CodeMemory",
+          "stars": 162,
+          "url": "https://github.com/harrylettering/CodeMemory",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

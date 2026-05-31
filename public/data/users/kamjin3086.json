@@ -1,0 +1,34 @@
+{
+  "login": "kamjin3086",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/42973155?v=4",
+  "htmlUrl": "https://github.com/kamjin3086",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 273,
+      "repoCountPrimary": 1,
+      "starsContains": 273,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "chatless",
+          "fullName": "kamjin3086/chatless",
+          "stars": 273,
+          "url": "https://github.com/kamjin3086/chatless",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

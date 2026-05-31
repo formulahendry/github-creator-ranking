@@ -1,0 +1,62 @@
+{
+  "login": "enesozturk",
+  "name": "Enes",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/19428358?v=4",
+  "htmlUrl": "https://github.com/enesozturk",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3992,
+      "repoCountPrimary": 6,
+      "starsContains": 3992,
+      "repoCountContains": 6,
+      "globalRank": 662,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-native-hold-menu",
+          "fullName": "enesozturk/react-native-hold-menu",
+          "stars": 1517,
+          "url": "https://github.com/enesozturk/react-native-hold-menu",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "rn-swipeable-panel",
+          "fullName": "enesozturk/rn-swipeable-panel",
+          "stars": 962,
+          "url": "https://github.com/enesozturk/rn-swipeable-panel",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "json-data-ai-template",
+          "fullName": "enesozturk/json-data-ai-template",
+          "stars": 561,
+          "url": "https://github.com/enesozturk/json-data-ai-template",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-native-ios",
+          "fullName": "enesozturk/react-native-ios",
+          "stars": 361,
+          "url": "https://github.com/enesozturk/react-native-ios",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-native-instagram",
+          "fullName": "enesozturk/react-native-instagram",
+          "stars": 330,
+          "url": "https://github.com/enesozturk/react-native-instagram",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

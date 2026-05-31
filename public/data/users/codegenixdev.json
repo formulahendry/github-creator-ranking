@@ -1,0 +1,41 @@
+{
+  "login": "codegenixdev",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/49818351?v=4",
+  "htmlUrl": "https://github.com/codegenixdev",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 232,
+      "repoCountPrimary": 2,
+      "starsContains": 232,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "auth-nextjs-tutorial",
+          "fullName": "codegenixdev/auth-nextjs-tutorial",
+          "stars": 121,
+          "url": "https://github.com/codegenixdev/auth-nextjs-tutorial",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "drizzle-nextjs-tutorial",
+          "fullName": "codegenixdev/drizzle-nextjs-tutorial",
+          "stars": 111,
+          "url": "https://github.com/codegenixdev/drizzle-nextjs-tutorial",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

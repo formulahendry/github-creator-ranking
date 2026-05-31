@@ -1,0 +1,41 @@
+{
+  "login": "moonrailgun",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6964737?v=4",
+  "htmlUrl": "https://github.com/moonrailgun",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 526,
+      "repoCountPrimary": 2,
+      "starsContains": 526,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "codeck",
+          "fullName": "moonrailgun/codeck",
+          "stars": 346,
+          "url": "https://github.com/moonrailgun/codeck",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "mini-star",
+          "fullName": "moonrailgun/mini-star",
+          "stars": 180,
+          "url": "https://github.com/moonrailgun/mini-star",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "out386",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/16732344?v=4",
+  "htmlUrl": "https://github.com/out386",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 522,
+      "repoCountPrimary": 1,
+      "starsContains": 522,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "aria-telegram-mirror-bot",
+          "fullName": "out386/aria-telegram-mirror-bot",
+          "stars": 522,
+          "url": "https://github.com/out386/aria-telegram-mirror-bot",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

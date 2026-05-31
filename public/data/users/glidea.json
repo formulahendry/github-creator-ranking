@@ -1,0 +1,41 @@
+{
+  "login": "glidea",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/53204825?v=4",
+  "htmlUrl": "https://github.com/glidea",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 681,
+      "repoCountPrimary": 2,
+      "starsContains": 681,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "one-balance",
+          "fullName": "glidea/one-balance",
+          "stars": 412,
+          "url": "https://github.com/glidea/one-balance",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "claude-worker-proxy",
+          "fullName": "glidea/claude-worker-proxy",
+          "stars": 269,
+          "url": "https://github.com/glidea/claude-worker-proxy",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

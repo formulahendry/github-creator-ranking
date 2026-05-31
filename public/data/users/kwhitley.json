@@ -1,0 +1,55 @@
+{
+  "login": "kwhitley",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/865416?v=4",
+  "htmlUrl": "https://github.com/kwhitley",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2345,
+      "repoCountPrimary": 4,
+      "starsContains": 2345,
+      "repoCountContains": 4,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "itty-router",
+          "fullName": "kwhitley/itty-router",
+          "stars": 2033,
+          "url": "https://github.com/kwhitley/itty-router",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "itty-fetcher",
+          "fullName": "kwhitley/itty-fetcher",
+          "stars": 111,
+          "url": "https://github.com/kwhitley/itty-fetcher",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "itty.dev",
+          "fullName": "kwhitley/itty.dev",
+          "stars": 101,
+          "url": "https://github.com/kwhitley/itty.dev",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "itty-time",
+          "fullName": "kwhitley/itty-time",
+          "stars": 100,
+          "url": "https://github.com/kwhitley/itty-time",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "zhangshichun",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/15374687?v=4",
+  "htmlUrl": "https://github.com/zhangshichun",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 145,
+      "repoCountPrimary": 1,
+      "starsContains": 145,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "tree-lodash",
+          "fullName": "zhangshichun/tree-lodash",
+          "stars": 145,
+          "url": "https://github.com/zhangshichun/tree-lodash",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "login": "rohitg00",
+  "name": "Rohit Ghumare",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/48523873?v=4",
+  "htmlUrl": "https://github.com/rohitg00",
+  "location": "London, UK",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 22434,
+      "repoCountPrimary": 5,
+      "starsContains": 22434,
+      "repoCountContains": 5,
+      "globalRank": 79,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "agentmemory",
+          "fullName": "rohitg00/agentmemory",
+          "stars": 20191,
+          "url": "https://github.com/rohitg00/agentmemory",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "skillkit",
+          "fullName": "rohitg00/skillkit",
+          "stars": 1171,
+          "url": "https://github.com/rohitg00/skillkit",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "CreateMVP",
+          "fullName": "rohitg00/CreateMVP",
+          "stars": 646,
+          "url": "https://github.com/rohitg00/CreateMVP",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "manim-video-generator",
+          "fullName": "rohitg00/manim-video-generator",
+          "stars": 263,
+          "url": "https://github.com/rohitg00/manim-video-generator",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "tailclaude",
+          "fullName": "rohitg00/tailclaude",
+          "stars": 163,
+          "url": "https://github.com/rohitg00/tailclaude",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

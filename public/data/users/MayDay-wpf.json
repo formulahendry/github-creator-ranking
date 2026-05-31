@@ -1,0 +1,34 @@
+{
+  "login": "MayDay-wpf",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/58774414?v=4",
+  "htmlUrl": "https://github.com/MayDay-wpf",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 946,
+      "repoCountPrimary": 1,
+      "starsContains": 946,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "snow-cli",
+          "fullName": "MayDay-wpf/snow-cli",
+          "stars": 946,
+          "url": "https://github.com/MayDay-wpf/snow-cli",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

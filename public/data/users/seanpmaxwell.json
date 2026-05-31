@@ -1,0 +1,48 @@
+{
+  "login": "seanpmaxwell",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/10490175?v=4",
+  "htmlUrl": "https://github.com/seanpmaxwell",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1956,
+      "repoCountPrimary": 3,
+      "starsContains": 1956,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "express-generator-typescript",
+          "fullName": "seanpmaxwell/express-generator-typescript",
+          "stars": 941,
+          "url": "https://github.com/seanpmaxwell/express-generator-typescript",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "overnight",
+          "fullName": "seanpmaxwell/overnight",
+          "stars": 872,
+          "url": "https://github.com/seanpmaxwell/overnight",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Trool",
+          "fullName": "seanpmaxwell/Trool",
+          "stars": 143,
+          "url": "https://github.com/seanpmaxwell/Trool",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

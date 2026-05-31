@@ -1,0 +1,34 @@
+{
+  "login": "qczone",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/101535872?v=4",
+  "htmlUrl": "https://github.com/qczone",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 200,
+      "repoCountPrimary": 1,
+      "starsContains": 200,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "switch2idea",
+          "fullName": "qczone/switch2idea",
+          "stars": 200,
+          "url": "https://github.com/qczone/switch2idea",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

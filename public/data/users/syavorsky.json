@@ -1,0 +1,34 @@
+{
+  "login": "syavorsky",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/455779?v=4",
+  "htmlUrl": "https://github.com/syavorsky",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 259,
+      "repoCountPrimary": 1,
+      "starsContains": 259,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "comment-parser",
+          "fullName": "syavorsky/comment-parser",
+          "stars": 259,
+          "url": "https://github.com/syavorsky/comment-parser",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

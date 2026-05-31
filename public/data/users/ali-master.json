@@ -1,0 +1,48 @@
+{
+  "login": "ali-master",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/9049092?v=4",
+  "htmlUrl": "https://github.com/ali-master",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 622,
+      "repoCountPrimary": 3,
+      "starsContains": 622,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "rule-engine",
+          "fullName": "ali-master/rule-engine",
+          "stars": 353,
+          "url": "https://github.com/ali-master/rule-engine",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "uuidv47",
+          "fullName": "ali-master/uuidv47",
+          "stars": 136,
+          "url": "https://github.com/ali-master/uuidv47",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "llmpeg",
+          "fullName": "ali-master/llmpeg",
+          "stars": 133,
+          "url": "https://github.com/ali-master/llmpeg",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

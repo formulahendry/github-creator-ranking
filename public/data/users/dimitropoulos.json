@@ -1,0 +1,41 @@
+{
+  "login": "dimitropoulos",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/15232461?v=4",
+  "htmlUrl": "https://github.com/dimitropoulos",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 854,
+      "repoCountPrimary": 2,
+      "starsContains": 854,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "typeslayer",
+          "fullName": "dimitropoulos/typeslayer",
+          "stars": 578,
+          "url": "https://github.com/dimitropoulos/typeslayer",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-ui-roundup",
+          "fullName": "dimitropoulos/react-ui-roundup",
+          "stars": 276,
+          "url": "https://github.com/dimitropoulos/react-ui-roundup",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

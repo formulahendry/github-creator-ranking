@@ -1,0 +1,34 @@
+{
+  "login": "rmyndharis",
+  "name": "Yudhi Armyndharis",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2390382?v=4",
+  "htmlUrl": "https://github.com/rmyndharis",
+  "location": "Batam, Indonesia",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 7210,
+      "repoCountPrimary": 1,
+      "starsContains": 7210,
+      "repoCountContains": 1,
+      "globalRank": 318,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "OpenWA",
+          "fullName": "rmyndharis/OpenWA",
+          "stars": 7210,
+          "url": "https://github.com/rmyndharis/OpenWA",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

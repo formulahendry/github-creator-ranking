@@ -1,0 +1,62 @@
+{
+  "login": "Aslemammad",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/37929992?v=4",
+  "htmlUrl": "https://github.com/Aslemammad",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1098,
+      "repoCountPrimary": 5,
+      "starsContains": 1098,
+      "repoCountContains": 5,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vitext",
+          "fullName": "Aslemammad/vitext",
+          "stars": 393,
+          "url": "https://github.com/Aslemammad/vitext",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vite-plugin-cloudflare",
+          "fullName": "Aslemammad/vite-plugin-cloudflare",
+          "stars": 283,
+          "url": "https://github.com/Aslemammad/vite-plugin-cloudflare",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "venode",
+          "fullName": "Aslemammad/venode",
+          "stars": 176,
+          "url": "https://github.com/Aslemammad/venode",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "contextism",
+          "fullName": "Aslemammad/contextism",
+          "stars": 141,
+          "url": "https://github.com/Aslemammad/contextism",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-worker-components-plugin",
+          "fullName": "Aslemammad/react-worker-components-plugin",
+          "stars": 105,
+          "url": "https://github.com/Aslemammad/react-worker-components-plugin",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

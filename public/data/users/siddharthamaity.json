@@ -1,0 +1,34 @@
+{
+  "login": "siddharthamaity",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/13370851?v=4",
+  "htmlUrl": "https://github.com/siddharthamaity",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 324,
+      "repoCountPrimary": 1,
+      "starsContains": 324,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "nextjs-15-starter-shadcn",
+          "fullName": "siddharthamaity/nextjs-15-starter-shadcn",
+          "stars": 324,
+          "url": "https://github.com/siddharthamaity/nextjs-15-starter-shadcn",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

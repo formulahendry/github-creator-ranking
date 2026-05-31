@@ -1,0 +1,34 @@
+{
+  "login": "eilvelia",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/10106819?v=4",
+  "htmlUrl": "https://github.com/eilvelia",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 535,
+      "repoCountPrimary": 1,
+      "starsContains": 535,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "tdl",
+          "fullName": "eilvelia/tdl",
+          "stars": 535,
+          "url": "https://github.com/eilvelia/tdl",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

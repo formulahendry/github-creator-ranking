@@ -1,0 +1,34 @@
+{
+  "login": "B0und",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/20162553?v=4",
+  "htmlUrl": "https://github.com/B0und",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 118,
+      "repoCountPrimary": 1,
+      "starsContains": 118,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "WikiSpeedrun",
+          "fullName": "B0und/WikiSpeedrun",
+          "stars": 118,
+          "url": "https://github.com/B0und/WikiSpeedrun",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

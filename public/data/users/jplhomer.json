@@ -1,0 +1,34 @@
+{
+  "login": "jplhomer",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/848147?v=4",
+  "htmlUrl": "https://github.com/jplhomer",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 809,
+      "repoCountPrimary": 1,
+      "starsContains": 809,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "superflare",
+          "fullName": "jplhomer/superflare",
+          "stars": 809,
+          "url": "https://github.com/jplhomer/superflare",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

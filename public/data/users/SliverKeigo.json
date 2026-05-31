@@ -1,0 +1,48 @@
+{
+  "login": "SliverKeigo",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/112426853?v=4",
+  "htmlUrl": "https://github.com/SliverKeigo",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 588,
+      "repoCountPrimary": 3,
+      "starsContains": 588,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "infinitenovel",
+          "fullName": "SliverKeigo/infinitenovel",
+          "stars": 209,
+          "url": "https://github.com/SliverKeigo/infinitenovel",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Hermes",
+          "fullName": "SliverKeigo/Hermes",
+          "stars": 190,
+          "url": "https://github.com/SliverKeigo/Hermes",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "site",
+          "fullName": "SliverKeigo/site",
+          "stars": 189,
+          "url": "https://github.com/SliverKeigo/site",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

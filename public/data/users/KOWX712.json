@@ -1,0 +1,34 @@
+{
+  "login": "KOWX712",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/185127155?v=4",
+  "htmlUrl": "https://github.com/KOWX712",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3159,
+      "repoCountPrimary": 1,
+      "starsContains": 3159,
+      "repoCountContains": 1,
+      "globalRank": 852,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Tricky-Addon-Update-Target-List",
+          "fullName": "KOWX712/Tricky-Addon-Update-Target-List",
+          "stars": 3159,
+          "url": "https://github.com/KOWX712/Tricky-Addon-Update-Target-List",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

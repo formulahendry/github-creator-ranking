@@ -1,0 +1,34 @@
+{
+  "login": "anday013",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/48630069?v=4",
+  "htmlUrl": "https://github.com/anday013",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 420,
+      "repoCountPrimary": 1,
+      "starsContains": 420,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-native-otp-entry",
+          "fullName": "anday013/react-native-otp-entry",
+          "stars": 420,
+          "url": "https://github.com/anday013/react-native-otp-entry",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

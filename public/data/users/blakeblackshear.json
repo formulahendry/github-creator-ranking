@@ -1,0 +1,34 @@
+{
+  "login": "blakeblackshear",
+  "name": "Blake Blackshear",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/569905?v=4",
+  "htmlUrl": "https://github.com/blakeblackshear",
+  "location": "Nashville, TN",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 33433,
+      "repoCountPrimary": 1,
+      "starsContains": 33433,
+      "repoCountContains": 1,
+      "globalRank": 39,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "frigate",
+          "fullName": "blakeblackshear/frigate",
+          "stars": 33433,
+          "url": "https://github.com/blakeblackshear/frigate",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

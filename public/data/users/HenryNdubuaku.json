@@ -1,0 +1,34 @@
+{
+  "login": "HenryNdubuaku",
+  "name": "Henry Ndubuaku",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/26547576?v=4",
+  "htmlUrl": "https://github.com/HenryNdubuaku",
+  "location": "London",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 4389,
+      "repoCountPrimary": 1,
+      "starsContains": 4389,
+      "repoCountContains": 1,
+      "globalRank": 588,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "maths-cs-ai-compendium",
+          "fullName": "HenryNdubuaku/maths-cs-ai-compendium",
+          "stars": 4389,
+          "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "johnsoncodehk",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/16279759?v=4",
+  "htmlUrl": "https://github.com/johnsoncodehk",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 763,
+      "repoCountPrimary": 2,
+      "starsContains": 763,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "tsslint",
+          "fullName": "johnsoncodehk/tsslint",
+          "stars": 629,
+          "url": "https://github.com/johnsoncodehk/tsslint",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vite-plugin-vue-component-preview",
+          "fullName": "johnsoncodehk/vite-plugin-vue-component-preview",
+          "stars": 134,
+          "url": "https://github.com/johnsoncodehk/vite-plugin-vue-component-preview",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "giscafer",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/8676711?v=4",
+  "htmlUrl": "https://github.com/giscafer",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 122,
+      "repoCountPrimary": 1,
+      "starsContains": 122,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ngx-form-builder",
+          "fullName": "giscafer/ngx-form-builder",
+          "stars": 122,
+          "url": "https://github.com/giscafer/ngx-form-builder",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

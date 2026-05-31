@@ -1,0 +1,41 @@
+{
+  "login": "kdrag0n",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7930239?v=4",
+  "htmlUrl": "https://github.com/kdrag0n",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 707,
+      "repoCountPrimary": 2,
+      "starsContains": 707,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "fastboot.js",
+          "fullName": "kdrag0n/fastboot.js",
+          "stars": 470,
+          "url": "https://github.com/kdrag0n/fastboot.js",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "adevtool",
+          "fullName": "kdrag0n/adevtool",
+          "stars": 237,
+          "url": "https://github.com/kdrag0n/adevtool",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

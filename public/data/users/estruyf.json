@@ -1,0 +1,48 @@
+{
+  "login": "estruyf",
+  "name": "Elio Struyf",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2900833?v=4",
+  "htmlUrl": "https://github.com/estruyf",
+  "location": "Antwerp",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2896,
+      "repoCountPrimary": 3,
+      "starsContains": 2896,
+      "repoCountContains": 3,
+      "globalRank": 927,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vscode-front-matter",
+          "fullName": "estruyf/vscode-front-matter",
+          "stars": 2511,
+          "url": "https://github.com/estruyf/vscode-front-matter",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vscode-demo-time",
+          "fullName": "estruyf/vscode-demo-time",
+          "stars": 243,
+          "url": "https://github.com/estruyf/vscode-demo-time",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "doctor",
+          "fullName": "estruyf/doctor",
+          "stars": 142,
+          "url": "https://github.com/estruyf/doctor",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

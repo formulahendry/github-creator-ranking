@@ -1,0 +1,34 @@
+{
+  "login": "FetchTheMoon",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/79921141?v=4",
+  "htmlUrl": "https://github.com/FetchTheMoon",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 155,
+      "repoCountPrimary": 1,
+      "starsContains": 155,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "soul-plus-plus-chrome-extension",
+          "fullName": "FetchTheMoon/soul-plus-plus-chrome-extension",
+          "stars": 155,
+          "url": "https://github.com/FetchTheMoon/soul-plus-plus-chrome-extension",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

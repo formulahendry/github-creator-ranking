@@ -1,0 +1,34 @@
+{
+  "login": "blairjordan",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/998930?v=4",
+  "htmlUrl": "https://github.com/blairjordan",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 215,
+      "repoCountPrimary": 1,
+      "starsContains": 215,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "codachi",
+          "fullName": "blairjordan/codachi",
+          "stars": 215,
+          "url": "https://github.com/blairjordan/codachi",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

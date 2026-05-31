@@ -1,0 +1,48 @@
+{
+  "login": "maqi1520",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/9312044?v=4",
+  "htmlUrl": "https://github.com/maqi1520",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1962,
+      "repoCountPrimary": 3,
+      "starsContains": 1962,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "mdx-notes",
+          "fullName": "maqi1520/mdx-notes",
+          "stars": 1586,
+          "url": "https://github.com/maqi1520/mdx-notes",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-antd-low-code",
+          "fullName": "maqi1520/react-antd-low-code",
+          "stars": 210,
+          "url": "https://github.com/maqi1520/react-antd-low-code",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "nextjs-tailwind-blog",
+          "fullName": "maqi1520/nextjs-tailwind-blog",
+          "stars": 166,
+          "url": "https://github.com/maqi1520/nextjs-tailwind-blog",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

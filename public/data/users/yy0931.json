@@ -1,0 +1,34 @@
+{
+  "login": "yy0931",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/54441600?v=4",
+  "htmlUrl": "https://github.com/yy0931",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2603,
+      "repoCountPrimary": 1,
+      "starsContains": 2603,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "sqlite3-editor",
+          "fullName": "yy0931/sqlite3-editor",
+          "stars": 2603,
+          "url": "https://github.com/yy0931/sqlite3-editor",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

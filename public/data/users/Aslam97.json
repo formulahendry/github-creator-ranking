@@ -1,0 +1,48 @@
+{
+  "login": "Aslam97",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/25027592?v=4",
+  "htmlUrl": "https://github.com/Aslam97",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2175,
+      "repoCountPrimary": 3,
+      "starsContains": 2175,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "minimal-tiptap",
+          "fullName": "Aslam97/minimal-tiptap",
+          "stars": 1788,
+          "url": "https://github.com/Aslam97/minimal-tiptap",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-fancy-switch",
+          "fullName": "Aslam97/react-fancy-switch",
+          "stars": 212,
+          "url": "https://github.com/Aslam97/react-fancy-switch",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-confirm-dialog",
+          "fullName": "Aslam97/react-confirm-dialog",
+          "stars": 175,
+          "url": "https://github.com/Aslam97/react-confirm-dialog",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

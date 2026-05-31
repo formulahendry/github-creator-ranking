@@ -1,0 +1,62 @@
+{
+  "login": "MrXujiang",
+  "name": "徐小夕",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/28833634?v=4",
+  "htmlUrl": "https://github.com/MrXujiang",
+  "location": "chongqing",
+  "countryCode": "CN",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3230,
+      "repoCountPrimary": 8,
+      "starsContains": 3230,
+      "repoCountContains": 8,
+      "globalRank": 834,
+      "countryRank": 95,
+      "topRepos": [
+        {
+          "name": "next-admin",
+          "fullName": "MrXujiang/next-admin",
+          "stars": 795,
+          "url": "https://github.com/MrXujiang/next-admin",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "v6.dooring.public",
+          "fullName": "MrXujiang/v6.dooring.public",
+          "stars": 715,
+          "url": "https://github.com/MrXujiang/v6.dooring.public",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "pc-Dooring",
+          "fullName": "MrXujiang/pc-Dooring",
+          "stars": 506,
+          "url": "https://github.com/MrXujiang/pc-Dooring",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "xijs",
+          "fullName": "MrXujiang/xijs",
+          "stars": 355,
+          "url": "https://github.com/MrXujiang/xijs",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Nocode-Wep",
+          "fullName": "MrXujiang/Nocode-Wep",
+          "stars": 277,
+          "url": "https://github.com/MrXujiang/Nocode-Wep",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

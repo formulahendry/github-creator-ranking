@@ -1,0 +1,41 @@
+{
+  "login": "cnrad",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/83192247?v=4",
+  "htmlUrl": "https://github.com/cnrad",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1765,
+      "repoCountPrimary": 2,
+      "starsContains": 1765,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "keyboard-signature",
+          "fullName": "cnrad/keyboard-signature",
+          "stars": 902,
+          "url": "https://github.com/cnrad/keyboard-signature",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "lanyard-profile-readme",
+          "fullName": "cnrad/lanyard-profile-readme",
+          "stars": 863,
+          "url": "https://github.com/cnrad/lanyard-profile-readme",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

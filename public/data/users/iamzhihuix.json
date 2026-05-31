@@ -1,0 +1,41 @@
+{
+  "login": "iamzhihuix",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/188819461?v=4",
+  "htmlUrl": "https://github.com/iamzhihuix",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2239,
+      "repoCountPrimary": 2,
+      "starsContains": 2239,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "skills-manage",
+          "fullName": "iamzhihuix/skills-manage",
+          "stars": 1944,
+          "url": "https://github.com/iamzhihuix/skills-manage",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "happy-claude-skills",
+          "fullName": "iamzhihuix/happy-claude-skills",
+          "stars": 295,
+          "url": "https://github.com/iamzhihuix/happy-claude-skills",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

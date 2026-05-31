@@ -1,0 +1,41 @@
+{
+  "login": "HugoRCD",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/71938701?v=4",
+  "htmlUrl": "https://github.com/HugoRCD",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1801,
+      "repoCountPrimary": 2,
+      "starsContains": 1801,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "evlog",
+          "fullName": "HugoRCD/evlog",
+          "stars": 1382,
+          "url": "https://github.com/HugoRCD/evlog",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "shelve",
+          "fullName": "HugoRCD/shelve",
+          "stars": 419,
+          "url": "https://github.com/HugoRCD/shelve",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

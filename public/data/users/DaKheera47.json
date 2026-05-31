@@ -1,0 +1,34 @@
+{
+  "login": "DaKheera47",
+  "name": "Shaheer Sarfaraz",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/53654735?v=4",
+  "htmlUrl": "https://github.com/DaKheera47",
+  "location": "Blackpool, UK",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3282,
+      "repoCountPrimary": 1,
+      "starsContains": 3282,
+      "repoCountContains": 1,
+      "globalRank": 823,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "job-ops",
+          "fullName": "DaKheera47/job-ops",
+          "stars": 3282,
+          "url": "https://github.com/DaKheera47/job-ops",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

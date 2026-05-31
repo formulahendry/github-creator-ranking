@@ -1,0 +1,41 @@
+{
+  "login": "biggora",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/921170?v=4",
+  "htmlUrl": "https://github.com/biggora",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 371,
+      "repoCountPrimary": 2,
+      "starsContains": 371,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "device-uuid",
+          "fullName": "biggora/device-uuid",
+          "stars": 202,
+          "url": "https://github.com/biggora/device-uuid",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "bs-typeahead",
+          "fullName": "biggora/bs-typeahead",
+          "stars": 169,
+          "url": "https://github.com/biggora/bs-typeahead",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

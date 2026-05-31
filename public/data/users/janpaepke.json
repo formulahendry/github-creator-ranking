@@ -1,0 +1,34 @@
+{
+  "login": "janpaepke",
+  "name": "Jan Paepke",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3076177?v=4",
+  "htmlUrl": "https://github.com/janpaepke",
+  "location": "Vienna, Austria",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 14952,
+      "repoCountPrimary": 1,
+      "starsContains": 14952,
+      "repoCountContains": 1,
+      "globalRank": 128,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ScrollMagic",
+          "fullName": "janpaepke/ScrollMagic",
+          "stars": 14952,
+          "url": "https://github.com/janpaepke/ScrollMagic",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "thetarnav",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/24491503?v=4",
+  "htmlUrl": "https://github.com/thetarnav",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 786,
+      "repoCountPrimary": 2,
+      "starsContains": 786,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "solid-devtools",
+          "fullName": "thetarnav/solid-devtools",
+          "stars": 654,
+          "url": "https://github.com/thetarnav/solid-devtools",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "glitched-writer",
+          "fullName": "thetarnav/glitched-writer",
+          "stars": 132,
+          "url": "https://github.com/thetarnav/glitched-writer",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

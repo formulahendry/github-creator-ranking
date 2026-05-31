@@ -1,0 +1,34 @@
+{
+  "login": "reck1ess",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/20263286?v=4",
+  "htmlUrl": "https://github.com/reck1ess",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 827,
+      "repoCountPrimary": 1,
+      "starsContains": 827,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "next-realworld-example-app",
+          "fullName": "reck1ess/next-realworld-example-app",
+          "stars": 827,
+          "url": "https://github.com/reck1ess/next-realworld-example-app",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

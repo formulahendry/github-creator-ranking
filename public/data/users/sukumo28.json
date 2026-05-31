@@ -1,0 +1,34 @@
+{
+  "login": "sukumo28",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/59384202?v=4",
+  "htmlUrl": "https://github.com/sukumo28",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 187,
+      "repoCountPrimary": 1,
+      "starsContains": 187,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vscode-audio-preview",
+          "fullName": "sukumo28/vscode-audio-preview",
+          "stars": 187,
+          "url": "https://github.com/sukumo28/vscode-audio-preview",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

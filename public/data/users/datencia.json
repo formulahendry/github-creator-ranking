@@ -1,0 +1,34 @@
+{
+  "login": "datencia",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/18591213?v=4",
+  "htmlUrl": "https://github.com/datencia",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 200,
+      "repoCountPrimary": 1,
+      "starsContains": 200,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "d3js-angular-examples",
+          "fullName": "datencia/d3js-angular-examples",
+          "stars": 200,
+          "url": "https://github.com/datencia/d3js-angular-examples",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

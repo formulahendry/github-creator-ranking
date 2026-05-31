@@ -1,0 +1,48 @@
+{
+  "login": "satyawikananda",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/33148052?v=4",
+  "htmlUrl": "https://github.com/satyawikananda",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 530,
+      "repoCountPrimary": 3,
+      "starsContains": 530,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "berita-indo-api",
+          "fullName": "satyawikananda/berita-indo-api",
+          "stars": 258,
+          "url": "https://github.com/satyawikananda/berita-indo-api",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "awesome-loker-it-indonesia",
+          "fullName": "satyawikananda/awesome-loker-it-indonesia",
+          "stars": 159,
+          "url": "https://github.com/satyawikananda/awesome-loker-it-indonesia",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "rs-bed-covid-indo-api",
+          "fullName": "satyawikananda/rs-bed-covid-indo-api",
+          "stars": 113,
+          "url": "https://github.com/satyawikananda/rs-bed-covid-indo-api",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

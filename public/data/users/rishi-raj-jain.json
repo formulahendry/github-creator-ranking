@@ -1,0 +1,41 @@
+{
+  "login": "rishi-raj-jain",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/46300090?v=4",
+  "htmlUrl": "https://github.com/rishi-raj-jain",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 403,
+      "repoCountPrimary": 2,
+      "starsContains": 403,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "astro-font",
+          "fullName": "rishi-raj-jain/astro-font",
+          "stars": 202,
+          "url": "https://github.com/rishi-raj-jain/astro-font",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "itsmy.fyi",
+          "fullName": "rishi-raj-jain/itsmy.fyi",
+          "stars": 201,
+          "url": "https://github.com/rishi-raj-jain/itsmy.fyi",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

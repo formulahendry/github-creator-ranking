@@ -1,0 +1,34 @@
+{
+  "login": "frinyvonnick",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/13099512?v=4",
+  "htmlUrl": "https://github.com/frinyvonnick",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 878,
+      "repoCountPrimary": 1,
+      "starsContains": 878,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "node-html-to-image",
+          "fullName": "frinyvonnick/node-html-to-image",
+          "stars": 878,
+          "url": "https://github.com/frinyvonnick/node-html-to-image",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

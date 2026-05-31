@@ -1,0 +1,34 @@
+{
+  "login": "QingRex",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/147781426?v=4",
+  "htmlUrl": "https://github.com/QingRex",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 746,
+      "repoCountPrimary": 1,
+      "starsContains": 746,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "LoonKissSurge",
+          "fullName": "QingRex/LoonKissSurge",
+          "stars": 746,
+          "url": "https://github.com/QingRex/LoonKissSurge",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

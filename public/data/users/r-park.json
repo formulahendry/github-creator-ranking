@@ -1,0 +1,41 @@
+{
+  "login": "r-park",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6252638?v=4",
+  "htmlUrl": "https://github.com/r-park",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 926,
+      "repoCountPrimary": 2,
+      "starsContains": 926,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "todo-angular-firebase",
+          "fullName": "r-park/todo-angular-firebase",
+          "stars": 489,
+          "url": "https://github.com/r-park/todo-angular-firebase",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "soundcloud-ngrx",
+          "fullName": "r-park/soundcloud-ngrx",
+          "stars": 437,
+          "url": "https://github.com/r-park/soundcloud-ngrx",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

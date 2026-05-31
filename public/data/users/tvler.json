@@ -1,0 +1,41 @@
+{
+  "login": "tvler",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/4934193?v=4",
+  "htmlUrl": "https://github.com/tvler",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 761,
+      "repoCountPrimary": 2,
+      "starsContains": 761,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "streetpass",
+          "fullName": "tvler/streetpass",
+          "stars": 454,
+          "url": "https://github.com/tvler/streetpass",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "experimental-react-like-framework",
+          "fullName": "tvler/experimental-react-like-framework",
+          "stars": 307,
+          "url": "https://github.com/tvler/experimental-react-like-framework",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

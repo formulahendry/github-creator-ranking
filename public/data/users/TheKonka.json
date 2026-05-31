@@ -1,0 +1,34 @@
+{
+  "login": "TheKonka",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/22173084?v=4",
+  "htmlUrl": "https://github.com/TheKonka",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 369,
+      "repoCountPrimary": 1,
+      "starsContains": 369,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "instagram-download-browser-extension",
+          "fullName": "TheKonka/instagram-download-browser-extension",
+          "stars": 369,
+          "url": "https://github.com/TheKonka/instagram-download-browser-extension",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

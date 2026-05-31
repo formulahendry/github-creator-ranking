@@ -1,0 +1,41 @@
+{
+  "login": "PiotrMachowski",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6118709?v=4",
+  "htmlUrl": "https://github.com/PiotrMachowski",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1992,
+      "repoCountPrimary": 2,
+      "starsContains": 1992,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "lovelace-xiaomi-vacuum-map-card",
+          "fullName": "PiotrMachowski/lovelace-xiaomi-vacuum-map-card",
+          "stars": 1877,
+          "url": "https://github.com/PiotrMachowski/lovelace-xiaomi-vacuum-map-card",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Home-Assistant-Lovelace-Local-Conditional-card",
+          "fullName": "PiotrMachowski/Home-Assistant-Lovelace-Local-Conditional-card",
+          "stars": 115,
+          "url": "https://github.com/PiotrMachowski/Home-Assistant-Lovelace-Local-Conditional-card",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

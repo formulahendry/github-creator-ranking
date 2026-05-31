@@ -1,0 +1,41 @@
+{
+  "login": "laobubu",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1373914?v=4",
+  "htmlUrl": "https://github.com/laobubu",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2047,
+      "repoCountPrimary": 2,
+      "starsContains": 2047,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "HyperMD",
+          "fullName": "laobubu/HyperMD",
+          "stars": 1585,
+          "url": "https://github.com/laobubu/HyperMD",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "MarkdownIME",
+          "fullName": "laobubu/MarkdownIME",
+          "stars": 462,
+          "url": "https://github.com/laobubu/MarkdownIME",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

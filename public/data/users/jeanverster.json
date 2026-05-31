@@ -1,0 +1,41 @@
+{
+  "login": "jeanverster",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/17738943?v=4",
+  "htmlUrl": "https://github.com/jeanverster",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 696,
+      "repoCountPrimary": 2,
+      "starsContains": 696,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "chakra-ui-steps",
+          "fullName": "jeanverster/chakra-ui-steps",
+          "stars": 385,
+          "url": "https://github.com/jeanverster/chakra-ui-steps",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-native-styled-toast",
+          "fullName": "jeanverster/react-native-styled-toast",
+          "stars": 311,
+          "url": "https://github.com/jeanverster/react-native-styled-toast",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

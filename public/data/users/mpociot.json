@@ -1,0 +1,41 @@
+{
+  "login": "mpociot",
+  "name": "Marcel Pociot",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/804684?v=4",
+  "htmlUrl": "https://github.com/mpociot",
+  "location": "Germany",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 5103,
+      "repoCountPrimary": 2,
+      "starsContains": 5103,
+      "repoCountContains": 2,
+      "globalRank": 491,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "chatgpt-vscode",
+          "fullName": "mpociot/chatgpt-vscode",
+          "stars": 4943,
+          "url": "https://github.com/mpociot/chatgpt-vscode",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "claude-code-slack-bot",
+          "fullName": "mpociot/claude-code-slack-bot",
+          "stars": 160,
+          "url": "https://github.com/mpociot/claude-code-slack-bot",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

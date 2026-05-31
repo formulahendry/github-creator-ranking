@@ -1,0 +1,34 @@
+{
+  "login": "suxin2017",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/28481035?v=4",
+  "htmlUrl": "https://github.com/suxin2017",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 488,
+      "repoCountPrimary": 1,
+      "starsContains": 488,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "lynx-proxy",
+          "fullName": "suxin2017/lynx-proxy",
+          "stars": 488,
+          "url": "https://github.com/suxin2017/lynx-proxy",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

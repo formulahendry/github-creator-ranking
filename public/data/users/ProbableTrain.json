@@ -1,0 +1,34 @@
+{
+  "login": "ProbableTrain",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/33726340?v=4",
+  "htmlUrl": "https://github.com/ProbableTrain",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1393,
+      "repoCountPrimary": 1,
+      "starsContains": 1393,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "MapGenerator",
+          "fullName": "ProbableTrain/MapGenerator",
+          "stars": 1393,
+          "url": "https://github.com/ProbableTrain/MapGenerator",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

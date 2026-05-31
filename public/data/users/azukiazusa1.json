@@ -1,0 +1,34 @@
+{
+  "login": "azukiazusa1",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/59350345?v=4",
+  "htmlUrl": "https://github.com/azukiazusa1",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 176,
+      "repoCountPrimary": 1,
+      "starsContains": 176,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "sapper-blog-app",
+          "fullName": "azukiazusa1/sapper-blog-app",
+          "stars": 176,
+          "url": "https://github.com/azukiazusa1/sapper-blog-app",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

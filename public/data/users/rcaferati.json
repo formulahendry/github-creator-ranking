@@ -1,0 +1,48 @@
+{
+  "login": "rcaferati",
+  "name": "Rafael Caferati",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/8358797?v=4",
+  "htmlUrl": "https://github.com/rcaferati",
+  "location": "Brazil",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 5588,
+      "repoCountPrimary": 3,
+      "starsContains": 5588,
+      "repoCountContains": 3,
+      "globalRank": 436,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-awesome-slider",
+          "fullName": "rcaferati/react-awesome-slider",
+          "stars": 2969,
+          "url": "https://github.com/rcaferati/react-awesome-slider",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-awesome-button",
+          "fullName": "rcaferati/react-awesome-button",
+          "stars": 1344,
+          "url": "https://github.com/rcaferati/react-awesome-button",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-native-awesome-button",
+          "fullName": "rcaferati/react-native-awesome-button",
+          "stars": 1275,
+          "url": "https://github.com/rcaferati/react-native-awesome-button",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

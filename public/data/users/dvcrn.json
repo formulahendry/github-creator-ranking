@@ -1,0 +1,41 @@
+{
+  "login": "dvcrn",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/688326?v=4",
+  "htmlUrl": "https://github.com/dvcrn",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 394,
+      "repoCountPrimary": 2,
+      "starsContains": 394,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "obsidian-filename-heading-sync",
+          "fullName": "dvcrn/obsidian-filename-heading-sync",
+          "stars": 205,
+          "url": "https://github.com/dvcrn/obsidian-filename-heading-sync",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "mcp-server-siri-shortcuts",
+          "fullName": "dvcrn/mcp-server-siri-shortcuts",
+          "stars": 189,
+          "url": "https://github.com/dvcrn/mcp-server-siri-shortcuts",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "login": "bpierre",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/36158?v=4",
+  "htmlUrl": "https://github.com/bpierre",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1338,
+      "repoCountPrimary": 4,
+      "starsContains": 1338,
+      "repoCountContains": 4,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "use-nft",
+          "fullName": "bpierre/use-nft",
+          "stars": 472,
+          "url": "https://github.com/bpierre/use-nft",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "loot-rarity",
+          "fullName": "bpierre/loot-rarity",
+          "stars": 448,
+          "url": "https://github.com/bpierre/loot-rarity",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "dnum",
+          "fullName": "bpierre/dnum",
+          "stars": 307,
+          "url": "https://github.com/bpierre/dnum",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "blo",
+          "fullName": "bpierre/blo",
+          "stars": 111,
+          "url": "https://github.com/bpierre/blo",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "login": "FallenMax",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2012170?v=4",
+  "htmlUrl": "https://github.com/FallenMax",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 626,
+      "repoCountPrimary": 3,
+      "starsContains": 626,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "a18n",
+          "fullName": "FallenMax/a18n",
+          "stars": 266,
+          "url": "https://github.com/FallenMax/a18n",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "smart-toc",
+          "fullName": "FallenMax/smart-toc",
+          "stars": 250,
+          "url": "https://github.com/FallenMax/smart-toc",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "1paper",
+          "fullName": "FallenMax/1paper",
+          "stars": 110,
+          "url": "https://github.com/FallenMax/1paper",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "jeremybarbet",
+  "name": "Jérémy Barbet",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/937328?v=4",
+  "htmlUrl": "https://github.com/jeremybarbet",
+  "location": "Reykjavík, Iceland",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3278,
+      "repoCountPrimary": 2,
+      "starsContains": 3278,
+      "repoCountContains": 2,
+      "globalRank": 825,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-native-modalize",
+          "fullName": "jeremybarbet/react-native-modalize",
+          "stars": 2884,
+          "url": "https://github.com/jeremybarbet/react-native-modalize",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-native-portalize",
+          "fullName": "jeremybarbet/react-native-portalize",
+          "stars": 394,
+          "url": "https://github.com/jeremybarbet/react-native-portalize",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

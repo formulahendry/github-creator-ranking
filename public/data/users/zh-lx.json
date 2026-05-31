@@ -1,0 +1,55 @@
+{
+  "login": "zh-lx",
+  "name": "zhoulixiang",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/73059627?v=4",
+  "htmlUrl": "https://github.com/zh-lx",
+  "location": "北京",
+  "countryCode": "CN",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 8065,
+      "repoCountPrimary": 4,
+      "starsContains": 8065,
+      "repoCountContains": 4,
+      "globalRank": 283,
+      "countryRank": 35,
+      "topRepos": [
+        {
+          "name": "pinyin-pro",
+          "fullName": "zh-lx/pinyin-pro",
+          "stars": 4629,
+          "url": "https://github.com/zh-lx/pinyin-pro",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "code-inspector",
+          "fullName": "zh-lx/code-inspector",
+          "stars": 2967,
+          "url": "https://github.com/zh-lx/code-inspector",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "codeplayer",
+          "fullName": "zh-lx/codeplayer",
+          "stars": 256,
+          "url": "https://github.com/zh-lx/codeplayer",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vitepress-demo-plugin",
+          "fullName": "zh-lx/vitepress-demo-plugin",
+          "stars": 213,
+          "url": "https://github.com/zh-lx/vitepress-demo-plugin",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

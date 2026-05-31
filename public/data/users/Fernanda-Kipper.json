@@ -1,0 +1,34 @@
+{
+  "login": "Fernanda-Kipper",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/61896274?v=4",
+  "htmlUrl": "https://github.com/Fernanda-Kipper",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 111,
+      "repoCountPrimary": 1,
+      "starsContains": 111,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "video-chat",
+          "fullName": "Fernanda-Kipper/video-chat",
+          "stars": 111,
+          "url": "https://github.com/Fernanda-Kipper/video-chat",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

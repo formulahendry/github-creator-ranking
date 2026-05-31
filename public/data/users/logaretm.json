@@ -1,0 +1,41 @@
+{
+  "login": "logaretm",
+  "name": "Abdelrahman Awad",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6261322?v=4",
+  "htmlUrl": "https://github.com/logaretm",
+  "location": "Toronto, ON Canada",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 12074,
+      "repoCountPrimary": 2,
+      "starsContains": 12074,
+      "repoCountContains": 2,
+      "globalRank": 170,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vee-validate",
+          "fullName": "logaretm/vee-validate",
+          "stars": 11260,
+          "url": "https://github.com/logaretm/vee-validate",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "villus",
+          "fullName": "logaretm/villus",
+          "stars": 814,
+          "url": "https://github.com/logaretm/villus",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

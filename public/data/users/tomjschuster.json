@@ -1,0 +1,34 @@
+{
+  "login": "tomjschuster",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/19388254?v=4",
+  "htmlUrl": "https://github.com/tomjschuster",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 298,
+      "repoCountPrimary": 1,
+      "starsContains": 298,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "sequelize-ui",
+          "fullName": "tomjschuster/sequelize-ui",
+          "stars": 298,
+          "url": "https://github.com/tomjschuster/sequelize-ui",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

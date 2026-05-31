@@ -1,0 +1,41 @@
+{
+  "login": "AeonLucid",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/4643257?v=4",
+  "htmlUrl": "https://github.com/AeonLucid",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 269,
+      "repoCountPrimary": 2,
+      "starsContains": 269,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "frida-syscall-interceptor",
+          "fullName": "AeonLucid/frida-syscall-interceptor",
+          "stars": 162,
+          "url": "https://github.com/AeonLucid/frida-syscall-interceptor",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "frida-il2cpp",
+          "fullName": "AeonLucid/frida-il2cpp",
+          "stars": 107,
+          "url": "https://github.com/AeonLucid/frida-il2cpp",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

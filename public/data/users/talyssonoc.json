@@ -1,0 +1,34 @@
+{
+  "login": "talyssonoc",
+  "name": "Talysson de Oliveira Cassiano",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/4325587?v=4",
+  "htmlUrl": "https://github.com/talyssonoc",
+  "location": "Brazil",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3354,
+      "repoCountPrimary": 1,
+      "starsContains": 3354,
+      "repoCountContains": 1,
+      "globalRank": 809,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "node-api-boilerplate",
+          "fullName": "talyssonoc/node-api-boilerplate",
+          "stars": 3354,
+          "url": "https://github.com/talyssonoc/node-api-boilerplate",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

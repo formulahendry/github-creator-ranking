@@ -1,0 +1,34 @@
+{
+  "login": "Jerry-Terrasse",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/37892712?v=4",
+  "htmlUrl": "https://github.com/Jerry-Terrasse",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 116,
+      "repoCountPrimary": 1,
+      "starsContains": 116,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vimprove",
+          "fullName": "Jerry-Terrasse/vimprove",
+          "stars": 116,
+          "url": "https://github.com/Jerry-Terrasse/vimprove",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

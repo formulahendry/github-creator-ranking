@@ -1,0 +1,55 @@
+{
+  "login": "rmanguinho",
+  "name": "Rodrigo Manguinho",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/4589851?v=4",
+  "htmlUrl": "https://github.com/rmanguinho",
+  "location": "Rio de Janeiro, Brazil",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 4077,
+      "repoCountPrimary": 4,
+      "starsContains": 4077,
+      "repoCountContains": 4,
+      "globalRank": 650,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "clean-ts-api",
+          "fullName": "rmanguinho/clean-ts-api",
+          "stars": 1912,
+          "url": "https://github.com/rmanguinho/clean-ts-api",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "clean-react",
+          "fullName": "rmanguinho/clean-react",
+          "stars": 1481,
+          "url": "https://github.com/rmanguinho/clean-react",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "advanced-node",
+          "fullName": "rmanguinho/advanced-node",
+          "stars": 447,
+          "url": "https://github.com/rmanguinho/advanced-node",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "clean-ranking-loader",
+          "fullName": "rmanguinho/clean-ranking-loader",
+          "stars": 237,
+          "url": "https://github.com/rmanguinho/clean-ranking-loader",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

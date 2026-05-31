@@ -1,0 +1,34 @@
+{
+  "login": "techniq",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/177476?v=4",
+  "htmlUrl": "https://github.com/techniq",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 262,
+      "repoCountPrimary": 1,
+      "starsContains": 262,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "odata-query",
+          "fullName": "techniq/odata-query",
+          "stars": 262,
+          "url": "https://github.com/techniq/odata-query",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

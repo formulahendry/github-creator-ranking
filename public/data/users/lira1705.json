@@ -1,0 +1,34 @@
+{
+  "login": "lira1705",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/29212329?v=4",
+  "htmlUrl": "https://github.com/lira1705",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 251,
+      "repoCountPrimary": 1,
+      "starsContains": 251,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "mentoria-typescript",
+          "fullName": "lira1705/mentoria-typescript",
+          "stars": 251,
+          "url": "https://github.com/lira1705/mentoria-typescript",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

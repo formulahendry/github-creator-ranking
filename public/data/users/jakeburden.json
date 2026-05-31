@@ -1,0 +1,34 @@
+{
+  "login": "jakeburden",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2081699?v=4",
+  "htmlUrl": "https://github.com/jakeburden",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 296,
+      "repoCountPrimary": 1,
+      "starsContains": 296,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "next-absolute-url",
+          "fullName": "jakeburden/next-absolute-url",
+          "stars": 296,
+          "url": "https://github.com/jakeburden/next-absolute-url",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "7kms",
+  "name": "Liam",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/12625342?v=4",
+  "htmlUrl": "https://github.com/7kms",
+  "location": "Singapore",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 7932,
+      "repoCountPrimary": 1,
+      "starsContains": 7932,
+      "repoCountContains": 1,
+      "globalRank": 287,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-illustration-series",
+          "fullName": "7kms/react-illustration-series",
+          "stars": 7932,
+          "url": "https://github.com/7kms/react-illustration-series",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

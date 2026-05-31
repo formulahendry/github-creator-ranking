@@ -1,0 +1,34 @@
+{
+  "login": "matvp91",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/12699796?v=4",
+  "htmlUrl": "https://github.com/matvp91",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1246,
+      "repoCountPrimary": 1,
+      "starsContains": 1246,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "indigo-player",
+          "fullName": "matvp91/indigo-player",
+          "stars": 1246,
+          "url": "https://github.com/matvp91/indigo-player",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

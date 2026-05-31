@@ -1,0 +1,34 @@
+{
+  "login": "thelastbackspace",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/23155651?v=4",
+  "htmlUrl": "https://github.com/thelastbackspace",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 125,
+      "repoCountPrimary": 1,
+      "starsContains": 125,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "traceperf",
+          "fullName": "thelastbackspace/traceperf",
+          "stars": 125,
+          "url": "https://github.com/thelastbackspace/traceperf",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

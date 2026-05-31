@@ -1,0 +1,41 @@
+{
+  "login": "bernaferrari",
+  "name": "Bernardo Ferrari",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/351125?v=4",
+  "htmlUrl": "https://github.com/bernaferrari",
+  "location": "Curitiba / Paraná / Brasil",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 5923,
+      "repoCountPrimary": 2,
+      "starsContains": 5923,
+      "repoCountContains": 2,
+      "globalRank": 404,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "FigmaToCode",
+          "fullName": "bernaferrari/FigmaToCode",
+          "stars": 4972,
+          "url": "https://github.com/bernaferrari/FigmaToCode",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "GradleKotlinConverter",
+          "fullName": "bernaferrari/GradleKotlinConverter",
+          "stars": 951,
+          "url": "https://github.com/bernaferrari/GradleKotlinConverter",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "login": "CharlesStover",
+  "name": "Charles Stover",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/155327475?v=4",
+  "htmlUrl": "https://github.com/CharlesStover",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3247,
+      "repoCountPrimary": 5,
+      "starsContains": 3247,
+      "repoCountContains": 5,
+      "globalRank": 830,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "reactn",
+          "fullName": "CharlesStover/reactn",
+          "stars": 1871,
+          "url": "https://github.com/CharlesStover/reactn",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "use-react-router",
+          "fullName": "CharlesStover/use-react-router",
+          "stars": 566,
+          "url": "https://github.com/CharlesStover/use-react-router",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "fetch-suspense",
+          "fullName": "CharlesStover/fetch-suspense",
+          "stars": 492,
+          "url": "https://github.com/CharlesStover/fetch-suspense",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "use-clippy",
+          "fullName": "CharlesStover/use-clippy",
+          "stars": 176,
+          "url": "https://github.com/CharlesStover/use-clippy",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "use-mui",
+          "fullName": "CharlesStover/use-mui",
+          "stars": 142,
+          "url": "https://github.com/CharlesStover/use-mui",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

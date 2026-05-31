@@ -1,0 +1,34 @@
+{
+  "login": "Yaswanth-ampolu",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/163663505?v=4",
+  "htmlUrl": "https://github.com/Yaswanth-ampolu",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 125,
+      "repoCountPrimary": 1,
+      "starsContains": 125,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "not-clawd-code",
+          "fullName": "Yaswanth-ampolu/not-clawd-code",
+          "stars": 125,
+          "url": "https://github.com/Yaswanth-ampolu/not-clawd-code",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

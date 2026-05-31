@@ -1,0 +1,34 @@
+{
+  "login": "Lampon",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5117824?v=4",
+  "htmlUrl": "https://github.com/Lampon",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 234,
+      "repoCountPrimary": 1,
+      "starsContains": 234,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "MorphoTV",
+          "fullName": "Lampon/MorphoTV",
+          "stars": 234,
+          "url": "https://github.com/Lampon/MorphoTV",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

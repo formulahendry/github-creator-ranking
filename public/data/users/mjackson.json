@@ -1,0 +1,48 @@
+{
+  "login": "mjackson",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/92839?v=4",
+  "htmlUrl": "https://github.com/mjackson",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1477,
+      "repoCountPrimary": 3,
+      "starsContains": 1477,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "remix-the-web",
+          "fullName": "mjackson/remix-the-web",
+          "stars": 980,
+          "url": "https://github.com/mjackson/remix-the-web",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "multipart-parser",
+          "fullName": "mjackson/multipart-parser",
+          "stars": 349,
+          "url": "https://github.com/mjackson/multipart-parser",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "file-storage",
+          "fullName": "mjackson/file-storage",
+          "stars": 148,
+          "url": "https://github.com/mjackson/file-storage",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

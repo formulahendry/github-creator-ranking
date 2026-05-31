@@ -1,0 +1,34 @@
+{
+  "login": "KL13NT",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/20807178?v=4",
+  "htmlUrl": "https://github.com/KL13NT",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 229,
+      "repoCountPrimary": 1,
+      "starsContains": 229,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "badeel",
+          "fullName": "KL13NT/badeel",
+          "stars": 229,
+          "url": "https://github.com/KL13NT/badeel",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

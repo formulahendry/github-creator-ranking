@@ -1,0 +1,41 @@
+{
+  "login": "bryaneaton13",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/10492768?v=4",
+  "htmlUrl": "https://github.com/bryaneaton13",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 610,
+      "repoCountPrimary": 2,
+      "starsContains": 610,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-pull-to-refresh",
+          "fullName": "bryaneaton13/react-pull-to-refresh",
+          "stars": 483,
+          "url": "https://github.com/bryaneaton13/react-pull-to-refresh",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "shadcn-next-link-pagination",
+          "fullName": "bryaneaton13/shadcn-next-link-pagination",
+          "stars": 127,
+          "url": "https://github.com/bryaneaton13/shadcn-next-link-pagination",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

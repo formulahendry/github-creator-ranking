@@ -1,0 +1,41 @@
+{
+  "login": "koca",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/342666?v=4",
+  "htmlUrl": "https://github.com/koca",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 908,
+      "repoCountPrimary": 2,
+      "starsContains": 908,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vue-prism-editor",
+          "fullName": "koca/vue-prism-editor",
+          "stars": 756,
+          "url": "https://github.com/koca/vue-prism-editor",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vue-use-gesture",
+          "fullName": "koca/vue-use-gesture",
+          "stars": 152,
+          "url": "https://github.com/koca/vue-use-gesture",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

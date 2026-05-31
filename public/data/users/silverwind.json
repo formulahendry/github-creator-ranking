@@ -1,0 +1,48 @@
+{
+  "login": "silverwind",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/115237?v=4",
+  "htmlUrl": "https://github.com/silverwind",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 378,
+      "repoCountPrimary": 3,
+      "starsContains": 378,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "uppie",
+          "fullName": "silverwind/uppie",
+          "stars": 161,
+          "url": "https://github.com/silverwind/uppie",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "cidr-tools",
+          "fullName": "silverwind/cidr-tools",
+          "stars": 111,
+          "url": "https://github.com/silverwind/cidr-tools",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "updates",
+          "fullName": "silverwind/updates",
+          "stars": 106,
+          "url": "https://github.com/silverwind/updates",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

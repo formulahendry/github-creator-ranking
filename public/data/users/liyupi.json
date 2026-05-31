@@ -1,0 +1,62 @@
+{
+  "login": "liyupi",
+  "name": "程序员鱼皮",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/26037703?v=4",
+  "htmlUrl": "https://github.com/liyupi",
+  "location": "China Shanghai",
+  "countryCode": "CN",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 23786,
+      "repoCountPrimary": 10,
+      "starsContains": 23786,
+      "repoCountContains": 10,
+      "globalRank": 68,
+      "countryRank": 8,
+      "topRepos": [
+        {
+          "name": "codefather",
+          "fullName": "liyupi/codefather",
+          "stars": 7524,
+          "url": "https://github.com/liyupi/codefather",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "mianshiya",
+          "fullName": "liyupi/mianshiya",
+          "stars": 5498,
+          "url": "https://github.com/liyupi/mianshiya",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "sql-mother",
+          "fullName": "liyupi/sql-mother",
+          "stars": 4176,
+          "url": "https://github.com/liyupi/sql-mother",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "yuindex",
+          "fullName": "liyupi/yuindex",
+          "stars": 2125,
+          "url": "https://github.com/liyupi/yuindex",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "yulegeyu",
+          "fullName": "liyupi/yulegeyu",
+          "stars": 1823,
+          "url": "https://github.com/liyupi/yulegeyu",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

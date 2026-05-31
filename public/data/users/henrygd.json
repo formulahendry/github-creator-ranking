@@ -1,0 +1,41 @@
+{
+  "login": "henrygd",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/8519632?v=4",
+  "htmlUrl": "https://github.com/henrygd",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 399,
+      "repoCountPrimary": 2,
+      "starsContains": 399,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ncaa-api",
+          "fullName": "henrygd/ncaa-api",
+          "stars": 257,
+          "url": "https://github.com/henrygd/ncaa-api",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "queue",
+          "fullName": "henrygd/queue",
+          "stars": 142,
+          "url": "https://github.com/henrygd/queue",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

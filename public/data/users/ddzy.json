@@ -1,0 +1,34 @@
+{
+  "login": "ddzy",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/33921398?v=4",
+  "htmlUrl": "https://github.com/ddzy",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 104,
+      "repoCountPrimary": 1,
+      "starsContains": 104,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ts-utility-plugins",
+          "fullName": "ddzy/ts-utility-plugins",
+          "stars": 104,
+          "url": "https://github.com/ddzy/ts-utility-plugins",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

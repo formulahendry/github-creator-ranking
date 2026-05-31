@@ -1,0 +1,41 @@
+{
+  "login": "ArnaudBarre",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/14235743?v=4",
+  "htmlUrl": "https://github.com/ArnaudBarre",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 480,
+      "repoCountPrimary": 2,
+      "starsContains": 480,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "eslint-plugin-react-refresh",
+          "fullName": "ArnaudBarre/eslint-plugin-react-refresh",
+          "stars": 337,
+          "url": "https://github.com/ArnaudBarre/eslint-plugin-react-refresh",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "tsl",
+          "fullName": "ArnaudBarre/tsl",
+          "stars": 143,
+          "url": "https://github.com/ArnaudBarre/tsl",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

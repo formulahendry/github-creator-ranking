@@ -1,0 +1,41 @@
+{
+  "login": "Eronred",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/43992376?v=4",
+  "htmlUrl": "https://github.com/Eronred",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 671,
+      "repoCountPrimary": 2,
+      "starsContains": 671,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "handy-arrows",
+          "fullName": "Eronred/handy-arrows",
+          "stars": 377,
+          "url": "https://github.com/Eronred/handy-arrows",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "expo-agent-spinners",
+          "fullName": "Eronred/expo-agent-spinners",
+          "stars": 294,
+          "url": "https://github.com/Eronred/expo-agent-spinners",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

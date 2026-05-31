@@ -1,0 +1,34 @@
+{
+  "login": "thomaschampagne",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/151973?v=4",
+  "htmlUrl": "https://github.com/thomaschampagne",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1438,
+      "repoCountPrimary": 1,
+      "starsContains": 1438,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "elevate",
+          "fullName": "thomaschampagne/elevate",
+          "stars": 1438,
+          "url": "https://github.com/thomaschampagne/elevate",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

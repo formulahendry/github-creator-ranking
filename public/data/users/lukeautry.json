@@ -1,0 +1,41 @@
+{
+  "login": "lukeautry",
+  "name": "Luke",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/8770560?v=4",
+  "htmlUrl": "https://github.com/lukeautry",
+  "location": "Raleigh, NC",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 4238,
+      "repoCountPrimary": 2,
+      "starsContains": 4238,
+      "repoCountContains": 2,
+      "globalRank": 609,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "tsoa",
+          "fullName": "lukeautry/tsoa",
+          "stars": 3967,
+          "url": "https://github.com/lukeautry/tsoa",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ts-app",
+          "fullName": "lukeautry/ts-app",
+          "stars": 271,
+          "url": "https://github.com/lukeautry/ts-app",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

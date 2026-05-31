@@ -1,0 +1,55 @@
+{
+  "login": "mike-north",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/558005?v=4",
+  "htmlUrl": "https://github.com/mike-north",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1210,
+      "repoCountPrimary": 4,
+      "starsContains": 1210,
+      "repoCountContains": 4,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "typescript-courses",
+          "fullName": "mike-north/typescript-courses",
+          "stars": 461,
+          "url": "https://github.com/mike-north/typescript-courses",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ember-api-actions",
+          "fullName": "mike-north/ember-api-actions",
+          "stars": 328,
+          "url": "https://github.com/mike-north/ember-api-actions",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "js-ts-monorepos",
+          "fullName": "mike-north/js-ts-monorepos",
+          "stars": 239,
+          "url": "https://github.com/mike-north/js-ts-monorepos",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "awesome-learn-to-code",
+          "fullName": "mike-north/awesome-learn-to-code",
+          "stars": 182,
+          "url": "https://github.com/mike-north/awesome-learn-to-code",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "Enricopv",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7062889?v=4",
+  "htmlUrl": "https://github.com/Enricopv",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 304,
+      "repoCountPrimary": 1,
+      "starsContains": 304,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "turbo-boilerplate",
+          "fullName": "Enricopv/turbo-boilerplate",
+          "stars": 304,
+          "url": "https://github.com/Enricopv/turbo-boilerplate",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "login": "pengx17",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/584378?v=4",
+  "htmlUrl": "https://github.com/pengx17",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1109,
+      "repoCountPrimary": 6,
+      "starsContains": 1109,
+      "repoCountContains": 6,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "logseq-plugin-tabs",
+          "fullName": "pengx17/logseq-plugin-tabs",
+          "stars": 341,
+          "url": "https://github.com/pengx17/logseq-plugin-tabs",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "logseq-plugin-bullet-threading",
+          "fullName": "pengx17/logseq-plugin-bullet-threading",
+          "stars": 187,
+          "url": "https://github.com/pengx17/logseq-plugin-bullet-threading",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "logseq-plugin-heatmap",
+          "fullName": "pengx17/logseq-plugin-heatmap",
+          "stars": 173,
+          "url": "https://github.com/pengx17/logseq-plugin-heatmap",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "logseq-plugin-template-react",
+          "fullName": "pengx17/logseq-plugin-template-react",
+          "stars": 143,
+          "url": "https://github.com/pengx17/logseq-plugin-template-react",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "logseq-plugin-todo-master",
+          "fullName": "pengx17/logseq-plugin-todo-master",
+          "stars": 135,
+          "url": "https://github.com/pengx17/logseq-plugin-todo-master",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

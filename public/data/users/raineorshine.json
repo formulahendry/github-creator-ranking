@@ -1,0 +1,34 @@
+{
+  "login": "raineorshine",
+  "name": "Raine Revere",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/750276?v=4",
+  "htmlUrl": "https://github.com/raineorshine",
+  "location": "Los Angeles, CA",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 10252,
+      "repoCountPrimary": 1,
+      "starsContains": 10252,
+      "repoCountContains": 1,
+      "globalRank": 215,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "npm-check-updates",
+          "fullName": "raineorshine/npm-check-updates",
+          "stars": 10252,
+          "url": "https://github.com/raineorshine/npm-check-updates",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

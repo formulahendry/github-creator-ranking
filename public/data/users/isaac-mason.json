@@ -1,0 +1,55 @@
+{
+  "login": "isaac-mason",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/67411435?v=4",
+  "htmlUrl": "https://github.com/isaac-mason",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1419,
+      "repoCountPrimary": 4,
+      "starsContains": 1419,
+      "repoCountContains": 4,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "recast-navigation-js",
+          "fullName": "isaac-mason/recast-navigation-js",
+          "stars": 418,
+          "url": "https://github.com/isaac-mason/recast-navigation-js",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "crashcat",
+          "fullName": "isaac-mason/crashcat",
+          "stars": 403,
+          "url": "https://github.com/isaac-mason/crashcat",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "sketches",
+          "fullName": "isaac-mason/sketches",
+          "stars": 335,
+          "url": "https://github.com/isaac-mason/sketches",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "navcat",
+          "fullName": "isaac-mason/navcat",
+          "stars": 263,
+          "url": "https://github.com/isaac-mason/navcat",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

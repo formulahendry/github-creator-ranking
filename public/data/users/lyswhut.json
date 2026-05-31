@@ -1,11 +1,11 @@
 {
   "login": "lyswhut",
-  "name": null,
+  "name": "lyswhut",
   "avatarUrl": "https://avatars.githubusercontent.com/u/20365169?v=4",
   "htmlUrl": "https://github.com/lyswhut",
   "location": null,
   "countryCode": null,
-  "generatedAt": "2026-05-31T13:50:40.799Z",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
   "isPartial": true,
   "languages": [
     {
@@ -14,18 +14,32 @@
         "name": "TypeScript",
         "githubQuery": "TypeScript"
       },
-      "starsPrimary": 51305,
-      "repoCountPrimary": 1,
-      "starsContains": 51305,
-      "repoCountContains": 1,
-      "globalRank": 11,
+      "starsPrimary": 69153,
+      "repoCountPrimary": 3,
+      "starsContains": 69153,
+      "repoCountContains": 3,
+      "globalRank": 7,
       "countryRank": null,
       "topRepos": [
         {
           "name": "lx-music-desktop",
           "fullName": "lyswhut/lx-music-desktop",
-          "stars": 51305,
+          "stars": 51306,
           "url": "https://github.com/lyswhut/lx-music-desktop",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "lx-music-mobile",
+          "fullName": "lyswhut/lx-music-mobile",
+          "stars": 17056,
+          "url": "https://github.com/lyswhut/lx-music-mobile",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "lx-music-sync-server",
+          "fullName": "lyswhut/lx-music-sync-server",
+          "stars": 791,
+          "url": "https://github.com/lyswhut/lx-music-sync-server",
           "primaryLanguage": "TypeScript"
         }
       ]

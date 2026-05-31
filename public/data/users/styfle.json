@@ -1,0 +1,62 @@
+{
+  "login": "styfle",
+  "name": "Steven",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/229881?v=4",
+  "htmlUrl": "https://github.com/styfle",
+  "location": "::1",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3990,
+      "repoCountPrimary": 6,
+      "starsContains": 3990,
+      "repoCountContains": 6,
+      "globalRank": 664,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "packagephobia",
+          "fullName": "styfle/packagephobia",
+          "stars": 2296,
+          "url": "https://github.com/styfle/packagephobia",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "cancel-workflow-action",
+          "fullName": "styfle/cancel-workflow-action",
+          "stars": 975,
+          "url": "https://github.com/styfle/cancel-workflow-action",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-server-example-tsx",
+          "fullName": "styfle/react-server-example-tsx",
+          "stars": 278,
+          "url": "https://github.com/styfle/react-server-example-tsx",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "copee",
+          "fullName": "styfle/copee",
+          "stars": 154,
+          "url": "https://github.com/styfle/copee",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vgrok",
+          "fullName": "styfle/vgrok",
+          "stars": 145,
+          "url": "https://github.com/styfle/vgrok",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

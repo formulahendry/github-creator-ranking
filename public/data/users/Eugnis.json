@@ -1,0 +1,34 @@
+{
+  "login": "Eugnis",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2463830?v=4",
+  "htmlUrl": "https://github.com/Eugnis",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 515,
+      "repoCountPrimary": 1,
+      "starsContains": 515,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-native-timeline-flatlist",
+          "fullName": "Eugnis/react-native-timeline-flatlist",
+          "stars": 515,
+          "url": "https://github.com/Eugnis/react-native-timeline-flatlist",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

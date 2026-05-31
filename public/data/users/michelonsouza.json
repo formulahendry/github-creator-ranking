@@ -1,0 +1,34 @@
+{
+  "login": "michelonsouza",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/14030606?v=4",
+  "htmlUrl": "https://github.com/michelonsouza",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 284,
+      "repoCountPrimary": 1,
+      "starsContains": 284,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "encrypt-storage",
+          "fullName": "michelonsouza/encrypt-storage",
+          "stars": 284,
+          "url": "https://github.com/michelonsouza/encrypt-storage",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

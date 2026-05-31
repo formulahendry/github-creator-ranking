@@ -1,0 +1,41 @@
+{
+  "login": "dawsbot",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3408480?v=4",
+  "htmlUrl": "https://github.com/dawsbot",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 536,
+      "repoCountPrimary": 2,
+      "starsContains": 536,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "essential-eth",
+          "fullName": "dawsbot/essential-eth",
+          "stars": 308,
+          "url": "https://github.com/dawsbot/essential-eth",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "drain",
+          "fullName": "dawsbot/drain",
+          "stars": 228,
+          "url": "https://github.com/dawsbot/drain",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "halfnelson",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/551284?v=4",
+  "htmlUrl": "https://github.com/halfnelson",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1817,
+      "repoCountPrimary": 1,
+      "starsContains": 1817,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "svelte-native",
+          "fullName": "halfnelson/svelte-native",
+          "stars": 1817,
+          "url": "https://github.com/halfnelson/svelte-native",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "FL33TW00D",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/45471420?v=4",
+  "htmlUrl": "https://github.com/FL33TW00D",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1899,
+      "repoCountPrimary": 2,
+      "starsContains": 1899,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "whisper-turbo",
+          "fullName": "FL33TW00D/whisper-turbo",
+          "stars": 1795,
+          "url": "https://github.com/FL33TW00D/whisper-turbo",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "laserbeak",
+          "fullName": "FL33TW00D/laserbeak",
+          "stars": 104,
+          "url": "https://github.com/FL33TW00D/laserbeak",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

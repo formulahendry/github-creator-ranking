@@ -1,0 +1,34 @@
+{
+  "login": "Stun3R",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/34125897?v=4",
+  "htmlUrl": "https://github.com/Stun3R",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 158,
+      "repoCountPrimary": 1,
+      "starsContains": 158,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "strapi-sdk-js",
+          "fullName": "Stun3R/strapi-sdk-js",
+          "stars": 158,
+          "url": "https://github.com/Stun3R/strapi-sdk-js",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

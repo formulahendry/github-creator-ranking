@@ -1,0 +1,41 @@
+{
+  "login": "JohannLai",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/10769405?v=4",
+  "htmlUrl": "https://github.com/JohannLai",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 579,
+      "repoCountPrimary": 2,
+      "starsContains": 579,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "openai-function-calling-tools",
+          "fullName": "JohannLai/openai-function-calling-tools",
+          "stars": 308,
+          "url": "https://github.com/JohannLai/openai-function-calling-tools",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "gptcli",
+          "fullName": "JohannLai/gptcli",
+          "stars": 271,
+          "url": "https://github.com/JohannLai/gptcli",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "login": "Illyism",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/304283?v=4",
+  "htmlUrl": "https://github.com/Illyism",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 909,
+      "repoCountPrimary": 3,
+      "starsContains": 909,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "musicplayer.io",
+          "fullName": "Illyism/musicplayer.io",
+          "stars": 442,
+          "url": "https://github.com/Illyism/musicplayer.io",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "gradient-picker",
+          "fullName": "Illyism/gradient-picker",
+          "stars": 348,
+          "url": "https://github.com/Illyism/gradient-picker",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "openai-whisper-api",
+          "fullName": "Illyism/openai-whisper-api",
+          "stars": 119,
+          "url": "https://github.com/Illyism/openai-whisper-api",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

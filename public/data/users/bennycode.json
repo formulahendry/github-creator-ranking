@@ -1,0 +1,41 @@
+{
+  "login": "bennycode",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/469989?v=4",
+  "htmlUrl": "https://github.com/bennycode",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1195,
+      "repoCountPrimary": 2,
+      "starsContains": 1195,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "trading-signals",
+          "fullName": "bennycode/trading-signals",
+          "stars": 945,
+          "url": "https://github.com/bennycode/trading-signals",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "coinbase-pro-node",
+          "fullName": "bennycode/coinbase-pro-node",
+          "stars": 250,
+          "url": "https://github.com/bennycode/coinbase-pro-node",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

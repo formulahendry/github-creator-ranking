@@ -1,0 +1,34 @@
+{
+  "login": "kevinmarrec",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/25272043?v=4",
+  "htmlUrl": "https://github.com/kevinmarrec",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 329,
+      "repoCountPrimary": 1,
+      "starsContains": 329,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "nuxt-pwa-module",
+          "fullName": "kevinmarrec/nuxt-pwa-module",
+          "stars": 329,
+          "url": "https://github.com/kevinmarrec/nuxt-pwa-module",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

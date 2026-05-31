@@ -1,0 +1,48 @@
+{
+  "login": "mirayatech",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/71933266?v=4",
+  "htmlUrl": "https://github.com/mirayatech",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 681,
+      "repoCountPrimary": 3,
+      "starsContains": 681,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "excalidraw-clone",
+          "fullName": "mirayatech/excalidraw-clone",
+          "stars": 453,
+          "url": "https://github.com/mirayatech/excalidraw-clone",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "anime-scene-gallery",
+          "fullName": "mirayatech/anime-scene-gallery",
+          "stars": 123,
+          "url": "https://github.com/mirayatech/anime-scene-gallery",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "mochi-motion",
+          "fullName": "mirayatech/mochi-motion",
+          "stars": 105,
+          "url": "https://github.com/mirayatech/mochi-motion",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "herasoftlabs",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/168455162?v=4",
+  "htmlUrl": "https://github.com/herasoftlabs",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 618,
+      "repoCountPrimary": 2,
+      "starsContains": 618,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ChainLab",
+          "fullName": "herasoftlabs/ChainLab",
+          "stars": 408,
+          "url": "https://github.com/herasoftlabs/ChainLab",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Dappify",
+          "fullName": "herasoftlabs/Dappify",
+          "stars": 210,
+          "url": "https://github.com/herasoftlabs/Dappify",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

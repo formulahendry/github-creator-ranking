@@ -1,0 +1,41 @@
+{
+  "login": "whale4113",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/124325415?v=4",
+  "htmlUrl": "https://github.com/whale4113",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1287,
+      "repoCountPrimary": 2,
+      "starsContains": 1287,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "cloud-document-converter",
+          "fullName": "whale4113/cloud-document-converter",
+          "stars": 1145,
+          "url": "https://github.com/whale4113/cloud-document-converter",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "mooc-helper",
+          "fullName": "whale4113/mooc-helper",
+          "stars": 142,
+          "url": "https://github.com/whale4113/mooc-helper",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

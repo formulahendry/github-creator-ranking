@@ -1,0 +1,48 @@
+{
+  "login": "YousefED",
+  "name": "Yousef",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/368857?v=4",
+  "htmlUrl": "https://github.com/YousefED",
+  "location": "Barcelona, Spain / The Netherlands",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 5908,
+      "repoCountPrimary": 3,
+      "starsContains": 5908,
+      "repoCountContains": 3,
+      "globalRank": 405,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "typescript-json-schema",
+          "fullName": "YousefED/typescript-json-schema",
+          "stars": 3261,
+          "url": "https://github.com/YousefED/typescript-json-schema",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "SyncedStore",
+          "fullName": "YousefED/SyncedStore",
+          "stars": 1864,
+          "url": "https://github.com/YousefED/SyncedStore",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Matrix-CRDT",
+          "fullName": "YousefED/Matrix-CRDT",
+          "stars": 783,
+          "url": "https://github.com/YousefED/Matrix-CRDT",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

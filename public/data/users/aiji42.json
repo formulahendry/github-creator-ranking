@@ -1,0 +1,41 @@
+{
+  "login": "aiji42",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6711766?v=4",
+  "htmlUrl": "https://github.com/aiji42",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1025,
+      "repoCountPrimary": 2,
+      "starsContains": 1025,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "zod-i18n",
+          "fullName": "aiji42/zod-i18n",
+          "stars": 826,
+          "url": "https://github.com/aiji42/zod-i18n",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "prisma-data-proxy-alt",
+          "fullName": "aiji42/prisma-data-proxy-alt",
+          "stars": 199,
+          "url": "https://github.com/aiji42/prisma-data-proxy-alt",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

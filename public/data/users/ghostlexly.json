@@ -1,0 +1,34 @@
+{
+  "login": "ghostlexly",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/62400734?v=4",
+  "htmlUrl": "https://github.com/ghostlexly",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 217,
+      "repoCountPrimary": 1,
+      "starsContains": 217,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ultimate-expressjs-starter-kit",
+          "fullName": "ghostlexly/ultimate-expressjs-starter-kit",
+          "stars": 217,
+          "url": "https://github.com/ghostlexly/ultimate-expressjs-starter-kit",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "login": "preetsuthar17",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/75468116?v=4",
+  "htmlUrl": "https://github.com/preetsuthar17",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1269,
+      "repoCountPrimary": 3,
+      "starsContains": 1269,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "HextaUI",
+          "fullName": "preetsuthar17/HextaUI",
+          "stars": 623,
+          "url": "https://github.com/preetsuthar17/HextaUI",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ikiform",
+          "fullName": "preetsuthar17/ikiform",
+          "stars": 347,
+          "url": "https://github.com/preetsuthar17/ikiform",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "loftlyy",
+          "fullName": "preetsuthar17/loftlyy",
+          "stars": 299,
+          "url": "https://github.com/preetsuthar17/loftlyy",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

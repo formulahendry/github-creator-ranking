@@ -1,0 +1,34 @@
+{
+  "login": "dupontgu",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2752047?v=4",
+  "htmlUrl": "https://github.com/dupontgu",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 113,
+      "repoCountPrimary": 1,
+      "starsContains": 113,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "now-playing-bumper-sticker",
+          "fullName": "dupontgu/now-playing-bumper-sticker",
+          "stars": 113,
+          "url": "https://github.com/dupontgu/now-playing-bumper-sticker",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

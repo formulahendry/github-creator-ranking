@@ -1,0 +1,41 @@
+{
+  "login": "KillerCodeMonkey",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2264672?v=4",
+  "htmlUrl": "https://github.com/KillerCodeMonkey",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2080,
+      "repoCountPrimary": 2,
+      "starsContains": 2080,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ngx-quill",
+          "fullName": "KillerCodeMonkey/ngx-quill",
+          "stars": 1850,
+          "url": "https://github.com/KillerCodeMonkey/ngx-quill",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ngx-quill-example",
+          "fullName": "KillerCodeMonkey/ngx-quill-example",
+          "stars": 230,
+          "url": "https://github.com/KillerCodeMonkey/ngx-quill-example",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

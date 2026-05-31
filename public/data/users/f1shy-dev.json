@@ -1,0 +1,34 @@
+{
+  "login": "f1shy-dev",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/56125930?v=4",
+  "htmlUrl": "https://github.com/f1shy-dev",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 197,
+      "repoCountPrimary": 1,
+      "starsContains": 197,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "distracted",
+          "fullName": "f1shy-dev/distracted",
+          "stars": 197,
+          "url": "https://github.com/f1shy-dev/distracted",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

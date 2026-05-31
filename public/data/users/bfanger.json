@@ -1,0 +1,41 @@
+{
+  "login": "bfanger",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/207248?v=4",
+  "htmlUrl": "https://github.com/bfanger",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 600,
+      "repoCountPrimary": 2,
+      "starsContains": 600,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "pixi-inspector",
+          "fullName": "bfanger/pixi-inspector",
+          "stars": 416,
+          "url": "https://github.com/bfanger/pixi-inspector",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "svelte-preprocess-react",
+          "fullName": "bfanger/svelte-preprocess-react",
+          "stars": 184,
+          "url": "https://github.com/bfanger/svelte-preprocess-react",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

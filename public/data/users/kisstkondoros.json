@@ -1,0 +1,41 @@
+{
+  "login": "kisstkondoros",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/14231157?v=4",
+  "htmlUrl": "https://github.com/kisstkondoros",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 608,
+      "repoCountPrimary": 2,
+      "starsContains": 608,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "codemetrics",
+          "fullName": "kisstkondoros/codemetrics",
+          "stars": 426,
+          "url": "https://github.com/kisstkondoros/codemetrics",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "gutter-preview",
+          "fullName": "kisstkondoros/gutter-preview",
+          "stars": 182,
+          "url": "https://github.com/kisstkondoros/gutter-preview",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "login": "YunYouJun",
+  "name": "云游君",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/25154432?v=4",
+  "htmlUrl": "https://github.com/YunYouJun",
+  "location": "Guangzhou, China",
+  "countryCode": "CN",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 12431,
+      "repoCountPrimary": 10,
+      "starsContains": 12431,
+      "repoCountContains": 10,
+      "globalRank": 165,
+      "countryRank": 18,
+      "topRepos": [
+        {
+          "name": "cook",
+          "fullName": "YunYouJun/cook",
+          "stars": 6407,
+          "url": "https://github.com/YunYouJun/cook",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "air-conditioner",
+          "fullName": "YunYouJun/air-conditioner",
+          "stars": 3467,
+          "url": "https://github.com/YunYouJun/air-conditioner",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "valaxy",
+          "fullName": "YunYouJun/valaxy",
+          "stars": 1105,
+          "url": "https://github.com/YunYouJun/valaxy",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "advjs",
+          "fullName": "YunYouJun/advjs",
+          "stars": 321,
+          "url": "https://github.com/YunYouJun/advjs",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "mirai-ts",
+          "fullName": "YunYouJun/mirai-ts",
+          "stars": 254,
+          "url": "https://github.com/YunYouJun/mirai-ts",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "brillout",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1005638?v=4",
+  "htmlUrl": "https://github.com/brillout",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 359,
+      "repoCountPrimary": 2,
+      "starsContains": 359,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-streaming",
+          "fullName": "brillout/react-streaming",
+          "stars": 237,
+          "url": "https://github.com/brillout/react-streaming",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vite-plugin-mdx",
+          "fullName": "brillout/vite-plugin-mdx",
+          "stars": 122,
+          "url": "https://github.com/brillout/vite-plugin-mdx",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

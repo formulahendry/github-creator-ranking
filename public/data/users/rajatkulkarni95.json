@@ -1,0 +1,48 @@
+{
+  "login": "rajatkulkarni95",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/57321156?v=4",
+  "htmlUrl": "https://github.com/rajatkulkarni95",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 388,
+      "repoCountPrimary": 3,
+      "starsContains": 388,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "buildlog",
+          "fullName": "rajatkulkarni95/buildlog",
+          "stars": 154,
+          "url": "https://github.com/rajatkulkarni95/buildlog",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "yack",
+          "fullName": "rajatkulkarni95/yack",
+          "stars": 122,
+          "url": "https://github.com/rajatkulkarni95/yack",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "hckrnws",
+          "fullName": "rajatkulkarni95/hckrnws",
+          "stars": 112,
+          "url": "https://github.com/rajatkulkarni95/hckrnws",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

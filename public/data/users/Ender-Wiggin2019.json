@@ -1,0 +1,34 @@
+{
+  "login": "Ender-Wiggin2019",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/49976407?v=4",
+  "htmlUrl": "https://github.com/Ender-Wiggin2019",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 406,
+      "repoCountPrimary": 1,
+      "starsContains": 406,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "VTuber-Logos-Collection",
+          "fullName": "Ender-Wiggin2019/VTuber-Logos-Collection",
+          "stars": 406,
+          "url": "https://github.com/Ender-Wiggin2019/VTuber-Logos-Collection",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

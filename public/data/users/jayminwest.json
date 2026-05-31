@@ -1,0 +1,62 @@
+{
+  "login": "jayminwest",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/28354219?v=4",
+  "htmlUrl": "https://github.com/jayminwest",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1943,
+      "repoCountPrimary": 5,
+      "starsContains": 1943,
+      "repoCountContains": 5,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "overstory",
+          "fullName": "jayminwest/overstory",
+          "stars": 1312,
+          "url": "https://github.com/jayminwest/overstory",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "mulch",
+          "fullName": "jayminwest/mulch",
+          "stars": 292,
+          "url": "https://github.com/jayminwest/mulch",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "os-eco",
+          "fullName": "jayminwest/os-eco",
+          "stars": 138,
+          "url": "https://github.com/jayminwest/os-eco",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "kotadb",
+          "fullName": "jayminwest/kotadb",
+          "stars": 101,
+          "url": "https://github.com/jayminwest/kotadb",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "seeds",
+          "fullName": "jayminwest/seeds",
+          "stars": 100,
+          "url": "https://github.com/jayminwest/seeds",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

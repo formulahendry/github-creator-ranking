@@ -1,0 +1,34 @@
+{
+  "login": "Wing900",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/167857578?v=4",
+  "htmlUrl": "https://github.com/Wing900",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 357,
+      "repoCountPrimary": 1,
+      "starsContains": 357,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ManimCat",
+          "fullName": "Wing900/ManimCat",
+          "stars": 357,
+          "url": "https://github.com/Wing900/ManimCat",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

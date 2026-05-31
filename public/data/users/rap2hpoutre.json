@@ -1,0 +1,34 @@
+{
+  "login": "rap2hpoutre",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1575946?v=4",
+  "htmlUrl": "https://github.com/rap2hpoutre",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 235,
+      "repoCountPrimary": 1,
+      "starsContains": 235,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "pg-anonymizer",
+          "fullName": "rap2hpoutre/pg-anonymizer",
+          "stars": 235,
+          "url": "https://github.com/rap2hpoutre/pg-anonymizer",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

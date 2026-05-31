@@ -1,0 +1,41 @@
+{
+  "login": "jacques-blom",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/39128232?v=4",
+  "htmlUrl": "https://github.com/jacques-blom",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 351,
+      "repoCountPrimary": 2,
+      "starsContains": 351,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "recoil-design-tool",
+          "fullName": "jacques-blom/recoil-design-tool",
+          "stars": 230,
+          "url": "https://github.com/jacques-blom/recoil-design-tool",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "recoil-course",
+          "fullName": "jacques-blom/recoil-course",
+          "stars": 121,
+          "url": "https://github.com/jacques-blom/recoil-course",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

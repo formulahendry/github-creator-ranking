@@ -1,0 +1,62 @@
+{
+  "login": "sergiodxa",
+  "name": "Sergio Xalambrí",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1312018?v=4",
+  "htmlUrl": "https://github.com/sergiodxa",
+  "location": "Lima, Perú",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 6850,
+      "repoCountPrimary": 9,
+      "starsContains": 6850,
+      "repoCountContains": 9,
+      "globalRank": 338,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "remix-utils",
+          "fullName": "sergiodxa/remix-utils",
+          "stars": 2378,
+          "url": "https://github.com/sergiodxa/remix-utils",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "remix-auth",
+          "fullName": "sergiodxa/remix-auth",
+          "stars": 2209,
+          "url": "https://github.com/sergiodxa/remix-auth",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "remix-i18next",
+          "fullName": "sergiodxa/remix-i18next",
+          "stars": 717,
+          "url": "https://github.com/sergiodxa/remix-i18next",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "remix-hono",
+          "fullName": "sergiodxa/remix-hono",
+          "stars": 553,
+          "url": "https://github.com/sergiodxa/remix-hono",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "flagged",
+          "fullName": "sergiodxa/flagged",
+          "stars": 434,
+          "url": "https://github.com/sergiodxa/flagged",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "HandsomeOne",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/8336227?v=4",
+  "htmlUrl": "https://github.com/HandsomeOne",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 337,
+      "repoCountPrimary": 2,
+      "starsContains": 337,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Scout",
+          "fullName": "HandsomeOne/Scout",
+          "stars": 187,
+          "url": "https://github.com/HandsomeOne/Scout",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Nonogram",
+          "fullName": "HandsomeOne/Nonogram",
+          "stars": 150,
+          "url": "https://github.com/HandsomeOne/Nonogram",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

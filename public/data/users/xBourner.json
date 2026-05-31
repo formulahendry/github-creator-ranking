@@ -1,0 +1,41 @@
+{
+  "login": "xBourner",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/64064679?v=4",
+  "htmlUrl": "https://github.com/xBourner",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 387,
+      "repoCountPrimary": 2,
+      "starsContains": 387,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "status-card",
+          "fullName": "xBourner/status-card",
+          "stars": 286,
+          "url": "https://github.com/xBourner/status-card",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "area-card-plus",
+          "fullName": "xBourner/area-card-plus",
+          "stars": 101,
+          "url": "https://github.com/xBourner/area-card-plus",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "betsha1830",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/32789057?v=4",
+  "htmlUrl": "https://github.com/betsha1830",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 109,
+      "repoCountPrimary": 1,
+      "starsContains": 109,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "navispot",
+          "fullName": "betsha1830/navispot",
+          "stars": 109,
+          "url": "https://github.com/betsha1830/navispot",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

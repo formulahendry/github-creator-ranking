@@ -1,0 +1,62 @@
+{
+  "login": "nicobailon",
+  "name": "Nico Bailon",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2958133?v=4",
+  "htmlUrl": "https://github.com/nicobailon",
+  "location": "Vancouver, BC",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 5994,
+      "repoCountPrimary": 12,
+      "starsContains": 5994,
+      "repoCountContains": 12,
+      "globalRank": 398,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "pi-subagents",
+          "fullName": "nicobailon/pi-subagents",
+          "stars": 1821,
+          "url": "https://github.com/nicobailon/pi-subagents",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "pi-mcp-adapter",
+          "fullName": "nicobailon/pi-mcp-adapter",
+          "stars": 806,
+          "url": "https://github.com/nicobailon/pi-mcp-adapter",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "pi-messenger",
+          "fullName": "nicobailon/pi-messenger",
+          "stars": 591,
+          "url": "https://github.com/nicobailon/pi-messenger",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "pi-web-access",
+          "fullName": "nicobailon/pi-web-access",
+          "stars": 581,
+          "url": "https://github.com/nicobailon/pi-web-access",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "pi-interactive-shell",
+          "fullName": "nicobailon/pi-interactive-shell",
+          "stars": 513,
+          "url": "https://github.com/nicobailon/pi-interactive-shell",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

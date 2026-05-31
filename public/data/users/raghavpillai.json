@@ -1,0 +1,34 @@
+{
+  "login": "raghavpillai",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/76788658?v=4",
+  "htmlUrl": "https://github.com/raghavpillai",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 481,
+      "repoCountPrimary": 1,
+      "starsContains": 481,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "branchlet",
+          "fullName": "raghavpillai/branchlet",
+          "stars": 481,
+          "url": "https://github.com/raghavpillai/branchlet",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

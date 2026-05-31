@@ -1,0 +1,41 @@
+{
+  "login": "jsmorabito",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/46250921?v=4",
+  "htmlUrl": "https://github.com/jsmorabito",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1378,
+      "repoCountPrimary": 2,
+      "starsContains": 1378,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "obsidian-commander",
+          "fullName": "jsmorabito/obsidian-commander",
+          "stars": 1135,
+          "url": "https://github.com/jsmorabito/obsidian-commander",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "obsidian-workspaces-plus",
+          "fullName": "jsmorabito/obsidian-workspaces-plus",
+          "stars": 243,
+          "url": "https://github.com/jsmorabito/obsidian-workspaces-plus",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

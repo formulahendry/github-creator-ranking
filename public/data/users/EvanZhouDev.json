@@ -1,0 +1,48 @@
+{
+  "login": "EvanZhouDev",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/62189478?v=4",
+  "htmlUrl": "https://github.com/EvanZhouDev",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 733,
+      "repoCountPrimary": 3,
+      "starsContains": 733,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "openai-oauth",
+          "fullName": "EvanZhouDev/openai-oauth",
+          "stars": 400,
+          "url": "https://github.com/EvanZhouDev/openai-oauth",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ui2",
+          "fullName": "EvanZhouDev/ui2",
+          "stars": 219,
+          "url": "https://github.com/EvanZhouDev/ui2",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "gemini-ai",
+          "fullName": "EvanZhouDev/gemini-ai",
+          "stars": 114,
+          "url": "https://github.com/EvanZhouDev/gemini-ai",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

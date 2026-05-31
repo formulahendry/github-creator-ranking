@@ -1,0 +1,41 @@
+{
+  "login": "vydimitrov",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/10707142?v=4",
+  "htmlUrl": "https://github.com/vydimitrov",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1154,
+      "repoCountPrimary": 2,
+      "starsContains": 1154,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-countdown-circle-timer",
+          "fullName": "vydimitrov/react-countdown-circle-timer",
+          "stars": 716,
+          "url": "https://github.com/vydimitrov/react-countdown-circle-timer",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "use-count-up",
+          "fullName": "vydimitrov/use-count-up",
+          "stars": 438,
+          "url": "https://github.com/vydimitrov/use-count-up",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

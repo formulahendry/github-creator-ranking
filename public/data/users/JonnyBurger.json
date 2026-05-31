@@ -1,0 +1,48 @@
+{
+  "login": "JonnyBurger",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1629785?v=4",
+  "htmlUrl": "https://github.com/JonnyBurger",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 376,
+      "repoCountPrimary": 3,
+      "starsContains": 376,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "npx-visualize-bundle",
+          "fullName": "JonnyBurger/npx-visualize-bundle",
+          "stars": 168,
+          "url": "https://github.com/JonnyBurger/npx-visualize-bundle",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "reanimated-formula",
+          "fullName": "JonnyBurger/reanimated-formula",
+          "stars": 107,
+          "url": "https://github.com/JonnyBurger/reanimated-formula",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "remotion-wrapped",
+          "fullName": "JonnyBurger/remotion-wrapped",
+          "stars": 101,
+          "url": "https://github.com/JonnyBurger/remotion-wrapped",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

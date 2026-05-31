@@ -1,0 +1,41 @@
+{
+  "login": "nico-martin",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/8424136?v=4",
+  "htmlUrl": "https://github.com/nico-martin",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1192,
+      "repoCountPrimary": 2,
+      "starsContains": 1192,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "gemma4-browser-extension",
+          "fullName": "nico-martin/gemma4-browser-extension",
+          "stars": 1083,
+          "url": "https://github.com/nico-martin/gemma4-browser-extension",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ask-my-pdf",
+          "fullName": "nico-martin/ask-my-pdf",
+          "stars": 109,
+          "url": "https://github.com/nico-martin/ask-my-pdf",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

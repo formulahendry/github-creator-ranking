@@ -1,0 +1,48 @@
+{
+  "login": "sullyo",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/13056592?v=4",
+  "htmlUrl": "https://github.com/sullyo",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1215,
+      "repoCountPrimary": 3,
+      "starsContains": 1215,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "webapp-starter",
+          "fullName": "sullyo/webapp-starter",
+          "stars": 871,
+          "url": "https://github.com/sullyo/webapp-starter",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "prompt2ui",
+          "fullName": "sullyo/prompt2ui",
+          "stars": 240,
+          "url": "https://github.com/sullyo/prompt2ui",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "fingen",
+          "fullName": "sullyo/fingen",
+          "stars": 104,
+          "url": "https://github.com/sullyo/fingen",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

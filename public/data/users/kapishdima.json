@@ -1,0 +1,55 @@
+{
+  "login": "kapishdima",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/23422228?v=4",
+  "htmlUrl": "https://github.com/kapishdima",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1574,
+      "repoCountPrimary": 4,
+      "starsContains": 1574,
+      "repoCountContains": 4,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "soundcn",
+          "fullName": "kapishdima/soundcn",
+          "stars": 648,
+          "url": "https://github.com/kapishdima/soundcn",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "fonttrio",
+          "fullName": "kapishdima/fonttrio",
+          "stars": 388,
+          "url": "https://github.com/kapishdima/fonttrio",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "remocn",
+          "fullName": "kapishdima/remocn",
+          "stars": 384,
+          "url": "https://github.com/kapishdima/remocn",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "shadcn-rss",
+          "fullName": "kapishdima/shadcn-rss",
+          "stars": 154,
+          "url": "https://github.com/kapishdima/shadcn-rss",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "login": "tobilg",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1841985?v=4",
+  "htmlUrl": "https://github.com/tobilg",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 785,
+      "repoCountPrimary": 4,
+      "starsContains": 785,
+      "repoCountContains": 4,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "serverless-duckdb",
+          "fullName": "tobilg/serverless-duckdb",
+          "stars": 224,
+          "url": "https://github.com/tobilg/serverless-duckdb",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ducklings",
+          "fullName": "tobilg/ducklings",
+          "stars": 211,
+          "url": "https://github.com/tobilg/ducklings",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "cloudflare-ducklake",
+          "fullName": "tobilg/cloudflare-ducklake",
+          "stars": 198,
+          "url": "https://github.com/tobilg/cloudflare-ducklake",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "duckerd",
+          "fullName": "tobilg/duckerd",
+          "stars": 152,
+          "url": "https://github.com/tobilg/duckerd",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

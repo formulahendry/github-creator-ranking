@@ -1,0 +1,34 @@
+{
+  "login": "danchitnis",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/17278902?v=4",
+  "htmlUrl": "https://github.com/danchitnis",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 661,
+      "repoCountPrimary": 1,
+      "starsContains": 661,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "webgl-plot",
+          "fullName": "danchitnis/webgl-plot",
+          "stars": 661,
+          "url": "https://github.com/danchitnis/webgl-plot",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "issaafalkattan",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/54137063?v=4",
+  "htmlUrl": "https://github.com/issaafalkattan",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 650,
+      "repoCountPrimary": 1,
+      "starsContains": 650,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-landing-page-template-2021",
+          "fullName": "issaafalkattan/react-landing-page-template-2021",
+          "stars": 650,
+          "url": "https://github.com/issaafalkattan/react-landing-page-template-2021",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

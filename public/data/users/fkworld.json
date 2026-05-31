@@ -1,0 +1,41 @@
+{
+  "login": "fkworld",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/11092123?v=4",
+  "htmlUrl": "https://github.com/fkworld",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 365,
+      "repoCountPrimary": 2,
+      "starsContains": 365,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "cocos-game-framework",
+          "fullName": "fkworld/cocos-game-framework",
+          "stars": 254,
+          "url": "https://github.com/fkworld/cocos-game-framework",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "cocos-to-playable-ad",
+          "fullName": "fkworld/cocos-to-playable-ad",
+          "stars": 111,
+          "url": "https://github.com/fkworld/cocos-to-playable-ad",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

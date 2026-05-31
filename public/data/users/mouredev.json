@@ -1,0 +1,34 @@
+{
+  "login": "mouredev",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/17043402?v=4",
+  "htmlUrl": "https://github.com/mouredev",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 109,
+      "repoCountPrimary": 1,
+      "starsContains": 109,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "code-history-day-web",
+          "fullName": "mouredev/code-history-day-web",
+          "stars": 109,
+          "url": "https://github.com/mouredev/code-history-day-web",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

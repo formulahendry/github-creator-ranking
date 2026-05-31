@@ -1,0 +1,41 @@
+{
+  "login": "fabiandev",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/480710?v=4",
+  "htmlUrl": "https://github.com/fabiandev",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 695,
+      "repoCountPrimary": 2,
+      "starsContains": 695,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ts-runtime",
+          "fullName": "fabiandev/ts-runtime",
+          "stars": 495,
+          "url": "https://github.com/fabiandev/ts-runtime",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "angular-quiz-app",
+          "fullName": "fabiandev/angular-quiz-app",
+          "stars": 200,
+          "url": "https://github.com/fabiandev/angular-quiz-app",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

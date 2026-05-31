@@ -1,0 +1,41 @@
+{
+  "login": "matschik",
+  "name": "Mathieu Schimmerling",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/34612598?v=4",
+  "htmlUrl": "https://github.com/matschik",
+  "location": "Paris",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3555,
+      "repoCountPrimary": 2,
+      "starsContains": 3555,
+      "repoCountContains": 2,
+      "globalRank": 756,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "component-party.dev",
+          "fullName": "matschik/component-party.dev",
+          "stars": 3297,
+          "url": "https://github.com/matschik/component-party.dev",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "fastify-typescript-starter",
+          "fullName": "matschik/fastify-typescript-starter",
+          "stars": 258,
+          "url": "https://github.com/matschik/fastify-typescript-starter",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

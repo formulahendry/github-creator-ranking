@@ -1,0 +1,34 @@
+{
+  "login": "ejazahm3d",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/47801736?v=4",
+  "htmlUrl": "https://github.com/ejazahm3d",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 587,
+      "repoCountPrimary": 1,
+      "starsContains": 587,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "fullstack-turborepo-starter",
+          "fullName": "ejazahm3d/fullstack-turborepo-starter",
+          "stars": 587,
+          "url": "https://github.com/ejazahm3d/fullstack-turborepo-starter",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

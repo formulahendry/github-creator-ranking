@@ -1,0 +1,48 @@
+{
+  "login": "jeremyckahn",
+  "name": "Jeremy Kahn",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/366330?v=4",
+  "htmlUrl": "https://github.com/jeremyckahn",
+  "location": "Chicago, IL",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3965,
+      "repoCountPrimary": 3,
+      "starsContains": 3965,
+      "repoCountContains": 3,
+      "globalRank": 668,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "chitchatter",
+          "fullName": "jeremyckahn/chitchatter",
+          "stars": 2277,
+          "url": "https://github.com/jeremyckahn/chitchatter",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "shifty",
+          "fullName": "jeremyckahn/shifty",
+          "stars": 1557,
+          "url": "https://github.com/jeremyckahn/shifty",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "farmhand",
+          "fullName": "jeremyckahn/farmhand",
+          "stars": 131,
+          "url": "https://github.com/jeremyckahn/farmhand",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

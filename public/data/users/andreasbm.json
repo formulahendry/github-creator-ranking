@@ -1,0 +1,62 @@
+{
+  "login": "andreasbm",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6267397?v=4",
+  "htmlUrl": "https://github.com/andreasbm",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1287,
+      "repoCountPrimary": 5,
+      "starsContains": 1287,
+      "repoCountContains": 5,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "readme",
+          "fullName": "andreasbm/readme",
+          "stars": 508,
+          "url": "https://github.com/andreasbm/readme",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "weightless",
+          "fullName": "andreasbm/weightless",
+          "stars": 380,
+          "url": "https://github.com/andreasbm/weightless",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "masonry-layout",
+          "fullName": "andreasbm/masonry-layout",
+          "stars": 144,
+          "url": "https://github.com/andreasbm/masonry-layout",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "lit-translate",
+          "fullName": "andreasbm/lit-translate",
+          "stars": 136,
+          "url": "https://github.com/andreasbm/lit-translate",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "router-slot",
+          "fullName": "andreasbm/router-slot",
+          "stars": 119,
+          "url": "https://github.com/andreasbm/router-slot",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

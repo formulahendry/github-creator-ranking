@@ -1,0 +1,41 @@
+{
+  "login": "legions-developer",
+  "name": "Gurbinder",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/62145992?v=4",
+  "htmlUrl": "https://github.com/legions-developer",
+  "location": "localhost:3000",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3378,
+      "repoCountPrimary": 2,
+      "starsContains": 3378,
+      "repoCountContains": 2,
+      "globalRank": 800,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "evilcharts",
+          "fullName": "legions-developer/evilcharts",
+          "stars": 2520,
+          "url": "https://github.com/legions-developer/evilcharts",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "invoicely",
+          "fullName": "legions-developer/invoicely",
+          "stars": 858,
+          "url": "https://github.com/legions-developer/invoicely",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

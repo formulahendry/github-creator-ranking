@@ -1,0 +1,34 @@
+{
+  "login": "cpvalente",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/34649812?v=4",
+  "htmlUrl": "https://github.com/cpvalente",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 894,
+      "repoCountPrimary": 1,
+      "starsContains": 894,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ontime",
+          "fullName": "cpvalente/ontime",
+          "stars": 894,
+          "url": "https://github.com/cpvalente/ontime",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

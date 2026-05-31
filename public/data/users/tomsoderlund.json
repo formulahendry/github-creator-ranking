@@ -1,0 +1,41 @@
+{
+  "login": "tomsoderlund",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1368668?v=4",
+  "htmlUrl": "https://github.com/tomsoderlund",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 379,
+      "repoCountPrimary": 2,
+      "starsContains": 379,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "nextjs-pwa-firebase-boilerplate",
+          "fullName": "tomsoderlund/nextjs-pwa-firebase-boilerplate",
+          "stars": 237,
+          "url": "https://github.com/tomsoderlund/nextjs-pwa-firebase-boilerplate",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "nextjs-pwa-graphql-sql-boilerplate",
+          "fullName": "tomsoderlund/nextjs-pwa-graphql-sql-boilerplate",
+          "stars": 142,
+          "url": "https://github.com/tomsoderlund/nextjs-pwa-graphql-sql-boilerplate",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

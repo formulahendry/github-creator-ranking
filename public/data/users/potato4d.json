@@ -1,0 +1,41 @@
+{
+  "login": "potato4d",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6993514?v=4",
+  "htmlUrl": "https://github.com/potato4d",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 216,
+      "repoCountPrimary": 2,
+      "starsContains": 216,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "pokemon63",
+          "fullName": "potato4d/pokemon63",
+          "stars": 110,
+          "url": "https://github.com/potato4d/pokemon63",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "nuxt-maintenance-mode",
+          "fullName": "potato4d/nuxt-maintenance-mode",
+          "stars": 106,
+          "url": "https://github.com/potato4d/nuxt-maintenance-mode",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "login": "catnose99",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/34590683?v=4",
+  "htmlUrl": "https://github.com/catnose99",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 883,
+      "repoCountPrimary": 3,
+      "starsContains": 883,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "team-blog-hub",
+          "fullName": "catnose99/team-blog-hub",
+          "stars": 387,
+          "url": "https://github.com/catnose99/team-blog-hub",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "use-chat-submit",
+          "fullName": "catnose99/use-chat-submit",
+          "stars": 275,
+          "url": "https://github.com/catnose99/use-chat-submit",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "next-head-seo",
+          "fullName": "catnose99/next-head-seo",
+          "stars": 221,
+          "url": "https://github.com/catnose99/next-head-seo",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

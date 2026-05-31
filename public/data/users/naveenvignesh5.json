@@ -1,0 +1,34 @@
+{
+  "login": "naveenvignesh5",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/19146999?v=4",
+  "htmlUrl": "https://github.com/naveenvignesh5",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 185,
+      "repoCountPrimary": 1,
+      "starsContains": 185,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-native-otp-textinput",
+          "fullName": "naveenvignesh5/react-native-otp-textinput",
+          "stars": 185,
+          "url": "https://github.com/naveenvignesh5/react-native-otp-textinput",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

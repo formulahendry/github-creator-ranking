@@ -1,0 +1,34 @@
+{
+  "login": "adriancooney",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/621110?v=4",
+  "htmlUrl": "https://github.com/adriancooney",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1352,
+      "repoCountPrimary": 1,
+      "starsContains": 1352,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "puppeteer-heap-snapshot",
+          "fullName": "adriancooney/puppeteer-heap-snapshot",
+          "stars": 1352,
+          "url": "https://github.com/adriancooney/puppeteer-heap-snapshot",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

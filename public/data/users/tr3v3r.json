@@ -1,0 +1,34 @@
+{
+  "login": "tr3v3r",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/23724142?v=4",
+  "htmlUrl": "https://github.com/tr3v3r",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 276,
+      "repoCountPrimary": 1,
+      "starsContains": 276,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-native-esc-pos-printer",
+          "fullName": "tr3v3r/react-native-esc-pos-printer",
+          "stars": 276,
+          "url": "https://github.com/tr3v3r/react-native-esc-pos-printer",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

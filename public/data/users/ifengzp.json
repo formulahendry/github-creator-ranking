@@ -1,0 +1,34 @@
+{
+  "login": "ifengzp",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/17776985?v=4",
+  "htmlUrl": "https://github.com/ifengzp",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1113,
+      "repoCountPrimary": 1,
+      "starsContains": 1113,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "cocos-awesome",
+          "fullName": "ifengzp/cocos-awesome",
+          "stars": 1113,
+          "url": "https://github.com/ifengzp/cocos-awesome",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

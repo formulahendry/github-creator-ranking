@@ -1,0 +1,62 @@
+{
+  "login": "webdevcody",
+  "name": "Web Dev Cody",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/123222405?v=4",
+  "htmlUrl": "https://github.com/webdevcody",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3756,
+      "repoCountPrimary": 8,
+      "starsContains": 3756,
+      "repoCountContains": 8,
+      "globalRank": 707,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "wdc-saas-starter-kit",
+          "fullName": "webdevcody/wdc-saas-starter-kit",
+          "stars": 1351,
+          "url": "https://github.com/webdevcody/wdc-saas-starter-kit",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "code-racer",
+          "fullName": "webdevcody/code-racer",
+          "stars": 700,
+          "url": "https://github.com/webdevcody/code-racer",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ppai-next-starter",
+          "fullName": "webdevcody/ppai-next-starter",
+          "stars": 391,
+          "url": "https://github.com/webdevcody/ppai-next-starter",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "next-drizzle-lucia-sqlite-template",
+          "fullName": "webdevcody/next-drizzle-lucia-sqlite-template",
+          "stars": 386,
+          "url": "https://github.com/webdevcody/next-drizzle-lucia-sqlite-template",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "file-drive",
+          "fullName": "webdevcody/file-drive",
+          "stars": 272,
+          "url": "https://github.com/webdevcody/file-drive",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

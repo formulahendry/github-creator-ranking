@@ -1,0 +1,41 @@
+{
+  "login": "pshihn",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/833927?v=4",
+  "htmlUrl": "https://github.com/pshihn",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 535,
+      "repoCountPrimary": 2,
+      "starsContains": 535,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "legra",
+          "fullName": "pshihn/legra",
+          "stars": 415,
+          "url": "https://github.com/pshihn/legra",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "brickception",
+          "fullName": "pshihn/brickception",
+          "stars": 120,
+          "url": "https://github.com/pshihn/brickception",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "nick-keller",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2682443?v=4",
+  "htmlUrl": "https://github.com/nick-keller",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2012,
+      "repoCountPrimary": 1,
+      "starsContains": 2012,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-datasheet-grid",
+          "fullName": "nick-keller/react-datasheet-grid",
+          "stars": 2012,
+          "url": "https://github.com/nick-keller/react-datasheet-grid",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

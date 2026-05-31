@@ -1,0 +1,48 @@
+{
+  "login": "astoilkov",
+  "name": "Antonio Stoilkov",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/884810?v=4",
+  "htmlUrl": "https://github.com/astoilkov",
+  "location": "EU › Bulgaria › Sofia",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3344,
+      "repoCountPrimary": 3,
+      "starsContains": 3344,
+      "repoCountContains": 3,
+      "globalRank": 811,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "main-thread-scheduling",
+          "fullName": "astoilkov/main-thread-scheduling",
+          "stars": 1334,
+          "url": "https://github.com/astoilkov/main-thread-scheduling",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "use-local-storage-state",
+          "fullName": "astoilkov/use-local-storage-state",
+          "stars": 1227,
+          "url": "https://github.com/astoilkov/use-local-storage-state",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "console-powers",
+          "fullName": "astoilkov/console-powers",
+          "stars": 783,
+          "url": "https://github.com/astoilkov/console-powers",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

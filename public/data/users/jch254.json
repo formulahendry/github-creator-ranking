@@ -1,0 +1,41 @@
+{
+  "login": "jch254",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3821107?v=4",
+  "htmlUrl": "https://github.com/jch254",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 320,
+      "repoCountPrimary": 2,
+      "starsContains": 320,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "starter-pack",
+          "fullName": "jch254/starter-pack",
+          "stars": 209,
+          "url": "https://github.com/jch254/starter-pack",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "buildpipeline",
+          "fullName": "jch254/buildpipeline",
+          "stars": 111,
+          "url": "https://github.com/jch254/buildpipeline",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

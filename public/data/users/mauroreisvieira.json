@@ -1,0 +1,34 @@
+{
+  "login": "mauroreisvieira",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3084774?v=4",
+  "htmlUrl": "https://github.com/mauroreisvieira",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 203,
+      "repoCountPrimary": 1,
+      "starsContains": 203,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "github-sublime-theme",
+          "fullName": "mauroreisvieira/github-sublime-theme",
+          "stars": 203,
+          "url": "https://github.com/mauroreisvieira/github-sublime-theme",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

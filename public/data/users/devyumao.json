@@ -1,0 +1,34 @@
+{
+  "login": "devyumao",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2007813?v=4",
+  "htmlUrl": "https://github.com/devyumao",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 314,
+      "repoCountPrimary": 1,
+      "starsContains": 314,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "angular2-busy",
+          "fullName": "devyumao/angular2-busy",
+          "stars": 314,
+          "url": "https://github.com/devyumao/angular2-busy",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

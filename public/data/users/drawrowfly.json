@@ -1,0 +1,41 @@
+{
+  "login": "drawrowfly",
+  "name": "Andrew Nord",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/4154851?v=4",
+  "htmlUrl": "https://github.com/drawrowfly",
+  "location": " Costa Rica",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 5937,
+      "repoCountPrimary": 2,
+      "starsContains": 5937,
+      "repoCountContains": 2,
+      "globalRank": 402,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "tiktok-scraper",
+          "fullName": "drawrowfly/tiktok-scraper",
+          "stars": 5102,
+          "url": "https://github.com/drawrowfly/tiktok-scraper",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "instagram-scraper",
+          "fullName": "drawrowfly/instagram-scraper",
+          "stars": 835,
+          "url": "https://github.com/drawrowfly/instagram-scraper",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

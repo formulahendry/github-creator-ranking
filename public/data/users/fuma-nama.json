@@ -1,0 +1,62 @@
+{
+  "login": "fuma-nama",
+  "name": "Fuma Nama",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/76240755?v=4",
+  "htmlUrl": "https://github.com/fuma-nama",
+  "location": "Hong Kong",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 13226,
+      "repoCountPrimary": 6,
+      "starsContains": 13226,
+      "repoCountContains": 6,
+      "globalRank": 151,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "fumadocs",
+          "fullName": "fuma-nama/fumadocs",
+          "stars": 12049,
+          "url": "https://github.com/fuma-nama/fumadocs",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "fuma-comment",
+          "fullName": "fuma-nama/fuma-comment",
+          "stars": 395,
+          "url": "https://github.com/fuma-nama/fuma-comment",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "discord-bot-dashboard-next",
+          "fullName": "fuma-nama/discord-bot-dashboard-next",
+          "stars": 237,
+          "url": "https://github.com/fuma-nama/discord-bot-dashboard-next",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "fumadb",
+          "fullName": "fuma-nama/fumadb",
+          "stars": 225,
+          "url": "https://github.com/fuma-nama/fumadb",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "shark-chat-js",
+          "fullName": "fuma-nama/shark-chat-js",
+          "stars": 162,
+          "url": "https://github.com/fuma-nama/shark-chat-js",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "arsh342",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/135307874?v=4",
+  "htmlUrl": "https://github.com/arsh342",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 554,
+      "repoCountPrimary": 1,
+      "starsContains": 554,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "careercompass",
+          "fullName": "arsh342/careercompass",
+          "stars": 554,
+          "url": "https://github.com/arsh342/careercompass",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

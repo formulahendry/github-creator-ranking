@@ -1,0 +1,41 @@
+{
+  "login": "ImGoodBai",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/298383?v=4",
+  "htmlUrl": "https://github.com/ImGoodBai",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 313,
+      "repoCountPrimary": 2,
+      "starsContains": 313,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "goodable",
+          "fullName": "ImGoodBai/goodable",
+          "stars": 182,
+          "url": "https://github.com/ImGoodBai/goodable",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "clawbnb-hub",
+          "fullName": "ImGoodBai/clawbnb-hub",
+          "stars": 131,
+          "url": "https://github.com/ImGoodBai/clawbnb-hub",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "auchenberg",
+  "name": "Kenneth Auchenberg",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/173559?v=4",
+  "htmlUrl": "https://github.com/auchenberg",
+  "location": "New York, US",
+  "countryCode": "US",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 4384,
+      "repoCountPrimary": 1,
+      "starsContains": 4384,
+      "repoCountContains": 1,
+      "globalRank": 589,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vscode-browser-preview",
+          "fullName": "auchenberg/vscode-browser-preview",
+          "stars": 4384,
+          "url": "https://github.com/auchenberg/vscode-browser-preview",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

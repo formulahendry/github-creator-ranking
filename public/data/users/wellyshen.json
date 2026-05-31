@@ -1,0 +1,62 @@
+{
+  "login": "wellyshen",
+  "name": "Welly Shen",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/21308003?v=4",
+  "htmlUrl": "https://github.com/wellyshen",
+  "location": "Taipei, Taiwan",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 9775,
+      "repoCountPrimary": 10,
+      "starsContains": 9775,
+      "repoCountContains": 10,
+      "globalRank": 227,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-cool-inview",
+          "fullName": "wellyshen/react-cool-inview",
+          "stars": 1452,
+          "url": "https://github.com/wellyshen/react-cool-inview",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-cool-starter",
+          "fullName": "wellyshen/react-cool-starter",
+          "stars": 1298,
+          "url": "https://github.com/wellyshen/react-cool-starter",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "use-places-autocomplete",
+          "fullName": "wellyshen/use-places-autocomplete",
+          "stars": 1291,
+          "url": "https://github.com/wellyshen/use-places-autocomplete",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "use-web-animations",
+          "fullName": "wellyshen/use-web-animations",
+          "stars": 1274,
+          "url": "https://github.com/wellyshen/use-web-animations",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-cool-virtual",
+          "fullName": "wellyshen/react-cool-virtual",
+          "stars": 1224,
+          "url": "https://github.com/wellyshen/react-cool-virtual",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

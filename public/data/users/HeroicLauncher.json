@@ -1,0 +1,34 @@
+{
+  "login": "HeroicLauncher",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/84295879?v=4",
+  "htmlUrl": "https://github.com/HeroicLauncher",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 339,
+      "repoCountPrimary": 1,
+      "starsContains": 339,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "HeroicGamesLauncher",
+          "fullName": "HeroicLauncher/HeroicGamesLauncher",
+          "stars": 339,
+          "url": "https://github.com/HeroicLauncher/HeroicGamesLauncher",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "zxj963577494",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6766515?v=4",
+  "htmlUrl": "https://github.com/zxj963577494",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 221,
+      "repoCountPrimary": 2,
+      "starsContains": 221,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Ionic2-CNodeClub",
+          "fullName": "zxj963577494/Ionic2-CNodeClub",
+          "stars": 112,
+          "url": "https://github.com/zxj963577494/Ionic2-CNodeClub",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Ionic2-IonicClub",
+          "fullName": "zxj963577494/Ionic2-IonicClub",
+          "stars": 109,
+          "url": "https://github.com/zxj963577494/Ionic2-IonicClub",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

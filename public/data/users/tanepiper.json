@@ -1,0 +1,41 @@
+{
+  "login": "tanepiper",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/376930?v=4",
+  "htmlUrl": "https://github.com/tanepiper",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 298,
+      "repoCountPrimary": 2,
+      "starsContains": 298,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "node-bitly",
+          "fullName": "tanepiper/node-bitly",
+          "stars": 173,
+          "url": "https://github.com/tanepiper/node-bitly",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "svelte-formula",
+          "fullName": "tanepiper/svelte-formula",
+          "stars": 125,
+          "url": "https://github.com/tanepiper/svelte-formula",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

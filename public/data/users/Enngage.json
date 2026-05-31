@@ -1,0 +1,41 @@
+{
+  "login": "Enngage",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7137351?v=4",
+  "htmlUrl": "https://github.com/Enngage",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 346,
+      "repoCountPrimary": 2,
+      "starsContains": 346,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ngx-paypal",
+          "fullName": "Enngage/ngx-paypal",
+          "stars": 186,
+          "url": "https://github.com/Enngage/ngx-paypal",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ngx-captcha",
+          "fullName": "Enngage/ngx-captcha",
+          "stars": 160,
+          "url": "https://github.com/Enngage/ngx-captcha",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

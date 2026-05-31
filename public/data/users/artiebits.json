@@ -1,0 +1,41 @@
+{
+  "login": "artiebits",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/29281882?v=4",
+  "htmlUrl": "https://github.com/artiebits",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 596,
+      "repoCountPrimary": 2,
+      "starsContains": 596,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "pdf-to-printer",
+          "fullName": "artiebits/pdf-to-printer",
+          "stars": 491,
+          "url": "https://github.com/artiebits/pdf-to-printer",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "unix-print",
+          "fullName": "artiebits/unix-print",
+          "stars": 105,
+          "url": "https://github.com/artiebits/unix-print",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

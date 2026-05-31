@@ -1,0 +1,41 @@
+{
+  "login": "dineug",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/45829489?v=4",
+  "htmlUrl": "https://github.com/dineug",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1770,
+      "repoCountPrimary": 2,
+      "starsContains": 1770,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "erd-editor",
+          "fullName": "dineug/erd-editor",
+          "stars": 1653,
+          "url": "https://github.com/dineug/erd-editor",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vuerd-vscode",
+          "fullName": "dineug/vuerd-vscode",
+          "stars": 117,
+          "url": "https://github.com/dineug/vuerd-vscode",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

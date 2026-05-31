@@ -1,0 +1,41 @@
+{
+  "login": "saalikmubeen",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/63722568?v=4",
+  "htmlUrl": "https://github.com/saalikmubeen",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 738,
+      "repoCountPrimary": 2,
+      "starsContains": 738,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "microservices-architectured-app",
+          "fullName": "saalikmubeen/microservices-architectured-app",
+          "stars": 571,
+          "url": "https://github.com/saalikmubeen/microservices-architectured-app",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "talkhouse",
+          "fullName": "saalikmubeen/talkhouse",
+          "stars": 167,
+          "url": "https://github.com/saalikmubeen/talkhouse",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

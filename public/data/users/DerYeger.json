@@ -1,0 +1,41 @@
+{
+  "login": "DerYeger",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7950094?v=4",
+  "htmlUrl": "https://github.com/DerYeger",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 491,
+      "repoCountPrimary": 2,
+      "starsContains": 491,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "yeger",
+          "fullName": "DerYeger/yeger",
+          "stars": 384,
+          "url": "https://github.com/DerYeger/yeger",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "d3-graph-controller",
+          "fullName": "DerYeger/d3-graph-controller",
+          "stars": 107,
+          "url": "https://github.com/DerYeger/d3-graph-controller",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

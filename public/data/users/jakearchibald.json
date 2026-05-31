@@ -1,0 +1,62 @@
+{
+  "login": "jakearchibald",
+  "name": "Jake Archibald",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/93594?v=4",
+  "htmlUrl": "https://github.com/jakearchibald",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 11190,
+      "repoCountPrimary": 6,
+      "starsContains": 11190,
+      "repoCountContains": 6,
+      "globalRank": 184,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "idb",
+          "fullName": "jakearchibald/idb",
+          "stars": 7342,
+          "url": "https://github.com/jakearchibald/idb",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "idb-keyval",
+          "fullName": "jakearchibald/idb-keyval",
+          "stars": 3190,
+          "url": "https://github.com/jakearchibald/idb-keyval",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "jakearchibald.com",
+          "fullName": "jakearchibald/jakearchibald.com",
+          "stars": 262,
+          "url": "https://github.com/jakearchibald/jakearchibald.com",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "linear-easing-generator",
+          "fullName": "jakearchibald/linear-easing-generator",
+          "stars": 161,
+          "url": "https://github.com/jakearchibald/linear-easing-generator",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "stacked-alpha-video",
+          "fullName": "jakearchibald/stacked-alpha-video",
+          "stars": 128,
+          "url": "https://github.com/jakearchibald/stacked-alpha-video",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

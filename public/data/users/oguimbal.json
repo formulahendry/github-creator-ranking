@@ -1,0 +1,41 @@
+{
+  "login": "oguimbal",
+  "name": "Olivier Guimbal",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/8973947?v=4",
+  "htmlUrl": "https://github.com/oguimbal",
+  "location": "Paris",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2684,
+      "repoCountPrimary": 2,
+      "starsContains": 2684,
+      "repoCountContains": 2,
+      "globalRank": 998,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "pg-mem",
+          "fullName": "oguimbal/pg-mem",
+          "stars": 2338,
+          "url": "https://github.com/oguimbal/pg-mem",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "pgsql-ast-parser",
+          "fullName": "oguimbal/pgsql-ast-parser",
+          "stars": 346,
+          "url": "https://github.com/oguimbal/pgsql-ast-parser",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

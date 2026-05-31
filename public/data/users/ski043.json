@@ -1,0 +1,62 @@
+{
+  "login": "ski043",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/76267404?v=4",
+  "htmlUrl": "https://github.com/ski043",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 750,
+      "repoCountPrimary": 6,
+      "starsContains": 750,
+      "repoCountContains": 6,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "marshal-ui-yt",
+          "fullName": "ski043/marshal-ui-yt",
+          "stars": 148,
+          "url": "https://github.com/ski043/marshal-ui-yt",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Marshal-Saas",
+          "fullName": "ski043/Marshal-Saas",
+          "stars": 134,
+          "url": "https://github.com/ski043/Marshal-Saas",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ShoeMarshal",
+          "fullName": "ski043/ShoeMarshal",
+          "stars": 129,
+          "url": "https://github.com/ski043/ShoeMarshal",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "nextjs-commerce-tutorial",
+          "fullName": "ski043/nextjs-commerce-tutorial",
+          "stars": 124,
+          "url": "https://github.com/ski043/nextjs-commerce-tutorial",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "airbnb-yt",
+          "fullName": "ski043/airbnb-yt",
+          "stars": 109,
+          "url": "https://github.com/ski043/airbnb-yt",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

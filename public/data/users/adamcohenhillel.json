@@ -1,0 +1,34 @@
+{
+  "login": "adamcohenhillel",
+  "name": "Adam Cohen Hillel",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/633840?v=4",
+  "htmlUrl": "https://github.com/adamcohenhillel",
+  "location": "San Francisco <> Israel",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3414,
+      "repoCountPrimary": 1,
+      "starsContains": 3414,
+      "repoCountContains": 1,
+      "globalRank": 790,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ADeus",
+          "fullName": "adamcohenhillel/ADeus",
+          "stars": 3414,
+          "url": "https://github.com/adamcohenhillel/ADeus",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

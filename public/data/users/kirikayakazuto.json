@@ -1,0 +1,41 @@
+{
+  "login": "kirikayakazuto",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/30012221?v=4",
+  "htmlUrl": "https://github.com/kirikayakazuto",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1024,
+      "repoCountPrimary": 2,
+      "starsContains": 1024,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "CocosCreator_UIFrameWork",
+          "fullName": "kirikayakazuto/CocosCreator_UIFrameWork",
+          "stars": 811,
+          "url": "https://github.com/kirikayakazuto/CocosCreator_UIFrameWork",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "CocosCreator_ECS",
+          "fullName": "kirikayakazuto/CocosCreator_ECS",
+          "stars": 213,
+          "url": "https://github.com/kirikayakazuto/CocosCreator_ECS",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

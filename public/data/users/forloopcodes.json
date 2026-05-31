@@ -1,0 +1,34 @@
+{
+  "login": "forloopcodes",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/89027512?v=4",
+  "htmlUrl": "https://github.com/forloopcodes",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1912,
+      "repoCountPrimary": 1,
+      "starsContains": 1912,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "contextplus",
+          "fullName": "forloopcodes/contextplus",
+          "stars": 1912,
+          "url": "https://github.com/forloopcodes/contextplus",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

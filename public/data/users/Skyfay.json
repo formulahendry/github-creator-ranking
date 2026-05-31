@@ -1,0 +1,41 @@
+{
+  "login": "Skyfay",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/76796007?v=4",
+  "htmlUrl": "https://github.com/Skyfay",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 355,
+      "repoCountPrimary": 2,
+      "starsContains": 355,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "SkySend",
+          "fullName": "Skyfay/SkySend",
+          "stars": 202,
+          "url": "https://github.com/Skyfay/SkySend",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "DBackup",
+          "fullName": "Skyfay/DBackup",
+          "stars": 153,
+          "url": "https://github.com/Skyfay/DBackup",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

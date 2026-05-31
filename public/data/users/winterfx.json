@@ -1,0 +1,41 @@
+{
+  "login": "winterfx",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/136159170?v=4",
+  "htmlUrl": "https://github.com/winterfx",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 488,
+      "repoCountPrimary": 2,
+      "starsContains": 488,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ProWords",
+          "fullName": "winterfx/ProWords",
+          "stars": 383,
+          "url": "https://github.com/winterfx/ProWords",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Podcast-Transcription",
+          "fullName": "winterfx/Podcast-Transcription",
+          "stars": 105,
+          "url": "https://github.com/winterfx/Podcast-Transcription",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

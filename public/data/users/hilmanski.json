@@ -1,0 +1,34 @@
+{
+  "login": "hilmanski",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/4522467?v=4",
+  "htmlUrl": "https://github.com/hilmanski",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 158,
+      "repoCountPrimary": 1,
+      "starsContains": 158,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "contentswift",
+          "fullName": "hilmanski/contentswift",
+          "stars": 158,
+          "url": "https://github.com/hilmanski/contentswift",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "ai-chen2050",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/27693952?v=4",
+  "htmlUrl": "https://github.com/ai-chen2050",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 151,
+      "repoCountPrimary": 1,
+      "starsContains": 151,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "obsidian-wechat-public-platform",
+          "fullName": "ai-chen2050/obsidian-wechat-public-platform",
+          "stars": 151,
+          "url": "https://github.com/ai-chen2050/obsidian-wechat-public-platform",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

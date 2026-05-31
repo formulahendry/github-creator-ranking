@@ -1,0 +1,41 @@
+{
+  "login": "MichaelYuhe",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/63531512?v=4",
+  "htmlUrl": "https://github.com/MichaelYuhe",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1121,
+      "repoCountPrimary": 2,
+      "starsContains": 1121,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ai-group-tabs",
+          "fullName": "MichaelYuhe/ai-group-tabs",
+          "stars": 1001,
+          "url": "https://github.com/MichaelYuhe/ai-group-tabs",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Artifacts-for-ChatGPT",
+          "fullName": "MichaelYuhe/Artifacts-for-ChatGPT",
+          "stars": 120,
+          "url": "https://github.com/MichaelYuhe/Artifacts-for-ChatGPT",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

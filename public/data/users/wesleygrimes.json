@@ -1,0 +1,34 @@
+{
+  "login": "wesleygrimes",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/324308?v=4",
+  "htmlUrl": "https://github.com/wesleygrimes",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 147,
+      "repoCountPrimary": 1,
+      "starsContains": 147,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "angular-ngrx-chuck-norris",
+          "fullName": "wesleygrimes/angular-ngrx-chuck-norris",
+          "stars": 147,
+          "url": "https://github.com/wesleygrimes/angular-ngrx-chuck-norris",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

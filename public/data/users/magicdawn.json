@@ -1,0 +1,55 @@
+{
+  "login": "magicdawn",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/4067115?v=4",
+  "htmlUrl": "https://github.com/magicdawn",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2074,
+      "repoCountPrimary": 4,
+      "starsContains": 2074,
+      "repoCountContains": 4,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "yun-playlist-downloader",
+          "fullName": "magicdawn/yun-playlist-downloader",
+          "stars": 914,
+          "url": "https://github.com/magicdawn/yun-playlist-downloader",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Bilibili-Gate",
+          "fullName": "magicdawn/Bilibili-Gate",
+          "stars": 744,
+          "url": "https://github.com/magicdawn/Bilibili-Gate",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "weread-spy",
+          "fullName": "magicdawn/weread-spy",
+          "stars": 303,
+          "url": "https://github.com/magicdawn/weread-spy",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "clash-config-manager",
+          "fullName": "magicdawn/clash-config-manager",
+          "stars": 113,
+          "url": "https://github.com/magicdawn/clash-config-manager",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "login": "dragonman225",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/25148955?v=4",
+  "htmlUrl": "https://github.com/dragonman225",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1050,
+      "repoCountPrimary": 3,
+      "starsContains": 1050,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "notablog",
+          "fullName": "dragonman225/notablog",
+          "stars": 684,
+          "url": "https://github.com/dragonman225/notablog",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "curved-arrows",
+          "fullName": "dragonman225/curved-arrows",
+          "stars": 254,
+          "url": "https://github.com/dragonman225/curved-arrows",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "notionapi-agent",
+          "fullName": "dragonman225/notionapi-agent",
+          "stars": 112,
+          "url": "https://github.com/dragonman225/notionapi-agent",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

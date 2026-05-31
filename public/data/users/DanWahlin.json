@@ -1,0 +1,62 @@
+{
+  "login": "DanWahlin",
+  "name": "Dan Wahlin",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1767249?v=4",
+  "htmlUrl": "https://github.com/DanWahlin",
+  "location": "Arizona",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3657,
+      "repoCountPrimary": 7,
+      "starsContains": 3657,
+      "repoCountContains": 7,
+      "globalRank": 724,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Angular-JumpStart",
+          "fullName": "DanWahlin/Angular-JumpStart",
+          "stars": 1592,
+          "url": "https://github.com/DanWahlin/Angular-JumpStart",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "angular-architecture",
+          "fullName": "DanWahlin/angular-architecture",
+          "stars": 828,
+          "url": "https://github.com/DanWahlin/angular-architecture",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Observable-Store",
+          "fullName": "DanWahlin/Observable-Store",
+          "stars": 633,
+          "url": "https://github.com/DanWahlin/Observable-Store",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Angular-Core-Concepts",
+          "fullName": "DanWahlin/Angular-Core-Concepts",
+          "stars": 172,
+          "url": "https://github.com/DanWahlin/Angular-Core-Concepts",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Angular-NodeJS-MongoDB-CustomersService",
+          "fullName": "DanWahlin/Angular-NodeJS-MongoDB-CustomersService",
+          "stars": 162,
+          "url": "https://github.com/DanWahlin/Angular-NodeJS-MongoDB-CustomersService",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

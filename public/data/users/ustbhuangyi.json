@@ -1,0 +1,41 @@
+{
+  "login": "ustbhuangyi",
+  "name": "HuangYi",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5359011?v=4",
+  "htmlUrl": "https://github.com/ustbhuangyi",
+  "location": "HeFei,China",
+  "countryCode": "CN",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 16707,
+      "repoCountPrimary": 2,
+      "starsContains": 16707,
+      "repoCountContains": 2,
+      "globalRank": 115,
+      "countryRank": 12,
+      "topRepos": [
+        {
+          "name": "better-scroll",
+          "fullName": "ustbhuangyi/better-scroll",
+          "stars": 16486,
+          "url": "https://github.com/ustbhuangyi/better-scroll",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vue3-lazy",
+          "fullName": "ustbhuangyi/vue3-lazy",
+          "stars": 221,
+          "url": "https://github.com/ustbhuangyi/vue3-lazy",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

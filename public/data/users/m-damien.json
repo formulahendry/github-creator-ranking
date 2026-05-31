@@ -1,0 +1,41 @@
+{
+  "login": "m-damien",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/45567853?v=4",
+  "htmlUrl": "https://github.com/m-damien",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1211,
+      "repoCountPrimary": 2,
+      "starsContains": 1211,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "VisualStoryWriting",
+          "fullName": "m-damien/VisualStoryWriting",
+          "stars": 1031,
+          "url": "https://github.com/m-damien/VisualStoryWriting",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Textoshop",
+          "fullName": "m-damien/Textoshop",
+          "stars": 180,
+          "url": "https://github.com/m-damien/Textoshop",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

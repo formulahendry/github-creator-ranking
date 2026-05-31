@@ -1,0 +1,41 @@
+{
+  "login": "Chenlvin",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/92210036?v=4",
+  "htmlUrl": "https://github.com/Chenlvin",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 374,
+      "repoCountPrimary": 2,
+      "starsContains": 374,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Melotopia-HMOS",
+          "fullName": "Chenlvin/Melotopia-HMOS",
+          "stars": 222,
+          "url": "https://github.com/Chenlvin/Melotopia-HMOS",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "CloudMusic-HarmonyOSNext",
+          "fullName": "Chenlvin/CloudMusic-HarmonyOSNext",
+          "stars": 152,
+          "url": "https://github.com/Chenlvin/CloudMusic-HarmonyOSNext",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "hinok",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1313605?v=4",
+  "htmlUrl": "https://github.com/hinok",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 284,
+      "repoCountPrimary": 1,
+      "starsContains": 284,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-router-last-location",
+          "fullName": "hinok/react-router-last-location",
+          "stars": 284,
+          "url": "https://github.com/hinok/react-router-last-location",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

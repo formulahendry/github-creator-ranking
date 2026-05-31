@@ -1,0 +1,48 @@
+{
+  "login": "bholmesdev",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/51384119?v=4",
+  "htmlUrl": "https://github.com/bholmesdev",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 821,
+      "repoCountPrimary": 3,
+      "starsContains": 821,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "simple-stack",
+          "fullName": "bholmesdev/simple-stack",
+          "stars": 453,
+          "url": "https://github.com/bholmesdev/simple-stack",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "simplestack-store",
+          "fullName": "bholmesdev/simplestack-store",
+          "stars": 241,
+          "url": "https://github.com/bholmesdev/simplestack-store",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "simple-sync-engine",
+          "fullName": "bholmesdev/simple-sync-engine",
+          "stars": 127,
+          "url": "https://github.com/bholmesdev/simple-sync-engine",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

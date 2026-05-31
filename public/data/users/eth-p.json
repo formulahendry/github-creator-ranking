@@ -1,0 +1,34 @@
+{
+  "login": "eth-p",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/32112321?v=4",
+  "htmlUrl": "https://github.com/eth-p",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 259,
+      "repoCountPrimary": 1,
+      "starsContains": 259,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "obsidian-callout-manager",
+          "fullName": "eth-p/obsidian-callout-manager",
+          "stars": 259,
+          "url": "https://github.com/eth-p/obsidian-callout-manager",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

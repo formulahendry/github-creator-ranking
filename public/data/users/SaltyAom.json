@@ -1,0 +1,62 @@
+{
+  "login": "SaltyAom",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/35027979?v=4",
+  "htmlUrl": "https://github.com/SaltyAom",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1814,
+      "repoCountPrimary": 5,
+      "starsContains": 1814,
+      "repoCountContains": 5,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "elden-github",
+          "fullName": "SaltyAom/elden-github",
+          "stars": 582,
+          "url": "https://github.com/SaltyAom/elden-github",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "bun-http-framework-benchmark",
+          "fullName": "SaltyAom/bun-http-framework-benchmark",
+          "stars": 539,
+          "url": "https://github.com/SaltyAom/bun-http-framework-benchmark",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "mobius",
+          "fullName": "SaltyAom/mobius",
+          "stars": 446,
+          "url": "https://github.com/SaltyAom/mobius",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "elysia-monorepo-example",
+          "fullName": "SaltyAom/elysia-monorepo-example",
+          "stars": 129,
+          "url": "https://github.com/SaltyAom/elysia-monorepo-example",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "kingworld",
+          "fullName": "SaltyAom/kingworld",
+          "stars": 118,
+          "url": "https://github.com/SaltyAom/kingworld",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "login": "shahriarsajeeb",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/87035691?v=4",
+  "htmlUrl": "https://github.com/shahriarsajeeb",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1118,
+      "repoCountPrimary": 5,
+      "starsContains": 1118,
+      "repoCountContains": 5,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Food-Delivery-WebApp",
+          "fullName": "shahriarsajeeb/Food-Delivery-WebApp",
+          "stars": 366,
+          "url": "https://github.com/shahriarsajeeb/Food-Delivery-WebApp",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "SaaS-Email-Newsletter",
+          "fullName": "shahriarsajeeb/SaaS-Email-Newsletter",
+          "stars": 265,
+          "url": "https://github.com/shahriarsajeeb/SaaS-Email-Newsletter",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Becodemy-Mobile-App",
+          "fullName": "shahriarsajeeb/Becodemy-Mobile-App",
+          "stars": 197,
+          "url": "https://github.com/shahriarsajeeb/Becodemy-Mobile-App",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Lms-Mobile-App",
+          "fullName": "shahriarsajeeb/Lms-Mobile-App",
+          "stars": 182,
+          "url": "https://github.com/shahriarsajeeb/Lms-Mobile-App",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "AI-Prompt-Selling-MarketPlace",
+          "fullName": "shahriarsajeeb/AI-Prompt-Selling-MarketPlace",
+          "stars": 108,
+          "url": "https://github.com/shahriarsajeeb/AI-Prompt-Selling-MarketPlace",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

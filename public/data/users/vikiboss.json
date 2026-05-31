@@ -1,0 +1,41 @@
+{
+  "login": "vikiboss",
+  "name": "Viki",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/53367348?v=4",
+  "htmlUrl": "https://github.com/vikiboss",
+  "location": "Asteroid B612",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 5486,
+      "repoCountPrimary": 2,
+      "starsContains": 5486,
+      "repoCountContains": 2,
+      "globalRank": 446,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "60s",
+          "fullName": "vikiboss/60s",
+          "stars": 5371,
+          "url": "https://github.com/vikiboss/60s",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "gs-helper",
+          "fullName": "vikiboss/gs-helper",
+          "stars": 115,
+          "url": "https://github.com/vikiboss/gs-helper",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

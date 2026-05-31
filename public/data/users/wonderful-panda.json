@@ -1,0 +1,34 @@
+{
+  "login": "wonderful-panda",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1205852?v=4",
+  "htmlUrl": "https://github.com/wonderful-panda",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 570,
+      "repoCountPrimary": 1,
+      "starsContains": 570,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vue-tsx-support",
+          "fullName": "wonderful-panda/vue-tsx-support",
+          "stars": 570,
+          "url": "https://github.com/wonderful-panda/vue-tsx-support",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

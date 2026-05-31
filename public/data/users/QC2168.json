@@ -1,0 +1,48 @@
+{
+  "login": "QC2168",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/82024018?v=4",
+  "htmlUrl": "https://github.com/QC2168",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 527,
+      "repoCountPrimary": 3,
+      "starsContains": 527,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "mib",
+          "fullName": "QC2168/mib",
+          "stars": 228,
+          "url": "https://github.com/QC2168/mib",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "snippets",
+          "fullName": "QC2168/snippets",
+          "stars": 168,
+          "url": "https://github.com/QC2168/snippets",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vite-plugin-vitepress-auto-sidebar",
+          "fullName": "QC2168/vite-plugin-vitepress-auto-sidebar",
+          "stars": 131,
+          "url": "https://github.com/QC2168/vite-plugin-vitepress-auto-sidebar",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "wei",
+  "name": "Wei He",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5880908?v=4",
+  "htmlUrl": "https://github.com/wei",
+  "location": "Florida",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 9334,
+      "repoCountPrimary": 2,
+      "starsContains": 9334,
+      "repoCountContains": 2,
+      "globalRank": 245,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "pull",
+          "fullName": "wei/pull",
+          "stars": 7134,
+          "url": "https://github.com/wei/pull",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "socialify",
+          "fullName": "wei/socialify",
+          "stars": 2200,
+          "url": "https://github.com/wei/socialify",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

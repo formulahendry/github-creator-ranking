@@ -1,0 +1,41 @@
+{
+  "login": "RicardoGEsteves",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/30535937?v=4",
+  "htmlUrl": "https://github.com/RicardoGEsteves",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 273,
+      "repoCountPrimary": 2,
+      "starsContains": 273,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "AuthV5-Toolkit",
+          "fullName": "RicardoGEsteves/AuthV5-Toolkit",
+          "stars": 156,
+          "url": "https://github.com/RicardoGEsteves/AuthV5-Toolkit",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "omniscient",
+          "fullName": "RicardoGEsteves/omniscient",
+          "stars": 117,
+          "url": "https://github.com/RicardoGEsteves/omniscient",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

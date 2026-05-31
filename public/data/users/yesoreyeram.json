@@ -1,0 +1,41 @@
+{
+  "login": "yesoreyeram",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/153843?v=4",
+  "htmlUrl": "https://github.com/yesoreyeram",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 253,
+      "repoCountPrimary": 2,
+      "starsContains": 253,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "yesoreyeram-boomtable-panel",
+          "fullName": "yesoreyeram/yesoreyeram-boomtable-panel",
+          "stars": 152,
+          "url": "https://github.com/yesoreyeram/yesoreyeram-boomtable-panel",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "yesoreyeram-boomtheme-panel",
+          "fullName": "yesoreyeram/yesoreyeram-boomtheme-panel",
+          "stars": 101,
+          "url": "https://github.com/yesoreyeram/yesoreyeram-boomtheme-panel",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

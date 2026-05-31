@@ -1,0 +1,62 @@
+{
+  "login": "emilwidlund",
+  "name": "Emil Widlund",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/10053249?v=4",
+  "htmlUrl": "https://github.com/emilwidlund",
+  "location": "Stockholm, Sweden",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 4205,
+      "repoCountPrimary": 6,
+      "starsContains": 4205,
+      "repoCountContains": 6,
+      "globalRank": 619,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "nodl",
+          "fullName": "emilwidlund/nodl",
+          "stars": 1751,
+          "url": "https://github.com/emilwidlund/nodl",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "bitspace",
+          "fullName": "emilwidlund/bitspace",
+          "stars": 1012,
+          "url": "https://github.com/emilwidlund/bitspace",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "alma",
+          "fullName": "emilwidlund/alma",
+          "stars": 899,
+          "url": "https://github.com/emilwidlund/alma",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ASCII",
+          "fullName": "emilwidlund/ASCII",
+          "stars": 210,
+          "url": "https://github.com/emilwidlund/ASCII",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "tactile",
+          "fullName": "emilwidlund/tactile",
+          "stars": 188,
+          "url": "https://github.com/emilwidlund/tactile",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

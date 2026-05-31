@@ -1,0 +1,34 @@
+{
+  "login": "Renhuai123",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/91890238?v=4",
+  "htmlUrl": "https://github.com/Renhuai123",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1206,
+      "repoCountPrimary": 1,
+      "starsContains": 1206,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ziwei-doushu",
+          "fullName": "Renhuai123/ziwei-doushu",
+          "stars": 1206,
+          "url": "https://github.com/Renhuai123/ziwei-doushu",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

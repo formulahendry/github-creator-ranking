@@ -1,0 +1,41 @@
+{
+  "login": "StefanTerdell",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/35991746?v=4",
+  "htmlUrl": "https://github.com/StefanTerdell",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1787,
+      "repoCountPrimary": 2,
+      "starsContains": 1787,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "zod-to-json-schema",
+          "fullName": "StefanTerdell/zod-to-json-schema",
+          "stars": 1256,
+          "url": "https://github.com/StefanTerdell/zod-to-json-schema",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "json-schema-to-zod",
+          "fullName": "StefanTerdell/json-schema-to-zod",
+          "stars": 531,
+          "url": "https://github.com/StefanTerdell/json-schema-to-zod",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

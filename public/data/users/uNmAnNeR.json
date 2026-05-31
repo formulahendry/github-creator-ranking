@@ -1,0 +1,34 @@
+{
+  "login": "uNmAnNeR",
+  "name": "Alexey Kryazhev",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1927921?v=4",
+  "htmlUrl": "https://github.com/uNmAnNeR",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 5183,
+      "repoCountPrimary": 1,
+      "starsContains": 5183,
+      "repoCountContains": 1,
+      "globalRank": 481,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "imaskjs",
+          "fullName": "uNmAnNeR/imaskjs",
+          "stars": 5183,
+          "url": "https://github.com/uNmAnNeR/imaskjs",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

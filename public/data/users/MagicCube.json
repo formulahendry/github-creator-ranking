@@ -1,0 +1,48 @@
+{
+  "login": "MagicCube",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1003147?v=4",
+  "htmlUrl": "https://github.com/MagicCube",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1093,
+      "repoCountPrimary": 3,
+      "starsContains": 1093,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "helixent",
+          "fullName": "MagicCube/helixent",
+          "stars": 531,
+          "url": "https://github.com/MagicCube/helixent",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "agentara",
+          "fullName": "MagicCube/agentara",
+          "stars": 442,
+          "url": "https://github.com/MagicCube/agentara",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "cli-gpt",
+          "fullName": "MagicCube/cli-gpt",
+          "stars": 120,
+          "url": "https://github.com/MagicCube/cli-gpt",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

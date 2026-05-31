@@ -1,0 +1,34 @@
+{
+  "login": "ItsBenCodes",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/280982?v=4",
+  "htmlUrl": "https://github.com/ItsBenCodes",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 214,
+      "repoCountPrimary": 1,
+      "starsContains": 214,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "cookies",
+          "fullName": "ItsBenCodes/cookies",
+          "stars": 214,
+          "url": "https://github.com/ItsBenCodes/cookies",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

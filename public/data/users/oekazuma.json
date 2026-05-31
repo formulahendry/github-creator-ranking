@@ -1,0 +1,34 @@
+{
+  "login": "oekazuma",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/29580221?v=4",
+  "htmlUrl": "https://github.com/oekazuma",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 664,
+      "repoCountPrimary": 1,
+      "starsContains": 664,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "svelte-meta-tags",
+          "fullName": "oekazuma/svelte-meta-tags",
+          "stars": 664,
+          "url": "https://github.com/oekazuma/svelte-meta-tags",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

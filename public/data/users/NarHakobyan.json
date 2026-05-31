@@ -1,0 +1,34 @@
+{
+  "login": "NarHakobyan",
+  "name": "Narek Hakobyan",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1781506?v=4",
+  "htmlUrl": "https://github.com/NarHakobyan",
+  "location": "Armenia",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2791,
+      "repoCountPrimary": 1,
+      "starsContains": 2791,
+      "repoCountContains": 1,
+      "globalRank": 957,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "awesome-nest-boilerplate",
+          "fullName": "NarHakobyan/awesome-nest-boilerplate",
+          "stars": 2791,
+          "url": "https://github.com/NarHakobyan/awesome-nest-boilerplate",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

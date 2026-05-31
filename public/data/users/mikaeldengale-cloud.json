@@ -1,0 +1,34 @@
+{
+  "login": "mikaeldengale-cloud",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/231957639?v=4",
+  "htmlUrl": "https://github.com/mikaeldengale-cloud",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 423,
+      "repoCountPrimary": 1,
+      "starsContains": 423,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Deepseek-v4-Pro-App",
+          "fullName": "mikaeldengale-cloud/Deepseek-v4-Pro-App",
+          "stars": 423,
+          "url": "https://github.com/mikaeldengale-cloud/Deepseek-v4-Pro-App",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "czottmann",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1501?v=4",
+  "htmlUrl": "https://github.com/czottmann",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 361,
+      "repoCountPrimary": 2,
+      "starsContains": 361,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "obsidian-actions-uri",
+          "fullName": "czottmann/obsidian-actions-uri",
+          "stars": 192,
+          "url": "https://github.com/czottmann/obsidian-actions-uri",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "obsidian-mononote",
+          "fullName": "czottmann/obsidian-mononote",
+          "stars": 169,
+          "url": "https://github.com/czottmann/obsidian-mononote",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

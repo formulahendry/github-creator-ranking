@@ -1,0 +1,34 @@
+{
+  "login": "WCY-dt",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/55525165?v=4",
+  "htmlUrl": "https://github.com/WCY-dt",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 685,
+      "repoCountPrimary": 1,
+      "starsContains": 685,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "EasyTransfer",
+          "fullName": "WCY-dt/EasyTransfer",
+          "stars": 685,
+          "url": "https://github.com/WCY-dt/EasyTransfer",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "CodeWithCJ",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/151883488?v=4",
+  "htmlUrl": "https://github.com/CodeWithCJ",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 4076,
+      "repoCountPrimary": 1,
+      "starsContains": 4076,
+      "repoCountContains": 1,
+      "globalRank": 651,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "SparkyFitness",
+          "fullName": "CodeWithCJ/SparkyFitness",
+          "stars": 4076,
+          "url": "https://github.com/CodeWithCJ/SparkyFitness",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

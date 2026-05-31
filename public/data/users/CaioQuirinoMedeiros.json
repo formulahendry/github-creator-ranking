@@ -1,0 +1,41 @@
+{
+  "login": "CaioQuirinoMedeiros",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/48543208?v=4",
+  "htmlUrl": "https://github.com/CaioQuirinoMedeiros",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 504,
+      "repoCountPrimary": 2,
+      "starsContains": 504,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-native-mask-input",
+          "fullName": "CaioQuirinoMedeiros/react-native-mask-input",
+          "stars": 334,
+          "url": "https://github.com/CaioQuirinoMedeiros/react-native-mask-input",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-native-currency-input",
+          "fullName": "CaioQuirinoMedeiros/react-native-currency-input",
+          "stars": 170,
+          "url": "https://github.com/CaioQuirinoMedeiros/react-native-currency-input",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

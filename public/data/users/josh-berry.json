@@ -1,0 +1,34 @@
+{
+  "login": "josh-berry",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1203893?v=4",
+  "htmlUrl": "https://github.com/josh-berry",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1043,
+      "repoCountPrimary": 1,
+      "starsContains": 1043,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "tab-stash",
+          "fullName": "josh-berry/tab-stash",
+          "stars": 1043,
+          "url": "https://github.com/josh-berry/tab-stash",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

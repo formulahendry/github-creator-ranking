@@ -1,0 +1,48 @@
+{
+  "login": "fand",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1403842?v=4",
+  "htmlUrl": "https://github.com/fand",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1769,
+      "repoCountPrimary": 3,
+      "starsContains": 1769,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vfx-js",
+          "fullName": "fand/vfx-js",
+          "stars": 1076,
+          "url": "https://github.com/fand/vfx-js",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "veda",
+          "fullName": "fand/veda",
+          "stars": 530,
+          "url": "https://github.com/fand/veda",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vedajs",
+          "fullName": "fand/vedajs",
+          "stars": 163,
+          "url": "https://github.com/fand/vedajs",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

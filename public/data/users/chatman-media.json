@@ -1,0 +1,34 @@
+{
+  "login": "chatman-media",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/883279?v=4",
+  "htmlUrl": "https://github.com/chatman-media",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 173,
+      "repoCountPrimary": 1,
+      "starsContains": 173,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "timeline-studio",
+          "fullName": "chatman-media/timeline-studio",
+          "stars": 173,
+          "url": "https://github.com/chatman-media/timeline-studio",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

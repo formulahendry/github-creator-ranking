@@ -1,0 +1,55 @@
+{
+  "login": "lukemorales",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/14251143?v=4",
+  "htmlUrl": "https://github.com/lukemorales",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2583,
+      "repoCountPrimary": 4,
+      "starsContains": 2583,
+      "repoCountContains": 4,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "query-key-factory",
+          "fullName": "lukemorales/query-key-factory",
+          "stars": 1669,
+          "url": "https://github.com/lukemorales/query-key-factory",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "bancointer",
+          "fullName": "lukemorales/bancointer",
+          "stars": 379,
+          "url": "https://github.com/lukemorales/bancointer",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "exhaustive",
+          "fullName": "lukemorales/exhaustive",
+          "stars": 358,
+          "url": "https://github.com/lukemorales/exhaustive",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "next-safe-navigation",
+          "fullName": "lukemorales/next-safe-navigation",
+          "stars": 177,
+          "url": "https://github.com/lukemorales/next-safe-navigation",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

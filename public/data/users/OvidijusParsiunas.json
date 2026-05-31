@@ -1,0 +1,41 @@
+{
+  "login": "OvidijusParsiunas",
+  "name": "Ovidijus Parsiunas",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/18709577?v=4",
+  "htmlUrl": "https://github.com/OvidijusParsiunas",
+  "location": "Tsukuba, Japan",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3940,
+      "repoCountPrimary": 2,
+      "starsContains": 3940,
+      "repoCountContains": 2,
+      "globalRank": 673,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "deep-chat",
+          "fullName": "OvidijusParsiunas/deep-chat",
+          "stars": 3620,
+          "url": "https://github.com/OvidijusParsiunas/deep-chat",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "active-table",
+          "fullName": "OvidijusParsiunas/active-table",
+          "stars": 320,
+          "url": "https://github.com/OvidijusParsiunas/active-table",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

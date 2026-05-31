@@ -1,0 +1,41 @@
+{
+  "login": "SkalskiP",
+  "name": "Piotr Skalski",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/26109316?v=4",
+  "htmlUrl": "https://github.com/SkalskiP",
+  "location": "127.0.0.1",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3707,
+      "repoCountPrimary": 2,
+      "starsContains": 3707,
+      "repoCountContains": 2,
+      "globalRank": 716,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "make-sense",
+          "fullName": "SkalskiP/make-sense",
+          "stars": 3537,
+          "url": "https://github.com/SkalskiP/make-sense",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ILearnMachineLearning.js",
+          "fullName": "SkalskiP/ILearnMachineLearning.js",
+          "stars": 170,
+          "url": "https://github.com/SkalskiP/ILearnMachineLearning.js",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

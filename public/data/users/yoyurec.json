@@ -1,0 +1,55 @@
+{
+  "login": "yoyurec",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/137919?v=4",
+  "htmlUrl": "https://github.com/yoyurec",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 680,
+      "repoCountPrimary": 4,
+      "starsContains": 680,
+      "repoCountContains": 4,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "logseq-awesome-styler",
+          "fullName": "yoyurec/logseq-awesome-styler",
+          "stars": 204,
+          "url": "https://github.com/yoyurec/logseq-awesome-styler",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "logseq-awesome-ui",
+          "fullName": "yoyurec/logseq-awesome-ui",
+          "stars": 189,
+          "url": "https://github.com/yoyurec/logseq-awesome-ui",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "logseq-banners-plugin",
+          "fullName": "yoyurec/logseq-banners-plugin",
+          "stars": 157,
+          "url": "https://github.com/yoyurec/logseq-banners-plugin",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "logseq-awesome-links",
+          "fullName": "yoyurec/logseq-awesome-links",
+          "stars": 130,
+          "url": "https://github.com/yoyurec/logseq-awesome-links",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

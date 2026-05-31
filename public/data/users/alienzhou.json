@@ -1,0 +1,34 @@
+{
+  "login": "alienzhou",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/9822789?v=4",
+  "htmlUrl": "https://github.com/alienzhou",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 977,
+      "repoCountPrimary": 1,
+      "starsContains": 977,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "web-highlighter",
+          "fullName": "alienzhou/web-highlighter",
+          "stars": 977,
+          "url": "https://github.com/alienzhou/web-highlighter",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

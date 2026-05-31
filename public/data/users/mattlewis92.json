@@ -1,0 +1,62 @@
+{
+  "login": "mattlewis92",
+  "name": "Matt Lewis",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6425649?v=4",
+  "htmlUrl": "https://github.com/mattlewis92",
+  "location": "Warwick, UK",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3727,
+      "repoCountPrimary": 5,
+      "starsContains": 3727,
+      "repoCountContains": 5,
+      "globalRank": 711,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "angular-calendar",
+          "fullName": "mattlewis92/angular-calendar",
+          "stars": 2822,
+          "url": "https://github.com/mattlewis92/angular-calendar",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "angular-resizable-element",
+          "fullName": "mattlewis92/angular-resizable-element",
+          "stars": 325,
+          "url": "https://github.com/mattlewis92/angular-resizable-element",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "webpack-retry-chunk-load-plugin",
+          "fullName": "mattlewis92/webpack-retry-chunk-load-plugin",
+          "stars": 252,
+          "url": "https://github.com/mattlewis92/webpack-retry-chunk-load-plugin",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "angular-confirmation-popover",
+          "fullName": "mattlewis92/angular-confirmation-popover",
+          "stars": 201,
+          "url": "https://github.com/mattlewis92/angular-confirmation-popover",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "angular2-tv-tracker",
+          "fullName": "mattlewis92/angular2-tv-tracker",
+          "stars": 127,
+          "url": "https://github.com/mattlewis92/angular2-tv-tracker",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

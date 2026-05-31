@@ -1,0 +1,41 @@
+{
+  "login": "devrnt",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/32844711?v=4",
+  "htmlUrl": "https://github.com/devrnt",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1039,
+      "repoCountPrimary": 2,
+      "starsContains": 1039,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-use-wizard",
+          "fullName": "devrnt/react-use-wizard",
+          "stars": 663,
+          "url": "https://github.com/devrnt/react-use-wizard",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-use-intercom",
+          "fullName": "devrnt/react-use-intercom",
+          "stars": 376,
+          "url": "https://github.com/devrnt/react-use-intercom",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

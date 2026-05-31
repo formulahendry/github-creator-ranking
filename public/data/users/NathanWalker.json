@@ -1,0 +1,55 @@
+{
+  "login": "NathanWalker",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/457187?v=4",
+  "htmlUrl": "https://github.com/NathanWalker",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2662,
+      "repoCountPrimary": 4,
+      "starsContains": 2662,
+      "repoCountContains": 4,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "angular-seed-advanced",
+          "fullName": "NathanWalker/angular-seed-advanced",
+          "stars": 2246,
+          "url": "https://github.com/NathanWalker/angular-seed-advanced",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ng2-image-lazy-load",
+          "fullName": "NathanWalker/ng2-image-lazy-load",
+          "stars": 160,
+          "url": "https://github.com/NathanWalker/ng2-image-lazy-load",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "nativescript-fancyalert",
+          "fullName": "NathanWalker/nativescript-fancyalert",
+          "stars": 146,
+          "url": "https://github.com/NathanWalker/nativescript-fancyalert",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "nativescript-loading-indicator",
+          "fullName": "NathanWalker/nativescript-loading-indicator",
+          "stars": 110,
+          "url": "https://github.com/NathanWalker/nativescript-loading-indicator",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

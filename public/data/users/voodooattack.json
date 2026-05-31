@@ -1,0 +1,34 @@
+{
+  "login": "voodooattack",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1285826?v=4",
+  "htmlUrl": "https://github.com/voodooattack",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 118,
+      "repoCountPrimary": 1,
+      "starsContains": 118,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "when-ts",
+          "fullName": "voodooattack/when-ts",
+          "stars": 118,
+          "url": "https://github.com/voodooattack/when-ts",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

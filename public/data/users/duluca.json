@@ -1,0 +1,41 @@
+{
+  "login": "duluca",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/822159?v=4",
+  "htmlUrl": "https://github.com/duluca",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 299,
+      "repoCountPrimary": 2,
+      "starsContains": 299,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "lemon-mart",
+          "fullName": "duluca/lemon-mart",
+          "stars": 188,
+          "url": "https://github.com/duluca/lemon-mart",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "local-weather-app",
+          "fullName": "duluca/local-weather-app",
+          "stars": 111,
+          "url": "https://github.com/duluca/local-weather-app",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

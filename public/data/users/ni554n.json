@@ -1,0 +1,34 @@
+{
+  "login": "ni554n",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2310552?v=4",
+  "htmlUrl": "https://github.com/ni554n",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 158,
+      "repoCountPrimary": 1,
+      "starsContains": 158,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "truecallerjs_bot",
+          "fullName": "ni554n/truecallerjs_bot",
+          "stars": 158,
+          "url": "https://github.com/ni554n/truecallerjs_bot",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

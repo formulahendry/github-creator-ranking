@@ -1,0 +1,41 @@
+{
+  "login": "lifefloating",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/13827124?v=4",
+  "htmlUrl": "https://github.com/lifefloating",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 348,
+      "repoCountPrimary": 2,
+      "starsContains": 348,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "nestjs-project-template",
+          "fullName": "lifefloating/nestjs-project-template",
+          "stars": 188,
+          "url": "https://github.com/lifefloating/nestjs-project-template",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "LotteryMaster",
+          "fullName": "lifefloating/LotteryMaster",
+          "stars": 160,
+          "url": "https://github.com/lifefloating/LotteryMaster",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

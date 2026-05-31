@@ -1,0 +1,62 @@
+{
+  "login": "kripod",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/14854048?v=4",
+  "htmlUrl": "https://github.com/kripod",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2058,
+      "repoCountPrimary": 5,
+      "starsContains": 2058,
+      "repoCountContains": 5,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "otion",
+          "fullName": "kripod/otion",
+          "stars": 630,
+          "url": "https://github.com/kripod/otion",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-hooks",
+          "fullName": "kripod/react-hooks",
+          "stars": 558,
+          "url": "https://github.com/kripod/react-hooks",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "glaze",
+          "fullName": "kripod/glaze",
+          "stars": 415,
+          "url": "https://github.com/kripod/glaze",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-polymorphic-box",
+          "fullName": "kripod/react-polymorphic-box",
+          "stars": 346,
+          "url": "https://github.com/kripod/react-polymorphic-box",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "uuidv7",
+          "fullName": "kripod/uuidv7",
+          "stars": 109,
+          "url": "https://github.com/kripod/uuidv7",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

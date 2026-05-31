@@ -1,0 +1,41 @@
+{
+  "login": "scopsy",
+  "name": "Dima Grossman",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/8872447?v=4",
+  "htmlUrl": "https://github.com/scopsy",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3656,
+      "repoCountPrimary": 2,
+      "starsContains": 3656,
+      "repoCountContains": 2,
+      "globalRank": 725,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "await-to-js",
+          "fullName": "scopsy/await-to-js",
+          "stars": 3360,
+          "url": "https://github.com/scopsy/await-to-js",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "nestjs-monorepo-starter",
+          "fullName": "scopsy/nestjs-monorepo-starter",
+          "stars": 296,
+          "url": "https://github.com/scopsy/nestjs-monorepo-starter",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "laribright",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/68712283?v=4",
+  "htmlUrl": "https://github.com/laribright",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 425,
+      "repoCountPrimary": 2,
+      "starsContains": 425,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "slack-clone",
+          "fullName": "laribright/slack-clone",
+          "stars": 236,
+          "url": "https://github.com/laribright/slack-clone",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "hotel-management",
+          "fullName": "laribright/hotel-management",
+          "stars": 189,
+          "url": "https://github.com/laribright/hotel-management",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

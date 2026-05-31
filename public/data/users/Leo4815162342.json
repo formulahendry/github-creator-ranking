@@ -1,0 +1,34 @@
+{
+  "login": "Leo4815162342",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/12486774?v=4",
+  "htmlUrl": "https://github.com/Leo4815162342",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 764,
+      "repoCountPrimary": 1,
+      "starsContains": 764,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "dukascopy-node",
+          "fullName": "Leo4815162342/dukascopy-node",
+          "stars": 764,
+          "url": "https://github.com/Leo4815162342/dukascopy-node",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

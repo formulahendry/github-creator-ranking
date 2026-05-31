@@ -1,0 +1,41 @@
+{
+  "login": "BoKKeR",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2664857?v=4",
+  "htmlUrl": "https://github.com/BoKKeR",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 389,
+      "repoCountPrimary": 2,
+      "starsContains": 389,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "RSS-to-Telegram-Bot",
+          "fullName": "BoKKeR/RSS-to-Telegram-Bot",
+          "stars": 277,
+          "url": "https://github.com/BoKKeR/RSS-to-Telegram-Bot",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "awesome-thinkcentres",
+          "fullName": "BoKKeR/awesome-thinkcentres",
+          "stars": 112,
+          "url": "https://github.com/BoKKeR/awesome-thinkcentres",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

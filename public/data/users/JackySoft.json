@@ -1,0 +1,34 @@
+{
+  "login": "JackySoft",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/13653846?v=4",
+  "htmlUrl": "https://github.com/JackySoft",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1652,
+      "repoCountPrimary": 1,
+      "starsContains": 1652,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "marsview",
+          "fullName": "JackySoft/marsview",
+          "stars": 1652,
+          "url": "https://github.com/JackySoft/marsview",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

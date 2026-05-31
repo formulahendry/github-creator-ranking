@@ -1,0 +1,41 @@
+{
+  "login": "ShyykoSerhiy",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1106995?v=4",
+  "htmlUrl": "https://github.com/ShyykoSerhiy",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 812,
+      "repoCountPrimary": 2,
+      "starsContains": 812,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vscode-spotify",
+          "fullName": "ShyykoSerhiy/vscode-spotify",
+          "stars": 616,
+          "url": "https://github.com/ShyykoSerhiy/vscode-spotify",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "skyweb",
+          "fullName": "ShyykoSerhiy/skyweb",
+          "stars": 196,
+          "url": "https://github.com/ShyykoSerhiy/skyweb",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

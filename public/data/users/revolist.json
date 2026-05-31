@@ -1,0 +1,55 @@
+{
+  "login": "revolist",
+  "name": "Revolist OU",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/64810943?v=4",
+  "htmlUrl": "https://github.com/revolist",
+  "location": "Harjumaa, Tallinn linn, Lasnamäe linnaosa, Ruunaoja tn 3, 11415",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3930,
+      "repoCountPrimary": 4,
+      "starsContains": 3930,
+      "repoCountContains": 4,
+      "globalRank": 676,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "revogrid",
+          "fullName": "revolist/revogrid",
+          "stars": 3399,
+          "url": "https://github.com/revolist/revogrid",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vue-datagrid",
+          "fullName": "revolist/vue-datagrid",
+          "stars": 214,
+          "url": "https://github.com/revolist/vue-datagrid",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vue3-datagrid",
+          "fullName": "revolist/vue3-datagrid",
+          "stars": 178,
+          "url": "https://github.com/revolist/vue3-datagrid",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "svelte-datagrid",
+          "fullName": "revolist/svelte-datagrid",
+          "stars": 139,
+          "url": "https://github.com/revolist/svelte-datagrid",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

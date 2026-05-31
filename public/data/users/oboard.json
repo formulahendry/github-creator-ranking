@@ -1,0 +1,34 @@
+{
+  "login": "oboard",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/23210180?v=4",
+  "htmlUrl": "https://github.com/oboard",
+  "location": "Wuhan",
+  "countryCode": "CN",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3176,
+      "repoCountPrimary": 1,
+      "starsContains": 3176,
+      "repoCountContains": 1,
+      "globalRank": 846,
+      "countryRank": 99,
+      "topRepos": [
+        {
+          "name": "claude-code-rev",
+          "fullName": "oboard/claude-code-rev",
+          "stars": 3176,
+          "url": "https://github.com/oboard/claude-code-rev",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

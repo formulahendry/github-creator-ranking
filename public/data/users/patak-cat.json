@@ -1,0 +1,34 @@
+{
+  "login": "patak-cat",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/583075?v=4",
+  "htmlUrl": "https://github.com/patak-cat",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 333,
+      "repoCountPrimary": 1,
+      "starsContains": 333,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vite-plugin-terminal",
+          "fullName": "patak-cat/vite-plugin-terminal",
+          "stars": 333,
+          "url": "https://github.com/patak-cat/vite-plugin-terminal",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

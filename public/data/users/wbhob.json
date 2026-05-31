@@ -1,0 +1,34 @@
+{
+  "login": "wbhob",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/4442130?v=4",
+  "htmlUrl": "https://github.com/wbhob",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 414,
+      "repoCountPrimary": 1,
+      "starsContains": 414,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "nest-middlewares",
+          "fullName": "wbhob/nest-middlewares",
+          "stars": 414,
+          "url": "https://github.com/wbhob/nest-middlewares",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

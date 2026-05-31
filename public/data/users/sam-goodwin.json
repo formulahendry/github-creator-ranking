@@ -1,0 +1,55 @@
+{
+  "login": "sam-goodwin",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/38672686?v=4",
+  "htmlUrl": "https://github.com/sam-goodwin",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1258,
+      "repoCountPrimary": 4,
+      "starsContains": 1258,
+      "repoCountContains": 4,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "punchcard",
+          "fullName": "sam-goodwin/punchcard",
+          "stars": 516,
+          "url": "https://github.com/sam-goodwin/punchcard",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "functionless",
+          "fullName": "sam-goodwin/functionless",
+          "stars": 332,
+          "url": "https://github.com/sam-goodwin/functionless",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "typesafe-dynamodb",
+          "fullName": "sam-goodwin/typesafe-dynamodb",
+          "stars": 218,
+          "url": "https://github.com/sam-goodwin/typesafe-dynamodb",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "eventual",
+          "fullName": "sam-goodwin/eventual",
+          "stars": 192,
+          "url": "https://github.com/sam-goodwin/eventual",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

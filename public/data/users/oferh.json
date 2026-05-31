@@ -1,0 +1,34 @@
+{
+  "login": "oferh",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/493344?v=4",
+  "htmlUrl": "https://github.com/oferh",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 343,
+      "repoCountPrimary": 1,
+      "starsContains": 343,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ng2-completer",
+          "fullName": "oferh/ng2-completer",
+          "stars": 343,
+          "url": "https://github.com/oferh/ng2-completer",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

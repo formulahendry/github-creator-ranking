@@ -1,0 +1,41 @@
+{
+  "login": "heilcheng",
+  "name": "hailey",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/155233908?v=4",
+  "htmlUrl": "https://github.com/heilcheng",
+  "location": "Hong Kong",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 5450,
+      "repoCountPrimary": 2,
+      "starsContains": 5450,
+      "repoCountContains": 2,
+      "globalRank": 449,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "awesome-agent-skills",
+          "fullName": "heilcheng/awesome-agent-skills",
+          "stars": 5228,
+          "url": "https://github.com/heilcheng/awesome-agent-skills",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "website",
+          "fullName": "heilcheng/website",
+          "stars": 222,
+          "url": "https://github.com/heilcheng/website",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

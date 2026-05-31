@@ -1,0 +1,34 @@
+{
+  "login": "dschu012",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1458109?v=4",
+  "htmlUrl": "https://github.com/dschu012",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 102,
+      "repoCountPrimary": 1,
+      "starsContains": 102,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "d2s",
+          "fullName": "dschu012/d2s",
+          "stars": 102,
+          "url": "https://github.com/dschu012/d2s",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

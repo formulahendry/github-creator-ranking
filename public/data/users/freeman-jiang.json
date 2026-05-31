@@ -1,0 +1,41 @@
+{
+  "login": "freeman-jiang",
+  "name": "Freeman Jiang",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/56516912?v=4",
+  "htmlUrl": "https://github.com/freeman-jiang",
+  "location": "Waterloo, Ontario",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3123,
+      "repoCountPrimary": 2,
+      "starsContains": 3123,
+      "repoCountContains": 2,
+      "globalRank": 863,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "beatsync",
+          "fullName": "freeman-jiang/beatsync",
+          "stars": 2986,
+          "url": "https://github.com/freeman-jiang/beatsync",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "bikemap.nyc",
+          "fullName": "freeman-jiang/bikemap.nyc",
+          "stars": 137,
+          "url": "https://github.com/freeman-jiang/bikemap.nyc",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

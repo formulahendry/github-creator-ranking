@@ -1,0 +1,34 @@
+{
+  "login": "PennyroyalTea",
+  "name": "Boris Starkov",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/27580209?v=4",
+  "htmlUrl": "https://github.com/PennyroyalTea",
+  "location": "London, United Kingdom",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 4832,
+      "repoCountPrimary": 1,
+      "starsContains": 4832,
+      "repoCountContains": 1,
+      "globalRank": 526,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "gibberlink",
+          "fullName": "PennyroyalTea/gibberlink",
+          "stars": 4832,
+          "url": "https://github.com/PennyroyalTea/gibberlink",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "jln13x",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/85513960?v=4",
+  "htmlUrl": "https://github.com/jln13x",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1290,
+      "repoCountPrimary": 1,
+      "starsContains": 1290,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ui.jln.dev",
+          "fullName": "jln13x/ui.jln.dev",
+          "stars": 1290,
+          "url": "https://github.com/jln13x/ui.jln.dev",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

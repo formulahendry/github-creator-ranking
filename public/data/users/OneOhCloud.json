@@ -1,0 +1,34 @@
+{
+  "login": "OneOhCloud",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/200822036?v=4",
+  "htmlUrl": "https://github.com/OneOhCloud",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 618,
+      "repoCountPrimary": 1,
+      "starsContains": 618,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "OneBox",
+          "fullName": "OneOhCloud/OneBox",
+          "stars": 618,
+          "url": "https://github.com/OneOhCloud/OneBox",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

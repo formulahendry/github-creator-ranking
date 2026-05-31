@@ -1,0 +1,41 @@
+{
+  "login": "KittyGiraudel",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1889710?v=4",
+  "htmlUrl": "https://github.com/KittyGiraudel",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2658,
+      "repoCountPrimary": 2,
+      "starsContains": 2658,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "a11y-dialog",
+          "fullName": "KittyGiraudel/a11y-dialog",
+          "stars": 2483,
+          "url": "https://github.com/KittyGiraudel/a11y-dialog",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-a11y-dialog",
+          "fullName": "KittyGiraudel/react-a11y-dialog",
+          "stars": 175,
+          "url": "https://github.com/KittyGiraudel/react-a11y-dialog",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

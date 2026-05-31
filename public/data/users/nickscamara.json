@@ -1,0 +1,34 @@
+{
+  "login": "nickscamara",
+  "name": "Nicolas",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/20311743?v=4",
+  "htmlUrl": "https://github.com/nickscamara",
+  "location": "San Francisco",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 6241,
+      "repoCountPrimary": 1,
+      "starsContains": 6241,
+      "repoCountContains": 1,
+      "globalRank": 377,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "open-deep-research",
+          "fullName": "nickscamara/open-deep-research",
+          "stars": 6241,
+          "url": "https://github.com/nickscamara/open-deep-research",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

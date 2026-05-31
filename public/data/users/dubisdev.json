@@ -1,0 +1,41 @@
+{
+  "login": "dubisdev",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/77246331?v=4",
+  "htmlUrl": "https://github.com/dubisdev",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 240,
+      "repoCountPrimary": 2,
+      "starsContains": 240,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "runmath",
+          "fullName": "dubisdev/runmath",
+          "stars": 127,
+          "url": "https://github.com/dubisdev/runmath",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "quickgpt",
+          "fullName": "dubisdev/quickgpt",
+          "stars": 113,
+          "url": "https://github.com/dubisdev/quickgpt",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

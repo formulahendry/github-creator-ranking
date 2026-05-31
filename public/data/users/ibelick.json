@@ -1,0 +1,62 @@
+{
+  "login": "ibelick",
+  "name": "Julien Thibeaut",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/14288396?v=4",
+  "htmlUrl": "https://github.com/ibelick",
+  "location": "Paris",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 17211,
+      "repoCountPrimary": 12,
+      "starsContains": 17211,
+      "repoCountContains": 12,
+      "globalRank": 111,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "motion-primitives",
+          "fullName": "ibelick/motion-primitives",
+          "stars": 5557,
+          "url": "https://github.com/ibelick/motion-primitives",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "prompt-kit",
+          "fullName": "ibelick/prompt-kit",
+          "stars": 2833,
+          "url": "https://github.com/ibelick/prompt-kit",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "background-snippets",
+          "fullName": "ibelick/background-snippets",
+          "stars": 2010,
+          "url": "https://github.com/ibelick/background-snippets",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ui-skills",
+          "fullName": "ibelick/ui-skills",
+          "stars": 1786,
+          "url": "https://github.com/ibelick/ui-skills",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "zola",
+          "fullName": "ibelick/zola",
+          "stars": 1513,
+          "url": "https://github.com/ibelick/zola",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

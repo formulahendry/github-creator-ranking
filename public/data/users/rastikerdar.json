@@ -1,0 +1,34 @@
+{
+  "login": "rastikerdar",
+  "name": "Saber Rastikerdar",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3116038?v=4",
+  "htmlUrl": "https://github.com/rastikerdar",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3045,
+      "repoCountPrimary": 1,
+      "starsContains": 3045,
+      "repoCountContains": 1,
+      "globalRank": 882,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vazirmatn",
+          "fullName": "rastikerdar/vazirmatn",
+          "stars": 3045,
+          "url": "https://github.com/rastikerdar/vazirmatn",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

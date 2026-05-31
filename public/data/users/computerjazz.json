@@ -1,0 +1,55 @@
+{
+  "login": "computerjazz",
+  "name": "Daniel Merrill",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6730148?v=4",
+  "htmlUrl": "https://github.com/computerjazz",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2853,
+      "repoCountPrimary": 4,
+      "starsContains": 2853,
+      "repoCountContains": 4,
+      "globalRank": 935,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-native-draggable-flatlist",
+          "fullName": "computerjazz/react-native-draggable-flatlist",
+          "stars": 2190,
+          "url": "https://github.com/computerjazz/react-native-draggable-flatlist",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-native-swipeable-item",
+          "fullName": "computerjazz/react-native-swipeable-item",
+          "stars": 324,
+          "url": "https://github.com/computerjazz/react-native-swipeable-item",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-native-infinite-pager",
+          "fullName": "computerjazz/react-native-infinite-pager",
+          "stars": 218,
+          "url": "https://github.com/computerjazz/react-native-infinite-pager",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-native-swipe-calendar",
+          "fullName": "computerjazz/react-native-swipe-calendar",
+          "stars": 121,
+          "url": "https://github.com/computerjazz/react-native-swipe-calendar",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

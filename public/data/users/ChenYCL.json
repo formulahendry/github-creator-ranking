@@ -1,0 +1,34 @@
+{
+  "login": "ChenYCL",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/25706676?v=4",
+  "htmlUrl": "https://github.com/ChenYCL",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1041,
+      "repoCountPrimary": 1,
+      "starsContains": 1041,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "chrome-extension-udemy-translate",
+          "fullName": "ChenYCL/chrome-extension-udemy-translate",
+          "stars": 1041,
+          "url": "https://github.com/ChenYCL/chrome-extension-udemy-translate",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

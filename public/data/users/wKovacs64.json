@@ -1,0 +1,48 @@
+{
+  "login": "wKovacs64",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1288694?v=4",
+  "htmlUrl": "https://github.com/wKovacs64",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 760,
+      "repoCountPrimary": 3,
+      "starsContains": 760,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-native-responsive-image-view",
+          "fullName": "wKovacs64/react-native-responsive-image-view",
+          "stars": 399,
+          "url": "https://github.com/wKovacs64/react-native-responsive-image-view",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "pwned",
+          "fullName": "wKovacs64/pwned",
+          "stars": 244,
+          "url": "https://github.com/wKovacs64/pwned",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "hibp",
+          "fullName": "wKovacs64/hibp",
+          "stars": 117,
+          "url": "https://github.com/wKovacs64/hibp",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

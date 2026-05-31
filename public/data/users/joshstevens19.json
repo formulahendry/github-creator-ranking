@@ -1,0 +1,55 @@
+{
+  "login": "joshstevens19",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/18472422?v=4",
+  "htmlUrl": "https://github.com/joshstevens19",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 872,
+      "repoCountPrimary": 4,
+      "starsContains": 872,
+      "repoCountContains": 4,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ethereum-multicall",
+          "fullName": "joshstevens19/ethereum-multicall",
+          "stars": 383,
+          "url": "https://github.com/joshstevens19/ethereum-multicall",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "simple-uniswap-sdk",
+          "fullName": "joshstevens19/simple-uniswap-sdk",
+          "stars": 190,
+          "url": "https://github.com/joshstevens19/simple-uniswap-sdk",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ethereum-abi-types-generator",
+          "fullName": "joshstevens19/ethereum-abi-types-generator",
+          "stars": 165,
+          "url": "https://github.com/joshstevens19/ethereum-abi-types-generator",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "evmc",
+          "fullName": "joshstevens19/evmc",
+          "stars": 134,
+          "url": "https://github.com/joshstevens19/evmc",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

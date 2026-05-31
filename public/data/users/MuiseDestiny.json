@@ -1,0 +1,48 @@
+{
+  "login": "MuiseDestiny",
+  "name": "Polygon",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/51939531?v=4",
+  "htmlUrl": "https://github.com/MuiseDestiny",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 9678,
+      "repoCountPrimary": 3,
+      "starsContains": 9678,
+      "repoCountContains": 3,
+      "globalRank": 233,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "zotero-gpt",
+          "fullName": "MuiseDestiny/zotero-gpt",
+          "stars": 7164,
+          "url": "https://github.com/MuiseDestiny/zotero-gpt",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "zotero-attanger",
+          "fullName": "MuiseDestiny/zotero-attanger",
+          "stars": 1273,
+          "url": "https://github.com/MuiseDestiny/zotero-attanger",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "zotero-citation",
+          "fullName": "MuiseDestiny/zotero-citation",
+          "stars": 1241,
+          "url": "https://github.com/MuiseDestiny/zotero-citation",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

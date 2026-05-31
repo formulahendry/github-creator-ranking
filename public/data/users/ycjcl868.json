@@ -1,0 +1,41 @@
+{
+  "login": "ycjcl868",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/13595509?v=4",
+  "htmlUrl": "https://github.com/ycjcl868",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 440,
+      "repoCountPrimary": 2,
+      "starsContains": 440,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "readme-gpt",
+          "fullName": "ycjcl868/readme-gpt",
+          "stars": 229,
+          "url": "https://github.com/ycjcl868/readme-gpt",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "eslint-gpt",
+          "fullName": "ycjcl868/eslint-gpt",
+          "stars": 211,
+          "url": "https://github.com/ycjcl868/eslint-gpt",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

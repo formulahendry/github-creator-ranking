@@ -1,0 +1,34 @@
+{
+  "login": "jameskerr",
+  "name": "James Kerr",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3460638?v=4",
+  "htmlUrl": "https://github.com/jameskerr",
+  "location": "San Francisco",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3650,
+      "repoCountPrimary": 1,
+      "starsContains": 3650,
+      "repoCountContains": 1,
+      "globalRank": 727,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-arborist",
+          "fullName": "jameskerr/react-arborist",
+          "stars": 3650,
+          "url": "https://github.com/jameskerr/react-arborist",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

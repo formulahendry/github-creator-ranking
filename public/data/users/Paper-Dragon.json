@@ -1,0 +1,34 @@
+{
+  "login": "Paper-Dragon",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/49874457?v=4",
+  "htmlUrl": "https://github.com/Paper-Dragon",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 503,
+      "repoCountPrimary": 1,
+      "starsContains": 503,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "mobaxterm-crack",
+          "fullName": "Paper-Dragon/mobaxterm-crack",
+          "stars": 503,
+          "url": "https://github.com/Paper-Dragon/mobaxterm-crack",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

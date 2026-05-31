@@ -1,0 +1,34 @@
+{
+  "login": "trebeljahr",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/25333032?v=4",
+  "htmlUrl": "https://github.com/trebeljahr",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 158,
+      "repoCountPrimary": 1,
+      "starsContains": 158,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "fractal-garden",
+          "fullName": "trebeljahr/fractal-garden",
+          "stars": 158,
+          "url": "https://github.com/trebeljahr/fractal-garden",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "zainulabedeen123",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/42023640?v=4",
+  "htmlUrl": "https://github.com/zainulabedeen123",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 374,
+      "repoCountPrimary": 2,
+      "starsContains": 374,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "best-saas-kit",
+          "fullName": "zainulabedeen123/best-saas-kit",
+          "stars": 270,
+          "url": "https://github.com/zainulabedeen123/best-saas-kit",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Best-Saas-Kit--V2",
+          "fullName": "zainulabedeen123/Best-Saas-Kit--V2",
+          "stars": 104,
+          "url": "https://github.com/zainulabedeen123/Best-Saas-Kit--V2",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

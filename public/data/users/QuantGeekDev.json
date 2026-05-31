@@ -1,0 +1,48 @@
+{
+  "login": "QuantGeekDev",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/58406316?v=4",
+  "htmlUrl": "https://github.com/QuantGeekDev",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1421,
+      "repoCountPrimary": 3,
+      "starsContains": 1421,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "mcp-framework",
+          "fullName": "QuantGeekDev/mcp-framework",
+          "stars": 918,
+          "url": "https://github.com/QuantGeekDev/mcp-framework",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "lmaolang",
+          "fullName": "QuantGeekDev/lmaolang",
+          "stars": 330,
+          "url": "https://github.com/QuantGeekDev/lmaolang",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "mongo-mcp",
+          "fullName": "QuantGeekDev/mongo-mcp",
+          "stars": 173,
+          "url": "https://github.com/QuantGeekDev/mongo-mcp",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "joaokristani",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/136858930?v=4",
+  "htmlUrl": "https://github.com/joaokristani",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1622,
+      "repoCountPrimary": 2,
+      "starsContains": 1622,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Discord-Server-Cloner-2x",
+          "fullName": "joaokristani/Discord-Server-Cloner-2x",
+          "stars": 1464,
+          "url": "https://github.com/joaokristani/Discord-Server-Cloner-2x",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Discord-server-cloner2web",
+          "fullName": "joaokristani/Discord-server-cloner2web",
+          "stars": 158,
+          "url": "https://github.com/joaokristani/Discord-server-cloner2web",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "shfshanyue",
+  "name": "shanyue",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/13389461?v=4",
+  "htmlUrl": "https://github.com/shfshanyue",
+  "location": "成都",
+  "countryCode": "CN",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 5660,
+      "repoCountPrimary": 2,
+      "starsContains": 5660,
+      "repoCountContains": 2,
+      "globalRank": 428,
+      "countryRank": 54,
+      "topRepos": [
+        {
+          "name": "Daily-Question",
+          "fullName": "shfshanyue/Daily-Question",
+          "stars": 5138,
+          "url": "https://github.com/shfshanyue/Daily-Question",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "wechat-chatgpt",
+          "fullName": "shfshanyue/wechat-chatgpt",
+          "stars": 522,
+          "url": "https://github.com/shfshanyue/wechat-chatgpt",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

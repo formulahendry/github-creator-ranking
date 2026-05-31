@@ -1,0 +1,41 @@
+{
+  "login": "tanvesh01",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/52021185?v=4",
+  "htmlUrl": "https://github.com/tanvesh01",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 229,
+      "repoCountPrimary": 2,
+      "starsContains": 229,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "rudu",
+          "fullName": "tanvesh01/rudu",
+          "stars": 128,
+          "url": "https://github.com/tanvesh01/rudu",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "motion-hooks",
+          "fullName": "tanvesh01/motion-hooks",
+          "stars": 101,
+          "url": "https://github.com/tanvesh01/motion-hooks",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

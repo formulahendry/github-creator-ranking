@@ -1,0 +1,48 @@
+{
+  "login": "evalstate",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1936278?v=4",
+  "htmlUrl": "https://github.com/evalstate",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 614,
+      "repoCountPrimary": 3,
+      "starsContains": 614,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "mcp-hfspace",
+          "fullName": "evalstate/mcp-hfspace",
+          "stars": 386,
+          "url": "https://github.com/evalstate/mcp-hfspace",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "mcp-webcam",
+          "fullName": "evalstate/mcp-webcam",
+          "stars": 118,
+          "url": "https://github.com/evalstate/mcp-webcam",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "mcp-miro",
+          "fullName": "evalstate/mcp-miro",
+          "stars": 110,
+          "url": "https://github.com/evalstate/mcp-miro",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

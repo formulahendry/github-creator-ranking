@@ -1,0 +1,48 @@
+{
+  "login": "ahmadawais",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/960133?v=4",
+  "htmlUrl": "https://github.com/ahmadawais",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1857,
+      "repoCountPrimary": 3,
+      "starsContains": 1857,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "chartli",
+          "fullName": "ahmadawais/chartli",
+          "stars": 733,
+          "url": "https://github.com/ahmadawais/chartli",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ramadan-cli",
+          "fullName": "ahmadawais/ramadan-cli",
+          "stars": 604,
+          "url": "https://github.com/ahmadawais/ramadan-cli",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "terminui",
+          "fullName": "ahmadawais/terminui",
+          "stars": 520,
+          "url": "https://github.com/ahmadawais/terminui",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

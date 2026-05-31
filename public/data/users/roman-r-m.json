@@ -1,0 +1,34 @@
+{
+  "login": "roman-r-m",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/995612?v=4",
+  "htmlUrl": "https://github.com/roman-r-m",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 104,
+      "repoCountPrimary": 1,
+      "starsContains": 104,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "joplin-plugin-quick-links",
+          "fullName": "roman-r-m/joplin-plugin-quick-links",
+          "stars": 104,
+          "url": "https://github.com/roman-r-m/joplin-plugin-quick-links",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

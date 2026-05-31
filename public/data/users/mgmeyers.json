@@ -1,0 +1,55 @@
+{
+  "login": "mgmeyers",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2694747?v=4",
+  "htmlUrl": "https://github.com/mgmeyers",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1243,
+      "repoCountPrimary": 4,
+      "starsContains": 1243,
+      "repoCountContains": 4,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "obsidian-list-callouts",
+          "fullName": "mgmeyers/obsidian-list-callouts",
+          "stars": 486,
+          "url": "https://github.com/mgmeyers/obsidian-list-callouts",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "obsidian-smart-typography",
+          "fullName": "mgmeyers/obsidian-smart-typography",
+          "stars": 332,
+          "url": "https://github.com/mgmeyers/obsidian-smart-typography",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "obsidian-copy-block-link",
+          "fullName": "mgmeyers/obsidian-copy-block-link",
+          "stars": 233,
+          "url": "https://github.com/mgmeyers/obsidian-copy-block-link",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "obsidian-contextual-typography",
+          "fullName": "mgmeyers/obsidian-contextual-typography",
+          "stars": 192,
+          "url": "https://github.com/mgmeyers/obsidian-contextual-typography",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

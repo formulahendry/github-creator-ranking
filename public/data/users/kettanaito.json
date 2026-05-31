@@ -1,0 +1,62 @@
+{
+  "login": "kettanaito",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/14984911?v=4",
+  "htmlUrl": "https://github.com/kettanaito",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2240,
+      "repoCountPrimary": 5,
+      "starsContains": 2240,
+      "repoCountContains": 5,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "atomic-layout",
+          "fullName": "kettanaito/atomic-layout",
+          "stars": 1138,
+          "url": "https://github.com/kettanaito/atomic-layout",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "until-async",
+          "fullName": "kettanaito/until-async",
+          "stars": 608,
+          "url": "https://github.com/kettanaito/until-async",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "rettime",
+          "fullName": "kettanaito/rettime",
+          "stars": 203,
+          "url": "https://github.com/kettanaito/rettime",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "async-history-stack",
+          "fullName": "kettanaito/async-history-stack",
+          "stars": 160,
+          "url": "https://github.com/kettanaito/async-history-stack",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "playwright-persona",
+          "fullName": "kettanaito/playwright-persona",
+          "stars": 131,
+          "url": "https://github.com/kettanaito/playwright-persona",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

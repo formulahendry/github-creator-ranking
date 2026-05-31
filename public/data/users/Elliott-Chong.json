@@ -1,0 +1,62 @@
+{
+  "login": "Elliott-Chong",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/77007117?v=4",
+  "htmlUrl": "https://github.com/Elliott-Chong",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1621,
+      "repoCountPrimary": 5,
+      "starsContains": 1621,
+      "repoCountContains": 5,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "chatpdf-yt",
+          "fullName": "Elliott-Chong/chatpdf-yt",
+          "stars": 784,
+          "url": "https://github.com/Elliott-Chong/chatpdf-yt",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "normalhuman",
+          "fullName": "Elliott-Chong/normalhuman",
+          "stars": 321,
+          "url": "https://github.com/Elliott-Chong/normalhuman",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "quizmify",
+          "fullName": "Elliott-Chong/quizmify",
+          "stars": 243,
+          "url": "https://github.com/Elliott-Chong/quizmify",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "aideation-yt",
+          "fullName": "Elliott-Chong/aideation-yt",
+          "stars": 155,
+          "url": "https://github.com/Elliott-Chong/aideation-yt",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "learning-journey-yt",
+          "fullName": "Elliott-Chong/learning-journey-yt",
+          "stars": 118,
+          "url": "https://github.com/Elliott-Chong/learning-journey-yt",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "jisotalo",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/13457157?v=4",
+  "htmlUrl": "https://github.com/jisotalo",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 111,
+      "repoCountPrimary": 1,
+      "starsContains": 111,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ads-client",
+          "fullName": "jisotalo/ads-client",
+          "stars": 111,
+          "url": "https://github.com/jisotalo/ads-client",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

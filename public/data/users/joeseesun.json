@@ -1,0 +1,55 @@
+{
+  "login": "joeseesun",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3236682?v=4",
+  "htmlUrl": "https://github.com/joeseesun",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 744,
+      "repoCountPrimary": 4,
+      "starsContains": 744,
+      "repoCountContains": 4,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "drawnix-seedream",
+          "fullName": "joeseesun/drawnix-seedream",
+          "stars": 259,
+          "url": "https://github.com/joeseesun/drawnix-seedream",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "qiaomu-blog-opensource",
+          "fullName": "joeseesun/qiaomu-blog-opensource",
+          "stars": 235,
+          "url": "https://github.com/joeseesun/qiaomu-blog-opensource",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "img-cool",
+          "fullName": "joeseesun/img-cool",
+          "stars": 133,
+          "url": "https://github.com/joeseesun/img-cool",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "qiaomu-artist-style",
+          "fullName": "joeseesun/qiaomu-artist-style",
+          "stars": 117,
+          "url": "https://github.com/joeseesun/qiaomu-artist-style",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

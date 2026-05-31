@@ -1,0 +1,55 @@
+{
+  "login": "JamieMason",
+  "name": "Jamie Mason",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/320492?v=4",
+  "htmlUrl": "https://github.com/JamieMason",
+  "location": "Leeds, United Kingdom",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 4619,
+      "repoCountPrimary": 4,
+      "starsContains": 4619,
+      "repoCountContains": 4,
+      "globalRank": 555,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ImageOptim-CLI",
+          "fullName": "JamieMason/ImageOptim-CLI",
+          "stars": 3522,
+          "url": "https://github.com/JamieMason/ImageOptim-CLI",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "shrinkpack",
+          "fullName": "JamieMason/shrinkpack",
+          "stars": 803,
+          "url": "https://github.com/JamieMason/shrinkpack",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "expect-more",
+          "fullName": "JamieMason/expect-more",
+          "stars": 173,
+          "url": "https://github.com/JamieMason/expect-more",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "astexplorer.app",
+          "fullName": "JamieMason/astexplorer.app",
+          "stars": 121,
+          "url": "https://github.com/JamieMason/astexplorer.app",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

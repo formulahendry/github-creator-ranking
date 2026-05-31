@@ -1,0 +1,41 @@
+{
+  "login": "ccrsxx",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/55032197?v=4",
+  "htmlUrl": "https://github.com/ccrsxx",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1069,
+      "repoCountPrimary": 2,
+      "starsContains": 1069,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "twitter-clone",
+          "fullName": "ccrsxx/twitter-clone",
+          "stars": 950,
+          "url": "https://github.com/ccrsxx/twitter-clone",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "portofolio",
+          "fullName": "ccrsxx/portofolio",
+          "stars": 119,
+          "url": "https://github.com/ccrsxx/portofolio",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

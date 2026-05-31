@@ -1,0 +1,41 @@
+{
+  "login": "imbhargav5",
+  "name": "Ponnapalli Bhargav",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2936644?v=4",
+  "htmlUrl": "https://github.com/imbhargav5",
+  "location": "Hyderabad, India",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 4235,
+      "repoCountPrimary": 2,
+      "starsContains": 4235,
+      "repoCountContains": 2,
+      "globalRank": 611,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "rooks",
+          "fullName": "imbhargav5/rooks",
+          "stars": 3444,
+          "url": "https://github.com/imbhargav5/rooks",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "nextbase-nextjs-supabase-starter",
+          "fullName": "imbhargav5/nextbase-nextjs-supabase-starter",
+          "stars": 791,
+          "url": "https://github.com/imbhargav5/nextbase-nextjs-supabase-starter",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "floydspace",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5180700?v=4",
+  "htmlUrl": "https://github.com/floydspace",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 664,
+      "repoCountPrimary": 2,
+      "starsContains": 664,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "serverless-esbuild",
+          "fullName": "floydspace/serverless-esbuild",
+          "stars": 469,
+          "url": "https://github.com/floydspace/serverless-esbuild",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "effect-aws",
+          "fullName": "floydspace/effect-aws",
+          "stars": 195,
+          "url": "https://github.com/floydspace/effect-aws",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

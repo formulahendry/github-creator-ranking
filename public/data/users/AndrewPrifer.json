@@ -1,0 +1,55 @@
+{
+  "login": "AndrewPrifer",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2991360?v=4",
+  "htmlUrl": "https://github.com/AndrewPrifer",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2678,
+      "repoCountPrimary": 4,
+      "starsContains": 2678,
+      "repoCountContains": 4,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "liquid-dom",
+          "fullName": "AndrewPrifer/liquid-dom",
+          "stars": 2006,
+          "url": "https://github.com/AndrewPrifer/liquid-dom",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-three-editable",
+          "fullName": "AndrewPrifer/react-three-editable",
+          "stars": 368,
+          "url": "https://github.com/AndrewPrifer/react-three-editable",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "progressive-blur",
+          "fullName": "AndrewPrifer/progressive-blur",
+          "stars": 152,
+          "url": "https://github.com/AndrewPrifer/progressive-blur",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "framer-motion-theatre",
+          "fullName": "AndrewPrifer/framer-motion-theatre",
+          "stars": 152,
+          "url": "https://github.com/AndrewPrifer/framer-motion-theatre",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "abhay-ramesh",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/66196314?v=4",
+  "htmlUrl": "https://github.com/abhay-ramesh",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 324,
+      "repoCountPrimary": 2,
+      "starsContains": 324,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "pushduck",
+          "fullName": "abhay-ramesh/pushduck",
+          "stars": 200,
+          "url": "https://github.com/abhay-ramesh/pushduck",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Wordmark",
+          "fullName": "abhay-ramesh/Wordmark",
+          "stars": 124,
+          "url": "https://github.com/abhay-ramesh/Wordmark",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

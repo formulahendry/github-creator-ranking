@@ -1,0 +1,41 @@
+{
+  "login": "dylanebert",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/8866301?v=4",
+  "htmlUrl": "https://github.com/dylanebert",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 455,
+      "repoCountPrimary": 2,
+      "starsContains": 455,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "shallot",
+          "fullName": "dylanebert/shallot",
+          "stars": 248,
+          "url": "https://github.com/dylanebert/shallot",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "texel-splatting",
+          "fullName": "dylanebert/texel-splatting",
+          "stars": 207,
+          "url": "https://github.com/dylanebert/texel-splatting",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

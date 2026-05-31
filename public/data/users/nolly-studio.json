@@ -1,0 +1,48 @@
+{
+  "login": "nolly-studio",
+  "name": "jordan",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/133936441?v=4",
+  "htmlUrl": "https://github.com/nolly-studio",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 5759,
+      "repoCountPrimary": 3,
+      "starsContains": 5759,
+      "repoCountContains": 3,
+      "globalRank": 419,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "cult-ui",
+          "fullName": "nolly-studio/cult-ui",
+          "stars": 4794,
+          "url": "https://github.com/nolly-studio/cult-ui",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "cult-directory-template",
+          "fullName": "nolly-studio/cult-directory-template",
+          "stars": 673,
+          "url": "https://github.com/nolly-studio/cult-directory-template",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ai-chatbot-supabase",
+          "fullName": "nolly-studio/ai-chatbot-supabase",
+          "stars": 292,
+          "url": "https://github.com/nolly-studio/ai-chatbot-supabase",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "PeterDing",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/670690?v=4",
+  "htmlUrl": "https://github.com/PeterDing",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 781,
+      "repoCountPrimary": 1,
+      "starsContains": 781,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "chord",
+          "fullName": "PeterDing/chord",
+          "stars": 781,
+          "url": "https://github.com/PeterDing/chord",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

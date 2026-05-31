@@ -1,0 +1,34 @@
+{
+  "login": "Denoder",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1527149?v=4",
+  "htmlUrl": "https://github.com/Denoder",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 143,
+      "repoCountPrimary": 1,
+      "starsContains": 143,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "nuxt-module-alternatives",
+          "fullName": "Denoder/nuxt-module-alternatives",
+          "stars": 143,
+          "url": "https://github.com/Denoder/nuxt-module-alternatives",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

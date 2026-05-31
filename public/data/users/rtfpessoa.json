@@ -1,0 +1,41 @@
+{
+  "login": "rtfpessoa",
+  "name": "Rodrigo Fernandes",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/902384?v=4",
+  "htmlUrl": "https://github.com/rtfpessoa",
+  "location": "Lisbon",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3968,
+      "repoCountPrimary": 2,
+      "starsContains": 3968,
+      "repoCountContains": 2,
+      "globalRank": 666,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "diff2html",
+          "fullName": "rtfpessoa/diff2html",
+          "stars": 3374,
+          "url": "https://github.com/rtfpessoa/diff2html",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "diff2html-cli",
+          "fullName": "rtfpessoa/diff2html-cli",
+          "stars": 594,
+          "url": "https://github.com/rtfpessoa/diff2html-cli",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

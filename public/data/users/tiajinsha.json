@@ -1,0 +1,34 @@
+{
+  "login": "tiajinsha",
+  "name": "jinsha",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/49967568?v=4",
+  "htmlUrl": "https://github.com/tiajinsha",
+  "location": "ChongQing/China",
+  "countryCode": "CN",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 4982,
+      "repoCountPrimary": 1,
+      "starsContains": 4982,
+      "repoCountContains": 1,
+      "globalRank": 509,
+      "countryRank": 62,
+      "topRepos": [
+        {
+          "name": "JKVideo",
+          "fullName": "tiajinsha/JKVideo",
+          "stars": 4982,
+          "url": "https://github.com/tiajinsha/JKVideo",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

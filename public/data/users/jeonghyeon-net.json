@@ -1,0 +1,34 @@
+{
+  "login": "jeonghyeon-net",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/25793226?v=4",
+  "htmlUrl": "https://github.com/jeonghyeon-net",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 109,
+      "repoCountPrimary": 1,
+      "starsContains": 109,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "exif-frame",
+          "fullName": "jeonghyeon-net/exif-frame",
+          "stars": 109,
+          "url": "https://github.com/jeonghyeon-net/exif-frame",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

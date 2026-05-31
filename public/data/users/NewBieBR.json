@@ -1,0 +1,41 @@
+{
+  "login": "NewBieBR",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/26981851?v=4",
+  "htmlUrl": "https://github.com/NewBieBR",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 286,
+      "repoCountPrimary": 2,
+      "starsContains": 286,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-native-normalize",
+          "fullName": "NewBieBR/react-native-normalize",
+          "stars": 152,
+          "url": "https://github.com/NewBieBR/react-native-normalize",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-native-magic-confetti",
+          "fullName": "NewBieBR/react-native-magic-confetti",
+          "stars": 134,
+          "url": "https://github.com/NewBieBR/react-native-magic-confetti",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

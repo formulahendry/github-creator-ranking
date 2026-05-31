@@ -1,0 +1,41 @@
+{
+  "login": "b1rdmania",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/102524336?v=4",
+  "htmlUrl": "https://github.com/b1rdmania",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 482,
+      "repoCountPrimary": 2,
+      "starsContains": 482,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "motif",
+          "fullName": "b1rdmania/motif",
+          "stars": 380,
+          "url": "https://github.com/b1rdmania/motif",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ghostclaw",
+          "fullName": "b1rdmania/ghostclaw",
+          "stars": 102,
+          "url": "https://github.com/b1rdmania/ghostclaw",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

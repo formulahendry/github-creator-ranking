@@ -1,0 +1,34 @@
+{
+  "login": "ricky0123",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/89492199?v=4",
+  "htmlUrl": "https://github.com/ricky0123",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1980,
+      "repoCountPrimary": 1,
+      "starsContains": 1980,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vad",
+          "fullName": "ricky0123/vad",
+          "stars": 1980,
+          "url": "https://github.com/ricky0123/vad",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

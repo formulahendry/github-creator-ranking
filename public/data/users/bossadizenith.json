@@ -1,0 +1,48 @@
+{
+  "login": "bossadizenith",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/135658967?v=4",
+  "htmlUrl": "https://github.com/bossadizenith",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 788,
+      "repoCountPrimary": 3,
+      "starsContains": 788,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Framer-ground",
+          "fullName": "bossadizenith/Framer-ground",
+          "stars": 438,
+          "url": "https://github.com/bossadizenith/Framer-ground",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ground-v2",
+          "fullName": "bossadizenith/ground-v2",
+          "stars": 189,
+          "url": "https://github.com/bossadizenith/ground-v2",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "tidyup",
+          "fullName": "bossadizenith/tidyup",
+          "stars": 161,
+          "url": "https://github.com/bossadizenith/tidyup",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

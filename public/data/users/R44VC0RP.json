@@ -1,0 +1,48 @@
+{
+  "login": "R44VC0RP",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/89211796?v=4",
+  "htmlUrl": "https://github.com/R44VC0RP",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1347,
+      "repoCountPrimary": 3,
+      "starsContains": 1347,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "pgrok",
+          "fullName": "R44VC0RP/pgrok",
+          "stars": 887,
+          "url": "https://github.com/R44VC0RP/pgrok",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "agenda.dev",
+          "fullName": "R44VC0RP/agenda.dev",
+          "stars": 298,
+          "url": "https://github.com/R44VC0RP/agenda.dev",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "opencode.cafe",
+          "fullName": "R44VC0RP/opencode.cafe",
+          "stars": 162,
+          "url": "https://github.com/R44VC0RP/opencode.cafe",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

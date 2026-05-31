@@ -1,0 +1,34 @@
+{
+  "login": "luyu14039",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/146697341?v=4",
+  "htmlUrl": "https://github.com/luyu14039",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 136,
+      "repoCountPrimary": 1,
+      "starsContains": 136,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Which-hour-will-you-serve",
+          "fullName": "luyu14039/Which-hour-will-you-serve",
+          "stars": 136,
+          "url": "https://github.com/luyu14039/Which-hour-will-you-serve",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

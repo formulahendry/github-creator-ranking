@@ -1,0 +1,41 @@
+{
+  "login": "willgm",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2189998?v=4",
+  "htmlUrl": "https://github.com/willgm",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 536,
+      "repoCountPrimary": 2,
+      "starsContains": 536,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "web-crypto-storage",
+          "fullName": "willgm/web-crypto-storage",
+          "stars": 378,
+          "url": "https://github.com/willgm/web-crypto-storage",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "web-crypto-tools",
+          "fullName": "willgm/web-crypto-tools",
+          "stars": 158,
+          "url": "https://github.com/willgm/web-crypto-tools",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

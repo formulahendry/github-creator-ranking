@@ -1,0 +1,41 @@
+{
+  "login": "JCMais",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1041647?v=4",
+  "htmlUrl": "https://github.com/JCMais",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 818,
+      "repoCountPrimary": 2,
+      "starsContains": 818,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "node-libcurl",
+          "fullName": "JCMais/node-libcurl",
+          "stars": 715,
+          "url": "https://github.com/JCMais/node-libcurl",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "graphql-yup-middleware",
+          "fullName": "JCMais/graphql-yup-middleware",
+          "stars": 103,
+          "url": "https://github.com/JCMais/graphql-yup-middleware",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

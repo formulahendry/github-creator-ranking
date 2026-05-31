@@ -1,0 +1,34 @@
+{
+  "login": "binaricat",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/16399091?v=4",
+  "htmlUrl": "https://github.com/binaricat",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1974,
+      "repoCountPrimary": 1,
+      "starsContains": 1974,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Netcatty",
+          "fullName": "binaricat/Netcatty",
+          "stars": 1974,
+          "url": "https://github.com/binaricat/Netcatty",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

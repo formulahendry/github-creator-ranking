@@ -1,0 +1,41 @@
+{
+  "login": "elitan",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/331818?v=4",
+  "htmlUrl": "https://github.com/elitan",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 531,
+      "repoCountPrimary": 2,
+      "starsContains": 531,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "frost",
+          "fullName": "elitan/frost",
+          "stars": 326,
+          "url": "https://github.com/elitan/frost",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "velo",
+          "fullName": "elitan/velo",
+          "stars": 205,
+          "url": "https://github.com/elitan/velo",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

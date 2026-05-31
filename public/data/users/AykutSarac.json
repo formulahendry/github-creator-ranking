@@ -1,11 +1,11 @@
 {
   "login": "AykutSarac",
-  "name": null,
+  "name": "Aykut Saraç",
   "avatarUrl": "https://avatars.githubusercontent.com/u/47941171?v=4",
   "htmlUrl": "https://github.com/AykutSarac",
-  "location": null,
+  "location": "Turkey",
   "countryCode": null,
-  "generatedAt": "2026-05-31T13:50:40.799Z",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
   "isPartial": true,
   "languages": [
     {
@@ -14,18 +14,32 @@
         "name": "TypeScript",
         "githubQuery": "TypeScript"
       },
-      "starsPrimary": 44062,
-      "repoCountPrimary": 1,
-      "starsContains": 44062,
-      "repoCountContains": 1,
-      "globalRank": 15,
+      "starsPrimary": 45781,
+      "repoCountPrimary": 3,
+      "starsContains": 45781,
+      "repoCountContains": 3,
+      "globalRank": 23,
       "countryRank": null,
       "topRepos": [
         {
           "name": "jsoncrack.com",
           "fullName": "AykutSarac/jsoncrack.com",
-          "stars": 44062,
+          "stars": 44064,
           "url": "https://github.com/AykutSarac/jsoncrack.com",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "github-rater",
+          "fullName": "AykutSarac/github-rater",
+          "stars": 1105,
+          "url": "https://github.com/AykutSarac/github-rater",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "jsoncrack-vscode",
+          "fullName": "AykutSarac/jsoncrack-vscode",
+          "stars": 612,
+          "url": "https://github.com/AykutSarac/jsoncrack-vscode",
           "primaryLanguage": "TypeScript"
         }
       ]

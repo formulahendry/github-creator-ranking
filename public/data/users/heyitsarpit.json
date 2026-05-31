@@ -1,0 +1,34 @@
+{
+  "login": "heyitsarpit",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/18533307?v=4",
+  "htmlUrl": "https://github.com/heyitsarpit",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 391,
+      "repoCountPrimary": 1,
+      "starsContains": 391,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-hooks-library",
+          "fullName": "heyitsarpit/react-hooks-library",
+          "stars": 391,
+          "url": "https://github.com/heyitsarpit/react-hooks-library",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

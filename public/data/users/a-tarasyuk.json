@@ -1,0 +1,48 @@
+{
+  "login": "a-tarasyuk",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/509265?v=4",
+  "htmlUrl": "https://github.com/a-tarasyuk",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 379,
+      "repoCountPrimary": 3,
+      "starsContains": 379,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "rollup-typescript-babel",
+          "fullName": "a-tarasyuk/rollup-typescript-babel",
+          "stars": 139,
+          "url": "https://github.com/a-tarasyuk/rollup-typescript-babel",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "webpack-typescript-babel",
+          "fullName": "a-tarasyuk/webpack-typescript-babel",
+          "stars": 138,
+          "url": "https://github.com/a-tarasyuk/webpack-typescript-babel",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-webpack-typescript-babel",
+          "fullName": "a-tarasyuk/react-webpack-typescript-babel",
+          "stars": 102,
+          "url": "https://github.com/a-tarasyuk/react-webpack-typescript-babel",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

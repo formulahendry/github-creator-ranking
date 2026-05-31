@@ -1,0 +1,34 @@
+{
+  "login": "StarkShang",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/11701842?v=4",
+  "htmlUrl": "https://github.com/StarkShang",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 493,
+      "repoCountPrimary": 1,
+      "starsContains": 493,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vite-plugin-chrome-extension",
+          "fullName": "StarkShang/vite-plugin-chrome-extension",
+          "stars": 493,
+          "url": "https://github.com/StarkShang/vite-plugin-chrome-extension",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

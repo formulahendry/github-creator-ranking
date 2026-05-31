@@ -1,0 +1,41 @@
+{
+  "login": "yoshiko-pg",
+  "name": "yoshiko",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6822923?v=4",
+  "htmlUrl": "https://github.com/yoshiko-pg",
+  "location": "Tokyo",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2830,
+      "repoCountPrimary": 2,
+      "starsContains": 2830,
+      "repoCountContains": 2,
+      "globalRank": 944,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "difit",
+          "fullName": "yoshiko-pg/difit",
+          "stars": 2709,
+          "url": "https://github.com/yoshiko-pg/difit",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "your-name",
+          "fullName": "yoshiko-pg/your-name",
+          "stars": 121,
+          "url": "https://github.com/yoshiko-pg/your-name",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

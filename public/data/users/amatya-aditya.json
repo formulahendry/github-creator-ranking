@@ -1,0 +1,41 @@
+{
+  "login": "amatya-aditya",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/63241408?v=4",
+  "htmlUrl": "https://github.com/amatya-aditya",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 679,
+      "repoCountPrimary": 2,
+      "starsContains": 679,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "obsidian-rss-dashboard",
+          "fullName": "amatya-aditya/obsidian-rss-dashboard",
+          "stars": 568,
+          "url": "https://github.com/amatya-aditya/obsidian-rss-dashboard",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "obsidian-media-slider",
+          "fullName": "amatya-aditya/obsidian-media-slider",
+          "stars": 111,
+          "url": "https://github.com/amatya-aditya/obsidian-media-slider",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

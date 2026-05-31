@@ -1,0 +1,34 @@
+{
+  "login": "sb2nov",
+  "name": "Sourabh Bajaj",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1517779?v=4",
+  "htmlUrl": "https://github.com/sb2nov",
+  "location": "Mountain View",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 7357,
+      "repoCountPrimary": 1,
+      "starsContains": 7357,
+      "repoCountContains": 1,
+      "globalRank": 307,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "mac-setup",
+          "fullName": "sb2nov/mac-setup",
+          "stars": 7357,
+          "url": "https://github.com/sb2nov/mac-setup",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

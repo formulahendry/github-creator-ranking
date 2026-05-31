@@ -1,0 +1,34 @@
+{
+  "login": "lqs",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/501269?v=4",
+  "htmlUrl": "https://github.com/lqs",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 262,
+      "repoCountPrimary": 1,
+      "starsContains": 262,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "retrotick",
+          "fullName": "lqs/retrotick",
+          "stars": 262,
+          "url": "https://github.com/lqs/retrotick",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "royib",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6972754?v=4",
+  "htmlUrl": "https://github.com/royib",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 929,
+      "repoCountPrimary": 1,
+      "starsContains": 929,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "clean-architecture-nestJS",
+          "fullName": "royib/clean-architecture-nestJS",
+          "stars": 929,
+          "url": "https://github.com/royib/clean-architecture-nestJS",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

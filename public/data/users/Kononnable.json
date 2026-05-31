@@ -1,0 +1,34 @@
+{
+  "login": "Kononnable",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/9082099?v=4",
+  "htmlUrl": "https://github.com/Kononnable",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1523,
+      "repoCountPrimary": 1,
+      "starsContains": 1523,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "typeorm-model-generator",
+          "fullName": "Kononnable/typeorm-model-generator",
+          "stars": 1523,
+          "url": "https://github.com/Kononnable/typeorm-model-generator",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

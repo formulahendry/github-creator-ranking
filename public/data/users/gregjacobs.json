@@ -1,0 +1,41 @@
+{
+  "login": "gregjacobs",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/302273?v=4",
+  "htmlUrl": "https://github.com/gregjacobs",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1745,
+      "repoCountPrimary": 2,
+      "starsContains": 1745,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Autolinker.js",
+          "fullName": "gregjacobs/Autolinker.js",
+          "stars": 1496,
+          "url": "https://github.com/gregjacobs/Autolinker.js",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "js-to-ts-converter",
+          "fullName": "gregjacobs/js-to-ts-converter",
+          "stars": 249,
+          "url": "https://github.com/gregjacobs/js-to-ts-converter",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

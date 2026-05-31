@@ -1,0 +1,48 @@
+{
+  "login": "zce",
+  "name": "Lei",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6166576?v=4",
+  "htmlUrl": "https://github.com/zce",
+  "location": "Beijing, China",
+  "countryCode": "CN",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 4573,
+      "repoCountPrimary": 3,
+      "starsContains": 4573,
+      "repoCountContains": 3,
+      "globalRank": 561,
+      "countryRank": 69,
+      "topRepos": [
+        {
+          "name": "caz",
+          "fullName": "zce/caz",
+          "stars": 2482,
+          "url": "https://github.com/zce/caz",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "fearless",
+          "fullName": "zce/fearless",
+          "stars": 1311,
+          "url": "https://github.com/zce/fearless",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "velite",
+          "fullName": "zce/velite",
+          "stars": 780,
+          "url": "https://github.com/zce/velite",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

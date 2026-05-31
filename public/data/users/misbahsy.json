@@ -1,0 +1,48 @@
+{
+  "login": "misbahsy",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/35427888?v=4",
+  "htmlUrl": "https://github.com/misbahsy",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 860,
+      "repoCountPrimary": 3,
+      "starsContains": 860,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "meetingmind",
+          "fullName": "misbahsy/meetingmind",
+          "stars": 499,
+          "url": "https://github.com/misbahsy/meetingmind",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Doc2Podcast",
+          "fullName": "misbahsy/Doc2Podcast",
+          "stars": 235,
+          "url": "https://github.com/misbahsy/Doc2Podcast",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "MindMapper",
+          "fullName": "misbahsy/MindMapper",
+          "stars": 126,
+          "url": "https://github.com/misbahsy/MindMapper",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

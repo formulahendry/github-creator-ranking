@@ -1,0 +1,34 @@
+{
+  "login": "Mclisterjoeh2o",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/87401817?v=4",
+  "htmlUrl": "https://github.com/Mclisterjoeh2o",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 454,
+      "repoCountPrimary": 1,
+      "starsContains": 454,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "yellowkey-bitlocker",
+          "fullName": "Mclisterjoeh2o/yellowkey-bitlocker",
+          "stars": 454,
+          "url": "https://github.com/Mclisterjoeh2o/yellowkey-bitlocker",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

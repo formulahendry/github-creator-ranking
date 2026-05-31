@@ -1,0 +1,34 @@
+{
+  "login": "DiederikvandenB",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6132723?v=4",
+  "htmlUrl": "https://github.com/DiederikvandenB",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 125,
+      "repoCountPrimary": 1,
+      "starsContains": 125,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "apollo-link-sentry",
+          "fullName": "DiederikvandenB/apollo-link-sentry",
+          "stars": 125,
+          "url": "https://github.com/DiederikvandenB/apollo-link-sentry",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

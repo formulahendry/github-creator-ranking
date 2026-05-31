@@ -1,0 +1,41 @@
+{
+  "login": "guokaigdg",
+  "name": "guokaigdg",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/9608847?v=4",
+  "htmlUrl": "https://github.com/guokaigdg",
+  "location": "beijing,China",
+  "countryCode": "CN",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3436,
+      "repoCountPrimary": 2,
+      "starsContains": 3436,
+      "repoCountContains": 2,
+      "globalRank": 786,
+      "countryRank": 90,
+      "topRepos": [
+        {
+          "name": "animal-island-ui",
+          "fullName": "guokaigdg/animal-island-ui",
+          "stars": 2906,
+          "url": "https://github.com/guokaigdg/animal-island-ui",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-seed",
+          "fullName": "guokaigdg/react-seed",
+          "stars": 530,
+          "url": "https://github.com/guokaigdg/react-seed",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "dcolley",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1845970?v=4",
+  "htmlUrl": "https://github.com/dcolley",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 114,
+      "repoCountPrimary": 1,
+      "starsContains": 114,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "swagger-mcp",
+          "fullName": "dcolley/swagger-mcp",
+          "stars": 114,
+          "url": "https://github.com/dcolley/swagger-mcp",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

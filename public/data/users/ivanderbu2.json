@@ -1,0 +1,34 @@
+{
+  "login": "ivanderbu2",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2388543?v=4",
+  "htmlUrl": "https://github.com/ivanderbu2",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 104,
+      "repoCountPrimary": 1,
+      "starsContains": 104,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "angular-redux",
+          "fullName": "ivanderbu2/angular-redux",
+          "stars": 104,
+          "url": "https://github.com/ivanderbu2/angular-redux",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

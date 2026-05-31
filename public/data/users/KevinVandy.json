@@ -1,0 +1,48 @@
+{
+  "login": "KevinVandy",
+  "name": "Kevin Van Cott",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/28243511?v=4",
+  "htmlUrl": "https://github.com/KevinVandy",
+  "location": "Nebraska",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3439,
+      "repoCountPrimary": 3,
+      "starsContains": 3439,
+      "repoCountContains": 3,
+      "globalRank": 785,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "material-react-table",
+          "fullName": "KevinVandy/material-react-table",
+          "stars": 1792,
+          "url": "https://github.com/KevinVandy/material-react-table",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "mantine-react-table",
+          "fullName": "KevinVandy/mantine-react-table",
+          "stars": 1096,
+          "url": "https://github.com/KevinVandy/mantine-react-table",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-data-fetching",
+          "fullName": "KevinVandy/react-data-fetching",
+          "stars": 551,
+          "url": "https://github.com/KevinVandy/react-data-fetching",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "baimingxuan",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/26238723?v=4",
+  "htmlUrl": "https://github.com/baimingxuan",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 593,
+      "repoCountPrimary": 2,
+      "starsContains": 593,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vue3-admin-design",
+          "fullName": "baimingxuan/vue3-admin-design",
+          "stars": 337,
+          "url": "https://github.com/baimingxuan/vue3-admin-design",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-admin-design",
+          "fullName": "baimingxuan/react-admin-design",
+          "stars": 256,
+          "url": "https://github.com/baimingxuan/react-admin-design",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

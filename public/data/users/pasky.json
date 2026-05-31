@@ -1,0 +1,34 @@
+{
+  "login": "pasky",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/18439?v=4",
+  "htmlUrl": "https://github.com/pasky",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 208,
+      "repoCountPrimary": 1,
+      "starsContains": 208,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "pi-amplike",
+          "fullName": "pasky/pi-amplike",
+          "stars": 208,
+          "url": "https://github.com/pasky/pi-amplike",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

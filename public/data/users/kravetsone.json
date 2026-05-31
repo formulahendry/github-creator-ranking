@@ -1,0 +1,41 @@
+{
+  "login": "kravetsone",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/57632712?v=4",
+  "htmlUrl": "https://github.com/kravetsone",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 296,
+      "repoCountPrimary": 2,
+      "starsContains": 296,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "create-elysiajs",
+          "fullName": "kravetsone/create-elysiajs",
+          "stars": 154,
+          "url": "https://github.com/kravetsone/create-elysiajs",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "elysia-autoload",
+          "fullName": "kravetsone/elysia-autoload",
+          "stars": 142,
+          "url": "https://github.com/kravetsone/elysia-autoload",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "dubzzz",
+  "name": "Nicolas DUBIEN",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5300235?v=4",
+  "htmlUrl": "https://github.com/dubzzz",
+  "location": "Remote, France",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 5120,
+      "repoCountPrimary": 2,
+      "starsContains": 5120,
+      "repoCountContains": 2,
+      "globalRank": 488,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "fast-check",
+          "fullName": "dubzzz/fast-check",
+          "stars": 5010,
+          "url": "https://github.com/dubzzz/fast-check",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "pure-rand",
+          "fullName": "dubzzz/pure-rand",
+          "stars": 110,
+          "url": "https://github.com/dubzzz/pure-rand",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

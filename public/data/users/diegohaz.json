@@ -1,0 +1,41 @@
+{
+  "login": "diegohaz",
+  "name": "Haz",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3068563?v=4",
+  "htmlUrl": "https://github.com/diegohaz",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 4487,
+      "repoCountPrimary": 2,
+      "starsContains": 4487,
+      "repoCountContains": 2,
+      "globalRank": 573,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "constate",
+          "fullName": "diegohaz/constate",
+          "stars": 3996,
+          "url": "https://github.com/diegohaz/constate",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "reuse",
+          "fullName": "diegohaz/reuse",
+          "stars": 491,
+          "url": "https://github.com/diegohaz/reuse",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

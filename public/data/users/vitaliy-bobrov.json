@@ -1,0 +1,34 @@
+{
+  "login": "vitaliy-bobrov",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6780441?v=4",
+  "htmlUrl": "https://github.com/vitaliy-bobrov",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 188,
+      "repoCountPrimary": 1,
+      "starsContains": 188,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "js-rocks",
+          "fullName": "vitaliy-bobrov/js-rocks",
+          "stars": 188,
+          "url": "https://github.com/vitaliy-bobrov/js-rocks",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

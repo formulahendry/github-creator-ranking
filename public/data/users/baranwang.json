@@ -1,0 +1,41 @@
+{
+  "login": "baranwang",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/11427801?v=4",
+  "htmlUrl": "https://github.com/baranwang",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 605,
+      "repoCountPrimary": 2,
+      "starsContains": 605,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "stremio-addon-douban",
+          "fullName": "baranwang/stremio-addon-douban",
+          "stars": 355,
+          "url": "https://github.com/baranwang/stremio-addon-douban",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "mcp-trends-hub",
+          "fullName": "baranwang/mcp-trends-hub",
+          "stars": 250,
+          "url": "https://github.com/baranwang/mcp-trends-hub",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "lakshaybhushan",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/74349407?v=4",
+  "htmlUrl": "https://github.com/lakshaybhushan",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1687,
+      "repoCountPrimary": 2,
+      "starsContains": 1687,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vecto3d",
+          "fullName": "lakshaybhushan/vecto3d",
+          "stars": 1397,
+          "url": "https://github.com/lakshaybhushan/vecto3d",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "nextjs-notion-waitlist-template",
+          "fullName": "lakshaybhushan/nextjs-notion-waitlist-template",
+          "stars": 290,
+          "url": "https://github.com/lakshaybhushan/nextjs-notion-waitlist-template",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

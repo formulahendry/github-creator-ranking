@@ -1,0 +1,41 @@
+{
+  "login": "esmadrider",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/19285461?v=4",
+  "htmlUrl": "https://github.com/esmadrider",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 895,
+      "repoCountPrimary": 2,
+      "starsContains": 895,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "deno-tutorial",
+          "fullName": "esmadrider/deno-tutorial",
+          "stars": 794,
+          "url": "https://github.com/esmadrider/deno-tutorial",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "es-interview",
+          "fullName": "esmadrider/es-interview",
+          "stars": 101,
+          "url": "https://github.com/esmadrider/es-interview",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

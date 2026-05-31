@@ -1,0 +1,41 @@
+{
+  "login": "tantara",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1310948?v=4",
+  "htmlUrl": "https://github.com/tantara",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 479,
+      "repoCountPrimary": 2,
+      "starsContains": 479,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "openbrief",
+          "fullName": "tantara/openbrief",
+          "stars": 376,
+          "url": "https://github.com/tantara/openbrief",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "transformers.js-chrome",
+          "fullName": "tantara/transformers.js-chrome",
+          "stars": 103,
+          "url": "https://github.com/tantara/transformers.js-chrome",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

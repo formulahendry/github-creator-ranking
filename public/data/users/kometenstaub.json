@@ -1,0 +1,48 @@
+{
+  "login": "kometenstaub",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/83140328?v=4",
+  "htmlUrl": "https://github.com/kometenstaub",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 391,
+      "repoCountPrimary": 3,
+      "starsContains": 391,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "obsidian-version-history-diff",
+          "fullName": "kometenstaub/obsidian-version-history-diff",
+          "stars": 159,
+          "url": "https://github.com/kometenstaub/obsidian-version-history-diff",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "metadata-extractor",
+          "fullName": "kometenstaub/metadata-extractor",
+          "stars": 131,
+          "url": "https://github.com/kometenstaub/metadata-extractor",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "linked-data-vocabularies",
+          "fullName": "kometenstaub/linked-data-vocabularies",
+          "stars": 101,
+          "url": "https://github.com/kometenstaub/linked-data-vocabularies",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

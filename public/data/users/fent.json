@@ -1,0 +1,55 @@
+{
+  "login": "fent",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/933490?v=4",
+  "htmlUrl": "https://github.com/fent",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 788,
+      "repoCountPrimary": 4,
+      "starsContains": 788,
+      "repoCountContains": 4,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "node-m3u8stream",
+          "fullName": "fent/node-m3u8stream",
+          "stars": 228,
+          "url": "https://github.com/fent/node-m3u8stream",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "node-feedsub",
+          "fullName": "fent/node-feedsub",
+          "stars": 198,
+          "url": "https://github.com/fent/node-feedsub",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "timequeue.js",
+          "fullName": "fent/timequeue.js",
+          "stars": 195,
+          "url": "https://github.com/fent/timequeue.js",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "feedme.js",
+          "fullName": "fent/feedme.js",
+          "stars": 167,
+          "url": "https://github.com/fent/feedme.js",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

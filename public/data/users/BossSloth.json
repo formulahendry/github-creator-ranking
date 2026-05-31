@@ -1,0 +1,41 @@
+{
+  "login": "BossSloth",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/44511414?v=4",
+  "htmlUrl": "https://github.com/BossSloth",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 383,
+      "repoCountPrimary": 2,
+      "starsContains": 383,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Extendium",
+          "fullName": "BossSloth/Extendium",
+          "stars": 270,
+          "url": "https://github.com/BossSloth/Extendium",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Steam-SteamDB-extension",
+          "fullName": "BossSloth/Steam-SteamDB-extension",
+          "stars": 113,
+          "url": "https://github.com/BossSloth/Steam-SteamDB-extension",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

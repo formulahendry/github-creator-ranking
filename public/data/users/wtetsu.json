@@ -1,0 +1,34 @@
+{
+  "login": "wtetsu",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/515948?v=4",
+  "htmlUrl": "https://github.com/wtetsu",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1097,
+      "repoCountPrimary": 1,
+      "starsContains": 1097,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "mouse-dictionary",
+          "fullName": "wtetsu/mouse-dictionary",
+          "stars": 1097,
+          "url": "https://github.com/wtetsu/mouse-dictionary",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

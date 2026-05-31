@@ -1,0 +1,34 @@
+{
+  "login": "polywock",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/31208859?v=4",
+  "htmlUrl": "https://github.com/polywock",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2581,
+      "repoCountPrimary": 1,
+      "starsContains": 2581,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "globalSpeed",
+          "fullName": "polywock/globalSpeed",
+          "stars": 2581,
+          "url": "https://github.com/polywock/globalSpeed",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "fuomag9",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1580624?v=4",
+  "htmlUrl": "https://github.com/fuomag9",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 108,
+      "repoCountPrimary": 1,
+      "starsContains": 108,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "caddy-proxy-manager",
+          "fullName": "fuomag9/caddy-proxy-manager",
+          "stars": 108,
+          "url": "https://github.com/fuomag9/caddy-proxy-manager",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

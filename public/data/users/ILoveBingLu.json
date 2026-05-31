@@ -1,0 +1,34 @@
+{
+  "login": "ILoveBingLu",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/253682918?v=4",
+  "htmlUrl": "https://github.com/ILoveBingLu",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 550,
+      "repoCountPrimary": 1,
+      "starsContains": 550,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "CipherTalk",
+          "fullName": "ILoveBingLu/CipherTalk",
+          "stars": 550,
+          "url": "https://github.com/ILoveBingLu/CipherTalk",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "yassinedoghri",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/11021441?v=4",
+  "htmlUrl": "https://github.com/yassinedoghri",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 595,
+      "repoCountPrimary": 1,
+      "starsContains": 595,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "astro-i18next",
+          "fullName": "yassinedoghri/astro-i18next",
+          "stars": 595,
+          "url": "https://github.com/yassinedoghri/astro-i18next",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

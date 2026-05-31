@@ -1,0 +1,34 @@
+{
+  "login": "oselz",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/17741107?v=4",
+  "htmlUrl": "https://github.com/oselz",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 149,
+      "repoCountPrimary": 1,
+      "starsContains": 149,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "isitworththecost",
+          "fullName": "oselz/isitworththecost",
+          "stars": 149,
+          "url": "https://github.com/oselz/isitworththecost",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "GhostCatcg",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/33864029?v=4",
+  "htmlUrl": "https://github.com/GhostCatcg",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 382,
+      "repoCountPrimary": 1,
+      "starsContains": 382,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "3d-earth",
+          "fullName": "GhostCatcg/3d-earth",
+          "stars": 382,
+          "url": "https://github.com/GhostCatcg/3d-earth",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

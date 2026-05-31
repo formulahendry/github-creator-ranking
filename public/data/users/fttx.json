@@ -1,0 +1,41 @@
+{
+  "login": "fttx",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5663423?v=4",
+  "htmlUrl": "https://github.com/fttx",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 401,
+      "repoCountPrimary": 2,
+      "starsContains": 401,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "barcode-to-pc-server",
+          "fullName": "fttx/barcode-to-pc-server",
+          "stars": 218,
+          "url": "https://github.com/fttx/barcode-to-pc-server",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "barcode-to-pc-app",
+          "fullName": "fttx/barcode-to-pc-app",
+          "stars": 183,
+          "url": "https://github.com/fttx/barcode-to-pc-app",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

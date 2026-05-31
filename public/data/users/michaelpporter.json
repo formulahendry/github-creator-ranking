@@ -1,0 +1,34 @@
+{
+  "login": "michaelpporter",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/599168?v=4",
+  "htmlUrl": "https://github.com/michaelpporter",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 785,
+      "repoCountPrimary": 1,
+      "starsContains": 785,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "breadcrumbs",
+          "fullName": "michaelpporter/breadcrumbs",
+          "stars": 785,
+          "url": "https://github.com/michaelpporter/breadcrumbs",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

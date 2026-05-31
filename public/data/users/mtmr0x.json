@@ -1,0 +1,34 @@
+{
+  "login": "mtmr0x",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5414299?v=4",
+  "htmlUrl": "https://github.com/mtmr0x",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 113,
+      "repoCountPrimary": 1,
+      "starsContains": 113,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "nucleo",
+          "fullName": "mtmr0x/nucleo",
+          "stars": 113,
+          "url": "https://github.com/mtmr0x/nucleo",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

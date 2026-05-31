@@ -1,0 +1,41 @@
+{
+  "login": "jef",
+  "name": "Jef LeCompte",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/12074633?v=4",
+  "htmlUrl": "https://github.com/jef",
+  "location": "Seattle, WA",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 5509,
+      "repoCountPrimary": 2,
+      "starsContains": 5509,
+      "repoCountContains": 2,
+      "globalRank": 443,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "streetmerchant",
+          "fullName": "jef/streetmerchant",
+          "stars": 5392,
+          "url": "https://github.com/jef/streetmerchant",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "zap2xml",
+          "fullName": "jef/zap2xml",
+          "stars": 117,
+          "url": "https://github.com/jef/zap2xml",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "xutao-o",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/40859099?v=4",
+  "htmlUrl": "https://github.com/xutao-o",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 158,
+      "repoCountPrimary": 1,
+      "starsContains": 158,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "css-flex-code",
+          "fullName": "xutao-o/css-flex-code",
+          "stars": 158,
+          "url": "https://github.com/xutao-o/css-flex-code",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

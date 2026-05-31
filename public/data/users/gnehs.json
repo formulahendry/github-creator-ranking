@@ -1,0 +1,34 @@
+{
+  "login": "gnehs",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/16719720?v=4",
+  "htmlUrl": "https://github.com/gnehs",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1685,
+      "repoCountPrimary": 1,
+      "starsContains": 1685,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "subtitle-translator-electron",
+          "fullName": "gnehs/subtitle-translator-electron",
+          "stars": 1685,
+          "url": "https://github.com/gnehs/subtitle-translator-electron",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

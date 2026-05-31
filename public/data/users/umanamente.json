@@ -1,0 +1,41 @@
+{
+  "login": "umanamente",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/10637425?v=4",
+  "htmlUrl": "https://github.com/umanamente",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 499,
+      "repoCountPrimary": 2,
+      "starsContains": 499,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "n8n-nodes-globals",
+          "fullName": "umanamente/n8n-nodes-globals",
+          "stars": 341,
+          "url": "https://github.com/umanamente/n8n-nodes-globals",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "n8n-nodes-imap",
+          "fullName": "umanamente/n8n-nodes-imap",
+          "stars": 158,
+          "url": "https://github.com/umanamente/n8n-nodes-imap",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

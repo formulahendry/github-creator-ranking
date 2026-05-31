@@ -1,0 +1,34 @@
+{
+  "login": "arghyac35",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/27964664?v=4",
+  "htmlUrl": "https://github.com/arghyac35",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 162,
+      "repoCountPrimary": 1,
+      "starsContains": 162,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "aria-telegram-mirror-bot",
+          "fullName": "arghyac35/aria-telegram-mirror-bot",
+          "stars": 162,
+          "url": "https://github.com/arghyac35/aria-telegram-mirror-bot",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

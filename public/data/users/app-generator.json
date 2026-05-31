@@ -1,0 +1,34 @@
+{
+  "login": "app-generator",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/51070104?v=4",
+  "htmlUrl": "https://github.com/app-generator",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 240,
+      "repoCountPrimary": 1,
+      "starsContains": 240,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "api-server-nodejs",
+          "fullName": "app-generator/api-server-nodejs",
+          "stars": 240,
+          "url": "https://github.com/app-generator/api-server-nodejs",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

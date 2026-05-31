@@ -1,0 +1,48 @@
+{
+  "login": "rs-4",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/72416925?v=4",
+  "htmlUrl": "https://github.com/rs-4",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 627,
+      "repoCountPrimary": 3,
+      "starsContains": 627,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "tanstack-ai-demo",
+          "fullName": "rs-4/tanstack-ai-demo",
+          "stars": 320,
+          "url": "https://github.com/rs-4/tanstack-ai-demo",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "expo-auto-resizing-input",
+          "fullName": "rs-4/expo-auto-resizing-input",
+          "stars": 157,
+          "url": "https://github.com/rs-4/expo-auto-resizing-input",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "playground-expo",
+          "fullName": "rs-4/playground-expo",
+          "stars": 150,
+          "url": "https://github.com/rs-4/playground-expo",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

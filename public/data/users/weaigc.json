@@ -1,0 +1,41 @@
+{
+  "login": "weaigc",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/39235693?v=4",
+  "htmlUrl": "https://github.com/weaigc",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3008,
+      "repoCountPrimary": 2,
+      "starsContains": 3008,
+      "repoCountContains": 2,
+      "globalRank": 890,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "bingo",
+          "fullName": "weaigc/bingo",
+          "stars": 2843,
+          "url": "https://github.com/weaigc/bingo",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "gradio-chatbot",
+          "fullName": "weaigc/gradio-chatbot",
+          "stars": 165,
+          "url": "https://github.com/weaigc/gradio-chatbot",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

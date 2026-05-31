@@ -1,0 +1,41 @@
+{
+  "login": "ngduc",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/639189?v=4",
+  "htmlUrl": "https://github.com/ngduc",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 417,
+      "repoCountPrimary": 2,
+      "starsContains": 417,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "node-rem",
+          "fullName": "ngduc/node-rem",
+          "stars": 246,
+          "url": "https://github.com/ngduc/node-rem",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "life-calendar",
+          "fullName": "ngduc/life-calendar",
+          "stars": 171,
+          "url": "https://github.com/ngduc/life-calendar",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

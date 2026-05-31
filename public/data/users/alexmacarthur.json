@@ -1,0 +1,41 @@
+{
+  "login": "alexmacarthur",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/8398220?v=4",
+  "htmlUrl": "https://github.com/alexmacarthur",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 386,
+      "repoCountPrimary": 2,
+      "starsContains": 386,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "striff",
+          "fullName": "alexmacarthur/striff",
+          "stars": 204,
+          "url": "https://github.com/alexmacarthur/striff",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "slide-element",
+          "fullName": "alexmacarthur/slide-element",
+          "stars": 182,
+          "url": "https://github.com/alexmacarthur/slide-element",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

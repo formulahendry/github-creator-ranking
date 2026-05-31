@@ -1,0 +1,34 @@
+{
+  "login": "ngo275",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7898437?v=4",
+  "htmlUrl": "https://github.com/ngo275",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 177,
+      "repoCountPrimary": 1,
+      "starsContains": 177,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "app-agent",
+          "fullName": "ngo275/app-agent",
+          "stars": 177,
+          "url": "https://github.com/ngo275/app-agent",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

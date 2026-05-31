@@ -1,0 +1,55 @@
+{
+  "login": "bhouston",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/588541?v=4",
+  "htmlUrl": "https://github.com/bhouston",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1230,
+      "repoCountPrimary": 4,
+      "starsContains": 1230,
+      "repoCountContains": 4,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "mycoder",
+          "fullName": "bhouston/mycoder",
+          "stars": 568,
+          "url": "https://github.com/bhouston/mycoder",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "behave-graph",
+          "fullName": "bhouston/behave-graph",
+          "stars": 337,
+          "url": "https://github.com/bhouston/behave-graph",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "threeify",
+          "fullName": "bhouston/threeify",
+          "stars": 200,
+          "url": "https://github.com/bhouston/threeify",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "template-typescript-monorepo",
+          "fullName": "bhouston/template-typescript-monorepo",
+          "stars": 125,
+          "url": "https://github.com/bhouston/template-typescript-monorepo",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

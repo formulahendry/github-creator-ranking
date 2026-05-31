@@ -1,0 +1,48 @@
+{
+  "login": "ngocjohn",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/96962827?v=4",
+  "htmlUrl": "https://github.com/ngocjohn",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 549,
+      "repoCountPrimary": 3,
+      "starsContains": 549,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vehicle-status-card",
+          "fullName": "ngocjohn/vehicle-status-card",
+          "stars": 255,
+          "url": "https://github.com/ngocjohn/vehicle-status-card",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "lunar-phase-card",
+          "fullName": "ngocjohn/lunar-phase-card",
+          "stars": 184,
+          "url": "https://github.com/ngocjohn/lunar-phase-card",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vehicle-info-card",
+          "fullName": "ngocjohn/vehicle-info-card",
+          "stars": 110,
+          "url": "https://github.com/ngocjohn/vehicle-info-card",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

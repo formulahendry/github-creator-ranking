@@ -1,0 +1,34 @@
+{
+  "login": "amsXYZ",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6959189?v=4",
+  "htmlUrl": "https://github.com/amsXYZ",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 176,
+      "repoCountPrimary": 1,
+      "starsContains": 176,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "three-fluid-sim",
+          "fullName": "amsXYZ/three-fluid-sim",
+          "stars": 176,
+          "url": "https://github.com/amsXYZ/three-fluid-sim",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

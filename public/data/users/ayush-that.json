@@ -1,0 +1,48 @@
+{
+  "login": "ayush-that",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/110257939?v=4",
+  "htmlUrl": "https://github.com/ayush-that",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 938,
+      "repoCountPrimary": 3,
+      "starsContains": 938,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "codejeet",
+          "fullName": "ayush-that/codejeet",
+          "stars": 515,
+          "url": "https://github.com/ayush-that/codejeet",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "jiang-clips",
+          "fullName": "ayush-that/jiang-clips",
+          "stars": 299,
+          "url": "https://github.com/ayush-that/jiang-clips",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "sub-agents.directory",
+          "fullName": "ayush-that/sub-agents.directory",
+          "stars": 124,
+          "url": "https://github.com/ayush-that/sub-agents.directory",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

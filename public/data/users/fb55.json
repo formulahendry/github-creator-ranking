@@ -1,0 +1,62 @@
+{
+  "login": "fb55",
+  "name": "Felix Boehm",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/188768?v=4",
+  "htmlUrl": "https://github.com/fb55",
+  "location": "London, UK",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 6859,
+      "repoCountPrimary": 7,
+      "starsContains": 6859,
+      "repoCountContains": 7,
+      "globalRank": 336,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "htmlparser2",
+          "fullName": "fb55/htmlparser2",
+          "stars": 4767,
+          "url": "https://github.com/fb55/htmlparser2",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "css-select",
+          "fullName": "fb55/css-select",
+          "stars": 630,
+          "url": "https://github.com/fb55/css-select",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "entities",
+          "fullName": "fb55/entities",
+          "stars": 378,
+          "url": "https://github.com/fb55/entities",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "domhandler",
+          "fullName": "fb55/domhandler",
+          "stars": 364,
+          "url": "https://github.com/fb55/domhandler",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "readabilitySAX",
+          "fullName": "fb55/readabilitySAX",
+          "stars": 249,
+          "url": "https://github.com/fb55/readabilitySAX",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

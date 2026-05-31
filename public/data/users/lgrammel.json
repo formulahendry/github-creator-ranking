@@ -1,0 +1,48 @@
+{
+  "login": "lgrammel",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/205036?v=4",
+  "htmlUrl": "https://github.com/lgrammel",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1041,
+      "repoCountPrimary": 3,
+      "starsContains": 1041,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "rubberduck-vscode",
+          "fullName": "lgrammel/rubberduck-vscode",
+          "stars": 630,
+          "url": "https://github.com/lgrammel/rubberduck-vscode",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "js-agent",
+          "fullName": "lgrammel/js-agent",
+          "stars": 270,
+          "url": "https://github.com/lgrammel/js-agent",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "js-assistant",
+          "fullName": "lgrammel/js-assistant",
+          "stars": 141,
+          "url": "https://github.com/lgrammel/js-assistant",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

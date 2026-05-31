@@ -1,0 +1,34 @@
+{
+  "login": "igorm84",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/16727448?v=4",
+  "htmlUrl": "https://github.com/igorm84",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 365,
+      "repoCountPrimary": 1,
+      "starsContains": 365,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "rediscord",
+          "fullName": "igorm84/rediscord",
+          "stars": 365,
+          "url": "https://github.com/igorm84/rediscord",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

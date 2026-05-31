@@ -1,0 +1,34 @@
+{
+  "login": "ianlkl11234s",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/61914055?v=4",
+  "htmlUrl": "https://github.com/ianlkl11234s",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 304,
+      "repoCountPrimary": 1,
+      "starsContains": 304,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "mini-taiwan-pulse",
+          "fullName": "ianlkl11234s/mini-taiwan-pulse",
+          "stars": 304,
+          "url": "https://github.com/ianlkl11234s/mini-taiwan-pulse",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

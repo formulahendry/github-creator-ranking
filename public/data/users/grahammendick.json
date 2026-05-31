@@ -1,0 +1,34 @@
+{
+  "login": "grahammendick",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1761227?v=4",
+  "htmlUrl": "https://github.com/grahammendick",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 659,
+      "repoCountPrimary": 1,
+      "starsContains": 659,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "navigation",
+          "fullName": "grahammendick/navigation",
+          "stars": 659,
+          "url": "https://github.com/grahammendick/navigation",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

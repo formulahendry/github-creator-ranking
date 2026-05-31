@@ -1,0 +1,62 @@
+{
+  "login": "gajus",
+  "name": "Gajus Kuizinas",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/973543?v=4",
+  "htmlUrl": "https://github.com/gajus",
+  "location": "London",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 12699,
+      "repoCountPrimary": 12,
+      "starsContains": 12699,
+      "repoCountContains": 12,
+      "globalRank": 162,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "slonik",
+          "fullName": "gajus/slonik",
+          "stars": 4902,
+          "url": "https://github.com/gajus/slonik",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "redux-immutable",
+          "fullName": "gajus/redux-immutable",
+          "stars": 1873,
+          "url": "https://github.com/gajus/redux-immutable",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "roarr",
+          "fullName": "gajus/roarr",
+          "stars": 1137,
+          "url": "https://github.com/gajus/roarr",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "table",
+          "fullName": "gajus/table",
+          "stars": 978,
+          "url": "https://github.com/gajus/table",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "turbowatch",
+          "fullName": "gajus/turbowatch",
+          "stars": 970,
+          "url": "https://github.com/gajus/turbowatch",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

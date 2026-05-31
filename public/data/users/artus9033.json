@@ -1,0 +1,34 @@
+{
+  "login": "artus9033",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/10586109?v=4",
+  "htmlUrl": "https://github.com/artus9033",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 278,
+      "repoCountPrimary": 1,
+      "starsContains": 278,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "chartjs-plugin-dragdata",
+          "fullName": "artus9033/chartjs-plugin-dragdata",
+          "stars": 278,
+          "url": "https://github.com/artus9033/chartjs-plugin-dragdata",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "CatsMiaow",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1300172?v=4",
+  "htmlUrl": "https://github.com/CatsMiaow",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1478,
+      "repoCountPrimary": 2,
+      "starsContains": 1478,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "nestjs-project-structure",
+          "fullName": "CatsMiaow/nestjs-project-structure",
+          "stars": 1352,
+          "url": "https://github.com/CatsMiaow/nestjs-project-structure",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "node-grpc-typescript",
+          "fullName": "CatsMiaow/node-grpc-typescript",
+          "stars": 126,
+          "url": "https://github.com/CatsMiaow/node-grpc-typescript",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

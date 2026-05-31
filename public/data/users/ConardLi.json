@@ -1,0 +1,55 @@
+{
+  "login": "ConardLi",
+  "name": "ConardLi",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/30708545?v=4",
+  "htmlUrl": "https://github.com/ConardLi",
+  "location": "BeiJing",
+  "countryCode": "CN",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3385,
+      "repoCountPrimary": 4,
+      "starsContains": 3385,
+      "repoCountContains": 4,
+      "globalRank": 796,
+      "countryRank": 91,
+      "topRepos": [
+        {
+          "name": "easy-llm-cli",
+          "fullName": "ConardLi/easy-llm-cli",
+          "stars": 1326,
+          "url": "https://github.com/ConardLi/easy-llm-cli",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "easy-learn-ai",
+          "fullName": "ConardLi/easy-learn-ai",
+          "stars": 1217,
+          "url": "https://github.com/ConardLi/easy-learn-ai",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "easy-agent",
+          "fullName": "ConardLi/easy-agent",
+          "stars": 740,
+          "url": "https://github.com/ConardLi/easy-agent",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "mcp-client-nodejs",
+          "fullName": "ConardLi/mcp-client-nodejs",
+          "stars": 102,
+          "url": "https://github.com/ConardLi/mcp-client-nodejs",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

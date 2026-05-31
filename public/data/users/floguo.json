@@ -1,0 +1,48 @@
+{
+  "login": "floguo",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/70130527?v=4",
+  "htmlUrl": "https://github.com/floguo",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 468,
+      "repoCountPrimary": 3,
+      "starsContains": 468,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "blueprint",
+          "fullName": "floguo/blueprint",
+          "stars": 213,
+          "url": "https://github.com/floguo/blueprint",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "giftbox",
+          "fullName": "floguo/giftbox",
+          "stars": 141,
+          "url": "https://github.com/floguo/giftbox",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "mind-map",
+          "fullName": "floguo/mind-map",
+          "stars": 114,
+          "url": "https://github.com/floguo/mind-map",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

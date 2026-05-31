@@ -1,0 +1,34 @@
+{
+  "login": "loq24",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/9650684?v=4",
+  "htmlUrl": "https://github.com/loq24",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 133,
+      "repoCountPrimary": 1,
+      "starsContains": 133,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-ecommerce",
+          "fullName": "loq24/react-ecommerce",
+          "stars": 133,
+          "url": "https://github.com/loq24/react-ecommerce",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

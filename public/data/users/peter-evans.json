@@ -1,0 +1,62 @@
+{
+  "login": "peter-evans",
+  "name": "Peter Evans",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/18365890?v=4",
+  "htmlUrl": "https://github.com/peter-evans",
+  "location": "United Kingdom",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 6374,
+      "repoCountPrimary": 7,
+      "starsContains": 6374,
+      "repoCountContains": 7,
+      "globalRank": 367,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "create-pull-request",
+          "fullName": "peter-evans/create-pull-request",
+          "stars": 2785,
+          "url": "https://github.com/peter-evans/create-pull-request",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "repository-dispatch",
+          "fullName": "peter-evans/repository-dispatch",
+          "stars": 1187,
+          "url": "https://github.com/peter-evans/repository-dispatch",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "create-or-update-comment",
+          "fullName": "peter-evans/create-or-update-comment",
+          "stars": 918,
+          "url": "https://github.com/peter-evans/create-or-update-comment",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "slash-command-dispatch",
+          "fullName": "peter-evans/slash-command-dispatch",
+          "stars": 693,
+          "url": "https://github.com/peter-evans/slash-command-dispatch",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "dockerhub-description",
+          "fullName": "peter-evans/dockerhub-description",
+          "stars": 374,
+          "url": "https://github.com/peter-evans/dockerhub-description",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

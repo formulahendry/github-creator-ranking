@@ -1,0 +1,41 @@
+{
+  "login": "bmen25124",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/195814906?v=4",
+  "htmlUrl": "https://github.com/bmen25124",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 259,
+      "repoCountPrimary": 2,
+      "starsContains": 259,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "SillyTavern-Character-Creator",
+          "fullName": "bmen25124/SillyTavern-Character-Creator",
+          "stars": 145,
+          "url": "https://github.com/bmen25124/SillyTavern-Character-Creator",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "SillyTavern-WorldInfo-Recommender",
+          "fullName": "bmen25124/SillyTavern-WorldInfo-Recommender",
+          "stars": 114,
+          "url": "https://github.com/bmen25124/SillyTavern-WorldInfo-Recommender",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

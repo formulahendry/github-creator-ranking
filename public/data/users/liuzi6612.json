@@ -1,0 +1,48 @@
+{
+  "login": "liuzi6612",
+  "name": "liuzi",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/15535177?v=4",
+  "htmlUrl": "https://github.com/liuzi6612",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 4151,
+      "repoCountPrimary": 3,
+      "starsContains": 4151,
+      "repoCountContains": 3,
+      "globalRank": 629,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "nav",
+          "fullName": "liuzi6612/nav",
+          "stars": 3247,
+          "url": "https://github.com/liuzi6612/nav",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "tomato-work",
+          "fullName": "liuzi6612/tomato-work",
+          "stars": 713,
+          "url": "https://github.com/liuzi6612/tomato-work",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ethers-tutorial",
+          "fullName": "liuzi6612/ethers-tutorial",
+          "stars": 191,
+          "url": "https://github.com/liuzi6612/ethers-tutorial",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

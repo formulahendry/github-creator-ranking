@@ -1,0 +1,48 @@
+{
+  "login": "Inrixia",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6373693?v=4",
+  "htmlUrl": "https://github.com/Inrixia",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1070,
+      "repoCountPrimary": 3,
+      "starsContains": 1070,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "TidaLuna",
+          "fullName": "Inrixia/TidaLuna",
+          "stars": 542,
+          "url": "https://github.com/Inrixia/TidaLuna",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Floatplane-Downloader",
+          "fullName": "Inrixia/Floatplane-Downloader",
+          "stars": 268,
+          "url": "https://github.com/Inrixia/Floatplane-Downloader",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "luna-plugins",
+          "fullName": "Inrixia/luna-plugins",
+          "stars": 260,
+          "url": "https://github.com/Inrixia/luna-plugins",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

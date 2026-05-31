@@ -1,0 +1,48 @@
+{
+  "login": "hamster1963",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/71394853?v=4",
+  "htmlUrl": "https://github.com/hamster1963",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1921,
+      "repoCountPrimary": 3,
+      "starsContains": 1921,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "nezha-dash",
+          "fullName": "hamster1963/nezha-dash",
+          "stars": 1690,
+          "url": "https://github.com/hamster1963/nezha-dash",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "nezha-dash-v2",
+          "fullName": "hamster1963/nezha-dash-v2",
+          "stars": 131,
+          "url": "https://github.com/hamster1963/nezha-dash-v2",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "NextMe",
+          "fullName": "hamster1963/NextMe",
+          "stars": 100,
+          "url": "https://github.com/hamster1963/NextMe",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

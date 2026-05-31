@@ -1,0 +1,34 @@
+{
+  "login": "marco-prontera",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/50167854?v=4",
+  "htmlUrl": "https://github.com/marco-prontera",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 500,
+      "repoCountPrimary": 1,
+      "starsContains": 500,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vite-plugin-css-injected-by-js",
+          "fullName": "marco-prontera/vite-plugin-css-injected-by-js",
+          "stars": 500,
+          "url": "https://github.com/marco-prontera/vite-plugin-css-injected-by-js",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

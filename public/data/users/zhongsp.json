@@ -1,0 +1,34 @@
+{
+  "login": "zhongsp",
+  "name": "Patrick Zhong",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1198615?v=4",
+  "htmlUrl": "https://github.com/zhongsp",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 7348,
+      "repoCountPrimary": 1,
+      "starsContains": 7348,
+      "repoCountContains": 1,
+      "globalRank": 308,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "TypeScript",
+          "fullName": "zhongsp/TypeScript",
+          "stars": 7348,
+          "url": "https://github.com/zhongsp/TypeScript",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

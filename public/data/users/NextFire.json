@@ -1,0 +1,34 @@
+{
+  "login": "NextFire",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/20094890?v=4",
+  "htmlUrl": "https://github.com/NextFire",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 826,
+      "repoCountPrimary": 1,
+      "starsContains": 826,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "apple-music-discord-rpc",
+          "fullName": "NextFire/apple-music-discord-rpc",
+          "stars": 826,
+          "url": "https://github.com/NextFire/apple-music-discord-rpc",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

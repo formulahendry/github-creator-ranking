@@ -1,0 +1,41 @@
+{
+  "login": "ncdai",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/10192821?v=4",
+  "htmlUrl": "https://github.com/ncdai",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2656,
+      "repoCountPrimary": 2,
+      "starsContains": 2656,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "chanhdai.com",
+          "fullName": "ncdai/chanhdai.com",
+          "stars": 1934,
+          "url": "https://github.com/ncdai/chanhdai.com",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-wheel-picker",
+          "fullName": "ncdai/react-wheel-picker",
+          "stars": 722,
+          "url": "https://github.com/ncdai/react-wheel-picker",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

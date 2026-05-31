@@ -1,0 +1,41 @@
+{
+  "login": "denysdovhan",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3459374?v=4",
+  "htmlUrl": "https://github.com/denysdovhan",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1545,
+      "repoCountPrimary": 2,
+      "starsContains": 1545,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vacuum-card",
+          "fullName": "denysdovhan/vacuum-card",
+          "stars": 1205,
+          "url": "https://github.com/denysdovhan/vacuum-card",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "purifier-card",
+          "fullName": "denysdovhan/purifier-card",
+          "stars": 340,
+          "url": "https://github.com/denysdovhan/purifier-card",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

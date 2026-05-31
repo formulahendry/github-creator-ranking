@@ -1,0 +1,55 @@
+{
+  "login": "VadimNotJustDev",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/16936043?v=4",
+  "htmlUrl": "https://github.com/VadimNotJustDev",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 596,
+      "repoCountPrimary": 4,
+      "starsContains": 596,
+      "repoCountContains": 4,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "WhatsappClone",
+          "fullName": "VadimNotJustDev/WhatsappClone",
+          "stars": 234,
+          "url": "https://github.com/VadimNotJustDev/WhatsappClone",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "SpotifyClone",
+          "fullName": "VadimNotJustDev/SpotifyClone",
+          "stars": 134,
+          "url": "https://github.com/VadimNotJustDev/SpotifyClone",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "AmazonClone",
+          "fullName": "VadimNotJustDev/AmazonClone",
+          "stars": 119,
+          "url": "https://github.com/VadimNotJustDev/AmazonClone",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "SignalClone",
+          "fullName": "VadimNotJustDev/SignalClone",
+          "stars": 109,
+          "url": "https://github.com/VadimNotJustDev/SignalClone",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

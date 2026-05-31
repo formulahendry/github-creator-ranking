@@ -1,0 +1,48 @@
+{
+  "login": "YYsuni",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/53907086?v=4",
+  "htmlUrl": "https://github.com/YYsuni",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2011,
+      "repoCountPrimary": 3,
+      "starsContains": 2011,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "2025-blog-public",
+          "fullName": "YYsuni/2025-blog-public",
+          "stars": 1534,
+          "url": "https://github.com/YYsuni/2025-blog-public",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react18-json-view",
+          "fullName": "YYsuni/react18-json-view",
+          "stars": 340,
+          "url": "https://github.com/YYsuni/react18-json-view",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "path-motion",
+          "fullName": "YYsuni/path-motion",
+          "stars": 137,
+          "url": "https://github.com/YYsuni/path-motion",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

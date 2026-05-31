@@ -1,0 +1,55 @@
+{
+  "login": "kepano",
+  "name": "Steph Ango",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/10565871?v=4",
+  "htmlUrl": "https://github.com/kepano",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 9239,
+      "repoCountPrimary": 4,
+      "starsContains": 9239,
+      "repoCountContains": 4,
+      "globalRank": 249,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "defuddle",
+          "fullName": "kepano/defuddle",
+          "stars": 7855,
+          "url": "https://github.com/kepano/defuddle",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "obsidian-minimal-settings",
+          "fullName": "kepano/obsidian-minimal-settings",
+          "stars": 743,
+          "url": "https://github.com/kepano/obsidian-minimal-settings",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "obsidian-hider",
+          "fullName": "kepano/obsidian-hider",
+          "stars": 538,
+          "url": "https://github.com/kepano/obsidian-hider",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "obsidian-serenity",
+          "fullName": "kepano/obsidian-serenity",
+          "stars": 103,
+          "url": "https://github.com/kepano/obsidian-serenity",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

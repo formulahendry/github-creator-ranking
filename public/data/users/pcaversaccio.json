@@ -1,0 +1,41 @@
+{
+  "login": "pcaversaccio",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/25297591?v=4",
+  "htmlUrl": "https://github.com/pcaversaccio",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 531,
+      "repoCountPrimary": 2,
+      "starsContains": 531,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "create2deployer",
+          "fullName": "pcaversaccio/create2deployer",
+          "stars": 306,
+          "url": "https://github.com/pcaversaccio/create2deployer",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "hardhat-project-template-ts",
+          "fullName": "pcaversaccio/hardhat-project-template-ts",
+          "stars": 225,
+          "url": "https://github.com/pcaversaccio/hardhat-project-template-ts",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

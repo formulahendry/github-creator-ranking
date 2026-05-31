@@ -1,0 +1,34 @@
+{
+  "login": "d3george",
+  "name": "丁一",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/143698843?v=4",
+  "htmlUrl": "https://github.com/d3george",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2985,
+      "repoCountPrimary": 1,
+      "starsContains": 2985,
+      "repoCountContains": 1,
+      "globalRank": 902,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "slash-admin",
+          "fullName": "d3george/slash-admin",
+          "stars": 2985,
+          "url": "https://github.com/d3george/slash-admin",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

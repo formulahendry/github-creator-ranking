@@ -1,0 +1,34 @@
+{
+  "login": "philipstanislaus",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6912756?v=4",
+  "htmlUrl": "https://github.com/philipstanislaus",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 235,
+      "repoCountPrimary": 1,
+      "starsContains": 235,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "performant-array-to-tree",
+          "fullName": "philipstanislaus/performant-array-to-tree",
+          "stars": 235,
+          "url": "https://github.com/philipstanislaus/performant-array-to-tree",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

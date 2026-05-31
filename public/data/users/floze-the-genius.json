@@ -1,0 +1,34 @@
+{
+  "login": "floze-the-genius",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/88098863?v=4",
+  "htmlUrl": "https://github.com/floze-the-genius",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 161,
+      "repoCountPrimary": 1,
+      "starsContains": 161,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "opencode-multi-auth-codex",
+          "fullName": "floze-the-genius/opencode-multi-auth-codex",
+          "stars": 161,
+          "url": "https://github.com/floze-the-genius/opencode-multi-auth-codex",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

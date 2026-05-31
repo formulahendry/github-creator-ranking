@@ -1,0 +1,41 @@
+{
+  "login": "Littlesheepxy",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/61880568?v=4",
+  "htmlUrl": "https://github.com/Littlesheepxy",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 202,
+      "repoCountPrimary": 2,
+      "starsContains": 202,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "flowmail",
+          "fullName": "Littlesheepxy/flowmail",
+          "stars": 102,
+          "url": "https://github.com/Littlesheepxy/flowmail",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "moltchat",
+          "fullName": "Littlesheepxy/moltchat",
+          "stars": 100,
+          "url": "https://github.com/Littlesheepxy/moltchat",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

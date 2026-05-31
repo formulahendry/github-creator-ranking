@@ -1,0 +1,34 @@
+{
+  "login": "wonderwhy-er",
+  "name": "Eduard Ruzga",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1150639?v=4",
+  "htmlUrl": "https://github.com/wonderwhy-er",
+  "location": "Riga",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 6092,
+      "repoCountPrimary": 1,
+      "starsContains": 6092,
+      "repoCountContains": 1,
+      "globalRank": 389,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "DesktopCommanderMCP",
+          "fullName": "wonderwhy-er/DesktopCommanderMCP",
+          "stars": 6092,
+          "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

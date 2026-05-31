@@ -1,0 +1,62 @@
+{
+  "login": "fregante",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1402241?v=4",
+  "htmlUrl": "https://github.com/fregante",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1223,
+      "repoCountPrimary": 7,
+      "starsContains": 1223,
+      "repoCountContains": 7,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ghat",
+          "fullName": "fregante/ghat",
+          "stars": 264,
+          "url": "https://github.com/fregante/ghat",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "delegate-it",
+          "fullName": "fregante/delegate-it",
+          "stars": 202,
+          "url": "https://github.com/fregante/delegate-it",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "abort-utils",
+          "fullName": "fregante/abort-utils",
+          "stars": 163,
+          "url": "https://github.com/fregante/abort-utils",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "indent-textarea",
+          "fullName": "fregante/indent-textarea",
+          "stars": 160,
+          "url": "https://github.com/fregante/indent-textarea",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "webext-options-sync",
+          "fullName": "fregante/webext-options-sync",
+          "stars": 156,
+          "url": "https://github.com/fregante/webext-options-sync",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "login": "thedaviddias",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/237229?v=4",
+  "htmlUrl": "https://github.com/thedaviddias",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1151,
+      "repoCountPrimary": 3,
+      "starsContains": 1151,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "llms-txt-hub",
+          "fullName": "thedaviddias/llms-txt-hub",
+          "stars": 849,
+          "url": "https://github.com/thedaviddias/llms-txt-hub",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "skill-check",
+          "fullName": "thedaviddias/skill-check",
+          "stars": 177,
+          "url": "https://github.com/thedaviddias/skill-check",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "souls-directory",
+          "fullName": "thedaviddias/souls-directory",
+          "stars": 125,
+          "url": "https://github.com/thedaviddias/souls-directory",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

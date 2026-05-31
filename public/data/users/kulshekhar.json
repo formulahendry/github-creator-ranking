@@ -1,0 +1,34 @@
+{
+  "login": "kulshekhar",
+  "name": "Kulshekhar Kabra",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/10780624?v=4",
+  "htmlUrl": "https://github.com/kulshekhar",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 7076,
+      "repoCountPrimary": 1,
+      "starsContains": 7076,
+      "repoCountContains": 1,
+      "globalRank": 327,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ts-jest",
+          "fullName": "kulshekhar/ts-jest",
+          "stars": 7076,
+          "url": "https://github.com/kulshekhar/ts-jest",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

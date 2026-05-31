@@ -1,0 +1,34 @@
+{
+  "login": "YajanaRao",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/38914337?v=4",
+  "htmlUrl": "https://github.com/YajanaRao",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 363,
+      "repoCountPrimary": 1,
+      "starsContains": 363,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Serenity",
+          "fullName": "YajanaRao/Serenity",
+          "stars": 363,
+          "url": "https://github.com/YajanaRao/Serenity",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

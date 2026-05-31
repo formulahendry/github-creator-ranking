@@ -1,0 +1,41 @@
+{
+  "login": "yuki-yano",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5423775?v=4",
+  "htmlUrl": "https://github.com/yuki-yano",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1206,
+      "repoCountPrimary": 2,
+      "starsContains": 1206,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "fzf-preview.vim",
+          "fullName": "yuki-yano/fzf-preview.vim",
+          "stars": 907,
+          "url": "https://github.com/yuki-yano/fzf-preview.vim",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "zeno.zsh",
+          "fullName": "yuki-yano/zeno.zsh",
+          "stars": 299,
+          "url": "https://github.com/yuki-yano/zeno.zsh",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

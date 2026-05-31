@@ -1,0 +1,34 @@
+{
+  "login": "aagentah",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/19705695?v=4",
+  "htmlUrl": "https://github.com/aagentah",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2013,
+      "repoCountPrimary": 1,
+      "starsContains": 2013,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "nw_wrld",
+          "fullName": "aagentah/nw_wrld",
+          "stars": 2013,
+          "url": "https://github.com/aagentah/nw_wrld",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

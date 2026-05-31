@@ -1,0 +1,34 @@
+{
+  "login": "bencoveney",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1053494?v=4",
+  "htmlUrl": "https://github.com/bencoveney",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 598,
+      "repoCountPrimary": 1,
+      "starsContains": 598,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "barrelsby",
+          "fullName": "bencoveney/barrelsby",
+          "stars": 598,
+          "url": "https://github.com/bencoveney/barrelsby",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

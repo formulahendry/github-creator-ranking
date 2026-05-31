@@ -1,0 +1,34 @@
+{
+  "login": "marmot-z",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/41913184?v=4",
+  "htmlUrl": "https://github.com/marmot-z",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 113,
+      "repoCountPrimary": 1,
+      "starsContains": 113,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "baicizhan-helper",
+          "fullName": "marmot-z/baicizhan-helper",
+          "stars": 113,
+          "url": "https://github.com/marmot-z/baicizhan-helper",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

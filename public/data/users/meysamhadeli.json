@@ -1,0 +1,41 @@
+{
+  "login": "meysamhadeli",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/35596795?v=4",
+  "htmlUrl": "https://github.com/meysamhadeli",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 579,
+      "repoCountPrimary": 2,
+      "starsContains": 579,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "booking-microservices-nestjs",
+          "fullName": "meysamhadeli/booking-microservices-nestjs",
+          "stars": 290,
+          "url": "https://github.com/meysamhadeli/booking-microservices-nestjs",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "booking-microservices-expressjs",
+          "fullName": "meysamhadeli/booking-microservices-expressjs",
+          "stars": 289,
+          "url": "https://github.com/meysamhadeli/booking-microservices-expressjs",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

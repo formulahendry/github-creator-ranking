@@ -1,0 +1,34 @@
+{
+  "login": "LanLou123",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/31492651?v=4",
+  "htmlUrl": "https://github.com/LanLou123",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 309,
+      "repoCountPrimary": 1,
+      "starsContains": 309,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Webgl-Erosion",
+          "fullName": "LanLou123/Webgl-Erosion",
+          "stars": 309,
+          "url": "https://github.com/LanLou123/Webgl-Erosion",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "login": "duan602728596",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/17332657?v=4",
+  "htmlUrl": "https://github.com/duan602728596",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1193,
+      "repoCountPrimary": 3,
+      "starsContains": 1193,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "48tools",
+          "fullName": "duan602728596/48tools",
+          "stars": 636,
+          "url": "https://github.com/duan602728596/48tools",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "qqtools",
+          "fullName": "duan602728596/qqtools",
+          "stars": 384,
+          "url": "https://github.com/duan602728596/qqtools",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "antd-schema-form",
+          "fullName": "duan602728596/antd-schema-form",
+          "stars": 173,
+          "url": "https://github.com/duan602728596/antd-schema-form",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

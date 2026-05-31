@@ -1,0 +1,62 @@
+{
+  "login": "kitlangton",
+  "name": "Kit Langton",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7587245?v=4",
+  "htmlUrl": "https://github.com/kitlangton",
+  "location": "NYC",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2999,
+      "repoCountPrimary": 5,
+      "starsContains": 2999,
+      "repoCountContains": 5,
+      "globalRank": 894,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "visual-effect",
+          "fullName": "kitlangton/visual-effect",
+          "stars": 1134,
+          "url": "https://github.com/kitlangton/visual-effect",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ghui",
+          "fullName": "kitlangton/ghui",
+          "stars": 983,
+          "url": "https://github.com/kitlangton/ghui",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "effect-solutions",
+          "fullName": "kitlangton/effect-solutions",
+          "stars": 369,
+          "url": "https://github.com/kitlangton/effect-solutions",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "tailcode",
+          "fullName": "kitlangton/tailcode",
+          "stars": 306,
+          "url": "https://github.com/kitlangton/tailcode",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "motel",
+          "fullName": "kitlangton/motel",
+          "stars": 207,
+          "url": "https://github.com/kitlangton/motel",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

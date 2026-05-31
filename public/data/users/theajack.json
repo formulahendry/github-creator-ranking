@@ -1,0 +1,41 @@
+{
+  "login": "theajack",
+  "name": "Tack Chen",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/23377279?v=4",
+  "htmlUrl": "https://github.com/theajack",
+  "location": "China.ShangHai",
+  "countryCode": "CN",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 6411,
+      "repoCountPrimary": 2,
+      "starsContains": 6411,
+      "repoCountContains": 2,
+      "globalRank": 365,
+      "countryRank": 48,
+      "topRepos": [
+        {
+          "name": "disable-devtool",
+          "fullName": "theajack/disable-devtool",
+          "stars": 3370,
+          "url": "https://github.com/theajack/disable-devtool",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "cnchar",
+          "fullName": "theajack/cnchar",
+          "stars": 3041,
+          "url": "https://github.com/theajack/cnchar",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

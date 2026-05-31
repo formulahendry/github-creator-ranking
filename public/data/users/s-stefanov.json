@@ -1,0 +1,34 @@
+{
+  "login": "s-stefanov",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/35034980?v=4",
+  "htmlUrl": "https://github.com/s-stefanov",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 150,
+      "repoCountPrimary": 1,
+      "starsContains": 150,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "actual-mcp",
+          "fullName": "s-stefanov/actual-mcp",
+          "stars": 150,
+          "url": "https://github.com/s-stefanov/actual-mcp",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

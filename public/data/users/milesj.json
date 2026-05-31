@@ -1,0 +1,62 @@
+{
+  "login": "milesj",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/143744?v=4",
+  "htmlUrl": "https://github.com/milesj",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2570,
+      "repoCountPrimary": 6,
+      "starsContains": 2570,
+      "repoCountContains": 6,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "interweave",
+          "fullName": "milesj/interweave",
+          "stars": 1156,
+          "url": "https://github.com/milesj/interweave",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "emojibase",
+          "fullName": "milesj/emojibase",
+          "stars": 612,
+          "url": "https://github.com/milesj/emojibase",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "babel-plugin-typescript-to-proptypes",
+          "fullName": "milesj/babel-plugin-typescript-to-proptypes",
+          "stars": 366,
+          "url": "https://github.com/milesj/babel-plugin-typescript-to-proptypes",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "packemon",
+          "fullName": "milesj/packemon",
+          "stars": 222,
+          "url": "https://github.com/milesj/packemon",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "boost",
+          "fullName": "milesj/boost",
+          "stars": 111,
+          "url": "https://github.com/milesj/boost",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

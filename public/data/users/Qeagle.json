@@ -1,0 +1,34 @@
+{
+  "login": "Qeagle",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2205750?v=4",
+  "htmlUrl": "https://github.com/Qeagle",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 103,
+      "repoCountPrimary": 1,
+      "starsContains": 103,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "reporter-engine",
+          "fullName": "Qeagle/reporter-engine",
+          "stars": 103,
+          "url": "https://github.com/Qeagle/reporter-engine",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

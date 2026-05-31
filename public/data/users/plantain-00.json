@@ -1,0 +1,48 @@
+{
+  "login": "plantain-00",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7639395?v=4",
+  "htmlUrl": "https://github.com/plantain-00",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1667,
+      "repoCountPrimary": 3,
+      "starsContains": 1667,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "type-coverage",
+          "fullName": "plantain-00/type-coverage",
+          "stars": 1343,
+          "url": "https://github.com/plantain-00/type-coverage",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "schema-based-json-editor",
+          "fullName": "plantain-00/schema-based-json-editor",
+          "stars": 177,
+          "url": "https://github.com/plantain-00/schema-based-json-editor",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "tree-component",
+          "fullName": "plantain-00/tree-component",
+          "stars": 147,
+          "url": "https://github.com/plantain-00/tree-component",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

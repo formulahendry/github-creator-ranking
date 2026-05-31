@@ -1,0 +1,55 @@
+{
+  "login": "777genius",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/13103045?v=4",
+  "htmlUrl": "https://github.com/777genius",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2329,
+      "repoCountPrimary": 4,
+      "starsContains": 2329,
+      "repoCountContains": 4,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "agent-teams-ai",
+          "fullName": "777genius/agent-teams-ai",
+          "stars": 1010,
+          "url": "https://github.com/777genius/agent-teams-ai",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "tiptap-vuetify",
+          "fullName": "777genius/tiptap-vuetify",
+          "stars": 817,
+          "url": "https://github.com/777genius/tiptap-vuetify",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "claude-code-source-code-full",
+          "fullName": "777genius/claude-code-source-code-full",
+          "stars": 390,
+          "url": "https://github.com/777genius/claude-code-source-code-full",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "claude-code-working",
+          "fullName": "777genius/claude-code-working",
+          "stars": 112,
+          "url": "https://github.com/777genius/claude-code-working",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

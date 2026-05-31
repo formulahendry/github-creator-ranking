@@ -1,0 +1,41 @@
+{
+  "login": "developedbyed",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/31110235?v=4",
+  "htmlUrl": "https://github.com/developedbyed",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 368,
+      "repoCountPrimary": 2,
+      "starsContains": 368,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-gradient-glow",
+          "fullName": "developedbyed/react-gradient-glow",
+          "stars": 243,
+          "url": "https://github.com/developedbyed/react-gradient-glow",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "fullstack-next",
+          "fullName": "developedbyed/fullstack-next",
+          "stars": 125,
+          "url": "https://github.com/developedbyed/fullstack-next",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

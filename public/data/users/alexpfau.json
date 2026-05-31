@@ -1,0 +1,34 @@
+{
+  "login": "alexpfau",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/77438832?v=4",
+  "htmlUrl": "https://github.com/alexpfau",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1114,
+      "repoCountPrimary": 1,
+      "starsContains": 1114,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "calendar-card-pro",
+          "fullName": "alexpfau/calendar-card-pro",
+          "stars": 1114,
+          "url": "https://github.com/alexpfau/calendar-card-pro",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

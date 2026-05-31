@@ -1,0 +1,48 @@
+{
+  "login": "fccview",
+  "name": "fccview",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/112867047?v=4",
+  "htmlUrl": "https://github.com/fccview",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3249,
+      "repoCountPrimary": 3,
+      "starsContains": 3249,
+      "repoCountContains": 3,
+      "globalRank": 829,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "jotty",
+          "fullName": "fccview/jotty",
+          "stars": 1874,
+          "url": "https://github.com/fccview/jotty",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "cronmaster",
+          "fullName": "fccview/cronmaster",
+          "stars": 1246,
+          "url": "https://github.com/fccview/cronmaster",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "scatola-magica",
+          "fullName": "fccview/scatola-magica",
+          "stars": 129,
+          "url": "https://github.com/fccview/scatola-magica",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

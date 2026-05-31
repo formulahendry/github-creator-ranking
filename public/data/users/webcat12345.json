@@ -1,0 +1,41 @@
+{
+  "login": "webcat12345",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/19761422?v=4",
+  "htmlUrl": "https://github.com/webcat12345",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 335,
+      "repoCountPrimary": 2,
+      "starsContains": 335,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ngx-intl-tel-input",
+          "fullName": "webcat12345/ngx-intl-tel-input",
+          "stars": 224,
+          "url": "https://github.com/webcat12345/ngx-intl-tel-input",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ngx-ui-switch",
+          "fullName": "webcat12345/ngx-ui-switch",
+          "stars": 111,
+          "url": "https://github.com/webcat12345/ngx-ui-switch",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

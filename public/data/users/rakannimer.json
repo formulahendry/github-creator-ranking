@@ -1,0 +1,41 @@
+{
+  "login": "rakannimer",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1270909?v=4",
+  "htmlUrl": "https://github.com/rakannimer",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1946,
+      "repoCountPrimary": 2,
+      "starsContains": 1946,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-google-charts",
+          "fullName": "rakannimer/react-google-charts",
+          "stars": 1719,
+          "url": "https://github.com/rakannimer/react-google-charts",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-firebase",
+          "fullName": "rakannimer/react-firebase",
+          "stars": 227,
+          "url": "https://github.com/rakannimer/react-firebase",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

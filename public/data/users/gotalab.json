@@ -1,0 +1,34 @@
+{
+  "login": "gotalab",
+  "name": "Gota",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/75576618?v=4",
+  "htmlUrl": "https://github.com/gotalab",
+  "location": "Japan",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3418,
+      "repoCountPrimary": 1,
+      "starsContains": 3418,
+      "repoCountContains": 1,
+      "globalRank": 789,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "cc-sdd",
+          "fullName": "gotalab/cc-sdd",
+          "stars": 3418,
+          "url": "https://github.com/gotalab/cc-sdd",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

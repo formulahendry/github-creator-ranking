@@ -1,0 +1,62 @@
+{
+  "login": "cyanheads",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/10339515?v=4",
+  "htmlUrl": "https://github.com/cyanheads",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1503,
+      "repoCountPrimary": 5,
+      "starsContains": 1503,
+      "repoCountContains": 5,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "obsidian-mcp-server",
+          "fullName": "cyanheads/obsidian-mcp-server",
+          "stars": 567,
+          "url": "https://github.com/cyanheads/obsidian-mcp-server",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "atlas-mcp-server",
+          "fullName": "cyanheads/atlas-mcp-server",
+          "stars": 474,
+          "url": "https://github.com/cyanheads/atlas-mcp-server",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "git-mcp-server",
+          "fullName": "cyanheads/git-mcp-server",
+          "stars": 220,
+          "url": "https://github.com/cyanheads/git-mcp-server",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "mcp-ts-core",
+          "fullName": "cyanheads/mcp-ts-core",
+          "stars": 141,
+          "url": "https://github.com/cyanheads/mcp-ts-core",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "pubmed-mcp-server",
+          "fullName": "cyanheads/pubmed-mcp-server",
+          "stars": 101,
+          "url": "https://github.com/cyanheads/pubmed-mcp-server",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

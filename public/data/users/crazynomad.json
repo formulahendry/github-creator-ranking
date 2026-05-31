@@ -1,0 +1,48 @@
+{
+  "login": "crazynomad",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/4710191?v=4",
+  "htmlUrl": "https://github.com/crazynomad",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 441,
+      "repoCountPrimary": 3,
+      "starsContains": 441,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "tutorial",
+          "fullName": "crazynomad/tutorial",
+          "stars": 194,
+          "url": "https://github.com/crazynomad/tutorial",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "weixin-claude-bot",
+          "fullName": "crazynomad/weixin-claude-bot",
+          "stars": 124,
+          "url": "https://github.com/crazynomad/weixin-claude-bot",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "notebooklm-jetpack",
+          "fullName": "crazynomad/notebooklm-jetpack",
+          "stars": 123,
+          "url": "https://github.com/crazynomad/notebooklm-jetpack",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

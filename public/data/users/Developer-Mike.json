@@ -1,0 +1,41 @@
+{
+  "login": "Developer-Mike",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/52970344?v=4",
+  "htmlUrl": "https://github.com/Developer-Mike",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1480,
+      "repoCountPrimary": 2,
+      "starsContains": 1480,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "obsidian-advanced-canvas",
+          "fullName": "Developer-Mike/obsidian-advanced-canvas",
+          "stars": 1358,
+          "url": "https://github.com/Developer-Mike/obsidian-advanced-canvas",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "obsidian-docxer",
+          "fullName": "Developer-Mike/obsidian-docxer",
+          "stars": 122,
+          "url": "https://github.com/Developer-Mike/obsidian-docxer",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "login": "kitze",
+  "name": "kitze 🚀",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1160594?v=4",
+  "htmlUrl": "https://github.com/kitze",
+  "location": "Gdansk, Poland",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3510,
+      "repoCountPrimary": 6,
+      "starsContains": 3510,
+      "repoCountContains": 6,
+      "globalRank": 764,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-hanger",
+          "fullName": "kitze/react-hanger",
+          "stars": 1930,
+          "url": "https://github.com/kitze/react-hanger",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-genie",
+          "fullName": "kitze/react-genie",
+          "stars": 742,
+          "url": "https://github.com/kitze/react-genie",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "mobx-router",
+          "fullName": "kitze/mobx-router",
+          "stars": 506,
+          "url": "https://github.com/kitze/mobx-router",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "copy-lite",
+          "fullName": "kitze/copy-lite",
+          "stars": 121,
+          "url": "https://github.com/kitze/copy-lite",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-tiniest-router",
+          "fullName": "kitze/react-tiniest-router",
+          "stars": 106,
+          "url": "https://github.com/kitze/react-tiniest-router",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

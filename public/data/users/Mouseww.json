@@ -1,0 +1,34 @@
+{
+  "login": "Mouseww",
+  "name": "Webber Wei",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/28473201?v=4",
+  "htmlUrl": "https://github.com/Mouseww",
+  "location": "Qingdao, Shandong, China",
+  "countryCode": "CN",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2743,
+      "repoCountPrimary": 1,
+      "starsContains": 2743,
+      "repoCountContains": 1,
+      "globalRank": 979,
+      "countryRank": 115,
+      "topRepos": [
+        {
+          "name": "anything-analyzer",
+          "fullName": "Mouseww/anything-analyzer",
+          "stars": 2743,
+          "url": "https://github.com/Mouseww/anything-analyzer",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

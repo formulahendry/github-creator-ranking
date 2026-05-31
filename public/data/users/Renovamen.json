@@ -1,0 +1,48 @@
+{
+  "login": "Renovamen",
+  "name": "Xiaohan Zou",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/29454156?v=4",
+  "htmlUrl": "https://github.com/Renovamen",
+  "location": "State College, PA",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 4826,
+      "repoCountPrimary": 3,
+      "starsContains": 4826,
+      "repoCountContains": 3,
+      "globalRank": 527,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "playground-macos",
+          "fullName": "Renovamen/playground-macos",
+          "stars": 3475,
+          "url": "https://github.com/Renovamen/playground-macos",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "oh-my-cv",
+          "fullName": "Renovamen/oh-my-cv",
+          "stars": 980,
+          "url": "https://github.com/Renovamen/oh-my-cv",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vuepress-theme-gungnir",
+          "fullName": "Renovamen/vuepress-theme-gungnir",
+          "stars": 371,
+          "url": "https://github.com/Renovamen/vuepress-theme-gungnir",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

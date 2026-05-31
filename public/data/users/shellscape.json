@@ -1,0 +1,41 @@
+{
+  "login": "shellscape",
+  "name": "Andrew Powell",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/76371?v=4",
+  "htmlUrl": "https://github.com/shellscape",
+  "location": "Palm Trees and Interwebs",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2684,
+      "repoCountPrimary": 2,
+      "starsContains": 2684,
+      "repoCountContains": 2,
+      "globalRank": 999,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "webpack-manifest-plugin",
+          "fullName": "shellscape/webpack-manifest-plugin",
+          "stars": 1444,
+          "url": "https://github.com/shellscape/webpack-manifest-plugin",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "jsx-email",
+          "fullName": "shellscape/jsx-email",
+          "stars": 1240,
+          "url": "https://github.com/shellscape/jsx-email",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

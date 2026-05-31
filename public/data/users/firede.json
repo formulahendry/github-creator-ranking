@@ -1,0 +1,34 @@
+{
+  "login": "firede",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/157338?v=4",
+  "htmlUrl": "https://github.com/firede",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 155,
+      "repoCountPrimary": 1,
+      "starsContains": 155,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ts-transform-graphql-tag",
+          "fullName": "firede/ts-transform-graphql-tag",
+          "stars": 155,
+          "url": "https://github.com/firede/ts-transform-graphql-tag",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

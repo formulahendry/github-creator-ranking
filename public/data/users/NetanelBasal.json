@@ -1,0 +1,48 @@
+{
+  "login": "NetanelBasal",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6745730?v=4",
+  "htmlUrl": "https://github.com/NetanelBasal",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 931,
+      "repoCountPrimary": 3,
+      "starsContains": 931,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "helpful-decorators",
+          "fullName": "NetanelBasal/helpful-decorators",
+          "stars": 462,
+          "url": "https://github.com/NetanelBasal/helpful-decorators",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ngx-auto-unsubscribe",
+          "fullName": "NetanelBasal/ngx-auto-unsubscribe",
+          "stars": 340,
+          "url": "https://github.com/NetanelBasal/ngx-auto-unsubscribe",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ngrx-generator",
+          "fullName": "NetanelBasal/ngrx-generator",
+          "stars": 129,
+          "url": "https://github.com/NetanelBasal/ngrx-generator",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

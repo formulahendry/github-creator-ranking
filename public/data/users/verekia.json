@@ -1,0 +1,41 @@
+{
+  "login": "verekia",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/522007?v=4",
+  "htmlUrl": "https://github.com/verekia",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 359,
+      "repoCountPrimary": 2,
+      "starsContains": 359,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "manapotion",
+          "fullName": "verekia/manapotion",
+          "stars": 250,
+          "url": "https://github.com/verekia/manapotion",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "tslfx",
+          "fullName": "verekia/tslfx",
+          "stars": 109,
+          "url": "https://github.com/verekia/tslfx",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

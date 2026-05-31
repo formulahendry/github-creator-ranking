@@ -1,0 +1,41 @@
+{
+  "login": "max-programming",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/51731966?v=4",
+  "htmlUrl": "https://github.com/max-programming",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 303,
+      "repoCountPrimary": 2,
+      "starsContains": 303,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "drizzle-query-logger",
+          "fullName": "max-programming/drizzle-query-logger",
+          "stars": 168,
+          "url": "https://github.com/max-programming/drizzle-query-logger",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "hacktoberfest-projects",
+          "fullName": "max-programming/hacktoberfest-projects",
+          "stars": 135,
+          "url": "https://github.com/max-programming/hacktoberfest-projects",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

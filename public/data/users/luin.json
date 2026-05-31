@@ -1,0 +1,41 @@
+{
+  "login": "luin",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/635902?v=4",
+  "htmlUrl": "https://github.com/luin",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 225,
+      "repoCountPrimary": 2,
+      "starsContains": 225,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "npm-try",
+          "fullName": "luin/npm-try",
+          "stars": 115,
+          "url": "https://github.com/luin/npm-try",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "bazinga",
+          "fullName": "luin/bazinga",
+          "stars": 110,
+          "url": "https://github.com/luin/bazinga",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

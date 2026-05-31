@@ -1,0 +1,34 @@
+{
+  "login": "mohitvirli",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/11966122?v=4",
+  "htmlUrl": "https://github.com/mohitvirli",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 307,
+      "repoCountPrimary": 1,
+      "starsContains": 307,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "mohitvirli.github.io",
+          "fullName": "mohitvirli/mohitvirli.github.io",
+          "stars": 307,
+          "url": "https://github.com/mohitvirli/mohitvirli.github.io",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "davewasmer",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/707213?v=4",
+  "htmlUrl": "https://github.com/davewasmer",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1309,
+      "repoCountPrimary": 1,
+      "starsContains": 1309,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "devcert",
+          "fullName": "davewasmer/devcert",
+          "stars": 1309,
+          "url": "https://github.com/davewasmer/devcert",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

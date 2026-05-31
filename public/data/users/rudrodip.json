@@ -1,0 +1,62 @@
+{
+  "login": "rudrodip",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/77154365?v=4",
+  "htmlUrl": "https://github.com/rudrodip",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1352,
+      "repoCountPrimary": 6,
+      "starsContains": 1352,
+      "repoCountContains": 6,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "titan",
+          "fullName": "rudrodip/titan",
+          "stars": 308,
+          "url": "https://github.com/rudrodip/titan",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "shadcn-date-time-picker",
+          "fullName": "rudrodip/shadcn-date-time-picker",
+          "stars": 292,
+          "url": "https://github.com/rudrodip/shadcn-date-time-picker",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "asyncr",
+          "fullName": "rudrodip/asyncr",
+          "stars": 275,
+          "url": "https://github.com/rudrodip/asyncr",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "nexfaster",
+          "fullName": "rudrodip/nexfaster",
+          "stars": 249,
+          "url": "https://github.com/rudrodip/nexfaster",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "shadcn-chart-brush",
+          "fullName": "rudrodip/shadcn-chart-brush",
+          "stars": 119,
+          "url": "https://github.com/rudrodip/shadcn-chart-brush",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

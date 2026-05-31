@@ -1,0 +1,34 @@
+{
+  "login": "etienne-martin",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/9700213?v=4",
+  "htmlUrl": "https://github.com/etienne-martin",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 499,
+      "repoCountPrimary": 1,
+      "starsContains": 499,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "device-detector-js",
+          "fullName": "etienne-martin/device-detector-js",
+          "stars": 499,
+          "url": "https://github.com/etienne-martin/device-detector-js",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

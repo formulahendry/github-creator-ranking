@@ -1,0 +1,34 @@
+{
+  "login": "vsme",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/18651467?v=4",
+  "htmlUrl": "https://github.com/vsme",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1235,
+      "repoCountPrimary": 1,
+      "starsContains": 1235,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "chinese-days",
+          "fullName": "vsme/chinese-days",
+          "stars": 1235,
+          "url": "https://github.com/vsme/chinese-days",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

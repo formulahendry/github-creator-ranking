@@ -1,0 +1,34 @@
+{
+  "login": "mattnigh",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5862416?v=4",
+  "htmlUrl": "https://github.com/mattnigh",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2285,
+      "repoCountPrimary": 1,
+      "starsContains": 2285,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ChatGPT-Free-Prompt-List",
+          "fullName": "mattnigh/ChatGPT-Free-Prompt-List",
+          "stars": 2285,
+          "url": "https://github.com/mattnigh/ChatGPT-Free-Prompt-List",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

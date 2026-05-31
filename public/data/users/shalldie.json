@@ -1,0 +1,41 @@
+{
+  "login": "shalldie",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/9987486?v=4",
+  "htmlUrl": "https://github.com/shalldie",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1944,
+      "repoCountPrimary": 2,
+      "starsContains": 1944,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vscode-background",
+          "fullName": "shalldie/vscode-background",
+          "stars": 1826,
+          "url": "https://github.com/shalldie/vscode-background",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "chuncai",
+          "fullName": "shalldie/chuncai",
+          "stars": 118,
+          "url": "https://github.com/shalldie/chuncai",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

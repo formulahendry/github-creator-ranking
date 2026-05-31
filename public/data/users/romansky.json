@@ -1,0 +1,34 @@
+{
+  "login": "romansky",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/616961?v=4",
+  "htmlUrl": "https://github.com/romansky",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 976,
+      "repoCountPrimary": 1,
+      "starsContains": 976,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "dom-to-semantic-markdown",
+          "fullName": "romansky/dom-to-semantic-markdown",
+          "stars": 976,
+          "url": "https://github.com/romansky/dom-to-semantic-markdown",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

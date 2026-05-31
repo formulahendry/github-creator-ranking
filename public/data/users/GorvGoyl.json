@@ -1,0 +1,48 @@
+{
+  "login": "GorvGoyl",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7106086?v=4",
+  "htmlUrl": "https://github.com/GorvGoyl",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 922,
+      "repoCountPrimary": 3,
+      "starsContains": 922,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Notion-Boost-browser-extension",
+          "fullName": "GorvGoyl/Notion-Boost-browser-extension",
+          "stars": 544,
+          "url": "https://github.com/GorvGoyl/Notion-Boost-browser-extension",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Shortcut-Menu-Bar-VSCode-Extension",
+          "fullName": "GorvGoyl/Shortcut-Menu-Bar-VSCode-Extension",
+          "stars": 248,
+          "url": "https://github.com/GorvGoyl/Shortcut-Menu-Bar-VSCode-Extension",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Personal-Site-Gourav.io",
+          "fullName": "GorvGoyl/Personal-Site-Gourav.io",
+          "stars": 130,
+          "url": "https://github.com/GorvGoyl/Personal-Site-Gourav.io",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "xinyao27",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/27852165?v=4",
+  "htmlUrl": "https://github.com/xinyao27",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 541,
+      "repoCountPrimary": 2,
+      "starsContains": 541,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "hearthstone-battlegrounds-tools",
+          "fullName": "xinyao27/hearthstone-battlegrounds-tools",
+          "stars": 294,
+          "url": "https://github.com/xinyao27/hearthstone-battlegrounds-tools",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "next-devtools",
+          "fullName": "xinyao27/next-devtools",
+          "stars": 247,
+          "url": "https://github.com/xinyao27/next-devtools",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "guopenghui",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/13451866?v=4",
+  "htmlUrl": "https://github.com/guopenghui",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1485,
+      "repoCountPrimary": 2,
+      "starsContains": 1485,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "obsidian-language-learner",
+          "fullName": "guopenghui/obsidian-language-learner",
+          "stars": 956,
+          "url": "https://github.com/guopenghui/obsidian-language-learner",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "obsidian-quiet-outline",
+          "fullName": "guopenghui/obsidian-quiet-outline",
+          "stars": 529,
+          "url": "https://github.com/guopenghui/obsidian-quiet-outline",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

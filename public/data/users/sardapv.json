@@ -1,0 +1,34 @@
+{
+  "login": "sardapv",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/14892874?v=4",
+  "htmlUrl": "https://github.com/sardapv",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 130,
+      "repoCountPrimary": 1,
+      "starsContains": 130,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "angular-material-starter-template",
+          "fullName": "sardapv/angular-material-starter-template",
+          "stars": 130,
+          "url": "https://github.com/sardapv/angular-material-starter-template",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

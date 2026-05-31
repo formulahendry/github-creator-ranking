@@ -1,0 +1,48 @@
+{
+  "login": "akash3444",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/64416825?v=4",
+  "htmlUrl": "https://github.com/akash3444",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1118,
+      "repoCountPrimary": 3,
+      "starsContains": 1118,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "shadcn-ui-blocks",
+          "fullName": "akash3444/shadcn-ui-blocks",
+          "stars": 613,
+          "url": "https://github.com/akash3444/shadcn-ui-blocks",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "basecn",
+          "fullName": "akash3444/basecn",
+          "stars": 279,
+          "url": "https://github.com/akash3444/basecn",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "shadcn-ui-landing-page",
+          "fullName": "akash3444/shadcn-ui-landing-page",
+          "stars": 226,
+          "url": "https://github.com/akash3444/shadcn-ui-landing-page",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

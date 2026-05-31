@@ -1,0 +1,41 @@
+{
+  "login": "ridafkih",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/9158485?v=4",
+  "htmlUrl": "https://github.com/ridafkih",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1571,
+      "repoCountPrimary": 2,
+      "starsContains": 1571,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "keeper.sh",
+          "fullName": "ridafkih/keeper.sh",
+          "stars": 1090,
+          "url": "https://github.com/ridafkih/keeper.sh",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "schemix",
+          "fullName": "ridafkih/schemix",
+          "stars": 481,
+          "url": "https://github.com/ridafkih/schemix",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

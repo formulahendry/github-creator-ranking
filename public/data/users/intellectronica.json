@@ -1,0 +1,34 @@
+{
+  "login": "intellectronica",
+  "name": "Eleanor Berger",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/46264?v=4",
+  "htmlUrl": "https://github.com/intellectronica",
+  "location": "Zürich",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2724,
+      "repoCountPrimary": 1,
+      "starsContains": 2724,
+      "repoCountContains": 1,
+      "globalRank": 985,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ruler",
+          "fullName": "intellectronica/ruler",
+          "stars": 2724,
+          "url": "https://github.com/intellectronica/ruler",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

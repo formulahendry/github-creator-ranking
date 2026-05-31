@@ -1,0 +1,41 @@
+{
+  "login": "fangpenlin",
+  "name": "Fang-Pen Lin",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/201615?v=4",
+  "htmlUrl": "https://github.com/fangpenlin",
+  "location": "San Francisco",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3825,
+      "repoCountPrimary": 2,
+      "starsContains": 3825,
+      "repoCountContains": 2,
+      "globalRank": 696,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "avataaars-generator",
+          "fullName": "fangpenlin/avataaars-generator",
+          "stars": 2982,
+          "url": "https://github.com/fangpenlin/avataaars-generator",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "avataaars",
+          "fullName": "fangpenlin/avataaars",
+          "stars": 843,
+          "url": "https://github.com/fangpenlin/avataaars",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

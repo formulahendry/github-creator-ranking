@@ -1,0 +1,41 @@
+{
+  "login": "henryjeff",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/13322650?v=4",
+  "htmlUrl": "https://github.com/henryjeff",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2396,
+      "repoCountPrimary": 2,
+      "starsContains": 2396,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "portfolio-website",
+          "fullName": "henryjeff/portfolio-website",
+          "stars": 2156,
+          "url": "https://github.com/henryjeff/portfolio-website",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "portfolio-inner-site",
+          "fullName": "henryjeff/portfolio-inner-site",
+          "stars": 240,
+          "url": "https://github.com/henryjeff/portfolio-inner-site",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

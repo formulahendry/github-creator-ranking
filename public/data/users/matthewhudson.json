@@ -1,0 +1,34 @@
+{
+  "login": "matthewhudson",
+  "name": "Matthew Hudson",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/320194?v=4",
+  "htmlUrl": "https://github.com/matthewhudson",
+  "location": "New York",
+  "countryCode": "US",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3934,
+      "repoCountPrimary": 1,
+      "starsContains": 3934,
+      "repoCountContains": 1,
+      "globalRank": 675,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "current-device",
+          "fullName": "matthewhudson/current-device",
+          "stars": 3934,
+          "url": "https://github.com/matthewhudson/current-device",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

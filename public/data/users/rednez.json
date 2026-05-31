@@ -1,0 +1,34 @@
+{
+  "login": "rednez",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7082902?v=4",
+  "htmlUrl": "https://github.com/rednez",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 176,
+      "repoCountPrimary": 1,
+      "starsContains": 176,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "angular-user-idle",
+          "fullName": "rednez/angular-user-idle",
+          "stars": 176,
+          "url": "https://github.com/rednez/angular-user-idle",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

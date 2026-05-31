@@ -1,0 +1,41 @@
+{
+  "login": "lucasmontano",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7559318?v=4",
+  "htmlUrl": "https://github.com/lucasmontano",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 253,
+      "repoCountPrimary": 2,
+      "starsContains": 253,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "mcp-montano-server",
+          "fullName": "lucasmontano/mcp-montano-server",
+          "stars": 136,
+          "url": "https://github.com/lucasmontano/mcp-montano-server",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "twitch",
+          "fullName": "lucasmontano/twitch",
+          "stars": 117,
+          "url": "https://github.com/lucasmontano/twitch",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "ektogamat",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/86076434?v=4",
+  "htmlUrl": "https://github.com/ektogamat",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 365,
+      "repoCountPrimary": 2,
+      "starsContains": 365,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "drill-webgi-tutorial",
+          "fullName": "ektogamat/drill-webgi-tutorial",
+          "stars": 192,
+          "url": "https://github.com/ektogamat/drill-webgi-tutorial",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "webgi-jewelry",
+          "fullName": "ektogamat/webgi-jewelry",
+          "stars": 173,
+          "url": "https://github.com/ektogamat/webgi-jewelry",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

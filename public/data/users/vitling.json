@@ -1,0 +1,41 @@
+{
+  "login": "vitling",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1446837?v=4",
+  "htmlUrl": "https://github.com/vitling",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1504,
+      "repoCountPrimary": 2,
+      "starsContains": 1504,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "acid-banger",
+          "fullName": "vitling/acid-banger",
+          "stars": 1198,
+          "url": "https://github.com/vitling/acid-banger",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "autotracker",
+          "fullName": "vitling/autotracker",
+          "stars": 306,
+          "url": "https://github.com/vitling/autotracker",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

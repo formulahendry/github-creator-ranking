@@ -1,0 +1,48 @@
+{
+  "login": "jeantimex",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/565300?v=4",
+  "htmlUrl": "https://github.com/jeantimex",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 617,
+      "repoCountPrimary": 3,
+      "starsContains": 617,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "flight-path",
+          "fullName": "jeantimex/flight-path",
+          "stars": 286,
+          "url": "https://github.com/jeantimex/flight-path",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "webgpu-water",
+          "fullName": "jeantimex/webgpu-water",
+          "stars": 194,
+          "url": "https://github.com/jeantimex/webgpu-water",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "geospatial",
+          "fullName": "jeantimex/geospatial",
+          "stars": 137,
+          "url": "https://github.com/jeantimex/geospatial",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

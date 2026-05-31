@@ -1,0 +1,55 @@
+{
+  "login": "MichalLytek",
+  "name": "Michał Lytek",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/10618781?v=4",
+  "htmlUrl": "https://github.com/MichalLytek",
+  "location": "Poland",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 9361,
+      "repoCountPrimary": 4,
+      "starsContains": 9361,
+      "repoCountContains": 4,
+      "globalRank": 242,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "type-graphql",
+          "fullName": "MichalLytek/type-graphql",
+          "stars": 8087,
+          "url": "https://github.com/MichalLytek/type-graphql",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "typegraphql-prisma",
+          "fullName": "MichalLytek/typegraphql-prisma",
+          "stars": 921,
+          "url": "https://github.com/MichalLytek/typegraphql-prisma",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "class-transformer-validator",
+          "fullName": "MichalLytek/class-transformer-validator",
+          "stars": 206,
+          "url": "https://github.com/MichalLytek/class-transformer-validator",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "typegraphql-nestjs",
+          "fullName": "MichalLytek/typegraphql-nestjs",
+          "stars": 147,
+          "url": "https://github.com/MichalLytek/typegraphql-nestjs",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

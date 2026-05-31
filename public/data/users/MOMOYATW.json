@@ -1,0 +1,34 @@
+{
+  "login": "MOMOYATW",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/43531252?v=4",
+  "htmlUrl": "https://github.com/MOMOYATW",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 277,
+      "repoCountPrimary": 1,
+      "starsContains": 277,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "bilibili_manga_downloader",
+          "fullName": "MOMOYATW/bilibili_manga_downloader",
+          "stars": 277,
+          "url": "https://github.com/MOMOYATW/bilibili_manga_downloader",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

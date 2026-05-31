@@ -1,0 +1,41 @@
+{
+  "login": "samarbadriddin0v",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/146908871?v=4",
+  "htmlUrl": "https://github.com/samarbadriddin0v",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 205,
+      "repoCountPrimary": 2,
+      "starsContains": 205,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "google-drive-clone",
+          "fullName": "samarbadriddin0v/google-drive-clone",
+          "stars": 103,
+          "url": "https://github.com/samarbadriddin0v/google-drive-clone",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "notion-clone",
+          "fullName": "samarbadriddin0v/notion-clone",
+          "stars": 102,
+          "url": "https://github.com/samarbadriddin0v/notion-clone",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

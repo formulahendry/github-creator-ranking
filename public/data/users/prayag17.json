@@ -1,0 +1,34 @@
+{
+  "login": "prayag17",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/55829513?v=4",
+  "htmlUrl": "https://github.com/prayag17",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1155,
+      "repoCountPrimary": 1,
+      "starsContains": 1155,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Blink",
+          "fullName": "prayag17/Blink",
+          "stars": 1155,
+          "url": "https://github.com/prayag17/Blink",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "bampakoa",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7170892?v=4",
+  "htmlUrl": "https://github.com/bampakoa",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 355,
+      "repoCountPrimary": 2,
+      "starsContains": 355,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ngx-wig",
+          "fullName": "bampakoa/ngx-wig",
+          "stars": 234,
+          "url": "https://github.com/bampakoa/ngx-wig",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ngx-electron",
+          "fullName": "bampakoa/ngx-electron",
+          "stars": 121,
+          "url": "https://github.com/bampakoa/ngx-electron",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "login": "theADAMJR",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/28284250?v=4",
+  "htmlUrl": "https://github.com/theADAMJR",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 672,
+      "repoCountPrimary": 4,
+      "starsContains": 672,
+      "repoCountContains": 4,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "acrd.app",
+          "fullName": "theADAMJR/acrd.app",
+          "stars": 249,
+          "url": "https://github.com/theADAMJR/acrd.app",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "sixpg",
+          "fullName": "theADAMJR/sixpg",
+          "stars": 186,
+          "url": "https://github.com/theADAMJR/sixpg",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "dbots-website",
+          "fullName": "theADAMJR/dbots-website",
+          "stars": 125,
+          "url": "https://github.com/theADAMJR/dbots-website",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "sixpg-dashboard",
+          "fullName": "theADAMJR/sixpg-dashboard",
+          "stars": 112,
+          "url": "https://github.com/theADAMJR/sixpg-dashboard",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

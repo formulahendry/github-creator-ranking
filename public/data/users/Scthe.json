@@ -1,0 +1,41 @@
+{
+  "login": "Scthe",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/9325337?v=4",
+  "htmlUrl": "https://github.com/Scthe",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1164,
+      "repoCountPrimary": 2,
+      "starsContains": 1164,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "nanite-webgpu",
+          "fullName": "Scthe/nanite-webgpu",
+          "stars": 1063,
+          "url": "https://github.com/Scthe/nanite-webgpu",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "frostbitten-hair-webgpu",
+          "fullName": "Scthe/frostbitten-hair-webgpu",
+          "stars": 101,
+          "url": "https://github.com/Scthe/frostbitten-hair-webgpu",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

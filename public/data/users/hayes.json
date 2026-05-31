@@ -1,0 +1,34 @@
+{
+  "login": "hayes",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/816527?v=4",
+  "htmlUrl": "https://github.com/hayes",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2593,
+      "repoCountPrimary": 1,
+      "starsContains": 2593,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "pothos",
+          "fullName": "hayes/pothos",
+          "stars": 2593,
+          "url": "https://github.com/hayes/pothos",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

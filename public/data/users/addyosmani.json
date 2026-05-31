@@ -1,0 +1,62 @@
+{
+  "login": "addyosmani",
+  "name": "Addy Osmani",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/110953?v=4",
+  "htmlUrl": "https://github.com/addyosmani",
+  "location": "Sunnyvale, California",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 4205,
+      "repoCountPrimary": 8,
+      "starsContains": 4205,
+      "repoCountContains": 8,
+      "globalRank": 620,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "squish",
+          "fullName": "addyosmani/squish",
+          "stars": 1043,
+          "url": "https://github.com/addyosmani/squish",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "bg-remove",
+          "fullName": "addyosmani/bg-remove",
+          "stars": 984,
+          "url": "https://github.com/addyosmani/bg-remove",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "chatty",
+          "fullName": "addyosmani/chatty",
+          "stars": 823,
+          "url": "https://github.com/addyosmani/chatty",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "tunnel-bear-login",
+          "fullName": "addyosmani/tunnel-bear-login",
+          "stars": 404,
+          "url": "https://github.com/addyosmani/tunnel-bear-login",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "say",
+          "fullName": "addyosmani/say",
+          "stars": 392,
+          "url": "https://github.com/addyosmani/say",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

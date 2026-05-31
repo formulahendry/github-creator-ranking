@@ -1,0 +1,48 @@
+{
+  "login": "gre",
+  "name": "@greweb",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/211411?v=4",
+  "htmlUrl": "https://github.com/gre",
+  "location": "Paris, France",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 6045,
+      "repoCountPrimary": 3,
+      "starsContains": 6045,
+      "repoCountContains": 3,
+      "globalRank": 392,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "gl-react",
+          "fullName": "gre/gl-react",
+          "stars": 3000,
+          "url": "https://github.com/gre/gl-react",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-native-view-shot",
+          "fullName": "gre/react-native-view-shot",
+          "stars": 2925,
+          "url": "https://github.com/gre/react-native-view-shot",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "qrloop",
+          "fullName": "gre/qrloop",
+          "stars": 120,
+          "url": "https://github.com/gre/qrloop",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

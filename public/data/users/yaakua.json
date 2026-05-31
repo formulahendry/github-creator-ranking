@@ -1,0 +1,41 @@
+{
+  "login": "yaakua",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1543846?v=4",
+  "htmlUrl": "https://github.com/yaakua",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 555,
+      "repoCountPrimary": 2,
+      "starsContains": 555,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ai-outpainting-com",
+          "fullName": "yaakua/ai-outpainting-com",
+          "stars": 397,
+          "url": "https://github.com/yaakua/ai-outpainting-com",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "game-website-template-v2",
+          "fullName": "yaakua/game-website-template-v2",
+          "stars": 158,
+          "url": "https://github.com/yaakua/game-website-template-v2",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

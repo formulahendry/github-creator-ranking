@@ -1,0 +1,55 @@
+{
+  "login": "fwouts",
+  "name": "Francois Wouts",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/772570?v=4",
+  "htmlUrl": "https://github.com/fwouts",
+  "location": "Sydney, Australia",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2890,
+      "repoCountPrimary": 4,
+      "starsContains": 2890,
+      "repoCountContains": 4,
+      "globalRank": 929,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "previewjs",
+          "fullName": "fwouts/previewjs",
+          "stars": 1939,
+          "url": "https://github.com/fwouts/previewjs",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-screenshot-test",
+          "fullName": "fwouts/react-screenshot-test",
+          "stars": 618,
+          "url": "https://github.com/fwouts/react-screenshot-test",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "viteshot",
+          "fullName": "fwouts/viteshot",
+          "stars": 209,
+          "url": "https://github.com/fwouts/viteshot",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "prmonitor",
+          "fullName": "fwouts/prmonitor",
+          "stars": 124,
+          "url": "https://github.com/fwouts/prmonitor",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

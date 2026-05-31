@@ -1,0 +1,41 @@
+{
+  "login": "varHarrie",
+  "name": "varHarrie",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/14304201?v=4",
+  "htmlUrl": "https://github.com/varHarrie",
+  "location": "Guangzhou, China",
+  "countryCode": "CN",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3790,
+      "repoCountPrimary": 2,
+      "starsContains": 3790,
+      "repoCountContains": 2,
+      "globalRank": 701,
+      "countryRank": 83,
+      "topRepos": [
+        {
+          "name": "varharrie.github.io",
+          "fullName": "varHarrie/varharrie.github.io",
+          "stars": 3678,
+          "url": "https://github.com/varHarrie/varharrie.github.io",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "mokia",
+          "fullName": "varHarrie/mokia",
+          "stars": 112,
+          "url": "https://github.com/varHarrie/mokia",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

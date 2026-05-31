@@ -1,0 +1,34 @@
+{
+  "login": "751496032",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/13871838?v=4",
+  "htmlUrl": "https://github.com/751496032",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 175,
+      "repoCountPrimary": 1,
+      "starsContains": 175,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "DSBridge-HarmonyOS",
+          "fullName": "751496032/DSBridge-HarmonyOS",
+          "stars": 175,
+          "url": "https://github.com/751496032/DSBridge-HarmonyOS",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

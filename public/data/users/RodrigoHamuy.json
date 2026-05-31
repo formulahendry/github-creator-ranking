@@ -1,0 +1,34 @@
+{
+  "login": "RodrigoHamuy",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2405611?v=4",
+  "htmlUrl": "https://github.com/RodrigoHamuy",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 314,
+      "repoCountPrimary": 1,
+      "starsContains": 314,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-three-map",
+          "fullName": "RodrigoHamuy/react-three-map",
+          "stars": 314,
+          "url": "https://github.com/RodrigoHamuy/react-three-map",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

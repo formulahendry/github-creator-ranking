@@ -1,0 +1,48 @@
+{
+  "login": "Stevenic",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/698939?v=4",
+  "htmlUrl": "https://github.com/Stevenic",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 828,
+      "repoCountPrimary": 3,
+      "starsContains": 828,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vectra",
+          "fullName": "Stevenic/vectra",
+          "stars": 618,
+          "url": "https://github.com/Stevenic/vectra",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "codepilot",
+          "fullName": "Stevenic/codepilot",
+          "stars": 106,
+          "url": "https://github.com/Stevenic/codepilot",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "alphawave",
+          "fullName": "Stevenic/alphawave",
+          "stars": 104,
+          "url": "https://github.com/Stevenic/alphawave",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

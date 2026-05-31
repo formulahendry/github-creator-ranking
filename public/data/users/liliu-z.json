@@ -1,0 +1,34 @@
+{
+  "login": "liliu-z",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/105927039?v=4",
+  "htmlUrl": "https://github.com/liliu-z",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 146,
+      "repoCountPrimary": 1,
+      "starsContains": 146,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "magpie",
+          "fullName": "liliu-z/magpie",
+          "stars": 146,
+          "url": "https://github.com/liliu-z/magpie",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

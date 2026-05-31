@@ -1,0 +1,34 @@
+{
+  "login": "hiql",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/17871109?v=4",
+  "htmlUrl": "https://github.com/hiql",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 140,
+      "repoCountPrimary": 1,
+      "starsContains": 140,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "get-unique-id-app",
+          "fullName": "hiql/get-unique-id-app",
+          "stars": 140,
+          "url": "https://github.com/hiql/get-unique-id-app",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

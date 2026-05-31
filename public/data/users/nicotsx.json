@@ -1,0 +1,34 @@
+{
+  "login": "nicotsx",
+  "name": "Nico",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/47644445?v=4",
+  "htmlUrl": "https://github.com/nicotsx",
+  "location": "Switzerland",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 6442,
+      "repoCountPrimary": 1,
+      "starsContains": 6442,
+      "repoCountContains": 1,
+      "globalRank": 362,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "zerobyte",
+          "fullName": "nicotsx/zerobyte",
+          "stars": 6442,
+          "url": "https://github.com/nicotsx/zerobyte",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

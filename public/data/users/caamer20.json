@@ -1,0 +1,34 @@
+{
+  "login": "caamer20",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/9097300?v=4",
+  "htmlUrl": "https://github.com/caamer20",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3435,
+      "repoCountPrimary": 1,
+      "starsContains": 3435,
+      "repoCountContains": 1,
+      "globalRank": 787,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Telegram-Drive",
+          "fullName": "caamer20/Telegram-Drive",
+          "stars": 3435,
+          "url": "https://github.com/caamer20/Telegram-Drive",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

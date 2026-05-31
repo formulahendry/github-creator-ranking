@@ -1,0 +1,34 @@
+{
+  "login": "mmulet",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6510497?v=4",
+  "htmlUrl": "https://github.com/mmulet",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 346,
+      "repoCountPrimary": 1,
+      "starsContains": 346,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "code-relay",
+          "fullName": "mmulet/code-relay",
+          "stars": 346,
+          "url": "https://github.com/mmulet/code-relay",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

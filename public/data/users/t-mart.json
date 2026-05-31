@@ -1,0 +1,34 @@
+{
+  "login": "t-mart",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/200012?v=4",
+  "htmlUrl": "https://github.com/t-mart",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 220,
+      "repoCountPrimary": 1,
+      "starsContains": 220,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "mousehole",
+          "fullName": "t-mart/mousehole",
+          "stars": 220,
+          "url": "https://github.com/t-mart/mousehole",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

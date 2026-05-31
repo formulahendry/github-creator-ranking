@@ -1,0 +1,34 @@
+{
+  "login": "qier222",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/68148142?v=4",
+  "htmlUrl": "https://github.com/qier222",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 696,
+      "repoCountPrimary": 1,
+      "starsContains": 696,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "proxy-provider-converter",
+          "fullName": "qier222/proxy-provider-converter",
+          "stars": 696,
+          "url": "https://github.com/qier222/proxy-provider-converter",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

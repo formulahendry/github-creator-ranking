@@ -1,0 +1,34 @@
+{
+  "login": "dicallc",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7800217?v=4",
+  "htmlUrl": "https://github.com/dicallc",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 574,
+      "repoCountPrimary": 1,
+      "starsContains": 574,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ionic3_angular4_JD",
+          "fullName": "dicallc/ionic3_angular4_JD",
+          "stars": 574,
+          "url": "https://github.com/dicallc/ionic3_angular4_JD",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

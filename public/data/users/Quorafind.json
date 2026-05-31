@@ -1,0 +1,62 @@
+{
+  "login": "Quorafind",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/13215013?v=4",
+  "htmlUrl": "https://github.com/Quorafind",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1443,
+      "repoCountPrimary": 7,
+      "starsContains": 1443,
+      "repoCountContains": 7,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Obsidian-Canvas-MindMap",
+          "fullName": "Quorafind/Obsidian-Canvas-MindMap",
+          "stars": 365,
+          "url": "https://github.com/Quorafind/Obsidian-Canvas-MindMap",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Obsidian-Daily-Notes-Editor",
+          "fullName": "Quorafind/Obsidian-Daily-Notes-Editor",
+          "stars": 270,
+          "url": "https://github.com/Quorafind/Obsidian-Daily-Notes-Editor",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Outliner.MD",
+          "fullName": "Quorafind/Outliner.MD",
+          "stars": 221,
+          "url": "https://github.com/Quorafind/Outliner.MD",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Obsidian-Float-Search",
+          "fullName": "Quorafind/Obsidian-Float-Search",
+          "stars": 181,
+          "url": "https://github.com/Quorafind/Obsidian-Float-Search",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Obsidian-Better-Reading-Mode",
+          "fullName": "Quorafind/Obsidian-Better-Reading-Mode",
+          "stars": 144,
+          "url": "https://github.com/Quorafind/Obsidian-Better-Reading-Mode",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

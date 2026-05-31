@@ -1,0 +1,48 @@
+{
+  "login": "misode",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/17352009?v=4",
+  "htmlUrl": "https://github.com/misode",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1330,
+      "repoCountPrimary": 3,
+      "starsContains": 1330,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "misode.github.io",
+          "fullName": "misode/misode.github.io",
+          "stars": 877,
+          "url": "https://github.com/misode/misode.github.io",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "deepslate",
+          "fullName": "misode/deepslate",
+          "stars": 238,
+          "url": "https://github.com/misode/deepslate",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vscode-nbt",
+          "fullName": "misode/vscode-nbt",
+          "stars": 215,
+          "url": "https://github.com/misode/vscode-nbt",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

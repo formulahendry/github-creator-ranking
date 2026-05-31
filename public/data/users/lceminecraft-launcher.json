@@ -1,0 +1,34 @@
+{
+  "login": "lceminecraft-launcher",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/14162113?v=4",
+  "htmlUrl": "https://github.com/lceminecraft-launcher",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 394,
+      "repoCountPrimary": 1,
+      "starsContains": 394,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "LCE-Emerald-Launcher",
+          "fullName": "lceminecraft-launcher/LCE-Emerald-Launcher",
+          "stars": 394,
+          "url": "https://github.com/lceminecraft-launcher/LCE-Emerald-Launcher",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "ColinEberhardt",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1098110?v=4",
+  "htmlUrl": "https://github.com/ColinEberhardt",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 475,
+      "repoCountPrimary": 2,
+      "starsContains": 475,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "chasm",
+          "fullName": "ColinEberhardt/chasm",
+          "stars": 366,
+          "url": "https://github.com/ColinEberhardt/chasm",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "d3-wasm-force",
+          "fullName": "ColinEberhardt/d3-wasm-force",
+          "stars": 109,
+          "url": "https://github.com/ColinEberhardt/d3-wasm-force",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "lochie",
+  "name": "Lochie Axon",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1930210?v=4",
+  "htmlUrl": "https://github.com/lochie",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3557,
+      "repoCountPrimary": 2,
+      "starsContains": 3557,
+      "repoCountContains": 2,
+      "globalRank": 754,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "web-haptics",
+          "fullName": "lochie/web-haptics",
+          "stars": 2595,
+          "url": "https://github.com/lochie/web-haptics",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "torph",
+          "fullName": "lochie/torph",
+          "stars": 962,
+          "url": "https://github.com/lochie/torph",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

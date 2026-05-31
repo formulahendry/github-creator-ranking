@@ -1,0 +1,34 @@
+{
+  "login": "wufe",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7671694?v=4",
+  "htmlUrl": "https://github.com/wufe",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1143,
+      "repoCountPrimary": 1,
+      "starsContains": 1143,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-particles-js",
+          "fullName": "wufe/react-particles-js",
+          "stars": 1143,
+          "url": "https://github.com/wufe/react-particles-js",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

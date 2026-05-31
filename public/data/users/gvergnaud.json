@@ -1,0 +1,48 @@
+{
+  "login": "gvergnaud",
+  "name": "Gabriel Vergnaud",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/9265418?v=4",
+  "htmlUrl": "https://github.com/gvergnaud",
+  "location": "Paris",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 18945,
+      "repoCountPrimary": 3,
+      "starsContains": 18945,
+      "repoCountContains": 3,
+      "globalRank": 98,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ts-pattern",
+          "fullName": "gvergnaud/ts-pattern",
+          "stars": 15025,
+          "url": "https://github.com/gvergnaud/ts-pattern",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "hotscript",
+          "fullName": "gvergnaud/hotscript",
+          "stars": 3672,
+          "url": "https://github.com/gvergnaud/hotscript",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "type-level-typescript-workshop",
+          "fullName": "gvergnaud/type-level-typescript-workshop",
+          "stars": 248,
+          "url": "https://github.com/gvergnaud/type-level-typescript-workshop",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

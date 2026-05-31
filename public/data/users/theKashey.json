@@ -1,0 +1,62 @@
+{
+  "login": "theKashey",
+  "name": "Anton Korzunov",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/582410?v=4",
+  "htmlUrl": "https://github.com/theKashey",
+  "location": "Sydney",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3237,
+      "repoCountPrimary": 11,
+      "starsContains": 3237,
+      "repoCountContains": 11,
+      "globalRank": 831,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-remove-scroll",
+          "fullName": "theKashey/react-remove-scroll",
+          "stars": 942,
+          "url": "https://github.com/theKashey/react-remove-scroll",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-imported-component",
+          "fullName": "theKashey/react-imported-component",
+          "stars": 661,
+          "url": "https://github.com/theKashey/react-imported-component",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-focus-on",
+          "fullName": "theKashey/react-focus-on",
+          "stars": 351,
+          "url": "https://github.com/theKashey/react-focus-on",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "use-callback-ref",
+          "fullName": "theKashey/use-callback-ref",
+          "stars": 309,
+          "url": "https://github.com/theKashey/use-callback-ref",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "focus-lock",
+          "fullName": "theKashey/focus-lock",
+          "stars": 185,
+          "url": "https://github.com/theKashey/focus-lock",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

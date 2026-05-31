@@ -1,0 +1,41 @@
+{
+  "login": "3rd",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/59587503?v=4",
+  "htmlUrl": "https://github.com/3rd",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 700,
+      "repoCountPrimary": 2,
+      "starsContains": 700,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "tsdiagram",
+          "fullName": "3rd/tsdiagram",
+          "stars": 570,
+          "url": "https://github.com/3rd/tsdiagram",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "benchjs",
+          "fullName": "3rd/benchjs",
+          "stars": 130,
+          "url": "https://github.com/3rd/benchjs",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

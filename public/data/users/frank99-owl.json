@@ -1,0 +1,34 @@
+{
+  "login": "frank99-owl",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/273121861?v=4",
+  "htmlUrl": "https://github.com/frank99-owl",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 139,
+      "repoCountPrimary": 1,
+      "starsContains": 139,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "go-daily",
+          "fullName": "frank99-owl/go-daily",
+          "stars": 139,
+          "url": "https://github.com/frank99-owl/go-daily",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "bojanbass",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3686960?v=4",
+  "htmlUrl": "https://github.com/bojanbass",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 155,
+      "repoCountPrimary": 1,
+      "starsContains": 155,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "nx-aws",
+          "fullName": "bojanbass/nx-aws",
+          "stars": 155,
+          "url": "https://github.com/bojanbass/nx-aws",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

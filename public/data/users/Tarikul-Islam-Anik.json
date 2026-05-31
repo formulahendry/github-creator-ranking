@@ -1,0 +1,41 @@
+{
+  "login": "Tarikul-Islam-Anik",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/29859619?v=4",
+  "htmlUrl": "https://github.com/Tarikul-Islam-Anik",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1340,
+      "repoCountPrimary": 2,
+      "starsContains": 1340,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Animated-Fluent-Emojis",
+          "fullName": "Tarikul-Islam-Anik/Animated-Fluent-Emojis",
+          "stars": 1072,
+          "url": "https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Telegram-Animated-Emojis",
+          "fullName": "Tarikul-Islam-Anik/Telegram-Animated-Emojis",
+          "stars": 268,
+          "url": "https://github.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

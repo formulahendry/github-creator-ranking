@@ -1,0 +1,41 @@
+{
+  "login": "SteveSandersonMS",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1101362?v=4",
+  "htmlUrl": "https://github.com/SteveSandersonMS",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2259,
+      "repoCountPrimary": 2,
+      "starsContains": 2259,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "WebWindow",
+          "fullName": "SteveSandersonMS/WebWindow",
+          "stars": 1973,
+          "url": "https://github.com/SteveSandersonMS/WebWindow",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "BlazorDesktop",
+          "fullName": "SteveSandersonMS/BlazorDesktop",
+          "stars": 286,
+          "url": "https://github.com/SteveSandersonMS/BlazorDesktop",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

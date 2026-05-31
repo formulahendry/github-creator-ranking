@@ -1,0 +1,41 @@
+{
+  "login": "BeardedBear",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7188702?v=4",
+  "htmlUrl": "https://github.com/BeardedBear",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 865,
+      "repoCountPrimary": 2,
+      "starsContains": 865,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "bearded-theme",
+          "fullName": "BeardedBear/bearded-theme",
+          "stars": 681,
+          "url": "https://github.com/BeardedBear/bearded-theme",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "bearded-icons",
+          "fullName": "BeardedBear/bearded-icons",
+          "stars": 184,
+          "url": "https://github.com/BeardedBear/bearded-icons",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

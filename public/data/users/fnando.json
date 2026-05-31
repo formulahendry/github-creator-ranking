@@ -1,0 +1,41 @@
+{
+  "login": "fnando",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3009?v=4",
+  "htmlUrl": "https://github.com/fnando",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 401,
+      "repoCountPrimary": 2,
+      "starsContains": 401,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "i18n",
+          "fullName": "fnando/i18n",
+          "stars": 234,
+          "url": "https://github.com/fnando/i18n",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "cpf",
+          "fullName": "fnando/cpf",
+          "stars": 167,
+          "url": "https://github.com/fnando/cpf",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "ivandotv",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/390700?v=4",
+  "htmlUrl": "https://github.com/ivandotv",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 134,
+      "repoCountPrimary": 1,
+      "starsContains": 134,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "nextjs-client-signin-logic",
+          "fullName": "ivandotv/nextjs-client-signin-logic",
+          "stars": 134,
+          "url": "https://github.com/ivandotv/nextjs-client-signin-logic",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

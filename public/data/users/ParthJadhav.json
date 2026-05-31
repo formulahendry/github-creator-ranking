@@ -1,0 +1,34 @@
+{
+  "login": "ParthJadhav",
+  "name": "Parth Jadhav",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/42001064?v=4",
+  "htmlUrl": "https://github.com/ParthJadhav",
+  "location": "Pune, India",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 5278,
+      "repoCountPrimary": 1,
+      "starsContains": 5278,
+      "repoCountContains": 1,
+      "globalRank": 471,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "app-store-screenshots",
+          "fullName": "ParthJadhav/app-store-screenshots",
+          "stars": 5278,
+          "url": "https://github.com/ParthJadhav/app-store-screenshots",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

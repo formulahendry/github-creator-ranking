@@ -1,0 +1,34 @@
+{
+  "login": "qiuzhi2046",
+  "name": "秋芝2046",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/193497885?v=4",
+  "htmlUrl": "https://github.com/qiuzhi2046",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2779,
+      "repoCountPrimary": 1,
+      "starsContains": 2779,
+      "repoCountContains": 1,
+      "globalRank": 961,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Qclaw",
+          "fullName": "qiuzhi2046/Qclaw",
+          "stars": 2779,
+          "url": "https://github.com/qiuzhi2046/Qclaw",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

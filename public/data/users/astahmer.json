@@ -1,0 +1,62 @@
+{
+  "login": "astahmer",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/47224540?v=4",
+  "htmlUrl": "https://github.com/astahmer",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2184,
+      "repoCountPrimary": 5,
+      "starsContains": 2184,
+      "repoCountContains": 5,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "openapi-zod-client",
+          "fullName": "astahmer/openapi-zod-client",
+          "stars": 1163,
+          "url": "https://github.com/astahmer/openapi-zod-client",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "atomic-css-devtools",
+          "fullName": "astahmer/atomic-css-devtools",
+          "stars": 425,
+          "url": "https://github.com/astahmer/atomic-css-devtools",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "typed-openapi",
+          "fullName": "astahmer/typed-openapi",
+          "stars": 341,
+          "url": "https://github.com/astahmer/typed-openapi",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "box-extractor",
+          "fullName": "astahmer/box-extractor",
+          "stars": 128,
+          "url": "https://github.com/astahmer/box-extractor",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "tw2panda",
+          "fullName": "astahmer/tw2panda",
+          "stars": 127,
+          "url": "https://github.com/astahmer/tw2panda",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

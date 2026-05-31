@@ -1,0 +1,55 @@
+{
+  "login": "zoontek",
+  "name": "Mathieu Acthernoene",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1902323?v=4",
+  "htmlUrl": "https://github.com/zoontek",
+  "location": "Lille",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 8203,
+      "repoCountPrimary": 4,
+      "starsContains": 8203,
+      "repoCountContains": 4,
+      "globalRank": 279,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-native-bootsplash",
+          "fullName": "zoontek/react-native-bootsplash",
+          "stars": 4274,
+          "url": "https://github.com/zoontek/react-native-bootsplash",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-native-localize",
+          "fullName": "zoontek/react-native-localize",
+          "stars": 2439,
+          "url": "https://github.com/zoontek/react-native-localize",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-native-edge-to-edge",
+          "fullName": "zoontek/react-native-edge-to-edge",
+          "stars": 1024,
+          "url": "https://github.com/zoontek/react-native-edge-to-edge",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "chicane",
+          "fullName": "zoontek/chicane",
+          "stars": 466,
+          "url": "https://github.com/zoontek/chicane",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

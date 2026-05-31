@@ -1,0 +1,34 @@
+{
+  "login": "aqiu384",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7065429?v=4",
+  "htmlUrl": "https://github.com/aqiu384",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 206,
+      "repoCountPrimary": 1,
+      "starsContains": 206,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "megaten-fusion-tool",
+          "fullName": "aqiu384/megaten-fusion-tool",
+          "stars": 206,
+          "url": "https://github.com/aqiu384/megaten-fusion-tool",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

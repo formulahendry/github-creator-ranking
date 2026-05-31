@@ -1,0 +1,34 @@
+{
+  "login": "JamieCurnow",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/29151736?v=4",
+  "htmlUrl": "https://github.com/JamieCurnow",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 144,
+      "repoCountPrimary": 1,
+      "starsContains": 144,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vue-clipboard3",
+          "fullName": "JamieCurnow/vue-clipboard3",
+          "stars": 144,
+          "url": "https://github.com/JamieCurnow/vue-clipboard3",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

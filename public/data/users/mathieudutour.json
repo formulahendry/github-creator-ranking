@@ -1,0 +1,48 @@
+{
+  "login": "mathieudutour",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3254314?v=4",
+  "htmlUrl": "https://github.com/mathieudutour",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1623,
+      "repoCountPrimary": 3,
+      "starsContains": 1623,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "svg-path-visualizer",
+          "fullName": "mathieudutour/svg-path-visualizer",
+          "stars": 756,
+          "url": "https://github.com/mathieudutour/svg-path-visualizer",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "github-tag-action",
+          "fullName": "mathieudutour/github-tag-action",
+          "stars": 720,
+          "url": "https://github.com/mathieudutour/github-tag-action",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "timezone-butler",
+          "fullName": "mathieudutour/timezone-butler",
+          "stars": 147,
+          "url": "https://github.com/mathieudutour/timezone-butler",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

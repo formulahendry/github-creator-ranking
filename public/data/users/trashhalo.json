@@ -1,0 +1,41 @@
+{
+  "login": "trashhalo",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/177491?v=4",
+  "htmlUrl": "https://github.com/trashhalo",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 388,
+      "repoCountPrimary": 2,
+      "starsContains": 388,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "obsidian-webhooks",
+          "fullName": "trashhalo/obsidian-webhooks",
+          "stars": 227,
+          "url": "https://github.com/trashhalo/obsidian-webhooks",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "logseq-graph-analysis",
+          "fullName": "trashhalo/logseq-graph-analysis",
+          "stars": 161,
+          "url": "https://github.com/trashhalo/logseq-graph-analysis",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

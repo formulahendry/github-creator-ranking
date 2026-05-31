@@ -1,0 +1,34 @@
+{
+  "login": "haunchen",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/35416167?v=4",
+  "htmlUrl": "https://github.com/haunchen",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 353,
+      "repoCountPrimary": 1,
+      "starsContains": 353,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "n8n-skills",
+          "fullName": "haunchen/n8n-skills",
+          "stars": 353,
+          "url": "https://github.com/haunchen/n8n-skills",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

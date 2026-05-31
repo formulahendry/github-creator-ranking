@@ -1,0 +1,34 @@
+{
+  "login": "eylonmiz",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/43254163?v=4",
+  "htmlUrl": "https://github.com/eylonmiz",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1657,
+      "repoCountPrimary": 1,
+      "starsContains": 1657,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-agent",
+          "fullName": "eylonmiz/react-agent",
+          "stars": 1657,
+          "url": "https://github.com/eylonmiz/react-agent",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

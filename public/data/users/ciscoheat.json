@@ -1,0 +1,48 @@
+{
+  "login": "ciscoheat",
+  "name": "Andreas Söderlund",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/130450?v=4",
+  "htmlUrl": "https://github.com/ciscoheat",
+  "location": "Sweden",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3372,
+      "repoCountPrimary": 3,
+      "starsContains": 3372,
+      "repoCountContains": 3,
+      "globalRank": 802,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "sveltekit-superforms",
+          "fullName": "ciscoheat/sveltekit-superforms",
+          "stars": 2746,
+          "url": "https://github.com/ciscoheat/sveltekit-superforms",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "sveltekit-flash-message",
+          "fullName": "ciscoheat/sveltekit-flash-message",
+          "stars": 329,
+          "url": "https://github.com/ciscoheat/sveltekit-flash-message",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "sveltekit-rate-limiter",
+          "fullName": "ciscoheat/sveltekit-rate-limiter",
+          "stars": 297,
+          "url": "https://github.com/ciscoheat/sveltekit-rate-limiter",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

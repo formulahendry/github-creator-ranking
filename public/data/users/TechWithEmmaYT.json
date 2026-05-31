@@ -1,0 +1,48 @@
+{
+  "login": "TechWithEmmaYT",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/175016601?v=4",
+  "htmlUrl": "https://github.com/TechWithEmmaYT",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 605,
+      "repoCountPrimary": 3,
+      "starsContains": 605,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Advanced-MERN-B2B-Teams-Project-Management-Saas",
+          "fullName": "TechWithEmmaYT/Advanced-MERN-B2B-Teams-Project-Management-Saas",
+          "stars": 280,
+          "url": "https://github.com/TechWithEmmaYT/Advanced-MERN-B2B-Teams-Project-Management-Saas",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Advanced-MERN-Auths-2FA",
+          "fullName": "TechWithEmmaYT/Advanced-MERN-Auths-2FA",
+          "stars": 199,
+          "url": "https://github.com/TechWithEmmaYT/Advanced-MERN-Auths-2FA",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Advanced-MERN-AI-Financial-SaaS-Platform",
+          "fullName": "TechWithEmmaYT/Advanced-MERN-AI-Financial-SaaS-Platform",
+          "stars": 126,
+          "url": "https://github.com/TechWithEmmaYT/Advanced-MERN-AI-Financial-SaaS-Platform",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

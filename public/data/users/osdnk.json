@@ -1,0 +1,41 @@
+{
+  "login": "osdnk",
+  "name": "Michał Osadnik",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/25709300?v=4",
+  "htmlUrl": "https://github.com/osdnk",
+  "location": "Espoo",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3476,
+      "repoCountPrimary": 2,
+      "starsContains": 3476,
+      "repoCountContains": 2,
+      "globalRank": 774,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-native-reanimated-bottom-sheet",
+          "fullName": "osdnk/react-native-reanimated-bottom-sheet",
+          "stars": 3343,
+          "url": "https://github.com/osdnk/react-native-reanimated-bottom-sheet",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-native-slack-bottom-sheet",
+          "fullName": "osdnk/react-native-slack-bottom-sheet",
+          "stars": 133,
+          "url": "https://github.com/osdnk/react-native-slack-bottom-sheet",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

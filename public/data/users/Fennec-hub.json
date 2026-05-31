@@ -1,0 +1,34 @@
+{
+  "login": "Fennec-hub",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/86418008?v=4",
+  "htmlUrl": "https://github.com/Fennec-hub",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 283,
+      "repoCountPrimary": 1,
+      "starsContains": 283,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "three-viewport-gizmo",
+          "fullName": "Fennec-hub/three-viewport-gizmo",
+          "stars": 283,
+          "url": "https://github.com/Fennec-hub/three-viewport-gizmo",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

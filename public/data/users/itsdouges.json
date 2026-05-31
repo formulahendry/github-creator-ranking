@@ -1,0 +1,48 @@
+{
+  "login": "itsdouges",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6801309?v=4",
+  "htmlUrl": "https://github.com/itsdouges",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2016,
+      "repoCountPrimary": 3,
+      "starsContains": 2016,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "typescript-transformer-handbook",
+          "fullName": "itsdouges/typescript-transformer-handbook",
+          "stars": 1017,
+          "url": "https://github.com/itsdouges/typescript-transformer-handbook",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "element-motion",
+          "fullName": "itsdouges/element-motion",
+          "stars": 805,
+          "url": "https://github.com/itsdouges/element-motion",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-peer",
+          "fullName": "itsdouges/react-peer",
+          "stars": 194,
+          "url": "https://github.com/itsdouges/react-peer",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

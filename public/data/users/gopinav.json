@@ -1,0 +1,62 @@
+{
+  "login": "gopinav",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/13146172?v=4",
+  "htmlUrl": "https://github.com/gopinav",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1136,
+      "repoCountPrimary": 6,
+      "starsContains": 1136,
+      "repoCountContains": 6,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Angular-Tutorials",
+          "fullName": "gopinav/Angular-Tutorials",
+          "stars": 268,
+          "url": "https://github.com/gopinav/Angular-Tutorials",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Next.js-15-Tutorials",
+          "fullName": "gopinav/Next.js-15-Tutorials",
+          "stars": 252,
+          "url": "https://github.com/gopinav/Next.js-15-Tutorials",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Next.js-14-Tutorials",
+          "fullName": "gopinav/Next.js-14-Tutorials",
+          "stars": 214,
+          "url": "https://github.com/gopinav/Next.js-14-Tutorials",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Angular-Authentication-Tutorial",
+          "fullName": "gopinav/Angular-Authentication-Tutorial",
+          "stars": 146,
+          "url": "https://github.com/gopinav/Angular-Authentication-Tutorial",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "React-MUI-Tutorials",
+          "fullName": "gopinav/React-MUI-Tutorials",
+          "stars": 135,
+          "url": "https://github.com/gopinav/React-MUI-Tutorials",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

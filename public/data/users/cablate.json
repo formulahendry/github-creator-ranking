@@ -1,0 +1,48 @@
+{
+  "login": "cablate",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/85614048?v=4",
+  "htmlUrl": "https://github.com/cablate",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 754,
+      "repoCountPrimary": 3,
+      "starsContains": 754,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "mcp-google-map",
+          "fullName": "cablate/mcp-google-map",
+          "stars": 320,
+          "url": "https://github.com/cablate/mcp-google-map",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "banini-tracker",
+          "fullName": "cablate/banini-tracker",
+          "stars": 282,
+          "url": "https://github.com/cablate/banini-tracker",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Claude-Code-Board",
+          "fullName": "cablate/Claude-Code-Board",
+          "stars": 152,
+          "url": "https://github.com/cablate/Claude-Code-Board",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

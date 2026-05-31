@@ -1,0 +1,34 @@
+{
+  "login": "raroque",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6283166?v=4",
+  "htmlUrl": "https://github.com/raroque",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 833,
+      "repoCountPrimary": 1,
+      "starsContains": 833,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "boop-agent",
+          "fullName": "raroque/boop-agent",
+          "stars": 833,
+          "url": "https://github.com/raroque/boop-agent",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

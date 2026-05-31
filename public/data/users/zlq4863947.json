@@ -1,0 +1,41 @@
+{
+  "login": "zlq4863947",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6490251?v=4",
+  "htmlUrl": "https://github.com/zlq4863947",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 916,
+      "repoCountPrimary": 2,
+      "starsContains": 916,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "triangular-arbitrage",
+          "fullName": "zlq4863947/triangular-arbitrage",
+          "stars": 668,
+          "url": "https://github.com/zlq4863947/triangular-arbitrage",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "triangular-arbitrage2",
+          "fullName": "zlq4863947/triangular-arbitrage2",
+          "stars": 248,
+          "url": "https://github.com/zlq4863947/triangular-arbitrage2",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

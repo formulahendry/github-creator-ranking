@@ -1,0 +1,48 @@
+{
+  "login": "SBoudrias",
+  "name": "Simon Boudrias",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/923865?v=4",
+  "htmlUrl": "https://github.com/SBoudrias",
+  "location": "Montréal",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 22116,
+      "repoCountPrimary": 3,
+      "starsContains": 22116,
+      "repoCountContains": 3,
+      "globalRank": 82,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Inquirer.js",
+          "fullName": "SBoudrias/Inquirer.js",
+          "stars": 21568,
+          "url": "https://github.com/SBoudrias/Inquirer.js",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "mem-fs-editor",
+          "fullName": "SBoudrias/mem-fs-editor",
+          "stars": 421,
+          "url": "https://github.com/SBoudrias/mem-fs-editor",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "mem-fs",
+          "fullName": "SBoudrias/mem-fs",
+          "stars": 127,
+          "url": "https://github.com/SBoudrias/mem-fs",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

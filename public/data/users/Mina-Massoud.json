@@ -1,0 +1,41 @@
+{
+  "login": "Mina-Massoud",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/102828808?v=4",
+  "htmlUrl": "https://github.com/Mina-Massoud",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1000,
+      "repoCountPrimary": 2,
+      "starsContains": 1000,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "mina-scheduler",
+          "fullName": "Mina-Massoud/mina-scheduler",
+          "stars": 648,
+          "url": "https://github.com/Mina-Massoud/mina-scheduler",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Mina-Rich-Editor",
+          "fullName": "Mina-Massoud/Mina-Rich-Editor",
+          "stars": 352,
+          "url": "https://github.com/Mina-Massoud/Mina-Rich-Editor",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

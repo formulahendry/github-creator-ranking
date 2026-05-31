@@ -1,0 +1,41 @@
+{
+  "login": "Glavin001",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1885333?v=4",
+  "htmlUrl": "https://github.com/Glavin001",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 302,
+      "repoCountPrimary": 2,
+      "starsContains": 302,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "tslint-clean-code",
+          "fullName": "Glavin001/tslint-clean-code",
+          "stars": 174,
+          "url": "https://github.com/Glavin001/tslint-clean-code",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "graphql-sequelize-crud",
+          "fullName": "Glavin001/graphql-sequelize-crud",
+          "stars": 128,
+          "url": "https://github.com/Glavin001/graphql-sequelize-crud",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "login": "prabhuignoto",
+  "name": "Prabhu Murthy",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2144065?v=4",
+  "htmlUrl": "https://github.com/prabhuignoto",
+  "location": "Gaea",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 4478,
+      "repoCountPrimary": 3,
+      "starsContains": 4478,
+      "repoCountContains": 3,
+      "globalRank": 574,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-chrono",
+          "fullName": "prabhuignoto/react-chrono",
+          "stars": 4187,
+          "url": "https://github.com/prabhuignoto/react-chrono",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-visual-grid",
+          "fullName": "prabhuignoto/react-visual-grid",
+          "stars": 153,
+          "url": "https://github.com/prabhuignoto/react-visual-grid",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-float-menu",
+          "fullName": "prabhuignoto/react-float-menu",
+          "stars": 138,
+          "url": "https://github.com/prabhuignoto/react-float-menu",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "danprince",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1266011?v=4",
+  "htmlUrl": "https://github.com/danprince",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 198,
+      "repoCountPrimary": 1,
+      "starsContains": 198,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "norman-the-necromancer",
+          "fullName": "danprince/norman-the-necromancer",
+          "stars": 198,
+          "url": "https://github.com/danprince/norman-the-necromancer",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

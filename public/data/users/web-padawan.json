@@ -1,0 +1,41 @@
+{
+  "login": "web-padawan",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/10589913?v=4",
+  "htmlUrl": "https://github.com/web-padawan",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 973,
+      "repoCountPrimary": 2,
+      "starsContains": 973,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vanilla-colorful",
+          "fullName": "web-padawan/vanilla-colorful",
+          "stars": 851,
+          "url": "https://github.com/web-padawan/vanilla-colorful",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vanilla-hamburger",
+          "fullName": "web-padawan/vanilla-hamburger",
+          "stars": 122,
+          "url": "https://github.com/web-padawan/vanilla-hamburger",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

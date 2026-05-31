@@ -1,0 +1,41 @@
+{
+  "login": "ssssota",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/15074382?v=4",
+  "htmlUrl": "https://github.com/ssssota",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 527,
+      "repoCountPrimary": 2,
+      "starsContains": 527,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "svelte-exmarkdown",
+          "fullName": "ssssota/svelte-exmarkdown",
+          "stars": 348,
+          "url": "https://github.com/ssssota/svelte-exmarkdown",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "svg2png-wasm",
+          "fullName": "ssssota/svg2png-wasm",
+          "stars": 179,
+          "url": "https://github.com/ssssota/svg2png-wasm",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

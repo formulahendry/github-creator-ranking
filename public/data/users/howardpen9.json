@@ -1,0 +1,41 @@
+{
+  "login": "howardpen9",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/36764495?v=4",
+  "htmlUrl": "https://github.com/howardpen9",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 243,
+      "repoCountPrimary": 2,
+      "starsContains": 243,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "nft-template-in-tact",
+          "fullName": "howardpen9/nft-template-in-tact",
+          "stars": 128,
+          "url": "https://github.com/howardpen9/nft-template-in-tact",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "jetton-implementation-in-tact",
+          "fullName": "howardpen9/jetton-implementation-in-tact",
+          "stars": 115,
+          "url": "https://github.com/howardpen9/jetton-implementation-in-tact",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

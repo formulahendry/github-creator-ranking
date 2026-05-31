@@ -1,0 +1,34 @@
+{
+  "login": "erictli",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/16714122?v=4",
+  "htmlUrl": "https://github.com/erictli",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1082,
+      "repoCountPrimary": 1,
+      "starsContains": 1082,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "scratch",
+          "fullName": "erictli/scratch",
+          "stars": 1082,
+          "url": "https://github.com/erictli/scratch",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

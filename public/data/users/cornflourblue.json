@@ -1,0 +1,62 @@
+{
+  "login": "cornflourblue",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/785317?v=4",
+  "htmlUrl": "https://github.com/cornflourblue",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2027,
+      "repoCountPrimary": 11,
+      "starsContains": 2027,
+      "repoCountContains": 11,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "angular2-registration-login-example",
+          "fullName": "cornflourblue/angular2-registration-login-example",
+          "stars": 420,
+          "url": "https://github.com/cornflourblue/angular2-registration-login-example",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "angular2-jwt-authentication-example",
+          "fullName": "cornflourblue/angular2-jwt-authentication-example",
+          "stars": 311,
+          "url": "https://github.com/cornflourblue/angular2-jwt-authentication-example",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "angular-8-registration-login-example",
+          "fullName": "cornflourblue/angular-8-registration-login-example",
+          "stars": 238,
+          "url": "https://github.com/cornflourblue/angular-8-registration-login-example",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "angular-6-registration-login-example",
+          "fullName": "cornflourblue/angular-6-registration-login-example",
+          "stars": 200,
+          "url": "https://github.com/cornflourblue/angular-6-registration-login-example",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "angular-7-registration-login-example",
+          "fullName": "cornflourblue/angular-7-registration-login-example",
+          "stars": 139,
+          "url": "https://github.com/cornflourblue/angular-7-registration-login-example",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

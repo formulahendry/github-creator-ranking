@@ -1,0 +1,48 @@
+{
+  "login": "vladotesanovic",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/738638?v=4",
+  "htmlUrl": "https://github.com/vladotesanovic",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1610,
+      "repoCountPrimary": 3,
+      "starsContains": 1610,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ngSemantic",
+          "fullName": "vladotesanovic/ngSemantic",
+          "stars": 966,
+          "url": "https://github.com/vladotesanovic/ngSemantic",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "angular2-express-starter",
+          "fullName": "vladotesanovic/angular2-express-starter",
+          "stars": 541,
+          "url": "https://github.com/vladotesanovic/angular2-express-starter",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "typescript-mongoose-express",
+          "fullName": "vladotesanovic/typescript-mongoose-express",
+          "stars": 103,
+          "url": "https://github.com/vladotesanovic/typescript-mongoose-express",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

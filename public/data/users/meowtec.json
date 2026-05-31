@@ -1,0 +1,48 @@
+{
+  "login": "meowtec",
+  "name": "Bo",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/4006436?v=4",
+  "htmlUrl": "https://github.com/meowtec",
+  "location": "undefined",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 4724,
+      "repoCountPrimary": 3,
+      "starsContains": 4724,
+      "repoCountContains": 3,
+      "globalRank": 541,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Imagine",
+          "fullName": "meowtec/Imagine",
+          "stars": 4364,
+          "url": "https://github.com/meowtec/Imagine",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "audio-cutter",
+          "fullName": "meowtec/audio-cutter",
+          "stars": 206,
+          "url": "https://github.com/meowtec/audio-cutter",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "relyzer",
+          "fullName": "meowtec/relyzer",
+          "stars": 154,
+          "url": "https://github.com/meowtec/relyzer",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

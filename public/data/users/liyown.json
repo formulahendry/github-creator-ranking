@@ -1,0 +1,48 @@
+{
+  "login": "liyown",
+  "name": "liyown",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/55525531?v=4",
+  "htmlUrl": "https://github.com/liyown",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3723,
+      "repoCountPrimary": 3,
+      "starsContains": 3723,
+      "repoCountContains": 3,
+      "globalRank": 713,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ai-trend-publish",
+          "fullName": "liyown/ai-trend-publish",
+          "stars": 2955,
+          "url": "https://github.com/liyown/ai-trend-publish",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "marknative",
+          "fullName": "liyown/marknative",
+          "stars": 645,
+          "url": "https://github.com/liyown/marknative",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ai-navigation",
+          "fullName": "liyown/ai-navigation",
+          "stars": 123,
+          "url": "https://github.com/liyown/ai-navigation",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

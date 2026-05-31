@@ -1,0 +1,41 @@
+{
+  "login": "sapegin",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/70067?v=4",
+  "htmlUrl": "https://github.com/sapegin",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 262,
+      "repoCountPrimary": 2,
+      "starsContains": 262,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "stack-styled",
+          "fullName": "sapegin/stack-styled",
+          "stars": 138,
+          "url": "https://github.com/sapegin/stack-styled",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "richtypo.js",
+          "fullName": "sapegin/richtypo.js",
+          "stars": 124,
+          "url": "https://github.com/sapegin/richtypo.js",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

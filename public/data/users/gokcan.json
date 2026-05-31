@@ -1,0 +1,34 @@
+{
+  "login": "gokcan",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/8932250?v=4",
+  "htmlUrl": "https://github.com/gokcan",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1146,
+      "repoCountPrimary": 1,
+      "starsContains": 1146,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-shimmer",
+          "fullName": "gokcan/react-shimmer",
+          "stars": 1146,
+          "url": "https://github.com/gokcan/react-shimmer",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

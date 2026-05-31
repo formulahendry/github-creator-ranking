@@ -1,0 +1,41 @@
+{
+  "login": "tuhinpal",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/51857187?v=4",
+  "htmlUrl": "https://github.com/tuhinpal",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 277,
+      "repoCountPrimary": 2,
+      "starsContains": 277,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "bingchat-api",
+          "fullName": "tuhinpal/bingchat-api",
+          "stars": 158,
+          "url": "https://github.com/tuhinpal/bingchat-api",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "amazon-api",
+          "fullName": "tuhinpal/amazon-api",
+          "stars": 119,
+          "url": "https://github.com/tuhinpal/amazon-api",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "juanjoDiaz",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3322485?v=4",
+  "htmlUrl": "https://github.com/juanjoDiaz",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 565,
+      "repoCountPrimary": 2,
+      "starsContains": 565,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "json2csv",
+          "fullName": "juanjoDiaz/json2csv",
+          "stars": 357,
+          "url": "https://github.com/juanjoDiaz/json2csv",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "streamparser-json",
+          "fullName": "juanjoDiaz/streamparser-json",
+          "stars": 208,
+          "url": "https://github.com/juanjoDiaz/streamparser-json",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

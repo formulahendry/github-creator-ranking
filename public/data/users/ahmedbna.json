@@ -1,0 +1,34 @@
+{
+  "login": "ahmedbna",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/99088394?v=4",
+  "htmlUrl": "https://github.com/ahmedbna",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 683,
+      "repoCountPrimary": 1,
+      "starsContains": 683,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ui",
+          "fullName": "ahmedbna/ui",
+          "stars": 683,
+          "url": "https://github.com/ahmedbna/ui",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,11 +1,11 @@
 {
   "login": "colinhacks",
-  "name": null,
+  "name": "Colin McDonnell",
   "avatarUrl": "https://avatars.githubusercontent.com/u/3084745?v=4",
   "htmlUrl": "https://github.com/colinhacks",
-  "location": null,
+  "location": "Seattle, WA",
   "countryCode": null,
-  "generatedAt": "2026-05-31T13:50:40.799Z",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
   "isPartial": true,
   "languages": [
     {
@@ -14,18 +14,46 @@
         "name": "TypeScript",
         "githubQuery": "TypeScript"
       },
-      "starsPrimary": 42829,
-      "repoCountPrimary": 1,
-      "starsContains": 42829,
-      "repoCountContains": 1,
-      "globalRank": 17,
+      "starsPrimary": 45315,
+      "repoCountPrimary": 7,
+      "starsContains": 45315,
+      "repoCountContains": 7,
+      "globalRank": 24,
       "countryRank": null,
       "topRepos": [
         {
           "name": "zod",
           "fullName": "colinhacks/zod",
-          "stars": 42829,
+          "stars": 42831,
           "url": "https://github.com/colinhacks/zod",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "zshy",
+          "fullName": "colinhacks/zshy",
+          "stars": 1107,
+          "url": "https://github.com/colinhacks/zshy",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "devii",
+          "fullName": "colinhacks/devii",
+          "stars": 499,
+          "url": "https://github.com/colinhacks/devii",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "next-firebase-ssr",
+          "fullName": "colinhacks/next-firebase-ssr",
+          "stars": 427,
+          "url": "https://github.com/colinhacks/next-firebase-ssr",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "tozod",
+          "fullName": "colinhacks/tozod",
+          "stars": 170,
+          "url": "https://github.com/colinhacks/tozod",
           "primaryLanguage": "TypeScript"
         }
       ]

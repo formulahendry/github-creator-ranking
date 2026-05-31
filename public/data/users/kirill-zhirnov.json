@@ -1,0 +1,34 @@
+{
+  "login": "kirill-zhirnov",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1384581?v=4",
+  "htmlUrl": "https://github.com/kirill-zhirnov",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 145,
+      "repoCountPrimary": 1,
+      "starsContains": 145,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "boundless-nextjs-ecommerce-template",
+          "fullName": "kirill-zhirnov/boundless-nextjs-ecommerce-template",
+          "stars": 145,
+          "url": "https://github.com/kirill-zhirnov/boundless-nextjs-ecommerce-template",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "xmanrui",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/4094054?v=4",
+  "htmlUrl": "https://github.com/xmanrui",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1964,
+      "repoCountPrimary": 1,
+      "starsContains": 1964,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "OpenClaw-bot-review",
+          "fullName": "xmanrui/OpenClaw-bot-review",
+          "stars": 1964,
+          "url": "https://github.com/xmanrui/OpenClaw-bot-review",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

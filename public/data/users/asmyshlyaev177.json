@@ -1,0 +1,41 @@
+{
+  "login": "asmyshlyaev177",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/19854148?v=4",
+  "htmlUrl": "https://github.com/asmyshlyaev177",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1208,
+      "repoCountPrimary": 2,
+      "starsContains": 1208,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-horizontal-scrolling-menu",
+          "fullName": "asmyshlyaev177/react-horizontal-scrolling-menu",
+          "stars": 791,
+          "url": "https://github.com/asmyshlyaev177/react-horizontal-scrolling-menu",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "state-in-url",
+          "fullName": "asmyshlyaev177/state-in-url",
+          "stars": 417,
+          "url": "https://github.com/asmyshlyaev177/state-in-url",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

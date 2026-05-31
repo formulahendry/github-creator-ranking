@@ -1,0 +1,34 @@
+{
+  "login": "GeekyWizKid",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/133981481?v=4",
+  "htmlUrl": "https://github.com/GeekyWizKid",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 632,
+      "repoCountPrimary": 1,
+      "starsContains": 632,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "writing-helper",
+          "fullName": "GeekyWizKid/writing-helper",
+          "stars": 632,
+          "url": "https://github.com/GeekyWizKid/writing-helper",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

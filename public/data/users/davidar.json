@@ -1,0 +1,34 @@
+{
+  "login": "davidar",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/24291?v=4",
+  "htmlUrl": "https://github.com/davidar",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 389,
+      "repoCountPrimary": 1,
+      "starsContains": 389,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "pandiff",
+          "fullName": "davidar/pandiff",
+          "stars": 389,
+          "url": "https://github.com/davidar/pandiff",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

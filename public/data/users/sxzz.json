@@ -1,0 +1,62 @@
+{
+  "login": "sxzz",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6481596?v=4",
+  "htmlUrl": "https://github.com/sxzz",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1551,
+      "repoCountPrimary": 6,
+      "starsContains": 1551,
+      "repoCountContains": 6,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ast-explorer",
+          "fullName": "sxzz/ast-explorer",
+          "stars": 521,
+          "url": "https://github.com/sxzz/ast-explorer",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "eslint-config",
+          "fullName": "sxzz/eslint-config",
+          "stars": 240,
+          "url": "https://github.com/sxzz/eslint-config",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "rolldown-plugin-dts",
+          "fullName": "sxzz/rolldown-plugin-dts",
+          "stars": 231,
+          "url": "https://github.com/sxzz/rolldown-plugin-dts",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "element-plus-best-practices",
+          "fullName": "sxzz/element-plus-best-practices",
+          "stars": 208,
+          "url": "https://github.com/sxzz/element-plus-best-practices",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vue-functional-ref",
+          "fullName": "sxzz/vue-functional-ref",
+          "stars": 194,
+          "url": "https://github.com/sxzz/vue-functional-ref",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

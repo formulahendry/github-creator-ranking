@@ -1,0 +1,34 @@
+{
+  "login": "niklasramo",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3194553?v=4",
+  "htmlUrl": "https://github.com/niklasramo",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 160,
+      "repoCountPrimary": 1,
+      "starsContains": 160,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "mezr",
+          "fullName": "niklasramo/mezr",
+          "stars": 160,
+          "url": "https://github.com/niklasramo/mezr",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

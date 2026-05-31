@@ -1,0 +1,48 @@
+{
+  "login": "tomastrajan",
+  "name": "Tomas Trajan",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3764868?v=4",
+  "htmlUrl": "https://github.com/tomastrajan",
+  "location": "Zürich, Switzerland",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3116,
+      "repoCountPrimary": 3,
+      "starsContains": 3116,
+      "repoCountContains": 3,
+      "globalRank": 866,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "angular-ngrx-material-starter",
+          "fullName": "tomastrajan/angular-ngrx-material-starter",
+          "stars": 2869,
+          "url": "https://github.com/tomastrajan/angular-ngrx-material-starter",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ngx-model",
+          "fullName": "tomastrajan/ngx-model",
+          "stars": 134,
+          "url": "https://github.com/tomastrajan/ngx-model",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-typescript-webpack",
+          "fullName": "tomastrajan/react-typescript-webpack",
+          "stars": 113,
+          "url": "https://github.com/tomastrajan/react-typescript-webpack",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

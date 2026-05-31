@@ -1,0 +1,34 @@
+{
+  "login": "dyedgreen",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6896443?v=4",
+  "htmlUrl": "https://github.com/dyedgreen",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 426,
+      "repoCountPrimary": 1,
+      "starsContains": 426,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "deno-sqlite",
+          "fullName": "dyedgreen/deno-sqlite",
+          "stars": 426,
+          "url": "https://github.com/dyedgreen/deno-sqlite",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

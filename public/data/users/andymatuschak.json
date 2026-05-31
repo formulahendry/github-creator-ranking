@@ -1,0 +1,41 @@
+{
+  "login": "andymatuschak",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2771?v=4",
+  "htmlUrl": "https://github.com/andymatuschak",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2672,
+      "repoCountPrimary": 2,
+      "starsContains": 2672,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "orbit",
+          "fullName": "andymatuschak/orbit",
+          "stars": 1821,
+          "url": "https://github.com/andymatuschak/orbit",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "note-link-janitor",
+          "fullName": "andymatuschak/note-link-janitor",
+          "stars": 851,
+          "url": "https://github.com/andymatuschak/note-link-janitor",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

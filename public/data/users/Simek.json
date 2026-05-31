@@ -1,0 +1,41 @@
+{
+  "login": "Simek",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/719641?v=4",
+  "htmlUrl": "https://github.com/Simek",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 244,
+      "repoCountPrimary": 2,
+      "starsContains": 244,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "yarn-lock-changes",
+          "fullName": "Simek/yarn-lock-changes",
+          "stars": 142,
+          "url": "https://github.com/Simek/yarn-lock-changes",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-native-macos-reminders",
+          "fullName": "Simek/react-native-macos-reminders",
+          "stars": 102,
+          "url": "https://github.com/Simek/react-native-macos-reminders",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

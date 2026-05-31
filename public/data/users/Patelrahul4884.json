@@ -1,0 +1,34 @@
+{
+  "login": "Patelrahul4884",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/26384517?v=4",
+  "htmlUrl": "https://github.com/Patelrahul4884",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 814,
+      "repoCountPrimary": 1,
+      "starsContains": 814,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Attendance-Management-system-using-face-recognition",
+          "fullName": "Patelrahul4884/Attendance-Management-system-using-face-recognition",
+          "stars": 814,
+          "url": "https://github.com/Patelrahul4884/Attendance-Management-system-using-face-recognition",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

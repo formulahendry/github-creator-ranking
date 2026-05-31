@@ -1,0 +1,41 @@
+{
+  "login": "hjanuschka",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2891702?v=4",
+  "htmlUrl": "https://github.com/hjanuschka",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 507,
+      "repoCountPrimary": 2,
+      "starsContains": 507,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "pi-multi-pass",
+          "fullName": "hjanuschka/pi-multi-pass",
+          "stars": 387,
+          "url": "https://github.com/hjanuschka/pi-multi-pass",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "shitty-extensions",
+          "fullName": "hjanuschka/shitty-extensions",
+          "stars": 120,
+          "url": "https://github.com/hjanuschka/shitty-extensions",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

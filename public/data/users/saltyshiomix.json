@@ -1,0 +1,55 @@
+{
+  "login": "saltyshiomix",
+  "name": "Shiono Yoshihide",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5608079?v=4",
+  "htmlUrl": "https://github.com/saltyshiomix",
+  "location": "Japan",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 5163,
+      "repoCountPrimary": 4,
+      "starsContains": 5163,
+      "repoCountContains": 4,
+      "globalRank": 484,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "nextron",
+          "fullName": "saltyshiomix/nextron",
+          "stars": 4422,
+          "url": "https://github.com/saltyshiomix/nextron",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-ssr",
+          "fullName": "saltyshiomix/react-ssr",
+          "stars": 271,
+          "url": "https://github.com/saltyshiomix/react-ssr",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ark",
+          "fullName": "saltyshiomix/ark",
+          "stars": 257,
+          "url": "https://github.com/saltyshiomix/ark",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "nuxtron",
+          "fullName": "saltyshiomix/nuxtron",
+          "stars": 213,
+          "url": "https://github.com/saltyshiomix/nuxtron",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

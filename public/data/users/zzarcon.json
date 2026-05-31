@@ -1,0 +1,55 @@
+{
+  "login": "zzarcon",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1194982?v=4",
+  "htmlUrl": "https://github.com/zzarcon",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1405,
+      "repoCountPrimary": 4,
+      "starsContains": 1405,
+      "repoCountContains": 4,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-circle",
+          "fullName": "zzarcon/react-circle",
+          "stars": 956,
+          "url": "https://github.com/zzarcon/react-circle",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-scroll-shadow",
+          "fullName": "zzarcon/react-scroll-shadow",
+          "stars": 230,
+          "url": "https://github.com/zzarcon/react-scroll-shadow",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-video-renderer",
+          "fullName": "zzarcon/react-video-renderer",
+          "stars": 118,
+          "url": "https://github.com/zzarcon/react-video-renderer",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-resize-observer-hook",
+          "fullName": "zzarcon/react-resize-observer-hook",
+          "stars": 101,
+          "url": "https://github.com/zzarcon/react-resize-observer-hook",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

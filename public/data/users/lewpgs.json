@@ -1,0 +1,34 @@
+{
+  "login": "lewpgs",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7858538?v=4",
+  "htmlUrl": "https://github.com/lewpgs",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 122,
+      "repoCountPrimary": 1,
+      "starsContains": 122,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "migros-mcp",
+          "fullName": "lewpgs/migros-mcp",
+          "stars": 122,
+          "url": "https://github.com/lewpgs/migros-mcp",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

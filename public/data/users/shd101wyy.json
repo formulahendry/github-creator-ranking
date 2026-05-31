@@ -1,0 +1,41 @@
+{
+  "login": "shd101wyy",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1908863?v=4",
+  "htmlUrl": "https://github.com/shd101wyy",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2522,
+      "repoCountPrimary": 2,
+      "starsContains": 2522,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vscode-markdown-preview-enhanced",
+          "fullName": "shd101wyy/vscode-markdown-preview-enhanced",
+          "stars": 1964,
+          "url": "https://github.com/shd101wyy/vscode-markdown-preview-enhanced",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "crossnote",
+          "fullName": "shd101wyy/crossnote",
+          "stars": 558,
+          "url": "https://github.com/shd101wyy/crossnote",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

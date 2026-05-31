@@ -1,0 +1,34 @@
+{
+  "login": "sergcen",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/10853471?v=4",
+  "htmlUrl": "https://github.com/sergcen",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 102,
+      "repoCountPrimary": 1,
+      "starsContains": 102,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "html-to-figma",
+          "fullName": "sergcen/html-to-figma",
+          "stars": 102,
+          "url": "https://github.com/sergcen/html-to-figma",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

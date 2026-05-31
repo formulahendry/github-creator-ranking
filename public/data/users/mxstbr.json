@@ -1,0 +1,48 @@
+{
+  "login": "mxstbr",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7525670?v=4",
+  "htmlUrl": "https://github.com/mxstbr",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1832,
+      "repoCountPrimary": 3,
+      "starsContains": 1832,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "passport-magic-login",
+          "fullName": "mxstbr/passport-magic-login",
+          "stars": 674,
+          "url": "https://github.com/mxstbr/passport-magic-login",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "karabiner",
+          "fullName": "mxstbr/karabiner",
+          "stars": 656,
+          "url": "https://github.com/mxstbr/karabiner",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "mxstbr.com",
+          "fullName": "mxstbr/mxstbr.com",
+          "stars": 502,
+          "url": "https://github.com/mxstbr/mxstbr.com",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

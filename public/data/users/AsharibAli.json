@@ -1,0 +1,48 @@
+{
+  "login": "AsharibAli",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/102221198?v=4",
+  "htmlUrl": "https://github.com/AsharibAli",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 484,
+      "repoCountPrimary": 3,
+      "starsContains": 484,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "100-days-of-code",
+          "fullName": "AsharibAli/100-days-of-code",
+          "stars": 192,
+          "url": "https://github.com/AsharibAli/100-days-of-code",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "30days-of-30projects",
+          "fullName": "AsharibAli/30days-of-30projects",
+          "stars": 187,
+          "url": "https://github.com/AsharibAli/30days-of-30projects",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "next-authjs-v5",
+          "fullName": "AsharibAli/next-authjs-v5",
+          "stars": 105,
+          "url": "https://github.com/AsharibAli/next-authjs-v5",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

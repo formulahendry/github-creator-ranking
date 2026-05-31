@@ -1,0 +1,34 @@
+{
+  "login": "cheshire137",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/82317?v=4",
+  "htmlUrl": "https://github.com/cheshire137",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 108,
+      "repoCountPrimary": 1,
+      "starsContains": 108,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "competiwatch-desktop",
+          "fullName": "cheshire137/competiwatch-desktop",
+          "stars": 108,
+          "url": "https://github.com/cheshire137/competiwatch-desktop",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

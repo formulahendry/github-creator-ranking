@@ -1,0 +1,62 @@
+{
+  "login": "samdenty",
+  "name": "Sam Denty",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/13242392?v=4",
+  "htmlUrl": "https://github.com/samdenty",
+  "location": "Ireland",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 5441,
+      "repoCountPrimary": 5,
+      "starsContains": 5441,
+      "repoCountContains": 5,
+      "globalRank": 451,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "gqless",
+          "fullName": "samdenty/gqless",
+          "stars": 3662,
+          "url": "https://github.com/samdenty/gqless",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "console-feed",
+          "fullName": "samdenty/console-feed",
+          "stars": 765,
+          "url": "https://github.com/samdenty/console-feed",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "injectify",
+          "fullName": "samdenty/injectify",
+          "stars": 682,
+          "url": "https://github.com/samdenty/injectify",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ios-vibrator-pro-max",
+          "fullName": "samdenty/ios-vibrator-pro-max",
+          "stars": 224,
+          "url": "https://github.com/samdenty/ios-vibrator-pro-max",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-ai-flow",
+          "fullName": "samdenty/react-ai-flow",
+          "stars": 108,
+          "url": "https://github.com/samdenty/react-ai-flow",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

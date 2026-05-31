@@ -1,0 +1,62 @@
+{
+  "login": "Ademking",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/12462188?v=4",
+  "htmlUrl": "https://github.com/Ademking",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1586,
+      "repoCountPrimary": 5,
+      "starsContains": 1586,
+      "repoCountContains": 5,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "MD-This-Page",
+          "fullName": "Ademking/MD-This-Page",
+          "stars": 691,
+          "url": "https://github.com/Ademking/MD-This-Page",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "BetterViewer",
+          "fullName": "Ademking/BetterViewer",
+          "stars": 487,
+          "url": "https://github.com/Ademking/BetterViewer",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "use-nemo",
+          "fullName": "Ademking/use-nemo",
+          "stars": 169,
+          "url": "https://github.com/Ademking/use-nemo",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "SkillPrompts",
+          "fullName": "Ademking/SkillPrompts",
+          "stars": 134,
+          "url": "https://github.com/Ademking/SkillPrompts",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "cascader-shadcn",
+          "fullName": "Ademking/cascader-shadcn",
+          "stars": 105,
+          "url": "https://github.com/Ademking/cascader-shadcn",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

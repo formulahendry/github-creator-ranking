@@ -1,0 +1,62 @@
+{
+  "login": "spences10",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/234708?v=4",
+  "htmlUrl": "https://github.com/spences10",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1684,
+      "repoCountPrimary": 7,
+      "starsContains": 1684,
+      "repoCountContains": 7,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "mcp-sequentialthinking-tools",
+          "fullName": "spences10/mcp-sequentialthinking-tools",
+          "stars": 584,
+          "url": "https://github.com/spences10/mcp-sequentialthinking-tools",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "mcp-omnisearch",
+          "fullName": "spences10/mcp-omnisearch",
+          "stars": 313,
+          "url": "https://github.com/spences10/mcp-omnisearch",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "sveltekit-embed",
+          "fullName": "spences10/sveltekit-embed",
+          "stars": 237,
+          "url": "https://github.com/spences10/sveltekit-embed",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "svelte-claude-skills",
+          "fullName": "spences10/svelte-claude-skills",
+          "stars": 208,
+          "url": "https://github.com/spences10/svelte-claude-skills",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "mcp-svelte-docs",
+          "fullName": "spences10/mcp-svelte-docs",
+          "stars": 122,
+          "url": "https://github.com/spences10/mcp-svelte-docs",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "mtsee",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/12293810?v=4",
+  "htmlUrl": "https://github.com/mtsee",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 614,
+      "repoCountPrimary": 1,
+      "starsContains": 614,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "image-editor",
+          "fullName": "mtsee/image-editor",
+          "stars": 614,
+          "url": "https://github.com/mtsee/image-editor",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

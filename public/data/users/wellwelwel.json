@@ -1,0 +1,41 @@
+{
+  "login": "wellwelwel",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/46850407?v=4",
+  "htmlUrl": "https://github.com/wellwelwel",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1290,
+      "repoCountPrimary": 2,
+      "starsContains": 1290,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "poku",
+          "fullName": "wellwelwel/poku",
+          "stars": 1168,
+          "url": "https://github.com/wellwelwel/poku",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "awesomeyou",
+          "fullName": "wellwelwel/awesomeyou",
+          "stars": 122,
+          "url": "https://github.com/wellwelwel/awesomeyou",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

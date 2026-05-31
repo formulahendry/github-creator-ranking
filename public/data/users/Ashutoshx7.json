@@ -1,0 +1,34 @@
+{
+  "login": "Ashutoshx7",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/181958559?v=4",
+  "htmlUrl": "https://github.com/Ashutoshx7",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 676,
+      "repoCountPrimary": 1,
+      "starsContains": 676,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "VengenceUI",
+          "fullName": "Ashutoshx7/VengenceUI",
+          "stars": 676,
+          "url": "https://github.com/Ashutoshx7/VengenceUI",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

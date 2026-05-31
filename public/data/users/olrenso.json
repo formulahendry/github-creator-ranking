@@ -1,0 +1,34 @@
+{
+  "login": "olrenso",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/27557209?v=4",
+  "htmlUrl": "https://github.com/olrenso",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 366,
+      "repoCountPrimary": 1,
+      "starsContains": 366,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "obsidian-home-tab",
+          "fullName": "olrenso/obsidian-home-tab",
+          "stars": 366,
+          "url": "https://github.com/olrenso/obsidian-home-tab",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

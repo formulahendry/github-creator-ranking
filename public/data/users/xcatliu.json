@@ -1,0 +1,41 @@
+{
+  "login": "xcatliu",
+  "name": "xcatliu",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5453359?v=4",
+  "htmlUrl": "https://github.com/xcatliu",
+  "location": "Shenzhen, China",
+  "countryCode": "CN",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 11503,
+      "repoCountPrimary": 2,
+      "starsContains": 11503,
+      "repoCountContains": 2,
+      "globalRank": 179,
+      "countryRank": 21,
+      "topRepos": [
+        {
+          "name": "typescript-tutorial",
+          "fullName": "xcatliu/typescript-tutorial",
+          "stars": 10724,
+          "url": "https://github.com/xcatliu/typescript-tutorial",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "chatgpt-next",
+          "fullName": "xcatliu/chatgpt-next",
+          "stars": 779,
+          "url": "https://github.com/xcatliu/chatgpt-next",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

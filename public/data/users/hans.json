@@ -1,0 +1,34 @@
+{
+  "login": "hans",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6968?v=4",
+  "htmlUrl": "https://github.com/hans",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1321,
+      "repoCountPrimary": 1,
+      "starsContains": 1321,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "obsidian-citation-plugin",
+          "fullName": "hans/obsidian-citation-plugin",
+          "stars": 1321,
+          "url": "https://github.com/hans/obsidian-citation-plugin",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

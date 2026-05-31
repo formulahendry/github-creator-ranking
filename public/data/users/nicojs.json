@@ -1,0 +1,48 @@
+{
+  "login": "nicojs",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1828233?v=4",
+  "htmlUrl": "https://github.com/nicojs",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1103,
+      "repoCountPrimary": 3,
+      "starsContains": 1103,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "typed-inject",
+          "fullName": "nicojs/typed-inject",
+          "stars": 611,
+          "url": "https://github.com/nicojs/typed-inject",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "typed-html",
+          "fullName": "nicojs/typed-html",
+          "stars": 385,
+          "url": "https://github.com/nicojs/typed-html",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "node-install-local",
+          "fullName": "nicojs/node-install-local",
+          "stars": 107,
+          "url": "https://github.com/nicojs/node-install-local",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

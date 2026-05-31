@@ -1,0 +1,41 @@
+{
+  "login": "mdevils",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/176898?v=4",
+  "htmlUrl": "https://github.com/mdevils",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 830,
+      "repoCountPrimary": 2,
+      "starsContains": 830,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "html-entities",
+          "fullName": "mdevils/html-entities",
+          "stars": 687,
+          "url": "https://github.com/mdevils/html-entities",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "css-selector-parser",
+          "fullName": "mdevils/css-selector-parser",
+          "stars": 143,
+          "url": "https://github.com/mdevils/css-selector-parser",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

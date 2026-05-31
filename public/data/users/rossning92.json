@@ -1,0 +1,48 @@
+{
+  "login": "rossning92",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/22453098?v=4",
+  "htmlUrl": "https://github.com/rossning92",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1740,
+      "repoCountPrimary": 3,
+      "starsContains": 1740,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "movy",
+          "fullName": "rossning92/movy",
+          "stars": 1408,
+          "url": "https://github.com/rossning92/movy",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "head-tracked-3d",
+          "fullName": "rossning92/head-tracked-3d",
+          "stars": 185,
+          "url": "https://github.com/rossning92/head-tracked-3d",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "genetic-algorithm",
+          "fullName": "rossning92/genetic-algorithm",
+          "stars": 147,
+          "url": "https://github.com/rossning92/genetic-algorithm",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

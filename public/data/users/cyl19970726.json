@@ -1,0 +1,34 @@
+{
+  "login": "cyl19970726",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/52317293?v=4",
+  "htmlUrl": "https://github.com/cyl19970726",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1266,
+      "repoCountPrimary": 1,
+      "starsContains": 1266,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "poly-sdk",
+          "fullName": "cyl19970726/poly-sdk",
+          "stars": 1266,
+          "url": "https://github.com/cyl19970726/poly-sdk",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

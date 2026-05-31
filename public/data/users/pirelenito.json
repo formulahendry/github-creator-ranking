@@ -1,0 +1,34 @@
+{
+  "login": "pirelenito",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6001?v=4",
+  "htmlUrl": "https://github.com/pirelenito",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 359,
+      "repoCountPrimary": 1,
+      "starsContains": 359,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "git-revision-webpack-plugin",
+          "fullName": "pirelenito/git-revision-webpack-plugin",
+          "stars": 359,
+          "url": "https://github.com/pirelenito/git-revision-webpack-plugin",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

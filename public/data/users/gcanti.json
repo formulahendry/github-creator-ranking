@@ -1,0 +1,62 @@
+{
+  "login": "gcanti",
+  "name": "Giulio Canti",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/878912?v=4",
+  "htmlUrl": "https://github.com/gcanti",
+  "location": "Milan, Italy",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 22897,
+      "repoCountPrimary": 17,
+      "starsContains": 22897,
+      "repoCountContains": 17,
+      "globalRank": 76,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "fp-ts",
+          "fullName": "gcanti/fp-ts",
+          "stars": 11514,
+          "url": "https://github.com/gcanti/fp-ts",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "io-ts",
+          "fullName": "gcanti/io-ts",
+          "stars": 6813,
+          "url": "https://github.com/gcanti/io-ts",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "monocle-ts",
+          "fullName": "gcanti/monocle-ts",
+          "stars": 1076,
+          "url": "https://github.com/gcanti/monocle-ts",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "newtype-ts",
+          "fullName": "gcanti/newtype-ts",
+          "stars": 598,
+          "url": "https://github.com/gcanti/newtype-ts",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "functional-programming",
+          "fullName": "gcanti/functional-programming",
+          "stars": 442,
+          "url": "https://github.com/gcanti/functional-programming",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "Kiranism",
+  "name": "K I R 4 N",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/68379183?v=4",
+  "htmlUrl": "https://github.com/Kiranism",
+  "location": "Remote, Kerala 🌴",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 7058,
+      "repoCountPrimary": 2,
+      "starsContains": 7058,
+      "repoCountContains": 2,
+      "globalRank": 329,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "next-shadcn-dashboard-starter",
+          "fullName": "Kiranism/next-shadcn-dashboard-starter",
+          "stars": 6483,
+          "url": "https://github.com/Kiranism/next-shadcn-dashboard-starter",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "tanstack-start-dashboard",
+          "fullName": "Kiranism/tanstack-start-dashboard",
+          "stars": 575,
+          "url": "https://github.com/Kiranism/tanstack-start-dashboard",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

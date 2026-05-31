@@ -1,0 +1,34 @@
+{
+  "login": "lahmatiy",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/270491?v=4",
+  "htmlUrl": "https://github.com/lahmatiy",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2402,
+      "repoCountPrimary": 1,
+      "starsContains": 2402,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-render-tracker",
+          "fullName": "lahmatiy/react-render-tracker",
+          "stars": 2402,
+          "url": "https://github.com/lahmatiy/react-render-tracker",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

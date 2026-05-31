@@ -1,0 +1,34 @@
+{
+  "login": "elirantutia",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/20679210?v=4",
+  "htmlUrl": "https://github.com/elirantutia",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1076,
+      "repoCountPrimary": 1,
+      "starsContains": 1076,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vibeyard",
+          "fullName": "elirantutia/vibeyard",
+          "stars": 1076,
+          "url": "https://github.com/elirantutia/vibeyard",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

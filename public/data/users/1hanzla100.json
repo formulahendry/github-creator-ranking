@@ -1,0 +1,34 @@
+{
+  "login": "1hanzla100",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/59178380?v=4",
+  "htmlUrl": "https://github.com/1hanzla100",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 798,
+      "repoCountPrimary": 1,
+      "starsContains": 798,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "developer-portfolio",
+          "fullName": "1hanzla100/developer-portfolio",
+          "stars": 798,
+          "url": "https://github.com/1hanzla100/developer-portfolio",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

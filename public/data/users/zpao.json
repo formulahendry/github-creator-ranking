@@ -1,0 +1,34 @@
+{
+  "login": "zpao",
+  "name": "Paul O’Shannessy",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/8445?v=4",
+  "htmlUrl": "https://github.com/zpao",
+  "location": "Seattle, WA",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 4261,
+      "repoCountPrimary": 1,
+      "starsContains": 4261,
+      "repoCountContains": 1,
+      "globalRank": 608,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "qrcode.react",
+          "fullName": "zpao/qrcode.react",
+          "stars": 4261,
+          "url": "https://github.com/zpao/qrcode.react",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "WE-Kaito",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/98795399?v=4",
+  "htmlUrl": "https://github.com/WE-Kaito",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 161,
+      "repoCountPrimary": 1,
+      "starsContains": 161,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "digimon-tcg-simulator",
+          "fullName": "WE-Kaito/digimon-tcg-simulator",
+          "stars": 161,
+          "url": "https://github.com/WE-Kaito/digimon-tcg-simulator",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

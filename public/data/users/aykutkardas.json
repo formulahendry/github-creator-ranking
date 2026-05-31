@@ -1,0 +1,48 @@
+{
+  "login": "aykutkardas",
+  "name": "Aykut Kardaş",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7966133?v=4",
+  "htmlUrl": "https://github.com/aykutkardas",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 5112,
+      "repoCountPrimary": 3,
+      "starsContains": 5112,
+      "repoCountContains": 3,
+      "globalRank": 490,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "regexlearn.com",
+          "fullName": "aykutkardas/regexlearn.com",
+          "stars": 4041,
+          "url": "https://github.com/aykutkardas/regexlearn.com",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Json-Function",
+          "fullName": "aykutkardas/Json-Function",
+          "stars": 750,
+          "url": "https://github.com/aykutkardas/Json-Function",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "svgps.app",
+          "fullName": "aykutkardas/svgps.app",
+          "stars": 321,
+          "url": "https://github.com/aykutkardas/svgps.app",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

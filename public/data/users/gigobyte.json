@@ -1,0 +1,48 @@
+{
+  "login": "gigobyte",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/8791446?v=4",
+  "htmlUrl": "https://github.com/gigobyte",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2266,
+      "repoCountPrimary": 3,
+      "starsContains": 2266,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "purify",
+          "fullName": "gigobyte/purify",
+          "stars": 1603,
+          "url": "https://github.com/gigobyte/purify",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "HLTV",
+          "fullName": "gigobyte/HLTV",
+          "stars": 486,
+          "url": "https://github.com/gigobyte/HLTV",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ui-stack",
+          "fullName": "gigobyte/ui-stack",
+          "stars": 177,
+          "url": "https://github.com/gigobyte/ui-stack",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

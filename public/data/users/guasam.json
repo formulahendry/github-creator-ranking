@@ -1,0 +1,34 @@
+{
+  "login": "guasam",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/72690494?v=4",
+  "htmlUrl": "https://github.com/guasam",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 770,
+      "repoCountPrimary": 1,
+      "starsContains": 770,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "electron-react-app",
+          "fullName": "guasam/electron-react-app",
+          "stars": 770,
+          "url": "https://github.com/guasam/electron-react-app",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

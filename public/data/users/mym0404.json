@@ -1,0 +1,48 @@
+{
+  "login": "mym0404",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/33388801?v=4",
+  "htmlUrl": "https://github.com/mym0404",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 402,
+      "repoCountPrimary": 3,
+      "starsContains": 402,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-native-naver-map",
+          "fullName": "mym0404/react-native-naver-map",
+          "stars": 155,
+          "url": "https://github.com/mym0404/react-native-naver-map",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-native-kakao",
+          "fullName": "mym0404/react-native-kakao",
+          "stars": 139,
+          "url": "https://github.com/mym0404/react-native-kakao",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "expo-release-it",
+          "fullName": "mym0404/expo-release-it",
+          "stars": 108,
+          "url": "https://github.com/mym0404/expo-release-it",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

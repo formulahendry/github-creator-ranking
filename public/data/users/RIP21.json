@@ -1,0 +1,34 @@
+{
+  "login": "RIP21",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3940079?v=4",
+  "htmlUrl": "https://github.com/RIP21",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 776,
+      "repoCountPrimary": 1,
+      "starsContains": 776,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-simplemde-editor",
+          "fullName": "RIP21/react-simplemde-editor",
+          "stars": 776,
+          "url": "https://github.com/RIP21/react-simplemde-editor",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

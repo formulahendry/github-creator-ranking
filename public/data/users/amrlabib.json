@@ -1,0 +1,34 @@
+{
+  "login": "amrlabib",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7621427?v=4",
+  "htmlUrl": "https://github.com/amrlabib",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 623,
+      "repoCountPrimary": 1,
+      "starsContains": 623,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-timer-hook",
+          "fullName": "amrlabib/react-timer-hook",
+          "stars": 623,
+          "url": "https://github.com/amrlabib/react-timer-hook",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

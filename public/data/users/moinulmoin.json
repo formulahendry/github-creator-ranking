@@ -1,0 +1,34 @@
+{
+  "login": "moinulmoin",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/63459189?v=4",
+  "htmlUrl": "https://github.com/moinulmoin",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1321,
+      "repoCountPrimary": 1,
+      "starsContains": 1321,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "chadnext",
+          "fullName": "moinulmoin/chadnext",
+          "stars": 1321,
+          "url": "https://github.com/moinulmoin/chadnext",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "anc95",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/13167934?v=4",
+  "htmlUrl": "https://github.com/anc95",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1298,
+      "repoCountPrimary": 1,
+      "starsContains": 1298,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "writely",
+          "fullName": "anc95/writely",
+          "stars": 1298,
+          "url": "https://github.com/anc95/writely",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

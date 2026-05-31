@@ -1,0 +1,34 @@
+{
+  "login": "DAWNCR0W",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/31297498?v=4",
+  "htmlUrl": "https://github.com/DAWNCR0W",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 178,
+      "repoCountPrimary": 1,
+      "starsContains": 178,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "affine-mcp-server",
+          "fullName": "DAWNCR0W/affine-mcp-server",
+          "stars": 178,
+          "url": "https://github.com/DAWNCR0W/affine-mcp-server",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

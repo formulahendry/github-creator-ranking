@@ -1,0 +1,34 @@
+{
+  "login": "aryounce",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3383682?v=4",
+  "htmlUrl": "https://github.com/aryounce",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 215,
+      "repoCountPrimary": 1,
+      "starsContains": 215,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "aws-pricing",
+          "fullName": "aryounce/aws-pricing",
+          "stars": 215,
+          "url": "https://github.com/aryounce/aws-pricing",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

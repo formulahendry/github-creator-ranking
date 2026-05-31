@@ -1,0 +1,41 @@
+{
+  "login": "0x80",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1193520?v=4",
+  "htmlUrl": "https://github.com/0x80",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 448,
+      "repoCountPrimary": 2,
+      "starsContains": 448,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "typescript-monorepo",
+          "fullName": "0x80/typescript-monorepo",
+          "stars": 256,
+          "url": "https://github.com/0x80/typescript-monorepo",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "isolate-package",
+          "fullName": "0x80/isolate-package",
+          "stars": 192,
+          "url": "https://github.com/0x80/isolate-package",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

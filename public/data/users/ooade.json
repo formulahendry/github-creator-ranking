@@ -1,0 +1,41 @@
+{
+  "login": "ooade",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/11811904?v=4",
+  "htmlUrl": "https://github.com/ooade",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 357,
+      "repoCountPrimary": 2,
+      "starsContains": 357,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-rough",
+          "fullName": "ooade/react-rough",
+          "stars": 179,
+          "url": "https://github.com/ooade/react-rough",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-click-away-listener",
+          "fullName": "ooade/react-click-away-listener",
+          "stars": 178,
+          "url": "https://github.com/ooade/react-click-away-listener",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

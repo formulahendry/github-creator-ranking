@@ -1,11 +1,11 @@
 {
   "login": "srbhr",
-  "name": null,
+  "name": "Saurabh Rai",
   "avatarUrl": "https://avatars.githubusercontent.com/u/54472864?v=4",
   "htmlUrl": "https://github.com/srbhr",
   "location": null,
   "countryCode": null,
-  "generatedAt": "2026-05-31T13:50:40.799Z",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
   "isPartial": true,
   "languages": [
     {
@@ -14,17 +14,17 @@
         "name": "TypeScript",
         "githubQuery": "TypeScript"
       },
-      "starsPrimary": 27208,
+      "starsPrimary": 27213,
       "repoCountPrimary": 1,
-      "starsContains": 27208,
+      "starsContains": 27213,
       "repoCountContains": 1,
-      "globalRank": null,
+      "globalRank": 52,
       "countryRank": null,
       "topRepos": [
         {
           "name": "Resume-Matcher",
           "fullName": "srbhr/Resume-Matcher",
-          "stars": 27208,
+          "stars": 27213,
           "url": "https://github.com/srbhr/Resume-Matcher",
           "primaryLanguage": "TypeScript"
         }

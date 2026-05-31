@@ -1,0 +1,34 @@
+{
+  "login": "hooosberg",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/10342012?v=4",
+  "htmlUrl": "https://github.com/hooosberg",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 546,
+      "repoCountPrimary": 1,
+      "starsContains": 546,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "WitNote",
+          "fullName": "hooosberg/WitNote",
+          "stars": 546,
+          "url": "https://github.com/hooosberg/WitNote",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "juliencrn",
+  "name": "Julien",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/14028029?v=4",
+  "htmlUrl": "https://github.com/juliencrn",
+  "location": "127.0.0.1",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 7825,
+      "repoCountPrimary": 1,
+      "starsContains": 7825,
+      "repoCountContains": 1,
+      "globalRank": 291,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "usehooks-ts",
+          "fullName": "juliencrn/usehooks-ts",
+          "stars": 7825,
+          "url": "https://github.com/juliencrn/usehooks-ts",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

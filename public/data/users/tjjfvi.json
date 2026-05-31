@@ -1,0 +1,34 @@
+{
+  "login": "tjjfvi",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/44031566?v=4",
+  "htmlUrl": "https://github.com/tjjfvi",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 187,
+      "repoCountPrimary": 1,
+      "starsContains": 187,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "solid-native",
+          "fullName": "tjjfvi/solid-native",
+          "stars": 187,
+          "url": "https://github.com/tjjfvi/solid-native",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

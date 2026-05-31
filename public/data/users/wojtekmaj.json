@@ -1,0 +1,62 @@
+{
+  "login": "wojtekmaj",
+  "name": "Wojciech Maj",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5426427?v=4",
+  "htmlUrl": "https://github.com/wojtekmaj",
+  "location": "Kraków, Poland",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 22472,
+      "repoCountPrimary": 11,
+      "starsContains": 22472,
+      "repoCountContains": 11,
+      "globalRank": 78,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-pdf",
+          "fullName": "wojtekmaj/react-pdf",
+          "stars": 11077,
+          "url": "https://github.com/wojtekmaj/react-pdf",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-lifecycle-methods-diagram",
+          "fullName": "wojtekmaj/react-lifecycle-methods-diagram",
+          "stars": 3933,
+          "url": "https://github.com/wojtekmaj/react-lifecycle-methods-diagram",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-calendar",
+          "fullName": "wojtekmaj/react-calendar",
+          "stars": 3782,
+          "url": "https://github.com/wojtekmaj/react-calendar",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-date-picker",
+          "fullName": "wojtekmaj/react-date-picker",
+          "stars": 1349,
+          "url": "https://github.com/wojtekmaj/react-date-picker",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-datetime-picker",
+          "fullName": "wojtekmaj/react-datetime-picker",
+          "stars": 584,
+          "url": "https://github.com/wojtekmaj/react-datetime-picker",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

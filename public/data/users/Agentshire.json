@@ -1,0 +1,34 @@
+{
+  "login": "Agentshire",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/129744788?v=4",
+  "htmlUrl": "https://github.com/Agentshire",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1046,
+      "repoCountPrimary": 1,
+      "starsContains": 1046,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Agentshire",
+          "fullName": "Agentshire/Agentshire",
+          "stars": 1046,
+          "url": "https://github.com/Agentshire/Agentshire",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

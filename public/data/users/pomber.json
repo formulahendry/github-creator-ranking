@@ -1,0 +1,41 @@
+{
+  "login": "pomber",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1911623?v=4",
+  "htmlUrl": "https://github.com/pomber",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1513,
+      "repoCountPrimary": 2,
+      "starsContains": 1513,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "stargazer",
+          "fullName": "pomber/stargazer",
+          "stars": 1391,
+          "url": "https://github.com/pomber/stargazer",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-fit-to-viewport",
+          "fullName": "pomber/react-fit-to-viewport",
+          "stars": 122,
+          "url": "https://github.com/pomber/react-fit-to-viewport",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

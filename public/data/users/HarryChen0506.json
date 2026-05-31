@@ -1,0 +1,41 @@
+{
+  "login": "HarryChen0506",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/21263805?v=4",
+  "htmlUrl": "https://github.com/HarryChen0506",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1261,
+      "repoCountPrimary": 2,
+      "starsContains": 1261,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-markdown-editor-lite",
+          "fullName": "HarryChen0506/react-markdown-editor-lite",
+          "stars": 1136,
+          "url": "https://github.com/HarryChen0506/react-markdown-editor-lite",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "taro-makaron-demo",
+          "fullName": "HarryChen0506/taro-makaron-demo",
+          "stars": 125,
+          "url": "https://github.com/HarryChen0506/taro-makaron-demo",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

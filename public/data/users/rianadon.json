@@ -1,0 +1,41 @@
+{
+  "login": "rianadon",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/18223213?v=4",
+  "htmlUrl": "https://github.com/rianadon",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1213,
+      "repoCountPrimary": 2,
+      "starsContains": 1213,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Cosmos-Keyboards",
+          "fullName": "rianadon/Cosmos-Keyboards",
+          "stars": 636,
+          "url": "https://github.com/rianadon/Cosmos-Keyboards",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "timer-bar-card",
+          "fullName": "rianadon/timer-bar-card",
+          "stars": 577,
+          "url": "https://github.com/rianadon/timer-bar-card",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

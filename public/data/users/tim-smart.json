@@ -1,0 +1,62 @@
+{
+  "login": "tim-smart",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/40680?v=4",
+  "htmlUrl": "https://github.com/tim-smart",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1349,
+      "repoCountPrimary": 5,
+      "starsContains": 1349,
+      "repoCountContains": 5,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "effect-atom",
+          "fullName": "tim-smart/effect-atom",
+          "stars": 732,
+          "url": "https://github.com/tim-smart/effect-atom",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "effect-mcp",
+          "fullName": "tim-smart/effect-mcp",
+          "stars": 238,
+          "url": "https://github.com/tim-smart/effect-mcp",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "dfx",
+          "fullName": "tim-smart/dfx",
+          "stars": 130,
+          "url": "https://github.com/tim-smart/dfx",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "sqlfx",
+          "fullName": "tim-smart/sqlfx",
+          "stars": 127,
+          "url": "https://github.com/tim-smart/sqlfx",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "lalph",
+          "fullName": "tim-smart/lalph",
+          "stars": 122,
+          "url": "https://github.com/tim-smart/lalph",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

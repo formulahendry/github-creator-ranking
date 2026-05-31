@@ -1,0 +1,41 @@
+{
+  "login": "imskyleen",
+  "name": "Elliot Sutton",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/76941569?v=4",
+  "htmlUrl": "https://github.com/imskyleen",
+  "location": "Paris",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 4398,
+      "repoCountPrimary": 2,
+      "starsContains": 4398,
+      "repoCountContains": 2,
+      "globalRank": 587,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "animate-ui",
+          "fullName": "imskyleen/animate-ui",
+          "stars": 3674,
+          "url": "https://github.com/imskyleen/animate-ui",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "bprogress",
+          "fullName": "imskyleen/bprogress",
+          "stars": 724,
+          "url": "https://github.com/imskyleen/bprogress",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

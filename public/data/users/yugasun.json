@@ -1,0 +1,41 @@
+{
+  "login": "yugasun",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/8536173?v=4",
+  "htmlUrl": "https://github.com/yugasun",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 544,
+      "repoCountPrimary": 2,
+      "starsContains": 544,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "x-chart",
+          "fullName": "yugasun/x-chart",
+          "stars": 439,
+          "url": "https://github.com/yugasun/x-chart",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "qrcode-decoder",
+          "fullName": "yugasun/qrcode-decoder",
+          "stars": 105,
+          "url": "https://github.com/yugasun/qrcode-decoder",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "saiichihashimoto",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2819256?v=4",
+  "htmlUrl": "https://github.com/saiichihashimoto",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 162,
+      "repoCountPrimary": 1,
+      "starsContains": 162,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "sanity-typed",
+          "fullName": "saiichihashimoto/sanity-typed",
+          "stars": 162,
+          "url": "https://github.com/saiichihashimoto/sanity-typed",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

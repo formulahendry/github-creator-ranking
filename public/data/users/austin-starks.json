@@ -1,0 +1,48 @@
+{
+  "login": "austin-starks",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/53793927?v=4",
+  "htmlUrl": "https://github.com/austin-starks",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2230,
+      "repoCountPrimary": 3,
+      "starsContains": 2230,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "NextTrade",
+          "fullName": "austin-starks/NextTrade",
+          "stars": 1768,
+          "url": "https://github.com/austin-starks/NextTrade",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "EOD-GPT",
+          "fullName": "austin-starks/EOD-GPT",
+          "stars": 250,
+          "url": "https://github.com/austin-starks/EOD-GPT",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Promptimizer",
+          "fullName": "austin-starks/Promptimizer",
+          "stars": 212,
+          "url": "https://github.com/austin-starks/Promptimizer",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

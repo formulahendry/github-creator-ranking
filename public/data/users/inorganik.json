@@ -1,0 +1,48 @@
+{
+  "login": "inorganik",
+  "name": "Jamie Perkins",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/109553?v=4",
+  "htmlUrl": "https://github.com/inorganik",
+  "location": "Denver, CO, USA",
+  "countryCode": "US",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 8634,
+      "repoCountPrimary": 3,
+      "starsContains": 8634,
+      "repoCountContains": 3,
+      "globalRank": 261,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "countUp.js",
+          "fullName": "inorganik/countUp.js",
+          "stars": 8166,
+          "url": "https://github.com/inorganik/countUp.js",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "debugout.js",
+          "fullName": "inorganik/debugout.js",
+          "stars": 326,
+          "url": "https://github.com/inorganik/debugout.js",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ngx-countUp",
+          "fullName": "inorganik/ngx-countUp",
+          "stars": 142,
+          "url": "https://github.com/inorganik/ngx-countUp",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

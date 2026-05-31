@@ -1,0 +1,41 @@
+{
+  "login": "di-sukharev",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/57486732?v=4",
+  "htmlUrl": "https://github.com/di-sukharev",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 461,
+      "repoCountPrimary": 2,
+      "starsContains": 461,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "AI-TDD",
+          "fullName": "di-sukharev/AI-TDD",
+          "stars": 276,
+          "url": "https://github.com/di-sukharev/AI-TDD",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vibe",
+          "fullName": "di-sukharev/vibe",
+          "stars": 185,
+          "url": "https://github.com/di-sukharev/vibe",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

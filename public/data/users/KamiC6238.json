@@ -1,0 +1,34 @@
+{
+  "login": "KamiC6238",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/23523595?v=4",
+  "htmlUrl": "https://github.com/KamiC6238",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 173,
+      "repoCountPrimary": 1,
+      "starsContains": 173,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ayanami",
+          "fullName": "KamiC6238/ayanami",
+          "stars": 173,
+          "url": "https://github.com/KamiC6238/ayanami",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

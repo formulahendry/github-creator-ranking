@@ -1,0 +1,34 @@
+{
+  "login": "boopathi",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/294474?v=4",
+  "htmlUrl": "https://github.com/boopathi",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 641,
+      "repoCountPrimary": 1,
+      "starsContains": 641,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-svg-loader",
+          "fullName": "boopathi/react-svg-loader",
+          "stars": 641,
+          "url": "https://github.com/boopathi/react-svg-loader",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

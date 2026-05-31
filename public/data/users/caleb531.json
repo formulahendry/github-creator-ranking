@@ -1,0 +1,34 @@
+{
+  "login": "caleb531",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/872474?v=4",
+  "htmlUrl": "https://github.com/caleb531",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 627,
+      "repoCountPrimary": 1,
+      "starsContains": 627,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "jcanvas",
+          "fullName": "caleb531/jcanvas",
+          "stars": 627,
+          "url": "https://github.com/caleb531/jcanvas",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

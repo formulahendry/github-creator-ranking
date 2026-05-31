@@ -1,0 +1,34 @@
+{
+  "login": "vitalii-andriiovskyi",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/23376582?v=4",
+  "htmlUrl": "https://github.com/vitalii-andriiovskyi",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 194,
+      "repoCountPrimary": 1,
+      "starsContains": 194,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ngx-owl-carousel-o",
+          "fullName": "vitalii-andriiovskyi/ngx-owl-carousel-o",
+          "stars": 194,
+          "url": "https://github.com/vitalii-andriiovskyi/ngx-owl-carousel-o",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "chenfan0",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/83797583?v=4",
+  "htmlUrl": "https://github.com/chenfan0",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1798,
+      "repoCountPrimary": 1,
+      "starsContains": 1798,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "fideo-live-record",
+          "fullName": "chenfan0/fideo-live-record",
+          "stars": 1798,
+          "url": "https://github.com/chenfan0/fideo-live-record",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

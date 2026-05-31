@@ -1,0 +1,34 @@
+{
+  "login": "BangMister",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/107274350?v=4",
+  "htmlUrl": "https://github.com/BangMister",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 174,
+      "repoCountPrimary": 1,
+      "starsContains": 174,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "tetris-on-base",
+          "fullName": "BangMister/tetris-on-base",
+          "stars": 174,
+          "url": "https://github.com/BangMister/tetris-on-base",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

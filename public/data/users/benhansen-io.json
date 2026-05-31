@@ -1,0 +1,34 @@
+{
+  "login": "benhansen-io",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/509969?v=4",
+  "htmlUrl": "https://github.com/benhansen-io",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 100,
+      "repoCountPrimary": 1,
+      "starsContains": 100,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "pinging",
+          "fullName": "benhansen-io/pinging",
+          "stars": 100,
+          "url": "https://github.com/benhansen-io/pinging",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

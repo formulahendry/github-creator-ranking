@@ -1,0 +1,34 @@
+{
+  "login": "data-gov-my",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/127065101?v=4",
+  "htmlUrl": "https://github.com/data-gov-my",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 152,
+      "repoCountPrimary": 1,
+      "starsContains": 152,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "datagovmy-front",
+          "fullName": "data-gov-my/datagovmy-front",
+          "stars": 152,
+          "url": "https://github.com/data-gov-my/datagovmy-front",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "lcjnil",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5821684?v=4",
+  "htmlUrl": "https://github.com/lcjnil",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 134,
+      "repoCountPrimary": 1,
+      "starsContains": 134,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "github-notion-star",
+          "fullName": "lcjnil/github-notion-star",
+          "stars": 134,
+          "url": "https://github.com/lcjnil/github-notion-star",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

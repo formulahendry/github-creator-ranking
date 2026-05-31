@@ -1,0 +1,34 @@
+{
+  "login": "themaximehardy",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/18666926?v=4",
+  "htmlUrl": "https://github.com/themaximehardy",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 106,
+      "repoCountPrimary": 1,
+      "starsContains": 106,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "understanding-typescript",
+          "fullName": "themaximehardy/understanding-typescript",
+          "stars": 106,
+          "url": "https://github.com/themaximehardy/understanding-typescript",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "maximux13",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7751536?v=4",
+  "htmlUrl": "https://github.com/maximux13",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 106,
+      "repoCountPrimary": 1,
+      "starsContains": 106,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "waveform-renderer",
+          "fullName": "maximux13/waveform-renderer",
+          "stars": 106,
+          "url": "https://github.com/maximux13/waveform-renderer",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

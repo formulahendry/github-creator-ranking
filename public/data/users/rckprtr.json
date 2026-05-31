@@ -1,0 +1,34 @@
+{
+  "login": "rckprtr",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/4605139?v=4",
+  "htmlUrl": "https://github.com/rckprtr",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 825,
+      "repoCountPrimary": 1,
+      "starsContains": 825,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "pumpdotfun-sdk",
+          "fullName": "rckprtr/pumpdotfun-sdk",
+          "stars": 825,
+          "url": "https://github.com/rckprtr/pumpdotfun-sdk",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

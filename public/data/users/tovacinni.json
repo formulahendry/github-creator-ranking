@@ -1,0 +1,34 @@
+{
+  "login": "tovacinni",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2717105?v=4",
+  "htmlUrl": "https://github.com/tovacinni",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 228,
+      "repoCountPrimary": 1,
+      "starsContains": 228,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "research-website-template",
+          "fullName": "tovacinni/research-website-template",
+          "stars": 228,
+          "url": "https://github.com/tovacinni/research-website-template",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

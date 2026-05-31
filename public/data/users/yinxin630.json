@@ -1,0 +1,41 @@
+{
+  "login": "yinxin630",
+  "name": "碎碎酱",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6939365?v=4",
+  "htmlUrl": "https://github.com/yinxin630",
+  "location": "Beijing, China",
+  "countryCode": "CN",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 7302,
+      "repoCountPrimary": 2,
+      "starsContains": 7302,
+      "repoCountContains": 2,
+      "globalRank": 313,
+      "countryRank": 40,
+      "topRepos": [
+        {
+          "name": "fiora",
+          "fullName": "yinxin630/fiora",
+          "stars": 7152,
+          "url": "https://github.com/yinxin630/fiora",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "fiora-app",
+          "fullName": "yinxin630/fiora-app",
+          "stars": 150,
+          "url": "https://github.com/yinxin630/fiora-app",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

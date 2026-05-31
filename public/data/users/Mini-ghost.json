@@ -1,0 +1,34 @@
+{
+  "login": "Mini-ghost",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/39984251?v=4",
+  "htmlUrl": "https://github.com/Mini-ghost",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 724,
+      "repoCountPrimary": 1,
+      "starsContains": 724,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vorms",
+          "fullName": "Mini-ghost/vorms",
+          "stars": 724,
+          "url": "https://github.com/Mini-ghost/vorms",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

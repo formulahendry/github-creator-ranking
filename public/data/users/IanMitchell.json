@@ -1,0 +1,41 @@
+{
+  "login": "IanMitchell",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/603872?v=4",
+  "htmlUrl": "https://github.com/IanMitchell",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 338,
+      "repoCountPrimary": 2,
+      "starsContains": 338,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "sentrydiscord.dev",
+          "fullName": "IanMitchell/sentrydiscord.dev",
+          "stars": 220,
+          "url": "https://github.com/IanMitchell/sentrydiscord.dev",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "interaction-kit",
+          "fullName": "IanMitchell/interaction-kit",
+          "stars": 118,
+          "url": "https://github.com/IanMitchell/interaction-kit",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

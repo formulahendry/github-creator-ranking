@@ -1,0 +1,34 @@
+{
+  "login": "otakustay",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/639549?v=4",
+  "htmlUrl": "https://github.com/otakustay",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1000,
+      "repoCountPrimary": 1,
+      "starsContains": 1000,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-diff-view",
+          "fullName": "otakustay/react-diff-view",
+          "stars": 1000,
+          "url": "https://github.com/otakustay/react-diff-view",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

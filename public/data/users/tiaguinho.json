@@ -1,0 +1,34 @@
+{
+  "login": "tiaguinho",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/961553?v=4",
+  "htmlUrl": "https://github.com/tiaguinho",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 324,
+      "repoCountPrimary": 1,
+      "starsContains": 324,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "material-community-components",
+          "fullName": "tiaguinho/material-community-components",
+          "stars": 324,
+          "url": "https://github.com/tiaguinho/material-community-components",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

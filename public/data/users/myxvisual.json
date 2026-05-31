@@ -1,0 +1,34 @@
+{
+  "login": "myxvisual",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/13671219?v=4",
+  "htmlUrl": "https://github.com/myxvisual",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1169,
+      "repoCountPrimary": 1,
+      "starsContains": 1169,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-uwp",
+          "fullName": "myxvisual/react-uwp",
+          "stars": 1169,
+          "url": "https://github.com/myxvisual/react-uwp",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

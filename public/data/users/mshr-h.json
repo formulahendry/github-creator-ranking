@@ -1,0 +1,34 @@
+{
+  "login": "mshr-h",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/8973217?v=4",
+  "htmlUrl": "https://github.com/mshr-h",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 369,
+      "repoCountPrimary": 1,
+      "starsContains": 369,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vscode-verilog-hdl-support",
+          "fullName": "mshr-h/vscode-verilog-hdl-support",
+          "stars": 369,
+          "url": "https://github.com/mshr-h/vscode-verilog-hdl-support",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

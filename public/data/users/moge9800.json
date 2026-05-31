@@ -1,0 +1,34 @@
+{
+  "login": "moge9800",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/206563506?v=4",
+  "htmlUrl": "https://github.com/moge9800",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 285,
+      "repoCountPrimary": 1,
+      "starsContains": 285,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "AuroraVoice-Gateway",
+          "fullName": "moge9800/AuroraVoice-Gateway",
+          "stars": 285,
+          "url": "https://github.com/moge9800/AuroraVoice-Gateway",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

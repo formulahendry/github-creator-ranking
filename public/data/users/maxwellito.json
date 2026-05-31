@@ -1,0 +1,34 @@
+{
+  "login": "maxwellito",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1097232?v=4",
+  "htmlUrl": "https://github.com/maxwellito",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 399,
+      "repoCountPrimary": 1,
+      "starsContains": 399,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "minimator",
+          "fullName": "maxwellito/minimator",
+          "stars": 399,
+          "url": "https://github.com/maxwellito/minimator",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

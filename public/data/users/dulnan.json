@@ -1,0 +1,41 @@
+{
+  "login": "dulnan",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/4155003?v=4",
+  "htmlUrl": "https://github.com/dulnan",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1661,
+      "repoCountPrimary": 2,
+      "starsContains": 1661,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "lazy-brush",
+          "fullName": "dulnan/lazy-brush",
+          "stars": 1374,
+          "url": "https://github.com/dulnan/lazy-brush",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "nuxt-multi-cache",
+          "fullName": "dulnan/nuxt-multi-cache",
+          "stars": 287,
+          "url": "https://github.com/dulnan/nuxt-multi-cache",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

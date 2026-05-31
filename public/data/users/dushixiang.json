@@ -1,0 +1,41 @@
+{
+  "login": "dushixiang",
+  "name": "dushixiang",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/17633733?v=4",
+  "htmlUrl": "https://github.com/dushixiang",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 5797,
+      "repoCountPrimary": 2,
+      "starsContains": 5797,
+      "repoCountContains": 2,
+      "globalRank": 415,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "next-terminal",
+          "fullName": "dushixiang/next-terminal",
+          "stars": 5540,
+          "url": "https://github.com/dushixiang/next-terminal",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "uart_sms_forwarder",
+          "fullName": "dushixiang/uart_sms_forwarder",
+          "stars": 257,
+          "url": "https://github.com/dushixiang/uart_sms_forwarder",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "Microck",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/45483921?v=4",
+  "htmlUrl": "https://github.com/Microck",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 651,
+      "repoCountPrimary": 1,
+      "starsContains": 651,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "opencode-studio",
+          "fullName": "Microck/opencode-studio",
+          "stars": 651,
+          "url": "https://github.com/Microck/opencode-studio",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

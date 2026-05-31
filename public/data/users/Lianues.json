@@ -1,0 +1,41 @@
+{
+  "login": "Lianues",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/141826977?v=4",
+  "htmlUrl": "https://github.com/Lianues",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 243,
+      "repoCountPrimary": 2,
+      "starsContains": 243,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Lim-Code",
+          "fullName": "Lianues/Lim-Code",
+          "stars": 142,
+          "url": "https://github.com/Lianues/Lim-Code",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Iris",
+          "fullName": "Lianues/Iris",
+          "stars": 101,
+          "url": "https://github.com/Lianues/Iris",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "agisboye",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/4165670?v=4",
+  "htmlUrl": "https://github.com/agisboye",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 247,
+      "repoCountPrimary": 1,
+      "starsContains": 247,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "app-store-server-api",
+          "fullName": "agisboye/app-store-server-api",
+          "stars": 247,
+          "url": "https://github.com/agisboye/app-store-server-api",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

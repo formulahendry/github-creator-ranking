@@ -1,0 +1,55 @@
+{
+  "login": "davideast",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/4570265?v=4",
+  "htmlUrl": "https://github.com/davideast",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1797,
+      "repoCountPrimary": 4,
+      "starsContains": 1797,
+      "repoCountContains": 4,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "stitch-mcp",
+          "fullName": "davideast/stitch-mcp",
+          "stars": 886,
+          "url": "https://github.com/davideast/stitch-mcp",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Querybase",
+          "fullName": "davideast/Querybase",
+          "stars": 448,
+          "url": "https://github.com/davideast/Querybase",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "dataprompt",
+          "fullName": "davideast/dataprompt",
+          "stars": 273,
+          "url": "https://github.com/davideast/dataprompt",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "hnpwa-firebase",
+          "fullName": "davideast/hnpwa-firebase",
+          "stars": 190,
+          "url": "https://github.com/davideast/hnpwa-firebase",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "login": "ddiu8081",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1998168?v=4",
+  "htmlUrl": "https://github.com/ddiu8081",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 969,
+      "repoCountPrimary": 3,
+      "starsContains": 969,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "bus-vis",
+          "fullName": "ddiu8081/bus-vis",
+          "stars": 486,
+          "url": "https://github.com/ddiu8081/bus-vis",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "fluent-emoji-maker",
+          "fullName": "ddiu8081/fluent-emoji-maker",
+          "stars": 292,
+          "url": "https://github.com/ddiu8081/fluent-emoji-maker",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "blive-message-listener",
+          "fullName": "ddiu8081/blive-message-listener",
+          "stars": 191,
+          "url": "https://github.com/ddiu8081/blive-message-listener",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

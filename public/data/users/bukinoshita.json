@@ -1,0 +1,41 @@
+{
+  "login": "bukinoshita",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6929565?v=4",
+  "htmlUrl": "https://github.com/bukinoshita",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 240,
+      "repoCountPrimary": 2,
+      "starsContains": 240,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-cookies",
+          "fullName": "bukinoshita/react-cookies",
+          "stars": 128,
+          "url": "https://github.com/bukinoshita/react-cookies",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "secret",
+          "fullName": "bukinoshita/secret",
+          "stars": 112,
+          "url": "https://github.com/bukinoshita/secret",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

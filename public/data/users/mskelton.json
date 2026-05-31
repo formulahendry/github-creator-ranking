@@ -1,0 +1,48 @@
+{
+  "login": "mskelton",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/25914066?v=4",
+  "htmlUrl": "https://github.com/mskelton",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 664,
+      "repoCountPrimary": 3,
+      "starsContains": 664,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "eslint-plugin-playwright",
+          "fullName": "mskelton/eslint-plugin-playwright",
+          "stars": 384,
+          "url": "https://github.com/mskelton/eslint-plugin-playwright",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ratchet",
+          "fullName": "mskelton/ratchet",
+          "stars": 146,
+          "url": "https://github.com/mskelton/ratchet",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "yarn-plugin-outdated",
+          "fullName": "mskelton/yarn-plugin-outdated",
+          "stars": 134,
+          "url": "https://github.com/mskelton/yarn-plugin-outdated",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

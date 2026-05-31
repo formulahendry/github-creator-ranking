@@ -1,0 +1,41 @@
+{
+  "login": "dword-design",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/13484795?v=4",
+  "htmlUrl": "https://github.com/dword-design",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 441,
+      "repoCountPrimary": 2,
+      "starsContains": 441,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "nuxt-mail",
+          "fullName": "dword-design/nuxt-mail",
+          "stars": 324,
+          "url": "https://github.com/dword-design/nuxt-mail",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "eslint-plugin-import-alias",
+          "fullName": "dword-design/eslint-plugin-import-alias",
+          "stars": 117,
+          "url": "https://github.com/dword-design/eslint-plugin-import-alias",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

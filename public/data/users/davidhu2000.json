@@ -1,0 +1,34 @@
+{
+  "login": "davidhu2000",
+  "name": "David Hu",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/15827041?v=4",
+  "htmlUrl": "https://github.com/davidhu2000",
+  "location": "San Francisco, CA",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3340,
+      "repoCountPrimary": 1,
+      "starsContains": 3340,
+      "repoCountContains": 1,
+      "globalRank": 812,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-spinners",
+          "fullName": "davidhu2000/react-spinners",
+          "stars": 3340,
+          "url": "https://github.com/davidhu2000/react-spinners",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

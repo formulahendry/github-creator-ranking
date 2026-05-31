@@ -1,0 +1,48 @@
+{
+  "login": "LingDong-",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7929704?v=4",
+  "htmlUrl": "https://github.com/LingDong-",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 654,
+      "repoCountPrimary": 3,
+      "starsContains": 654,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "psvg",
+          "fullName": "LingDong-/psvg",
+          "stars": 315,
+          "url": "https://github.com/LingDong-/psvg",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "legumes",
+          "fullName": "LingDong-/legumes",
+          "stars": 238,
+          "url": "https://github.com/LingDong-/legumes",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "hfmath",
+          "fullName": "LingDong-/hfmath",
+          "stars": 101,
+          "url": "https://github.com/LingDong-/hfmath",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "kucherenko",
+  "name": "Andrey Kucherenko",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/159307?v=4",
+  "htmlUrl": "https://github.com/kucherenko",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 5701,
+      "repoCountPrimary": 1,
+      "starsContains": 5701,
+      "repoCountContains": 1,
+      "globalRank": 426,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "jscpd",
+          "fullName": "kucherenko/jscpd",
+          "stars": 5701,
+          "url": "https://github.com/kucherenko/jscpd",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

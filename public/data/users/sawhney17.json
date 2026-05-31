@@ -1,0 +1,62 @@
+{
+  "login": "sawhney17",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/80150109?v=4",
+  "htmlUrl": "https://github.com/sawhney17",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 898,
+      "repoCountPrimary": 5,
+      "starsContains": 898,
+      "repoCountContains": 5,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "logseq-schrodinger",
+          "fullName": "sawhney17/logseq-schrodinger",
+          "stars": 344,
+          "url": "https://github.com/sawhney17/logseq-schrodinger",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "logseq-smartblocks",
+          "fullName": "sawhney17/logseq-smartblocks",
+          "stars": 184,
+          "url": "https://github.com/sawhney17/logseq-smartblocks",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "logseq-calendars-plugin",
+          "fullName": "sawhney17/logseq-calendars-plugin",
+          "stars": 134,
+          "url": "https://github.com/sawhney17/logseq-calendars-plugin",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "logseq-pdf-export",
+          "fullName": "sawhney17/logseq-pdf-export",
+          "stars": 127,
+          "url": "https://github.com/sawhney17/logseq-pdf-export",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "logseq-automatic-linker",
+          "fullName": "sawhney17/logseq-automatic-linker",
+          "stars": 109,
+          "url": "https://github.com/sawhney17/logseq-automatic-linker",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

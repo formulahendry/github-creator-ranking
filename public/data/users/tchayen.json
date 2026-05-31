@@ -1,0 +1,41 @@
+{
+  "login": "tchayen",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5769281?v=4",
+  "htmlUrl": "https://github.com/tchayen",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 563,
+      "repoCountPrimary": 2,
+      "starsContains": 563,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "red-otter",
+          "fullName": "tchayen/red-otter",
+          "stars": 286,
+          "url": "https://github.com/tchayen/red-otter",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "markdown-links",
+          "fullName": "tchayen/markdown-links",
+          "stars": 277,
+          "url": "https://github.com/tchayen/markdown-links",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

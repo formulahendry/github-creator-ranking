@@ -1,0 +1,48 @@
+{
+  "login": "easychen",
+  "name": "Easy",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1294760?v=4",
+  "htmlUrl": "https://github.com/easychen",
+  "location": "Chongqing, China",
+  "countryCode": "CN",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3557,
+      "repoCountPrimary": 3,
+      "starsContains": 3557,
+      "repoCountContains": 3,
+      "globalRank": 753,
+      "countryRank": 88,
+      "topRepos": [
+        {
+          "name": "CookieCloud",
+          "fullName": "easychen/CookieCloud",
+          "stars": 3029,
+          "url": "https://github.com/easychen/CookieCloud",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "telechan",
+          "fullName": "easychen/telechan",
+          "stars": 411,
+          "url": "https://github.com/easychen/telechan",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "airole",
+          "fullName": "easychen/airole",
+          "stars": 117,
+          "url": "https://github.com/easychen/airole",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

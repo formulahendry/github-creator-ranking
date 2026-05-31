@@ -1,0 +1,34 @@
+{
+  "login": "mustaphaturhan",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/11398393?v=4",
+  "htmlUrl": "https://github.com/mustaphaturhan",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 125,
+      "repoCountPrimary": 1,
+      "starsContains": 125,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "chakra-ui-markdown-renderer",
+          "fullName": "mustaphaturhan/chakra-ui-markdown-renderer",
+          "stars": 125,
+          "url": "https://github.com/mustaphaturhan/chakra-ui-markdown-renderer",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

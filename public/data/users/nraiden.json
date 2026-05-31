@@ -1,0 +1,41 @@
+{
+  "login": "nraiden",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/127366981?v=4",
+  "htmlUrl": "https://github.com/nraiden",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 10599,
+      "repoCountPrimary": 2,
+      "starsContains": 10599,
+      "repoCountContains": 2,
+      "globalRank": 204,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "cofounder",
+          "fullName": "nraiden/cofounder",
+          "stars": 6653,
+          "url": "https://github.com/nraiden/cofounder",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "openv0",
+          "fullName": "nraiden/openv0",
+          "stars": 3946,
+          "url": "https://github.com/nraiden/openv0",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

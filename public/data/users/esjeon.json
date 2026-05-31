@@ -1,0 +1,34 @@
+{
+  "login": "esjeon",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2756834?v=4",
+  "htmlUrl": "https://github.com/esjeon",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2124,
+      "repoCountPrimary": 1,
+      "starsContains": 2124,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "krohnkite",
+          "fullName": "esjeon/krohnkite",
+          "stars": 2124,
+          "url": "https://github.com/esjeon/krohnkite",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

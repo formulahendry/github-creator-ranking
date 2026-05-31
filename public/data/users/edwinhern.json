@@ -1,0 +1,34 @@
+{
+  "login": "edwinhern",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/65698930?v=4",
+  "htmlUrl": "https://github.com/edwinhern",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1236,
+      "repoCountPrimary": 1,
+      "starsContains": 1236,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "express-typescript",
+          "fullName": "edwinhern/express-typescript",
+          "stars": 1236,
+          "url": "https://github.com/edwinhern/express-typescript",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

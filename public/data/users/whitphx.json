@@ -1,0 +1,41 @@
+{
+  "login": "whitphx",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3135397?v=4",
+  "htmlUrl": "https://github.com/whitphx",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2164,
+      "repoCountPrimary": 2,
+      "starsContains": 2164,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "stlite",
+          "fullName": "whitphx/stlite",
+          "stars": 1636,
+          "url": "https://github.com/whitphx/stlite",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vscode-emacs-mcx",
+          "fullName": "whitphx/vscode-emacs-mcx",
+          "stars": 528,
+          "url": "https://github.com/whitphx/vscode-emacs-mcx",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

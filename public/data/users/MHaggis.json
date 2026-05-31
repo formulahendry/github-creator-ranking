@@ -1,0 +1,41 @@
+{
+  "login": "MHaggis",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5632822?v=4",
+  "htmlUrl": "https://github.com/MHaggis",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 636,
+      "repoCountPrimary": 2,
+      "starsContains": 636,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Security-Detections-MCP",
+          "fullName": "MHaggis/Security-Detections-MCP",
+          "stars": 441,
+          "url": "https://github.com/MHaggis/Security-Detections-MCP",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ADTrapper",
+          "fullName": "MHaggis/ADTrapper",
+          "stars": 195,
+          "url": "https://github.com/MHaggis/ADTrapper",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

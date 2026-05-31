@@ -1,0 +1,41 @@
+{
+  "login": "Jason-uxui",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/189865466?v=4",
+  "htmlUrl": "https://github.com/Jason-uxui",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1339,
+      "repoCountPrimary": 2,
+      "starsContains": 1339,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "project-dashboard",
+          "fullName": "Jason-uxui/project-dashboard",
+          "stars": 1018,
+          "url": "https://github.com/Jason-uxui/project-dashboard",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "gray-ui-csm",
+          "fullName": "Jason-uxui/gray-ui-csm",
+          "stars": 321,
+          "url": "https://github.com/Jason-uxui/gray-ui-csm",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

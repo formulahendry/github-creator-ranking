@@ -1,0 +1,34 @@
+{
+  "login": "joelgriffith",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1499985?v=4",
+  "htmlUrl": "https://github.com/joelgriffith",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 972,
+      "repoCountPrimary": 1,
+      "starsContains": 972,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "navalia",
+          "fullName": "joelgriffith/navalia",
+          "stars": 972,
+          "url": "https://github.com/joelgriffith/navalia",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

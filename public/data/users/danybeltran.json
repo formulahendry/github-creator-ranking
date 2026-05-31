@@ -1,0 +1,34 @@
+{
+  "login": "danybeltran",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/30043027?v=4",
+  "htmlUrl": "https://github.com/danybeltran",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 162,
+      "repoCountPrimary": 1,
+      "starsContains": 162,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "nextjs-typescript-and-postgresql",
+          "fullName": "danybeltran/nextjs-typescript-and-postgresql",
+          "stars": 162,
+          "url": "https://github.com/danybeltran/nextjs-typescript-and-postgresql",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

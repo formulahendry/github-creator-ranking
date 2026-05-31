@@ -1,0 +1,34 @@
+{
+  "login": "AkiraTach",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5450034?v=4",
+  "htmlUrl": "https://github.com/AkiraTach",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 135,
+      "repoCountPrimary": 1,
+      "starsContains": 135,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "all-bitcoin-private-key",
+          "fullName": "AkiraTach/all-bitcoin-private-key",
+          "stars": 135,
+          "url": "https://github.com/AkiraTach/all-bitcoin-private-key",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "newtonmunene99",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/29271333?v=4",
+  "htmlUrl": "https://github.com/newtonmunene99",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 118,
+      "repoCountPrimary": 1,
+      "starsContains": 118,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "mpesa-api",
+          "fullName": "newtonmunene99/mpesa-api",
+          "stars": 118,
+          "url": "https://github.com/newtonmunene99/mpesa-api",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

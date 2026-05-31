@@ -1,0 +1,34 @@
+{
+  "login": "patrickjuchli",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/397839?v=4",
+  "htmlUrl": "https://github.com/patrickjuchli",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 725,
+      "repoCountPrimary": 1,
+      "starsContains": 725,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "basic-ftp",
+          "fullName": "patrickjuchli/basic-ftp",
+          "stars": 725,
+          "url": "https://github.com/patrickjuchli/basic-ftp",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

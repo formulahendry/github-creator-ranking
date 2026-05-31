@@ -1,0 +1,34 @@
+{
+  "login": "smallmain",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/28684663?v=4",
+  "htmlUrl": "https://github.com/smallmain",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 533,
+      "repoCountPrimary": 1,
+      "starsContains": 533,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vscode-unify-chat-provider",
+          "fullName": "smallmain/vscode-unify-chat-provider",
+          "stars": 533,
+          "url": "https://github.com/smallmain/vscode-unify-chat-provider",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

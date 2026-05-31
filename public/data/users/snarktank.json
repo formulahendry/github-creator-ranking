@@ -1,0 +1,41 @@
+{
+  "login": "snarktank",
+  "name": "Ryan Carson",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/152063952?v=4",
+  "htmlUrl": "https://github.com/snarktank",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 22274,
+      "repoCountPrimary": 2,
+      "starsContains": 22274,
+      "repoCountContains": 2,
+      "globalRank": 81,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ralph",
+          "fullName": "snarktank/ralph",
+          "stars": 19800,
+          "url": "https://github.com/snarktank/ralph",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "antfarm",
+          "fullName": "snarktank/antfarm",
+          "stars": 2474,
+          "url": "https://github.com/snarktank/antfarm",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

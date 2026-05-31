@@ -1,0 +1,34 @@
+{
+  "login": "Helmi",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/175346?v=4",
+  "htmlUrl": "https://github.com/Helmi",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 556,
+      "repoCountPrimary": 1,
+      "starsContains": 556,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "claude-simone",
+          "fullName": "Helmi/claude-simone",
+          "stars": 556,
+          "url": "https://github.com/Helmi/claude-simone",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

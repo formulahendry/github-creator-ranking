@@ -1,0 +1,34 @@
+{
+  "login": "ai-search-guru",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/35657757?v=4",
+  "htmlUrl": "https://github.com/ai-search-guru",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 121,
+      "repoCountPrimary": 1,
+      "starsContains": 121,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "getcito-worlds-first-open-source-aio-aeo-or-geo-tool",
+          "fullName": "ai-search-guru/getcito-worlds-first-open-source-aio-aeo-or-geo-tool",
+          "stars": 121,
+          "url": "https://github.com/ai-search-guru/getcito-worlds-first-open-source-aio-aeo-or-geo-tool",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

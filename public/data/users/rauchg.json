@@ -1,0 +1,55 @@
+{
+  "login": "rauchg",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/13041?v=4",
+  "htmlUrl": "https://github.com/rauchg",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1384,
+      "repoCountPrimary": 4,
+      "starsContains": 1384,
+      "repoCountContains": 4,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "next-ai-news",
+          "fullName": "rauchg/next-ai-news",
+          "stars": 851,
+          "url": "https://github.com/rauchg/next-ai-news",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-postgres-components",
+          "fullName": "rauchg/react-postgres-components",
+          "stars": 224,
+          "url": "https://github.com/rauchg/react-postgres-components",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "wingpt",
+          "fullName": "rauchg/wingpt",
+          "stars": 185,
+          "url": "https://github.com/rauchg/wingpt",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "wordledge",
+          "fullName": "rauchg/wordledge",
+          "stars": 124,
+          "url": "https://github.com/rauchg/wordledge",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "0xGF",
+  "name": "Colin",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/35696965?v=4",
+  "htmlUrl": "https://github.com/0xGF",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 5969,
+      "repoCountPrimary": 2,
+      "starsContains": 5969,
+      "repoCountContains": 2,
+      "globalRank": 400,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "boneyard",
+          "fullName": "0xGF/boneyard",
+          "stars": 5797,
+          "url": "https://github.com/0xGF/boneyard",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "avatar-3d",
+          "fullName": "0xGF/avatar-3d",
+          "stars": 172,
+          "url": "https://github.com/0xGF/avatar-3d",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

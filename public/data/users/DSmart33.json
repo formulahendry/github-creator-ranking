@@ -1,0 +1,34 @@
+{
+  "login": "DSmart33",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/45064683?v=4",
+  "htmlUrl": "https://github.com/DSmart33",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 124,
+      "repoCountPrimary": 1,
+      "starsContains": 124,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Usenet-Ultimate",
+          "fullName": "DSmart33/Usenet-Ultimate",
+          "stars": 124,
+          "url": "https://github.com/DSmart33/Usenet-Ultimate",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

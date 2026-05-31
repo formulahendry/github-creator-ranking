@@ -1,0 +1,34 @@
+{
+  "login": "arevalolance",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/54465849?v=4",
+  "htmlUrl": "https://github.com/arevalolance",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 195,
+      "repoCountPrimary": 1,
+      "starsContains": 195,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "design-system-template",
+          "fullName": "arevalolance/design-system-template",
+          "stars": 195,
+          "url": "https://github.com/arevalolance/design-system-template",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

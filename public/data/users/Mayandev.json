@@ -1,0 +1,48 @@
+{
+  "login": "Mayandev",
+  "name": "MayanDev",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/28648715?v=4",
+  "htmlUrl": "https://github.com/Mayandev",
+  "location": "Wuhan Hubei",
+  "countryCode": "CN",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3781,
+      "repoCountPrimary": 3,
+      "starsContains": 3781,
+      "repoCountContains": 3,
+      "globalRank": 705,
+      "countryRank": 85,
+      "topRepos": [
+        {
+          "name": "notion-avatar",
+          "fullName": "Mayandev/notion-avatar",
+          "stars": 3196,
+          "url": "https://github.com/Mayandev/notion-avatar",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ikea-low-price",
+          "fullName": "Mayandev/ikea-low-price",
+          "stars": 429,
+          "url": "https://github.com/Mayandev/ikea-low-price",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "classmate-map",
+          "fullName": "Mayandev/classmate-map",
+          "stars": 156,
+          "url": "https://github.com/Mayandev/classmate-map",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

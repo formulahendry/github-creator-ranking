@@ -1,0 +1,62 @@
+{
+  "login": "johnlindquist",
+  "name": "John Lindquist",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/36073?v=4",
+  "htmlUrl": "https://github.com/johnlindquist",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 5447,
+      "repoCountPrimary": 5,
+      "starsContains": 5447,
+      "repoCountContains": 5,
+      "globalRank": 450,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "kit",
+          "fullName": "johnlindquist/kit",
+          "stars": 4189,
+          "url": "https://github.com/johnlindquist/kit",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "mdflow",
+          "fullName": "johnlindquist/mdflow",
+          "stars": 586,
+          "url": "https://github.com/johnlindquist/mdflow",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "claude-hooks",
+          "fullName": "johnlindquist/claude-hooks",
+          "stars": 377,
+          "url": "https://github.com/johnlindquist/claude-hooks",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "worktree-cli",
+          "fullName": "johnlindquist/worktree-cli",
+          "stars": 157,
+          "url": "https://github.com/johnlindquist/worktree-cli",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "dotagent",
+          "fullName": "johnlindquist/dotagent",
+          "stars": 138,
+          "url": "https://github.com/johnlindquist/dotagent",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

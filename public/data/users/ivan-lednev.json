@@ -1,0 +1,48 @@
+{
+  "login": "ivan-lednev",
+  "name": "Ivan Lednev",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/41428836?v=4",
+  "htmlUrl": "https://github.com/ivan-lednev",
+  "location": "Kraków",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3166,
+      "repoCountPrimary": 3,
+      "starsContains": 3166,
+      "repoCountContains": 3,
+      "globalRank": 849,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "obsidian-day-planner",
+          "fullName": "ivan-lednev/obsidian-day-planner",
+          "stars": 2648,
+          "url": "https://github.com/ivan-lednev/obsidian-day-planner",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "better-search-views",
+          "fullName": "ivan-lednev/better-search-views",
+          "stars": 354,
+          "url": "https://github.com/ivan-lednev/better-search-views",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "obsidian-task-archiver",
+          "fullName": "ivan-lednev/obsidian-task-archiver",
+          "stars": 164,
+          "url": "https://github.com/ivan-lednev/obsidian-task-archiver",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

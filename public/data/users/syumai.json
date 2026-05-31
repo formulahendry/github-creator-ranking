@@ -1,0 +1,41 @@
+{
+  "login": "syumai",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6882878?v=4",
+  "htmlUrl": "https://github.com/syumai",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 561,
+      "repoCountPrimary": 2,
+      "starsContains": 561,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "dinatra",
+          "fullName": "syumai/dinatra",
+          "stars": 415,
+          "url": "https://github.com/syumai/dinatra",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "dejs",
+          "fullName": "syumai/dejs",
+          "stars": 146,
+          "url": "https://github.com/syumai/dejs",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

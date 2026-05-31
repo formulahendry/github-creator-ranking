@@ -1,0 +1,34 @@
+{
+  "login": "AlexBieg",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/11547509?v=4",
+  "htmlUrl": "https://github.com/AlexBieg",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 184,
+      "repoCountPrimary": 1,
+      "starsContains": 184,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "obsidian-better-command-palette",
+          "fullName": "AlexBieg/obsidian-better-command-palette",
+          "stars": 184,
+          "url": "https://github.com/AlexBieg/obsidian-better-command-palette",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "galnir",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/36937694?v=4",
+  "htmlUrl": "https://github.com/galnir",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 490,
+      "repoCountPrimary": 1,
+      "starsContains": 490,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Master-Bot",
+          "fullName": "galnir/Master-Bot",
+          "stars": 490,
+          "url": "https://github.com/galnir/Master-Bot",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

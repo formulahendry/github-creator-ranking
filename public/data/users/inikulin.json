@@ -1,0 +1,34 @@
+{
+  "login": "inikulin",
+  "name": "Ivan Nikulin",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/453071?v=4",
+  "htmlUrl": "https://github.com/inikulin",
+  "location": "London, UK",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3897,
+      "repoCountPrimary": 1,
+      "starsContains": 3897,
+      "repoCountContains": 1,
+      "globalRank": 683,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "parse5",
+          "fullName": "inikulin/parse5",
+          "stars": 3897,
+          "url": "https://github.com/inikulin/parse5",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

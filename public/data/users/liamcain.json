@@ -1,0 +1,62 @@
+{
+  "login": "liamcain",
+  "name": "Liam Cain",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/693981?v=4",
+  "htmlUrl": "https://github.com/liamcain",
+  "location": "NYC",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 4185,
+      "repoCountPrimary": 6,
+      "starsContains": 4185,
+      "repoCountContains": 6,
+      "globalRank": 623,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "obsidian-calendar-plugin",
+          "fullName": "liamcain/obsidian-calendar-plugin",
+          "stars": 2179,
+          "url": "https://github.com/liamcain/obsidian-calendar-plugin",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "obsidian-periodic-notes",
+          "fullName": "liamcain/obsidian-periodic-notes",
+          "stars": 1330,
+          "url": "https://github.com/liamcain/obsidian-periodic-notes",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "obsidian-creases",
+          "fullName": "liamcain/obsidian-creases",
+          "stars": 288,
+          "url": "https://github.com/liamcain/obsidian-creases",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "obsidian-lapel",
+          "fullName": "liamcain/obsidian-lapel",
+          "stars": 143,
+          "url": "https://github.com/liamcain/obsidian-lapel",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "obsidian-things-logbook",
+          "fullName": "liamcain/obsidian-things-logbook",
+          "stars": 139,
+          "url": "https://github.com/liamcain/obsidian-things-logbook",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

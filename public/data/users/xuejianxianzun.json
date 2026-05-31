@@ -1,0 +1,41 @@
+{
+  "login": "xuejianxianzun",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/17283977?v=4",
+  "htmlUrl": "https://github.com/xuejianxianzun",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 6301,
+      "repoCountPrimary": 2,
+      "starsContains": 6301,
+      "repoCountContains": 2,
+      "globalRank": 374,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "PixivBatchDownloader",
+          "fullName": "xuejianxianzun/PixivBatchDownloader",
+          "stars": 5304,
+          "url": "https://github.com/xuejianxianzun/PixivBatchDownloader",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "PixivFanboxDownloader",
+          "fullName": "xuejianxianzun/PixivFanboxDownloader",
+          "stars": 997,
+          "url": "https://github.com/xuejianxianzun/PixivFanboxDownloader",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

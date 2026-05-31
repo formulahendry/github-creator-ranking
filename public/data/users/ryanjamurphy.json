@@ -1,0 +1,62 @@
+{
+  "login": "ryanjamurphy",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3618647?v=4",
+  "htmlUrl": "https://github.com/ryanjamurphy",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 642,
+      "repoCountPrimary": 5,
+      "starsContains": 642,
+      "repoCountContains": 5,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "review-obsidian",
+          "fullName": "ryanjamurphy/review-obsidian",
+          "stars": 162,
+          "url": "https://github.com/ryanjamurphy/review-obsidian",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "lumberjack-obsidian",
+          "fullName": "ryanjamurphy/lumberjack-obsidian",
+          "stars": 138,
+          "url": "https://github.com/ryanjamurphy/lumberjack-obsidian",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "workbench-obsidian",
+          "fullName": "ryanjamurphy/workbench-obsidian",
+          "stars": 123,
+          "url": "https://github.com/ryanjamurphy/workbench-obsidian",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vantage-obsidian",
+          "fullName": "ryanjamurphy/vantage-obsidian",
+          "stars": 114,
+          "url": "https://github.com/ryanjamurphy/vantage-obsidian",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "DEVONlink-obsidian",
+          "fullName": "ryanjamurphy/DEVONlink-obsidian",
+          "stars": 105,
+          "url": "https://github.com/ryanjamurphy/DEVONlink-obsidian",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

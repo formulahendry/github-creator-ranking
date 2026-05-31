@@ -1,0 +1,34 @@
+{
+  "login": "svsool",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1452141?v=4",
+  "htmlUrl": "https://github.com/svsool",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 875,
+      "repoCountPrimary": 1,
+      "starsContains": 875,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "memo",
+          "fullName": "svsool/memo",
+          "stars": 875,
+          "url": "https://github.com/svsool/memo",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

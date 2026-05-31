@@ -1,0 +1,41 @@
+{
+  "login": "zheeeng",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1303154?v=4",
+  "htmlUrl": "https://github.com/zheeeng",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 288,
+      "repoCountPrimary": 2,
+      "starsContains": 288,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "export-from-json",
+          "fullName": "zheeeng/export-from-json",
+          "stars": 180,
+          "url": "https://github.com/zheeeng/export-from-json",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-device-frameset",
+          "fullName": "zheeeng/react-device-frameset",
+          "stars": 108,
+          "url": "https://github.com/zheeeng/react-device-frameset",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "jeddygong",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/64977484?v=4",
+  "htmlUrl": "https://github.com/jeddygong",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 999,
+      "repoCountPrimary": 2,
+      "starsContains": 999,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vite-templates",
+          "fullName": "jeddygong/vite-templates",
+          "stars": 800,
+          "url": "https://github.com/jeddygong/vite-templates",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vite-plugin-progress",
+          "fullName": "jeddygong/vite-plugin-progress",
+          "stars": 199,
+          "url": "https://github.com/jeddygong/vite-plugin-progress",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

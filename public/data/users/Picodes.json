@@ -1,0 +1,34 @@
+{
+  "login": "Picodes",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/41673773?v=4",
+  "htmlUrl": "https://github.com/Picodes",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 553,
+      "repoCountPrimary": 1,
+      "starsContains": 553,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "4naly3er",
+          "fullName": "Picodes/4naly3er",
+          "stars": 553,
+          "url": "https://github.com/Picodes/4naly3er",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

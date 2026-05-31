@@ -1,0 +1,34 @@
+{
+  "login": "james-wallis",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/17385115?v=4",
+  "htmlUrl": "https://github.com/james-wallis",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 172,
+      "repoCountPrimary": 1,
+      "starsContains": 172,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "wallis.dev",
+          "fullName": "james-wallis/wallis.dev",
+          "stars": 172,
+          "url": "https://github.com/james-wallis/wallis.dev",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "krasun",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/368415?v=4",
+  "htmlUrl": "https://github.com/krasun",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 204,
+      "repoCountPrimary": 1,
+      "starsContains": 204,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "howbrowserswork",
+          "fullName": "krasun/howbrowserswork",
+          "stars": 204,
+          "url": "https://github.com/krasun/howbrowserswork",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

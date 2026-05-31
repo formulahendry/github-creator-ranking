@@ -1,0 +1,41 @@
+{
+  "login": "MultiMote",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/8068160?v=4",
+  "htmlUrl": "https://github.com/MultiMote",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 744,
+      "repoCountPrimary": 2,
+      "starsContains": 744,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "niimblue",
+          "fullName": "MultiMote/niimblue",
+          "stars": 626,
+          "url": "https://github.com/MultiMote/niimblue",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "niimbluelib",
+          "fullName": "MultiMote/niimbluelib",
+          "stars": 118,
+          "url": "https://github.com/MultiMote/niimbluelib",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

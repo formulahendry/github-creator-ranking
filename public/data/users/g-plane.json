@@ -1,0 +1,55 @@
+{
+  "login": "g-plane",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/17216317?v=4",
+  "htmlUrl": "https://github.com/g-plane",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1799,
+      "repoCountPrimary": 4,
+      "starsContains": 1799,
+      "repoCountContains": 4,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "typed-query-selector",
+          "fullName": "g-plane/typed-query-selector",
+          "stars": 781,
+          "url": "https://github.com/g-plane/typed-query-selector",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "tiny-package-manager",
+          "fullName": "g-plane/tiny-package-manager",
+          "stars": 457,
+          "url": "https://github.com/g-plane/tiny-package-manager",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "type-gymnastics",
+          "fullName": "g-plane/type-gymnastics",
+          "stars": 385,
+          "url": "https://github.com/g-plane/type-gymnastics",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "rize",
+          "fullName": "g-plane/rize",
+          "stars": 176,
+          "url": "https://github.com/g-plane/rize",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

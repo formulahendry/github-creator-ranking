@@ -1,0 +1,62 @@
+{
+  "login": "Anarkh-Lee",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/32814128?v=4",
+  "htmlUrl": "https://github.com/Anarkh-Lee",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1752,
+      "repoCountPrimary": 5,
+      "starsContains": 1752,
+      "repoCountContains": 5,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "universal-db-mcp",
+          "fullName": "Anarkh-Lee/universal-db-mcp",
+          "stars": 813,
+          "url": "https://github.com/Anarkh-Lee/universal-db-mcp",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "nginx-flow",
+          "fullName": "Anarkh-Lee/nginx-flow",
+          "stars": 458,
+          "url": "https://github.com/Anarkh-Lee/nginx-flow",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "resume-alchemist",
+          "fullName": "Anarkh-Lee/resume-alchemist",
+          "stars": 259,
+          "url": "https://github.com/Anarkh-Lee/resume-alchemist",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "visual-docker-compose",
+          "fullName": "Anarkh-Lee/visual-docker-compose",
+          "stars": 116,
+          "url": "https://github.com/Anarkh-Lee/visual-docker-compose",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "resume-polish",
+          "fullName": "Anarkh-Lee/resume-polish",
+          "stars": 106,
+          "url": "https://github.com/Anarkh-Lee/resume-polish",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

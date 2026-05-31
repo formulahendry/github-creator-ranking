@@ -1,0 +1,55 @@
+{
+  "login": "kingbootoshi",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/127834715?v=4",
+  "htmlUrl": "https://github.com/kingbootoshi",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1374,
+      "repoCountPrimary": 4,
+      "starsContains": 1374,
+      "repoCountContains": 4,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "cartographer",
+          "fullName": "kingbootoshi/cartographer",
+          "stars": 585,
+          "url": "https://github.com/kingbootoshi/cartographer",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "nano-banana-2-skill",
+          "fullName": "kingbootoshi/nano-banana-2-skill",
+          "stars": 381,
+          "url": "https://github.com/kingbootoshi/nano-banana-2-skill",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "codex-orchestrator",
+          "fullName": "kingbootoshi/codex-orchestrator",
+          "stars": 304,
+          "url": "https://github.com/kingbootoshi/codex-orchestrator",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "tla-precheck",
+          "fullName": "kingbootoshi/tla-precheck",
+          "stars": 104,
+          "url": "https://github.com/kingbootoshi/tla-precheck",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "benrbray",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/221963?v=4",
+  "htmlUrl": "https://github.com/benrbray",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 558,
+      "repoCountPrimary": 2,
+      "starsContains": 558,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "prosemirror-math",
+          "fullName": "benrbray/prosemirror-math",
+          "stars": 299,
+          "url": "https://github.com/benrbray/prosemirror-math",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "noteworthy",
+          "fullName": "benrbray/noteworthy",
+          "stars": 259,
+          "url": "https://github.com/benrbray/noteworthy",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

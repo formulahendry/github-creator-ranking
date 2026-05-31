@@ -1,0 +1,55 @@
+{
+  "login": "anuraghazra",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/35374649?v=4",
+  "htmlUrl": "https://github.com/anuraghazra",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 951,
+      "repoCountPrimary": 4,
+      "starsContains": 951,
+      "repoCountContains": 4,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "type-trident",
+          "fullName": "anuraghazra/type-trident",
+          "stars": 357,
+          "url": "https://github.com/anuraghazra/type-trident",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "BugVilla",
+          "fullName": "anuraghazra/BugVilla",
+          "stars": 233,
+          "url": "https://github.com/anuraghazra/BugVilla",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "convoychat",
+          "fullName": "anuraghazra/convoychat",
+          "stars": 213,
+          "url": "https://github.com/anuraghazra/convoychat",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "typelevel-parser",
+          "fullName": "anuraghazra/typelevel-parser",
+          "stars": 148,
+          "url": "https://github.com/anuraghazra/typelevel-parser",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "xiaoluoboding",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6118824?v=4",
+  "htmlUrl": "https://github.com/xiaoluoboding",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 154,
+      "repoCountPrimary": 1,
+      "starsContains": 154,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "chrome-ext-starter",
+          "fullName": "xiaoluoboding/chrome-ext-starter",
+          "stars": 154,
+          "url": "https://github.com/xiaoluoboding/chrome-ext-starter",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "login": "btahir",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/10962432?v=4",
+  "htmlUrl": "https://github.com/btahir",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2670,
+      "repoCountPrimary": 4,
+      "starsContains": 2670,
+      "repoCountContains": 4,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "open-deep-research",
+          "fullName": "btahir/open-deep-research",
+          "stars": 2137,
+          "url": "https://github.com/btahir/open-deep-research",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-kino",
+          "fullName": "btahir/react-kino",
+          "stars": 204,
+          "url": "https://github.com/btahir/react-kino",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "auntie-pdf",
+          "fullName": "btahir/auntie-pdf",
+          "stars": 167,
+          "url": "https://github.com/btahir/auntie-pdf",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "next-beats",
+          "fullName": "btahir/next-beats",
+          "stars": 162,
+          "url": "https://github.com/btahir/next-beats",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

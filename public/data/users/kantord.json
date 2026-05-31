@@ -1,0 +1,34 @@
+{
+  "login": "kantord",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3704904?v=4",
+  "htmlUrl": "https://github.com/kantord",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1577,
+      "repoCountPrimary": 1,
+      "starsContains": 1577,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "just-dashboard",
+          "fullName": "kantord/just-dashboard",
+          "stars": 1577,
+          "url": "https://github.com/kantord/just-dashboard",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

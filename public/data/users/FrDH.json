@@ -1,0 +1,41 @@
+{
+  "login": "FrDH",
+  "name": "Fred Heusschen",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1387163?v=4",
+  "htmlUrl": "https://github.com/FrDH",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 4285,
+      "repoCountPrimary": 2,
+      "starsContains": 4285,
+      "repoCountContains": 2,
+      "globalRank": 605,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "mmenu-js",
+          "fullName": "FrDH/mmenu-js",
+          "stars": 2575,
+          "url": "https://github.com/FrDH/mmenu-js",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "dotdotdot-js",
+          "fullName": "FrDH/dotdotdot-js",
+          "stars": 1710,
+          "url": "https://github.com/FrDH/dotdotdot-js",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

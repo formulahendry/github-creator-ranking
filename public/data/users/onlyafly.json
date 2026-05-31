@@ -1,0 +1,34 @@
+{
+  "login": "onlyafly",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/46181?v=4",
+  "htmlUrl": "https://github.com/onlyafly",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 154,
+      "repoCountPrimary": 1,
+      "starsContains": 154,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "number-headings-obsidian",
+          "fullName": "onlyafly/number-headings-obsidian",
+          "stars": 154,
+          "url": "https://github.com/onlyafly/number-headings-obsidian",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

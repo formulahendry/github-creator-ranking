@@ -1,0 +1,48 @@
+{
+  "login": "ajnart",
+  "name": "Thomas",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/49837342?v=4",
+  "htmlUrl": "https://github.com/ajnart",
+  "location": "Paris, France",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 9140,
+      "repoCountPrimary": 3,
+      "starsContains": 9140,
+      "repoCountContains": 3,
+      "globalRank": 250,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "homarr",
+          "fullName": "ajnart/homarr",
+          "stars": 7202,
+          "url": "https://github.com/ajnart/homarr",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "dcm",
+          "fullName": "ajnart/dcm",
+          "stars": 1432,
+          "url": "https://github.com/ajnart/dcm",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "subs",
+          "fullName": "ajnart/subs",
+          "stars": 506,
+          "url": "https://github.com/ajnart/subs",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

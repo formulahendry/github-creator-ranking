@@ -1,0 +1,34 @@
+{
+  "login": "LOG1997",
+  "name": "LOG1997",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/26322485?v=4",
+  "htmlUrl": "https://github.com/LOG1997",
+  "location": "Chengdu,China",
+  "countryCode": "CN",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3323,
+      "repoCountPrimary": 1,
+      "starsContains": 3323,
+      "repoCountContains": 1,
+      "globalRank": 815,
+      "countryRank": 92,
+      "topRepos": [
+        {
+          "name": "log-lottery",
+          "fullName": "LOG1997/log-lottery",
+          "stars": 3323,
+          "url": "https://github.com/LOG1997/log-lottery",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

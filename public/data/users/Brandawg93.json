@@ -1,0 +1,41 @@
+{
+  "login": "Brandawg93",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6525520?v=4",
+  "htmlUrl": "https://github.com/Brandawg93",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1692,
+      "repoCountPrimary": 2,
+      "starsContains": 1692,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "PeaNUT",
+          "fullName": "Brandawg93/PeaNUT",
+          "stars": 1475,
+          "url": "https://github.com/Brandawg93/PeaNUT",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "homebridge-nest-cam",
+          "fullName": "Brandawg93/homebridge-nest-cam",
+          "stars": 217,
+          "url": "https://github.com/Brandawg93/homebridge-nest-cam",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

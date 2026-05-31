@@ -1,0 +1,34 @@
+{
+  "login": "Seb-C",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2553075?v=4",
+  "htmlUrl": "https://github.com/Seb-C",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 473,
+      "repoCountPrimary": 1,
+      "starsContains": 473,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "kiss-orm",
+          "fullName": "Seb-C/kiss-orm",
+          "stars": 473,
+          "url": "https://github.com/Seb-C/kiss-orm",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

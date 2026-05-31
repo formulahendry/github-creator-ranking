@@ -1,0 +1,34 @@
+{
+  "login": "szwacz",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/4573903?v=4",
+  "htmlUrl": "https://github.com/szwacz",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 786,
+      "repoCountPrimary": 1,
+      "starsContains": 786,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "fs-jetpack",
+          "fullName": "szwacz/fs-jetpack",
+          "stars": 786,
+          "url": "https://github.com/szwacz/fs-jetpack",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

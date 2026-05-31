@@ -1,0 +1,34 @@
+{
+  "login": "bonejohnson8",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/130131082?v=4",
+  "htmlUrl": "https://github.com/bonejohnson8",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 132,
+      "repoCountPrimary": 1,
+      "starsContains": 132,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "BONERBOTS-OPEN-SOURCE-PUBLIC-v1.0",
+          "fullName": "bonejohnson8/BONERBOTS-OPEN-SOURCE-PUBLIC-v1.0",
+          "stars": 132,
+          "url": "https://github.com/bonejohnson8/BONERBOTS-OPEN-SOURCE-PUBLIC-v1.0",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

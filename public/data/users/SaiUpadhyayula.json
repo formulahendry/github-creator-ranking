@@ -1,0 +1,41 @@
+{
+  "login": "SaiUpadhyayula",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/4116717?v=4",
+  "htmlUrl": "https://github.com/SaiUpadhyayula",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 314,
+      "repoCountPrimary": 2,
+      "starsContains": 314,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "angular-reddit-clone",
+          "fullName": "SaiUpadhyayula/angular-reddit-clone",
+          "stars": 192,
+          "url": "https://github.com/SaiUpadhyayula/angular-reddit-clone",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "spring-security-oauth2-keycloak-demo",
+          "fullName": "SaiUpadhyayula/spring-security-oauth2-keycloak-demo",
+          "stars": 122,
+          "url": "https://github.com/SaiUpadhyayula/spring-security-oauth2-keycloak-demo",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

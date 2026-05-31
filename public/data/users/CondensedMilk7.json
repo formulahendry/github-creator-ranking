@@ -1,0 +1,34 @@
+{
+  "login": "CondensedMilk7",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/82287873?v=4",
+  "htmlUrl": "https://github.com/CondensedMilk7",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 116,
+      "repoCountPrimary": 1,
+      "starsContains": 116,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "countryfetch-deno",
+          "fullName": "CondensedMilk7/countryfetch-deno",
+          "stars": 116,
+          "url": "https://github.com/CondensedMilk7/countryfetch-deno",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

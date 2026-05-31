@@ -1,0 +1,34 @@
+{
+  "login": "niceit",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3917898?v=4",
+  "htmlUrl": "https://github.com/niceit",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 140,
+      "repoCountPrimary": 1,
+      "starsContains": 140,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "tabby-cloud-sync-settings",
+          "fullName": "niceit/tabby-cloud-sync-settings",
+          "stars": 140,
+          "url": "https://github.com/niceit/tabby-cloud-sync-settings",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

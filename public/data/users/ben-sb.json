@@ -1,0 +1,41 @@
+{
+  "login": "ben-sb",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/37311363?v=4",
+  "htmlUrl": "https://github.com/ben-sb",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1899,
+      "repoCountPrimary": 2,
+      "starsContains": 1899,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "javascript-deobfuscator",
+          "fullName": "ben-sb/javascript-deobfuscator",
+          "stars": 1116,
+          "url": "https://github.com/ben-sb/javascript-deobfuscator",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "obfuscator-io-deobfuscator",
+          "fullName": "ben-sb/obfuscator-io-deobfuscator",
+          "stars": 783,
+          "url": "https://github.com/ben-sb/obfuscator-io-deobfuscator",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "flexbox",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/360936?v=4",
+  "htmlUrl": "https://github.com/flexbox",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 253,
+      "repoCountPrimary": 1,
+      "starsContains": 253,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-native-bootcamp",
+          "fullName": "flexbox/react-native-bootcamp",
+          "stars": 253,
+          "url": "https://github.com/flexbox/react-native-bootcamp",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

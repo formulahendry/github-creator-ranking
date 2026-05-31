@@ -1,0 +1,41 @@
+{
+  "login": "spacejack",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/11592867?v=4",
+  "htmlUrl": "https://github.com/spacejack",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 624,
+      "repoCountPrimary": 2,
+      "starsContains": 624,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "terra",
+          "fullName": "spacejack/terra",
+          "stars": 522,
+          "url": "https://github.com/spacejack/terra",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "poaceae",
+          "fullName": "spacejack/poaceae",
+          "stars": 102,
+          "url": "https://github.com/spacejack/poaceae",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

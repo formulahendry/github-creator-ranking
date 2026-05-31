@@ -1,0 +1,34 @@
+{
+  "login": "NightCatSama",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/13888962?v=4",
+  "htmlUrl": "https://github.com/NightCatSama",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2423,
+      "repoCountPrimary": 1,
+      "starsContains": 2423,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vue-slider-component",
+          "fullName": "NightCatSama/vue-slider-component",
+          "stars": 2423,
+          "url": "https://github.com/NightCatSama/vue-slider-component",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

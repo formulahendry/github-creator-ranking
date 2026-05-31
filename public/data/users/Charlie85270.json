@@ -1,0 +1,41 @@
+{
+  "login": "Charlie85270",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/34569321?v=4",
+  "htmlUrl": "https://github.com/Charlie85270",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3266,
+      "repoCountPrimary": 2,
+      "starsContains": 3266,
+      "repoCountContains": 2,
+      "globalRank": 827,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "tail-kit",
+          "fullName": "Charlie85270/tail-kit",
+          "stars": 2973,
+          "url": "https://github.com/Charlie85270/tail-kit",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Dorothy",
+          "fullName": "Charlie85270/Dorothy",
+          "stars": 293,
+          "url": "https://github.com/Charlie85270/Dorothy",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

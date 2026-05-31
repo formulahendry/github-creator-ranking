@@ -1,0 +1,41 @@
+{
+  "login": "ad-on-is",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/9553253?v=4",
+  "htmlUrl": "https://github.com/ad-on-is",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1145,
+      "repoCountPrimary": 2,
+      "starsContains": 1145,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "rachoon",
+          "fullName": "ad-on-is/rachoon",
+          "stars": 949,
+          "url": "https://github.com/ad-on-is/rachoon",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "adonis-autoswagger",
+          "fullName": "ad-on-is/adonis-autoswagger",
+          "stars": 196,
+          "url": "https://github.com/ad-on-is/adonis-autoswagger",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

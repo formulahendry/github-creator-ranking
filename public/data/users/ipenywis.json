@@ -1,0 +1,55 @@
+{
+  "login": "ipenywis",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/13965825?v=4",
+  "htmlUrl": "https://github.com/ipenywis",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1350,
+      "repoCountPrimary": 4,
+      "starsContains": 1350,
+      "repoCountContains": 4,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-solid",
+          "fullName": "ipenywis/react-solid",
+          "stars": 588,
+          "url": "https://github.com/ipenywis/react-solid",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-nestjs-full-web-app",
+          "fullName": "ipenywis/react-nestjs-full-web-app",
+          "stars": 410,
+          "url": "https://github.com/ipenywis/react-nestjs-full-web-app",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "nestjs-solid",
+          "fullName": "ipenywis/nestjs-solid",
+          "stars": 234,
+          "url": "https://github.com/ipenywis/nestjs-solid",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "clean-rest-apis",
+          "fullName": "ipenywis/clean-rest-apis",
+          "stars": 118,
+          "url": "https://github.com/ipenywis/clean-rest-apis",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

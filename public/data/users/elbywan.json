@@ -1,0 +1,34 @@
+{
+  "login": "elbywan",
+  "name": "Julien Elbaz",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3428394?v=4",
+  "htmlUrl": "https://github.com/elbywan",
+  "location": "Paris, France",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 5172,
+      "repoCountPrimary": 1,
+      "starsContains": 5172,
+      "repoCountContains": 1,
+      "globalRank": 482,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "wretch",
+          "fullName": "elbywan/wretch",
+          "stars": 5172,
+          "url": "https://github.com/elbywan/wretch",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

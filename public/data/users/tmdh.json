@@ -1,0 +1,34 @@
+{
+  "login": "tmdh",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/18123729?v=4",
+  "htmlUrl": "https://github.com/tmdh",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1317,
+      "repoCountPrimary": 1,
+      "starsContains": 1317,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "laravel-kit",
+          "fullName": "tmdh/laravel-kit",
+          "stars": 1317,
+          "url": "https://github.com/tmdh/laravel-kit",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

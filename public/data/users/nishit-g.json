@@ -1,0 +1,34 @@
+{
+  "login": "nishit-g",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/32142878?v=4",
+  "htmlUrl": "https://github.com/nishit-g",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 123,
+      "repoCountPrimary": 1,
+      "starsContains": 123,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "tokovo",
+          "fullName": "nishit-g/tokovo",
+          "stars": 123,
+          "url": "https://github.com/nishit-g/tokovo",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

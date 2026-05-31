@@ -1,0 +1,48 @@
+{
+  "login": "seehiong",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6965893?v=4",
+  "htmlUrl": "https://github.com/seehiong",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 342,
+      "repoCountPrimary": 3,
+      "starsContains": 342,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "noteflow",
+          "fullName": "seehiong/noteflow",
+          "stars": 116,
+          "url": "https://github.com/seehiong/noteflow",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "text-forge",
+          "fullName": "seehiong/text-forge",
+          "stars": 114,
+          "url": "https://github.com/seehiong/text-forge",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "multi-model-chat",
+          "fullName": "seehiong/multi-model-chat",
+          "stars": 112,
+          "url": "https://github.com/seehiong/multi-model-chat",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

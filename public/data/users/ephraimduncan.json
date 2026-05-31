@@ -1,0 +1,55 @@
+{
+  "login": "ephraimduncan",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/55143799?v=4",
+  "htmlUrl": "https://github.com/ephraimduncan",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2189,
+      "repoCountPrimary": 4,
+      "starsContains": 2189,
+      "repoCountContains": 4,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "blocks",
+          "fullName": "ephraimduncan/blocks",
+          "stars": 1624,
+          "url": "https://github.com/ephraimduncan/blocks",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "opencode-cursor",
+          "fullName": "ephraimduncan/opencode-cursor",
+          "stars": 228,
+          "url": "https://github.com/ephraimduncan/opencode-cursor",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "weekday",
+          "fullName": "ephraimduncan/weekday",
+          "stars": 178,
+          "url": "https://github.com/ephraimduncan/weekday",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "minimal.so",
+          "fullName": "ephraimduncan/minimal.so",
+          "stars": 159,
+          "url": "https://github.com/ephraimduncan/minimal.so",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "aaron-bond",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/14099631?v=4",
+  "htmlUrl": "https://github.com/aaron-bond",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 948,
+      "repoCountPrimary": 1,
+      "starsContains": 948,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "better-comments",
+          "fullName": "aaron-bond/better-comments",
+          "stars": 948,
+          "url": "https://github.com/aaron-bond/better-comments",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

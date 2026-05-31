@@ -1,11 +1,11 @@
 {
   "login": "lfnovo",
-  "name": null,
+  "name": "Luis Novo",
   "avatarUrl": "https://avatars.githubusercontent.com/u/579178?v=4",
   "htmlUrl": "https://github.com/lfnovo",
-  "location": null,
+  "location": "São Paulo, Brazil",
   "countryCode": null,
-  "generatedAt": "2026-05-31T13:50:40.799Z",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
   "isPartial": true,
   "languages": [
     {
@@ -14,17 +14,17 @@
         "name": "TypeScript",
         "githubQuery": "TypeScript"
       },
-      "starsPrimary": 23936,
+      "starsPrimary": 23948,
       "repoCountPrimary": 1,
-      "starsContains": 23936,
+      "starsContains": 23948,
       "repoCountContains": 1,
-      "globalRank": null,
+      "globalRank": 67,
       "countryRank": null,
       "topRepos": [
         {
           "name": "open-notebook",
           "fullName": "lfnovo/open-notebook",
-          "stars": 23936,
+          "stars": 23948,
           "url": "https://github.com/lfnovo/open-notebook",
           "primaryLanguage": "TypeScript"
         }

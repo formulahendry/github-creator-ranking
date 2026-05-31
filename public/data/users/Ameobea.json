@@ -1,0 +1,41 @@
+{
+  "login": "Ameobea",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/4335849?v=4",
+  "htmlUrl": "https://github.com/Ameobea",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 780,
+      "repoCountPrimary": 2,
+      "starsContains": 780,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "web-synth",
+          "fullName": "Ameobea/web-synth",
+          "stars": 556,
+          "url": "https://github.com/Ameobea/web-synth",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "three-good-godrays",
+          "fullName": "Ameobea/three-good-godrays",
+          "stars": 224,
+          "url": "https://github.com/Ameobea/three-good-godrays",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

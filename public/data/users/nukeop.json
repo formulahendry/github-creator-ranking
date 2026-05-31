@@ -1,0 +1,41 @@
+{
+  "login": "nukeop",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/12746779?v=4",
+  "htmlUrl": "https://github.com/nukeop",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 17942,
+      "repoCountPrimary": 2,
+      "starsContains": 17942,
+      "repoCountContains": 2,
+      "globalRank": 106,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "nuclear",
+          "fullName": "nukeop/nuclear",
+          "stars": 17702,
+          "url": "https://github.com/nukeop/nuclear",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-ui-cards",
+          "fullName": "nukeop/react-ui-cards",
+          "stars": 240,
+          "url": "https://github.com/nukeop/react-ui-cards",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

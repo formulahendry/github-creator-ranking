@@ -1,0 +1,48 @@
+{
+  "login": "anatoliygatt",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/13481415?v=4",
+  "htmlUrl": "https://github.com/anatoliygatt",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 730,
+      "repoCountPrimary": 3,
+      "starsContains": 730,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "heart-switch",
+          "fullName": "anatoliygatt/heart-switch",
+          "stars": 452,
+          "url": "https://github.com/anatoliygatt/heart-switch",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "numeric-stepper",
+          "fullName": "anatoliygatt/numeric-stepper",
+          "stars": 159,
+          "url": "https://github.com/anatoliygatt/numeric-stepper",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "dark-mode-toggle",
+          "fullName": "anatoliygatt/dark-mode-toggle",
+          "stars": 119,
+          "url": "https://github.com/anatoliygatt/dark-mode-toggle",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

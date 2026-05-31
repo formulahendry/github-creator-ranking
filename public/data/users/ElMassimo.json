@@ -1,0 +1,55 @@
+{
+  "login": "ElMassimo",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1158253?v=4",
+  "htmlUrl": "https://github.com/ElMassimo",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1745,
+      "repoCountPrimary": 4,
+      "starsContains": 1745,
+      "repoCountContains": 4,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "iles",
+          "fullName": "ElMassimo/iles",
+          "stars": 1147,
+          "url": "https://github.com/ElMassimo/iles",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vite-plugin-image-presets",
+          "fullName": "ElMassimo/vite-plugin-image-presets",
+          "stars": 264,
+          "url": "https://github.com/ElMassimo/vite-plugin-image-presets",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vite-plugin-full-reload",
+          "fullName": "ElMassimo/vite-plugin-full-reload",
+          "stars": 174,
+          "url": "https://github.com/ElMassimo/vite-plugin-full-reload",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vite-plugin-environment",
+          "fullName": "ElMassimo/vite-plugin-environment",
+          "stars": 160,
+          "url": "https://github.com/ElMassimo/vite-plugin-environment",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

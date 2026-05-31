@@ -1,0 +1,41 @@
+{
+  "login": "TianyiDataScience",
+  "name": "Tianyi",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/119813959?v=4",
+  "htmlUrl": "https://github.com/TianyiDataScience",
+  "location": "France",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 4128,
+      "repoCountPrimary": 2,
+      "starsContains": 4128,
+      "repoCountContains": 2,
+      "globalRank": 632,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "openclaw-control-center",
+          "fullName": "TianyiDataScience/openclaw-control-center",
+          "stars": 3981,
+          "url": "https://github.com/TianyiDataScience/openclaw-control-center",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "DataViz",
+          "fullName": "TianyiDataScience/DataViz",
+          "stars": 147,
+          "url": "https://github.com/TianyiDataScience/DataViz",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

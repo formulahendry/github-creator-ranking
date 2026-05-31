@@ -1,0 +1,62 @@
+{
+  "login": "sindresorhus",
+  "name": "Sindre Sorhus",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/170270?v=4",
+  "htmlUrl": "https://github.com/sindresorhus",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 97187,
+      "repoCountPrimary": 27,
+      "starsContains": 97187,
+      "repoCountContains": 27,
+      "globalRank": 3,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "type-fest",
+          "fullName": "sindresorhus/type-fest",
+          "stars": 17172,
+          "url": "https://github.com/sindresorhus/type-fest",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ky",
+          "fullName": "sindresorhus/ky",
+          "stars": 16896,
+          "url": "https://github.com/sindresorhus/ky",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "got",
+          "fullName": "sindresorhus/got",
+          "stars": 14909,
+          "url": "https://github.com/sindresorhus/got",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "pageres",
+          "fullName": "sindresorhus/pageres",
+          "stars": 9746,
+          "url": "https://github.com/sindresorhus/pageres",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "caprine",
+          "fullName": "sindresorhus/caprine",
+          "stars": 7370,
+          "url": "https://github.com/sindresorhus/caprine",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

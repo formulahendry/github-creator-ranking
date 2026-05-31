@@ -1,0 +1,34 @@
+{
+  "login": "winterbe",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/485033?v=4",
+  "htmlUrl": "https://github.com/winterbe",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 345,
+      "repoCountPrimary": 1,
+      "starsContains": 345,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "sequency",
+          "fullName": "winterbe/sequency",
+          "stars": 345,
+          "url": "https://github.com/winterbe/sequency",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

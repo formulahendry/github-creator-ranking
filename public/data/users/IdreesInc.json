@@ -1,0 +1,34 @@
+{
+  "login": "IdreesInc",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/4875804?v=4",
+  "htmlUrl": "https://github.com/IdreesInc",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 834,
+      "repoCountPrimary": 1,
+      "starsContains": 834,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Waypoint",
+          "fullName": "IdreesInc/Waypoint",
+          "stars": 834,
+          "url": "https://github.com/IdreesInc/Waypoint",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

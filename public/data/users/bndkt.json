@@ -1,0 +1,55 @@
+{
+  "login": "bndkt",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/91166910?v=4",
+  "htmlUrl": "https://github.com/bndkt",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1862,
+      "repoCountPrimary": 4,
+      "starsContains": 1862,
+      "repoCountContains": 4,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-native-app-clip",
+          "fullName": "bndkt/react-native-app-clip",
+          "stars": 651,
+          "url": "https://github.com/bndkt/react-native-app-clip",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-native-widget-extension",
+          "fullName": "bndkt/react-native-widget-extension",
+          "stars": 562,
+          "url": "https://github.com/bndkt/react-native-widget-extension",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "sharemystack",
+          "fullName": "bndkt/sharemystack",
+          "stars": 388,
+          "url": "https://github.com/bndkt/sharemystack",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "kotekan",
+          "fullName": "bndkt/kotekan",
+          "stars": 261,
+          "url": "https://github.com/bndkt/kotekan",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

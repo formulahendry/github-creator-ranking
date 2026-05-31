@@ -1,0 +1,34 @@
+{
+  "login": "tas33n",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/55633040?v=4",
+  "htmlUrl": "https://github.com/tas33n",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 146,
+      "repoCountPrimary": 1,
+      "starsContains": 146,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Miyomi",
+          "fullName": "tas33n/Miyomi",
+          "stars": 146,
+          "url": "https://github.com/tas33n/Miyomi",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

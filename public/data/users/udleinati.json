@@ -1,0 +1,34 @@
+{
+  "login": "udleinati",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/302277?v=4",
+  "htmlUrl": "https://github.com/udleinati",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 272,
+      "repoCountPrimary": 1,
+      "starsContains": 272,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "redirect.center",
+          "fullName": "udleinati/redirect.center",
+          "stars": 272,
+          "url": "https://github.com/udleinati/redirect.center",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

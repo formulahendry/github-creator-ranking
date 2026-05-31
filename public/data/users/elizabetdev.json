@@ -1,0 +1,34 @@
+{
+  "login": "elizabetdev",
+  "name": "Elizabet Oliveira",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2750668?v=4",
+  "htmlUrl": "https://github.com/elizabetdev",
+  "location": "Lisbon, Portugal",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2949,
+      "repoCountPrimary": 1,
+      "starsContains": 2949,
+      "repoCountContains": 1,
+      "globalRank": 917,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-kawaii",
+          "fullName": "elizabetdev/react-kawaii",
+          "stars": 2949,
+          "url": "https://github.com/elizabetdev/react-kawaii",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

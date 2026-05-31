@@ -1,0 +1,41 @@
+{
+  "login": "fitchmultz",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/57411549?v=4",
+  "htmlUrl": "https://github.com/fitchmultz",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 251,
+      "repoCountPrimary": 2,
+      "starsContains": 251,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "pi-cursor-sdk",
+          "fullName": "fitchmultz/pi-cursor-sdk",
+          "stars": 151,
+          "url": "https://github.com/fitchmultz/pi-cursor-sdk",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "pi-agent-browser-native",
+          "fullName": "fitchmultz/pi-agent-browser-native",
+          "stars": 100,
+          "url": "https://github.com/fitchmultz/pi-agent-browser-native",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

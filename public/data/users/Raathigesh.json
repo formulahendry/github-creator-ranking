@@ -1,0 +1,62 @@
+{
+  "login": "Raathigesh",
+  "name": "Raathi Kugarajan",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3108160?v=4",
+  "htmlUrl": "https://github.com/Raathigesh",
+  "location": "Sydney, Australia",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 10818,
+      "repoCountPrimary": 5,
+      "starsContains": 10818,
+      "repoCountContains": 5,
+      "globalRank": 196,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "majestic",
+          "fullName": "Raathigesh/majestic",
+          "stars": 7458,
+          "url": "https://github.com/Raathigesh/majestic",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "retoggle",
+          "fullName": "Raathigesh/retoggle",
+          "stars": 1372,
+          "url": "https://github.com/Raathigesh/retoggle",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "fabulous",
+          "fullName": "Raathigesh/fabulous",
+          "stars": 999,
+          "url": "https://github.com/Raathigesh/fabulous",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "atmo",
+          "fullName": "Raathigesh/atmo",
+          "stars": 813,
+          "url": "https://github.com/Raathigesh/atmo",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "waypoint",
+          "fullName": "Raathigesh/waypoint",
+          "stars": 176,
+          "url": "https://github.com/Raathigesh/waypoint",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

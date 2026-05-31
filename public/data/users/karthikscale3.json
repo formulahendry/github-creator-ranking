@@ -1,0 +1,41 @@
+{
+  "login": "karthikscale3",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/105607645?v=4",
+  "htmlUrl": "https://github.com/karthikscale3",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 481,
+      "repoCountPrimary": 2,
+      "starsContains": 481,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "dspyground",
+          "fullName": "karthikscale3/dspyground",
+          "stars": 311,
+          "url": "https://github.com/karthikscale3/dspyground",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ctx-zip",
+          "fullName": "karthikscale3/ctx-zip",
+          "stars": 170,
+          "url": "https://github.com/karthikscale3/ctx-zip",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

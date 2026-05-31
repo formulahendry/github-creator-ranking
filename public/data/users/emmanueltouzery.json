@@ -1,0 +1,34 @@
+{
+  "login": "emmanueltouzery",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/339433?v=4",
+  "htmlUrl": "https://github.com/emmanueltouzery",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 383,
+      "repoCountPrimary": 1,
+      "starsContains": 383,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "prelude-ts",
+          "fullName": "emmanueltouzery/prelude-ts",
+          "stars": 383,
+          "url": "https://github.com/emmanueltouzery/prelude-ts",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

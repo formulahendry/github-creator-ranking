@@ -1,0 +1,41 @@
+{
+  "login": "Kinfe123",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/65047246?v=4",
+  "htmlUrl": "https://github.com/Kinfe123",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 342,
+      "repoCountPrimary": 2,
+      "starsContains": 342,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "better-auth-studio",
+          "fullName": "Kinfe123/better-auth-studio",
+          "stars": 223,
+          "url": "https://github.com/Kinfe123/better-auth-studio",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "better-auth-ui",
+          "fullName": "Kinfe123/better-auth-ui",
+          "stars": 119,
+          "url": "https://github.com/Kinfe123/better-auth-ui",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "seanprashad",
+  "name": "Sean Prashad",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/13009507?v=4",
+  "htmlUrl": "https://github.com/seanprashad",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 13052,
+      "repoCountPrimary": 1,
+      "starsContains": 13052,
+      "repoCountContains": 1,
+      "globalRank": 153,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "leetcode-patterns",
+          "fullName": "seanprashad/leetcode-patterns",
+          "stars": 13052,
+          "url": "https://github.com/seanprashad/leetcode-patterns",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

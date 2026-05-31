@@ -1,0 +1,41 @@
+{
+  "login": "pdsuwwz",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/19891724?v=4",
+  "htmlUrl": "https://github.com/pdsuwwz",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 855,
+      "repoCountPrimary": 2,
+      "starsContains": 855,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "chatgpt-vue3-light-mvp",
+          "fullName": "pdsuwwz/chatgpt-vue3-light-mvp",
+          "stars": 557,
+          "url": "https://github.com/pdsuwwz/chatgpt-vue3-light-mvp",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "nextjs-nextra-starter",
+          "fullName": "pdsuwwz/nextjs-nextra-starter",
+          "stars": 298,
+          "url": "https://github.com/pdsuwwz/nextjs-nextra-starter",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

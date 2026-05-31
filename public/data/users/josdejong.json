@@ -1,0 +1,55 @@
+{
+  "login": "josdejong",
+  "name": "Jos de Jong",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/568626?v=4",
+  "htmlUrl": "https://github.com/josdejong",
+  "location": "Rotterdam",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 4182,
+      "repoCountPrimary": 4,
+      "starsContains": 4182,
+      "repoCountContains": 4,
+      "globalRank": 624,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "jsonrepair",
+          "fullName": "josdejong/jsonrepair",
+          "stars": 2349,
+          "url": "https://github.com/josdejong/jsonrepair",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "svelte-jsoneditor",
+          "fullName": "josdejong/svelte-jsoneditor",
+          "stars": 1231,
+          "url": "https://github.com/josdejong/svelte-jsoneditor",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "lossless-json",
+          "fullName": "josdejong/lossless-json",
+          "stars": 471,
+          "url": "https://github.com/josdejong/lossless-json",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "csv42",
+          "fullName": "josdejong/csv42",
+          "stars": 131,
+          "url": "https://github.com/josdejong/csv42",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

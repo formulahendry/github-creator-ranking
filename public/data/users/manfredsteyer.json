@@ -1,0 +1,62 @@
+{
+  "login": "manfredsteyer",
+  "name": "Manfred Steyer",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1573728?v=4",
+  "htmlUrl": "https://github.com/manfredsteyer",
+  "location": "Graz, Austria",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 4068,
+      "repoCountPrimary": 6,
+      "starsContains": 4068,
+      "repoCountContains": 6,
+      "globalRank": 652,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "angular-oauth2-oidc",
+          "fullName": "manfredsteyer/angular-oauth2-oidc",
+          "stars": 1980,
+          "url": "https://github.com/manfredsteyer/angular-oauth2-oidc",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ngx-build-plus",
+          "fullName": "manfredsteyer/ngx-build-plus",
+          "stars": 1199,
+          "url": "https://github.com/manfredsteyer/ngx-build-plus",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "angular-crud",
+          "fullName": "manfredsteyer/angular-crud",
+          "stars": 343,
+          "url": "https://github.com/manfredsteyer/angular-crud",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "module-federation-plugin-example",
+          "fullName": "manfredsteyer/module-federation-plugin-example",
+          "stars": 293,
+          "url": "https://github.com/manfredsteyer/module-federation-plugin-example",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "module-federation-with-angular-dynamic",
+          "fullName": "manfredsteyer/module-federation-with-angular-dynamic",
+          "stars": 133,
+          "url": "https://github.com/manfredsteyer/module-federation-with-angular-dynamic",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

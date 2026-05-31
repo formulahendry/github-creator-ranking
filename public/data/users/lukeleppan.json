@@ -1,0 +1,34 @@
+{
+  "login": "lukeleppan",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/34953246?v=4",
+  "htmlUrl": "https://github.com/lukeleppan",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 304,
+      "repoCountPrimary": 1,
+      "starsContains": 304,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "better-word-count",
+          "fullName": "lukeleppan/better-word-count",
+          "stars": 304,
+          "url": "https://github.com/lukeleppan/better-word-count",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

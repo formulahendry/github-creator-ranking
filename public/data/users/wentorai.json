@@ -1,0 +1,41 @@
+{
+  "login": "wentorai",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/266438744?v=4",
+  "htmlUrl": "https://github.com/wentorai",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1052,
+      "repoCountPrimary": 2,
+      "starsContains": 1052,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Research-Claw",
+          "fullName": "wentorai/Research-Claw",
+          "stars": 828,
+          "url": "https://github.com/wentorai/Research-Claw",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "research-plugins",
+          "fullName": "wentorai/research-plugins",
+          "stars": 224,
+          "url": "https://github.com/wentorai/research-plugins",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

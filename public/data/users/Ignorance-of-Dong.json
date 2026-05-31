@@ -1,0 +1,34 @@
+{
+  "login": "Ignorance-of-Dong",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/42397751?v=4",
+  "htmlUrl": "https://github.com/Ignorance-of-Dong",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 106,
+      "repoCountPrimary": 1,
+      "starsContains": 106,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "optimization_open_neteasy_cloud",
+          "fullName": "Ignorance-of-Dong/optimization_open_neteasy_cloud",
+          "stars": 106,
+          "url": "https://github.com/Ignorance-of-Dong/optimization_open_neteasy_cloud",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

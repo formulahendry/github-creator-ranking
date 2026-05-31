@@ -1,0 +1,34 @@
+{
+  "login": "Zeeshanahmad4",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/36574348?v=4",
+  "htmlUrl": "https://github.com/Zeeshanahmad4",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 126,
+      "repoCountPrimary": 1,
+      "starsContains": 126,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "chatgpt-knowledge-base-chatbot",
+          "fullName": "Zeeshanahmad4/chatgpt-knowledge-base-chatbot",
+          "stars": 126,
+          "url": "https://github.com/Zeeshanahmad4/chatgpt-knowledge-base-chatbot",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

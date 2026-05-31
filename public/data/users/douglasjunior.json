@@ -1,0 +1,48 @@
+{
+  "login": "douglasjunior",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1512341?v=4",
+  "htmlUrl": "https://github.com/douglasjunior",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 777,
+      "repoCountPrimary": 3,
+      "starsContains": 777,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-native-simple-dialogs",
+          "fullName": "douglasjunior/react-native-simple-dialogs",
+          "stars": 469,
+          "url": "https://github.com/douglasjunior/react-native-simple-dialogs",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-native-recaptcha-that-works",
+          "fullName": "douglasjunior/react-native-recaptcha-that-works",
+          "stars": 177,
+          "url": "https://github.com/douglasjunior/react-native-recaptcha-that-works",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-native-applifecycle",
+          "fullName": "douglasjunior/react-native-applifecycle",
+          "stars": 131,
+          "url": "https://github.com/douglasjunior/react-native-applifecycle",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

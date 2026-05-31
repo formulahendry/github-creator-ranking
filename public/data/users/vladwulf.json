@@ -1,0 +1,41 @@
+{
+  "login": "vladwulf",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7473791?v=4",
+  "htmlUrl": "https://github.com/vladwulf",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 965,
+      "repoCountPrimary": 2,
+      "starsContains": 965,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "nestjs-api-tutorial",
+          "fullName": "vladwulf/nestjs-api-tutorial",
+          "stars": 552,
+          "url": "https://github.com/vladwulf/nestjs-api-tutorial",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "nestjs-jwts",
+          "fullName": "vladwulf/nestjs-jwts",
+          "stars": 413,
+          "url": "https://github.com/vladwulf/nestjs-jwts",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

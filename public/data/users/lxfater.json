@@ -1,0 +1,48 @@
+{
+  "login": "lxfater",
+  "name": "lxfater",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/22794120?v=4",
+  "htmlUrl": "https://github.com/lxfater",
+  "location": "Beijing",
+  "countryCode": "CN",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 8224,
+      "repoCountPrimary": 3,
+      "starsContains": 8224,
+      "repoCountContains": 3,
+      "globalRank": 277,
+      "countryRank": 34,
+      "topRepos": [
+        {
+          "name": "inpaint-web",
+          "fullName": "lxfater/inpaint-web",
+          "stars": 5818,
+          "url": "https://github.com/lxfater/inpaint-web",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Portal",
+          "fullName": "lxfater/Portal",
+          "stars": 1680,
+          "url": "https://github.com/lxfater/Portal",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "BilibiliSummary",
+          "fullName": "lxfater/BilibiliSummary",
+          "stars": 726,
+          "url": "https://github.com/lxfater/BilibiliSummary",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

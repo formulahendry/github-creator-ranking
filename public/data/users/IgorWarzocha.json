@@ -1,0 +1,55 @@
+{
+  "login": "IgorWarzocha",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/634445?v=4",
+  "htmlUrl": "https://github.com/IgorWarzocha",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 707,
+      "repoCountPrimary": 4,
+      "starsContains": 707,
+      "repoCountContains": 4,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "howcode",
+          "fullName": "IgorWarzocha/howcode",
+          "stars": 284,
+          "url": "https://github.com/IgorWarzocha/howcode",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "pi-codex-conversion",
+          "fullName": "IgorWarzocha/pi-codex-conversion",
+          "stars": 184,
+          "url": "https://github.com/IgorWarzocha/pi-codex-conversion",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Opencode-Context-Analysis-Plugin",
+          "fullName": "IgorWarzocha/Opencode-Context-Analysis-Plugin",
+          "stars": 126,
+          "url": "https://github.com/IgorWarzocha/Opencode-Context-Analysis-Plugin",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "opencode-planning-toolkit",
+          "fullName": "IgorWarzocha/opencode-planning-toolkit",
+          "stars": 113,
+          "url": "https://github.com/IgorWarzocha/opencode-planning-toolkit",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

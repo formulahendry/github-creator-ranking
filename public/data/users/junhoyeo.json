@@ -1,0 +1,41 @@
+{
+  "login": "junhoyeo",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/32605822?v=4",
+  "htmlUrl": "https://github.com/junhoyeo",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1892,
+      "repoCountPrimary": 2,
+      "starsContains": 1892,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "threads-api",
+          "fullName": "junhoyeo/threads-api",
+          "stars": 1609,
+          "url": "https://github.com/junhoyeo/threads-api",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "use-color",
+          "fullName": "junhoyeo/use-color",
+          "stars": 283,
+          "url": "https://github.com/junhoyeo/use-color",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "viclafouch",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/23353836?v=4",
+  "htmlUrl": "https://github.com/viclafouch",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 355,
+      "repoCountPrimary": 2,
+      "starsContains": 355,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "mui-tel-input",
+          "fullName": "viclafouch/mui-tel-input",
+          "stars": 206,
+          "url": "https://github.com/viclafouch/mui-tel-input",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "mui-otp-input",
+          "fullName": "viclafouch/mui-otp-input",
+          "stars": 149,
+          "url": "https://github.com/viclafouch/mui-otp-input",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

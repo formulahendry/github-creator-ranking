@@ -1,0 +1,41 @@
+{
+  "login": "thecodrr",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7473959?v=4",
+  "htmlUrl": "https://github.com/thecodrr",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1950,
+      "repoCountPrimary": 2,
+      "starsContains": 1950,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "fdir",
+          "fullName": "thecodrr/fdir",
+          "stars": 1722,
+          "url": "https://github.com/thecodrr/fdir",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "alfaaz",
+          "fullName": "thecodrr/alfaaz",
+          "stars": 228,
+          "url": "https://github.com/thecodrr/alfaaz",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

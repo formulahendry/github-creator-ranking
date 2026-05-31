@@ -1,0 +1,41 @@
+{
+  "login": "sparrow-js",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/59440091?v=4",
+  "htmlUrl": "https://github.com/sparrow-js",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3943,
+      "repoCountPrimary": 2,
+      "starsContains": 3943,
+      "repoCountContains": 2,
+      "globalRank": 672,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "sparrow",
+          "fullName": "sparrow-js/sparrow",
+          "stars": 3214,
+          "url": "https://github.com/sparrow-js/sparrow",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "an-codeAI",
+          "fullName": "sparrow-js/an-codeAI",
+          "stars": 729,
+          "url": "https://github.com/sparrow-js/an-codeAI",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

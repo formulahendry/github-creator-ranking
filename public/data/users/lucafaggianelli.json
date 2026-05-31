@@ -1,0 +1,34 @@
+{
+  "login": "lucafaggianelli",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/4471043?v=4",
+  "htmlUrl": "https://github.com/lucafaggianelli",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 656,
+      "repoCountPrimary": 1,
+      "starsContains": 656,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "plombery",
+          "fullName": "lucafaggianelli/plombery",
+          "stars": 656,
+          "url": "https://github.com/lucafaggianelli/plombery",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "troch",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1777517?v=4",
+  "htmlUrl": "https://github.com/troch",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 563,
+      "repoCountPrimary": 2,
+      "starsContains": 563,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "reinspect",
+          "fullName": "troch/reinspect",
+          "stars": 425,
+          "url": "https://github.com/troch/reinspect",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "path-parser",
+          "fullName": "troch/path-parser",
+          "stars": 138,
+          "url": "https://github.com/troch/path-parser",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

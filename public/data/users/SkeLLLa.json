@@ -1,0 +1,34 @@
+{
+  "login": "SkeLLLa",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2273103?v=4",
+  "htmlUrl": "https://github.com/SkeLLLa",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 117,
+      "repoCountPrimary": 1,
+      "starsContains": 117,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "fastify-metrics",
+          "fullName": "SkeLLLa/fastify-metrics",
+          "stars": 117,
+          "url": "https://github.com/SkeLLLa/fastify-metrics",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

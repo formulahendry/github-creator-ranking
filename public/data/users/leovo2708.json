@@ -1,0 +1,34 @@
+{
+  "login": "leovo2708",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/12064624?v=4",
+  "htmlUrl": "https://github.com/leovo2708",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 360,
+      "repoCountPrimary": 1,
+      "starsContains": 360,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ngx-treeview",
+          "fullName": "leovo2708/ngx-treeview",
+          "stars": 360,
+          "url": "https://github.com/leovo2708/ngx-treeview",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

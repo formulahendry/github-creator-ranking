@@ -1,0 +1,34 @@
+{
+  "login": "gurselcakar",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/87243002?v=4",
+  "htmlUrl": "https://github.com/gurselcakar",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 184,
+      "repoCountPrimary": 1,
+      "starsContains": 184,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "universal-react-monorepo",
+          "fullName": "gurselcakar/universal-react-monorepo",
+          "stars": 184,
+          "url": "https://github.com/gurselcakar/universal-react-monorepo",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

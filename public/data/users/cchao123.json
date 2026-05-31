@@ -1,0 +1,34 @@
+{
+  "login": "cchao123",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/24643401?v=4",
+  "htmlUrl": "https://github.com/cchao123",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 127,
+      "repoCountPrimary": 1,
+      "starsContains": 127,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "skills-manager",
+          "fullName": "cchao123/skills-manager",
+          "stars": 127,
+          "url": "https://github.com/cchao123/skills-manager",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "Debdut",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7561070?v=4",
+  "htmlUrl": "https://github.com/Debdut",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1513,
+      "repoCountPrimary": 2,
+      "starsContains": 1513,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "uuid-readable",
+          "fullName": "Debdut/uuid-readable",
+          "stars": 821,
+          "url": "https://github.com/Debdut/uuid-readable",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "browser-extension",
+          "fullName": "Debdut/browser-extension",
+          "stars": 692,
+          "url": "https://github.com/Debdut/browser-extension",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

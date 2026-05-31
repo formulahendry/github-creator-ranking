@@ -1,0 +1,48 @@
+{
+  "login": "qjebbs",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/16953333?v=4",
+  "htmlUrl": "https://github.com/qjebbs",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1767,
+      "repoCountPrimary": 3,
+      "starsContains": 1767,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vscode-plantuml",
+          "fullName": "qjebbs/vscode-plantuml",
+          "stars": 1211,
+          "url": "https://github.com/qjebbs/vscode-plantuml",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "sketch-meaxure",
+          "fullName": "qjebbs/sketch-meaxure",
+          "stars": 425,
+          "url": "https://github.com/qjebbs/sketch-meaxure",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vscode-markdown-extended",
+          "fullName": "qjebbs/vscode-markdown-extended",
+          "stars": 131,
+          "url": "https://github.com/qjebbs/vscode-markdown-extended",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

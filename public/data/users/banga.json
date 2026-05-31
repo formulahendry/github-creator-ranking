@@ -1,0 +1,34 @@
+{
+  "login": "banga",
+  "name": "Shrey Banga",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/541603?v=4",
+  "htmlUrl": "https://github.com/banga",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2734,
+      "repoCountPrimary": 1,
+      "starsContains": 2734,
+      "repoCountContains": 1,
+      "globalRank": 981,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "git-split-diffs",
+          "fullName": "banga/git-split-diffs",
+          "stars": 2734,
+          "url": "https://github.com/banga/git-split-diffs",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

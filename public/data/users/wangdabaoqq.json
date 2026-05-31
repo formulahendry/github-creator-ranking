@@ -1,0 +1,34 @@
+{
+  "login": "wangdabaoqq",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/22553316?v=4",
+  "htmlUrl": "https://github.com/wangdabaoqq",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 675,
+      "repoCountPrimary": 1,
+      "starsContains": 675,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "LinJun",
+          "fullName": "wangdabaoqq/LinJun",
+          "stars": 675,
+          "url": "https://github.com/wangdabaoqq/LinJun",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

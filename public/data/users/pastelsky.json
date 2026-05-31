@@ -1,0 +1,48 @@
+{
+  "login": "pastelsky",
+  "name": "Shubham Kanodia",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/8946207?v=4",
+  "htmlUrl": "https://github.com/pastelsky",
+  "location": "Bangalore ",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 10747,
+      "repoCountPrimary": 3,
+      "starsContains": 10747,
+      "repoCountContains": 3,
+      "globalRank": 198,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "bundlephobia",
+          "fullName": "pastelsky/bundlephobia",
+          "stars": 9519,
+          "url": "https://github.com/pastelsky/bundlephobia",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "tsdocs",
+          "fullName": "pastelsky/tsdocs",
+          "stars": 1125,
+          "url": "https://github.com/pastelsky/tsdocs",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "package-build-stats",
+          "fullName": "pastelsky/package-build-stats",
+          "stars": 103,
+          "url": "https://github.com/pastelsky/package-build-stats",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "zjok",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/58029879?v=4",
+  "htmlUrl": "https://github.com/zjok",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 103,
+      "repoCountPrimary": 1,
+      "starsContains": 103,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "mindzj",
+          "fullName": "zjok/mindzj",
+          "stars": 103,
+          "url": "https://github.com/zjok/mindzj",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

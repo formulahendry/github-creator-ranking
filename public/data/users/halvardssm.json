@@ -1,0 +1,34 @@
+{
+  "login": "halvardssm",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/33620089?v=4",
+  "htmlUrl": "https://github.com/halvardssm",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 520,
+      "repoCountPrimary": 1,
+      "starsContains": 520,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "deno-nessie",
+          "fullName": "halvardssm/deno-nessie",
+          "stars": 520,
+          "url": "https://github.com/halvardssm/deno-nessie",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

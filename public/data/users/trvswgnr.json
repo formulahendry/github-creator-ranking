@@ -1,0 +1,34 @@
+{
+  "login": "trvswgnr",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/8974888?v=4",
+  "htmlUrl": "https://github.com/trvswgnr",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 182,
+      "repoCountPrimary": 1,
+      "starsContains": 182,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "sloth-pipe",
+          "fullName": "trvswgnr/sloth-pipe",
+          "stars": 182,
+          "url": "https://github.com/trvswgnr/sloth-pipe",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

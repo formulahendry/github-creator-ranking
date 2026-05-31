@@ -1,0 +1,34 @@
+{
+  "login": "mihaip",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/513813?v=4",
+  "htmlUrl": "https://github.com/mihaip",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1570,
+      "repoCountPrimary": 1,
+      "starsContains": 1570,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "infinite-mac",
+          "fullName": "mihaip/infinite-mac",
+          "stars": 1570,
+          "url": "https://github.com/mihaip/infinite-mac",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

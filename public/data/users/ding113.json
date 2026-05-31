@@ -1,0 +1,34 @@
+{
+  "login": "ding113",
+  "name": "Ding",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/44717411?v=4",
+  "htmlUrl": "https://github.com/ding113",
+  "location": "China",
+  "countryCode": "CN",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2953,
+      "repoCountPrimary": 1,
+      "starsContains": 2953,
+      "repoCountContains": 1,
+      "globalRank": 913,
+      "countryRank": 110,
+      "topRepos": [
+        {
+          "name": "claude-code-hub",
+          "fullName": "ding113/claude-code-hub",
+          "stars": 2953,
+          "url": "https://github.com/ding113/claude-code-hub",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

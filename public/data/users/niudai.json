@@ -1,0 +1,41 @@
+{
+  "login": "niudai",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/44165182?v=4",
+  "htmlUrl": "https://github.com/niudai",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1068,
+      "repoCountPrimary": 2,
+      "starsContains": 1068,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "VSCode-Zhihu",
+          "fullName": "niudai/VSCode-Zhihu",
+          "stars": 937,
+          "url": "https://github.com/niudai/VSCode-Zhihu",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Github-Explorer",
+          "fullName": "niudai/Github-Explorer",
+          "stars": 131,
+          "url": "https://github.com/niudai/Github-Explorer",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

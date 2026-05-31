@@ -1,0 +1,34 @@
+{
+  "login": "Kingwl",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6831019?v=4",
+  "htmlUrl": "https://github.com/Kingwl",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 181,
+      "repoCountPrimary": 1,
+      "starsContains": 181,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "monaco-volar",
+          "fullName": "Kingwl/monaco-volar",
+          "stars": 181,
+          "url": "https://github.com/Kingwl/monaco-volar",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

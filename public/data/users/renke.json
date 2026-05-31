@@ -1,0 +1,34 @@
+{
+  "login": "renke",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/25464?v=4",
+  "htmlUrl": "https://github.com/renke",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 462,
+      "repoCountPrimary": 1,
+      "starsContains": 462,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "import-sort",
+          "fullName": "renke/import-sort",
+          "stars": 462,
+          "url": "https://github.com/renke/import-sort",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

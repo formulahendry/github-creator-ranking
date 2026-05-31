@@ -1,0 +1,62 @@
+{
+  "login": "sadmann7",
+  "name": "Sadman Sakib",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/68962712?v=4",
+  "htmlUrl": "https://github.com/sadmann7",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 16930,
+      "repoCountPrimary": 8,
+      "starsContains": 16930,
+      "repoCountContains": 8,
+      "globalRank": 114,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "tablecn",
+          "fullName": "sadmann7/tablecn",
+          "stars": 6130,
+          "url": "https://github.com/sadmann7/tablecn",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "skateshop",
+          "fullName": "sadmann7/skateshop",
+          "stars": 5471,
+          "url": "https://github.com/sadmann7/skateshop",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "diceui",
+          "fullName": "sadmann7/diceui",
+          "stars": 1990,
+          "url": "https://github.com/sadmann7/diceui",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "file-uploader",
+          "fullName": "sadmann7/file-uploader",
+          "stars": 1421,
+          "url": "https://github.com/sadmann7/file-uploader",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "netflx-web",
+          "fullName": "sadmann7/netflx-web",
+          "stars": 769,
+          "url": "https://github.com/sadmann7/netflx-web",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

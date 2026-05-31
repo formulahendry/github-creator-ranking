@@ -1,0 +1,34 @@
+{
+  "login": "Intevel",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/59223342?v=4",
+  "htmlUrl": "https://github.com/Intevel",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 318,
+      "repoCountPrimary": 1,
+      "starsContains": 318,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "nuxt-directus",
+          "fullName": "Intevel/nuxt-directus",
+          "stars": 318,
+          "url": "https://github.com/Intevel/nuxt-directus",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

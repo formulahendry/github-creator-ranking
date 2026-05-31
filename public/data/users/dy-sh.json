@@ -1,0 +1,41 @@
+{
+  "login": "dy-sh",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/13785893?v=4",
+  "htmlUrl": "https://github.com/dy-sh",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 663,
+      "repoCountPrimary": 2,
+      "starsContains": 663,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "obsidian-consistent-attachments-and-links",
+          "fullName": "dy-sh/obsidian-consistent-attachments-and-links",
+          "stars": 371,
+          "url": "https://github.com/dy-sh/obsidian-consistent-attachments-and-links",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "obsidian-remember-cursor-position",
+          "fullName": "dy-sh/obsidian-remember-cursor-position",
+          "stars": 292,
+          "url": "https://github.com/dy-sh/obsidian-remember-cursor-position",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

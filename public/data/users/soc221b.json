@@ -1,0 +1,48 @@
+{
+  "login": "soc221b",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/22850435?v=4",
+  "htmlUrl": "https://github.com/soc221b",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 348,
+      "repoCountPrimary": 3,
+      "starsContains": 348,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "form-validation.js",
+          "fullName": "soc221b/form-validation.js",
+          "stars": 121,
+          "url": "https://github.com/soc221b/form-validation.js",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "pinia-plugin-persistedstate-2",
+          "fullName": "soc221b/pinia-plugin-persistedstate-2",
+          "stars": 115,
+          "url": "https://github.com/soc221b/pinia-plugin-persistedstate-2",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "zod-schema-faker",
+          "fullName": "soc221b/zod-schema-faker",
+          "stars": 112,
+          "url": "https://github.com/soc221b/zod-schema-faker",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "login": "hewad-mubariz",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/32339404?v=4",
+  "htmlUrl": "https://github.com/hewad-mubariz",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1124,
+      "repoCountPrimary": 3,
+      "starsContains": 1124,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "reactnative-50-days",
+          "fullName": "hewad-mubariz/reactnative-50-days",
+          "stars": 889,
+          "url": "https://github.com/hewad-mubariz/reactnative-50-days",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Furniture_App",
+          "fullName": "hewad-mubariz/Furniture_App",
+          "stars": 120,
+          "url": "https://github.com/hewad-mubariz/Furniture_App",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "reactnative-curved-bottomtabs",
+          "fullName": "hewad-mubariz/reactnative-curved-bottomtabs",
+          "stars": 115,
+          "url": "https://github.com/hewad-mubariz/reactnative-curved-bottomtabs",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

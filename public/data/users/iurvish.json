@@ -1,0 +1,34 @@
+{
+  "login": "iurvish",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/113707301?v=4",
+  "htmlUrl": "https://github.com/iurvish",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 384,
+      "repoCountPrimary": 1,
+      "starsContains": 384,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "uselayouts",
+          "fullName": "iurvish/uselayouts",
+          "stars": 384,
+          "url": "https://github.com/iurvish/uselayouts",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

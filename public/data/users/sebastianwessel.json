@@ -1,0 +1,41 @@
+{
+  "login": "sebastianwessel",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6763983?v=4",
+  "htmlUrl": "https://github.com/sebastianwessel",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1015,
+      "repoCountPrimary": 2,
+      "starsContains": 1015,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "quickjs",
+          "fullName": "sebastianwessel/quickjs",
+          "stars": 902,
+          "url": "https://github.com/sebastianwessel/quickjs",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "surrealdb-client-generator",
+          "fullName": "sebastianwessel/surrealdb-client-generator",
+          "stars": 113,
+          "url": "https://github.com/sebastianwessel/surrealdb-client-generator",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

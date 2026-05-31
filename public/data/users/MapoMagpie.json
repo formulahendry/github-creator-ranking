@@ -1,0 +1,34 @@
+{
+  "login": "MapoMagpie",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/33853879?v=4",
+  "htmlUrl": "https://github.com/MapoMagpie",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 740,
+      "repoCountPrimary": 1,
+      "starsContains": 740,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "comic-looms",
+          "fullName": "MapoMagpie/comic-looms",
+          "stars": 740,
+          "url": "https://github.com/MapoMagpie/comic-looms",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

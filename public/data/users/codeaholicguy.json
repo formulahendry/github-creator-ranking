@@ -1,0 +1,41 @@
+{
+  "login": "codeaholicguy",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/4585708?v=4",
+  "htmlUrl": "https://github.com/codeaholicguy",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1403,
+      "repoCountPrimary": 2,
+      "starsContains": 1403,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ai-devkit",
+          "fullName": "codeaholicguy/ai-devkit",
+          "stars": 1224,
+          "url": "https://github.com/codeaholicguy/ai-devkit",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "wowcup",
+          "fullName": "codeaholicguy/wowcup",
+          "stars": 179,
+          "url": "https://github.com/codeaholicguy/wowcup",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

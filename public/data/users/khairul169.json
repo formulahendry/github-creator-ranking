@@ -1,0 +1,34 @@
+{
+  "login": "khairul169",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/10296472?v=4",
+  "htmlUrl": "https://github.com/khairul169",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1030,
+      "repoCountPrimary": 1,
+      "starsContains": 1030,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "garage-webui",
+          "fullName": "khairul169/garage-webui",
+          "stars": 1030,
+          "url": "https://github.com/khairul169/garage-webui",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

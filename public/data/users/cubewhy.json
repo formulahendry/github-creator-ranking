@@ -1,0 +1,34 @@
+{
+  "login": "cubewhy",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/61075476?v=4",
+  "htmlUrl": "https://github.com/cubewhy",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1524,
+      "repoCountPrimary": 1,
+      "starsContains": 1524,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "skid-homework",
+          "fullName": "cubewhy/skid-homework",
+          "stars": 1524,
+          "url": "https://github.com/cubewhy/skid-homework",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

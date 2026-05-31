@@ -1,0 +1,34 @@
+{
+  "login": "DetachHead",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/57028336?v=4",
+  "htmlUrl": "https://github.com/DetachHead",
+  "location": "your walls",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3370,
+      "repoCountPrimary": 1,
+      "starsContains": 3370,
+      "repoCountContains": 1,
+      "globalRank": 804,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "basedpyright",
+          "fullName": "DetachHead/basedpyright",
+          "stars": 3370,
+          "url": "https://github.com/DetachHead/basedpyright",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

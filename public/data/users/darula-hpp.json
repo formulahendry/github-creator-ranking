@@ -1,0 +1,34 @@
+{
+  "login": "darula-hpp",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/24443769?v=4",
+  "htmlUrl": "https://github.com/darula-hpp",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1081,
+      "repoCountPrimary": 1,
+      "starsContains": 1081,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "shimmer-from-structure",
+          "fullName": "darula-hpp/shimmer-from-structure",
+          "stars": 1081,
+          "url": "https://github.com/darula-hpp/shimmer-from-structure",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

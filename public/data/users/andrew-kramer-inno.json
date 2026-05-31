@@ -1,0 +1,34 @@
+{
+  "login": "andrew-kramer-inno",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/221788767?v=4",
+  "htmlUrl": "https://github.com/andrew-kramer-inno",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 591,
+      "repoCountPrimary": 1,
+      "starsContains": 591,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "claude-code-source-build",
+          "fullName": "andrew-kramer-inno/claude-code-source-build",
+          "stars": 591,
+          "url": "https://github.com/andrew-kramer-inno/claude-code-source-build",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

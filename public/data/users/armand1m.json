@@ -1,0 +1,34 @@
+{
+  "login": "armand1m",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6154901?v=4",
+  "htmlUrl": "https://github.com/armand1m",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 131,
+      "repoCountPrimary": 1,
+      "starsContains": 131,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-with-firebase-auth",
+          "fullName": "armand1m/react-with-firebase-auth",
+          "stars": 131,
+          "url": "https://github.com/armand1m/react-with-firebase-auth",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

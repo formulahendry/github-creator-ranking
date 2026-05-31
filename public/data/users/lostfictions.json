@@ -1,0 +1,34 @@
+{
+  "login": "lostfictions",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/567041?v=4",
+  "htmlUrl": "https://github.com/lostfictions",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 386,
+      "repoCountPrimary": 1,
+      "starsContains": 386,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "znv",
+          "fullName": "lostfictions/znv",
+          "stars": 386,
+          "url": "https://github.com/lostfictions/znv",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

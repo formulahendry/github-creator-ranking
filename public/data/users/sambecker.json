@@ -1,0 +1,34 @@
+{
+  "login": "sambecker",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/169298?v=4",
+  "htmlUrl": "https://github.com/sambecker",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1687,
+      "repoCountPrimary": 1,
+      "starsContains": 1687,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "exif-photo-blog",
+          "fullName": "sambecker/exif-photo-blog",
+          "stars": 1687,
+          "url": "https://github.com/sambecker/exif-photo-blog",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

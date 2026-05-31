@@ -1,0 +1,34 @@
+{
+  "login": "xiCO2k",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/823088?v=4",
+  "htmlUrl": "https://github.com/xiCO2k",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 705,
+      "repoCountPrimary": 1,
+      "starsContains": 705,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "laravel-vue-i18n",
+          "fullName": "xiCO2k/laravel-vue-i18n",
+          "stars": 705,
+          "url": "https://github.com/xiCO2k/laravel-vue-i18n",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

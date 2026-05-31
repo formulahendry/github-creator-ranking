@@ -1,0 +1,48 @@
+{
+  "login": "zcf0508",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/21942252?v=4",
+  "htmlUrl": "https://github.com/zcf0508",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 734,
+      "repoCountPrimary": 3,
+      "starsContains": 734,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "autocut-client",
+          "fullName": "zcf0508/autocut-client",
+          "stars": 341,
+          "url": "https://github.com/zcf0508/autocut-client",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vue-scan",
+          "fullName": "zcf0508/vue-scan",
+          "stars": 270,
+          "url": "https://github.com/zcf0508/vue-scan",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vue-hook-optimizer",
+          "fullName": "zcf0508/vue-hook-optimizer",
+          "stars": 123,
+          "url": "https://github.com/zcf0508/vue-hook-optimizer",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

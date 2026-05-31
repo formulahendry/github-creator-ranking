@@ -1,0 +1,62 @@
+{
+  "login": "tkssharma",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/10391135?v=4",
+  "htmlUrl": "https://github.com/tkssharma",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 965,
+      "repoCountPrimary": 5,
+      "starsContains": 965,
+      "repoCountContains": 5,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "nestjs-advance-course",
+          "fullName": "tkssharma/nestjs-advance-course",
+          "stars": 319,
+          "url": "https://github.com/tkssharma/nestjs-advance-course",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "nestjs-advanced-2023",
+          "fullName": "tkssharma/nestjs-advanced-2023",
+          "stars": 185,
+          "url": "https://github.com/tkssharma/nestjs-advanced-2023",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "uber-eats-clone-app",
+          "fullName": "tkssharma/uber-eats-clone-app",
+          "stars": 179,
+          "url": "https://github.com/tkssharma/uber-eats-clone-app",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "12-factor-app-microservices",
+          "fullName": "tkssharma/12-factor-app-microservices",
+          "stars": 152,
+          "url": "https://github.com/tkssharma/12-factor-app-microservices",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "nestjs-microservices",
+          "fullName": "tkssharma/nestjs-microservices",
+          "stars": 130,
+          "url": "https://github.com/tkssharma/nestjs-microservices",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

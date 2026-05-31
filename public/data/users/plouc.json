@@ -1,0 +1,41 @@
+{
+  "login": "plouc",
+  "name": "Raphaël Benitte",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/501642?v=4",
+  "htmlUrl": "https://github.com/plouc",
+  "location": "Tokyo",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 14213,
+      "repoCountPrimary": 2,
+      "starsContains": 14213,
+      "repoCountContains": 2,
+      "globalRank": 140,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "nivo",
+          "fullName": "plouc/nivo",
+          "stars": 14035,
+          "url": "https://github.com/plouc/nivo",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "wiremock-ui",
+          "fullName": "plouc/wiremock-ui",
+          "stars": 178,
+          "url": "https://github.com/plouc/wiremock-ui",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "czeckd",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/17859320?v=4",
+  "htmlUrl": "https://github.com/czeckd",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 264,
+      "repoCountPrimary": 1,
+      "starsContains": 264,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "angular-svg-icon",
+          "fullName": "czeckd/angular-svg-icon",
+          "stars": 264,
+          "url": "https://github.com/czeckd/angular-svg-icon",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

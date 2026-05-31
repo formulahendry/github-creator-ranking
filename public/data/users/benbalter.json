@@ -1,0 +1,48 @@
+{
+  "login": "benbalter",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/282759?v=4",
+  "htmlUrl": "https://github.com/benbalter",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 681,
+      "repoCountPrimary": 3,
+      "starsContains": 681,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "github-mention-highlighter",
+          "fullName": "benbalter/github-mention-highlighter",
+          "stars": 306,
+          "url": "https://github.com/benbalter/github-mention-highlighter",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "word-to-markdown-js",
+          "fullName": "benbalter/word-to-markdown-js",
+          "stars": 217,
+          "url": "https://github.com/benbalter/word-to-markdown-js",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "benbalter.github.com",
+          "fullName": "benbalter/benbalter.github.com",
+          "stars": 158,
+          "url": "https://github.com/benbalter/benbalter.github.com",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

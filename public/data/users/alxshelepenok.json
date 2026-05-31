@@ -1,0 +1,34 @@
+{
+  "login": "alxshelepenok",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/8599449?v=4",
+  "htmlUrl": "https://github.com/alxshelepenok",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2017,
+      "repoCountPrimary": 1,
+      "starsContains": 2017,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "lumen",
+          "fullName": "alxshelepenok/lumen",
+          "stars": 2017,
+          "url": "https://github.com/alxshelepenok/lumen",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

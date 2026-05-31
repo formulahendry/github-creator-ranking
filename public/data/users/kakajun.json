@@ -1,0 +1,34 @@
+{
+  "login": "kakajun",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/38216933?v=4",
+  "htmlUrl": "https://github.com/kakajun",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 297,
+      "repoCountPrimary": 1,
+      "starsContains": 297,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vue3-sketch-ruler",
+          "fullName": "kakajun/vue3-sketch-ruler",
+          "stars": 297,
+          "url": "https://github.com/kakajun/vue3-sketch-ruler",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

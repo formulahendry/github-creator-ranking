@@ -1,0 +1,62 @@
+{
+  "login": "HiDeoo",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/494699?v=4",
+  "htmlUrl": "https://github.com/HiDeoo",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 935,
+      "repoCountPrimary": 6,
+      "starsContains": 935,
+      "repoCountContains": 6,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "starlight-blog",
+          "fullName": "HiDeoo/starlight-blog",
+          "stars": 264,
+          "url": "https://github.com/HiDeoo/starlight-blog",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "starlight-openapi",
+          "fullName": "HiDeoo/starlight-openapi",
+          "stars": 192,
+          "url": "https://github.com/HiDeoo/starlight-openapi",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "starlight-obsidian",
+          "fullName": "HiDeoo/starlight-obsidian",
+          "stars": 144,
+          "url": "https://github.com/HiDeoo/starlight-obsidian",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "starlight-image-zoom",
+          "fullName": "HiDeoo/starlight-image-zoom",
+          "stars": 116,
+          "url": "https://github.com/HiDeoo/starlight-image-zoom",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "starlight-typedoc",
+          "fullName": "HiDeoo/starlight-typedoc",
+          "stars": 110,
+          "url": "https://github.com/HiDeoo/starlight-typedoc",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

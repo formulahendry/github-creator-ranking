@@ -1,0 +1,62 @@
+{
+  "login": "yusukebe",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/10682?v=4",
+  "htmlUrl": "https://github.com/yusukebe",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1947,
+      "repoCountPrimary": 10,
+      "starsContains": 1947,
+      "repoCountContains": 10,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "r2-image-worker",
+          "fullName": "yusukebe/r2-image-worker",
+          "stars": 369,
+          "url": "https://github.com/yusukebe/r2-image-worker",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "hono-react-router-adapter",
+          "fullName": "yusukebe/hono-react-router-adapter",
+          "stars": 281,
+          "url": "https://github.com/yusukebe/hono-react-router-adapter",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "pico",
+          "fullName": "yusukebe/pico",
+          "stars": 251,
+          "url": "https://github.com/yusukebe/pico",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "hono-htmx",
+          "fullName": "yusukebe/hono-htmx",
+          "stars": 208,
+          "url": "https://github.com/yusukebe/hono-htmx",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ramen-api",
+          "fullName": "yusukebe/ramen-api",
+          "stars": 203,
+          "url": "https://github.com/yusukebe/ramen-api",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

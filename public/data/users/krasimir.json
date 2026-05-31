@@ -1,0 +1,34 @@
+{
+  "login": "krasimir",
+  "name": "Krasimir Tsonev",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/528677?v=4",
+  "htmlUrl": "https://github.com/krasimir",
+  "location": "Bulgaria",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2830,
+      "repoCountPrimary": 1,
+      "starsContains": 2830,
+      "repoCountContains": 1,
+      "globalRank": 943,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "navigo",
+          "fullName": "krasimir/navigo",
+          "stars": 2830,
+          "url": "https://github.com/krasimir/navigo",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

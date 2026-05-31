@@ -1,0 +1,55 @@
+{
+  "login": "kuraydev",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6813862?v=4",
+  "htmlUrl": "https://github.com/kuraydev",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1669,
+      "repoCountPrimary": 4,
+      "starsContains": 1669,
+      "repoCountContains": 4,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-native-bouncy-checkbox",
+          "fullName": "kuraydev/react-native-bouncy-checkbox",
+          "stars": 875,
+          "url": "https://github.com/kuraydev/react-native-bouncy-checkbox",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-native-typescript-boilerplate",
+          "fullName": "kuraydev/react-native-typescript-boilerplate",
+          "stars": 448,
+          "url": "https://github.com/kuraydev/react-native-typescript-boilerplate",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-native-login-screen",
+          "fullName": "kuraydev/react-native-login-screen",
+          "stars": 234,
+          "url": "https://github.com/kuraydev/react-native-login-screen",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-native-progressive-fast-image",
+          "fullName": "kuraydev/react-native-progressive-fast-image",
+          "stars": 112,
+          "url": "https://github.com/kuraydev/react-native-progressive-fast-image",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "chrismaltby",
+  "name": "Chris Maltby",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/16776042?v=4",
+  "htmlUrl": "https://github.com/chrismaltby",
+  "location": "Rugby, UK",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 9282,
+      "repoCountPrimary": 1,
+      "starsContains": 9282,
+      "repoCountContains": 1,
+      "globalRank": 248,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "gb-studio",
+          "fullName": "chrismaltby/gb-studio",
+          "stars": 9282,
+          "url": "https://github.com/chrismaltby/gb-studio",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

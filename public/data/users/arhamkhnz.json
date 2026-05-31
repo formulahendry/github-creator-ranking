@@ -1,0 +1,41 @@
+{
+  "login": "arhamkhnz",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/43849669?v=4",
+  "htmlUrl": "https://github.com/arhamkhnz",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2557,
+      "repoCountPrimary": 2,
+      "starsContains": 2557,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "next-shadcn-admin-dashboard",
+          "fullName": "arhamkhnz/next-shadcn-admin-dashboard",
+          "stars": 2417,
+          "url": "https://github.com/arhamkhnz/next-shadcn-admin-dashboard",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "next-shadcn-admin-dashboard-baseui",
+          "fullName": "arhamkhnz/next-shadcn-admin-dashboard-baseui",
+          "stars": 140,
+          "url": "https://github.com/arhamkhnz/next-shadcn-admin-dashboard-baseui",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "Tatamo",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7436417?v=4",
+  "htmlUrl": "https://github.com/Tatamo",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 643,
+      "repoCountPrimary": 1,
+      "starsContains": 643,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "atcoder-cli",
+          "fullName": "Tatamo/atcoder-cli",
+          "stars": 643,
+          "url": "https://github.com/Tatamo/atcoder-cli",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

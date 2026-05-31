@@ -1,0 +1,34 @@
+{
+  "login": "pajowu",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6545097?v=4",
+  "htmlUrl": "https://github.com/pajowu",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 105,
+      "repoCountPrimary": 1,
+      "starsContains": 105,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "superbird-custom-webapp",
+          "fullName": "pajowu/superbird-custom-webapp",
+          "stars": 105,
+          "url": "https://github.com/pajowu/superbird-custom-webapp",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

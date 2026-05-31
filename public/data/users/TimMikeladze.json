@@ -1,0 +1,48 @@
+{
+  "login": "TimMikeladze",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/702718?v=4",
+  "htmlUrl": "https://github.com/TimMikeladze",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 432,
+      "repoCountPrimary": 3,
+      "starsContains": 432,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "typescript-react-package-starter",
+          "fullName": "TimMikeladze/typescript-react-package-starter",
+          "stars": 212,
+          "url": "https://github.com/TimMikeladze/typescript-react-package-starter",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "next-upload",
+          "fullName": "TimMikeladze/next-upload",
+          "stars": 111,
+          "url": "https://github.com/TimMikeladze/next-upload",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "gist-database",
+          "fullName": "TimMikeladze/gist-database",
+          "stars": 109,
+          "url": "https://github.com/TimMikeladze/gist-database",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

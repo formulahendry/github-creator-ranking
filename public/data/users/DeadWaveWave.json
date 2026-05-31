@@ -1,0 +1,41 @@
+{
+  "login": "DeadWaveWave",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/90459902?v=4",
+  "htmlUrl": "https://github.com/DeadWaveWave",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2010,
+      "repoCountPrimary": 2,
+      "starsContains": 2010,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "opencove",
+          "fullName": "DeadWaveWave/opencove",
+          "stars": 1401,
+          "url": "https://github.com/DeadWaveWave/opencove",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "demo2apk",
+          "fullName": "DeadWaveWave/demo2apk",
+          "stars": 609,
+          "url": "https://github.com/DeadWaveWave/demo2apk",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

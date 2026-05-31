@@ -1,0 +1,34 @@
+{
+  "login": "saurabhsharma2u",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/41580629?v=4",
+  "htmlUrl": "https://github.com/saurabhsharma2u",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 146,
+      "repoCountPrimary": 1,
+      "starsContains": 146,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "search-console-mcp",
+          "fullName": "saurabhsharma2u/search-console-mcp",
+          "stars": 146,
+          "url": "https://github.com/saurabhsharma2u/search-console-mcp",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

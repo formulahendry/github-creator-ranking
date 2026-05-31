@@ -1,0 +1,48 @@
+{
+  "login": "dfrankland",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2488926?v=4",
+  "htmlUrl": "https://github.com/dfrankland",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 497,
+      "repoCountPrimary": 3,
+      "starsContains": 497,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ampreact",
+          "fullName": "dfrankland/ampreact",
+          "stars": 231,
+          "url": "https://github.com/dfrankland/ampreact",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-amphtml",
+          "fullName": "dfrankland/react-amphtml",
+          "stars": 144,
+          "url": "https://github.com/dfrankland/react-amphtml",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "hyper-sync-settings",
+          "fullName": "dfrankland/hyper-sync-settings",
+          "stars": 122,
+          "url": "https://github.com/dfrankland/hyper-sync-settings",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

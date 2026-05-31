@@ -1,0 +1,34 @@
+{
+  "login": "weahforsage",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/33711456?v=4",
+  "htmlUrl": "https://github.com/weahforsage",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 254,
+      "repoCountPrimary": 1,
+      "starsContains": 254,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-native-animated-pagination-dots",
+          "fullName": "weahforsage/react-native-animated-pagination-dots",
+          "stars": 254,
+          "url": "https://github.com/weahforsage/react-native-animated-pagination-dots",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

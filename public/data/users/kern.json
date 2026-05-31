@@ -1,0 +1,34 @@
+{
+  "login": "kern",
+  "name": "Alex Kern",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/11469?v=4",
+  "htmlUrl": "https://github.com/kern",
+  "location": "San Francisco, CA",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 10062,
+      "repoCountPrimary": 1,
+      "starsContains": 10062,
+      "repoCountContains": 1,
+      "globalRank": 219,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "filepizza",
+          "fullName": "kern/filepizza",
+          "stars": 10062,
+          "url": "https://github.com/kern/filepizza",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

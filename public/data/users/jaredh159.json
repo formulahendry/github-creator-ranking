@@ -1,0 +1,34 @@
+{
+  "login": "jaredh159",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7050938?v=4",
+  "htmlUrl": "https://github.com/jaredh159",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2385,
+      "repoCountPrimary": 1,
+      "starsContains": 2385,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "tailwind-react-native-classnames",
+          "fullName": "jaredh159/tailwind-react-native-classnames",
+          "stars": 2385,
+          "url": "https://github.com/jaredh159/tailwind-react-native-classnames",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

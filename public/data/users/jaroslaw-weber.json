@@ -1,0 +1,34 @@
+{
+  "login": "jaroslaw-weber",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/9774233?v=4",
+  "htmlUrl": "https://github.com/jaroslaw-weber",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 347,
+      "repoCountPrimary": 1,
+      "starsContains": 347,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "algo-lens",
+          "fullName": "jaroslaw-weber/algo-lens",
+          "stars": 347,
+          "url": "https://github.com/jaroslaw-weber/algo-lens",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

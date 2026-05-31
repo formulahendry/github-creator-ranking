@@ -1,0 +1,34 @@
+{
+  "login": "Aakashdeveloper",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7868704?v=4",
+  "htmlUrl": "https://github.com/Aakashdeveloper",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 223,
+      "repoCountPrimary": 1,
+      "starsContains": 223,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Angular5-Seed",
+          "fullName": "Aakashdeveloper/Angular5-Seed",
+          "stars": 223,
+          "url": "https://github.com/Aakashdeveloper/Angular5-Seed",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

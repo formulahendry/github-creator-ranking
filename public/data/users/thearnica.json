@@ -1,0 +1,41 @@
+{
+  "login": "thearnica",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/28553978?v=4",
+  "htmlUrl": "https://github.com/thearnica",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 429,
+      "repoCountPrimary": 2,
+      "starsContains": 429,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-uid",
+          "fullName": "thearnica/react-uid",
+          "stars": 301,
+          "url": "https://github.com/thearnica/react-uid",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-media-match",
+          "fullName": "thearnica/react-media-match",
+          "stars": 128,
+          "url": "https://github.com/thearnica/react-media-match",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "sl1673495",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/23615778?v=4",
+  "htmlUrl": "https://github.com/sl1673495",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 101,
+      "repoCountPrimary": 1,
+      "starsContains": 101,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "typescript-proxy-reactive",
+          "fullName": "sl1673495/typescript-proxy-reactive",
+          "stars": 101,
+          "url": "https://github.com/sl1673495/typescript-proxy-reactive",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

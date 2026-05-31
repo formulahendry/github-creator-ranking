@@ -1,0 +1,41 @@
+{
+  "login": "027xiguapi",
+  "name": "西瓜皮",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/31228055?v=4",
+  "htmlUrl": "https://github.com/027xiguapi",
+  "location": "武汉",
+  "countryCode": "CN",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 4688,
+      "repoCountPrimary": 2,
+      "starsContains": 4688,
+      "repoCountContains": 2,
+      "globalRank": 549,
+      "countryRank": 68,
+      "topRepos": [
+        {
+          "name": "code-box",
+          "fullName": "027xiguapi/code-box",
+          "stars": 3252,
+          "url": "https://github.com/027xiguapi/code-box",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "pear-rec",
+          "fullName": "027xiguapi/pear-rec",
+          "stars": 1436,
+          "url": "https://github.com/027xiguapi/pear-rec",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

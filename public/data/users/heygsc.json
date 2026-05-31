@@ -1,0 +1,41 @@
+{
+  "login": "heygsc",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/103993866?v=4",
+  "htmlUrl": "https://github.com/heygsc",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 684,
+      "repoCountPrimary": 2,
+      "starsContains": 684,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "xiaoheihe-literature",
+          "fullName": "heygsc/xiaoheihe-literature",
+          "stars": 407,
+          "url": "https://github.com/heygsc/xiaoheihe-literature",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "word-wind",
+          "fullName": "heygsc/word-wind",
+          "stars": 277,
+          "url": "https://github.com/heygsc/word-wind",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

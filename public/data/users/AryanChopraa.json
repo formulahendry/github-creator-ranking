@@ -1,0 +1,34 @@
+{
+  "login": "AryanChopraa",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/68810601?v=4",
+  "htmlUrl": "https://github.com/AryanChopraa",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 185,
+      "repoCountPrimary": 1,
+      "starsContains": 185,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "crack-coder",
+          "fullName": "AryanChopraa/crack-coder",
+          "stars": 185,
+          "url": "https://github.com/AryanChopraa/crack-coder",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

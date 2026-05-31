@@ -1,0 +1,41 @@
+{
+  "login": "r2d4",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/896032?v=4",
+  "htmlUrl": "https://github.com/r2d4",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 913,
+      "repoCountPrimary": 2,
+      "starsContains": 913,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-llm",
+          "fullName": "r2d4/react-llm",
+          "stars": 700,
+          "url": "https://github.com/r2d4/react-llm",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "llm.ts",
+          "fullName": "r2d4/llm.ts",
+          "stars": 213,
+          "url": "https://github.com/r2d4/llm.ts",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

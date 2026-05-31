@@ -1,0 +1,41 @@
+{
+  "login": "littledivy",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/34997667?v=4",
+  "htmlUrl": "https://github.com/littledivy",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 386,
+      "repoCountPrimary": 2,
+      "starsContains": 386,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "wgui",
+          "fullName": "littledivy/wgui",
+          "stars": 201,
+          "url": "https://github.com/littledivy/wgui",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "deno_sdl2",
+          "fullName": "littledivy/deno_sdl2",
+          "stars": 185,
+          "url": "https://github.com/littledivy/deno_sdl2",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

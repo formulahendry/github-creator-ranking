@@ -1,0 +1,41 @@
+{
+  "login": "thekevinscott",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/151596?v=4",
+  "htmlUrl": "https://github.com/thekevinscott",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1129,
+      "repoCountPrimary": 2,
+      "starsContains": 1129,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "UpscalerJS",
+          "fullName": "thekevinscott/UpscalerJS",
+          "stars": 882,
+          "url": "https://github.com/thekevinscott/UpscalerJS",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ml-classifier-ui",
+          "fullName": "thekevinscott/ml-classifier-ui",
+          "stars": 247,
+          "url": "https://github.com/thekevinscott/ml-classifier-ui",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

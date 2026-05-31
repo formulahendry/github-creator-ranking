@@ -1,0 +1,34 @@
+{
+  "login": "marinantonio",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/12559847?v=4",
+  "htmlUrl": "https://github.com/marinantonio",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 377,
+      "repoCountPrimary": 1,
+      "starsContains": 377,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "angular-mat-table-crud",
+          "fullName": "marinantonio/angular-mat-table-crud",
+          "stars": 377,
+          "url": "https://github.com/marinantonio/angular-mat-table-crud",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

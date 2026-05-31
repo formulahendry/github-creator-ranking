@@ -1,0 +1,41 @@
+{
+  "login": "fkirc",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/17876666?v=4",
+  "htmlUrl": "https://github.com/fkirc",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 891,
+      "repoCountPrimary": 2,
+      "starsContains": 891,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "skip-duplicate-actions",
+          "fullName": "fkirc/skip-duplicate-actions",
+          "stars": 536,
+          "url": "https://github.com/fkirc/skip-duplicate-actions",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "attranslate",
+          "fullName": "fkirc/attranslate",
+          "stars": 355,
+          "url": "https://github.com/fkirc/attranslate",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

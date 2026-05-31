@@ -1,0 +1,34 @@
+{
+  "login": "GiantappMan",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/80653?v=4",
+  "htmlUrl": "https://github.com/GiantappMan",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1031,
+      "repoCountPrimary": 1,
+      "starsContains": 1031,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "livewallpaper",
+          "fullName": "GiantappMan/livewallpaper",
+          "stars": 1031,
+          "url": "https://github.com/GiantappMan/livewallpaper",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

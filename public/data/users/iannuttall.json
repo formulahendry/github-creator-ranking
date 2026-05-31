@@ -1,0 +1,62 @@
+{
+  "login": "iannuttall",
+  "name": "ian",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6681919?v=4",
+  "htmlUrl": "https://github.com/iannuttall",
+  "location": "Nottingham",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2875,
+      "repoCountPrimary": 5,
+      "starsContains": 2875,
+      "repoCountContains": 5,
+      "globalRank": 933,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "mcp-boilerplate",
+          "fullName": "iannuttall/mcp-boilerplate",
+          "stars": 1021,
+          "url": "https://github.com/iannuttall/mcp-boilerplate",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ralph",
+          "fullName": "iannuttall/ralph",
+          "stars": 927,
+          "url": "https://github.com/iannuttall/ralph",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "dotagents",
+          "fullName": "iannuttall/dotagents",
+          "stars": 686,
+          "url": "https://github.com/iannuttall/dotagents",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "source-agents",
+          "fullName": "iannuttall/source-agents",
+          "stars": 125,
+          "url": "https://github.com/iannuttall/source-agents",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "tab-stash",
+          "fullName": "iannuttall/tab-stash",
+          "stars": 116,
+          "url": "https://github.com/iannuttall/tab-stash",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

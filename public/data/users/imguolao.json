@@ -1,0 +1,34 @@
+{
+  "login": "imguolao",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/25502024?v=4",
+  "htmlUrl": "https://github.com/imguolao",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 340,
+      "repoCountPrimary": 1,
+      "starsContains": 340,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "monaco-vue",
+          "fullName": "imguolao/monaco-vue",
+          "stars": 340,
+          "url": "https://github.com/imguolao/monaco-vue",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

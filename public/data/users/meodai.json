@@ -1,0 +1,62 @@
+{
+  "login": "meodai",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/608386?v=4",
+  "htmlUrl": "https://github.com/meodai",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2041,
+      "repoCountPrimary": 5,
+      "starsContains": 2041,
+      "repoCountContains": 5,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "poline",
+          "fullName": "meodai/poline",
+          "stars": 1223,
+          "url": "https://github.com/meodai/poline",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "rampensau",
+          "fullName": "meodai/rampensau",
+          "stars": 302,
+          "url": "https://github.com/meodai/rampensau",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "fettepalette",
+          "fullName": "meodai/fettepalette",
+          "stars": 195,
+          "url": "https://github.com/meodai/fettepalette",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "RYBitten",
+          "fullName": "meodai/RYBitten",
+          "stars": 180,
+          "url": "https://github.com/meodai/RYBitten",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "dittoTones",
+          "fullName": "meodai/dittoTones",
+          "stars": 141,
+          "url": "https://github.com/meodai/dittoTones",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

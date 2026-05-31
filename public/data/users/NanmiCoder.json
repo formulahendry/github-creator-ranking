@@ -1,0 +1,34 @@
+{
+  "login": "NanmiCoder",
+  "name": "程序员阿江-Relakkes",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/47178017?v=4",
+  "htmlUrl": "https://github.com/NanmiCoder",
+  "location": "ShenZhen",
+  "countryCode": "CN",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 12003,
+      "repoCountPrimary": 1,
+      "starsContains": 12003,
+      "repoCountContains": 1,
+      "globalRank": 172,
+      "countryRank": 20,
+      "topRepos": [
+        {
+          "name": "cc-haha",
+          "fullName": "NanmiCoder/cc-haha",
+          "stars": 12003,
+          "url": "https://github.com/NanmiCoder/cc-haha",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "yjose",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/11137944?v=4",
+  "htmlUrl": "https://github.com/yjose",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2084,
+      "repoCountPrimary": 2,
+      "starsContains": 2084,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "reactjs-popup",
+          "fullName": "yjose/reactjs-popup",
+          "stars": 1807,
+          "url": "https://github.com/yjose/reactjs-popup",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "input-otp-native",
+          "fullName": "yjose/input-otp-native",
+          "stars": 277,
+          "url": "https://github.com/yjose/input-otp-native",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

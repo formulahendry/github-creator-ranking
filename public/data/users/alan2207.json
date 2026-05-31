@@ -1,11 +1,11 @@
 {
   "login": "alan2207",
-  "name": null,
+  "name": "Alan Alickovic",
   "avatarUrl": "https://avatars.githubusercontent.com/u/12713315?v=4",
   "htmlUrl": "https://github.com/alan2207",
   "location": null,
   "countryCode": null,
-  "generatedAt": "2026-05-31T13:50:40.799Z",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
   "isPartial": true,
   "languages": [
     {
@@ -14,18 +14,25 @@
         "name": "TypeScript",
         "githubQuery": "TypeScript"
       },
-      "starsPrimary": 35212,
-      "repoCountPrimary": 1,
-      "starsContains": 35212,
-      "repoCountContains": 1,
-      "globalRank": 25,
+      "starsPrimary": 35632,
+      "repoCountPrimary": 2,
+      "starsContains": 35632,
+      "repoCountContains": 2,
+      "globalRank": 33,
       "countryRank": null,
       "topRepos": [
         {
           "name": "bulletproof-react",
           "fullName": "alan2207/bulletproof-react",
-          "stars": 35212,
+          "stars": 35217,
           "url": "https://github.com/alan2207/bulletproof-react",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-query-auth",
+          "fullName": "alan2207/react-query-auth",
+          "stars": 415,
+          "url": "https://github.com/alan2207/react-query-auth",
           "primaryLanguage": "TypeScript"
         }
       ]

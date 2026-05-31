@@ -1,0 +1,34 @@
+{
+  "login": "riad-azz",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/80968727?v=4",
+  "htmlUrl": "https://github.com/riad-azz",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 421,
+      "repoCountPrimary": 1,
+      "starsContains": 421,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "instagram-video-downloader",
+          "fullName": "riad-azz/instagram-video-downloader",
+          "stars": 421,
+          "url": "https://github.com/riad-azz/instagram-video-downloader",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

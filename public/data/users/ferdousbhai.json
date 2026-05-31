@@ -1,0 +1,34 @@
+{
+  "login": "ferdousbhai",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/23114244?v=4",
+  "htmlUrl": "https://github.com/ferdousbhai",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 329,
+      "repoCountPrimary": 1,
+      "starsContains": 329,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "investor-agent",
+          "fullName": "ferdousbhai/investor-agent",
+          "stars": 329,
+          "url": "https://github.com/ferdousbhai/investor-agent",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

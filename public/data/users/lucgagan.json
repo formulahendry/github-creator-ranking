@@ -1,0 +1,34 @@
+{
+  "login": "lucgagan",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/134170834?v=4",
+  "htmlUrl": "https://github.com/lucgagan",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 843,
+      "repoCountPrimary": 1,
+      "starsContains": 843,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "auto-playwright",
+          "fullName": "lucgagan/auto-playwright",
+          "stars": 843,
+          "url": "https://github.com/lucgagan/auto-playwright",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

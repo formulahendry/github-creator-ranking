@@ -1,0 +1,34 @@
+{
+  "login": "w4n9hu1",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/20451477?v=4",
+  "htmlUrl": "https://github.com/w4n9hu1",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 212,
+      "repoCountPrimary": 1,
+      "starsContains": 212,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "hot-hub-web",
+          "fullName": "w4n9hu1/hot-hub-web",
+          "stars": 212,
+          "url": "https://github.com/w4n9hu1/hot-hub-web",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

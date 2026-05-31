@@ -1,0 +1,34 @@
+{
+  "login": "hntrl",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/40191806?v=4",
+  "htmlUrl": "https://github.com/hntrl",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 209,
+      "repoCountPrimary": 1,
+      "starsContains": 209,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "eventkit",
+          "fullName": "hntrl/eventkit",
+          "stars": 209,
+          "url": "https://github.com/hntrl/eventkit",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

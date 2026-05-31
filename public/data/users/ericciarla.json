@@ -1,0 +1,48 @@
+{
+  "login": "ericciarla",
+  "name": "Eric Ciarla",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/43451761?v=4",
+  "htmlUrl": "https://github.com/ericciarla",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 4670,
+      "repoCountPrimary": 3,
+      "starsContains": 4670,
+      "repoCountContains": 3,
+      "globalRank": 551,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "trendFinder",
+          "fullName": "ericciarla/trendFinder",
+          "stars": 4015,
+          "url": "https://github.com/ericciarla/trendFinder",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "babyagijs",
+          "fullName": "ericciarla/babyagijs",
+          "stars": 382,
+          "url": "https://github.com/ericciarla/babyagijs",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "aginews",
+          "fullName": "ericciarla/aginews",
+          "stars": 273,
+          "url": "https://github.com/ericciarla/aginews",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

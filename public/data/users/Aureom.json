@@ -1,0 +1,34 @@
+{
+  "login": "Aureom",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/38025621?v=4",
+  "htmlUrl": "https://github.com/Aureom",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 137,
+      "repoCountPrimary": 1,
+      "starsContains": 137,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "live-lol-esports",
+          "fullName": "Aureom/live-lol-esports",
+          "stars": 137,
+          "url": "https://github.com/Aureom/live-lol-esports",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "husamql3",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/111576185?v=4",
+  "htmlUrl": "https://github.com/husamql3",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 338,
+      "repoCountPrimary": 2,
+      "starsContains": 338,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "db-studio",
+          "fullName": "husamql3/db-studio",
+          "stars": 223,
+          "url": "https://github.com/husamql3/db-studio",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "pstrack",
+          "fullName": "husamql3/pstrack",
+          "stars": 115,
+          "url": "https://github.com/husamql3/pstrack",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

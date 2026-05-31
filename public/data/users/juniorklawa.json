@@ -1,0 +1,34 @@
+{
+  "login": "juniorklawa",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7197169?v=4",
+  "htmlUrl": "https://github.com/juniorklawa",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 108,
+      "repoCountPrimary": 1,
+      "starsContains": 108,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-native-auto-size-text",
+          "fullName": "juniorklawa/react-native-auto-size-text",
+          "stars": 108,
+          "url": "https://github.com/juniorklawa/react-native-auto-size-text",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

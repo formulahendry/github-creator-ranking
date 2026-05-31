@@ -1,0 +1,41 @@
+{
+  "login": "broofa",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/164050?v=4",
+  "htmlUrl": "https://github.com/broofa",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2488,
+      "repoCountPrimary": 2,
+      "starsContains": 2488,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "mime",
+          "fullName": "broofa/mime",
+          "stars": 2353,
+          "url": "https://github.com/broofa/mime",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "runmd",
+          "fullName": "broofa/runmd",
+          "stars": 135,
+          "url": "https://github.com/broofa/runmd",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

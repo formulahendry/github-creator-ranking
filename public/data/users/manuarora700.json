@@ -1,0 +1,41 @@
+{
+  "login": "manuarora700",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/23276437?v=4",
+  "htmlUrl": "https://github.com/manuarora700",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 316,
+      "repoCountPrimary": 2,
+      "starsContains": 316,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "sidefolio",
+          "fullName": "manuarora700/sidefolio",
+          "stars": 182,
+          "url": "https://github.com/manuarora700/sidefolio",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "manuaroradotin",
+          "fullName": "manuarora700/manuaroradotin",
+          "stars": 134,
+          "url": "https://github.com/manuarora700/manuaroradotin",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "login": "jmcdo29",
+  "name": "Jackie McDoniel",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/28268680?v=4",
+  "htmlUrl": "https://github.com/jmcdo29",
+  "location": "Concrete, WA",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 4460,
+      "repoCountPrimary": 6,
+      "starsContains": 4460,
+      "repoCountContains": 6,
+      "globalRank": 575,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "testing-nestjs",
+          "fullName": "jmcdo29/testing-nestjs",
+          "stars": 3013,
+          "url": "https://github.com/jmcdo29/testing-nestjs",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "nest-commander",
+          "fullName": "jmcdo29/nest-commander",
+          "stars": 483,
+          "url": "https://github.com/jmcdo29/nest-commander",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "nestjs-spelunker",
+          "fullName": "jmcdo29/nestjs-spelunker",
+          "stars": 411,
+          "url": "https://github.com/jmcdo29/nestjs-spelunker",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ogma",
+          "fullName": "jmcdo29/ogma",
+          "stars": 308,
+          "url": "https://github.com/jmcdo29/ogma",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "nest-lab",
+          "fullName": "jmcdo29/nest-lab",
+          "stars": 125,
+          "url": "https://github.com/jmcdo29/nest-lab",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

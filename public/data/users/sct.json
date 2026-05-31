@@ -1,0 +1,34 @@
+{
+  "login": "sct",
+  "name": "Ryan Cohen",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/234213?v=4",
+  "htmlUrl": "https://github.com/sct",
+  "location": "Calgary, Canada",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 5013,
+      "repoCountPrimary": 1,
+      "starsContains": 5013,
+      "repoCountContains": 1,
+      "globalRank": 503,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "overseerr",
+          "fullName": "sct/overseerr",
+          "stars": 5013,
+          "url": "https://github.com/sct/overseerr",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

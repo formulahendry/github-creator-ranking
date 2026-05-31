@@ -1,0 +1,62 @@
+{
+  "login": "benawad",
+  "name": "Ben Awad",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7872329?v=4",
+  "htmlUrl": "https://github.com/benawad",
+  "location": "San Francisco, CA",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 22620,
+      "repoCountPrimary": 21,
+      "starsContains": 22620,
+      "repoCountContains": 21,
+      "globalRank": 77,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "dogehouse",
+          "fullName": "benawad/dogehouse",
+          "stars": 9030,
+          "url": "https://github.com/benawad/dogehouse",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "destiny",
+          "fullName": "benawad/destiny",
+          "stars": 3514,
+          "url": "https://github.com/benawad/destiny",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vsinder",
+          "fullName": "benawad/vsinder",
+          "stars": 2500,
+          "url": "https://github.com/benawad/vsinder",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "lireddit",
+          "fullName": "benawad/lireddit",
+          "stars": 1752,
+          "url": "https://github.com/benawad/lireddit",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "fullstack-graphql-airbnb-clone",
+          "fullName": "benawad/fullstack-graphql-airbnb-clone",
+          "stars": 1695,
+          "url": "https://github.com/benawad/fullstack-graphql-airbnb-clone",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

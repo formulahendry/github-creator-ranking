@@ -1,0 +1,41 @@
+{
+  "login": "rrs301",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/20216436?v=4",
+  "htmlUrl": "https://github.com/rrs301",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 369,
+      "repoCountPrimary": 2,
+      "starsContains": 369,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "fast-nextjs-v2",
+          "fullName": "rrs301/fast-nextjs-v2",
+          "stars": 253,
+          "url": "https://github.com/rrs301/fast-nextjs-v2",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "erasor_clone",
+          "fullName": "rrs301/erasor_clone",
+          "stars": 116,
+          "url": "https://github.com/rrs301/erasor_clone",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

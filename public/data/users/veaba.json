@@ -1,0 +1,34 @@
+{
+  "login": "veaba",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/8652596?v=4",
+  "htmlUrl": "https://github.com/veaba",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 247,
+      "repoCountPrimary": 1,
+      "starsContains": 247,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ncov",
+          "fullName": "veaba/ncov",
+          "stars": 247,
+          "url": "https://github.com/veaba/ncov",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "WuMingDao",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/146366930?v=4",
+  "htmlUrl": "https://github.com/WuMingDao",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 434,
+      "repoCountPrimary": 2,
+      "starsContains": 434,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "claude-code-v-2.1.88",
+          "fullName": "WuMingDao/claude-code-v-2.1.88",
+          "stars": 225,
+          "url": "https://github.com/WuMingDao/claude-code-v-2.1.88",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "zenith-image-generator",
+          "fullName": "WuMingDao/zenith-image-generator",
+          "stars": 209,
+          "url": "https://github.com/WuMingDao/zenith-image-generator",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

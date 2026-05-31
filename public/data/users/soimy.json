@@ -1,0 +1,34 @@
+{
+  "login": "soimy",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1550237?v=4",
+  "htmlUrl": "https://github.com/soimy",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1660,
+      "repoCountPrimary": 1,
+      "starsContains": 1660,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "openclaw-channel-dingtalk",
+          "fullName": "soimy/openclaw-channel-dingtalk",
+          "stars": 1660,
+          "url": "https://github.com/soimy/openclaw-channel-dingtalk",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "login": "debanjandhar12",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/49021233?v=4",
+  "htmlUrl": "https://github.com/debanjandhar12",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 872,
+      "repoCountPrimary": 3,
+      "starsContains": 872,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "logseq-anki-sync",
+          "fullName": "debanjandhar12/logseq-anki-sync",
+          "stars": 586,
+          "url": "https://github.com/debanjandhar12/logseq-anki-sync",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Obsidian-Anki-Sync",
+          "fullName": "debanjandhar12/Obsidian-Anki-Sync",
+          "stars": 165,
+          "url": "https://github.com/debanjandhar12/Obsidian-Anki-Sync",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "logseq-chatgpt-plugin",
+          "fullName": "debanjandhar12/logseq-chatgpt-plugin",
+          "stars": 121,
+          "url": "https://github.com/debanjandhar12/logseq-chatgpt-plugin",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "login": "sinclairzx81",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3048342?v=4",
+  "htmlUrl": "https://github.com/sinclairzx81",
+  "location": "South Korea",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 11189,
+      "repoCountPrimary": 11,
+      "starsContains": 11189,
+      "repoCountContains": 11,
+      "globalRank": 185,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "typebox",
+          "fullName": "sinclairzx81/typebox",
+          "stars": 6726,
+          "url": "https://github.com/sinclairzx81/typebox",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "zero",
+          "fullName": "sinclairzx81/zero",
+          "stars": 2446,
+          "url": "https://github.com/sinclairzx81/zero",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "smoke",
+          "fullName": "sinclairzx81/smoke",
+          "stars": 627,
+          "url": "https://github.com/sinclairzx81/smoke",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "hammer",
+          "fullName": "sinclairzx81/hammer",
+          "stars": 238,
+          "url": "https://github.com/sinclairzx81/hammer",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "threadbox",
+          "fullName": "sinclairzx81/threadbox",
+          "stars": 231,
+          "url": "https://github.com/sinclairzx81/threadbox",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

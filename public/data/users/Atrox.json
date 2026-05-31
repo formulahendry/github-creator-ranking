@@ -1,0 +1,34 @@
+{
+  "login": "Atrox",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1037067?v=4",
+  "htmlUrl": "https://github.com/Atrox",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 267,
+      "repoCountPrimary": 1,
+      "starsContains": 267,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "haikunatorjs",
+          "fullName": "Atrox/haikunatorjs",
+          "stars": 267,
+          "url": "https://github.com/Atrox/haikunatorjs",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

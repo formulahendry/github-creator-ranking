@@ -1,0 +1,55 @@
+{
+  "login": "joe-bell",
+  "name": "Joe Bell",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7349341?v=4",
+  "htmlUrl": "https://github.com/joe-bell",
+  "location": "Tallinn, Estonia",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 9706,
+      "repoCountPrimary": 4,
+      "starsContains": 9706,
+      "repoCountContains": 4,
+      "globalRank": 232,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "cva",
+          "fullName": "joe-bell/cva",
+          "stars": 6839,
+          "url": "https://github.com/joe-bell/cva",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "plaiceholder",
+          "fullName": "joe-bell/plaiceholder",
+          "stars": 2323,
+          "url": "https://github.com/joe-bell/plaiceholder",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "next-google-fonts",
+          "fullName": "joe-bell/next-google-fonts",
+          "stars": 422,
+          "url": "https://github.com/joe-bell/next-google-fonts",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "raam",
+          "fullName": "joe-bell/raam",
+          "stars": 122,
+          "url": "https://github.com/joe-bell/raam",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

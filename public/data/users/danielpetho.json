@@ -1,0 +1,34 @@
+{
+  "login": "danielpetho",
+  "name": "Daniel Petho",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/14148936?v=4",
+  "htmlUrl": "https://github.com/danielpetho",
+  "location": "Nuremberg",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2912,
+      "repoCountPrimary": 1,
+      "starsContains": 2912,
+      "repoCountContains": 1,
+      "globalRank": 924,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "fancy",
+          "fullName": "danielpetho/fancy",
+          "stars": 2912,
+          "url": "https://github.com/danielpetho/fancy",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

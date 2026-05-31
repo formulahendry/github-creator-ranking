@@ -1,0 +1,41 @@
+{
+  "login": "bitjson",
+  "name": "Jason Dreyzehner",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/904007?v=4",
+  "htmlUrl": "https://github.com/bitjson",
+  "location": "New Hampshire",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 4919,
+      "repoCountPrimary": 2,
+      "starsContains": 4919,
+      "repoCountContains": 2,
+      "globalRank": 515,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "typescript-starter",
+          "fullName": "bitjson/typescript-starter",
+          "stars": 3542,
+          "url": "https://github.com/bitjson/typescript-starter",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "qr-code",
+          "fullName": "bitjson/qr-code",
+          "stars": 1377,
+          "url": "https://github.com/bitjson/qr-code",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

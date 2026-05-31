@@ -1,0 +1,34 @@
+{
+  "login": "wietze",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2811785?v=4",
+  "htmlUrl": "https://github.com/wietze",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 424,
+      "repoCountPrimary": 1,
+      "starsContains": 424,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ArgFuscator.net",
+          "fullName": "wietze/ArgFuscator.net",
+          "stars": 424,
+          "url": "https://github.com/wietze/ArgFuscator.net",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "brookshi",
+  "name": "Brook Shi",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/13607728?v=4",
+  "htmlUrl": "https://github.com/brookshi",
+  "location": "Shenzhen",
+  "countryCode": "CN",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3112,
+      "repoCountPrimary": 2,
+      "starsContains": 3112,
+      "repoCountContains": 2,
+      "globalRank": 867,
+      "countryRank": 102,
+      "topRepos": [
+        {
+          "name": "Hitchhiker",
+          "fullName": "brookshi/Hitchhiker",
+          "stars": 2218,
+          "url": "https://github.com/brookshi/Hitchhiker",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "awesome-typescript-projects",
+          "fullName": "brookshi/awesome-typescript-projects",
+          "stars": 894,
+          "url": "https://github.com/brookshi/awesome-typescript-projects",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

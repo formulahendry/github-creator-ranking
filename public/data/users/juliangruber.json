@@ -1,0 +1,41 @@
+{
+  "login": "juliangruber",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/10247?v=4",
+  "htmlUrl": "https://github.com/juliangruber",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 340,
+      "repoCountPrimary": 2,
+      "starsContains": 340,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "brace-expansion",
+          "fullName": "juliangruber/brace-expansion",
+          "stars": 211,
+          "url": "https://github.com/juliangruber/brace-expansion",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "balanced-match",
+          "fullName": "juliangruber/balanced-match",
+          "stars": 129,
+          "url": "https://github.com/juliangruber/balanced-match",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

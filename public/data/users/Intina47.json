@@ -1,0 +1,34 @@
+{
+  "login": "Intina47",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/78519682?v=4",
+  "htmlUrl": "https://github.com/Intina47",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 157,
+      "repoCountPrimary": 1,
+      "starsContains": 157,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "context-sync",
+          "fullName": "Intina47/context-sync",
+          "stars": 157,
+          "url": "https://github.com/Intina47/context-sync",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

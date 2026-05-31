@@ -1,0 +1,34 @@
+{
+  "login": "afertil",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/19146065?v=4",
+  "htmlUrl": "https://github.com/afertil",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 179,
+      "repoCountPrimary": 1,
+      "starsContains": 179,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "nest-chat-api",
+          "fullName": "afertil/nest-chat-api",
+          "stars": 179,
+          "url": "https://github.com/afertil/nest-chat-api",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

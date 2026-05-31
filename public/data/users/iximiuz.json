@@ -1,0 +1,34 @@
+{
+  "login": "iximiuz",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1437211?v=4",
+  "htmlUrl": "https://github.com/iximiuz",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 930,
+      "repoCountPrimary": 1,
+      "starsContains": 930,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "kexp",
+          "fullName": "iximiuz/kexp",
+          "stars": 930,
+          "url": "https://github.com/iximiuz/kexp",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

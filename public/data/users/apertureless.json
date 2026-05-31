@@ -1,0 +1,34 @@
+{
+  "login": "apertureless",
+  "name": "Jakub",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/4975917?v=4",
+  "htmlUrl": "https://github.com/apertureless",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 5717,
+      "repoCountPrimary": 1,
+      "starsContains": 5717,
+      "repoCountContains": 1,
+      "globalRank": 423,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vue-chartjs",
+          "fullName": "apertureless/vue-chartjs",
+          "stars": 5717,
+          "url": "https://github.com/apertureless/vue-chartjs",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

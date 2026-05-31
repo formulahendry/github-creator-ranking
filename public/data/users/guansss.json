@@ -1,0 +1,41 @@
+{
+  "login": "guansss",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/46285865?v=4",
+  "htmlUrl": "https://github.com/guansss",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1598,
+      "repoCountPrimary": 2,
+      "starsContains": 1598,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "pixi-live2d-display",
+          "fullName": "guansss/pixi-live2d-display",
+          "stars": 1435,
+          "url": "https://github.com/guansss/pixi-live2d-display",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "live2d-viewer-web",
+          "fullName": "guansss/live2d-viewer-web",
+          "stars": 163,
+          "url": "https://github.com/guansss/live2d-viewer-web",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "alioshr",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/54821977?v=4",
+  "htmlUrl": "https://github.com/alioshr",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 905,
+      "repoCountPrimary": 1,
+      "starsContains": 905,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "memory-bank-mcp",
+          "fullName": "alioshr/memory-bank-mcp",
+          "stars": 905,
+          "url": "https://github.com/alioshr/memory-bank-mcp",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

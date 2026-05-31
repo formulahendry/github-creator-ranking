@@ -1,0 +1,48 @@
+{
+  "login": "YOYZHANG",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/68804724?v=4",
+  "htmlUrl": "https://github.com/YOYZHANG",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 823,
+      "repoCountPrimary": 3,
+      "starsContains": 823,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "PodCastLM",
+          "fullName": "YOYZHANG/PodCastLM",
+          "stars": 450,
+          "url": "https://github.com/YOYZHANG/PodCastLM",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "art-avatar",
+          "fullName": "YOYZHANG/art-avatar",
+          "stars": 229,
+          "url": "https://github.com/YOYZHANG/art-avatar",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ai-ppt",
+          "fullName": "YOYZHANG/ai-ppt",
+          "stars": 144,
+          "url": "https://github.com/YOYZHANG/ai-ppt",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

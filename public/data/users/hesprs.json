@@ -1,0 +1,34 @@
+{
+  "login": "hesprs",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/190185753?v=4",
+  "htmlUrl": "https://github.com/hesprs",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 176,
+      "repoCountPrimary": 1,
+      "starsContains": 176,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "obsidian-webdav-sync",
+          "fullName": "hesprs/obsidian-webdav-sync",
+          "stars": 176,
+          "url": "https://github.com/hesprs/obsidian-webdav-sync",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

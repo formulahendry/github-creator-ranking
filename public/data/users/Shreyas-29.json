@@ -1,0 +1,55 @@
+{
+  "login": "Shreyas-29",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/111555846?v=4",
+  "htmlUrl": "https://github.com/Shreyas-29",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1022,
+      "repoCountPrimary": 4,
+      "starsContains": 1022,
+      "repoCountContains": 4,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "luro-ai",
+          "fullName": "Shreyas-29/luro-ai",
+          "stars": 299,
+          "url": "https://github.com/Shreyas-29/luro-ai",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "linkify",
+          "fullName": "Shreyas-29/linkify",
+          "stars": 283,
+          "url": "https://github.com/Shreyas-29/linkify",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "astra",
+          "fullName": "Shreyas-29/astra",
+          "stars": 280,
+          "url": "https://github.com/Shreyas-29/astra",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vetra",
+          "fullName": "Shreyas-29/vetra",
+          "stars": 160,
+          "url": "https://github.com/Shreyas-29/vetra",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

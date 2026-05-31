@@ -1,11 +1,11 @@
 {
   "login": "linshenkx",
-  "name": null,
+  "name": "且炼时光",
   "avatarUrl": "https://avatars.githubusercontent.com/u/32978552?v=4",
   "htmlUrl": "https://github.com/linshenkx",
   "location": null,
   "countryCode": null,
-  "generatedAt": "2026-05-31T13:50:40.799Z",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
   "isPartial": true,
   "languages": [
     {
@@ -14,17 +14,17 @@
         "name": "TypeScript",
         "githubQuery": "TypeScript"
       },
-      "starsPrimary": 30189,
+      "starsPrimary": 30201,
       "repoCountPrimary": 1,
-      "starsContains": 30189,
+      "starsContains": 30201,
       "repoCountContains": 1,
-      "globalRank": null,
+      "globalRank": 44,
       "countryRank": null,
       "topRepos": [
         {
           "name": "prompt-optimizer",
           "fullName": "linshenkx/prompt-optimizer",
-          "stars": 30189,
+          "stars": 30201,
           "url": "https://github.com/linshenkx/prompt-optimizer",
           "primaryLanguage": "TypeScript"
         }

@@ -1,0 +1,41 @@
+{
+  "login": "AmazingAng",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/14728591?v=4",
+  "htmlUrl": "https://github.com/AmazingAng",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 651,
+      "repoCountPrimary": 2,
+      "starsContains": 651,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "auth2api",
+          "fullName": "AmazingAng/auth2api",
+          "stars": 476,
+          "url": "https://github.com/AmazingAng/auth2api",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "PolyWorld",
+          "fullName": "AmazingAng/PolyWorld",
+          "stars": 175,
+          "url": "https://github.com/AmazingAng/PolyWorld",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "JonasKruckenberg",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/25329995?v=4",
+  "htmlUrl": "https://github.com/JonasKruckenberg",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1122,
+      "repoCountPrimary": 1,
+      "starsContains": 1122,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "imagetools",
+          "fullName": "JonasKruckenberg/imagetools",
+          "stars": 1122,
+          "url": "https://github.com/JonasKruckenberg/imagetools",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

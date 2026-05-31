@@ -1,0 +1,48 @@
+{
+  "login": "nanbingxyz",
+  "name": "Ironben",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/11755645?v=4",
+  "htmlUrl": "https://github.com/nanbingxyz",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 5715,
+      "repoCountPrimary": 3,
+      "starsContains": 5715,
+      "repoCountContains": 3,
+      "globalRank": 425,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "5ire",
+          "fullName": "nanbingxyz/5ire",
+          "stars": 5233,
+          "url": "https://github.com/nanbingxyz/5ire",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "mcpsvr",
+          "fullName": "nanbingxyz/mcpsvr",
+          "stars": 303,
+          "url": "https://github.com/nanbingxyz/mcpsvr",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "daily-commit-summarizer",
+          "fullName": "nanbingxyz/daily-commit-summarizer",
+          "stars": 179,
+          "url": "https://github.com/nanbingxyz/daily-commit-summarizer",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

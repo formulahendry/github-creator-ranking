@@ -1,0 +1,41 @@
+{
+  "login": "cassiozen",
+  "name": "Cassio Zen",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/33676?v=4",
+  "htmlUrl": "https://github.com/cassiozen",
+  "location": "Minneapolis",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3594,
+      "repoCountPrimary": 2,
+      "starsContains": 3594,
+      "repoCountContains": 2,
+      "globalRank": 743,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "useStateMachine",
+          "fullName": "cassiozen/useStateMachine",
+          "stars": 2406,
+          "url": "https://github.com/cassiozen/useStateMachine",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "TDungeon",
+          "fullName": "cassiozen/TDungeon",
+          "stars": 1188,
+          "url": "https://github.com/cassiozen/TDungeon",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

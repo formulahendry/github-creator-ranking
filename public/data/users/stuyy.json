@@ -1,0 +1,48 @@
+{
+  "login": "stuyy",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/25330491?v=4",
+  "htmlUrl": "https://github.com/stuyy",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 901,
+      "repoCountPrimary": 3,
+      "starsContains": 901,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "chat-platform-nestjs",
+          "fullName": "stuyy/chat-platform-nestjs",
+          "stars": 431,
+          "url": "https://github.com/stuyy/chat-platform-nestjs",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "chat-platform-react",
+          "fullName": "stuyy/chat-platform-react",
+          "stars": 258,
+          "url": "https://github.com/stuyy/chat-platform-react",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "slappey",
+          "fullName": "stuyy/slappey",
+          "stars": 212,
+          "url": "https://github.com/stuyy/slappey",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

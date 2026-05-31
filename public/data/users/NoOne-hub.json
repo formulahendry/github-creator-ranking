@@ -1,0 +1,34 @@
+{
+  "login": "NoOne-hub",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/43596476?v=4",
+  "htmlUrl": "https://github.com/NoOne-hub",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 752,
+      "repoCountPrimary": 1,
+      "starsContains": 752,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "JSReverser-MCP",
+          "fullName": "NoOne-hub/JSReverser-MCP",
+          "stars": 752,
+          "url": "https://github.com/NoOne-hub/JSReverser-MCP",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

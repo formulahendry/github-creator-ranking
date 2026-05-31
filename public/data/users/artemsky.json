@@ -1,0 +1,41 @@
+{
+  "login": "artemsky",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/16777197?v=4",
+  "htmlUrl": "https://github.com/artemsky",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1111,
+      "repoCountPrimary": 2,
+      "starsContains": 1111,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vue-snotify",
+          "fullName": "artemsky/vue-snotify",
+          "stars": 787,
+          "url": "https://github.com/artemsky/vue-snotify",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ng-snotify",
+          "fullName": "artemsky/ng-snotify",
+          "stars": 324,
+          "url": "https://github.com/artemsky/ng-snotify",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "login": "akinloluwami",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/54487532?v=4",
+  "htmlUrl": "https://github.com/akinloluwami",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2417,
+      "repoCountPrimary": 5,
+      "starsContains": 2417,
+      "repoCountContains": 5,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "avnac",
+          "fullName": "akinloluwami/avnac",
+          "stars": 1455,
+          "url": "https://github.com/akinloluwami/avnac",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "pathwatch",
+          "fullName": "akinloluwami/pathwatch",
+          "stars": 330,
+          "url": "https://github.com/akinloluwami/pathwatch",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-serve",
+          "fullName": "akinloluwami/react-serve",
+          "stars": 249,
+          "url": "https://github.com/akinloluwami/react-serve",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "db-thing",
+          "fullName": "akinloluwami/db-thing",
+          "stars": 210,
+          "url": "https://github.com/akinloluwami/db-thing",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "envii",
+          "fullName": "akinloluwami/envii",
+          "stars": 173,
+          "url": "https://github.com/akinloluwami/envii",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

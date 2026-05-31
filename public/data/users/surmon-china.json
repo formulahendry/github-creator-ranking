@@ -1,0 +1,62 @@
+{
+  "login": "surmon-china",
+  "name": "Surmon",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/14019524?v=4",
+  "htmlUrl": "https://github.com/surmon-china",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 12390,
+      "repoCountPrimary": 8,
+      "starsContains": 12390,
+      "repoCountContains": 8,
+      "globalRank": 166,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "videojs-player",
+          "fullName": "surmon-china/videojs-player",
+          "stars": 5444,
+          "url": "https://github.com/surmon-china/videojs-player",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vue-codemirror",
+          "fullName": "surmon-china/vue-codemirror",
+          "stars": 3471,
+          "url": "https://github.com/surmon-china/vue-codemirror",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "nodepress",
+          "fullName": "surmon-china/nodepress",
+          "stars": 1520,
+          "url": "https://github.com/surmon-china/nodepress",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "surmon.me.native",
+          "fullName": "surmon-china/surmon.me.native",
+          "stars": 618,
+          "url": "https://github.com/surmon-china/surmon.me.native",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vue-touch-ripple",
+          "fullName": "surmon-china/vue-touch-ripple",
+          "stars": 477,
+          "url": "https://github.com/surmon-china/vue-touch-ripple",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

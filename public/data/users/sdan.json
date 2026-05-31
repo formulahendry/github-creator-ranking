@@ -1,0 +1,34 @@
+{
+  "login": "sdan",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/22898443?v=4",
+  "htmlUrl": "https://github.com/sdan",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 467,
+      "repoCountPrimary": 1,
+      "starsContains": 467,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "qwen-web",
+          "fullName": "sdan/qwen-web",
+          "stars": 467,
+          "url": "https://github.com/sdan/qwen-web",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

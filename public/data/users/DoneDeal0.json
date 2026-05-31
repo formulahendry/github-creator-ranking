@@ -1,0 +1,41 @@
+{
+  "login": "DoneDeal0",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/43271780?v=4",
+  "htmlUrl": "https://github.com/DoneDeal0",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1358,
+      "repoCountPrimary": 2,
+      "starsContains": 1358,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "superdiff",
+          "fullName": "DoneDeal0/superdiff",
+          "stars": 1107,
+          "url": "https://github.com/DoneDeal0/superdiff",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Talkr",
+          "fullName": "DoneDeal0/Talkr",
+          "stars": 251,
+          "url": "https://github.com/DoneDeal0/Talkr",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

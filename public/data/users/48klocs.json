@@ -1,0 +1,34 @@
+{
+  "login": "48klocs",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/606888?v=4",
+  "htmlUrl": "https://github.com/48klocs",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 315,
+      "repoCountPrimary": 1,
+      "starsContains": 315,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "dim-wish-list-sources",
+          "fullName": "48klocs/dim-wish-list-sources",
+          "stars": 315,
+          "url": "https://github.com/48klocs/dim-wish-list-sources",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

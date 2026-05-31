@@ -1,0 +1,34 @@
+{
+  "login": "t1mmen",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/192263?v=4",
+  "htmlUrl": "https://github.com/t1mmen",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 104,
+      "repoCountPrimary": 1,
+      "starsContains": 104,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "srtd",
+          "fullName": "t1mmen/srtd",
+          "stars": 104,
+          "url": "https://github.com/t1mmen/srtd",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

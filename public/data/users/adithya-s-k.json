@@ -1,0 +1,41 @@
+{
+  "login": "adithya-s-k",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/27956426?v=4",
+  "htmlUrl": "https://github.com/adithya-s-k",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 628,
+      "repoCountPrimary": 2,
+      "starsContains": 628,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "GitVizz",
+          "fullName": "adithya-s-k/GitVizz",
+          "stars": 446,
+          "url": "https://github.com/adithya-s-k/GitVizz",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "RAG-SaaS",
+          "fullName": "adithya-s-k/RAG-SaaS",
+          "stars": 182,
+          "url": "https://github.com/adithya-s-k/RAG-SaaS",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

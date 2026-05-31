@@ -1,0 +1,34 @@
+{
+  "login": "giacomogaglione",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/53169004?v=4",
+  "htmlUrl": "https://github.com/giacomogaglione",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 138,
+      "repoCountPrimary": 1,
+      "starsContains": 138,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "chef-gpt",
+          "fullName": "giacomogaglione/chef-gpt",
+          "stars": 138,
+          "url": "https://github.com/giacomogaglione/chef-gpt",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

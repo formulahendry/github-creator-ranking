@@ -1,0 +1,41 @@
+{
+  "login": "mlg404",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5060732?v=4",
+  "htmlUrl": "https://github.com/mlg404",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 309,
+      "repoCountPrimary": 2,
+      "starsContains": 309,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "palworld-paldex-api",
+          "fullName": "mlg404/palworld-paldex-api",
+          "stars": 165,
+          "url": "https://github.com/mlg404/palworld-paldex-api",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "whatsapp-music-bot",
+          "fullName": "mlg404/whatsapp-music-bot",
+          "stars": 144,
+          "url": "https://github.com/mlg404/whatsapp-music-bot",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

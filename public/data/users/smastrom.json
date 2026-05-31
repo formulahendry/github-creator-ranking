@@ -1,0 +1,41 @@
+{
+  "login": "smastrom",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/60471784?v=4",
+  "htmlUrl": "https://github.com/smastrom",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1249,
+      "repoCountPrimary": 2,
+      "starsContains": 1249,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "notivue",
+          "fullName": "smastrom/notivue",
+          "stars": 866,
+          "url": "https://github.com/smastrom/notivue",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-rating",
+          "fullName": "smastrom/react-rating",
+          "stars": 383,
+          "url": "https://github.com/smastrom/react-rating",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

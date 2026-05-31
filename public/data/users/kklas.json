@@ -1,0 +1,34 @@
+{
+  "login": "kklas",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7824233?v=4",
+  "htmlUrl": "https://github.com/kklas",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 213,
+      "repoCountPrimary": 1,
+      "starsContains": 213,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "anchor-client-gen",
+          "fullName": "kklas/anchor-client-gen",
+          "stars": 213,
+          "url": "https://github.com/kklas/anchor-client-gen",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

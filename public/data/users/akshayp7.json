@@ -1,0 +1,34 @@
+{
+  "login": "akshayp7",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/78036666?v=4",
+  "htmlUrl": "https://github.com/akshayp7",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 692,
+      "repoCountPrimary": 1,
+      "starsContains": 692,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "playwright-typescript-playwright-test",
+          "fullName": "akshayp7/playwright-typescript-playwright-test",
+          "stars": 692,
+          "url": "https://github.com/akshayp7/playwright-typescript-playwright-test",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "eveningkid",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7188494?v=4",
+  "htmlUrl": "https://github.com/eveningkid",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2274,
+      "repoCountPrimary": 2,
+      "starsContains": 2274,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "denodb",
+          "fullName": "eveningkid/denodb",
+          "stars": 1927,
+          "url": "https://github.com/eveningkid/denodb",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-native-popable",
+          "fullName": "eveningkid/react-native-popable",
+          "stars": 347,
+          "url": "https://github.com/eveningkid/react-native-popable",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

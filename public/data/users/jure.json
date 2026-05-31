@@ -1,0 +1,34 @@
+{
+  "login": "jure",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/238667?v=4",
+  "htmlUrl": "https://github.com/jure",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 390,
+      "repoCountPrimary": 1,
+      "starsContains": 390,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "webphysics",
+          "fullName": "jure/webphysics",
+          "stars": 390,
+          "url": "https://github.com/jure/webphysics",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

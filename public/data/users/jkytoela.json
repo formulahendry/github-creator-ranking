@@ -1,0 +1,34 @@
+{
+  "login": "jkytoela",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/26070640?v=4",
+  "htmlUrl": "https://github.com/jkytoela",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 725,
+      "repoCountPrimary": 1,
+      "starsContains": 725,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "next-startd",
+          "fullName": "jkytoela/next-startd",
+          "stars": 725,
+          "url": "https://github.com/jkytoela/next-startd",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

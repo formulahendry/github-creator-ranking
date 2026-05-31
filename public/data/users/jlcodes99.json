@@ -1,0 +1,34 @@
+{
+  "login": "jlcodes99",
+  "name": "JieLi",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/224477852?v=4",
+  "htmlUrl": "https://github.com/jlcodes99",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 4693,
+      "repoCountPrimary": 1,
+      "starsContains": 4693,
+      "repoCountContains": 1,
+      "globalRank": 545,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vscode-antigravity-cockpit",
+          "fullName": "jlcodes99/vscode-antigravity-cockpit",
+          "stars": 4693,
+          "url": "https://github.com/jlcodes99/vscode-antigravity-cockpit",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "mschwarzmueller",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/16095164?v=4",
+  "htmlUrl": "https://github.com/mschwarzmueller",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 983,
+      "repoCountPrimary": 2,
+      "starsContains": 983,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "angular-complete-guide-course-resources",
+          "fullName": "mschwarzmueller/angular-complete-guide-course-resources",
+          "stars": 823,
+          "url": "https://github.com/mschwarzmueller/angular-complete-guide-course-resources",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "understanding-typescript-resources",
+          "fullName": "mschwarzmueller/understanding-typescript-resources",
+          "stars": 160,
+          "url": "https://github.com/mschwarzmueller/understanding-typescript-resources",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

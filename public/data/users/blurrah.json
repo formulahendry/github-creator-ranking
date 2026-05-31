@@ -1,0 +1,34 @@
+{
+  "login": "blurrah",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2852507?v=4",
+  "htmlUrl": "https://github.com/blurrah",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 389,
+      "repoCountPrimary": 1,
+      "starsContains": 389,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "mcp-graphql",
+          "fullName": "blurrah/mcp-graphql",
+          "stars": 389,
+          "url": "https://github.com/blurrah/mcp-graphql",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

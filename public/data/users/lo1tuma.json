@@ -1,0 +1,34 @@
+{
+  "login": "lo1tuma",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/169170?v=4",
+  "htmlUrl": "https://github.com/lo1tuma",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 288,
+      "repoCountPrimary": 1,
+      "starsContains": 288,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "eslint-plugin-mocha",
+          "fullName": "lo1tuma/eslint-plugin-mocha",
+          "stars": 288,
+          "url": "https://github.com/lo1tuma/eslint-plugin-mocha",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "bcakmakoglu",
+  "name": "Braks",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/78412429?v=4",
+  "htmlUrl": "https://github.com/bcakmakoglu",
+  "location": "Hamburg, Germany",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 6850,
+      "repoCountPrimary": 2,
+      "starsContains": 6850,
+      "repoCountContains": 2,
+      "globalRank": 337,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vue-flow",
+          "fullName": "bcakmakoglu/vue-flow",
+          "stars": 6620,
+          "url": "https://github.com/bcakmakoglu/vue-flow",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "revue-draggable",
+          "fullName": "bcakmakoglu/revue-draggable",
+          "stars": 230,
+          "url": "https://github.com/bcakmakoglu/revue-draggable",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

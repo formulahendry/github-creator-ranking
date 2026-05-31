@@ -1,0 +1,55 @@
+{
+  "login": "urish",
+  "name": "Uri Shaked",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/892318?v=4",
+  "htmlUrl": "https://github.com/urish",
+  "location": "Israel",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2825,
+      "repoCountPrimary": 4,
+      "starsContains": 2825,
+      "repoCountContains": 4,
+      "globalRank": 950,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ngx-moment",
+          "fullName": "urish/ngx-moment",
+          "stars": 1160,
+          "url": "https://github.com/urish/ngx-moment",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "angular-spinner",
+          "fullName": "urish/angular-spinner",
+          "stars": 689,
+          "url": "https://github.com/urish/angular-spinner",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "firebase-server",
+          "fullName": "urish/firebase-server",
+          "stars": 672,
+          "url": "https://github.com/urish/firebase-server",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "muse-js",
+          "fullName": "urish/muse-js",
+          "stars": 304,
+          "url": "https://github.com/urish/muse-js",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

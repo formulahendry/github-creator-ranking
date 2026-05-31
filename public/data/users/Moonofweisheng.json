@@ -1,0 +1,34 @@
+{
+  "login": "Moonofweisheng",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/26426873?v=4",
+  "htmlUrl": "https://github.com/Moonofweisheng",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2253,
+      "repoCountPrimary": 1,
+      "starsContains": 2253,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "wot-design-uni",
+          "fullName": "Moonofweisheng/wot-design-uni",
+          "stars": 2253,
+          "url": "https://github.com/Moonofweisheng/wot-design-uni",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "rtivital",
+  "name": "Vitaly Rtishchev",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/10353856?v=4",
+  "htmlUrl": "https://github.com/rtivital",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3090,
+      "repoCountPrimary": 2,
+      "starsContains": 3090,
+      "repoCountContains": 2,
+      "globalRank": 873,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "omatsuri",
+          "fullName": "rtivital/omatsuri",
+          "stars": 2968,
+          "url": "https://github.com/rtivital/omatsuri",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "mantine-v7",
+          "fullName": "rtivital/mantine-v7",
+          "stars": 122,
+          "url": "https://github.com/rtivital/mantine-v7",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

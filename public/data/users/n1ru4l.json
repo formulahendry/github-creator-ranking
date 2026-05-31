@@ -1,0 +1,48 @@
+{
+  "login": "n1ru4l",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/14338007?v=4",
+  "htmlUrl": "https://github.com/n1ru4l",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 771,
+      "repoCountPrimary": 3,
+      "starsContains": 771,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "graphql-live-query",
+          "fullName": "n1ru4l/graphql-live-query",
+          "stars": 439,
+          "url": "https://github.com/n1ru4l/graphql-live-query",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "use-async-effect",
+          "fullName": "n1ru4l/use-async-effect",
+          "stars": 197,
+          "url": "https://github.com/n1ru4l/use-async-effect",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "graphql-bleeding-edge-playground",
+          "fullName": "n1ru4l/graphql-bleeding-edge-playground",
+          "stars": 135,
+          "url": "https://github.com/n1ru4l/graphql-bleeding-edge-playground",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

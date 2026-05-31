@@ -1,0 +1,34 @@
+{
+  "login": "sahibzada-allahyar",
+  "name": "Sahibzada",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/94376830?v=4",
+  "htmlUrl": "https://github.com/sahibzada-allahyar",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2769,
+      "repoCountPrimary": 1,
+      "starsContains": 2769,
+      "repoCountContains": 1,
+      "globalRank": 967,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "YC-Killer",
+          "fullName": "sahibzada-allahyar/YC-Killer",
+          "stars": 2769,
+          "url": "https://github.com/sahibzada-allahyar/YC-Killer",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

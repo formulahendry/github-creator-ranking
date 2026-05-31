@@ -1,0 +1,34 @@
+{
+  "login": "sinanbekar",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/73553699?v=4",
+  "htmlUrl": "https://github.com/sinanbekar",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 169,
+      "repoCountPrimary": 1,
+      "starsContains": 169,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "browser-extension-react-typescript-starter",
+          "fullName": "sinanbekar/browser-extension-react-typescript-starter",
+          "stars": 169,
+          "url": "https://github.com/sinanbekar/browser-extension-react-typescript-starter",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "brapifra",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/17855450?v=4",
+  "htmlUrl": "https://github.com/brapifra",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 100,
+      "repoCountPrimary": 1,
+      "starsContains": 100,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vscode-phpserver",
+          "fullName": "brapifra/vscode-phpserver",
+          "stars": 100,
+          "url": "https://github.com/brapifra/vscode-phpserver",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "jmstar85",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/4708151?v=4",
+  "htmlUrl": "https://github.com/jmstar85",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 120,
+      "repoCountPrimary": 1,
+      "starsContains": 120,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "oh-my-githubcopilot",
+          "fullName": "jmstar85/oh-my-githubcopilot",
+          "stars": 120,
+          "url": "https://github.com/jmstar85/oh-my-githubcopilot",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

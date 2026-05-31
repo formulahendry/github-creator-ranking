@@ -1,0 +1,48 @@
+{
+  "login": "beizhedenglong",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/12963675?v=4",
+  "htmlUrl": "https://github.com/beizhedenglong",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2313,
+      "repoCountPrimary": 3,
+      "starsContains": 2313,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "rough-charts",
+          "fullName": "beizhedenglong/rough-charts",
+          "stars": 1546,
+          "url": "https://github.com/beizhedenglong/rough-charts",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "weird-fonts",
+          "fullName": "beizhedenglong/weird-fonts",
+          "stars": 618,
+          "url": "https://github.com/beizhedenglong/weird-fonts",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vue-hooks-form",
+          "fullName": "beizhedenglong/vue-hooks-form",
+          "stars": 149,
+          "url": "https://github.com/beizhedenglong/vue-hooks-form",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "kentaro-m",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7448569?v=4",
+  "htmlUrl": "https://github.com/kentaro-m",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 647,
+      "repoCountPrimary": 2,
+      "starsContains": 647,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "auto-assign-action",
+          "fullName": "kentaro-m/auto-assign-action",
+          "stars": 393,
+          "url": "https://github.com/kentaro-m/auto-assign-action",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "auto-assign",
+          "fullName": "kentaro-m/auto-assign",
+          "stars": 254,
+          "url": "https://github.com/kentaro-m/auto-assign",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

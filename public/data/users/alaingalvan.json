@@ -1,0 +1,41 @@
+{
+  "login": "alaingalvan",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2251123?v=4",
+  "htmlUrl": "https://github.com/alaingalvan",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 407,
+      "repoCountPrimary": 2,
+      "starsContains": 407,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "webgpu-seed",
+          "fullName": "alaingalvan/webgpu-seed",
+          "stars": 304,
+          "url": "https://github.com/alaingalvan/webgpu-seed",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "image-editor-effects",
+          "fullName": "alaingalvan/image-editor-effects",
+          "stars": 103,
+          "url": "https://github.com/alaingalvan/image-editor-effects",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

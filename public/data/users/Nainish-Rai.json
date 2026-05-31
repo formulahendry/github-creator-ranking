@@ -1,0 +1,41 @@
+{
+  "login": "Nainish-Rai",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/109546113?v=4",
+  "htmlUrl": "https://github.com/Nainish-Rai",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 508,
+      "repoCountPrimary": 2,
+      "starsContains": 508,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "strings-web",
+          "fullName": "Nainish-Rai/strings-web",
+          "stars": 375,
+          "url": "https://github.com/Nainish-Rai/strings-web",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "paper_ai",
+          "fullName": "Nainish-Rai/paper_ai",
+          "stars": 133,
+          "url": "https://github.com/Nainish-Rai/paper_ai",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

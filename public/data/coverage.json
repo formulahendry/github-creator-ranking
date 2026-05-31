@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-05-31T13:50:40.799Z",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
   "isPartial": true,
   "minStars": 100,
   "maxStars": 250000,
-  "searchPagesPerBucket": 1,
-  "searchBucketLimit": 4,
+  "searchPagesPerBucket": 10,
+  "searchBucketLimit": 200,
   "buckets": [
     {
       "language": "typescript",
@@ -16,23 +16,359 @@
     {
       "language": "typescript",
       "stars": "62576..125050",
-      "totalCount": 38,
-      "collectedRepos": 38,
+      "totalCount": 39,
+      "collectedRepos": 39,
       "truncated": false
     },
     {
       "language": "typescript",
       "stars": "31338..62575",
-      "totalCount": 128,
-      "collectedRepos": 100,
-      "truncated": true
+      "totalCount": 127,
+      "collectedRepos": 127,
+      "truncated": false
     },
     {
       "language": "typescript",
       "stars": "15719..31337",
-      "totalCount": 275,
-      "collectedRepos": 100,
-      "truncated": true
+      "totalCount": 276,
+      "collectedRepos": 276,
+      "truncated": false
+    },
+    {
+      "language": "typescript",
+      "stars": "7910..15718",
+      "totalCount": 503,
+      "collectedRepos": 503,
+      "truncated": false
+    },
+    {
+      "language": "typescript",
+      "stars": "4005..7909",
+      "totalCount": 864,
+      "collectedRepos": 864,
+      "truncated": false
+    },
+    {
+      "language": "typescript",
+      "stars": "3029..4004",
+      "totalCount": 479,
+      "collectedRepos": 479,
+      "truncated": false
+    },
+    {
+      "language": "typescript",
+      "stars": "2053..3028",
+      "totalCount": 930,
+      "collectedRepos": 930,
+      "truncated": false
+    },
+    {
+      "language": "typescript",
+      "stars": "1565..2052",
+      "totalCount": 885,
+      "collectedRepos": 885,
+      "truncated": false
+    },
+    {
+      "language": "typescript",
+      "stars": "1321..1564",
+      "totalCount": 642,
+      "collectedRepos": 642,
+      "truncated": false
+    },
+    {
+      "language": "typescript",
+      "stars": "1077..1320",
+      "totalCount": 800,
+      "collectedRepos": 800,
+      "truncated": false
+    },
+    {
+      "language": "typescript",
+      "stars": "955..1076",
+      "totalCount": 506,
+      "collectedRepos": 506,
+      "truncated": false
+    },
+    {
+      "language": "typescript",
+      "stars": "833..954",
+      "totalCount": 654,
+      "collectedRepos": 654,
+      "truncated": false
+    },
+    {
+      "language": "typescript",
+      "stars": "711..832",
+      "totalCount": 944,
+      "collectedRepos": 944,
+      "truncated": false
+    },
+    {
+      "language": "typescript",
+      "stars": "650..710",
+      "totalCount": 564,
+      "collectedRepos": 564,
+      "truncated": false
+    },
+    {
+      "language": "typescript",
+      "stars": "589..649",
+      "totalCount": 678,
+      "collectedRepos": 678,
+      "truncated": false
+    },
+    {
+      "language": "typescript",
+      "stars": "528..588",
+      "totalCount": 748,
+      "collectedRepos": 748,
+      "truncated": false
+    },
+    {
+      "language": "typescript",
+      "stars": "498..527",
+      "totalCount": 482,
+      "collectedRepos": 482,
+      "truncated": false
+    },
+    {
+      "language": "typescript",
+      "stars": "467..497",
+      "totalCount": 527,
+      "collectedRepos": 527,
+      "truncated": false
+    },
+    {
+      "language": "typescript",
+      "stars": "437..466",
+      "totalCount": 563,
+      "collectedRepos": 563,
+      "truncated": false
+    },
+    {
+      "language": "typescript",
+      "stars": "406..436",
+      "totalCount": 645,
+      "collectedRepos": 645,
+      "truncated": false
+    },
+    {
+      "language": "typescript",
+      "stars": "376..405",
+      "totalCount": 711,
+      "collectedRepos": 711,
+      "truncated": false
+    },
+    {
+      "language": "typescript",
+      "stars": "345..375",
+      "totalCount": 872,
+      "collectedRepos": 872,
+      "truncated": false
+    },
+    {
+      "language": "typescript",
+      "stars": "315..344",
+      "totalCount": 950,
+      "collectedRepos": 950,
+      "truncated": false
+    },
+    {
+      "language": "typescript",
+      "stars": "300..314",
+      "totalCount": 581,
+      "collectedRepos": 581,
+      "truncated": false
+    },
+    {
+      "language": "typescript",
+      "stars": "284..299",
+      "totalCount": 677,
+      "collectedRepos": 677,
+      "truncated": false
+    },
+    {
+      "language": "typescript",
+      "stars": "269..283",
+      "totalCount": 675,
+      "collectedRepos": 675,
+      "truncated": false
+    },
+    {
+      "language": "typescript",
+      "stars": "254..268",
+      "totalCount": 750,
+      "collectedRepos": 750,
+      "truncated": false
+    },
+    {
+      "language": "typescript",
+      "stars": "239..253",
+      "totalCount": 746,
+      "collectedRepos": 746,
+      "truncated": false
+    },
+    {
+      "language": "typescript",
+      "stars": "223..238",
+      "totalCount": 928,
+      "collectedRepos": 928,
+      "truncated": false
+    },
+    {
+      "language": "typescript",
+      "stars": "216..222",
+      "totalCount": 459,
+      "collectedRepos": 459,
+      "truncated": false
+    },
+    {
+      "language": "typescript",
+      "stars": "208..215",
+      "totalCount": 550,
+      "collectedRepos": 550,
+      "truncated": false
+    },
+    {
+      "language": "typescript",
+      "stars": "201..207",
+      "totalCount": 493,
+      "collectedRepos": 493,
+      "truncated": false
+    },
+    {
+      "language": "typescript",
+      "stars": "193..200",
+      "totalCount": 616,
+      "collectedRepos": 616,
+      "truncated": false
+    },
+    {
+      "language": "typescript",
+      "stars": "186..192",
+      "totalCount": 577,
+      "collectedRepos": 577,
+      "truncated": false
+    },
+    {
+      "language": "typescript",
+      "stars": "178..185",
+      "totalCount": 728,
+      "collectedRepos": 728,
+      "truncated": false
+    },
+    {
+      "language": "typescript",
+      "stars": "170..177",
+      "totalCount": 766,
+      "collectedRepos": 766,
+      "truncated": false
+    },
+    {
+      "language": "typescript",
+      "stars": "162..169",
+      "totalCount": 825,
+      "collectedRepos": 825,
+      "truncated": false
+    },
+    {
+      "language": "typescript",
+      "stars": "155..161",
+      "totalCount": 819,
+      "collectedRepos": 819,
+      "truncated": false
+    },
+    {
+      "language": "typescript",
+      "stars": "147..154",
+      "totalCount": 915,
+      "collectedRepos": 915,
+      "truncated": false
+    },
+    {
+      "language": "typescript",
+      "stars": "143..146",
+      "totalCount": 518,
+      "collectedRepos": 518,
+      "truncated": false
+    },
+    {
+      "language": "typescript",
+      "stars": "139..142",
+      "totalCount": 500,
+      "collectedRepos": 500,
+      "truncated": false
+    },
+    {
+      "language": "typescript",
+      "stars": "135..138",
+      "totalCount": 562,
+      "collectedRepos": 562,
+      "truncated": false
+    },
+    {
+      "language": "typescript",
+      "stars": "131..134",
+      "totalCount": 606,
+      "collectedRepos": 606,
+      "truncated": false
+    },
+    {
+      "language": "typescript",
+      "stars": "128..130",
+      "totalCount": 483,
+      "collectedRepos": 483,
+      "truncated": false
+    },
+    {
+      "language": "typescript",
+      "stars": "124..127",
+      "totalCount": 667,
+      "collectedRepos": 667,
+      "truncated": false
+    },
+    {
+      "language": "typescript",
+      "stars": "120..123",
+      "totalCount": 696,
+      "collectedRepos": 696,
+      "truncated": false
+    },
+    {
+      "language": "typescript",
+      "stars": "116..119",
+      "totalCount": 690,
+      "collectedRepos": 690,
+      "truncated": false
+    },
+    {
+      "language": "typescript",
+      "stars": "112..115",
+      "totalCount": 719,
+      "collectedRepos": 719,
+      "truncated": false
+    },
+    {
+      "language": "typescript",
+      "stars": "108..111",
+      "totalCount": 806,
+      "collectedRepos": 806,
+      "truncated": false
+    },
+    {
+      "language": "typescript",
+      "stars": "104..107",
+      "totalCount": 815,
+      "collectedRepos": 815,
+      "truncated": false
+    },
+    {
+      "language": "typescript",
+      "stars": "100..103",
+      "totalCount": 921,
+      "collectedRepos": 921,
+      "truncated": false
     }
   ]
 }

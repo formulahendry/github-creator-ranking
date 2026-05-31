@@ -1,0 +1,41 @@
+{
+  "login": "ChangWeiTan",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/570744?v=4",
+  "htmlUrl": "https://github.com/ChangWeiTan",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 228,
+      "repoCountPrimary": 2,
+      "starsContains": 228,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "MultiRocket",
+          "fullName": "ChangWeiTan/MultiRocket",
+          "stars": 118,
+          "url": "https://github.com/ChangWeiTan/MultiRocket",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "TS-Extrinsic-Regression",
+          "fullName": "ChangWeiTan/TS-Extrinsic-Regression",
+          "stars": 110,
+          "url": "https://github.com/ChangWeiTan/TS-Extrinsic-Regression",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

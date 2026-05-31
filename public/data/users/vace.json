@@ -1,0 +1,34 @@
+{
+  "login": "vace",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7318312?v=4",
+  "htmlUrl": "https://github.com/vace",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 315,
+      "repoCountPrimary": 1,
+      "starsContains": 315,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "markdown-docx",
+          "fullName": "vace/markdown-docx",
+          "stars": 315,
+          "url": "https://github.com/vace/markdown-docx",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "paoloricciuti",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/26281609?v=4",
+  "htmlUrl": "https://github.com/paoloricciuti",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 843,
+      "repoCountPrimary": 2,
+      "starsContains": 843,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "sveltekit-search-params",
+          "fullName": "paoloricciuti/sveltekit-search-params",
+          "stars": 655,
+          "url": "https://github.com/paoloricciuti/sveltekit-search-params",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "sveltekit-view-transition",
+          "fullName": "paoloricciuti/sveltekit-view-transition",
+          "stars": 188,
+          "url": "https://github.com/paoloricciuti/sveltekit-view-transition",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

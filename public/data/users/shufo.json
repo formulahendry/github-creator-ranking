@@ -1,0 +1,48 @@
+{
+  "login": "shufo",
+  "name": "Shuhei Hayashibara",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1641039?v=4",
+  "htmlUrl": "https://github.com/shufo",
+  "location": "Tokyo, Japan",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 6131,
+      "repoCountPrimary": 3,
+      "starsContains": 6131,
+      "repoCountContains": 3,
+      "globalRank": 383,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vscode-blade-formatter",
+          "fullName": "shufo/vscode-blade-formatter",
+          "stars": 5195,
+          "url": "https://github.com/shufo/vscode-blade-formatter",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "blade-formatter",
+          "fullName": "shufo/blade-formatter",
+          "stars": 541,
+          "url": "https://github.com/shufo/blade-formatter",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "prettier-plugin-blade",
+          "fullName": "shufo/prettier-plugin-blade",
+          "stars": 395,
+          "url": "https://github.com/shufo/prettier-plugin-blade",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "MaxBittker",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5915546?v=4",
+  "htmlUrl": "https://github.com/MaxBittker",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 703,
+      "repoCountPrimary": 2,
+      "starsContains": 703,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "rs-sdk",
+          "fullName": "MaxBittker/rs-sdk",
+          "stars": 583,
+          "url": "https://github.com/MaxBittker/rs-sdk",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "broider",
+          "fullName": "MaxBittker/broider",
+          "stars": 120,
+          "url": "https://github.com/MaxBittker/broider",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

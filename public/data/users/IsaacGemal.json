@@ -1,0 +1,34 @@
+{
+  "login": "IsaacGemal",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/147355120?v=4",
+  "htmlUrl": "https://github.com/IsaacGemal",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1314,
+      "repoCountPrimary": 1,
+      "starsContains": 1314,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "wikitok",
+          "fullName": "IsaacGemal/wikitok",
+          "stars": 1314,
+          "url": "https://github.com/IsaacGemal/wikitok",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

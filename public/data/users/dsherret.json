@@ -1,0 +1,62 @@
+{
+  "login": "dsherret",
+  "name": "David Sherret",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1609021?v=4",
+  "htmlUrl": "https://github.com/dsherret",
+  "location": "Toronto, Canada",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 10304,
+      "repoCountPrimary": 8,
+      "starsContains": 10304,
+      "repoCountContains": 8,
+      "globalRank": 212,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ts-morph",
+          "fullName": "dsherret/ts-morph",
+          "stars": 6077,
+          "url": "https://github.com/dsherret/ts-morph",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "dax",
+          "fullName": "dsherret/dax",
+          "stars": 1466,
+          "url": "https://github.com/dsherret/dax",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ts-ast-viewer",
+          "fullName": "dsherret/ts-ast-viewer",
+          "stars": 1345,
+          "url": "https://github.com/dsherret/ts-ast-viewer",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ts-nameof",
+          "fullName": "dsherret/ts-nameof",
+          "stars": 504,
+          "url": "https://github.com/dsherret/ts-nameof",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "conditional-type-checks",
+          "fullName": "dsherret/conditional-type-checks",
+          "stars": 451,
+          "url": "https://github.com/dsherret/conditional-type-checks",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

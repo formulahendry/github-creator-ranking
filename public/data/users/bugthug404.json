@@ -1,0 +1,55 @@
+{
+  "login": "bugthug404",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/28305019?v=4",
+  "htmlUrl": "https://github.com/bugthug404",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 961,
+      "repoCountPrimary": 4,
+      "starsContains": 961,
+      "repoCountContains": 4,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "web-biometric-auth-app",
+          "fullName": "bugthug404/web-biometric-auth-app",
+          "stars": 406,
+          "url": "https://github.com/bugthug404/web-biometric-auth-app",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Groceries-next",
+          "fullName": "bugthug404/Groceries-next",
+          "stars": 238,
+          "url": "https://github.com/bugthug404/Groceries-next",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "chat-with-ai-963",
+          "fullName": "bugthug404/chat-with-ai-963",
+          "stars": 170,
+          "url": "https://github.com/bugthug404/chat-with-ai-963",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Full_Stack_MENN",
+          "fullName": "bugthug404/Full_Stack_MENN",
+          "stars": 147,
+          "url": "https://github.com/bugthug404/Full_Stack_MENN",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

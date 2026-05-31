@@ -1,0 +1,34 @@
+{
+  "login": "iHildy",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/25069719?v=4",
+  "htmlUrl": "https://github.com/iHildy",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 116,
+      "repoCountPrimary": 1,
+      "starsContains": 116,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "opencode-synced",
+          "fullName": "iHildy/opencode-synced",
+          "stars": 116,
+          "url": "https://github.com/iHildy/opencode-synced",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

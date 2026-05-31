@@ -1,0 +1,34 @@
+{
+  "login": "ZakAlbert",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/15989629?v=4",
+  "htmlUrl": "https://github.com/ZakAlbert",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 153,
+      "repoCountPrimary": 1,
+      "starsContains": 153,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-material-you-theme",
+          "fullName": "ZakAlbert/react-material-you-theme",
+          "stars": 153,
+          "url": "https://github.com/ZakAlbert/react-material-you-theme",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

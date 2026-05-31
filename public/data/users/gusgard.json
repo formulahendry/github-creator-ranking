@@ -1,0 +1,41 @@
+{
+  "login": "gusgard",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2577356?v=4",
+  "htmlUrl": "https://github.com/gusgard",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 743,
+      "repoCountPrimary": 2,
+      "starsContains": 743,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-native-swiper-flatlist",
+          "fullName": "gusgard/react-native-swiper-flatlist",
+          "stars": 601,
+          "url": "https://github.com/gusgard/react-native-swiper-flatlist",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-native-devsettings",
+          "fullName": "gusgard/react-native-devsettings",
+          "stars": 142,
+          "url": "https://github.com/gusgard/react-native-devsettings",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

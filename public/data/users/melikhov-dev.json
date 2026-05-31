@@ -1,0 +1,34 @@
+{
+  "login": "melikhov-dev",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1742586?v=4",
+  "htmlUrl": "https://github.com/melikhov-dev",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 190,
+      "repoCountPrimary": 1,
+      "starsContains": 190,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "lessons",
+          "fullName": "melikhov-dev/lessons",
+          "stars": 190,
+          "url": "https://github.com/melikhov-dev/lessons",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

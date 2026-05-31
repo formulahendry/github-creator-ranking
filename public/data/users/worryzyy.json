@@ -1,0 +1,41 @@
+{
+  "login": "worryzyy",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/70956075?v=4",
+  "htmlUrl": "https://github.com/worryzyy",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1083,
+      "repoCountPrimary": 2,
+      "starsContains": 1083,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "HowToCook-mcp",
+          "fullName": "worryzyy/HowToCook-mcp",
+          "stars": 718,
+          "url": "https://github.com/worryzyy/HowToCook-mcp",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "awesome-cursor-download",
+          "fullName": "worryzyy/awesome-cursor-download",
+          "stars": 365,
+          "url": "https://github.com/worryzyy/awesome-cursor-download",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "capricorn86",
+  "name": "David Ortner",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/19155544?v=4",
+  "htmlUrl": "https://github.com/capricorn86",
+  "location": "Sweden",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 4502,
+      "repoCountPrimary": 1,
+      "starsContains": 4502,
+      "repoCountContains": 1,
+      "globalRank": 570,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "happy-dom",
+          "fullName": "capricorn86/happy-dom",
+          "stars": 4502,
+          "url": "https://github.com/capricorn86/happy-dom",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

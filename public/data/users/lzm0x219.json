@@ -1,0 +1,34 @@
+{
+  "login": "lzm0x219",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/50414099?v=4",
+  "htmlUrl": "https://github.com/lzm0x219",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 198,
+      "repoCountPrimary": 1,
+      "starsContains": 198,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "template-vite-react",
+          "fullName": "lzm0x219/template-vite-react",
+          "stars": 198,
+          "url": "https://github.com/lzm0x219/template-vite-react",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

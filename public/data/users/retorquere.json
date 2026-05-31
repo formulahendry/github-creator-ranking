@@ -1,0 +1,62 @@
+{
+  "login": "retorquere",
+  "name": "Protocol Sententiary",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/132108?v=4",
+  "htmlUrl": "https://github.com/retorquere",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 8588,
+      "repoCountPrimary": 8,
+      "starsContains": 8588,
+      "repoCountContains": 8,
+      "globalRank": 263,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "zotero-better-bibtex",
+          "fullName": "retorquere/zotero-better-bibtex",
+          "stars": 6744,
+          "url": "https://github.com/retorquere/zotero-better-bibtex",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "zotero-storage-scanner",
+          "fullName": "retorquere/zotero-storage-scanner",
+          "stars": 547,
+          "url": "https://github.com/retorquere/zotero-storage-scanner",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "zotero-folder-import",
+          "fullName": "retorquere/zotero-folder-import",
+          "stars": 472,
+          "url": "https://github.com/retorquere/zotero-folder-import",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "zotero-open-pdf",
+          "fullName": "retorquere/zotero-open-pdf",
+          "stars": 251,
+          "url": "https://github.com/retorquere/zotero-open-pdf",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "zotero-report-customizer",
+          "fullName": "retorquere/zotero-report-customizer",
+          "stars": 164,
+          "url": "https://github.com/retorquere/zotero-report-customizer",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

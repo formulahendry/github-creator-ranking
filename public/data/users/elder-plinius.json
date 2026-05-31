@@ -1,0 +1,41 @@
+{
+  "login": "elder-plinius",
+  "name": "pliny",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/133052465?v=4",
+  "htmlUrl": "https://github.com/elder-plinius",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 7215,
+      "repoCountPrimary": 2,
+      "starsContains": 7215,
+      "repoCountContains": 2,
+      "globalRank": 317,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "G0DM0D3",
+          "fullName": "elder-plinius/G0DM0D3",
+          "stars": 7092,
+          "url": "https://github.com/elder-plinius/G0DM0D3",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "LEAKHUB",
+          "fullName": "elder-plinius/LEAKHUB",
+          "stars": 123,
+          "url": "https://github.com/elder-plinius/LEAKHUB",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

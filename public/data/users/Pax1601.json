@@ -1,0 +1,34 @@
+{
+  "login": "Pax1601",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7738284?v=4",
+  "htmlUrl": "https://github.com/Pax1601",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 346,
+      "repoCountPrimary": 1,
+      "starsContains": 346,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "DCSOlympus",
+          "fullName": "Pax1601/DCSOlympus",
+          "stars": 346,
+          "url": "https://github.com/Pax1601/DCSOlympus",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

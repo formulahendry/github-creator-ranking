@@ -1,0 +1,34 @@
+{
+  "login": "clucraft",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/83889943?v=4",
+  "htmlUrl": "https://github.com/clucraft",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 572,
+      "repoCountPrimary": 1,
+      "starsContains": 572,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "PriceGhost",
+          "fullName": "clucraft/PriceGhost",
+          "stars": 572,
+          "url": "https://github.com/clucraft/PriceGhost",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

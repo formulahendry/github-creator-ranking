@@ -1,0 +1,34 @@
+{
+  "login": "LukeChannings",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/461449?v=4",
+  "htmlUrl": "https://github.com/LukeChannings",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 507,
+      "repoCountPrimary": 1,
+      "starsContains": 507,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "moviematch",
+          "fullName": "LukeChannings/moviematch",
+          "stars": 507,
+          "url": "https://github.com/LukeChannings/moviematch",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

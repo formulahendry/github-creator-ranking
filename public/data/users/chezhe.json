@@ -1,0 +1,34 @@
+{
+  "login": "chezhe",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2902414?v=4",
+  "htmlUrl": "https://github.com/chezhe",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 123,
+      "repoCountPrimary": 1,
+      "starsContains": 123,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "aleph-desktop",
+          "fullName": "chezhe/aleph-desktop",
+          "stars": 123,
+          "url": "https://github.com/chezhe/aleph-desktop",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

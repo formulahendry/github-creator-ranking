@@ -1,0 +1,34 @@
+{
+  "login": "jonwiggins",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/35540058?v=4",
+  "htmlUrl": "https://github.com/jonwiggins",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 974,
+      "repoCountPrimary": 1,
+      "starsContains": 974,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "optio",
+          "fullName": "jonwiggins/optio",
+          "stars": 974,
+          "url": "https://github.com/jonwiggins/optio",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

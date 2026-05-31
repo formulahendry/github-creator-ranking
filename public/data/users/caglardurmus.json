@@ -1,0 +1,34 @@
+{
+  "login": "caglardurmus",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/39800322?v=4",
+  "htmlUrl": "https://github.com/caglardurmus",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 186,
+      "repoCountPrimary": 1,
+      "starsContains": 186,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-native-insta-story",
+          "fullName": "caglardurmus/react-native-insta-story",
+          "stars": 186,
+          "url": "https://github.com/caglardurmus/react-native-insta-story",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

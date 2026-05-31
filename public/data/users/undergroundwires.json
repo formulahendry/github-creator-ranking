@@ -1,0 +1,34 @@
+{
+  "login": "undergroundwires",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/15555035?v=4",
+  "htmlUrl": "https://github.com/undergroundwires",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 5566,
+      "repoCountPrimary": 1,
+      "starsContains": 5566,
+      "repoCountContains": 1,
+      "globalRank": 437,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "privacy.sexy",
+          "fullName": "undergroundwires/privacy.sexy",
+          "stars": 5566,
+          "url": "https://github.com/undergroundwires/privacy.sexy",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

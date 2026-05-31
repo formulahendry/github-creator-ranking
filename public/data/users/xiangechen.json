@@ -1,0 +1,34 @@
+{
+  "login": "xiangechen",
+  "name": "xiange",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/96911970?v=4",
+  "htmlUrl": "https://github.com/xiangechen",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 4567,
+      "repoCountPrimary": 1,
+      "starsContains": 4567,
+      "repoCountContains": 1,
+      "globalRank": 563,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "chili3d",
+          "fullName": "xiangechen/chili3d",
+          "stars": 4567,
+          "url": "https://github.com/xiangechen/chili3d",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

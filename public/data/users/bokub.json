@@ -1,0 +1,48 @@
+{
+  "login": "bokub",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/17952318?v=4",
+  "htmlUrl": "https://github.com/bokub",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1975,
+      "repoCountPrimary": 3,
+      "starsContains": 1975,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "gradient-string",
+          "fullName": "bokub/gradient-string",
+          "stars": 1195,
+          "url": "https://github.com/bokub/gradient-string",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ha-linky",
+          "fullName": "bokub/ha-linky",
+          "stars": 498,
+          "url": "https://github.com/bokub/ha-linky",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "linky",
+          "fullName": "bokub/linky",
+          "stars": 282,
+          "url": "https://github.com/bokub/linky",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

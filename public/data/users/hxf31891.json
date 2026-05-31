@@ -1,0 +1,34 @@
+{
+  "login": "hxf31891",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/49292623?v=4",
+  "htmlUrl": "https://github.com/hxf31891",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 197,
+      "repoCountPrimary": 1,
+      "starsContains": 197,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-gradient-color-picker",
+          "fullName": "hxf31891/react-gradient-color-picker",
+          "stars": 197,
+          "url": "https://github.com/hxf31891/react-gradient-color-picker",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

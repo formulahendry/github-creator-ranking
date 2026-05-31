@@ -1,0 +1,48 @@
+{
+  "login": "agargaro",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/47436453?v=4",
+  "htmlUrl": "https://github.com/agargaro",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 922,
+      "repoCountPrimary": 3,
+      "starsContains": 922,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "instanced-mesh",
+          "fullName": "agargaro/instanced-mesh",
+          "stars": 429,
+          "url": "https://github.com/agargaro/instanced-mesh",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "three.ez",
+          "fullName": "agargaro/three.ez",
+          "stars": 364,
+          "url": "https://github.com/agargaro/three.ez",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "batched-mesh-extensions",
+          "fullName": "agargaro/batched-mesh-extensions",
+          "stars": 129,
+          "url": "https://github.com/agargaro/batched-mesh-extensions",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

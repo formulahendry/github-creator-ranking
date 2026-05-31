@@ -1,0 +1,55 @@
+{
+  "login": "nwtgck",
+  "name": "Ryo Ota",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/10933561?v=4",
+  "htmlUrl": "https://github.com/nwtgck",
+  "location": "Japan",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 5303,
+      "repoCountPrimary": 4,
+      "starsContains": 5303,
+      "repoCountContains": 4,
+      "globalRank": 466,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "piping-server",
+          "fullName": "nwtgck/piping-server",
+          "stars": 3149,
+          "url": "https://github.com/nwtgck/piping-server",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "gh-card",
+          "fullName": "nwtgck/gh-card",
+          "stars": 1351,
+          "url": "https://github.com/nwtgck/gh-card",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "actions-comment-run",
+          "fullName": "nwtgck/actions-comment-run",
+          "stars": 443,
+          "url": "https://github.com/nwtgck/actions-comment-run",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "actions-netlify",
+          "fullName": "nwtgck/actions-netlify",
+          "stars": 360,
+          "url": "https://github.com/nwtgck/actions-netlify",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

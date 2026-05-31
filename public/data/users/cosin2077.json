@@ -1,0 +1,41 @@
+{
+  "login": "cosin2077",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/20504493?v=4",
+  "htmlUrl": "https://github.com/cosin2077",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2587,
+      "repoCountPrimary": 2,
+      "starsContains": 2587,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "easyVoice",
+          "fullName": "cosin2077/easyVoice",
+          "stars": 2141,
+          "url": "https://github.com/cosin2077/easyVoice",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "chaty",
+          "fullName": "cosin2077/chaty",
+          "stars": 446,
+          "url": "https://github.com/cosin2077/chaty",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "koush",
+  "name": "Koushik Dutta",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/73924?v=4",
+  "htmlUrl": "https://github.com/koush",
+  "location": "Seattle, WA",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 5717,
+      "repoCountPrimary": 1,
+      "starsContains": 5717,
+      "repoCountContains": 1,
+      "globalRank": 424,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "scrypted",
+          "fullName": "koush/scrypted",
+          "stars": 5717,
+          "url": "https://github.com/koush/scrypted",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

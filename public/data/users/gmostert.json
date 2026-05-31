@@ -1,0 +1,34 @@
+{
+  "login": "gmostert",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7753345?v=4",
+  "htmlUrl": "https://github.com/gmostert",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 102,
+      "repoCountPrimary": 1,
+      "starsContains": 102,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ng2-breadcrumb",
+          "fullName": "gmostert/ng2-breadcrumb",
+          "stars": 102,
+          "url": "https://github.com/gmostert/ng2-breadcrumb",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

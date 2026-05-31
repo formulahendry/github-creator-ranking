@@ -1,0 +1,34 @@
+{
+  "login": "brpapa",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/31225808?v=4",
+  "htmlUrl": "https://github.com/brpapa",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 516,
+      "repoCountPrimary": 1,
+      "starsContains": 516,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "recursion-tree-visualizer",
+          "fullName": "brpapa/recursion-tree-visualizer",
+          "stars": 516,
+          "url": "https://github.com/brpapa/recursion-tree-visualizer",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

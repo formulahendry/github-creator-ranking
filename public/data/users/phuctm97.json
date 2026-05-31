@@ -1,0 +1,41 @@
+{
+  "login": "phuctm97",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/25026967?v=4",
+  "htmlUrl": "https://github.com/phuctm97",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 422,
+      "repoCountPrimary": 2,
+      "starsContains": 422,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "shell.how",
+          "fullName": "phuctm97/shell.how",
+          "stars": 276,
+          "url": "https://github.com/phuctm97/shell.how",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "modelfetch",
+          "fullName": "phuctm97/modelfetch",
+          "stars": 146,
+          "url": "https://github.com/phuctm97/modelfetch",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

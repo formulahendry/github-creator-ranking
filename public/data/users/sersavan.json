@@ -1,0 +1,41 @@
+{
+  "login": "sersavan",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3727722?v=4",
+  "htmlUrl": "https://github.com/sersavan",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2520,
+      "repoCountPrimary": 2,
+      "starsContains": 2520,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "shadcn-multi-select-component",
+          "fullName": "sersavan/shadcn-multi-select-component",
+          "stars": 2188,
+          "url": "https://github.com/sersavan/shadcn-multi-select-component",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "shadcn-calendar-component",
+          "fullName": "sersavan/shadcn-calendar-component",
+          "stars": 332,
+          "url": "https://github.com/sersavan/shadcn-calendar-component",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "inannan423",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/83146544?v=4",
+  "htmlUrl": "https://github.com/inannan423",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 226,
+      "repoCountPrimary": 1,
+      "starsContains": 226,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Daymd",
+          "fullName": "inannan423/Daymd",
+          "stars": 226,
+          "url": "https://github.com/inannan423/Daymd",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

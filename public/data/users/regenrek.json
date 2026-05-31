@@ -1,0 +1,48 @@
+{
+  "login": "regenrek",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5182020?v=4",
+  "htmlUrl": "https://github.com/regenrek",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2226,
+      "repoCountPrimary": 3,
+      "starsContains": 2226,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "deepwiki-mcp",
+          "fullName": "regenrek/deepwiki-mcp",
+          "stars": 1357,
+          "url": "https://github.com/regenrek/deepwiki-mcp",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "codefetch",
+          "fullName": "regenrek/codefetch",
+          "stars": 439,
+          "url": "https://github.com/regenrek/codefetch",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "codex-1up",
+          "fullName": "regenrek/codex-1up",
+          "stars": 430,
+          "url": "https://github.com/regenrek/codex-1up",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "login": "WebDevSimplified",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/39717099?v=4",
+  "htmlUrl": "https://github.com/WebDevSimplified",
+  "location": "Nebraska",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2947,
+      "repoCountPrimary": 13,
+      "starsContains": 2947,
+      "repoCountContains": 13,
+      "globalRank": 918,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "parity-deals-clone",
+          "fullName": "WebDevSimplified/parity-deals-clone",
+          "stars": 593,
+          "url": "https://github.com/WebDevSimplified/parity-deals-clone",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "permission-system",
+          "fullName": "WebDevSimplified/permission-system",
+          "stars": 424,
+          "url": "https://github.com/WebDevSimplified/permission-system",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "wds-shadcn-registry",
+          "fullName": "WebDevSimplified/wds-shadcn-registry",
+          "stars": 279,
+          "url": "https://github.com/WebDevSimplified/wds-shadcn-registry",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "next-js-ecommerce-mvp",
+          "fullName": "WebDevSimplified/next-js-ecommerce-mvp",
+          "stars": 258,
+          "url": "https://github.com/WebDevSimplified/next-js-ecommerce-mvp",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-ts-shopping-cart",
+          "fullName": "WebDevSimplified/react-ts-shopping-cart",
+          "stars": 250,
+          "url": "https://github.com/WebDevSimplified/react-ts-shopping-cart",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

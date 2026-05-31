@@ -1,0 +1,41 @@
+{
+  "login": "Nodlik",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6822484?v=4",
+  "htmlUrl": "https://github.com/Nodlik",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1484,
+      "repoCountPrimary": 2,
+      "starsContains": 1484,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "StPageFlip",
+          "fullName": "Nodlik/StPageFlip",
+          "stars": 788,
+          "url": "https://github.com/Nodlik/StPageFlip",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-pageflip",
+          "fullName": "Nodlik/react-pageflip",
+          "stars": 696,
+          "url": "https://github.com/Nodlik/react-pageflip",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

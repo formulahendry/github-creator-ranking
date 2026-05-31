@@ -1,0 +1,62 @@
+{
+  "login": "Codehagen",
+  "name": "Christer",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/24507211?v=4",
+  "htmlUrl": "https://github.com/Codehagen",
+  "location": "Norway",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 4495,
+      "repoCountPrimary": 7,
+      "starsContains": 4495,
+      "repoCountContains": 7,
+      "globalRank": 571,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Badget",
+          "fullName": "Codehagen/Badget",
+          "stars": 2719,
+          "url": "https://github.com/Codehagen/Badget",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Prismui",
+          "fullName": "Codehagen/Prismui",
+          "stars": 790,
+          "url": "https://github.com/Codehagen/Prismui",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "HagenKit",
+          "fullName": "Codehagen/HagenKit",
+          "stars": 273,
+          "url": "https://github.com/Codehagen/HagenKit",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "propdock",
+          "fullName": "Codehagen/propdock",
+          "stars": 269,
+          "url": "https://github.com/Codehagen/propdock",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Dingify",
+          "fullName": "Codehagen/Dingify",
+          "stars": 198,
+          "url": "https://github.com/Codehagen/Dingify",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

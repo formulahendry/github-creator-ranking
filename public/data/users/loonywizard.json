@@ -1,0 +1,34 @@
+{
+  "login": "loonywizard",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/29688204?v=4",
+  "htmlUrl": "https://github.com/loonywizard",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1290,
+      "repoCountPrimary": 1,
+      "starsContains": 1290,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "js-confetti",
+          "fullName": "loonywizard/js-confetti",
+          "stars": 1290,
+          "url": "https://github.com/loonywizard/js-confetti",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

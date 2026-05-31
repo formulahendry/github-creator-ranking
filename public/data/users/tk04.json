@@ -1,0 +1,34 @@
+{
+  "login": "tk04",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/77863569?v=4",
+  "htmlUrl": "https://github.com/tk04",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1180,
+      "repoCountPrimary": 1,
+      "starsContains": 1180,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Marker",
+          "fullName": "tk04/Marker",
+          "stars": 1180,
+          "url": "https://github.com/tk04/Marker",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

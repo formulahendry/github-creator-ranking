@@ -1,0 +1,41 @@
+{
+  "login": "executeautomation",
+  "name": "ExecuteAutomation",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/10337030?v=4",
+  "htmlUrl": "https://github.com/executeautomation",
+  "location": "Auckland, NZ",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 5894,
+      "repoCountPrimary": 2,
+      "starsContains": 5894,
+      "repoCountContains": 2,
+      "globalRank": 408,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "mcp-playwright",
+          "fullName": "executeautomation/mcp-playwright",
+          "stars": 5540,
+          "url": "https://github.com/executeautomation/mcp-playwright",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "mcp-database-server",
+          "fullName": "executeautomation/mcp-database-server",
+          "stars": 354,
+          "url": "https://github.com/executeautomation/mcp-database-server",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

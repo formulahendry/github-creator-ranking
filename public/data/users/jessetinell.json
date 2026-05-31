@@ -1,0 +1,34 @@
+{
+  "login": "jessetinell",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2527882?v=4",
+  "htmlUrl": "https://github.com/jessetinell",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 158,
+      "repoCountPrimary": 1,
+      "starsContains": 158,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "x2.email",
+          "fullName": "jessetinell/x2.email",
+          "stars": 158,
+          "url": "https://github.com/jessetinell/x2.email",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

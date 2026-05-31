@@ -1,0 +1,48 @@
+{
+  "login": "anubra266",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/30869823?v=4",
+  "htmlUrl": "https://github.com/anubra266",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1729,
+      "repoCountPrimary": 3,
+      "starsContains": 1729,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "choc-ui",
+          "fullName": "anubra266/choc-ui",
+          "stars": 1174,
+          "url": "https://github.com/anubra266/choc-ui",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "choc-autocomplete",
+          "fullName": "anubra266/choc-autocomplete",
+          "stars": 433,
+          "url": "https://github.com/anubra266/choc-autocomplete",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "tarkui",
+          "fullName": "anubra266/tarkui",
+          "stars": 122,
+          "url": "https://github.com/anubra266/tarkui",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

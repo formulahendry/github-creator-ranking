@@ -1,0 +1,62 @@
+{
+  "login": "dzhng",
+  "name": "David Zhang",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1329503?v=4",
+  "htmlUrl": "https://github.com/dzhng",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 21015,
+      "repoCountPrimary": 6,
+      "starsContains": 21015,
+      "repoCountContains": 6,
+      "globalRank": 87,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "deep-research",
+          "fullName": "dzhng/deep-research",
+          "stars": 19018,
+          "url": "https://github.com/dzhng/deep-research",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "zod-gpt",
+          "fullName": "dzhng/zod-gpt",
+          "stars": 627,
+          "url": "https://github.com/dzhng/zod-gpt",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "claude-agent-server",
+          "fullName": "dzhng/claude-agent-server",
+          "stars": 574,
+          "url": "https://github.com/dzhng/claude-agent-server",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "deep-seek",
+          "fullName": "dzhng/deep-seek",
+          "stars": 513,
+          "url": "https://github.com/dzhng/deep-seek",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "llm-api",
+          "fullName": "dzhng/llm-api",
+          "stars": 171,
+          "url": "https://github.com/dzhng/llm-api",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

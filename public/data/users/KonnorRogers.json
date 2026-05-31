@@ -1,0 +1,48 @@
+{
+  "login": "KonnorRogers",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/26425882?v=4",
+  "htmlUrl": "https://github.com/KonnorRogers",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 625,
+      "repoCountPrimary": 3,
+      "starsContains": 625,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "rhino-editor",
+          "fullName": "KonnorRogers/rhino-editor",
+          "stars": 338,
+          "url": "https://github.com/KonnorRogers/rhino-editor",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "mrujs",
+          "fullName": "KonnorRogers/mrujs",
+          "stars": 171,
+          "url": "https://github.com/KonnorRogers/mrujs",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "shadow-dom-testing-library",
+          "fullName": "KonnorRogers/shadow-dom-testing-library",
+          "stars": 116,
+          "url": "https://github.com/KonnorRogers/shadow-dom-testing-library",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "merlinfuchs",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/33966852?v=4",
+  "htmlUrl": "https://github.com/merlinfuchs",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 927,
+      "repoCountPrimary": 2,
+      "starsContains": 927,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "embed-generator",
+          "fullName": "merlinfuchs/embed-generator",
+          "stars": 678,
+          "url": "https://github.com/merlinfuchs/embed-generator",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "kite",
+          "fullName": "merlinfuchs/kite",
+          "stars": 249,
+          "url": "https://github.com/merlinfuchs/kite",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

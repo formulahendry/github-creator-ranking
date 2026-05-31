@@ -1,0 +1,41 @@
+{
+  "login": "kossnocorp",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/52201?v=4",
+  "htmlUrl": "https://github.com/kossnocorp",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 545,
+      "repoCountPrimary": 2,
+      "starsContains": 545,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "typesaurus",
+          "fullName": "kossnocorp/typesaurus",
+          "stars": 445,
+          "url": "https://github.com/kossnocorp/typesaurus",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "superstate",
+          "fullName": "kossnocorp/superstate",
+          "stars": 100,
+          "url": "https://github.com/kossnocorp/superstate",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

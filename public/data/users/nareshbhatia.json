@@ -1,0 +1,48 @@
+{
+  "login": "nareshbhatia",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1220198?v=4",
+  "htmlUrl": "https://github.com/nareshbhatia",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 492,
+      "repoCountPrimary": 3,
+      "starsContains": 492,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "mobx-state-router",
+          "fullName": "nareshbhatia/mobx-state-router",
+          "stars": 226,
+          "url": "https://github.com/nareshbhatia/mobx-state-router",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-testing-techniques",
+          "fullName": "nareshbhatia/react-testing-techniques",
+          "stars": 145,
+          "url": "https://github.com/nareshbhatia/react-testing-techniques",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "graphql-bookstore",
+          "fullName": "nareshbhatia/graphql-bookstore",
+          "stars": 121,
+          "url": "https://github.com/nareshbhatia/graphql-bookstore",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

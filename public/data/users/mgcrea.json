@@ -1,0 +1,62 @@
+{
+  "login": "mgcrea",
+  "name": "Olivier Louvignes",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/108273?v=4",
+  "htmlUrl": "https://github.com/mgcrea",
+  "location": "Paris, France",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3823,
+      "repoCountPrimary": 5,
+      "starsContains": 3823,
+      "repoCountContains": 5,
+      "globalRank": 697,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "node-xlsx",
+          "fullName": "mgcrea/node-xlsx",
+          "stars": 3043,
+          "url": "https://github.com/mgcrea/node-xlsx",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-native-dnd",
+          "fullName": "mgcrea/react-native-dnd",
+          "stars": 247,
+          "url": "https://github.com/mgcrea/react-native-dnd",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-native-tailwind",
+          "fullName": "mgcrea/react-native-tailwind",
+          "stars": 217,
+          "url": "https://github.com/mgcrea/react-native-tailwind",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "redux-rest-resource",
+          "fullName": "mgcrea/redux-rest-resource",
+          "stars": 188,
+          "url": "https://github.com/mgcrea/redux-rest-resource",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vision-camera-barcode-scanner",
+          "fullName": "mgcrea/vision-camera-barcode-scanner",
+          "stars": 128,
+          "url": "https://github.com/mgcrea/vision-camera-barcode-scanner",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "login": "0xSero",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/69639595?v=4",
+  "htmlUrl": "https://github.com/0xSero",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1111,
+      "repoCountPrimary": 4,
+      "starsContains": 1111,
+      "repoCountContains": 4,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "parchi",
+          "fullName": "0xSero/parchi",
+          "stars": 537,
+          "url": "https://github.com/0xSero/parchi",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "orchestra",
+          "fullName": "0xSero/orchestra",
+          "stars": 274,
+          "url": "https://github.com/0xSero/orchestra",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "pi-brain",
+          "fullName": "0xSero/pi-brain",
+          "stars": 169,
+          "url": "https://github.com/0xSero/pi-brain",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "open-queue",
+          "fullName": "0xSero/open-queue",
+          "stars": 131,
+          "url": "https://github.com/0xSero/open-queue",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

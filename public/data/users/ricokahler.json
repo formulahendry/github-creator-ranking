@@ -1,0 +1,62 @@
+{
+  "login": "ricokahler",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/10551026?v=4",
+  "htmlUrl": "https://github.com/ricokahler",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2358,
+      "repoCountPrimary": 7,
+      "starsContains": 2358,
+      "repoCountContains": 7,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "next-data-hooks",
+          "fullName": "ricokahler/next-data-hooks",
+          "stars": 718,
+          "url": "https://github.com/ricokahler/next-data-hooks",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "color2k",
+          "fullName": "ricokahler/color2k",
+          "stars": 631,
+          "url": "https://github.com/ricokahler/color2k",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "sanity-codegen",
+          "fullName": "ricokahler/sanity-codegen",
+          "stars": 266,
+          "url": "https://github.com/ricokahler/sanity-codegen",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "next-plugin-preval",
+          "fullName": "ricokahler/next-plugin-preval",
+          "stars": 254,
+          "url": "https://github.com/ricokahler/next-plugin-preval",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "hacker-ui",
+          "fullName": "ricokahler/hacker-ui",
+          "stars": 242,
+          "url": "https://github.com/ricokahler/hacker-ui",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

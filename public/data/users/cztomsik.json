@@ -1,0 +1,34 @@
+{
+  "login": "cztomsik",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3526922?v=4",
+  "htmlUrl": "https://github.com/cztomsik",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 469,
+      "repoCountPrimary": 1,
+      "starsContains": 469,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ava",
+          "fullName": "cztomsik/ava",
+          "stars": 469,
+          "url": "https://github.com/cztomsik/ava",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "login": "jamiebuilds",
+  "name": "Jamie Kyle",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/952783?v=4",
+  "htmlUrl": "https://github.com/jamiebuilds",
+  "location": "https://jamie.build",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 9482,
+      "repoCountPrimary": 6,
+      "starsContains": 9482,
+      "repoCountContains": 6,
+      "globalRank": 238,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "unstated-next",
+          "fullName": "jamiebuilds/unstated-next",
+          "stars": 4191,
+          "url": "https://github.com/jamiebuilds/unstated-next",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "tinykeys",
+          "fullName": "jamiebuilds/tinykeys",
+          "stars": 4058,
+          "url": "https://github.com/jamiebuilds/tinykeys",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "json-parser-in-typescript-very-bad-idea-please-dont-use",
+          "fullName": "jamiebuilds/json-parser-in-typescript-very-bad-idea-please-dont-use",
+          "stars": 433,
+          "url": "https://github.com/jamiebuilds/json-parser-in-typescript-very-bad-idea-please-dont-use",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-gridlist",
+          "fullName": "jamiebuilds/react-gridlist",
+          "stars": 424,
+          "url": "https://github.com/jamiebuilds/react-gridlist",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-jeff",
+          "fullName": "jamiebuilds/react-jeff",
+          "stars": 209,
+          "url": "https://github.com/jamiebuilds/react-jeff",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

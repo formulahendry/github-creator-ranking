@@ -1,0 +1,34 @@
+{
+  "login": "staskobzar",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/147280?v=4",
+  "htmlUrl": "https://github.com/staskobzar",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 797,
+      "repoCountPrimary": 1,
+      "starsContains": 797,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vue-audio-visual",
+          "fullName": "staskobzar/vue-audio-visual",
+          "stars": 797,
+          "url": "https://github.com/staskobzar/vue-audio-visual",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

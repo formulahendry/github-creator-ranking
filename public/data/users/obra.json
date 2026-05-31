@@ -1,0 +1,55 @@
+{
+  "login": "obra",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/45416?v=4",
+  "htmlUrl": "https://github.com/obra",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1555,
+      "repoCountPrimary": 4,
+      "starsContains": 1555,
+      "repoCountContains": 4,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "superpowers-skills",
+          "fullName": "obra/superpowers-skills",
+          "stars": 674,
+          "url": "https://github.com/obra/superpowers-skills",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "episodic-memory",
+          "fullName": "obra/episodic-memory",
+          "stars": 401,
+          "url": "https://github.com/obra/episodic-memory",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "private-journal-mcp",
+          "fullName": "obra/private-journal-mcp",
+          "stars": 366,
+          "url": "https://github.com/obra/private-journal-mcp",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "claude-memory-extractor",
+          "fullName": "obra/claude-memory-extractor",
+          "stars": 114,
+          "url": "https://github.com/obra/claude-memory-extractor",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

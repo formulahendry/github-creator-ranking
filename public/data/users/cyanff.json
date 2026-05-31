@@ -1,0 +1,34 @@
+{
+  "login": "cyanff",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/79063400?v=4",
+  "htmlUrl": "https://github.com/cyanff",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 505,
+      "repoCountPrimary": 1,
+      "starsContains": 505,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "anime.gf",
+          "fullName": "cyanff/anime.gf",
+          "stars": 505,
+          "url": "https://github.com/cyanff/anime.gf",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

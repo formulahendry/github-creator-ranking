@@ -1,0 +1,34 @@
+{
+  "login": "jamcalli",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/48490664?v=4",
+  "htmlUrl": "https://github.com/jamcalli",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 689,
+      "repoCountPrimary": 1,
+      "starsContains": 689,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Pulsarr",
+          "fullName": "jamcalli/Pulsarr",
+          "stars": 689,
+          "url": "https://github.com/jamcalli/Pulsarr",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

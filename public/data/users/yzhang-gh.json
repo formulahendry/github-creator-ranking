@@ -1,0 +1,34 @@
+{
+  "login": "yzhang-gh",
+  "name": "Yu Zhang",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7588612?v=4",
+  "htmlUrl": "https://github.com/yzhang-gh",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3234,
+      "repoCountPrimary": 1,
+      "starsContains": 3234,
+      "repoCountContains": 1,
+      "globalRank": 833,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vscode-markdown",
+          "fullName": "yzhang-gh/vscode-markdown",
+          "stars": 3234,
+          "url": "https://github.com/yzhang-gh/vscode-markdown",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

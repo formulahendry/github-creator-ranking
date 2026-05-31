@@ -1,0 +1,41 @@
+{
+  "login": "seokju-na",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/13250888?v=4",
+  "htmlUrl": "https://github.com/seokju-na",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1152,
+      "repoCountPrimary": 2,
+      "starsContains": 1152,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "geeks-diary",
+          "fullName": "seokju-na/geeks-diary",
+          "stars": 692,
+          "url": "https://github.com/seokju-na/geeks-diary",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-thermal-printer",
+          "fullName": "seokju-na/react-thermal-printer",
+          "stars": 460,
+          "url": "https://github.com/seokju-na/react-thermal-printer",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

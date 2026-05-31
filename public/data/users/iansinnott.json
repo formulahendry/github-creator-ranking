@@ -1,0 +1,41 @@
+{
+  "login": "iansinnott",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3154865?v=4",
+  "htmlUrl": "https://github.com/iansinnott",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 445,
+      "repoCountPrimary": 2,
+      "starsContains": 445,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "obsidian-claude-code-mcp",
+          "fullName": "iansinnott/obsidian-claude-code-mcp",
+          "stars": 295,
+          "url": "https://github.com/iansinnott/obsidian-claude-code-mcp",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "full-text-tabs-forever",
+          "fullName": "iansinnott/full-text-tabs-forever",
+          "stars": 150,
+          "url": "https://github.com/iansinnott/full-text-tabs-forever",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

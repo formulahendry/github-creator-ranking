@@ -1,0 +1,41 @@
+{
+  "login": "yumauri",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6583994?v=4",
+  "htmlUrl": "https://github.com/yumauri",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 225,
+      "repoCountPrimary": 2,
+      "starsContains": 225,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "gotenberg-js-client",
+          "fullName": "yumauri/gotenberg-js-client",
+          "stars": 116,
+          "url": "https://github.com/yumauri/gotenberg-js-client",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "effector-storage",
+          "fullName": "yumauri/effector-storage",
+          "stars": 109,
+          "url": "https://github.com/yumauri/effector-storage",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

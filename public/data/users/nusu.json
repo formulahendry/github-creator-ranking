@@ -1,0 +1,41 @@
+{
+  "login": "nusu",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1702215?v=4",
+  "htmlUrl": "https://github.com/nusu",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2128,
+      "repoCountPrimary": 2,
+      "starsContains": 2128,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "avvvatars",
+          "fullName": "nusu/avvvatars",
+          "stars": 1953,
+          "url": "https://github.com/nusu/avvvatars",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-glowing-button",
+          "fullName": "nusu/react-glowing-button",
+          "stars": 175,
+          "url": "https://github.com/nusu/react-glowing-button",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

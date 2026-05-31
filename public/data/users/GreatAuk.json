@@ -1,0 +1,34 @@
+{
+  "login": "GreatAuk",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/20253809?v=4",
+  "htmlUrl": "https://github.com/GreatAuk",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 651,
+      "repoCountPrimary": 1,
+      "starsContains": 651,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "plugin-web-update-notification",
+          "fullName": "GreatAuk/plugin-web-update-notification",
+          "stars": 651,
+          "url": "https://github.com/GreatAuk/plugin-web-update-notification",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "pawelgrzybek",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3697104?v=4",
+  "htmlUrl": "https://github.com/pawelgrzybek",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1859,
+      "repoCountPrimary": 1,
+      "starsContains": 1859,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "snippet-generator",
+          "fullName": "pawelgrzybek/snippet-generator",
+          "stars": 1859,
+          "url": "https://github.com/pawelgrzybek/snippet-generator",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

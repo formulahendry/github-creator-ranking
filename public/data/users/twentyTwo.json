@@ -1,0 +1,34 @@
+{
+  "login": "twentyTwo",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/4258676?v=4",
+  "htmlUrl": "https://github.com/twentyTwo",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 146,
+      "repoCountPrimary": 1,
+      "starsContains": 146,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vsc-ext-coding-time-tracker",
+          "fullName": "twentyTwo/vsc-ext-coding-time-tracker",
+          "stars": 146,
+          "url": "https://github.com/twentyTwo/vsc-ext-coding-time-tracker",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

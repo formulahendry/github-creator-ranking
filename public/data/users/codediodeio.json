@@ -1,0 +1,62 @@
+{
+  "login": "codediodeio",
+  "name": "Jeff Delaney",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/10172199?v=4",
+  "htmlUrl": "https://github.com/codediodeio",
+  "location": "Phoenix, AZ",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 4035,
+      "repoCountPrimary": 8,
+      "starsContains": 4035,
+      "repoCountContains": 8,
+      "globalRank": 654,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "sveltefire",
+          "fullName": "codediodeio/sveltefire",
+          "stars": 1675,
+          "url": "https://github.com/codediodeio/sveltefire",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "angular-firestarter",
+          "fullName": "codediodeio/angular-firestarter",
+          "stars": 965,
+          "url": "https://github.com/codediodeio/angular-firestarter",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "geofirex",
+          "fullName": "codediodeio/geofirex",
+          "stars": 483,
+          "url": "https://github.com/codediodeio/geofirex",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "firestore-migrator",
+          "fullName": "codediodeio/firestore-migrator",
+          "stars": 323,
+          "url": "https://github.com/codediodeio/firestore-migrator",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "async-await-pro-tips",
+          "fullName": "codediodeio/async-await-pro-tips",
+          "stars": 243,
+          "url": "https://github.com/codediodeio/async-await-pro-tips",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

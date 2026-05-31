@@ -1,0 +1,48 @@
+{
+  "login": "SeeFlowerX",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/70688581?v=4",
+  "htmlUrl": "https://github.com/SeeFlowerX",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 674,
+      "repoCountPrimary": 3,
+      "starsContains": 674,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "frida-protobuf",
+          "fullName": "SeeFlowerX/frida-protobuf",
+          "stars": 334,
+          "url": "https://github.com/SeeFlowerX/frida-protobuf",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "frida-smali-trace",
+          "fullName": "SeeFlowerX/frida-smali-trace",
+          "stars": 210,
+          "url": "https://github.com/SeeFlowerX/frida-smali-trace",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "jtrace",
+          "fullName": "SeeFlowerX/jtrace",
+          "stars": 130,
+          "url": "https://github.com/SeeFlowerX/jtrace",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

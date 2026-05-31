@@ -1,0 +1,34 @@
+{
+  "login": "ironman5366",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/10326155?v=4",
+  "htmlUrl": "https://github.com/ironman5366",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 247,
+      "repoCountPrimary": 1,
+      "starsContains": 247,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ai-murder-mystery-hackathon",
+          "fullName": "ironman5366/ai-murder-mystery-hackathon",
+          "stars": 247,
+          "url": "https://github.com/ironman5366/ai-murder-mystery-hackathon",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

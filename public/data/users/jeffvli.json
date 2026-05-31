@@ -1,0 +1,41 @@
+{
+  "login": "jeffvli",
+  "name": "Jeff",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/42182408?v=4",
+  "htmlUrl": "https://github.com/jeffvli",
+  "location": "California, USA",
+  "countryCode": "US",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 10542,
+      "repoCountPrimary": 2,
+      "starsContains": 10542,
+      "repoCountContains": 2,
+      "globalRank": 206,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "feishin",
+          "fullName": "jeffvli/feishin",
+          "stars": 8608,
+          "url": "https://github.com/jeffvli/feishin",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "sonixd",
+          "fullName": "jeffvli/sonixd",
+          "stars": 1934,
+          "url": "https://github.com/jeffvli/sonixd",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

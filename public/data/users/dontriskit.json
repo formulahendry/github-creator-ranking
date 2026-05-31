@@ -1,0 +1,34 @@
+{
+  "login": "dontriskit",
+  "name": "Maksym Huczynski",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/34084110?v=4",
+  "htmlUrl": "https://github.com/dontriskit",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 5938,
+      "repoCountPrimary": 1,
+      "starsContains": 5938,
+      "repoCountContains": 1,
+      "globalRank": 401,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "awesome-ai-system-prompts",
+          "fullName": "dontriskit/awesome-ai-system-prompts",
+          "stars": 5938,
+          "url": "https://github.com/dontriskit/awesome-ai-system-prompts",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "yuanzui0728",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/48755037?v=4",
+  "htmlUrl": "https://github.com/yuanzui0728",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 174,
+      "repoCountPrimary": 1,
+      "starsContains": 174,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Enclave",
+          "fullName": "yuanzui0728/Enclave",
+          "stars": 174,
+          "url": "https://github.com/yuanzui0728/Enclave",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

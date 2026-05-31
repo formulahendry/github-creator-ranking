@@ -1,0 +1,34 @@
+{
+  "login": "datkat21",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/49850194?v=4",
+  "htmlUrl": "https://github.com/datkat21",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 178,
+      "repoCountPrimary": 1,
+      "starsContains": 178,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "mii-creator",
+          "fullName": "datkat21/mii-creator",
+          "stars": 178,
+          "url": "https://github.com/datkat21/mii-creator",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

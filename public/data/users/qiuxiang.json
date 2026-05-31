@@ -1,0 +1,48 @@
+{
+  "login": "qiuxiang",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1709072?v=4",
+  "htmlUrl": "https://github.com/qiuxiang",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1897,
+      "repoCountPrimary": 3,
+      "starsContains": 1897,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-native-amap3d",
+          "fullName": "qiuxiang/react-native-amap3d",
+          "stars": 1336,
+          "url": "https://github.com/qiuxiang/react-native-amap3d",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-native-amap-geolocation",
+          "fullName": "qiuxiang/react-native-amap-geolocation",
+          "stars": 400,
+          "url": "https://github.com/qiuxiang/react-native-amap-geolocation",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ky-genshin-map",
+          "fullName": "qiuxiang/ky-genshin-map",
+          "stars": 161,
+          "url": "https://github.com/qiuxiang/ky-genshin-map",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

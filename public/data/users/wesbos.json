@@ -1,0 +1,62 @@
+{
+  "login": "wesbos",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/176013?v=4",
+  "htmlUrl": "https://github.com/wesbos",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2598,
+      "repoCountPrimary": 8,
+      "starsContains": 2598,
+      "repoCountContains": 8,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "JSON-Alexander",
+          "fullName": "wesbos/JSON-Alexander",
+          "stars": 915,
+          "url": "https://github.com/wesbos/JSON-Alexander",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "sticker-dream",
+          "fullName": "wesbos/sticker-dream",
+          "stars": 513,
+          "url": "https://github.com/wesbos/sticker-dream",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "bg-remover",
+          "fullName": "wesbos/bg-remover",
+          "stars": 282,
+          "url": "https://github.com/wesbos/bg-remover",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "thermal-printer",
+          "fullName": "wesbos/thermal-printer",
+          "stars": 247,
+          "url": "https://github.com/wesbos/thermal-printer",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "R2-video-streaming",
+          "fullName": "wesbos/R2-video-streaming",
+          "stars": 187,
+          "url": "https://github.com/wesbos/R2-video-streaming",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

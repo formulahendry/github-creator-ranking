@@ -1,0 +1,34 @@
+{
+  "login": "lkxian888",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/47622838?v=4",
+  "htmlUrl": "https://github.com/lkxian888",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 213,
+      "repoCountPrimary": 1,
+      "starsContains": 213,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "postcss-px-to-viewport-8-plugin",
+          "fullName": "lkxian888/postcss-px-to-viewport-8-plugin",
+          "stars": 213,
+          "url": "https://github.com/lkxian888/postcss-px-to-viewport-8-plugin",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

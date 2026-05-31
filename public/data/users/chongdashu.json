@@ -1,0 +1,41 @@
+{
+  "login": "chongdashu",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1178121?v=4",
+  "htmlUrl": "https://github.com/chongdashu",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 747,
+      "repoCountPrimary": 2,
+      "starsContains": 747,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "cc-statusline",
+          "fullName": "chongdashu/cc-statusline",
+          "stars": 608,
+          "url": "https://github.com/chongdashu/cc-statusline",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "cc-skills-nanobananapro",
+          "fullName": "chongdashu/cc-skills-nanobananapro",
+          "stars": 139,
+          "url": "https://github.com/chongdashu/cc-skills-nanobananapro",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "login": "baiwumm",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/40554571?v=4",
+  "htmlUrl": "https://github.com/baiwumm",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 841,
+      "repoCountPrimary": 3,
+      "starsContains": 841,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vue3-admin",
+          "fullName": "baiwumm/vue3-admin",
+          "stars": 358,
+          "url": "https://github.com/baiwumm/vue3-admin",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-admin",
+          "fullName": "baiwumm/react-admin",
+          "stars": 248,
+          "url": "https://github.com/baiwumm/react-admin",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "next-daily-hot",
+          "fullName": "baiwumm/next-daily-hot",
+          "stars": 235,
+          "url": "https://github.com/baiwumm/next-daily-hot",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

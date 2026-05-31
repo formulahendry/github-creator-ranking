@@ -1,0 +1,48 @@
+{
+  "login": "jxom",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7336481?v=4",
+  "htmlUrl": "https://github.com/jxom",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1534,
+      "repoCountPrimary": 3,
+      "starsContains": 1534,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "bumbag-ui",
+          "fullName": "jxom/bumbag-ui",
+          "stars": 1015,
+          "url": "https://github.com/jxom/bumbag-ui",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-loads",
+          "fullName": "jxom/react-loads",
+          "stars": 283,
+          "url": "https://github.com/jxom/react-loads",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "fannypack",
+          "fullName": "jxom/fannypack",
+          "stars": 236,
+          "url": "https://github.com/jxom/fannypack",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

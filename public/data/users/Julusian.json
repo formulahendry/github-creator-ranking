@@ -1,0 +1,34 @@
+{
+  "login": "Julusian",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1327476?v=4",
+  "htmlUrl": "https://github.com/Julusian",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 199,
+      "repoCountPrimary": 1,
+      "starsContains": 199,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "node-elgato-stream-deck",
+          "fullName": "Julusian/node-elgato-stream-deck",
+          "stars": 199,
+          "url": "https://github.com/Julusian/node-elgato-stream-deck",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

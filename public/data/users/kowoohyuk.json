@@ -1,0 +1,34 @@
+{
+  "login": "kowoohyuk",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/45394360?v=4",
+  "htmlUrl": "https://github.com/kowoohyuk",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 221,
+      "repoCountPrimary": 1,
+      "starsContains": 221,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "monorepo-template",
+          "fullName": "kowoohyuk/monorepo-template",
+          "stars": 221,
+          "url": "https://github.com/kowoohyuk/monorepo-template",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

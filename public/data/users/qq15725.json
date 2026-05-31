@@ -1,0 +1,34 @@
+{
+  "login": "qq15725",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/19576382?v=4",
+  "htmlUrl": "https://github.com/qq15725",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1932,
+      "repoCountPrimary": 1,
+      "starsContains": 1932,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "modern-screenshot",
+          "fullName": "qq15725/modern-screenshot",
+          "stars": 1932,
+          "url": "https://github.com/qq15725/modern-screenshot",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

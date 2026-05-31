@@ -1,0 +1,34 @@
+{
+  "login": "PhotonQuantum",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/18749973?v=4",
+  "htmlUrl": "https://github.com/PhotonQuantum",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 227,
+      "repoCountPrimary": 1,
+      "starsContains": 227,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "tmexclude",
+          "fullName": "PhotonQuantum/tmexclude",
+          "stars": 227,
+          "url": "https://github.com/PhotonQuantum/tmexclude",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

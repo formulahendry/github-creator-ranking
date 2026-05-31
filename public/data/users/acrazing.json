@@ -1,0 +1,48 @@
+{
+  "login": "acrazing",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/10029810?v=4",
+  "htmlUrl": "https://github.com/acrazing",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1177,
+      "repoCountPrimary": 3,
+      "starsContains": 1177,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "dpdm",
+          "fullName": "acrazing/dpdm",
+          "stars": 849,
+          "url": "https://github.com/acrazing/dpdm",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "html5parser",
+          "fullName": "acrazing/html5parser",
+          "stars": 182,
+          "url": "https://github.com/acrazing/html5parser",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "mobx-sync",
+          "fullName": "acrazing/mobx-sync",
+          "stars": 146,
+          "url": "https://github.com/acrazing/mobx-sync",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

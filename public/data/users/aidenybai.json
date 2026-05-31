@@ -1,0 +1,62 @@
+{
+  "login": "aidenybai",
+  "name": "Aiden Bai",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/38025074?v=4",
+  "htmlUrl": "https://github.com/aidenybai",
+  "location": "sf",
+  "countryCode": "US",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 50122,
+      "repoCountPrimary": 9,
+      "starsContains": 50122,
+      "repoCountContains": 9,
+      "globalRank": 18,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-scan",
+          "fullName": "aidenybai/react-scan",
+          "stars": 21329,
+          "url": "https://github.com/aidenybai/react-scan",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "million",
+          "fullName": "aidenybai/million",
+          "stars": 17571,
+          "url": "https://github.com/aidenybai/million",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-grab",
+          "fullName": "aidenybai/react-grab",
+          "stars": 7270,
+          "url": "https://github.com/aidenybai/react-grab",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "bippy",
+          "fullName": "aidenybai/bippy",
+          "stars": 1318,
+          "url": "https://github.com/aidenybai/bippy",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "pattycake",
+          "fullName": "aidenybai/pattycake",
+          "stars": 872,
+          "url": "https://github.com/aidenybai/pattycake",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "login": "antfu",
+  "name": "Anthony Fu",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/11247099?v=4",
+  "htmlUrl": "https://github.com/antfu",
+  "location": "undefined",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 44012,
+      "repoCountPrimary": 80,
+      "starsContains": 44012,
+      "repoCountContains": 80,
+      "globalRank": 26,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "skills",
+          "fullName": "antfu/skills",
+          "stars": 5128,
+          "url": "https://github.com/antfu/skills",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "node-modules-inspector",
+          "fullName": "antfu/node-modules-inspector",
+          "stars": 2894,
+          "url": "https://github.com/antfu/node-modules-inspector",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vue-starport",
+          "fullName": "antfu/vue-starport",
+          "stars": 1956,
+          "url": "https://github.com/antfu/vue-starport",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vitesse-nuxt",
+          "fullName": "antfu/vitesse-nuxt",
+          "stars": 1907,
+          "url": "https://github.com/antfu/vitesse-nuxt",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "esno",
+          "fullName": "antfu/esno",
+          "stars": 1613,
+          "url": "https://github.com/antfu/esno",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

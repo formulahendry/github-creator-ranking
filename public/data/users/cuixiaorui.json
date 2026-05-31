@@ -1,0 +1,48 @@
+{
+  "login": "cuixiaorui",
+  "name": "阿崔cxr",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/12064746?v=4",
+  "htmlUrl": "https://github.com/cuixiaorui",
+  "location": "China",
+  "countryCode": "CN",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 10968,
+      "repoCountPrimary": 3,
+      "starsContains": 10968,
+      "repoCountContains": 3,
+      "globalRank": 194,
+      "countryRank": 24,
+      "topRepos": [
+        {
+          "name": "mini-vue",
+          "fullName": "cuixiaorui/mini-vue",
+          "stars": 10570,
+          "url": "https://github.com/cuixiaorui/mini-vue",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "earthworm",
+          "fullName": "cuixiaorui/earthworm",
+          "stars": 236,
+          "url": "https://github.com/cuixiaorui/earthworm",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "front-end-testing",
+          "fullName": "cuixiaorui/front-end-testing",
+          "stars": 162,
+          "url": "https://github.com/cuixiaorui/front-end-testing",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

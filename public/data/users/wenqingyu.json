@@ -1,0 +1,34 @@
+{
+  "login": "wenqingyu",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7462849?v=4",
+  "htmlUrl": "https://github.com/wenqingyu",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 185,
+      "repoCountPrimary": 1,
+      "starsContains": 185,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ralphy-openspec",
+          "fullName": "wenqingyu/ralphy-openspec",
+          "stars": 185,
+          "url": "https://github.com/wenqingyu/ralphy-openspec",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

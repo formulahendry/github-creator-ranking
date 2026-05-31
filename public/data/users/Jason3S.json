@@ -1,0 +1,34 @@
+{
+  "login": "Jason3S",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3740137?v=4",
+  "htmlUrl": "https://github.com/Jason3S",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 111,
+      "repoCountPrimary": 1,
+      "starsContains": 111,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "rx-stream",
+          "fullName": "Jason3S/rx-stream",
+          "stars": 111,
+          "url": "https://github.com/Jason3S/rx-stream",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

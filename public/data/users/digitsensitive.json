@@ -1,0 +1,41 @@
+{
+  "login": "digitsensitive",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/9529840?v=4",
+  "htmlUrl": "https://github.com/digitsensitive",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1128,
+      "repoCountPrimary": 2,
+      "starsContains": 1128,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "phaser3-typescript",
+          "fullName": "digitsensitive/phaser3-typescript",
+          "stars": 1027,
+          "url": "https://github.com/digitsensitive/phaser3-typescript",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "astar-typescript",
+          "fullName": "digitsensitive/astar-typescript",
+          "stars": 101,
+          "url": "https://github.com/digitsensitive/astar-typescript",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "adisreyaj",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/29002760?v=4",
+  "htmlUrl": "https://github.com/adisreyaj",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 357,
+      "repoCountPrimary": 2,
+      "starsContains": 357,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "compito",
+          "fullName": "adisreyaj/compito",
+          "stars": 238,
+          "url": "https://github.com/adisreyaj/compito",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "flare",
+          "fullName": "adisreyaj/flare",
+          "stars": 119,
+          "url": "https://github.com/adisreyaj/flare",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

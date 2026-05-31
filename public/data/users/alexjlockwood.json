@@ -1,0 +1,41 @@
+{
+  "login": "alexjlockwood",
+  "name": "Alex Lockwood",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1380747?v=4",
+  "htmlUrl": "https://github.com/alexjlockwood",
+  "location": "Lexington, MA",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 5428,
+      "repoCountPrimary": 2,
+      "starsContains": 5428,
+      "repoCountContains": 2,
+      "globalRank": 452,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ShapeShifter",
+          "fullName": "alexjlockwood/ShapeShifter",
+          "stars": 4069,
+          "url": "https://github.com/alexjlockwood/ShapeShifter",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "avocado",
+          "fullName": "alexjlockwood/avocado",
+          "stars": 1359,
+          "url": "https://github.com/alexjlockwood/avocado",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

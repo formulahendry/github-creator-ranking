@@ -1,0 +1,41 @@
+{
+  "login": "DDULDDUCK",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/126528992?v=4",
+  "htmlUrl": "https://github.com/DDULDDUCK",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1362,
+      "repoCountPrimary": 2,
+      "starsContains": 1362,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "every-pdf",
+          "fullName": "DDULDDUCK/every-pdf",
+          "stars": 1186,
+          "url": "https://github.com/DDULDDUCK/every-pdf",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "pose-nudge",
+          "fullName": "DDULDDUCK/pose-nudge",
+          "stars": 176,
+          "url": "https://github.com/DDULDDUCK/pose-nudge",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

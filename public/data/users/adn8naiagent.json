@@ -1,0 +1,34 @@
+{
+  "login": "adn8naiagent",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/221707364?v=4",
+  "htmlUrl": "https://github.com/adn8naiagent",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 821,
+      "repoCountPrimary": 1,
+      "starsContains": 821,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "F1ReplayTiming",
+          "fullName": "adn8naiagent/F1ReplayTiming",
+          "stars": 821,
+          "url": "https://github.com/adn8naiagent/F1ReplayTiming",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "login": "utimur",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/47891130?v=4",
+  "htmlUrl": "https://github.com/utimur",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1986,
+      "repoCountPrimary": 5,
+      "starsContains": 1986,
+      "repoCountContains": 5,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "redux_toolkit_rtk_query",
+          "fullName": "utimur/redux_toolkit_rtk_query",
+          "stars": 527,
+          "url": "https://github.com/utimur/redux_toolkit_rtk_query",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "profi-backend-node-js",
+          "fullName": "utimur/profi-backend-node-js",
+          "stars": 513,
+          "url": "https://github.com/utimur/profi-backend-node-js",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-redux-typescript-course",
+          "fullName": "utimur/react-redux-typescript-course",
+          "stars": 409,
+          "url": "https://github.com/utimur/react-redux-typescript-course",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-profi",
+          "fullName": "utimur/react-profi",
+          "stars": 361,
+          "url": "https://github.com/utimur/react-profi",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-chess",
+          "fullName": "utimur/react-chess",
+          "stars": 176,
+          "url": "https://github.com/utimur/react-chess",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

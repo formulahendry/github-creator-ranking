@@ -1,0 +1,34 @@
+{
+  "login": "yiliansource",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/41469451?v=4",
+  "htmlUrl": "https://github.com/yiliansource",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1017,
+      "repoCountPrimary": 1,
+      "starsContains": 1017,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "party-js",
+          "fullName": "yiliansource/party-js",
+          "stars": 1017,
+          "url": "https://github.com/yiliansource/party-js",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

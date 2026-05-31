@@ -1,0 +1,34 @@
+{
+  "login": "xitanggg",
+  "name": "Xitang Zhao",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/23644661?v=4",
+  "htmlUrl": "https://github.com/xitanggg",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 8650,
+      "repoCountPrimary": 1,
+      "starsContains": 8650,
+      "repoCountContains": 1,
+      "globalRank": 260,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "open-resume",
+          "fullName": "xitanggg/open-resume",
+          "stars": 8650,
+          "url": "https://github.com/xitanggg/open-resume",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

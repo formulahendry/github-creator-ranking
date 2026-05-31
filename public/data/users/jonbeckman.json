@@ -1,0 +1,34 @@
+{
+  "login": "jonbeckman",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/15289783?v=4",
+  "htmlUrl": "https://github.com/jonbeckman",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 754,
+      "repoCountPrimary": 1,
+      "starsContains": 754,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "solstatus",
+          "fullName": "jonbeckman/solstatus",
+          "stars": 754,
+          "url": "https://github.com/jonbeckman/solstatus",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "login": "staltz",
+  "name": "André Staltz",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/90512?v=4",
+  "htmlUrl": "https://github.com/staltz",
+  "location": "Helsinki, Finland",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 4990,
+      "repoCountPrimary": 5,
+      "starsContains": 4990,
+      "repoCountContains": 5,
+      "globalRank": 508,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "xstream",
+          "fullName": "staltz/xstream",
+          "stars": 2370,
+          "url": "https://github.com/staltz/xstream",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "matrixmultiplication.xyz",
+          "fullName": "staltz/matrixmultiplication.xyz",
+          "stars": 1215,
+          "url": "https://github.com/staltz/matrixmultiplication.xyz",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "manyverse",
+          "fullName": "staltz/manyverse",
+          "stars": 957,
+          "url": "https://github.com/staltz/manyverse",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "dat-installer",
+          "fullName": "staltz/dat-installer",
+          "stars": 271,
+          "url": "https://github.com/staltz/dat-installer",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "html-looks-like",
+          "fullName": "staltz/html-looks-like",
+          "stars": 177,
+          "url": "https://github.com/staltz/html-looks-like",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

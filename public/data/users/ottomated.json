@@ -1,0 +1,55 @@
+{
+  "login": "ottomated",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/31470743?v=4",
+  "htmlUrl": "https://github.com/ottomated",
+  "location": "Los Angeles",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 4409,
+      "repoCountPrimary": 4,
+      "starsContains": 4409,
+      "repoCountContains": 4,
+      "globalRank": 584,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "CrewLink",
+          "fullName": "ottomated/CrewLink",
+          "stars": 3286,
+          "url": "https://github.com/ottomated/CrewLink",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "CrewLink-server",
+          "fullName": "ottomated/CrewLink-server",
+          "stars": 676,
+          "url": "https://github.com/ottomated/CrewLink-server",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "turtle-gambit",
+          "fullName": "ottomated/turtle-gambit",
+          "stars": 246,
+          "url": "https://github.com/ottomated/turtle-gambit",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "noft",
+          "fullName": "ottomated/noft",
+          "stars": 201,
+          "url": "https://github.com/ottomated/noft",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

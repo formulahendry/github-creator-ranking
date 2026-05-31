@@ -1,0 +1,34 @@
+{
+  "login": "kuuurt13",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/11655463?v=4",
+  "htmlUrl": "https://github.com/kuuurt13",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 140,
+      "repoCountPrimary": 1,
+      "starsContains": 140,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ng-block-ui",
+          "fullName": "kuuurt13/ng-block-ui",
+          "stars": 140,
+          "url": "https://github.com/kuuurt13/ng-block-ui",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

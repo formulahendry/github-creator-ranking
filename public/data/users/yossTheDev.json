@@ -1,0 +1,41 @@
+{
+  "login": "yossTheDev",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/98903135?v=4",
+  "htmlUrl": "https://github.com/yossTheDev",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1594,
+      "repoCountPrimary": 2,
+      "starsContains": 1594,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "removerized",
+          "fullName": "yossTheDev/removerized",
+          "stars": 1470,
+          "url": "https://github.com/yossTheDev/removerized",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "karbonized",
+          "fullName": "yossTheDev/karbonized",
+          "stars": 124,
+          "url": "https://github.com/yossTheDev/karbonized",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

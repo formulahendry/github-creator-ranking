@@ -1,0 +1,34 @@
+{
+  "login": "nshalabi",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/8732745?v=4",
+  "htmlUrl": "https://github.com/nshalabi",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1645,
+      "repoCountPrimary": 1,
+      "starsContains": 1645,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "SysmonTools",
+          "fullName": "nshalabi/SysmonTools",
+          "stars": 1645,
+          "url": "https://github.com/nshalabi/SysmonTools",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

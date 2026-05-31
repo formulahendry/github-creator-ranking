@@ -1,0 +1,34 @@
+{
+  "login": "maple3142",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/9370547?v=4",
+  "htmlUrl": "https://github.com/maple3142",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 120,
+      "repoCountPrimary": 1,
+      "starsContains": 120,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vuejs-storage",
+          "fullName": "maple3142/vuejs-storage",
+          "stars": 120,
+          "url": "https://github.com/maple3142/vuejs-storage",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

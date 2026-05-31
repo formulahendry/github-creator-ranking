@@ -1,0 +1,34 @@
+{
+  "login": "VladSez",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/16666234?v=4",
+  "htmlUrl": "https://github.com/VladSez",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 882,
+      "repoCountPrimary": 1,
+      "starsContains": 882,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "easy-invoice-pdf",
+          "fullName": "VladSez/easy-invoice-pdf",
+          "stars": 882,
+          "url": "https://github.com/VladSez/easy-invoice-pdf",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

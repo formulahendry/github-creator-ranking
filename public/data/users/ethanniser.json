@@ -1,0 +1,62 @@
+{
+  "login": "ethanniser",
+  "name": "Ethan Niser",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/100045248?v=4",
+  "htmlUrl": "https://github.com/ethanniser",
+  "location": "San Francisco",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 6646,
+      "repoCountPrimary": 5,
+      "starsContains": 6646,
+      "repoCountContains": 5,
+      "globalRank": 352,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "NextFaster",
+          "fullName": "ethanniser/NextFaster",
+          "stars": 4849,
+          "url": "https://github.com/ethanniser/NextFaster",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "the-beth-stack",
+          "fullName": "ethanniser/the-beth-stack",
+          "stars": 898,
+          "url": "https://github.com/ethanniser/the-beth-stack",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "next-typesafe-url",
+          "fullName": "ethanniser/next-typesafe-url",
+          "stars": 493,
+          "url": "https://github.com/ethanniser/next-typesafe-url",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "effect-workshop",
+          "fullName": "ethanniser/effect-workshop",
+          "stars": 250,
+          "url": "https://github.com/ethanniser/effect-workshop",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "beth-b2b-saas",
+          "fullName": "ethanniser/beth-b2b-saas",
+          "stars": 156,
+          "url": "https://github.com/ethanniser/beth-b2b-saas",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

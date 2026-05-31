@@ -1,0 +1,34 @@
+{
+  "login": "vvmgev",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/11613729?v=4",
+  "htmlUrl": "https://github.com/vvmgev",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 127,
+      "repoCountPrimary": 1,
+      "starsContains": 127,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Inssman",
+          "fullName": "vvmgev/Inssman",
+          "stars": 127,
+          "url": "https://github.com/vvmgev/Inssman",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

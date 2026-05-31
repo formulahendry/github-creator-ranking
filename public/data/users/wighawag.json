@@ -1,0 +1,48 @@
+{
+  "login": "wighawag",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/790580?v=4",
+  "htmlUrl": "https://github.com/wighawag",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1653,
+      "repoCountPrimary": 3,
+      "starsContains": 1653,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "hardhat-deploy",
+          "fullName": "wighawag/hardhat-deploy",
+          "stars": 1264,
+          "url": "https://github.com/wighawag/hardhat-deploy",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "jolly-roger",
+          "fullName": "wighawag/jolly-roger",
+          "stars": 207,
+          "url": "https://github.com/wighawag/jolly-roger",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "tutorial-hardhat-deploy",
+          "fullName": "wighawag/tutorial-hardhat-deploy",
+          "stars": 182,
+          "url": "https://github.com/wighawag/tutorial-hardhat-deploy",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

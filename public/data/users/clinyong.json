@@ -1,0 +1,34 @@
+{
+  "login": "clinyong",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/4192951?v=4",
+  "htmlUrl": "https://github.com/clinyong",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 151,
+      "repoCountPrimary": 1,
+      "starsContains": 151,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vscode-css-modules",
+          "fullName": "clinyong/vscode-css-modules",
+          "stars": 151,
+          "url": "https://github.com/clinyong/vscode-css-modules",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "josepholiveira",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/39345247?v=4",
+  "htmlUrl": "https://github.com/josepholiveira",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 477,
+      "repoCountPrimary": 1,
+      "starsContains": 477,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "podcastr",
+          "fullName": "josepholiveira/podcastr",
+          "stars": 477,
+          "url": "https://github.com/josepholiveira/podcastr",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

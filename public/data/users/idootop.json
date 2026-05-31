@@ -1,0 +1,62 @@
+{
+  "login": "idootop",
+  "name": "Del",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/35302658?v=4",
+  "htmlUrl": "https://github.com/idootop",
+  "location": "Shanghai, China",
+  "countryCode": "CN",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 17976,
+      "repoCountPrimary": 7,
+      "starsContains": 17976,
+      "repoCountContains": 7,
+      "globalRank": 105,
+      "countryRank": 11,
+      "topRepos": [
+        {
+          "name": "mi-gpt",
+          "fullName": "idootop/mi-gpt",
+          "stars": 12424,
+          "url": "https://github.com/idootop/mi-gpt",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "MagicMirror",
+          "fullName": "idootop/MagicMirror",
+          "stars": 2860,
+          "url": "https://github.com/idootop/MagicMirror",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "migpt-next",
+          "fullName": "idootop/migpt-next",
+          "stars": 1398,
+          "url": "https://github.com/idootop/migpt-next",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "feiyu-player",
+          "fullName": "idootop/feiyu-player",
+          "stars": 527,
+          "url": "https://github.com/idootop/feiyu-player",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "mi-note-export",
+          "fullName": "idootop/mi-note-export",
+          "stars": 390,
+          "url": "https://github.com/idootop/mi-note-export",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

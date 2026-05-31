@@ -1,0 +1,55 @@
+{
+  "login": "bahmutov",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2212006?v=4",
+  "htmlUrl": "https://github.com/bahmutov",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 609,
+      "repoCountPrimary": 4,
+      "starsContains": 609,
+      "repoCountContains": 4,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "cy-api",
+          "fullName": "bahmutov/cy-api",
+          "stars": 210,
+          "url": "https://github.com/bahmutov/cy-api",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "cypress-angular-unit-test",
+          "fullName": "bahmutov/cypress-angular-unit-test",
+          "stars": 160,
+          "url": "https://github.com/bahmutov/cypress-angular-unit-test",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "cypress-skip-and-only-ui",
+          "fullName": "bahmutov/cypress-skip-and-only-ui",
+          "stars": 133,
+          "url": "https://github.com/bahmutov/cypress-skip-and-only-ui",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "test-todomvc-using-app-actions",
+          "fullName": "bahmutov/test-todomvc-using-app-actions",
+          "stars": 106,
+          "url": "https://github.com/bahmutov/test-todomvc-using-app-actions",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "tinovyatkin",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5350898?v=4",
+  "htmlUrl": "https://github.com/tinovyatkin",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 839,
+      "repoCountPrimary": 2,
+      "starsContains": 839,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "pass-js",
+          "fullName": "tinovyatkin/pass-js",
+          "stars": 733,
+          "url": "https://github.com/tinovyatkin/pass-js",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "nest-puppeteer",
+          "fullName": "tinovyatkin/nest-puppeteer",
+          "stars": 106,
+          "url": "https://github.com/tinovyatkin/nest-puppeteer",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

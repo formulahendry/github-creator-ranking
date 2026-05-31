@@ -1,0 +1,34 @@
+{
+  "login": "iuroc",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/61752998?v=4",
+  "htmlUrl": "https://github.com/iuroc",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1675,
+      "repoCountPrimary": 1,
+      "starsContains": 1675,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "bilidown",
+          "fullName": "iuroc/bilidown",
+          "stars": 1675,
+          "url": "https://github.com/iuroc/bilidown",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

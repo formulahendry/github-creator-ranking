@@ -1,0 +1,34 @@
+{
+  "login": "parlay96",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/32978177?v=4",
+  "htmlUrl": "https://github.com/parlay96",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 252,
+      "repoCountPrimary": 1,
+      "starsContains": 252,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "pl-export-excel",
+          "fullName": "parlay96/pl-export-excel",
+          "stars": 252,
+          "url": "https://github.com/parlay96/pl-export-excel",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

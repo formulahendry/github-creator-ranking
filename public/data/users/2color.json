@@ -1,0 +1,41 @@
+{
+  "login": "2color",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1992255?v=4",
+  "htmlUrl": "https://github.com/2color",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 438,
+      "repoCountPrimary": 2,
+      "starsContains": 438,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "real-world-grading-app",
+          "fullName": "2color/real-world-grading-app",
+          "stars": 304,
+          "url": "https://github.com/2color/real-world-grading-app",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "fastify-graphql-nexus-prisma",
+          "fullName": "2color/fastify-graphql-nexus-prisma",
+          "stars": 134,
+          "url": "https://github.com/2color/fastify-graphql-nexus-prisma",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

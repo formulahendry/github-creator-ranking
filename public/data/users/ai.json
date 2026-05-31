@@ -1,0 +1,55 @@
+{
+  "login": "ai",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/19343?v=4",
+  "htmlUrl": "https://github.com/ai",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2514,
+      "repoCountPrimary": 4,
+      "starsContains": 2514,
+      "repoCountContains": 4,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "nanoevents",
+          "fullName": "ai/nanoevents",
+          "stars": 1628,
+          "url": "https://github.com/ai/nanoevents",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "keyux",
+          "fullName": "ai/keyux",
+          "stars": 541,
+          "url": "https://github.com/ai/keyux",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "multiocular",
+          "fullName": "ai/multiocular",
+          "stars": 204,
+          "url": "https://github.com/ai/multiocular",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "nanospy",
+          "fullName": "ai/nanospy",
+          "stars": 141,
+          "url": "https://github.com/ai/nanospy",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

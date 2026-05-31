@@ -1,0 +1,62 @@
+{
+  "login": "mizchi",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/73962?v=4",
+  "htmlUrl": "https://github.com/mizchi",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2161,
+      "repoCountPrimary": 7,
+      "starsContains": 2161,
+      "repoCountContains": 7,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ailab",
+          "fullName": "mizchi/ailab",
+          "stars": 706,
+          "url": "https://github.com/mizchi/ailab",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "lsmcp",
+          "fullName": "mizchi/lsmcp",
+          "stars": 450,
+          "url": "https://github.com/mizchi/lsmcp",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "next-editor",
+          "fullName": "mizchi/next-editor",
+          "stars": 329,
+          "url": "https://github.com/mizchi/next-editor",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "skills",
+          "fullName": "mizchi/skills",
+          "stars": 246,
+          "url": "https://github.com/mizchi/skills",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "lizod",
+          "fullName": "mizchi/lizod",
+          "stars": 208,
+          "url": "https://github.com/mizchi/lizod",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "lingosandi",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/91113613?v=4",
+  "htmlUrl": "https://github.com/lingosandi",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 518,
+      "repoCountPrimary": 2,
+      "starsContains": 518,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "agent-web-os",
+          "fullName": "lingosandi/agent-web-os",
+          "stars": 308,
+          "url": "https://github.com/lingosandi/agent-web-os",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "mono-sandbox",
+          "fullName": "lingosandi/mono-sandbox",
+          "stars": 210,
+          "url": "https://github.com/lingosandi/mono-sandbox",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

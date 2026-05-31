@@ -1,0 +1,62 @@
+{
+  "login": "Vinzent03",
+  "name": "Vinzent",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/63981639?v=4",
+  "htmlUrl": "https://github.com/Vinzent03",
+  "location": "Aachen, Germany",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 13041,
+      "repoCountPrimary": 6,
+      "starsContains": 13041,
+      "repoCountContains": 6,
+      "globalRank": 154,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "obsidian-git",
+          "fullName": "Vinzent03/obsidian-git",
+          "stars": 11108,
+          "url": "https://github.com/Vinzent03/obsidian-git",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "obsidian-advanced-uri",
+          "fullName": "Vinzent03/obsidian-advanced-uri",
+          "stars": 1147,
+          "url": "https://github.com/Vinzent03/obsidian-advanced-uri",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "find-unlinked-files",
+          "fullName": "Vinzent03/find-unlinked-files",
+          "stars": 365,
+          "url": "https://github.com/Vinzent03/find-unlinked-files",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "tab-switcher",
+          "fullName": "Vinzent03/tab-switcher",
+          "stars": 169,
+          "url": "https://github.com/Vinzent03/tab-switcher",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "obsidian-hotkeys-for-templates",
+          "fullName": "Vinzent03/obsidian-hotkeys-for-templates",
+          "stars": 131,
+          "url": "https://github.com/Vinzent03/obsidian-hotkeys-for-templates",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

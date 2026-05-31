@@ -1,0 +1,41 @@
+{
+  "login": "joonhocho",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/930795?v=4",
+  "htmlUrl": "https://github.com/joonhocho",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 866,
+      "repoCountPrimary": 2,
+      "starsContains": 866,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "tsdef",
+          "fullName": "joonhocho/tsdef",
+          "stars": 598,
+          "url": "https://github.com/joonhocho/tsdef",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "tscpaths",
+          "fullName": "joonhocho/tscpaths",
+          "stars": 268,
+          "url": "https://github.com/joonhocho/tscpaths",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

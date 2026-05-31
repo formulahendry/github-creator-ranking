@@ -1,0 +1,41 @@
+{
+  "login": "tim-hub",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2884320?v=4",
+  "htmlUrl": "https://github.com/tim-hub",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 459,
+      "repoCountPrimary": 2,
+      "starsContains": 459,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "obsidian-bible-reference",
+          "fullName": "tim-hub/obsidian-bible-reference",
+          "stars": 334,
+          "url": "https://github.com/tim-hub/obsidian-bible-reference",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "nestjs-hexagonal-example",
+          "fullName": "tim-hub/nestjs-hexagonal-example",
+          "stars": 125,
+          "url": "https://github.com/tim-hub/nestjs-hexagonal-example",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

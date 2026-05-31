@@ -1,0 +1,34 @@
+{
+  "login": "torokmark",
+  "name": "Márk Török",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1975844?v=4",
+  "htmlUrl": "https://github.com/torokmark",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 5424,
+      "repoCountPrimary": 1,
+      "starsContains": 5424,
+      "repoCountContains": 1,
+      "globalRank": 455,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "design_patterns_in_typescript",
+          "fullName": "torokmark/design_patterns_in_typescript",
+          "stars": 5424,
+          "url": "https://github.com/torokmark/design_patterns_in_typescript",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

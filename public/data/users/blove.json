@@ -1,0 +1,34 @@
+{
+  "login": "blove",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/61436?v=4",
+  "htmlUrl": "https://github.com/blove",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 276,
+      "repoCountPrimary": 1,
+      "starsContains": 276,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "typescript-express-starter",
+          "fullName": "blove/typescript-express-starter",
+          "stars": 276,
+          "url": "https://github.com/blove/typescript-express-starter",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

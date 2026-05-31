@@ -1,0 +1,41 @@
+{
+  "login": "alex8088",
+  "name": "alex.wei",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/25053004?v=4",
+  "htmlUrl": "https://github.com/alex8088",
+  "location": "Guangzhou, GD, China",
+  "countryCode": "CN",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 5671,
+      "repoCountPrimary": 2,
+      "starsContains": 5671,
+      "repoCountContains": 2,
+      "globalRank": 427,
+      "countryRank": 53,
+      "topRepos": [
+        {
+          "name": "electron-vite",
+          "fullName": "alex8088/electron-vite",
+          "stars": 5459,
+          "url": "https://github.com/alex8088/electron-vite",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "electron-toolkit",
+          "fullName": "alex8088/electron-toolkit",
+          "stars": 212,
+          "url": "https://github.com/alex8088/electron-toolkit",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

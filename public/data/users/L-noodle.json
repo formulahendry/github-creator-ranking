@@ -1,0 +1,34 @@
+{
+  "login": "L-noodle",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/43026031?v=4",
+  "htmlUrl": "https://github.com/L-noodle",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 160,
+      "repoCountPrimary": 1,
+      "starsContains": 160,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vue-big-screen-plugin",
+          "fullName": "L-noodle/vue-big-screen-plugin",
+          "stars": 160,
+          "url": "https://github.com/L-noodle/vue-big-screen-plugin",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

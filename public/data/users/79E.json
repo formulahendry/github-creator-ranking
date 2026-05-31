@@ -1,0 +1,34 @@
+{
+  "login": "79E",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/71202421?v=4",
+  "htmlUrl": "https://github.com/79E",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1371,
+      "repoCountPrimary": 1,
+      "starsContains": 1371,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ChatGpt-Web",
+          "fullName": "79E/ChatGpt-Web",
+          "stars": 1371,
+          "url": "https://github.com/79E/ChatGpt-Web",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

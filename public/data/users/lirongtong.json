@@ -1,0 +1,48 @@
+{
+  "login": "lirongtong",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/18351791?v=4",
+  "htmlUrl": "https://github.com/lirongtong",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 662,
+      "repoCountPrimary": 3,
+      "starsContains": 662,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "makeit-admin-manager",
+          "fullName": "lirongtong/makeit-admin-manager",
+          "stars": 349,
+          "url": "https://github.com/lirongtong/makeit-admin-manager",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "makeit-captcha",
+          "fullName": "lirongtong/makeit-captcha",
+          "stars": 173,
+          "url": "https://github.com/lirongtong/makeit-captcha",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "makeit-graffiti",
+          "fullName": "lirongtong/makeit-graffiti",
+          "stars": 140,
+          "url": "https://github.com/lirongtong/makeit-graffiti",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

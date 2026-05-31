@@ -1,0 +1,34 @@
+{
+  "login": "olistic",
+  "name": "Matías Olivera",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5600126?v=4",
+  "htmlUrl": "https://github.com/olistic",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 9517,
+      "repoCountPrimary": 1,
+      "starsContains": 9517,
+      "repoCountContains": 1,
+      "globalRank": 236,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "warriorjs",
+          "fullName": "olistic/warriorjs",
+          "stars": 9517,
+          "url": "https://github.com/olistic/warriorjs",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

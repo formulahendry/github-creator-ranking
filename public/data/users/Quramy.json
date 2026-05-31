@@ -1,0 +1,62 @@
+{
+  "login": "Quramy",
+  "name": "Yosuke Kurami",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1262998?v=4",
+  "htmlUrl": "https://github.com/Quramy",
+  "location": "Tokyo, Japan",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 4382,
+      "repoCountPrimary": 9,
+      "starsContains": 4382,
+      "repoCountContains": 9,
+      "globalRank": 590,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "typed-css-modules",
+          "fullName": "Quramy/typed-css-modules",
+          "stars": 1130,
+          "url": "https://github.com/Quramy/typed-css-modules",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "lerna-yarn-workspaces-example",
+          "fullName": "Quramy/lerna-yarn-workspaces-example",
+          "stars": 891,
+          "url": "https://github.com/Quramy/lerna-yarn-workspaces-example",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ts-graphql-plugin",
+          "fullName": "Quramy/ts-graphql-plugin",
+          "stars": 755,
+          "url": "https://github.com/Quramy/ts-graphql-plugin",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "prisma-fabbrica",
+          "fullName": "Quramy/prisma-fabbrica",
+          "stars": 347,
+          "url": "https://github.com/Quramy/prisma-fabbrica",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "npm-ts-workspaces-example",
+          "fullName": "Quramy/npm-ts-workspaces-example",
+          "stars": 333,
+          "url": "https://github.com/Quramy/npm-ts-workspaces-example",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

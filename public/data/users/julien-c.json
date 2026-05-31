@@ -1,0 +1,34 @@
+{
+  "login": "julien-c",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/326577?v=4",
+  "htmlUrl": "https://github.com/julien-c",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 361,
+      "repoCountPrimary": 1,
+      "starsContains": 361,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "epub",
+          "fullName": "julien-c/epub",
+          "stars": 361,
+          "url": "https://github.com/julien-c/epub",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

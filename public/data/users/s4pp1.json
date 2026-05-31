@@ -1,0 +1,34 @@
+{
+  "login": "s4pp1",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6808659?v=4",
+  "htmlUrl": "https://github.com/s4pp1",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 123,
+      "repoCountPrimary": 1,
+      "starsContains": 123,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "stremhu-source",
+          "fullName": "s4pp1/stremhu-source",
+          "stars": 123,
+          "url": "https://github.com/s4pp1/stremhu-source",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

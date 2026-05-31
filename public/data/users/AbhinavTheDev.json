@@ -1,0 +1,41 @@
+{
+  "login": "AbhinavTheDev",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/85792055?v=4",
+  "htmlUrl": "https://github.com/AbhinavTheDev",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 209,
+      "repoCountPrimary": 2,
+      "starsContains": 209,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "coding-agent",
+          "fullName": "AbhinavTheDev/coding-agent",
+          "stars": 105,
+          "url": "https://github.com/AbhinavTheDev/coding-agent",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Super-Banana",
+          "fullName": "AbhinavTheDev/Super-Banana",
+          "stars": 104,
+          "url": "https://github.com/AbhinavTheDev/Super-Banana",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

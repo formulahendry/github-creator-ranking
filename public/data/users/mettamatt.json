@@ -1,0 +1,34 @@
+{
+  "login": "mettamatt",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/321285?v=4",
+  "htmlUrl": "https://github.com/mettamatt",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 255,
+      "repoCountPrimary": 1,
+      "starsContains": 255,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "code-reasoning",
+          "fullName": "mettamatt/code-reasoning",
+          "stars": 255,
+          "url": "https://github.com/mettamatt/code-reasoning",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

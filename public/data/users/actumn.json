@@ -1,0 +1,34 @@
+{
+  "login": "actumn",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/12994698?v=4",
+  "htmlUrl": "https://github.com/actumn",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 304,
+      "repoCountPrimary": 1,
+      "starsContains": 304,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "celery.node",
+          "fullName": "actumn/celery.node",
+          "stars": 304,
+          "url": "https://github.com/actumn/celery.node",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

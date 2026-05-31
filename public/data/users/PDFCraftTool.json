@@ -1,0 +1,34 @@
+{
+  "login": "PDFCraftTool",
+  "name": "PDFCraft",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/252608121?v=4",
+  "htmlUrl": "https://github.com/PDFCraftTool",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 6338,
+      "repoCountPrimary": 1,
+      "starsContains": 6338,
+      "repoCountContains": 1,
+      "globalRank": 370,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "pdfcraft",
+          "fullName": "PDFCraftTool/pdfcraft",
+          "stars": 6338,
+          "url": "https://github.com/PDFCraftTool/pdfcraft",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "login": "webfansplz",
+  "name": "Arlo",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/22515951?v=4",
+  "htmlUrl": "https://github.com/webfansplz",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 5790,
+      "repoCountPrimary": 5,
+      "starsContains": 5790,
+      "repoCountContains": 5,
+      "globalRank": 417,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vuejs-challenges",
+          "fullName": "webfansplz/vuejs-challenges",
+          "stars": 2855,
+          "url": "https://github.com/webfansplz/vuejs-challenges",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vite-plugin-vue-devtools",
+          "fullName": "webfansplz/vite-plugin-vue-devtools",
+          "stars": 1605,
+          "url": "https://github.com/webfansplz/vite-plugin-vue-devtools",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "temir",
+          "fullName": "webfansplz/temir",
+          "stars": 994,
+          "url": "https://github.com/webfansplz/temir",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vtui-npm",
+          "fullName": "webfansplz/vtui-npm",
+          "stars": 206,
+          "url": "https://github.com/webfansplz/vtui-npm",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vue-c2c",
+          "fullName": "webfansplz/vue-c2c",
+          "stars": 130,
+          "url": "https://github.com/webfansplz/vue-c2c",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

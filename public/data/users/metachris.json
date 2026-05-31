@@ -1,0 +1,34 @@
+{
+  "login": "metachris",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/116939?v=4",
+  "htmlUrl": "https://github.com/metachris",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 604,
+      "repoCountPrimary": 1,
+      "starsContains": 604,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "typescript-boilerplate",
+          "fullName": "metachris/typescript-boilerplate",
+          "stars": 604,
+          "url": "https://github.com/metachris/typescript-boilerplate",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

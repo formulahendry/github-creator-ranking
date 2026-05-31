@@ -1,0 +1,41 @@
+{
+  "login": "hudy9x",
+  "name": "hudy9x",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/95471659?v=4",
+  "htmlUrl": "https://github.com/hudy9x",
+  "location": "HaNoi",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2995,
+      "repoCountPrimary": 2,
+      "starsContains": 2995,
+      "repoCountContains": 2,
+      "globalRank": 896,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "namviek",
+          "fullName": "hudy9x/namviek",
+          "stars": 2421,
+          "url": "https://github.com/hudy9x/namviek",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "kompad",
+          "fullName": "hudy9x/kompad",
+          "stars": 574,
+          "url": "https://github.com/hudy9x/kompad",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

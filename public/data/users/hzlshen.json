@@ -1,0 +1,41 @@
+{
+  "login": "hzlshen",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/24948457?v=4",
+  "htmlUrl": "https://github.com/hzlshen",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 304,
+      "repoCountPrimary": 2,
+      "starsContains": 304,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "angular-cli-mvc",
+          "fullName": "hzlshen/angular-cli-mvc",
+          "stars": 196,
+          "url": "https://github.com/hzlshen/angular-cli-mvc",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ionic-JD",
+          "fullName": "hzlshen/ionic-JD",
+          "stars": 108,
+          "url": "https://github.com/hzlshen/ionic-JD",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

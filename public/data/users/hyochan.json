@@ -1,0 +1,62 @@
+{
+  "login": "hyochan",
+  "name": "Hyo",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/27461460?v=4",
+  "htmlUrl": "https://github.com/hyochan",
+  "location": "Seoul",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 5312,
+      "repoCountPrimary": 6,
+      "starsContains": 5312,
+      "repoCountContains": 6,
+      "globalRank": 465,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-native-iap",
+          "fullName": "hyochan/react-native-iap",
+          "stars": 3227,
+          "url": "https://github.com/hyochan/react-native-iap",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-native-nitro-sound",
+          "fullName": "hyochan/react-native-nitro-sound",
+          "stars": 950,
+          "url": "https://github.com/hyochan/react-native-nitro-sound",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-native-masonry-list",
+          "fullName": "hyochan/react-native-masonry-list",
+          "stars": 436,
+          "url": "https://github.com/hyochan/react-native-masonry-list",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "expo-iap",
+          "fullName": "hyochan/expo-iap",
+          "stars": 351,
+          "url": "https://github.com/hyochan/expo-iap",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "hackatalk",
+          "fullName": "hyochan/hackatalk",
+          "stars": 209,
+          "url": "https://github.com/hyochan/hackatalk",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

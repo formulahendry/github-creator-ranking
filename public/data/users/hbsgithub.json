@@ -1,0 +1,34 @@
+{
+  "login": "hbsgithub",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/64822529?v=4",
+  "htmlUrl": "https://github.com/hbsgithub",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 140,
+      "repoCountPrimary": 1,
+      "starsContains": 140,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "deno-azure-openai-proxy",
+          "fullName": "hbsgithub/deno-azure-openai-proxy",
+          "stars": 140,
+          "url": "https://github.com/hbsgithub/deno-azure-openai-proxy",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

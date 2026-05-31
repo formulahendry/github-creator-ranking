@@ -1,0 +1,34 @@
+{
+  "login": "guruahn",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/8253286?v=4",
+  "htmlUrl": "https://github.com/guruahn",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 182,
+      "repoCountPrimary": 1,
+      "starsContains": 182,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vue-google-oauth2",
+          "fullName": "guruahn/vue-google-oauth2",
+          "stars": 182,
+          "url": "https://github.com/guruahn/vue-google-oauth2",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

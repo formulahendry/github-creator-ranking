@@ -1,0 +1,48 @@
+{
+  "login": "sbaiahmed1",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/30757139?v=4",
+  "htmlUrl": "https://github.com/sbaiahmed1",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 546,
+      "repoCountPrimary": 3,
+      "starsContains": 546,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-native-blur",
+          "fullName": "sbaiahmed1/react-native-blur",
+          "stars": 284,
+          "url": "https://github.com/sbaiahmed1/react-native-blur",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-native-google-auth",
+          "fullName": "sbaiahmed1/react-native-google-auth",
+          "stars": 152,
+          "url": "https://github.com/sbaiahmed1/react-native-google-auth",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-native-biometrics",
+          "fullName": "sbaiahmed1/react-native-biometrics",
+          "stars": 110,
+          "url": "https://github.com/sbaiahmed1/react-native-biometrics",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

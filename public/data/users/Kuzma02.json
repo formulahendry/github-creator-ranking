@@ -1,0 +1,34 @@
+{
+  "login": "Kuzma02",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/138793624?v=4",
+  "htmlUrl": "https://github.com/Kuzma02",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 631,
+      "repoCountPrimary": 1,
+      "starsContains": 631,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Electronics-eCommerce-Shop-With-Admin-Dashboard-NextJS-NodeJS",
+          "fullName": "Kuzma02/Electronics-eCommerce-Shop-With-Admin-Dashboard-NextJS-NodeJS",
+          "stars": 631,
+          "url": "https://github.com/Kuzma02/Electronics-eCommerce-Shop-With-Admin-Dashboard-NextJS-NodeJS",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

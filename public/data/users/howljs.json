@@ -1,0 +1,34 @@
+{
+  "login": "howljs",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/33460888?v=4",
+  "htmlUrl": "https://github.com/howljs",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 646,
+      "repoCountPrimary": 1,
+      "starsContains": 646,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-native-calendar-kit",
+          "fullName": "howljs/react-native-calendar-kit",
+          "stars": 646,
+          "url": "https://github.com/howljs/react-native-calendar-kit",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

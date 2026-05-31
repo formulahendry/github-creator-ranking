@@ -1,0 +1,34 @@
+{
+  "login": "adrienbrault",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/611271?v=4",
+  "htmlUrl": "https://github.com/adrienbrault",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 119,
+      "repoCountPrimary": 1,
+      "starsContains": 119,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "hf-gguf-to-ollama",
+          "fullName": "adrienbrault/hf-gguf-to-ollama",
+          "stars": 119,
+          "url": "https://github.com/adrienbrault/hf-gguf-to-ollama",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "dyb881",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/28997070?v=4",
+  "htmlUrl": "https://github.com/dyb881",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 125,
+      "repoCountPrimary": 1,
+      "starsContains": 125,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "nest-serve",
+          "fullName": "dyb881/nest-serve",
+          "stars": 125,
+          "url": "https://github.com/dyb881/nest-serve",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "xmcp",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6646473?v=4",
+  "htmlUrl": "https://github.com/xmcp",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2617,
+      "repoCountPrimary": 1,
+      "starsContains": 2617,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "pakku.js",
+          "fullName": "xmcp/pakku.js",
+          "stars": 2617,
+          "url": "https://github.com/xmcp/pakku.js",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

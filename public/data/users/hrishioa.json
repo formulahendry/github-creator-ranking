@@ -1,0 +1,62 @@
+{
+  "login": "hrishioa",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/973967?v=4",
+  "htmlUrl": "https://github.com/hrishioa",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2665,
+      "repoCountPrimary": 5,
+      "starsContains": 2665,
+      "repoCountContains": 5,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "lumentis",
+          "fullName": "hrishioa/lumentis",
+          "stars": 1695,
+          "url": "https://github.com/hrishioa/lumentis",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "wishful-search",
+          "fullName": "hrishioa/wishful-search",
+          "stars": 413,
+          "url": "https://github.com/hrishioa/wishful-search",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "mandark",
+          "fullName": "hrishioa/mandark",
+          "stars": 254,
+          "url": "https://github.com/hrishioa/mandark",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "wasm-ai",
+          "fullName": "hrishioa/wasm-ai",
+          "stars": 175,
+          "url": "https://github.com/hrishioa/wasm-ai",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "rakis",
+          "fullName": "hrishioa/rakis",
+          "stars": 128,
+          "url": "https://github.com/hrishioa/rakis",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

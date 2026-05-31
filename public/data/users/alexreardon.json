@@ -1,0 +1,48 @@
+{
+  "login": "alexreardon",
+  "name": "Alex Reardon",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2182637?v=4",
+  "htmlUrl": "https://github.com/alexreardon",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 4992,
+      "repoCountPrimary": 3,
+      "starsContains": 4992,
+      "repoCountContains": 3,
+      "globalRank": 506,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "memoize-one",
+          "fullName": "alexreardon/memoize-one",
+          "stars": 2971,
+          "url": "https://github.com/alexreardon/memoize-one",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "tiny-invariant",
+          "fullName": "alexreardon/tiny-invariant",
+          "stars": 1866,
+          "url": "https://github.com/alexreardon/tiny-invariant",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "bind-event-listener",
+          "fullName": "alexreardon/bind-event-listener",
+          "stars": 155,
+          "url": "https://github.com/alexreardon/bind-event-listener",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

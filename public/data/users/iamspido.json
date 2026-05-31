@@ -1,0 +1,34 @@
+{
+  "login": "iamspido",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/23499056?v=4",
+  "htmlUrl": "https://github.com/iamspido",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 309,
+      "repoCountPrimary": 1,
+      "starsContains": 309,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "github-release-monitor",
+          "fullName": "iamspido/github-release-monitor",
+          "stars": 309,
+          "url": "https://github.com/iamspido/github-release-monitor",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

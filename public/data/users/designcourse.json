@@ -1,0 +1,41 @@
+{
+  "login": "designcourse",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/15989197?v=4",
+  "htmlUrl": "https://github.com/designcourse",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 215,
+      "repoCountPrimary": 2,
+      "starsContains": 215,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "angular-seo",
+          "fullName": "designcourse/angular-seo",
+          "stars": 115,
+          "url": "https://github.com/designcourse/angular-seo",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "angular-auth-demo",
+          "fullName": "designcourse/angular-auth-demo",
+          "stars": 100,
+          "url": "https://github.com/designcourse/angular-auth-demo",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

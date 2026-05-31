@@ -1,0 +1,34 @@
+{
+  "login": "arendruni",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/16141487?v=4",
+  "htmlUrl": "https://github.com/arendruni",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 180,
+      "repoCountPrimary": 1,
+      "starsContains": 180,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "homebridge-pihole",
+          "fullName": "arendruni/homebridge-pihole",
+          "stars": 180,
+          "url": "https://github.com/arendruni/homebridge-pihole",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

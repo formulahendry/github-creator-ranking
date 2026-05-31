@@ -1,0 +1,34 @@
+{
+  "login": "buxuku",
+  "name": " Lin Xiaodong",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7866330?v=4",
+  "htmlUrl": "https://github.com/buxuku",
+  "location": "chengdu, sichuan, china",
+  "countryCode": "CN",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3921,
+      "repoCountPrimary": 1,
+      "starsContains": 3921,
+      "repoCountContains": 1,
+      "globalRank": 677,
+      "countryRank": 81,
+      "topRepos": [
+        {
+          "name": "SmartSub",
+          "fullName": "buxuku/SmartSub",
+          "stars": 3921,
+          "url": "https://github.com/buxuku/SmartSub",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

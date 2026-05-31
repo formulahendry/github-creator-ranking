@@ -1,0 +1,48 @@
+{
+  "login": "pinqy520",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5719833?v=4",
+  "htmlUrl": "https://github.com/pinqy520",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 807,
+      "repoCountPrimary": 3,
+      "starsContains": 807,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "mobx-persist",
+          "fullName": "pinqy520/mobx-persist",
+          "stars": 556,
+          "url": "https://github.com/pinqy520/mobx-persist",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "revas",
+          "fullName": "pinqy520/revas",
+          "stars": 144,
+          "url": "https://github.com/pinqy520/revas",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "three-typescript-starter",
+          "fullName": "pinqy520/three-typescript-starter",
+          "stars": 107,
+          "url": "https://github.com/pinqy520/three-typescript-starter",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

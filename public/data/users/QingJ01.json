@@ -1,0 +1,34 @@
+{
+  "login": "QingJ01",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/108940482?v=4",
+  "htmlUrl": "https://github.com/QingJ01",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 134,
+      "repoCountPrimary": 1,
+      "starsContains": 134,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "DeepSeekCode",
+          "fullName": "QingJ01/DeepSeekCode",
+          "stars": 134,
+          "url": "https://github.com/QingJ01/DeepSeekCode",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

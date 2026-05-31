@@ -1,0 +1,34 @@
+{
+  "login": "chrisvel",
+  "name": "Chris",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2040900?v=4",
+  "htmlUrl": "https://github.com/chrisvel",
+  "location": "Athens, Greece",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2906,
+      "repoCountPrimary": 1,
+      "starsContains": 2906,
+      "repoCountContains": 1,
+      "globalRank": 925,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "tududi",
+          "fullName": "chrisvel/tududi",
+          "stars": 2906,
+          "url": "https://github.com/chrisvel/tududi",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

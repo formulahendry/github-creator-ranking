@@ -1,0 +1,62 @@
+{
+  "login": "fabiospampinato",
+  "name": "Fabio Spampinato",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1812093?v=4",
+  "htmlUrl": "https://github.com/fabiospampinato",
+  "location": "London, UK",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 5049,
+      "repoCountPrimary": 13,
+      "starsContains": 5049,
+      "repoCountContains": 13,
+      "globalRank": 499,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "cliflix",
+          "fullName": "fabiospampinato/cliflix",
+          "stars": 1496,
+          "url": "https://github.com/fabiospampinato/cliflix",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vscode-todo-plus",
+          "fullName": "fabiospampinato/vscode-todo-plus",
+          "stars": 990,
+          "url": "https://github.com/fabiospampinato/vscode-todo-plus",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "autogit",
+          "fullName": "fabiospampinato/autogit",
+          "stars": 466,
+          "url": "https://github.com/fabiospampinato/autogit",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "bump",
+          "fullName": "fabiospampinato/bump",
+          "stars": 418,
+          "url": "https://github.com/fabiospampinato/bump",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "noty",
+          "fullName": "fabiospampinato/noty",
+          "stars": 345,
+          "url": "https://github.com/fabiospampinato/noty",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "gnikoloff",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7057156?v=4",
+  "htmlUrl": "https://github.com/gnikoloff",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 351,
+      "repoCountPrimary": 2,
+      "starsContains": 351,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "webgpu-raytracer",
+          "fullName": "gnikoloff/webgpu-raytracer",
+          "stars": 180,
+          "url": "https://github.com/gnikoloff/webgpu-raytracer",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "webgpu-sponza-demo",
+          "fullName": "gnikoloff/webgpu-sponza-demo",
+          "stars": 171,
+          "url": "https://github.com/gnikoloff/webgpu-sponza-demo",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

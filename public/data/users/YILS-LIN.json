@@ -1,0 +1,34 @@
+{
+  "login": "YILS-LIN",
+  "name": "YILS",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/62397373?v=4",
+  "htmlUrl": "https://github.com/YILS-LIN",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 4018,
+      "repoCountPrimary": 1,
+      "starsContains": 4018,
+      "repoCountContains": 1,
+      "globalRank": 656,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "short-video-factory",
+          "fullName": "YILS-LIN/short-video-factory",
+          "stars": 4018,
+          "url": "https://github.com/YILS-LIN/short-video-factory",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

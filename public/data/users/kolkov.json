@@ -1,0 +1,41 @@
+{
+  "login": "kolkov",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3740898?v=4",
+  "htmlUrl": "https://github.com/kolkov",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 828,
+      "repoCountPrimary": 2,
+      "starsContains": 828,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "angular-editor",
+          "fullName": "kolkov/angular-editor",
+          "stars": 715,
+          "url": "https://github.com/kolkov/angular-editor",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ngx-gallery",
+          "fullName": "kolkov/ngx-gallery",
+          "stars": 113,
+          "url": "https://github.com/kolkov/ngx-gallery",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

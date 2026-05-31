@@ -1,0 +1,41 @@
+{
+  "login": "molenzwiebel",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3594254?v=4",
+  "htmlUrl": "https://github.com/molenzwiebel",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 257,
+      "repoCountPrimary": 2,
+      "starsContains": 257,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "OriannaBot",
+          "fullName": "molenzwiebel/OriannaBot",
+          "stars": 133,
+          "url": "https://github.com/molenzwiebel/OriannaBot",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Impostor",
+          "fullName": "molenzwiebel/Impostor",
+          "stars": 124,
+          "url": "https://github.com/molenzwiebel/Impostor",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

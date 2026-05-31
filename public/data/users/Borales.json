@@ -1,0 +1,34 @@
+{
+  "login": "Borales",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1118933?v=4",
+  "htmlUrl": "https://github.com/Borales",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 314,
+      "repoCountPrimary": 1,
+      "starsContains": 314,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "actions-yarn",
+          "fullName": "Borales/actions-yarn",
+          "stars": 314,
+          "url": "https://github.com/Borales/actions-yarn",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

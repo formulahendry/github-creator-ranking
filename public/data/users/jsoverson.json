@@ -1,0 +1,41 @@
+{
+  "login": "jsoverson",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/842798?v=4",
+  "htmlUrl": "https://github.com/jsoverson",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 312,
+      "repoCountPrimary": 2,
+      "starsContains": 312,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "hackium",
+          "fullName": "jsoverson/hackium",
+          "stars": 176,
+          "url": "https://github.com/jsoverson/hackium",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "shift-refactor",
+          "fullName": "jsoverson/shift-refactor",
+          "stars": 136,
+          "url": "https://github.com/jsoverson/shift-refactor",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "HalitTalha",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3686045?v=4",
+  "htmlUrl": "https://github.com/HalitTalha",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 102,
+      "repoCountPrimary": 1,
+      "starsContains": 102,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ng-material-extensions",
+          "fullName": "HalitTalha/ng-material-extensions",
+          "stars": 102,
+          "url": "https://github.com/HalitTalha/ng-material-extensions",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

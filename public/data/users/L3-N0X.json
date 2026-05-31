@@ -1,0 +1,34 @@
+{
+  "login": "L3-N0X",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/76919750?v=4",
+  "htmlUrl": "https://github.com/L3-N0X",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 103,
+      "repoCountPrimary": 1,
+      "starsContains": 103,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "obsidian-marker",
+          "fullName": "L3-N0X/obsidian-marker",
+          "stars": 103,
+          "url": "https://github.com/L3-N0X/obsidian-marker",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

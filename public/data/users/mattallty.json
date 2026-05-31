@@ -1,0 +1,41 @@
+{
+  "login": "mattallty",
+  "name": "Matt",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/178616?v=4",
+  "htmlUrl": "https://github.com/mattallty",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3600,
+      "repoCountPrimary": 2,
+      "starsContains": 3600,
+      "repoCountContains": 2,
+      "globalRank": 741,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Caporal.js",
+          "fullName": "mattallty/Caporal.js",
+          "stars": 3450,
+          "url": "https://github.com/mattallty/Caporal.js",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "jest-github-action",
+          "fullName": "mattallty/jest-github-action",
+          "stars": 150,
+          "url": "https://github.com/mattallty/jest-github-action",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

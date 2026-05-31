@@ -1,0 +1,34 @@
+{
+  "login": "born2net",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5090936?v=4",
+  "htmlUrl": "https://github.com/born2net",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 265,
+      "repoCountPrimary": 1,
+      "starsContains": 265,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "studio-lite",
+          "fullName": "born2net/studio-lite",
+          "stars": 265,
+          "url": "https://github.com/born2net/studio-lite",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "login": "glaucia86",
+  "name": "Glaucia Lemos",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1631477?v=4",
+  "htmlUrl": "https://github.com/glaucia86",
+  "location": "Rio de Janeiro",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3613,
+      "repoCountPrimary": 5,
+      "starsContains": 3613,
+      "repoCountContains": 5,
+      "globalRank": 737,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "curso-typescript-zero-to-hero",
+          "fullName": "glaucia86/curso-typescript-zero-to-hero",
+          "stars": 3154,
+          "url": "https://github.com/glaucia86/curso-typescript-zero-to-hero",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "workshop-mean-serverless",
+          "fullName": "glaucia86/workshop-mean-serverless",
+          "stars": 117,
+          "url": "https://github.com/glaucia86/workshop-mean-serverless",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ai-js-course",
+          "fullName": "glaucia86/ai-js-course",
+          "stars": 115,
+          "url": "https://github.com/glaucia86/ai-js-course",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "repocheckai",
+          "fullName": "glaucia86/repocheckai",
+          "stars": 115,
+          "url": "https://github.com/glaucia86/repocheckai",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "microblog-ai-nextjs",
+          "fullName": "glaucia86/microblog-ai-nextjs",
+          "stars": 112,
+          "url": "https://github.com/glaucia86/microblog-ai-nextjs",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

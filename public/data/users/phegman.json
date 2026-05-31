@@ -1,0 +1,41 @@
+{
+  "login": "phegman",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/4230489?v=4",
+  "htmlUrl": "https://github.com/phegman",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 285,
+      "repoCountPrimary": 2,
+      "starsContains": 285,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "v-scroll-lock",
+          "fullName": "phegman/v-scroll-lock",
+          "stars": 180,
+          "url": "https://github.com/phegman/v-scroll-lock",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "v-show-slide",
+          "fullName": "phegman/v-show-slide",
+          "stars": 105,
+          "url": "https://github.com/phegman/v-show-slide",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

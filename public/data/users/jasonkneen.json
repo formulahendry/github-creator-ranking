@@ -1,0 +1,55 @@
+{
+  "login": "jasonkneen",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/502002?v=4",
+  "htmlUrl": "https://github.com/jasonkneen",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1276,
+      "repoCountPrimary": 4,
+      "starsContains": 1276,
+      "repoCountContains": 4,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "kiro",
+          "fullName": "jasonkneen/kiro",
+          "stars": 672,
+          "url": "https://github.com/jasonkneen/kiro",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "codesurf",
+          "fullName": "jasonkneen/codesurf",
+          "stars": 281,
+          "url": "https://github.com/jasonkneen/codesurf",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "agent-simulator",
+          "fullName": "jasonkneen/agent-simulator",
+          "stars": 193,
+          "url": "https://github.com/jasonkneen/agent-simulator",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vibeclaw",
+          "fullName": "jasonkneen/vibeclaw",
+          "stars": 130,
+          "url": "https://github.com/jasonkneen/vibeclaw",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

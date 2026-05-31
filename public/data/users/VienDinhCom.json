@@ -1,0 +1,41 @@
+{
+  "login": "VienDinhCom",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1142799?v=4",
+  "htmlUrl": "https://github.com/VienDinhCom",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1196,
+      "repoCountPrimary": 2,
+      "starsContains": 1196,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "next-shopify-storefront",
+          "fullName": "VienDinhCom/next-shopify-storefront",
+          "stars": 860,
+          "url": "https://github.com/VienDinhCom/next-shopify-storefront",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "supermemo",
+          "fullName": "VienDinhCom/supermemo",
+          "stars": 336,
+          "url": "https://github.com/VienDinhCom/supermemo",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "Narcooo",
+  "name": "Junxian Ma",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/33502405?v=4",
+  "htmlUrl": "https://github.com/Narcooo",
+  "location": "BeiJing",
+  "countryCode": "CN",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 6783,
+      "repoCountPrimary": 1,
+      "starsContains": 6783,
+      "repoCountContains": 1,
+      "globalRank": 344,
+      "countryRank": 44,
+      "topRepos": [
+        {
+          "name": "inkos",
+          "fullName": "Narcooo/inkos",
+          "stars": 6783,
+          "url": "https://github.com/Narcooo/inkos",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

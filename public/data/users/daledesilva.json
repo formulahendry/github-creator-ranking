@@ -1,0 +1,34 @@
+{
+  "login": "daledesilva",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/18710973?v=4",
+  "htmlUrl": "https://github.com/daledesilva",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1269,
+      "repoCountPrimary": 1,
+      "starsContains": 1269,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "obsidian_ink",
+          "fullName": "daledesilva/obsidian_ink",
+          "stars": 1269,
+          "url": "https://github.com/daledesilva/obsidian_ink",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "Hello-Application-XH",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/273903058?v=4",
+  "htmlUrl": "https://github.com/Hello-Application-XH",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 301,
+      "repoCountPrimary": 1,
+      "starsContains": 301,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "HelloGML",
+          "fullName": "Hello-Application-XH/HelloGML",
+          "stars": 301,
+          "url": "https://github.com/Hello-Application-XH/HelloGML",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

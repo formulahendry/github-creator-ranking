@@ -1,0 +1,34 @@
+{
+  "login": "jctaoo",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/42663875?v=4",
+  "htmlUrl": "https://github.com/jctaoo",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 142,
+      "repoCountPrimary": 1,
+      "starsContains": 142,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ClashConfig",
+          "fullName": "jctaoo/ClashConfig",
+          "stars": 142,
+          "url": "https://github.com/jctaoo/ClashConfig",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

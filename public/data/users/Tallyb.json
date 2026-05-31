@@ -1,0 +1,41 @@
+{
+  "login": "Tallyb",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7386255?v=4",
+  "htmlUrl": "https://github.com/Tallyb",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 636,
+      "repoCountPrimary": 2,
+      "starsContains": 636,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "cucumber-playwright",
+          "fullName": "Tallyb/cucumber-playwright",
+          "stars": 437,
+          "url": "https://github.com/Tallyb/cucumber-playwright",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "loopback-graphql",
+          "fullName": "Tallyb/loopback-graphql",
+          "stars": 199,
+          "url": "https://github.com/Tallyb/loopback-graphql",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

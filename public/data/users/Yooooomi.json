@@ -1,0 +1,34 @@
+{
+  "login": "Yooooomi",
+  "name": "Timothee Boussus",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/17204739?v=4",
+  "htmlUrl": "https://github.com/Yooooomi",
+  "location": "France",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 4440,
+      "repoCountPrimary": 1,
+      "starsContains": 4440,
+      "repoCountContains": 1,
+      "globalRank": 578,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "your_spotify",
+          "fullName": "Yooooomi/your_spotify",
+          "stars": 4440,
+          "url": "https://github.com/Yooooomi/your_spotify",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

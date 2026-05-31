@@ -1,0 +1,41 @@
+{
+  "login": "OlegWock",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7430438?v=4",
+  "htmlUrl": "https://github.com/OlegWock",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 598,
+      "repoCountPrimary": 2,
+      "starsContains": 598,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "anori",
+          "fullName": "OlegWock/anori",
+          "stars": 463,
+          "url": "https://github.com/OlegWock/anori",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-local-toast",
+          "fullName": "OlegWock/react-local-toast",
+          "stars": 135,
+          "url": "https://github.com/OlegWock/react-local-toast",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

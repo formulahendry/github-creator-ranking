@@ -1,0 +1,34 @@
+{
+  "login": "xddq",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/44843935?v=4",
+  "htmlUrl": "https://github.com/xddq",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 150,
+      "repoCountPrimary": 1,
+      "starsContains": 150,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "nodejs-typescript-modern-starter",
+          "fullName": "xddq/nodejs-typescript-modern-starter",
+          "stars": 150,
+          "url": "https://github.com/xddq/nodejs-typescript-modern-starter",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

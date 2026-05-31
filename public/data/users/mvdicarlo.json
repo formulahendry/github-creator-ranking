@@ -1,0 +1,41 @@
+{
+  "login": "mvdicarlo",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/23141042?v=4",
+  "htmlUrl": "https://github.com/mvdicarlo",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 548,
+      "repoCountPrimary": 2,
+      "starsContains": 548,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "postybirb",
+          "fullName": "mvdicarlo/postybirb",
+          "stars": 393,
+          "url": "https://github.com/mvdicarlo/postybirb",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "postybirb-plus",
+          "fullName": "mvdicarlo/postybirb-plus",
+          "stars": 155,
+          "url": "https://github.com/mvdicarlo/postybirb-plus",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

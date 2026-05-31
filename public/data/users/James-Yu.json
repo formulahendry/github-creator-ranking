@@ -1,0 +1,34 @@
+{
+  "login": "James-Yu",
+  "name": "James Jianqiao Yu",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/4210342?v=4",
+  "htmlUrl": "https://github.com/James-Yu",
+  "location": "Shenzhen, China",
+  "countryCode": "CN",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 12117,
+      "repoCountPrimary": 1,
+      "starsContains": 12117,
+      "repoCountContains": 1,
+      "globalRank": 169,
+      "countryRank": 19,
+      "topRepos": [
+        {
+          "name": "LaTeX-Workshop",
+          "fullName": "James-Yu/LaTeX-Workshop",
+          "stars": 12117,
+          "url": "https://github.com/James-Yu/LaTeX-Workshop",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

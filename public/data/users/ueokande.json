@@ -1,0 +1,48 @@
+{
+  "login": "ueokande",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/534166?v=4",
+  "htmlUrl": "https://github.com/ueokande",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2529,
+      "repoCountPrimary": 3,
+      "starsContains": 2529,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vim-vixen",
+          "fullName": "ueokande/vim-vixen",
+          "stars": 2091,
+          "url": "https://github.com/ueokande/vim-vixen",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vimmatic",
+          "fullName": "ueokande/vimmatic",
+          "stars": 255,
+          "url": "https://github.com/ueokande/vimmatic",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "go-slice-tricks",
+          "fullName": "ueokande/go-slice-tricks",
+          "stars": 183,
+          "url": "https://github.com/ueokande/go-slice-tricks",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

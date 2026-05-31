@@ -1,0 +1,41 @@
+{
+  "login": "lumpinif",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/58391009?v=4",
+  "htmlUrl": "https://github.com/lumpinif",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 792,
+      "repoCountPrimary": 2,
+      "starsContains": 792,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "deepcrawl",
+          "fullName": "lumpinif/deepcrawl",
+          "stars": 577,
+          "url": "https://github.com/lumpinif/deepcrawl",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "shadcn-resizable-sidebar",
+          "fullName": "lumpinif/shadcn-resizable-sidebar",
+          "stars": 215,
+          "url": "https://github.com/lumpinif/shadcn-resizable-sidebar",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

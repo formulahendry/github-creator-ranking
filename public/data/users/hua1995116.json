@@ -1,0 +1,41 @@
+{
+  "login": "hua1995116",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/12070073?v=4",
+  "htmlUrl": "https://github.com/hua1995116",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2533,
+      "repoCountPrimary": 2,
+      "starsContains": 2533,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-resume-site",
+          "fullName": "hua1995116/react-resume-site",
+          "stars": 2273,
+          "url": "https://github.com/hua1995116/react-resume-site",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "google-translate-open-api",
+          "fullName": "hua1995116/google-translate-open-api",
+          "stars": 260,
+          "url": "https://github.com/hua1995116/google-translate-open-api",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

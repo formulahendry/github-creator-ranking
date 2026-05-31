@@ -1,0 +1,48 @@
+{
+  "login": "brijr",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/57158102?v=4",
+  "htmlUrl": "https://github.com/brijr",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1030,
+      "repoCountPrimary": 3,
+      "starsContains": 1030,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "components",
+          "fullName": "brijr/components",
+          "stars": 505,
+          "url": "https://github.com/brijr/components",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "craft",
+          "fullName": "brijr/craft",
+          "stars": 345,
+          "url": "https://github.com/brijr/craft",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "meta-mcp",
+          "fullName": "brijr/meta-mcp",
+          "stars": 180,
+          "url": "https://github.com/brijr/meta-mcp",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

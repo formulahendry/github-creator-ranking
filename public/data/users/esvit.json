@@ -1,0 +1,34 @@
+{
+  "login": "esvit",
+  "name": "Vitalii Savchuk",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1222467?v=4",
+  "htmlUrl": "https://github.com/esvit",
+  "location": "Ukraine, Vinnitsa",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2741,
+      "repoCountPrimary": 1,
+      "starsContains": 2741,
+      "repoCountContains": 1,
+      "globalRank": 980,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ng-table",
+          "fullName": "esvit/ng-table",
+          "stars": 2741,
+          "url": "https://github.com/esvit/ng-table",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

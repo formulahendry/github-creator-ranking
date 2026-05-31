@@ -1,0 +1,48 @@
+{
+  "login": "belnadris",
+  "name": "Belnadris",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/10827551?v=4",
+  "htmlUrl": "https://github.com/belnadris",
+  "location": "Nantes, France",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 6128,
+      "repoCountPrimary": 3,
+      "starsContains": 6128,
+      "repoCountContains": 3,
+      "globalRank": 384,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "angular-electron",
+          "fullName": "belnadris/angular-electron",
+          "stars": 5726,
+          "url": "https://github.com/belnadris/angular-electron",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "angular-tauri",
+          "fullName": "belnadris/angular-tauri",
+          "stars": 216,
+          "url": "https://github.com/belnadris/angular-tauri",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "typescript-express-sequelize",
+          "fullName": "belnadris/typescript-express-sequelize",
+          "stars": 186,
+          "url": "https://github.com/belnadris/typescript-express-sequelize",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

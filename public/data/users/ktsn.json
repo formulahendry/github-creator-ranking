@@ -1,0 +1,62 @@
+{
+  "login": "ktsn",
+  "name": "Katashin",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2194624?v=4",
+  "htmlUrl": "https://github.com/ktsn",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3322,
+      "repoCountPrimary": 9,
+      "starsContains": 3322,
+      "repoCountContains": 9,
+      "globalRank": 816,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vuex-class",
+          "fullName": "ktsn/vuex-class",
+          "stars": 1709,
+          "url": "https://github.com/ktsn/vuex-class",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vuex-smart-module",
+          "fullName": "ktsn/vuex-smart-module",
+          "stars": 375,
+          "url": "https://github.com/ktsn/vuex-smart-module",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vue-designer",
+          "fullName": "ktsn/vue-designer",
+          "stars": 374,
+          "url": "https://github.com/ktsn/vue-designer",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vue-auto-routing",
+          "fullName": "ktsn/vue-auto-routing",
+          "stars": 250,
+          "url": "https://github.com/ktsn/vue-auto-routing",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vue-route-generator",
+          "fullName": "ktsn/vue-route-generator",
+          "stars": 151,
+          "url": "https://github.com/ktsn/vue-route-generator",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

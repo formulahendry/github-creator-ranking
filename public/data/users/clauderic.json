@@ -1,0 +1,41 @@
+{
+  "login": "clauderic",
+  "name": "Claudéric Demers",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1416436?v=4",
+  "htmlUrl": "https://github.com/clauderic",
+  "location": "Montreal, Canada",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 19669,
+      "repoCountPrimary": 2,
+      "starsContains": 19669,
+      "repoCountContains": 2,
+      "globalRank": 93,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "dnd-kit",
+          "fullName": "clauderic/dnd-kit",
+          "stars": 17181,
+          "url": "https://github.com/clauderic/dnd-kit",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-tiny-virtual-list",
+          "fullName": "clauderic/react-tiny-virtual-list",
+          "stars": 2488,
+          "url": "https://github.com/clauderic/react-tiny-virtual-list",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

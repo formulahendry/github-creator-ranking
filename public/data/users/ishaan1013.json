@@ -1,0 +1,48 @@
+{
+  "login": "ishaan1013",
+  "name": "Ishaan Dey",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/69771365?v=4",
+  "htmlUrl": "https://github.com/ishaan1013",
+  "location": "San Francisco",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3149,
+      "repoCountPrimary": 3,
+      "starsContains": 3149,
+      "repoCountContains": 3,
+      "globalRank": 858,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "shadow",
+          "fullName": "ishaan1013/shadow",
+          "stars": 1473,
+          "url": "https://github.com/ishaan1013/shadow",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "sandbox",
+          "fullName": "ishaan1013/sandbox",
+          "stars": 1415,
+          "url": "https://github.com/ishaan1013/sandbox",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "thr",
+          "fullName": "ishaan1013/thr",
+          "stars": 261,
+          "url": "https://github.com/ishaan1013/thr",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

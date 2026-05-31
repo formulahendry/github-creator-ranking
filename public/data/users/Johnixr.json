@@ -1,0 +1,34 @@
+{
+  "login": "Johnixr",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3644453?v=4",
+  "htmlUrl": "https://github.com/Johnixr",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 299,
+      "repoCountPrimary": 1,
+      "starsContains": 299,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "claude-code-wechat-channel",
+          "fullName": "Johnixr/claude-code-wechat-channel",
+          "stars": 299,
+          "url": "https://github.com/Johnixr/claude-code-wechat-channel",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

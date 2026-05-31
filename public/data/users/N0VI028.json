@@ -1,0 +1,34 @@
+{
+  "login": "N0VI028",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/177307828?v=4",
+  "htmlUrl": "https://github.com/N0VI028",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 807,
+      "repoCountPrimary": 1,
+      "starsContains": 807,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "JS-Slash-Runner",
+          "fullName": "N0VI028/JS-Slash-Runner",
+          "stars": 807,
+          "url": "https://github.com/N0VI028/JS-Slash-Runner",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

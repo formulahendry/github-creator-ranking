@@ -1,0 +1,41 @@
+{
+  "login": "syuilo",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/4439005?v=4",
+  "htmlUrl": "https://github.com/syuilo",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 412,
+      "repoCountPrimary": 2,
+      "starsContains": 412,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ai",
+          "fullName": "syuilo/ai",
+          "stars": 311,
+          "url": "https://github.com/syuilo/ai",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "glitch-studio",
+          "fullName": "syuilo/glitch-studio",
+          "stars": 101,
+          "url": "https://github.com/syuilo/glitch-studio",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

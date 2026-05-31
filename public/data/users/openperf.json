@@ -1,0 +1,41 @@
+{
+  "login": "openperf",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/80630709?v=4",
+  "htmlUrl": "https://github.com/openperf",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 754,
+      "repoCountPrimary": 2,
+      "starsContains": 754,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "brief",
+          "fullName": "openperf/brief",
+          "stars": 481,
+          "url": "https://github.com/openperf/brief",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "openclaw-cloud",
+          "fullName": "openperf/openclaw-cloud",
+          "stars": 273,
+          "url": "https://github.com/openperf/openclaw-cloud",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

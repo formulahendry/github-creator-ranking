@@ -1,0 +1,48 @@
+{
+  "login": "zaidmukaddam",
+  "name": "Zaid Mukaddam",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/76097144?v=4",
+  "htmlUrl": "https://github.com/zaidmukaddam",
+  "location": "Mumbai",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 13040,
+      "repoCountPrimary": 3,
+      "starsContains": 13040,
+      "repoCountContains": 3,
+      "globalRank": 155,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "scira",
+          "fullName": "zaidmukaddam/scira",
+          "stars": 11701,
+          "url": "https://github.com/zaidmukaddam/scira",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "scira-mcp-chat",
+          "fullName": "zaidmukaddam/scira-mcp-chat",
+          "stars": 832,
+          "url": "https://github.com/zaidmukaddam/scira-mcp-chat",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "youtube-transcripts-machine",
+          "fullName": "zaidmukaddam/youtube-transcripts-machine",
+          "stars": 507,
+          "url": "https://github.com/zaidmukaddam/youtube-transcripts-machine",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

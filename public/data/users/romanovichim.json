@@ -1,0 +1,41 @@
+{
+  "login": "romanovichim",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/18370291?v=4",
+  "htmlUrl": "https://github.com/romanovichim",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 821,
+      "repoCountPrimary": 2,
+      "starsContains": 821,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "TonFunClessons_ru",
+          "fullName": "romanovichim/TonFunClessons_ru",
+          "stars": 534,
+          "url": "https://github.com/romanovichim/TonFunClessons_ru",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "TonFunClessons_Eng",
+          "fullName": "romanovichim/TonFunClessons_Eng",
+          "stars": 287,
+          "url": "https://github.com/romanovichim/TonFunClessons_Eng",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

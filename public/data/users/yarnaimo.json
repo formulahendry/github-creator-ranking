@@ -1,0 +1,41 @@
+{
+  "login": "yarnaimo",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/9738886?v=4",
+  "htmlUrl": "https://github.com/yarnaimo",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 442,
+      "repoCountPrimary": 2,
+      "starsContains": 442,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "fireschema",
+          "fullName": "yarnaimo/fireschema",
+          "stars": 281,
+          "url": "https://github.com/yarnaimo/fireschema",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vanilla-clipper",
+          "fullName": "yarnaimo/vanilla-clipper",
+          "stars": 161,
+          "url": "https://github.com/yarnaimo/vanilla-clipper",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

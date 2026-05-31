@@ -1,0 +1,55 @@
+{
+  "login": "orodrigogo",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/49030804?v=4",
+  "htmlUrl": "https://github.com/orodrigogo",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 838,
+      "repoCountPrimary": 4,
+      "starsContains": 838,
+      "repoCountContains": 4,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "gameplay-nlw-together",
+          "fullName": "orodrigogo/gameplay-nlw-together",
+          "stars": 357,
+          "url": "https://github.com/orodrigogo/gameplay-nlw-together",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "minha-carteira-dashboard",
+          "fullName": "orodrigogo/minha-carteira-dashboard",
+          "stars": 198,
+          "url": "https://github.com/orodrigogo/minha-carteira-dashboard",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "helpdesk",
+          "fullName": "orodrigogo/helpdesk",
+          "stars": 162,
+          "url": "https://github.com/orodrigogo/helpdesk",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "nlwcopa-mobile-components",
+          "fullName": "orodrigogo/nlwcopa-mobile-components",
+          "stars": 121,
+          "url": "https://github.com/orodrigogo/nlwcopa-mobile-components",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

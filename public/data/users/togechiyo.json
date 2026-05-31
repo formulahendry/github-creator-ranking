@@ -1,0 +1,34 @@
+{
+  "login": "togechiyo",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/86285842?v=4",
+  "htmlUrl": "https://github.com/togechiyo",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 114,
+      "repoCountPrimary": 1,
+      "starsContains": 114,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "MMD_modoki",
+          "fullName": "togechiyo/MMD_modoki",
+          "stars": 114,
+          "url": "https://github.com/togechiyo/MMD_modoki",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

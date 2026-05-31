@@ -1,0 +1,41 @@
+{
+  "login": "redleafnew",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/22135631?v=4",
+  "htmlUrl": "https://github.com/redleafnew",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1548,
+      "repoCountPrimary": 2,
+      "starsContains": 1548,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "zotero-updateifsE",
+          "fullName": "redleafnew/zotero-updateifsE",
+          "stars": 900,
+          "url": "https://github.com/redleafnew/zotero-updateifsE",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "delitemwithatt",
+          "fullName": "redleafnew/delitemwithatt",
+          "stars": 648,
+          "url": "https://github.com/redleafnew/delitemwithatt",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

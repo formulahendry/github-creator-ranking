@@ -1,0 +1,41 @@
+{
+  "login": "amcharts",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1116146?v=4",
+  "htmlUrl": "https://github.com/amcharts",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1600,
+      "repoCountPrimary": 2,
+      "starsContains": 1600,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "amcharts4",
+          "fullName": "amcharts/amcharts4",
+          "stars": 1166,
+          "url": "https://github.com/amcharts/amcharts4",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "amcharts5",
+          "fullName": "amcharts/amcharts5",
+          "stars": 434,
+          "url": "https://github.com/amcharts/amcharts5",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

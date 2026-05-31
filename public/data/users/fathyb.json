@@ -1,0 +1,41 @@
+{
+  "login": "fathyb",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5746414?v=4",
+  "htmlUrl": "https://github.com/fathyb",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1479,
+      "repoCountPrimary": 2,
+      "starsContains": 1479,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "html2svg",
+          "fullName": "fathyb/html2svg",
+          "stars": 1297,
+          "url": "https://github.com/fathyb/html2svg",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "parcel-plugin-typescript",
+          "fullName": "fathyb/parcel-plugin-typescript",
+          "stars": 182,
+          "url": "https://github.com/fathyb/parcel-plugin-typescript",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

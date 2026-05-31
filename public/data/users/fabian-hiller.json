@@ -1,0 +1,48 @@
+{
+  "login": "fabian-hiller",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/35291865?v=4",
+  "htmlUrl": "https://github.com/fabian-hiller",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1630,
+      "repoCountPrimary": 3,
+      "starsContains": 1630,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "modular-forms",
+          "fullName": "fabian-hiller/modular-forms",
+          "stars": 1214,
+          "url": "https://github.com/fabian-hiller/modular-forms",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "decode-formdata",
+          "fullName": "fabian-hiller/decode-formdata",
+          "stars": 289,
+          "url": "https://github.com/fabian-hiller/decode-formdata",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "og-img",
+          "fullName": "fabian-hiller/og-img",
+          "stars": 127,
+          "url": "https://github.com/fabian-hiller/og-img",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

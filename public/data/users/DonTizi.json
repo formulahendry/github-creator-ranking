@@ -1,0 +1,34 @@
+{
+  "login": "DonTizi",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/66443081?v=4",
+  "htmlUrl": "https://github.com/DonTizi",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 511,
+      "repoCountPrimary": 1,
+      "starsContains": 511,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ReMind",
+          "fullName": "DonTizi/ReMind",
+          "stars": 511,
+          "url": "https://github.com/DonTizi/ReMind",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

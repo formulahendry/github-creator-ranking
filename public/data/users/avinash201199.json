@@ -1,0 +1,48 @@
+{
+  "login": "avinash201199",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/61057666?v=4",
+  "htmlUrl": "https://github.com/avinash201199",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 801,
+      "repoCountPrimary": 3,
+      "starsContains": 801,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Awesome-GitHub-Repositories",
+          "fullName": "avinash201199/Awesome-GitHub-Repositories",
+          "stars": 514,
+          "url": "https://github.com/avinash201199/Awesome-GitHub-Repositories",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Awesome-YouTube-Playlists",
+          "fullName": "avinash201199/Awesome-YouTube-Playlists",
+          "stars": 151,
+          "url": "https://github.com/avinash201199/Awesome-YouTube-Playlists",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Free-programming-books",
+          "fullName": "avinash201199/Free-programming-books",
+          "stars": 136,
+          "url": "https://github.com/avinash201199/Free-programming-books",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

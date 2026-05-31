@@ -1,0 +1,48 @@
+{
+  "login": "Amery2010",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5876036?v=4",
+  "htmlUrl": "https://github.com/Amery2010",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 986,
+      "repoCountPrimary": 3,
+      "starsContains": 986,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "peinture",
+          "fullName": "Amery2010/peinture",
+          "stars": 677,
+          "url": "https://github.com/Amery2010/peinture",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "midjourney-prompt-generator",
+          "fullName": "Amery2010/midjourney-prompt-generator",
+          "stars": 189,
+          "url": "https://github.com/Amery2010/midjourney-prompt-generator",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "imagine-server",
+          "fullName": "Amery2010/imagine-server",
+          "stars": 120,
+          "url": "https://github.com/Amery2010/imagine-server",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "login": "naraB",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/28608797?v=4",
+  "htmlUrl": "https://github.com/naraB",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 467,
+      "repoCountPrimary": 3,
+      "starsContains": 467,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ElasticScroll",
+          "fullName": "naraB/ElasticScroll",
+          "stars": 227,
+          "url": "https://github.com/naraB/ElasticScroll",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "SensorRotation",
+          "fullName": "naraB/SensorRotation",
+          "stars": 138,
+          "url": "https://github.com/naraB/SensorRotation",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "AppleCard",
+          "fullName": "naraB/AppleCard",
+          "stars": 102,
+          "url": "https://github.com/naraB/AppleCard",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

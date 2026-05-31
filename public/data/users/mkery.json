@@ -1,0 +1,34 @@
+{
+  "login": "mkery",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7906366?v=4",
+  "htmlUrl": "https://github.com/mkery",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 152,
+      "repoCountPrimary": 1,
+      "starsContains": 152,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Verdant",
+          "fullName": "mkery/Verdant",
+          "stars": 152,
+          "url": "https://github.com/mkery/Verdant",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

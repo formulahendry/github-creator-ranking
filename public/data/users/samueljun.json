@@ -1,0 +1,34 @@
+{
+  "login": "samueljun",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1808588?v=4",
+  "htmlUrl": "https://github.com/samueljun",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 355,
+      "repoCountPrimary": 1,
+      "starsContains": 355,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "tomato-clock",
+          "fullName": "samueljun/tomato-clock",
+          "stars": 355,
+          "url": "https://github.com/samueljun/tomato-clock",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

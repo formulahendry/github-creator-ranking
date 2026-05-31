@@ -1,0 +1,41 @@
+{
+  "login": "codeAdrian",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/11479290?v=4",
+  "htmlUrl": "https://github.com/codeAdrian",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 327,
+      "repoCountPrimary": 2,
+      "starsContains": 327,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-magic-painter",
+          "fullName": "codeAdrian/react-magic-painter",
+          "stars": 220,
+          "url": "https://github.com/codeAdrian/react-magic-painter",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "gatsby-omni-font-loader",
+          "fullName": "codeAdrian/gatsby-omni-font-loader",
+          "stars": 107,
+          "url": "https://github.com/codeAdrian/gatsby-omni-font-loader",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "sefininio",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7566666?v=4",
+  "htmlUrl": "https://github.com/sefininio",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 122,
+      "repoCountPrimary": 1,
+      "starsContains": 122,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "microservices-realworld-app",
+          "fullName": "sefininio/microservices-realworld-app",
+          "stars": 122,
+          "url": "https://github.com/sefininio/microservices-realworld-app",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

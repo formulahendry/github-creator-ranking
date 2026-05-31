@@ -1,0 +1,34 @@
+{
+  "login": "N4si",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/94208165?v=4",
+  "htmlUrl": "https://github.com/N4si",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 531,
+      "repoCountPrimary": 1,
+      "starsContains": 531,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "DevSecOps-Project",
+          "fullName": "N4si/DevSecOps-Project",
+          "stars": 531,
+          "url": "https://github.com/N4si/DevSecOps-Project",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "sahat",
+  "name": "Sahat Yalkabov",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/544954?v=4",
+  "htmlUrl": "https://github.com/sahat",
+  "location": "Remote",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 7804,
+      "repoCountPrimary": 1,
+      "starsContains": 7804,
+      "repoCountContains": 1,
+      "globalRank": 294,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "satellizer",
+          "fullName": "sahat/satellizer",
+          "stars": 7804,
+          "url": "https://github.com/sahat/satellizer",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

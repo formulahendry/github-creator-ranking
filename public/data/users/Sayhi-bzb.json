@@ -1,0 +1,48 @@
+{
+  "login": "Sayhi-bzb",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/81148442?v=4",
+  "htmlUrl": "https://github.com/Sayhi-bzb",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1006,
+      "repoCountPrimary": 3,
+      "starsContains": 1006,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Agent-HTML",
+          "fullName": "Sayhi-bzb/Agent-HTML",
+          "stars": 521,
+          "url": "https://github.com/Sayhi-bzb/Agent-HTML",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "AIEden",
+          "fullName": "Sayhi-bzb/AIEden",
+          "stars": 254,
+          "url": "https://github.com/Sayhi-bzb/AIEden",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "AsciiCanvas",
+          "fullName": "Sayhi-bzb/AsciiCanvas",
+          "stars": 231,
+          "url": "https://github.com/Sayhi-bzb/AsciiCanvas",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

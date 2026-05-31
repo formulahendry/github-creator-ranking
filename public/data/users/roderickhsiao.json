@@ -1,0 +1,41 @@
+{
+  "login": "roderickhsiao",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3906130?v=4",
+  "htmlUrl": "https://github.com/roderickhsiao",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 455,
+      "repoCountPrimary": 2,
+      "starsContains": 455,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-in-viewport",
+          "fullName": "roderickhsiao/react-in-viewport",
+          "stars": 351,
+          "url": "https://github.com/roderickhsiao/react-in-viewport",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-aspect-ratio",
+          "fullName": "roderickhsiao/react-aspect-ratio",
+          "stars": 104,
+          "url": "https://github.com/roderickhsiao/react-aspect-ratio",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

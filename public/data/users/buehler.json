@@ -1,0 +1,41 @@
+{
+  "login": "buehler",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1067213?v=4",
+  "htmlUrl": "https://github.com/buehler",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 372,
+      "repoCountPrimary": 2,
+      "starsContains": 372,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "typescript-hero",
+          "fullName": "buehler/typescript-hero",
+          "stars": 222,
+          "url": "https://github.com/buehler/typescript-hero",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "node-typescript-parser",
+          "fullName": "buehler/node-typescript-parser",
+          "stars": 150,
+          "url": "https://github.com/buehler/node-typescript-parser",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

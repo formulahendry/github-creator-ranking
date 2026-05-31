@@ -1,0 +1,34 @@
+{
+  "login": "guohub8080",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/41369069?v=4",
+  "htmlUrl": "https://github.com/guohub8080",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 152,
+      "repoCountPrimary": 1,
+      "starsContains": 152,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "mtkit",
+          "fullName": "guohub8080/mtkit",
+          "stars": 152,
+          "url": "https://github.com/guohub8080/mtkit",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

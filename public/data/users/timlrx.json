@@ -1,0 +1,48 @@
+{
+  "login": "timlrx",
+  "name": "Timothy",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/28362229?v=4",
+  "htmlUrl": "https://github.com/timlrx",
+  "location": "Singapore",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 11246,
+      "repoCountPrimary": 3,
+      "starsContains": 11246,
+      "repoCountContains": 3,
+      "globalRank": 182,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "tailwind-nextjs-starter-blog",
+          "fullName": "timlrx/tailwind-nextjs-starter-blog",
+          "stars": 10486,
+          "url": "https://github.com/timlrx/tailwind-nextjs-starter-blog",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "contentlayer2",
+          "fullName": "timlrx/contentlayer2",
+          "stars": 418,
+          "url": "https://github.com/timlrx/contentlayer2",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "pliny",
+          "fullName": "timlrx/pliny",
+          "stars": 342,
+          "url": "https://github.com/timlrx/pliny",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

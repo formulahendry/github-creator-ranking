@@ -1,0 +1,34 @@
+{
+  "login": "chesterli29",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7269821?v=4",
+  "htmlUrl": "https://github.com/chesterli29",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 313,
+      "repoCountPrimary": 1,
+      "starsContains": 313,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "jupyterlab_tensorboard",
+          "fullName": "chesterli29/jupyterlab_tensorboard",
+          "stars": 313,
+          "url": "https://github.com/chesterli29/jupyterlab_tensorboard",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -5,7 +5,7 @@
   "htmlUrl": "https://github.com/Eugeny",
   "location": "Düsseldorf, DE",
   "countryCode": null,
-  "generatedAt": "2026-05-31T13:50:40.799Z",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
   "isPartial": true,
   "languages": [
     {
@@ -14,17 +14,17 @@
         "name": "TypeScript",
         "githubQuery": "TypeScript"
       },
-      "starsPrimary": 71765,
+      "starsPrimary": 71768,
       "repoCountPrimary": 1,
-      "starsContains": 71765,
+      "starsContains": 71768,
       "repoCountContains": 1,
-      "globalRank": 5,
+      "globalRank": 6,
       "countryRank": null,
       "topRepos": [
         {
           "name": "tabby",
           "fullName": "Eugeny/tabby",
-          "stars": 71765,
+          "stars": 71768,
           "url": "https://github.com/Eugeny/tabby",
           "primaryLanguage": "TypeScript"
         }

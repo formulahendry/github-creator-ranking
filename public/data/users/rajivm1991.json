@@ -1,0 +1,34 @@
+{
+  "login": "rajivm1991",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/838296?v=4",
+  "htmlUrl": "https://github.com/rajivm1991",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 349,
+      "repoCountPrimary": 1,
+      "starsContains": 349,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "DroidDock",
+          "fullName": "rajivm1991/DroidDock",
+          "stars": 349,
+          "url": "https://github.com/rajivm1991/DroidDock",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

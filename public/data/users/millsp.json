@@ -1,0 +1,41 @@
+{
+  "login": "millsp",
+  "name": "pierre",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/18401805?v=4",
+  "htmlUrl": "https://github.com/millsp",
+  "location": "France",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 7268,
+      "repoCountPrimary": 2,
+      "starsContains": 7268,
+      "repoCountContains": 2,
+      "globalRank": 314,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ts-toolbelt",
+          "fullName": "millsp/ts-toolbelt",
+          "stars": 7141,
+          "url": "https://github.com/millsp/ts-toolbelt",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "medium",
+          "fullName": "millsp/medium",
+          "stars": 127,
+          "url": "https://github.com/millsp/medium",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

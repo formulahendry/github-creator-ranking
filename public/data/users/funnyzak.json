@@ -1,0 +1,48 @@
+{
+  "login": "funnyzak",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2562087?v=4",
+  "htmlUrl": "https://github.com/funnyzak",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 816,
+      "repoCountPrimary": 3,
+      "starsContains": 816,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "tts-now",
+          "fullName": "funnyzak/tts-now",
+          "stars": 365,
+          "url": "https://github.com/funnyzak/tts-now",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-native-v2ex",
+          "fullName": "funnyzak/react-native-v2ex",
+          "stars": 292,
+          "url": "https://github.com/funnyzak/react-native-v2ex",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ChatMate-GPT",
+          "fullName": "funnyzak/ChatMate-GPT",
+          "stars": 159,
+          "url": "https://github.com/funnyzak/ChatMate-GPT",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

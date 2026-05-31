@@ -1,0 +1,62 @@
+{
+  "login": "justjavac",
+  "name": "迷渡",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/359395?v=4",
+  "htmlUrl": "https://github.com/justjavac",
+  "location": "Tianjin, China",
+  "countryCode": "CN",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3966,
+      "repoCountPrimary": 10,
+      "starsContains": 3966,
+      "repoCountContains": 10,
+      "globalRank": 667,
+      "countryRank": 80,
+      "topRepos": [
+        {
+          "name": "ali-words",
+          "fullName": "justjavac/ali-words",
+          "stars": 963,
+          "url": "https://github.com/justjavac/ali-words",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "openai-proxy",
+          "fullName": "justjavac/openai-proxy",
+          "stars": 943,
+          "url": "https://github.com/justjavac/openai-proxy",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "weibo-trending-hot-search",
+          "fullName": "justjavac/weibo-trending-hot-search",
+          "stars": 767,
+          "url": "https://github.com/justjavac/weibo-trending-hot-search",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vscode-deno",
+          "fullName": "justjavac/vscode-deno",
+          "stars": 242,
+          "url": "https://github.com/justjavac/vscode-deno",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "zhihu-trending-top-search",
+          "fullName": "justjavac/zhihu-trending-top-search",
+          "stars": 221,
+          "url": "https://github.com/justjavac/zhihu-trending-top-search",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

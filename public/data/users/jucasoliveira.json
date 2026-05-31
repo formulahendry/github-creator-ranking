@@ -1,0 +1,34 @@
+{
+  "login": "jucasoliveira",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/11979969?v=4",
+  "htmlUrl": "https://github.com/jucasoliveira",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1024,
+      "repoCountPrimary": 1,
+      "starsContains": 1024,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "terminalGPT",
+          "fullName": "jucasoliveira/terminalGPT",
+          "stars": 1024,
+          "url": "https://github.com/jucasoliveira/terminalGPT",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

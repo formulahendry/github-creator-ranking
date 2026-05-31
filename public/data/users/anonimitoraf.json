@@ -1,0 +1,34 @@
+{
+  "login": "anonimitoraf",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/15933322?v=4",
+  "htmlUrl": "https://github.com/anonimitoraf",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 106,
+      "repoCountPrimary": 1,
+      "starsContains": 106,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "skerrick",
+          "fullName": "anonimitoraf/skerrick",
+          "stars": 106,
+          "url": "https://github.com/anonimitoraf/skerrick",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "login": "barvian",
+  "name": "Max Barvian",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/868352?v=4",
+  "htmlUrl": "https://github.com/barvian",
+  "location": "San Diego, CA",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 9332,
+      "repoCountPrimary": 3,
+      "starsContains": 9332,
+      "repoCountContains": 3,
+      "globalRank": 246,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "number-flow",
+          "fullName": "barvian/number-flow",
+          "stars": 7359,
+          "url": "https://github.com/barvian/number-flow",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "fluid-tailwind",
+          "fullName": "barvian/fluid-tailwind",
+          "stars": 1773,
+          "url": "https://github.com/barvian/fluid-tailwind",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "musee",
+          "fullName": "barvian/musee",
+          "stars": 200,
+          "url": "https://github.com/barvian/musee",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

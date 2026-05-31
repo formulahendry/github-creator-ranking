@@ -1,0 +1,48 @@
+{
+  "login": "akameco",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/4002137?v=4",
+  "htmlUrl": "https://github.com/akameco",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 618,
+      "repoCountPrimary": 3,
+      "starsContains": 618,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "pixiv-app-api",
+          "fullName": "akameco/pixiv-app-api",
+          "stars": 225,
+          "url": "https://github.com/akameco/pixiv-app-api",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "babel-plugin-react-intl-auto",
+          "fullName": "akameco/babel-plugin-react-intl-auto",
+          "stars": 210,
+          "url": "https://github.com/akameco/babel-plugin-react-intl-auto",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "extract-react-intl-messages",
+          "fullName": "akameco/extract-react-intl-messages",
+          "stars": 183,
+          "url": "https://github.com/akameco/extract-react-intl-messages",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

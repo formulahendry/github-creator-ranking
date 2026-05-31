@@ -1,0 +1,41 @@
+{
+  "login": "arthurfiorette",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/47537704?v=4",
+  "htmlUrl": "https://github.com/arthurfiorette",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1374,
+      "repoCountPrimary": 2,
+      "starsContains": 1374,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "axios-cache-interceptor",
+          "fullName": "arthurfiorette/axios-cache-interceptor",
+          "stars": 815,
+          "url": "https://github.com/arthurfiorette/axios-cache-interceptor",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "prisma-json-types-generator",
+          "fullName": "arthurfiorette/prisma-json-types-generator",
+          "stars": 559,
+          "url": "https://github.com/arthurfiorette/prisma-json-types-generator",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

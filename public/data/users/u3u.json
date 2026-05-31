@@ -1,0 +1,41 @@
+{
+  "login": "u3u",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/20062482?v=4",
+  "htmlUrl": "https://github.com/u3u",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 712,
+      "repoCountPrimary": 2,
+      "starsContains": 712,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vue-hooks",
+          "fullName": "u3u/vue-hooks",
+          "stars": 490,
+          "url": "https://github.com/u3u/vue-hooks",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "prettier-chrome",
+          "fullName": "u3u/prettier-chrome",
+          "stars": 222,
+          "url": "https://github.com/u3u/prettier-chrome",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "BelkacemYerfa",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/106016365?v=4",
+  "htmlUrl": "https://github.com/BelkacemYerfa",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1327,
+      "repoCountPrimary": 1,
+      "starsContains": 1327,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "shadcn-extension",
+          "fullName": "BelkacemYerfa/shadcn-extension",
+          "stars": 1327,
+          "url": "https://github.com/BelkacemYerfa/shadcn-extension",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "danrevah",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7808742?v=4",
+  "htmlUrl": "https://github.com/danrevah",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1683,
+      "repoCountPrimary": 2,
+      "starsContains": 1683,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ngx-pipes",
+          "fullName": "danrevah/ngx-pipes",
+          "stars": 1573,
+          "url": "https://github.com/danrevah/ngx-pipes",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "typeserializer",
+          "fullName": "danrevah/typeserializer",
+          "stars": 110,
+          "url": "https://github.com/danrevah/typeserializer",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "peshanghiwa",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/51766800?v=4",
+  "htmlUrl": "https://github.com/peshanghiwa",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 110,
+      "repoCountPrimary": 1,
+      "starsContains": 110,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Vue3-Vite-Vuetify3-Typescript-Template",
+          "fullName": "peshanghiwa/Vue3-Vite-Vuetify3-Typescript-Template",
+          "stars": 110,
+          "url": "https://github.com/peshanghiwa/Vue3-Vite-Vuetify3-Typescript-Template",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

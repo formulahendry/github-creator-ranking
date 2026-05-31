@@ -1,0 +1,34 @@
+{
+  "login": "chinabugotech",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/199862910?v=4",
+  "htmlUrl": "https://github.com/chinabugotech",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 356,
+      "repoCountPrimary": 1,
+      "starsContains": 356,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "tuniaoui-rc-vue3-uniapp",
+          "fullName": "chinabugotech/tuniaoui-rc-vue3-uniapp",
+          "stars": 356,
+          "url": "https://github.com/chinabugotech/tuniaoui-rc-vue3-uniapp",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

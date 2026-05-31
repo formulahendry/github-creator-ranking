@@ -1,0 +1,41 @@
+{
+  "login": "Lakr233",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/25259084?v=4",
+  "htmlUrl": "https://github.com/Lakr233",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2613,
+      "repoCountPrimary": 2,
+      "starsContains": 2613,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "AssppWeb",
+          "fullName": "Lakr233/AssppWeb",
+          "stars": 2457,
+          "url": "https://github.com/Lakr233/AssppWeb",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "iOSreExtension",
+          "fullName": "Lakr233/iOSreExtension",
+          "stars": 156,
+          "url": "https://github.com/Lakr233/iOSreExtension",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

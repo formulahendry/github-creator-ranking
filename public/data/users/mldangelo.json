@@ -1,0 +1,34 @@
+{
+  "login": "mldangelo",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7235481?v=4",
+  "htmlUrl": "https://github.com/mldangelo",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1643,
+      "repoCountPrimary": 1,
+      "starsContains": 1643,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "personal-site",
+          "fullName": "mldangelo/personal-site",
+          "stars": 1643,
+          "url": "https://github.com/mldangelo/personal-site",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

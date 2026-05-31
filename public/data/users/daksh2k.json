@@ -1,0 +1,34 @@
+{
+  "login": "daksh2k",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/42179185?v=4",
+  "htmlUrl": "https://github.com/daksh2k",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 255,
+      "repoCountPrimary": 1,
+      "starsContains": 255,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Spicetify-stuff",
+          "fullName": "daksh2k/Spicetify-stuff",
+          "stars": 255,
+          "url": "https://github.com/daksh2k/Spicetify-stuff",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

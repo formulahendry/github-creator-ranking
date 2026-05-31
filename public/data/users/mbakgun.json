@@ -1,0 +1,34 @@
+{
+  "login": "mbakgun",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/8726393?v=4",
+  "htmlUrl": "https://github.com/mbakgun",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 129,
+      "repoCountPrimary": 1,
+      "starsContains": 129,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "n8n-slack-socket-mode",
+          "fullName": "mbakgun/n8n-slack-socket-mode",
+          "stars": 129,
+          "url": "https://github.com/mbakgun/n8n-slack-socket-mode",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

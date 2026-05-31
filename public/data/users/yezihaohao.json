@@ -1,0 +1,34 @@
+{
+  "login": "yezihaohao",
+  "name": "叶子",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/23539868?v=4",
+  "htmlUrl": "https://github.com/yezihaohao",
+  "location": "chengdu",
+  "countryCode": "CN",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 6750,
+      "repoCountPrimary": 1,
+      "starsContains": 6750,
+      "repoCountContains": 1,
+      "globalRank": 348,
+      "countryRank": 45,
+      "topRepos": [
+        {
+          "name": "react-admin",
+          "fullName": "yezihaohao/react-admin",
+          "stars": 6750,
+          "url": "https://github.com/yezihaohao/react-admin",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

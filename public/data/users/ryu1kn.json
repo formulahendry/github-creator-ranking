@@ -1,0 +1,41 @@
+{
+  "login": "ryu1kn",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1505715?v=4",
+  "htmlUrl": "https://github.com/ryu1kn",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 474,
+      "repoCountPrimary": 2,
+      "starsContains": 474,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "csv-writer",
+          "fullName": "ryu1kn/csv-writer",
+          "stars": 255,
+          "url": "https://github.com/ryu1kn/csv-writer",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vscode-partial-diff",
+          "fullName": "ryu1kn/vscode-partial-diff",
+          "stars": 219,
+          "url": "https://github.com/ryu1kn/vscode-partial-diff",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

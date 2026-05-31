@@ -1,0 +1,48 @@
+{
+  "login": "javierbyte",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2009676?v=4",
+  "htmlUrl": "https://github.com/javierbyte",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1652,
+      "repoCountPrimary": 3,
+      "starsContains": 1652,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "pintr",
+          "fullName": "javierbyte/pintr",
+          "stars": 819,
+          "url": "https://github.com/javierbyte/pintr",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "cohesive-colors",
+          "fullName": "javierbyte/cohesive-colors",
+          "stars": 531,
+          "url": "https://github.com/javierbyte/cohesive-colors",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "brutalita",
+          "fullName": "javierbyte/brutalita",
+          "stars": 302,
+          "url": "https://github.com/javierbyte/brutalita",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

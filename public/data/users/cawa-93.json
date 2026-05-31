@@ -1,0 +1,41 @@
+{
+  "login": "cawa-93",
+  "name": "Alex Kozack",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1662812?v=4",
+  "htmlUrl": "https://github.com/cawa-93",
+  "location": "Ukraine",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3099,
+      "repoCountPrimary": 2,
+      "starsContains": 3099,
+      "repoCountContains": 2,
+      "globalRank": 871,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vite-electron-builder",
+          "fullName": "cawa-93/vite-electron-builder",
+          "stars": 2988,
+          "url": "https://github.com/cawa-93/vite-electron-builder",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "iconify-prerendered",
+          "fullName": "cawa-93/iconify-prerendered",
+          "stars": 111,
+          "url": "https://github.com/cawa-93/iconify-prerendered",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "enchant97",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/25802519?v=4",
+  "htmlUrl": "https://github.com/enchant97",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 668,
+      "repoCountPrimary": 1,
+      "starsContains": 668,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "note-mark",
+          "fullName": "enchant97/note-mark",
+          "stars": 668,
+          "url": "https://github.com/enchant97/note-mark",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

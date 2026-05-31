@@ -1,0 +1,41 @@
+{
+  "login": "cristicretu",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/45521157?v=4",
+  "htmlUrl": "https://github.com/cristicretu",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 216,
+      "repoCountPrimary": 2,
+      "starsContains": 216,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "penflow",
+          "fullName": "cristicretu/penflow",
+          "stars": 110,
+          "url": "https://github.com/cristicretu/penflow",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "meshgrad",
+          "fullName": "cristicretu/meshgrad",
+          "stars": 106,
+          "url": "https://github.com/cristicretu/meshgrad",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

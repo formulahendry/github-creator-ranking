@@ -1,0 +1,34 @@
+{
+  "login": "JohnWeisz",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/13468659?v=4",
+  "htmlUrl": "https://github.com/JohnWeisz",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 608,
+      "repoCountPrimary": 1,
+      "starsContains": 608,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "TypedJSON",
+          "fullName": "JohnWeisz/TypedJSON",
+          "stars": 608,
+          "url": "https://github.com/JohnWeisz/TypedJSON",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

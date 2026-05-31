@@ -1,0 +1,48 @@
+{
+  "login": "floriandiud",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/563493?v=4",
+  "htmlUrl": "https://github.com/floriandiud",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 557,
+      "repoCountPrimary": 3,
+      "starsContains": 557,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "facebook-group-members-scraper",
+          "fullName": "floriandiud/facebook-group-members-scraper",
+          "stars": 313,
+          "url": "https://github.com/floriandiud/facebook-group-members-scraper",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "instagram-users-scraper",
+          "fullName": "floriandiud/instagram-users-scraper",
+          "stars": 142,
+          "url": "https://github.com/floriandiud/instagram-users-scraper",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "whatsapp-group-members-scraper",
+          "fullName": "floriandiud/whatsapp-group-members-scraper",
+          "stars": 102,
+          "url": "https://github.com/floriandiud/whatsapp-group-members-scraper",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

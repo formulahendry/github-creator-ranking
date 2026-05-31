@@ -1,0 +1,41 @@
+{
+  "login": "nikandr-surkov",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/167840398?v=4",
+  "htmlUrl": "https://github.com/nikandr-surkov",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 451,
+      "repoCountPrimary": 2,
+      "starsContains": 451,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Hamster-Kombat-Telegram-Mini-App-Clone",
+          "fullName": "nikandr-surkov/Hamster-Kombat-Telegram-Mini-App-Clone",
+          "stars": 268,
+          "url": "https://github.com/nikandr-surkov/Hamster-Kombat-Telegram-Mini-App-Clone",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Notcoin-Telegram-Mini-App-Clone",
+          "fullName": "nikandr-surkov/Notcoin-Telegram-Mini-App-Clone",
+          "stars": 183,
+          "url": "https://github.com/nikandr-surkov/Notcoin-Telegram-Mini-App-Clone",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "rexxars",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/48200?v=4",
+  "htmlUrl": "https://github.com/rexxars",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 650,
+      "repoCountPrimary": 2,
+      "starsContains": 650,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "eventsource-parser",
+          "fullName": "rexxars/eventsource-parser",
+          "stars": 486,
+          "url": "https://github.com/rexxars/eventsource-parser",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "eventsource-client",
+          "fullName": "rexxars/eventsource-client",
+          "stars": 164,
+          "url": "https://github.com/rexxars/eventsource-client",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

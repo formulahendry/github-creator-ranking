@@ -1,0 +1,41 @@
+{
+  "login": "hughfenghen",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3307051?v=4",
+  "htmlUrl": "https://github.com/hughfenghen",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 442,
+      "repoCountPrimary": 2,
+      "starsContains": 442,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "opfs-tools",
+          "fullName": "hughfenghen/opfs-tools",
+          "stars": 319,
+          "url": "https://github.com/hughfenghen/opfs-tools",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "dimcut",
+          "fullName": "hughfenghen/dimcut",
+          "stars": 123,
+          "url": "https://github.com/hughfenghen/dimcut",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

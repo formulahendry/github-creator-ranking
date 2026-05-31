@@ -1,0 +1,41 @@
+{
+  "login": "timolins",
+  "name": "Timo Lins",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1440854?v=4",
+  "htmlUrl": "https://github.com/timolins",
+  "location": "Vienna, Austria",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 11157,
+      "repoCountPrimary": 2,
+      "starsContains": 11157,
+      "repoCountContains": 2,
+      "globalRank": 187,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-hot-toast",
+          "fullName": "timolins/react-hot-toast",
+          "stars": 10930,
+          "url": "https://github.com/timolins/react-hot-toast",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "timo-sh",
+          "fullName": "timolins/timo-sh",
+          "stars": 227,
+          "url": "https://github.com/timolins/timo-sh",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

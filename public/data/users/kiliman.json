@@ -1,0 +1,62 @@
+{
+  "login": "kiliman",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/47168?v=4",
+  "htmlUrl": "https://github.com/kiliman",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2123,
+      "repoCountPrimary": 7,
+      "starsContains": 2123,
+      "repoCountContains": 7,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "remix-flat-routes",
+          "fullName": "kiliman/remix-flat-routes",
+          "stars": 817,
+          "url": "https://github.com/kiliman/remix-flat-routes",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "remix-typedjson",
+          "fullName": "kiliman/remix-typedjson",
+          "stars": 455,
+          "url": "https://github.com/kiliman/remix-typedjson",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "remix-params-helper",
+          "fullName": "kiliman/remix-params-helper",
+          "stars": 246,
+          "url": "https://github.com/kiliman/remix-params-helper",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "rmx-cli",
+          "fullName": "kiliman/rmx-cli",
+          "stars": 186,
+          "url": "https://github.com/kiliman/rmx-cli",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "remix-vite-template",
+          "fullName": "kiliman/remix-vite-template",
+          "stars": 154,
+          "url": "https://github.com/kiliman/remix-vite-template",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

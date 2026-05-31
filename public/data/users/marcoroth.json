@@ -1,0 +1,62 @@
+{
+  "login": "marcoroth",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6411752?v=4",
+  "htmlUrl": "https://github.com/marcoroth",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2405,
+      "repoCountPrimary": 5,
+      "starsContains": 2405,
+      "repoCountContains": 5,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "herb",
+          "fullName": "marcoroth/herb",
+          "stars": 1251,
+          "url": "https://github.com/marcoroth/herb",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "turbo_power",
+          "fullName": "marcoroth/turbo_power",
+          "stars": 517,
+          "url": "https://github.com/marcoroth/turbo_power",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "stimulus-lsp",
+          "fullName": "marcoroth/stimulus-lsp",
+          "stars": 301,
+          "url": "https://github.com/marcoroth/stimulus-lsp",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "current.js",
+          "fullName": "marcoroth/current.js",
+          "stars": 222,
+          "url": "https://github.com/marcoroth/current.js",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "formulus",
+          "fullName": "marcoroth/formulus",
+          "stars": 114,
+          "url": "https://github.com/marcoroth/formulus",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

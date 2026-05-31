@@ -1,0 +1,34 @@
+{
+  "login": "jdevalk",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/487629?v=4",
+  "htmlUrl": "https://github.com/jdevalk",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 253,
+      "repoCountPrimary": 1,
+      "starsContains": 253,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "specification.website",
+          "fullName": "jdevalk/specification.website",
+          "stars": 253,
+          "url": "https://github.com/jdevalk/specification.website",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "login": "enzomanuelmangano",
+  "name": "Enzo Manuel Mangano",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/37193302?v=4",
+  "htmlUrl": "https://github.com/enzomanuelmangano",
+  "location": "Milan, Italy",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 5253,
+      "repoCountPrimary": 8,
+      "starsContains": 5253,
+      "repoCountContains": 8,
+      "globalRank": 473,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "demos",
+          "fullName": "enzomanuelmangano/demos",
+          "stars": 2864,
+          "url": "https://github.com/enzomanuelmangano/demos",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "pressto",
+          "fullName": "enzomanuelmangano/pressto",
+          "stars": 783,
+          "url": "https://github.com/enzomanuelmangano/pressto",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "animate-with-reanimated",
+          "fullName": "enzomanuelmangano/animate-with-reanimated",
+          "stars": 645,
+          "url": "https://github.com/enzomanuelmangano/animate-with-reanimated",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-native-qrcode-skia",
+          "fullName": "enzomanuelmangano/react-native-qrcode-skia",
+          "stars": 419,
+          "url": "https://github.com/enzomanuelmangano/react-native-qrcode-skia",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-native-skia-gesture",
+          "fullName": "enzomanuelmangano/react-native-skia-gesture",
+          "stars": 167,
+          "url": "https://github.com/enzomanuelmangano/react-native-skia-gesture",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

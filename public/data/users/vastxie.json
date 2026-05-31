@@ -1,0 +1,41 @@
+{
+  "login": "vastxie",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/24899308?v=4",
+  "htmlUrl": "https://github.com/vastxie",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1080,
+      "repoCountPrimary": 2,
+      "starsContains": 1080,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Happy-ChatGPT",
+          "fullName": "vastxie/Happy-ChatGPT",
+          "stars": 811,
+          "url": "https://github.com/vastxie/Happy-ChatGPT",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ChatGPT-Web",
+          "fullName": "vastxie/ChatGPT-Web",
+          "stars": 269,
+          "url": "https://github.com/vastxie/ChatGPT-Web",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

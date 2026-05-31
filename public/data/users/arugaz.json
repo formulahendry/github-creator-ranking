@@ -1,0 +1,34 @@
+{
+  "login": "arugaz",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/53950128?v=4",
+  "htmlUrl": "https://github.com/arugaz",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 705,
+      "repoCountPrimary": 1,
+      "starsContains": 705,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "whatsapp-bot",
+          "fullName": "arugaz/whatsapp-bot",
+          "stars": 705,
+          "url": "https://github.com/arugaz/whatsapp-bot",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

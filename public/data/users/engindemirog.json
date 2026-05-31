@@ -1,0 +1,34 @@
+{
+  "login": "engindemirog",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/10206539?v=4",
+  "htmlUrl": "https://github.com/engindemirog",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 250,
+      "repoCountPrimary": 1,
+      "starsContains": 250,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "kamp-frontend",
+          "fullName": "engindemirog/kamp-frontend",
+          "stars": 250,
+          "url": "https://github.com/engindemirog/kamp-frontend",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

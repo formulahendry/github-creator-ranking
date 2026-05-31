@@ -1,0 +1,34 @@
+{
+  "login": "mCodex",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5920613?v=4",
+  "htmlUrl": "https://github.com/mCodex",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1051,
+      "repoCountPrimary": 1,
+      "starsContains": 1051,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-native-sensitive-info",
+          "fullName": "mCodex/react-native-sensitive-info",
+          "stars": 1051,
+          "url": "https://github.com/mCodex/react-native-sensitive-info",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

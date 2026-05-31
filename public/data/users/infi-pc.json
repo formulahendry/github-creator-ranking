@@ -1,0 +1,34 @@
+{
+  "login": "infi-pc",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2264725?v=4",
+  "htmlUrl": "https://github.com/infi-pc",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1796,
+      "repoCountPrimary": 1,
+      "starsContains": 1796,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "locatorjs",
+          "fullName": "infi-pc/locatorjs",
+          "stars": 1796,
+          "url": "https://github.com/infi-pc/locatorjs",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

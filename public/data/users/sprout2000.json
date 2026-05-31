@@ -1,0 +1,48 @@
+{
+  "login": "sprout2000",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/52094761?v=4",
+  "htmlUrl": "https://github.com/sprout2000",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 671,
+      "repoCountPrimary": 3,
+      "starsContains": 671,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "leafview",
+          "fullName": "sprout2000/leafview",
+          "stars": 345,
+          "url": "https://github.com/sprout2000/leafview",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "tauview",
+          "fullName": "sprout2000/tauview",
+          "stars": 168,
+          "url": "https://github.com/sprout2000/tauview",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "elephicon",
+          "fullName": "sprout2000/elephicon",
+          "stars": 158,
+          "url": "https://github.com/sprout2000/elephicon",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

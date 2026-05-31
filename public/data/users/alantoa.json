@@ -1,0 +1,55 @@
+{
+  "login": "alantoa",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/37520667?v=4",
+  "htmlUrl": "https://github.com/alantoa",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1036,
+      "repoCountPrimary": 4,
+      "starsContains": 1036,
+      "repoCountContains": 4,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-native-awesome-slider",
+          "fullName": "alantoa/react-native-awesome-slider",
+          "stars": 415,
+          "url": "https://github.com/alantoa/react-native-awesome-slider",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-native-reanimated-player",
+          "fullName": "alantoa/react-native-reanimated-player",
+          "stars": 268,
+          "url": "https://github.com/alantoa/react-native-reanimated-player",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "universal-tooltip",
+          "fullName": "alantoa/universal-tooltip",
+          "stars": 193,
+          "url": "https://github.com/alantoa/universal-tooltip",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-native-lightbox",
+          "fullName": "alantoa/react-native-lightbox",
+          "stars": 160,
+          "url": "https://github.com/alantoa/react-native-lightbox",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

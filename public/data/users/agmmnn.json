@@ -1,0 +1,41 @@
+{
+  "login": "agmmnn",
+  "name": "Gökçe",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/16024979?v=4",
+  "htmlUrl": "https://github.com/agmmnn",
+  "location": "Ankara",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2989,
+      "repoCountPrimary": 2,
+      "starsContains": 2989,
+      "repoCountContains": 2,
+      "globalRank": 899,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "tauri-ui",
+          "fullName": "agmmnn/tauri-ui",
+          "stars": 2038,
+          "url": "https://github.com/agmmnn/tauri-ui",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "tauri-controls",
+          "fullName": "agmmnn/tauri-controls",
+          "stars": 951,
+          "url": "https://github.com/agmmnn/tauri-controls",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

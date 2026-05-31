@@ -1,0 +1,34 @@
+{
+  "login": "ericgio",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2978513?v=4",
+  "htmlUrl": "https://github.com/ericgio",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1015,
+      "repoCountPrimary": 1,
+      "starsContains": 1015,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-bootstrap-typeahead",
+          "fullName": "ericgio/react-bootstrap-typeahead",
+          "stars": 1015,
+          "url": "https://github.com/ericgio/react-bootstrap-typeahead",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

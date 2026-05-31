@@ -1,0 +1,41 @@
+{
+  "login": "satya164",
+  "name": "Satyajit Sahoo",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1174278?v=4",
+  "htmlUrl": "https://github.com/satya164",
+  "location": "Wrocław, Poland",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 5324,
+      "repoCountPrimary": 2,
+      "starsContains": 5324,
+      "repoCountContains": 2,
+      "globalRank": 463,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-native-tab-view",
+          "fullName": "satya164/react-native-tab-view",
+          "stars": 5114,
+          "url": "https://github.com/satya164/react-native-tab-view",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "PocketGear",
+          "fullName": "satya164/PocketGear",
+          "stars": 210,
+          "url": "https://github.com/satya164/PocketGear",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

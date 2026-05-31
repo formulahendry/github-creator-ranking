@@ -1,0 +1,48 @@
+{
+  "login": "toddmotto",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1655968?v=4",
+  "htmlUrl": "https://github.com/toddmotto",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 944,
+      "repoCountPrimary": 3,
+      "starsContains": 944,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "angular-pizza-creator",
+          "fullName": "toddmotto/angular-pizza-creator",
+          "stars": 450,
+          "url": "https://github.com/toddmotto/angular-pizza-creator",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "angular-dynamic-forms",
+          "fullName": "toddmotto/angular-dynamic-forms",
+          "stars": 315,
+          "url": "https://github.com/toddmotto/angular-dynamic-forms",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "reactive-pizza",
+          "fullName": "toddmotto/reactive-pizza",
+          "stars": 179,
+          "url": "https://github.com/toddmotto/reactive-pizza",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

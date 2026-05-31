@@ -1,0 +1,55 @@
+{
+  "login": "dahlia",
+  "name": "Hong Minhee (洪 民憙)",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/12431?v=4",
+  "htmlUrl": "https://github.com/dahlia",
+  "location": "Seoul, Republic of Korea",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3185,
+      "repoCountPrimary": 4,
+      "starsContains": 3185,
+      "repoCountContains": 4,
+      "globalRank": 842,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "logtape",
+          "fullName": "dahlia/logtape",
+          "stars": 1819,
+          "url": "https://github.com/dahlia/logtape",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "optique",
+          "fullName": "dahlia/optique",
+          "stars": 694,
+          "url": "https://github.com/dahlia/optique",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "upyo",
+          "fullName": "dahlia/upyo",
+          "stars": 521,
+          "url": "https://github.com/dahlia/upyo",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "cjk-compsci-terms",
+          "fullName": "dahlia/cjk-compsci-terms",
+          "stars": 151,
+          "url": "https://github.com/dahlia/cjk-compsci-terms",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

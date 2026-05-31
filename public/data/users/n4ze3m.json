@@ -1,0 +1,41 @@
+{
+  "login": "n4ze3m",
+  "name": "Muhammed Nazeem",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/39720973?v=4",
+  "htmlUrl": "https://github.com/n4ze3m",
+  "location": "Internal Server Error",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 9751,
+      "repoCountPrimary": 2,
+      "starsContains": 9751,
+      "repoCountContains": 2,
+      "globalRank": 229,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "page-assist",
+          "fullName": "n4ze3m/page-assist",
+          "stars": 7959,
+          "url": "https://github.com/n4ze3m/page-assist",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "dialoqbase",
+          "fullName": "n4ze3m/dialoqbase",
+          "stars": 1792,
+          "url": "https://github.com/n4ze3m/dialoqbase",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

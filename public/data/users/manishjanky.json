@@ -1,0 +1,34 @@
+{
+  "login": "manishjanky",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/22894215?v=4",
+  "htmlUrl": "https://github.com/manishjanky",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 117,
+      "repoCountPrimary": 1,
+      "starsContains": 117,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ngx-select-dropdown",
+          "fullName": "manishjanky/ngx-select-dropdown",
+          "stars": 117,
+          "url": "https://github.com/manishjanky/ngx-select-dropdown",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

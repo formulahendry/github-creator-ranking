@@ -1,0 +1,41 @@
+{
+  "login": "remarkablemark",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/10594555?v=4",
+  "htmlUrl": "https://github.com/remarkablemark",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2526,
+      "repoCountPrimary": 2,
+      "starsContains": 2526,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "html-react-parser",
+          "fullName": "remarkablemark/html-react-parser",
+          "stars": 2418,
+          "url": "https://github.com/remarkablemark/html-react-parser",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "html-dom-parser",
+          "fullName": "remarkablemark/html-dom-parser",
+          "stars": 108,
+          "url": "https://github.com/remarkablemark/html-dom-parser",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

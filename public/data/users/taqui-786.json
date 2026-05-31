@@ -1,0 +1,62 @@
+{
+  "login": "taqui-786",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/104785331?v=4",
+  "htmlUrl": "https://github.com/taqui-786",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1557,
+      "repoCountPrimary": 5,
+      "starsContains": 1557,
+      "repoCountContains": 5,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Portfolio",
+          "fullName": "taqui-786/Portfolio",
+          "stars": 628,
+          "url": "https://github.com/taqui-786/Portfolio",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "mixcnui",
+          "fullName": "taqui-786/mixcnui",
+          "stars": 316,
+          "url": "https://github.com/taqui-786/mixcnui",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "itZmyLink",
+          "fullName": "taqui-786/itZmyLink",
+          "stars": 281,
+          "url": "https://github.com/taqui-786/itZmyLink",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "crousal-maker",
+          "fullName": "taqui-786/crousal-maker",
+          "stars": 172,
+          "url": "https://github.com/taqui-786/crousal-maker",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Devletter",
+          "fullName": "taqui-786/Devletter",
+          "stars": 160,
+          "url": "https://github.com/taqui-786/Devletter",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

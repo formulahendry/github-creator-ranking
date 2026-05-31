@@ -1,0 +1,48 @@
+{
+  "login": "cameronking4",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/35708477?v=4",
+  "htmlUrl": "https://github.com/cameronking4",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 670,
+      "repoCountPrimary": 3,
+      "starsContains": 670,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "openai-realtime-api-nextjs",
+          "fullName": "cameronking4/openai-realtime-api-nextjs",
+          "stars": 443,
+          "url": "https://github.com/cameronking4/openai-realtime-api-nextjs",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "openai-realtime-blocks",
+          "fullName": "cameronking4/openai-realtime-blocks",
+          "stars": 117,
+          "url": "https://github.com/cameronking4/openai-realtime-blocks",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ReplyGuy-clone",
+          "fullName": "cameronking4/ReplyGuy-clone",
+          "stars": 110,
+          "url": "https://github.com/cameronking4/ReplyGuy-clone",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

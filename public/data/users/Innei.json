@@ -1,0 +1,55 @@
+{
+  "login": "Innei",
+  "name": "Innei",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/41265413?v=4",
+  "htmlUrl": "https://github.com/Innei",
+  "location": "Vibing..",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 4761,
+      "repoCountPrimary": 4,
+      "starsContains": 4761,
+      "repoCountContains": 4,
+      "globalRank": 539,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Shiro",
+          "fullName": "Innei/Shiro",
+          "stars": 4203,
+          "url": "https://github.com/Innei/Shiro",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "photo-gallery",
+          "fullName": "Innei/photo-gallery",
+          "stars": 215,
+          "url": "https://github.com/Innei/photo-gallery",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "shuffle-article",
+          "fullName": "Innei/shuffle-article",
+          "stars": 215,
+          "url": "https://github.com/Innei/shuffle-article",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "electron-ipc-decorator",
+          "fullName": "Innei/electron-ipc-decorator",
+          "stars": 128,
+          "url": "https://github.com/Innei/electron-ipc-decorator",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

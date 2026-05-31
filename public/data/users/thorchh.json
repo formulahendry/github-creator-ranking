@@ -1,0 +1,34 @@
+{
+  "login": "thorchh",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/75025911?v=4",
+  "htmlUrl": "https://github.com/thorchh",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 120,
+      "repoCountPrimary": 1,
+      "starsContains": 120,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "agent-starter",
+          "fullName": "thorchh/agent-starter",
+          "stars": 120,
+          "url": "https://github.com/thorchh/agent-starter",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

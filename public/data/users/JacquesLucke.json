@@ -1,0 +1,34 @@
+{
+  "login": "JacquesLucke",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5881326?v=4",
+  "htmlUrl": "https://github.com/JacquesLucke",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 724,
+      "repoCountPrimary": 1,
+      "starsContains": 724,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "blender_vscode",
+          "fullName": "JacquesLucke/blender_vscode",
+          "stars": 724,
+          "url": "https://github.com/JacquesLucke/blender_vscode",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

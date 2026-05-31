@@ -1,0 +1,34 @@
+{
+  "login": "ashish-chopra",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1948545?v=4",
+  "htmlUrl": "https://github.com/ashish-chopra",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 225,
+      "repoCountPrimary": 1,
+      "starsContains": 225,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ngx-gauge",
+          "fullName": "ashish-chopra/ngx-gauge",
+          "stars": 225,
+          "url": "https://github.com/ashish-chopra/ngx-gauge",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

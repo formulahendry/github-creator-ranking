@@ -1,0 +1,34 @@
+{
+  "login": "zrwusa",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/75152230?v=4",
+  "htmlUrl": "https://github.com/zrwusa",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 204,
+      "repoCountPrimary": 1,
+      "starsContains": 204,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "data-structure-typed",
+          "fullName": "zrwusa/data-structure-typed",
+          "stars": 204,
+          "url": "https://github.com/zrwusa/data-structure-typed",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "HichamELBSI",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7756284?v=4",
+  "htmlUrl": "https://github.com/HichamELBSI",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 232,
+      "repoCountPrimary": 1,
+      "starsContains": 232,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-native-body-highlighter",
+          "fullName": "HichamELBSI/react-native-body-highlighter",
+          "stars": 232,
+          "url": "https://github.com/HichamELBSI/react-native-body-highlighter",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

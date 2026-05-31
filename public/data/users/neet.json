@@ -1,0 +1,41 @@
+{
+  "login": "neet",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/19276905?v=4",
+  "htmlUrl": "https://github.com/neet",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 980,
+      "repoCountPrimary": 2,
+      "starsContains": 980,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "masto.js",
+          "fullName": "neet/masto.js",
+          "stars": 778,
+          "url": "https://github.com/neet/masto.js",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "visible",
+          "fullName": "neet/visible",
+          "stars": 202,
+          "url": "https://github.com/neet/visible",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

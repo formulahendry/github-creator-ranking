@@ -1,0 +1,34 @@
+{
+  "login": "grinev",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2236103?v=4",
+  "htmlUrl": "https://github.com/grinev",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 732,
+      "repoCountPrimary": 1,
+      "starsContains": 732,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "opencode-telegram-bot",
+          "fullName": "grinev/opencode-telegram-bot",
+          "stars": 732,
+          "url": "https://github.com/grinev/opencode-telegram-bot",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

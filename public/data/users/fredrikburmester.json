@@ -1,0 +1,41 @@
+{
+  "login": "fredrikburmester",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/26228321?v=4",
+  "htmlUrl": "https://github.com/fredrikburmester",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 857,
+      "repoCountPrimary": 2,
+      "starsContains": 857,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "streamystats",
+          "fullName": "fredrikburmester/streamystats",
+          "stars": 730,
+          "url": "https://github.com/fredrikburmester/streamystats",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "marlin-search",
+          "fullName": "fredrikburmester/marlin-search",
+          "stars": 127,
+          "url": "https://github.com/fredrikburmester/marlin-search",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

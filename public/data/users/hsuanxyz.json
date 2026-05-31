@@ -1,0 +1,41 @@
+{
+  "login": "hsuanxyz",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/22736418?v=4",
+  "htmlUrl": "https://github.com/hsuanxyz",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1009,
+      "repoCountPrimary": 2,
+      "starsContains": 1009,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ion2-calendar",
+          "fullName": "hsuanxyz/ion2-calendar",
+          "stars": 549,
+          "url": "https://github.com/hsuanxyz/ion2-calendar",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ionic3-chat",
+          "fullName": "hsuanxyz/ionic3-chat",
+          "stars": 460,
+          "url": "https://github.com/hsuanxyz/ionic3-chat",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "kodestan",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/174871460?v=4",
+  "htmlUrl": "https://github.com/kodestan",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 756,
+      "repoCountPrimary": 1,
+      "starsContains": 756,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "tank-ops",
+          "fullName": "kodestan/tank-ops",
+          "stars": 756,
+          "url": "https://github.com/kodestan/tank-ops",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

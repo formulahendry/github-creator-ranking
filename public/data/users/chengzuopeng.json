@@ -1,0 +1,34 @@
+{
+  "login": "chengzuopeng",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/32048561?v=4",
+  "htmlUrl": "https://github.com/chengzuopeng",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1055,
+      "repoCountPrimary": 1,
+      "starsContains": 1055,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "stock-sdk",
+          "fullName": "chengzuopeng/stock-sdk",
+          "stars": 1055,
+          "url": "https://github.com/chengzuopeng/stock-sdk",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

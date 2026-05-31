@@ -1,0 +1,34 @@
+{
+  "login": "huangkaoya",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/29002330?v=4",
+  "htmlUrl": "https://github.com/huangkaoya",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 832,
+      "repoCountPrimary": 1,
+      "starsContains": 832,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "redalert2",
+          "fullName": "huangkaoya/redalert2",
+          "stars": 832,
+          "url": "https://github.com/huangkaoya/redalert2",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "joseluis9595",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/29345499?v=4",
+  "htmlUrl": "https://github.com/joseluis9595",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 819,
+      "repoCountPrimary": 1,
+      "starsContains": 819,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "lovelace-navbar-card",
+          "fullName": "joseluis9595/lovelace-navbar-card",
+          "stars": 819,
+          "url": "https://github.com/joseluis9595/lovelace-navbar-card",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

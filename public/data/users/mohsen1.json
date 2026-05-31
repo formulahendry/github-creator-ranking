@@ -1,0 +1,48 @@
+{
+  "login": "mohsen1",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/543633?v=4",
+  "htmlUrl": "https://github.com/mohsen1",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1182,
+      "repoCountPrimary": 3,
+      "starsContains": 1182,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "json-formatter-js",
+          "fullName": "mohsen1/json-formatter-js",
+          "stars": 718,
+          "url": "https://github.com/mohsen1/json-formatter-js",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "llm-debugger-vscode-extension",
+          "fullName": "mohsen1/llm-debugger-vscode-extension",
+          "stars": 357,
+          "url": "https://github.com/mohsen1/llm-debugger-vscode-extension",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "yawn-yaml",
+          "fullName": "mohsen1/yawn-yaml",
+          "stars": 107,
+          "url": "https://github.com/mohsen1/yawn-yaml",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "phcollignon",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7680604?v=4",
+  "htmlUrl": "https://github.com/phcollignon",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 407,
+      "repoCountPrimary": 2,
+      "starsContains": 407,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "helm3",
+          "fullName": "phcollignon/helm3",
+          "stars": 301,
+          "url": "https://github.com/phcollignon/helm3",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "helm",
+          "fullName": "phcollignon/helm",
+          "stars": 106,
+          "url": "https://github.com/phcollignon/helm",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

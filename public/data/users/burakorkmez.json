@@ -1,0 +1,62 @@
+{
+  "login": "burakorkmez",
+  "name": "Codesistency",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/75279146?v=4",
+  "htmlUrl": "https://github.com/burakorkmez",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3865,
+      "repoCountPrimary": 17,
+      "starsContains": 3865,
+      "repoCountContains": 17,
+      "globalRank": 688,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "expo-ecommerce",
+          "fullName": "burakorkmez/expo-ecommerce",
+          "stars": 382,
+          "url": "https://github.com/burakorkmez/expo-ecommerce",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "code-craft",
+          "fullName": "burakorkmez/code-craft",
+          "stars": 365,
+          "url": "https://github.com/burakorkmez/code-craft",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "realtime-spotify-clone",
+          "fullName": "burakorkmez/realtime-spotify-clone",
+          "stars": 348,
+          "url": "https://github.com/burakorkmez/realtime-spotify-clone",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-go-tutorial",
+          "fullName": "burakorkmez/react-go-tutorial",
+          "stars": 340,
+          "url": "https://github.com/burakorkmez/react-go-tutorial",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "whatsapp-clone",
+          "fullName": "burakorkmez/whatsapp-clone",
+          "stars": 300,
+          "url": "https://github.com/burakorkmez/whatsapp-clone",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

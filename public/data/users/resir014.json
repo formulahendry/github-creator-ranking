@@ -1,0 +1,48 @@
+{
+  "login": "resir014",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5663877?v=4",
+  "htmlUrl": "https://github.com/resir014",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 940,
+      "repoCountPrimary": 3,
+      "starsContains": 940,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-redux-typescript-example",
+          "fullName": "resir014/react-redux-typescript-example",
+          "stars": 584,
+          "url": "https://github.com/resir014/react-redux-typescript-example",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "gatsby-starter-typescript-plus",
+          "fullName": "resir014/gatsby-starter-typescript-plus",
+          "stars": 191,
+          "url": "https://github.com/resir014/gatsby-starter-typescript-plus",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "thebestmotherfuckingwebsite.co",
+          "fullName": "resir014/thebestmotherfuckingwebsite.co",
+          "stars": 165,
+          "url": "https://github.com/resir014/thebestmotherfuckingwebsite.co",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

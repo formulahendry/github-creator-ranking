@@ -1,0 +1,34 @@
+{
+  "login": "mirshko",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/8116716?v=4",
+  "htmlUrl": "https://github.com/mirshko",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 606,
+      "repoCountPrimary": 1,
+      "starsContains": 606,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "next-web3-boilerplate",
+          "fullName": "mirshko/next-web3-boilerplate",
+          "stars": 606,
+          "url": "https://github.com/mirshko/next-web3-boilerplate",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

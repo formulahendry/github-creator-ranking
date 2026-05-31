@@ -1,0 +1,41 @@
+{
+  "login": "amaury1093",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1293565?v=4",
+  "htmlUrl": "https://github.com/amaury1093",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 863,
+      "repoCountPrimary": 2,
+      "starsContains": 863,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "login-with-metamask",
+          "fullName": "amaury1093/login-with-metamask",
+          "stars": 681,
+          "url": "https://github.com/amaury1093/login-with-metamask",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-mapbox-gl-draw",
+          "fullName": "amaury1093/react-mapbox-gl-draw",
+          "stars": 182,
+          "url": "https://github.com/amaury1093/react-mapbox-gl-draw",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

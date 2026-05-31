@@ -1,0 +1,48 @@
+{
+  "login": "marvinhagemeister",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1062408?v=4",
+  "htmlUrl": "https://github.com/marvinhagemeister",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 537,
+      "repoCountPrimary": 3,
+      "starsContains": 537,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "kolorist",
+          "fullName": "marvinhagemeister/kolorist",
+          "stars": 321,
+          "url": "https://github.com/marvinhagemeister/kolorist",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "smoldash",
+          "fullName": "marvinhagemeister/smoldash",
+          "stars": 109,
+          "url": "https://github.com/marvinhagemeister/smoldash",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "errorstacks",
+          "fullName": "marvinhagemeister/errorstacks",
+          "stars": 107,
+          "url": "https://github.com/marvinhagemeister/errorstacks",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "login": "tiagosiebler",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/14090872?v=4",
+  "htmlUrl": "https://github.com/tiagosiebler",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1549,
+      "repoCountPrimary": 4,
+      "starsContains": 1549,
+      "repoCountContains": 4,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "binance",
+          "fullName": "tiagosiebler/binance",
+          "stars": 924,
+          "url": "https://github.com/tiagosiebler/binance",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "bybit-api",
+          "fullName": "tiagosiebler/bybit-api",
+          "stars": 340,
+          "url": "https://github.com/tiagosiebler/bybit-api",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "okx-api",
+          "fullName": "tiagosiebler/okx-api",
+          "stars": 167,
+          "url": "https://github.com/tiagosiebler/okx-api",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ftx-api",
+          "fullName": "tiagosiebler/ftx-api",
+          "stars": 118,
+          "url": "https://github.com/tiagosiebler/ftx-api",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "login": "LHRUN",
+  "name": "Leo Song",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/51286284?v=4",
+  "htmlUrl": "https://github.com/LHRUN",
+  "location": "china",
+  "countryCode": "CN",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3206,
+      "repoCountPrimary": 3,
+      "starsContains": 3206,
+      "repoCountContains": 3,
+      "globalRank": 838,
+      "countryRank": 97,
+      "topRepos": [
+        {
+          "name": "paint-board",
+          "fullName": "LHRUN/paint-board",
+          "stars": 2620,
+          "url": "https://github.com/LHRUN/paint-board",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "bubble",
+          "fullName": "LHRUN/bubble",
+          "stars": 462,
+          "url": "https://github.com/LHRUN/bubble",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "one-space",
+          "fullName": "LHRUN/one-space",
+          "stars": 124,
+          "url": "https://github.com/LHRUN/one-space",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

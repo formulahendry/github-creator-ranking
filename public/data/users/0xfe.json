@@ -1,0 +1,34 @@
+{
+  "login": "0xfe",
+  "name": "Mohit Cheppudira",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/241299?v=4",
+  "htmlUrl": "https://github.com/0xfe",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 4319,
+      "repoCountPrimary": 1,
+      "starsContains": 4319,
+      "repoCountContains": 1,
+      "globalRank": 598,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vexflow",
+          "fullName": "0xfe/vexflow",
+          "stars": 4319,
+          "url": "https://github.com/0xfe/vexflow",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

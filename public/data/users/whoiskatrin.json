@@ -1,0 +1,41 @@
+{
+  "login": "whoiskatrin",
+  "name": "whoiskatrin",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/8017908?v=4",
+  "htmlUrl": "https://github.com/whoiskatrin",
+  "location": "London, UK",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 7896,
+      "repoCountPrimary": 2,
+      "starsContains": 7896,
+      "repoCountContains": 2,
+      "globalRank": 289,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "sql-translator",
+          "fullName": "whoiskatrin/sql-translator",
+          "stars": 4311,
+          "url": "https://github.com/whoiskatrin/sql-translator",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "chart-gpt",
+          "fullName": "whoiskatrin/chart-gpt",
+          "stars": 3585,
+          "url": "https://github.com/whoiskatrin/chart-gpt",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

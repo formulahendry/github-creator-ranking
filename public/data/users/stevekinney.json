@@ -1,0 +1,48 @@
+{
+  "login": "stevekinney",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/251000?v=4",
+  "htmlUrl": "https://github.com/stevekinney",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 671,
+      "repoCountPrimary": 3,
+      "starsContains": 671,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-and-typescript-projects",
+          "fullName": "stevekinney/react-and-typescript-projects",
+          "stars": 257,
+          "url": "https://github.com/stevekinney/react-and-typescript-projects",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "enterprise-ui-dev",
+          "fullName": "stevekinney/enterprise-ui-dev",
+          "stars": 235,
+          "url": "https://github.com/stevekinney/enterprise-ui-dev",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "octavian",
+          "fullName": "stevekinney/octavian",
+          "stars": 179,
+          "url": "https://github.com/stevekinney/octavian",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

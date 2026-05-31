@@ -1,0 +1,41 @@
+{
+  "login": "omgovich",
+  "name": "Vlad Shilov",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/206567?v=4",
+  "htmlUrl": "https://github.com/omgovich",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 5392,
+      "repoCountPrimary": 2,
+      "starsContains": 5392,
+      "repoCountContains": 2,
+      "globalRank": 459,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-colorful",
+          "fullName": "omgovich/react-colorful",
+          "stars": 3520,
+          "url": "https://github.com/omgovich/react-colorful",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "colord",
+          "fullName": "omgovich/colord",
+          "stars": 1872,
+          "url": "https://github.com/omgovich/colord",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

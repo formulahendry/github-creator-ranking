@@ -1,0 +1,34 @@
+{
+  "login": "aashari",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/4284487?v=4",
+  "htmlUrl": "https://github.com/aashari",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 150,
+      "repoCountPrimary": 1,
+      "starsContains": 150,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "mcp-server-atlassian-bitbucket",
+          "fullName": "aashari/mcp-server-atlassian-bitbucket",
+          "stars": 150,
+          "url": "https://github.com/aashari/mcp-server-atlassian-bitbucket",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

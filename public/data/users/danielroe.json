@@ -1,0 +1,62 @@
+{
+  "login": "danielroe",
+  "name": "Daniel Roe",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/28706372?v=4",
+  "htmlUrl": "https://github.com/danielroe",
+  "location": "Edinburgh, UK",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3757,
+      "repoCountPrimary": 14,
+      "starsContains": 3757,
+      "repoCountContains": 14,
+      "globalRank": 706,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "beasties",
+          "fullName": "danielroe/beasties",
+          "stars": 650,
+          "url": "https://github.com/danielroe/beasties",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "nuxt-workers",
+          "fullName": "danielroe/nuxt-workers",
+          "stars": 443,
+          "url": "https://github.com/danielroe/nuxt-workers",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "nuxt-vitest",
+          "fullName": "danielroe/nuxt-vitest",
+          "stars": 366,
+          "url": "https://github.com/danielroe/nuxt-vitest",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "typed-vuex",
+          "fullName": "danielroe/typed-vuex",
+          "stars": 352,
+          "url": "https://github.com/danielroe/typed-vuex",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "provenance-action",
+          "fullName": "danielroe/provenance-action",
+          "stars": 305,
+          "url": "https://github.com/danielroe/provenance-action",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

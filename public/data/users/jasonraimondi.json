@@ -1,0 +1,48 @@
+{
+  "login": "jasonraimondi",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5787967?v=4",
+  "htmlUrl": "https://github.com/jasonraimondi",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 663,
+      "repoCountPrimary": 3,
+      "starsContains": 663,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ts-oauth2-server",
+          "fullName": "jasonraimondi/ts-oauth2-server",
+          "stars": 306,
+          "url": "https://github.com/jasonraimondi/ts-oauth2-server",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "url-to-png",
+          "fullName": "jasonraimondi/url-to-png",
+          "stars": 247,
+          "url": "https://github.com/jasonraimondi/url-to-png",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "nextjs-jwt-example",
+          "fullName": "jasonraimondi/nextjs-jwt-example",
+          "stars": 110,
+          "url": "https://github.com/jasonraimondi/nextjs-jwt-example",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "Sophokles187",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/136248525?v=4",
+  "htmlUrl": "https://github.com/Sophokles187",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 137,
+      "repoCountPrimary": 1,
+      "starsContains": 137,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "data-cards",
+          "fullName": "Sophokles187/data-cards",
+          "stars": 137,
+          "url": "https://github.com/Sophokles187/data-cards",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

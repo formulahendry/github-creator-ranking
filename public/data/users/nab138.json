@@ -1,0 +1,41 @@
+{
+  "login": "nab138",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/56705177?v=4",
+  "htmlUrl": "https://github.com/nab138",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2565,
+      "repoCountPrimary": 2,
+      "starsContains": 2565,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "iloader",
+          "fullName": "nab138/iloader",
+          "stars": 1870,
+          "url": "https://github.com/nab138/iloader",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "CrossCode",
+          "fullName": "nab138/CrossCode",
+          "stars": 695,
+          "url": "https://github.com/nab138/CrossCode",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

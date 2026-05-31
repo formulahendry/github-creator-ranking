@@ -1,0 +1,34 @@
+{
+  "login": "s-panferov",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/198327?v=4",
+  "htmlUrl": "https://github.com/s-panferov",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2342,
+      "repoCountPrimary": 1,
+      "starsContains": 2342,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "awesome-typescript-loader",
+          "fullName": "s-panferov/awesome-typescript-loader",
+          "stars": 2342,
+          "url": "https://github.com/s-panferov/awesome-typescript-loader",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

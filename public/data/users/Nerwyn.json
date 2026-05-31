@@ -1,0 +1,48 @@
+{
+  "login": "Nerwyn",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/43071698?v=4",
+  "htmlUrl": "https://github.com/Nerwyn",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1129,
+      "repoCountPrimary": 3,
+      "starsContains": 1129,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "universal-remote-card",
+          "fullName": "Nerwyn/universal-remote-card",
+          "stars": 562,
+          "url": "https://github.com/Nerwyn/universal-remote-card",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "custom-card-features",
+          "fullName": "Nerwyn/custom-card-features",
+          "stars": 423,
+          "url": "https://github.com/Nerwyn/custom-card-features",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "material-you-utilities",
+          "fullName": "Nerwyn/material-you-utilities",
+          "stars": 144,
+          "url": "https://github.com/Nerwyn/material-you-utilities",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

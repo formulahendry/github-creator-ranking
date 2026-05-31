@@ -1,0 +1,41 @@
+{
+  "login": "pehlicd",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/65170388?v=4",
+  "htmlUrl": "https://github.com/pehlicd",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 546,
+      "repoCountPrimary": 2,
+      "starsContains": 546,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "rbac-wizard",
+          "fullName": "pehlicd/rbac-wizard",
+          "stars": 293,
+          "url": "https://github.com/pehlicd/rbac-wizard",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "crd-wizard",
+          "fullName": "pehlicd/crd-wizard",
+          "stars": 253,
+          "url": "https://github.com/pehlicd/crd-wizard",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "nebrius",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1141386?v=4",
+  "htmlUrl": "https://github.com/nebrius",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 756,
+      "repoCountPrimary": 2,
+      "starsContains": 756,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "raspi-io",
+          "fullName": "nebrius/raspi-io",
+          "stars": 548,
+          "url": "https://github.com/nebrius/raspi-io",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "raspi",
+          "fullName": "nebrius/raspi",
+          "stars": 208,
+          "url": "https://github.com/nebrius/raspi",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

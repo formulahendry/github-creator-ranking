@@ -1,0 +1,48 @@
+{
+  "login": "likaia",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/35120858?v=4",
+  "htmlUrl": "https://github.com/likaia",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1578,
+      "repoCountPrimary": 3,
+      "starsContains": 1578,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "js-screen-shot",
+          "fullName": "likaia/js-screen-shot",
+          "stars": 985,
+          "url": "https://github.com/likaia/js-screen-shot",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "screen-shot",
+          "fullName": "likaia/screen-shot",
+          "stars": 372,
+          "url": "https://github.com/likaia/screen-shot",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vue-native-websocket-vue3",
+          "fullName": "likaia/vue-native-websocket-vue3",
+          "stars": 221,
+          "url": "https://github.com/likaia/vue-native-websocket-vue3",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

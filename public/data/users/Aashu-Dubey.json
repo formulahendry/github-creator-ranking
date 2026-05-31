@@ -1,0 +1,48 @@
+{
+  "login": "Aashu-Dubey",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/46301285?v=4",
+  "htmlUrl": "https://github.com/Aashu-Dubey",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1874,
+      "repoCountPrimary": 3,
+      "starsContains": 1874,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "React-Native-UI-Templates",
+          "fullName": "Aashu-Dubey/React-Native-UI-Templates",
+          "stars": 1445,
+          "url": "https://github.com/Aashu-Dubey/React-Native-UI-Templates",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-native-animation-samples",
+          "fullName": "Aashu-Dubey/react-native-animation-samples",
+          "stars": 319,
+          "url": "https://github.com/Aashu-Dubey/react-native-animation-samples",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Ionic-UI-Templates",
+          "fullName": "Aashu-Dubey/Ionic-UI-Templates",
+          "stars": 110,
+          "url": "https://github.com/Aashu-Dubey/Ionic-UI-Templates",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

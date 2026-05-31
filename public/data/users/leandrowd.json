@@ -1,0 +1,34 @@
+{
+  "login": "leandrowd",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/165005?v=4",
+  "htmlUrl": "https://github.com/leandrowd",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2676,
+      "repoCountPrimary": 1,
+      "starsContains": 2676,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-responsive-carousel",
+          "fullName": "leandrowd/react-responsive-carousel",
+          "stars": 2676,
+          "url": "https://github.com/leandrowd/react-responsive-carousel",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

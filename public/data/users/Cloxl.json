@@ -1,0 +1,34 @@
+{
+  "login": "Cloxl",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/88774611?v=4",
+  "htmlUrl": "https://github.com/Cloxl",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 697,
+      "repoCountPrimary": 1,
+      "starsContains": 697,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "CursorPool_Client",
+          "fullName": "Cloxl/CursorPool_Client",
+          "stars": 697,
+          "url": "https://github.com/Cloxl/CursorPool_Client",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

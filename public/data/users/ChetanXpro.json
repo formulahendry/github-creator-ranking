@@ -1,0 +1,41 @@
+{
+  "login": "ChetanXpro",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/107798155?v=4",
+  "htmlUrl": "https://github.com/ChetanXpro",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 385,
+      "repoCountPrimary": 2,
+      "starsContains": 385,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "nodejs-whisper",
+          "fullName": "ChetanXpro/nodejs-whisper",
+          "stars": 209,
+          "url": "https://github.com/ChetanXpro/nodejs-whisper",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "short-video-automation",
+          "fullName": "ChetanXpro/short-video-automation",
+          "stars": 176,
+          "url": "https://github.com/ChetanXpro/short-video-automation",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

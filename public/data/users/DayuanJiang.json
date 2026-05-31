@@ -1,11 +1,11 @@
 {
   "login": "DayuanJiang",
-  "name": null,
+  "name": "Dayuan Jiang",
   "avatarUrl": "https://avatars.githubusercontent.com/u/34411969?v=4",
   "htmlUrl": "https://github.com/DayuanJiang",
-  "location": null,
+  "location": "Tokyo",
   "countryCode": null,
-  "generatedAt": "2026-05-31T13:50:40.799Z",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
   "isPartial": true,
   "languages": [
     {
@@ -14,17 +14,17 @@
         "name": "TypeScript",
         "githubQuery": "TypeScript"
       },
-      "starsPrimary": 30519,
+      "starsPrimary": 30538,
       "repoCountPrimary": 1,
-      "starsContains": 30519,
+      "starsContains": 30538,
       "repoCountContains": 1,
-      "globalRank": null,
+      "globalRank": 43,
       "countryRank": null,
       "topRepos": [
         {
           "name": "next-ai-draw-io",
           "fullName": "DayuanJiang/next-ai-draw-io",
-          "stars": 30519,
+          "stars": 30538,
           "url": "https://github.com/DayuanJiang/next-ai-draw-io",
           "primaryLanguage": "TypeScript"
         }

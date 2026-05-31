@@ -1,0 +1,41 @@
+{
+  "login": "nick-fields",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/46869826?v=4",
+  "htmlUrl": "https://github.com/nick-fields",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 724,
+      "repoCountPrimary": 2,
+      "starsContains": 724,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "retry",
+          "fullName": "nick-fields/retry",
+          "stars": 553,
+          "url": "https://github.com/nick-fields/retry",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "private-action-loader",
+          "fullName": "nick-fields/private-action-loader",
+          "stars": 171,
+          "url": "https://github.com/nick-fields/private-action-loader",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

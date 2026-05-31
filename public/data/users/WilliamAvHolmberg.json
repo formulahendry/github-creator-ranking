@@ -1,0 +1,41 @@
+{
+  "login": "WilliamAvHolmberg",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/30773487?v=4",
+  "htmlUrl": "https://github.com/WilliamAvHolmberg",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 825,
+      "repoCountPrimary": 2,
+      "starsContains": 825,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "glenn-explore",
+          "fullName": "WilliamAvHolmberg/glenn-explore",
+          "stars": 435,
+          "url": "https://github.com/WilliamAvHolmberg/glenn-explore",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "cesium-flight-simulator",
+          "fullName": "WilliamAvHolmberg/cesium-flight-simulator",
+          "stars": 390,
+          "url": "https://github.com/WilliamAvHolmberg/cesium-flight-simulator",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

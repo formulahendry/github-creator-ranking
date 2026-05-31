@@ -1,0 +1,48 @@
+{
+  "login": "stalniy",
+  "name": "Serhii Stotskyi",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1159966?v=4",
+  "htmlUrl": "https://github.com/stalniy",
+  "location": "Ukraine, Kyiv",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 7328,
+      "repoCountPrimary": 3,
+      "starsContains": 7328,
+      "repoCountContains": 3,
+      "globalRank": 312,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "casl",
+          "fullName": "stalniy/casl",
+          "stars": 6945,
+          "url": "https://github.com/stalniy/casl",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ucast",
+          "fullName": "stalniy/ucast",
+          "stars": 261,
+          "url": "https://github.com/stalniy/ucast",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "casl-examples",
+          "fullName": "stalniy/casl-examples",
+          "stars": 122,
+          "url": "https://github.com/stalniy/casl-examples",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "login": "remorses",
+  "name": "Tommy D. Rossi",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/31321188?v=4",
+  "htmlUrl": "https://github.com/remorses",
+  "location": "italy",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 7330,
+      "repoCountPrimary": 16,
+      "starsContains": 7330,
+      "repoCountContains": 16,
+      "globalRank": 311,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "critique",
+          "fullName": "remorses/critique",
+          "stars": 1219,
+          "url": "https://github.com/remorses/critique",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "kimaki",
+          "fullName": "remorses/kimaki",
+          "stars": 1155,
+          "url": "https://github.com/remorses/kimaki",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "genql",
+          "fullName": "remorses/genql",
+          "stars": 968,
+          "url": "https://github.com/remorses/genql",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "tuitube",
+          "fullName": "remorses/tuitube",
+          "stars": 782,
+          "url": "https://github.com/remorses/tuitube",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "holocron",
+          "fullName": "remorses/holocron",
+          "stars": 678,
+          "url": "https://github.com/remorses/holocron",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

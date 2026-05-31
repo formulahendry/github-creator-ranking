@@ -1,0 +1,41 @@
+{
+  "login": "davidyaha",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2580920?v=4",
+  "htmlUrl": "https://github.com/davidyaha",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1269,
+      "repoCountPrimary": 2,
+      "starsContains": 1269,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "graphql-redis-subscriptions",
+          "fullName": "davidyaha/graphql-redis-subscriptions",
+          "stars": 1120,
+          "url": "https://github.com/davidyaha/graphql-redis-subscriptions",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "graphql-mqtt-subscriptions",
+          "fullName": "davidyaha/graphql-mqtt-subscriptions",
+          "stars": 149,
+          "url": "https://github.com/davidyaha/graphql-mqtt-subscriptions",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

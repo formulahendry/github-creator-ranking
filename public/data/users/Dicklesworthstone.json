@@ -1,0 +1,41 @@
+{
+  "login": "Dicklesworthstone",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/35050222?v=4",
+  "htmlUrl": "https://github.com/Dicklesworthstone",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 477,
+      "repoCountPrimary": 2,
+      "starsContains": 477,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "cass_memory_system",
+          "fullName": "Dicklesworthstone/cass_memory_system",
+          "stars": 370,
+          "url": "https://github.com/Dicklesworthstone/cass_memory_system",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "jeffreysprompts.com",
+          "fullName": "Dicklesworthstone/jeffreysprompts.com",
+          "stars": 107,
+          "url": "https://github.com/Dicklesworthstone/jeffreysprompts.com",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

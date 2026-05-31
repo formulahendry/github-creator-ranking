@@ -1,0 +1,34 @@
+{
+  "login": "ikismail",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/17190913?v=4",
+  "htmlUrl": "https://github.com/ikismail",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 620,
+      "repoCountPrimary": 1,
+      "starsContains": 620,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Angular-ShoppingCart",
+          "fullName": "ikismail/Angular-ShoppingCart",
+          "stars": 620,
+          "url": "https://github.com/ikismail/Angular-ShoppingCart",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

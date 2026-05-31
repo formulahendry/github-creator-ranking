@@ -1,0 +1,34 @@
+{
+  "login": "rafaelalmeidatk",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/11896398?v=4",
+  "htmlUrl": "https://github.com/rafaelalmeidatk",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 189,
+      "repoCountPrimary": 1,
+      "starsContains": 189,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "nextjs-forum",
+          "fullName": "rafaelalmeidatk/nextjs-forum",
+          "stars": 189,
+          "url": "https://github.com/rafaelalmeidatk/nextjs-forum",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "login": "ZHO-ZHO-ZHO",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/140084057?v=4",
+  "htmlUrl": "https://github.com/ZHO-ZHO-ZHO",
+  "location": "China",
+  "countryCode": "CN",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2924,
+      "repoCountPrimary": 4,
+      "starsContains": 2924,
+      "repoCountContains": 4,
+      "globalRank": 922,
+      "countryRank": 112,
+      "topRepos": [
+        {
+          "name": "Nano-Bananary",
+          "fullName": "ZHO-ZHO-ZHO/Nano-Bananary",
+          "stars": 1851,
+          "url": "https://github.com/ZHO-ZHO-ZHO/Nano-Bananary",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "BananaFace",
+          "fullName": "ZHO-ZHO-ZHO/BananaFace",
+          "stars": 378,
+          "url": "https://github.com/ZHO-ZHO-ZHO/BananaFace",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "BananaFlow-ZHO",
+          "fullName": "ZHO-ZHO-ZHO/BananaFlow-ZHO",
+          "stars": 378,
+          "url": "https://github.com/ZHO-ZHO-ZHO/BananaFlow-ZHO",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "BananaPod",
+          "fullName": "ZHO-ZHO-ZHO/BananaPod",
+          "stars": 317,
+          "url": "https://github.com/ZHO-ZHO-ZHO/BananaPod",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

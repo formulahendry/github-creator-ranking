@@ -1,0 +1,55 @@
+{
+  "login": "Specy",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/59029985?v=4",
+  "htmlUrl": "https://github.com/Specy",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 834,
+      "repoCountPrimary": 4,
+      "starsContains": 834,
+      "repoCountContains": 4,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "asm-editor",
+          "fullName": "Specy/asm-editor",
+          "stars": 305,
+          "url": "https://github.com/Specy/asm-editor",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "genshin-music",
+          "fullName": "Specy/genshin-music",
+          "stars": 193,
+          "url": "https://github.com/Specy/genshin-music",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Scapix",
+          "fullName": "Specy/Scapix",
+          "stars": 191,
+          "url": "https://github.com/Specy/Scapix",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "liquid-glass",
+          "fullName": "Specy/liquid-glass",
+          "stars": 145,
+          "url": "https://github.com/Specy/liquid-glass",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

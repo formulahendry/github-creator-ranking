@@ -1,0 +1,48 @@
+{
+  "login": "pilcrowonpaper",
+  "name": "pilcrow",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/80624252?v=4",
+  "htmlUrl": "https://github.com/pilcrowonpaper",
+  "location": "Tokyo, Japan",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2960,
+      "repoCountPrimary": 3,
+      "starsContains": 2960,
+      "repoCountContains": 3,
+      "globalRank": 911,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "arctic",
+          "fullName": "pilcrowonpaper/arctic",
+          "stars": 1700,
+          "url": "https://github.com/pilcrowonpaper/arctic",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "oslo",
+          "fullName": "pilcrowonpaper/oslo",
+          "stars": 1156,
+          "url": "https://github.com/pilcrowonpaper/oslo",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "lucia-adapter-astrodb",
+          "fullName": "pilcrowonpaper/lucia-adapter-astrodb",
+          "stars": 104,
+          "url": "https://github.com/pilcrowonpaper/lucia-adapter-astrodb",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

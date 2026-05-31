@@ -1,0 +1,41 @@
+{
+  "login": "justadudewhohacks",
+  "name": "Vincent Mühler",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/31125521?v=4",
+  "htmlUrl": "https://github.com/justadudewhohacks",
+  "location": "Berlin, Germany",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 18008,
+      "repoCountPrimary": 2,
+      "starsContains": 18008,
+      "repoCountContains": 2,
+      "globalRank": 104,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "face-api.js",
+          "fullName": "justadudewhohacks/face-api.js",
+          "stars": 17862,
+          "url": "https://github.com/justadudewhohacks/face-api.js",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "tfjs-tiny-yolov2",
+          "fullName": "justadudewhohacks/tfjs-tiny-yolov2",
+          "stars": 146,
+          "url": "https://github.com/justadudewhohacks/tfjs-tiny-yolov2",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

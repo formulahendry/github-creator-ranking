@@ -1,0 +1,41 @@
+{
+  "login": "bashleigh",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/11574250?v=4",
+  "htmlUrl": "https://github.com/bashleigh",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 501,
+      "repoCountPrimary": 2,
+      "starsContains": 501,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "nestjs-blog",
+          "fullName": "bashleigh/nestjs-blog",
+          "stars": 294,
+          "url": "https://github.com/bashleigh/nestjs-blog",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "typeorm-polymorphic",
+          "fullName": "bashleigh/typeorm-polymorphic",
+          "stars": 207,
+          "url": "https://github.com/bashleigh/typeorm-polymorphic",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

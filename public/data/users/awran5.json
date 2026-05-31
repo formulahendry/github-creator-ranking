@@ -1,0 +1,41 @@
+{
+  "login": "awran5",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/29696923?v=4",
+  "htmlUrl": "https://github.com/awran5",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 284,
+      "repoCountPrimary": 2,
+      "starsContains": 284,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-simple-star-rating",
+          "fullName": "awran5/react-simple-star-rating",
+          "stars": 147,
+          "url": "https://github.com/awran5/react-simple-star-rating",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-simple-typewriter",
+          "fullName": "awran5/react-simple-typewriter",
+          "stars": 137,
+          "url": "https://github.com/awran5/react-simple-typewriter",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

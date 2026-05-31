@@ -1,0 +1,41 @@
+{
+  "login": "iway1",
+  "name": "Isaac Way",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/12774588?v=4",
+  "htmlUrl": "https://github.com/iway1",
+  "location": "Kingsport, TN",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2776,
+      "repoCountPrimary": 2,
+      "starsContains": 2776,
+      "repoCountContains": 2,
+      "globalRank": 964,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-ts-form",
+          "fullName": "iway1/react-ts-form",
+          "stars": 2044,
+          "url": "https://github.com/iway1/react-ts-form",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "trpc-panel",
+          "fullName": "iway1/trpc-panel",
+          "stars": 732,
+          "url": "https://github.com/iway1/trpc-panel",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

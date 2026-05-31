@@ -1,0 +1,34 @@
+{
+  "login": "wing-kai",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/9555713?v=4",
+  "htmlUrl": "https://github.com/wing-kai",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 277,
+      "repoCountPrimary": 1,
+      "starsContains": 277,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "epub-manga-creator",
+          "fullName": "wing-kai/epub-manga-creator",
+          "stars": 277,
+          "url": "https://github.com/wing-kai/epub-manga-creator",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

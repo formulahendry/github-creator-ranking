@@ -1,0 +1,41 @@
+{
+  "login": "mraible",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/17892?v=4",
+  "htmlUrl": "https://github.com/mraible",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 484,
+      "repoCountPrimary": 2,
+      "starsContains": 484,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "21-points",
+          "fullName": "mraible/21-points",
+          "stars": 299,
+          "url": "https://github.com/mraible/21-points",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ng-demo",
+          "fullName": "mraible/ng-demo",
+          "stars": 185,
+          "url": "https://github.com/mraible/ng-demo",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

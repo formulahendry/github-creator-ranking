@@ -1,0 +1,34 @@
+{
+  "login": "sanyok12345",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/105932597?v=4",
+  "htmlUrl": "https://github.com/sanyok12345",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 323,
+      "repoCountPrimary": 1,
+      "starsContains": 323,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "teleproto",
+          "fullName": "sanyok12345/teleproto",
+          "stars": 323,
+          "url": "https://github.com/sanyok12345/teleproto",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

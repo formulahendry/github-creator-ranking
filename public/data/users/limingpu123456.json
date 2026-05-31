@@ -1,0 +1,41 @@
+{
+  "login": "limingpu123456",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/76731246?v=4",
+  "htmlUrl": "https://github.com/limingpu123456",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 224,
+      "repoCountPrimary": 2,
+      "starsContains": 224,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "FileMaster",
+          "fullName": "limingpu123456/FileMaster",
+          "stars": 114,
+          "url": "https://github.com/limingpu123456/FileMaster",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Index-Web",
+          "fullName": "limingpu123456/Index-Web",
+          "stars": 110,
+          "url": "https://github.com/limingpu123456/Index-Web",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

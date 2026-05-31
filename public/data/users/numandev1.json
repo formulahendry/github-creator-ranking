@@ -1,0 +1,41 @@
+{
+  "login": "numandev1",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/36044436?v=4",
+  "htmlUrl": "https://github.com/numandev1",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 634,
+      "repoCountPrimary": 2,
+      "starsContains": 634,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-native-decompiler",
+          "fullName": "numandev1/react-native-decompiler",
+          "stars": 361,
+          "url": "https://github.com/numandev1/react-native-decompiler",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-native-bottomsheet-reanimated",
+          "fullName": "numandev1/react-native-bottomsheet-reanimated",
+          "stars": 273,
+          "url": "https://github.com/numandev1/react-native-bottomsheet-reanimated",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

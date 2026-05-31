@@ -1,0 +1,34 @@
+{
+  "login": "avitorio",
+  "name": "Andre Vitorio",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1417109?v=4",
+  "htmlUrl": "https://github.com/avitorio",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3134,
+      "repoCountPrimary": 1,
+      "starsContains": 3134,
+      "repoCountContains": 1,
+      "globalRank": 861,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "outstatic",
+          "fullName": "avitorio/outstatic",
+          "stars": 3134,
+          "url": "https://github.com/avitorio/outstatic",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

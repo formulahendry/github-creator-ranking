@@ -1,0 +1,62 @@
+{
+  "login": "windingwind",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/33902321?v=4",
+  "htmlUrl": "https://github.com/windingwind",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 24158,
+      "repoCountPrimary": 7,
+      "starsContains": 24158,
+      "repoCountContains": 7,
+      "globalRank": 65,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "zotero-pdf-translate",
+          "fullName": "windingwind/zotero-pdf-translate",
+          "stars": 10992,
+          "url": "https://github.com/windingwind/zotero-pdf-translate",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "zotero-better-notes",
+          "fullName": "windingwind/zotero-better-notes",
+          "stars": 7823,
+          "url": "https://github.com/windingwind/zotero-better-notes",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "zotero-actions-tags",
+          "fullName": "windingwind/zotero-actions-tags",
+          "stars": 2696,
+          "url": "https://github.com/windingwind/zotero-actions-tags",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "zotero-pdf-preview",
+          "fullName": "windingwind/zotero-pdf-preview",
+          "stars": 1256,
+          "url": "https://github.com/windingwind/zotero-pdf-preview",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "zotero-plugin-template",
+          "fullName": "windingwind/zotero-plugin-template",
+          "stars": 824,
+          "url": "https://github.com/windingwind/zotero-plugin-template",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

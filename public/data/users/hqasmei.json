@@ -1,0 +1,41 @@
+{
+  "login": "hqasmei",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/39573679?v=4",
+  "htmlUrl": "https://github.com/hqasmei",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 247,
+      "repoCountPrimary": 2,
+      "starsContains": 247,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "youtube-tutorials",
+          "fullName": "hqasmei/youtube-tutorials",
+          "stars": 131,
+          "url": "https://github.com/hqasmei/youtube-tutorials",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "tailwindcss-and-nextjs-portfolio",
+          "fullName": "hqasmei/tailwindcss-and-nextjs-portfolio",
+          "stars": 116,
+          "url": "https://github.com/hqasmei/tailwindcss-and-nextjs-portfolio",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

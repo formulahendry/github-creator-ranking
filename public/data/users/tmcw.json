@@ -1,0 +1,41 @@
+{
+  "login": "tmcw",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/32314?v=4",
+  "htmlUrl": "https://github.com/tmcw",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 302,
+      "repoCountPrimary": 2,
+      "starsContains": 302,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "gedcom",
+          "fullName": "tmcw/gedcom",
+          "stars": 186,
+          "url": "https://github.com/tmcw/gedcom",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "notfoundbot",
+          "fullName": "tmcw/notfoundbot",
+          "stars": 116,
+          "url": "https://github.com/tmcw/notfoundbot",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

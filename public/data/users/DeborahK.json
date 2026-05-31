@@ -1,0 +1,62 @@
+{
+  "login": "DeborahK",
+  "name": "Deborah Kurata",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7987365?v=4",
+  "htmlUrl": "https://github.com/DeborahK",
+  "location": "San Francisco/Silicon Valley, CA",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 4867,
+      "repoCountPrimary": 9,
+      "starsContains": 4867,
+      "repoCountContains": 9,
+      "globalRank": 522,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Angular-GettingStarted",
+          "fullName": "DeborahK/Angular-GettingStarted",
+          "stars": 2553,
+          "url": "https://github.com/DeborahK/Angular-GettingStarted",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Angular-NgRx-GettingStarted",
+          "fullName": "DeborahK/Angular-NgRx-GettingStarted",
+          "stars": 538,
+          "url": "https://github.com/DeborahK/Angular-NgRx-GettingStarted",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Angular-RxJS",
+          "fullName": "DeborahK/Angular-RxJS",
+          "stars": 536,
+          "url": "https://github.com/DeborahK/Angular-RxJS",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Angular-ReactiveForms",
+          "fullName": "DeborahK/Angular-ReactiveForms",
+          "stars": 482,
+          "url": "https://github.com/DeborahK/Angular-ReactiveForms",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Angular-Routing",
+          "fullName": "DeborahK/Angular-Routing",
+          "stars": 303,
+          "url": "https://github.com/DeborahK/Angular-Routing",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "login": "rphlmr",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/20722140?v=4",
+  "htmlUrl": "https://github.com/rphlmr",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1489,
+      "repoCountPrimary": 6,
+      "starsContains": 1489,
+      "repoCountContains": 6,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-router-hono-server",
+          "fullName": "rphlmr/react-router-hono-server",
+          "stars": 430,
+          "url": "https://github.com/rphlmr/react-router-hono-server",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "supa-fly-stack",
+          "fullName": "rphlmr/supa-fly-stack",
+          "stars": 330,
+          "url": "https://github.com/rphlmr/supa-fly-stack",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "drizzle-lab",
+          "fullName": "rphlmr/drizzle-lab",
+          "stars": 329,
+          "url": "https://github.com/rphlmr/drizzle-lab",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "supa-stripe-stack",
+          "fullName": "rphlmr/supa-stripe-stack",
+          "stars": 149,
+          "url": "https://github.com/rphlmr/supa-stripe-stack",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "remix-hono-vite",
+          "fullName": "rphlmr/remix-hono-vite",
+          "stars": 140,
+          "url": "https://github.com/rphlmr/remix-hono-vite",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

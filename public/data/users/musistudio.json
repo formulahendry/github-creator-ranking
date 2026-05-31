@@ -1,0 +1,41 @@
+{
+  "login": "musistudio",
+  "name": "musi",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/21162426?v=4",
+  "htmlUrl": "https://github.com/musistudio",
+  "location": "Hangzhou",
+  "countryCode": "CN",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 34882,
+      "repoCountPrimary": 2,
+      "starsContains": 34882,
+      "repoCountContains": 2,
+      "globalRank": 37,
+      "countryRank": 2,
+      "topRepos": [
+        {
+          "name": "claude-code-router",
+          "fullName": "musistudio/claude-code-router",
+          "stars": 34578,
+          "url": "https://github.com/musistudio/claude-code-router",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "llms",
+          "fullName": "musistudio/llms",
+          "stars": 304,
+          "url": "https://github.com/musistudio/llms",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

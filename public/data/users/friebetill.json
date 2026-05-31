@@ -1,0 +1,34 @@
+{
+  "login": "friebetill",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/10923085?v=4",
+  "htmlUrl": "https://github.com/friebetill",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 176,
+      "repoCountPrimary": 1,
+      "starsContains": 176,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "obsidian-file-diff",
+          "fullName": "friebetill/obsidian-file-diff",
+          "stars": 176,
+          "url": "https://github.com/friebetill/obsidian-file-diff",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

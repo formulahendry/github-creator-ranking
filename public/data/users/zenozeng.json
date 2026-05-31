@@ -1,0 +1,41 @@
+{
+  "login": "zenozeng",
+  "name": "Zeno Zeng",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2544489?v=4",
+  "htmlUrl": "https://github.com/zenozeng",
+  "location": "Hangzhou, Zhejiang, China",
+  "countryCode": "CN",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2831,
+      "repoCountPrimary": 2,
+      "starsContains": 2831,
+      "repoCountContains": 2,
+      "globalRank": 942,
+      "countryRank": 113,
+      "topRepos": [
+        {
+          "name": "fonts.css",
+          "fullName": "zenozeng/fonts.css",
+          "stars": 2096,
+          "url": "https://github.com/zenozeng/fonts.css",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "color-hash",
+          "fullName": "zenozeng/color-hash",
+          "stars": 735,
+          "url": "https://github.com/zenozeng/color-hash",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

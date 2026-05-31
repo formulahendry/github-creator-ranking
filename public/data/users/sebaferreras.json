@@ -1,0 +1,34 @@
+{
+  "login": "sebaferreras",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/17194770?v=4",
+  "htmlUrl": "https://github.com/sebaferreras",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 135,
+      "repoCountPrimary": 1,
+      "starsContains": 135,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Ionic3-MultiLevelSideMenu",
+          "fullName": "sebaferreras/Ionic3-MultiLevelSideMenu",
+          "stars": 135,
+          "url": "https://github.com/sebaferreras/Ionic3-MultiLevelSideMenu",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

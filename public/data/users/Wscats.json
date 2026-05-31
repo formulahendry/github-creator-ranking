@@ -1,0 +1,55 @@
+{
+  "login": "Wscats",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/17243165?v=4",
+  "htmlUrl": "https://github.com/Wscats",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 774,
+      "repoCountPrimary": 4,
+      "starsContains": 774,
+      "repoCountContains": 4,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "compile-hero",
+          "fullName": "Wscats/compile-hero",
+          "stars": 266,
+          "url": "https://github.com/Wscats/compile-hero",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "browser-preview",
+          "fullName": "Wscats/browser-preview",
+          "stars": 204,
+          "url": "https://github.com/Wscats/browser-preview",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "search-online",
+          "fullName": "Wscats/search-online",
+          "stars": 167,
+          "url": "https://github.com/Wscats/search-online",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "create-angular-app",
+          "fullName": "Wscats/create-angular-app",
+          "stars": 137,
+          "url": "https://github.com/Wscats/create-angular-app",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

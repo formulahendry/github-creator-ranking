@@ -1,0 +1,41 @@
+{
+  "login": "ajafff",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/11968040?v=4",
+  "htmlUrl": "https://github.com/ajafff",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 543,
+      "repoCountPrimary": 2,
+      "starsContains": 543,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "tsutils",
+          "fullName": "ajafff/tsutils",
+          "stars": 331,
+          "url": "https://github.com/ajafff/tsutils",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "tslint-consistent-codestyle",
+          "fullName": "ajafff/tslint-consistent-codestyle",
+          "stars": 212,
+          "url": "https://github.com/ajafff/tslint-consistent-codestyle",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "login": "m1guelpf",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/23558090?v=4",
+  "htmlUrl": "https://github.com/m1guelpf",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 933,
+      "repoCountPrimary": 3,
+      "starsContains": 933,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "dapp-starter",
+          "fullName": "m1guelpf/dapp-starter",
+          "stars": 403,
+          "url": "https://github.com/m1guelpf/dapp-starter",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "armchair",
+          "fullName": "m1guelpf/armchair",
+          "stars": 388,
+          "url": "https://github.com/m1guelpf/armchair",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "mirror-next",
+          "fullName": "m1guelpf/mirror-next",
+          "stars": 142,
+          "url": "https://github.com/m1guelpf/mirror-next",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

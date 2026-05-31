@@ -1,0 +1,41 @@
+{
+  "login": "mary-ext",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/148872143?v=4",
+  "htmlUrl": "https://github.com/mary-ext",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 662,
+      "repoCountPrimary": 2,
+      "starsContains": 662,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "atcute",
+          "fullName": "mary-ext/atcute",
+          "stars": 484,
+          "url": "https://github.com/mary-ext/atcute",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "atproto-scraping",
+          "fullName": "mary-ext/atproto-scraping",
+          "stars": 178,
+          "url": "https://github.com/mary-ext/atproto-scraping",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

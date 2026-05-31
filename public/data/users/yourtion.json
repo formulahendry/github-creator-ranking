@@ -1,0 +1,41 @@
+{
+  "login": "yourtion",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1475301?v=4",
+  "htmlUrl": "https://github.com/yourtion",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 679,
+      "repoCountPrimary": 2,
+      "starsContains": 679,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vue-json-ui-editor",
+          "fullName": "yourtion/vue-json-ui-editor",
+          "stars": 527,
+          "url": "https://github.com/yourtion/vue-json-ui-editor",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "node-ip2region",
+          "fullName": "yourtion/node-ip2region",
+          "stars": 152,
+          "url": "https://github.com/yourtion/node-ip2region",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

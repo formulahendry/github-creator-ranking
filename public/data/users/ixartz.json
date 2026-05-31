@@ -1,0 +1,62 @@
+{
+  "login": "ixartz",
+  "name": "Remi Wg",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5209935?v=4",
+  "htmlUrl": "https://github.com/ixartz",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 24405,
+      "repoCountPrimary": 6,
+      "starsContains": 24405,
+      "repoCountContains": 6,
+      "globalRank": 62,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Next-js-Boilerplate",
+          "fullName": "ixartz/Next-js-Boilerplate",
+          "stars": 12962,
+          "url": "https://github.com/ixartz/Next-js-Boilerplate",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "SaaS-Boilerplate",
+          "fullName": "ixartz/SaaS-Boilerplate",
+          "stars": 7143,
+          "url": "https://github.com/ixartz/SaaS-Boilerplate",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Next-JS-Landing-Page-Starter-Template",
+          "fullName": "ixartz/Next-JS-Landing-Page-Starter-Template",
+          "stars": 2124,
+          "url": "https://github.com/ixartz/Next-JS-Landing-Page-Starter-Template",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Astro-boilerplate",
+          "fullName": "ixartz/Astro-boilerplate",
+          "stars": 914,
+          "url": "https://github.com/ixartz/Astro-boilerplate",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Next-js-Blog-Boilerplate",
+          "fullName": "ixartz/Next-js-Blog-Boilerplate",
+          "stars": 692,
+          "url": "https://github.com/ixartz/Next-js-Blog-Boilerplate",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

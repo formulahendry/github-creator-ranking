@@ -1,0 +1,55 @@
+{
+  "login": "stemmlerjs",
+  "name": "Khalil Stemmler",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6892666?v=4",
+  "htmlUrl": "https://github.com/stemmlerjs",
+  "location": "Toronto, ON",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 4777,
+      "repoCountPrimary": 4,
+      "starsContains": 4777,
+      "repoCountContains": 4,
+      "globalRank": 536,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ddd-forum",
+          "fullName": "stemmlerjs/ddd-forum",
+          "stars": 2087,
+          "url": "https://github.com/stemmlerjs/ddd-forum",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "white-label",
+          "fullName": "stemmlerjs/white-label",
+          "stars": 1517,
+          "url": "https://github.com/stemmlerjs/white-label",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "simple-typescript-starter",
+          "fullName": "stemmlerjs/simple-typescript-starter",
+          "stars": 1027,
+          "url": "https://github.com/stemmlerjs/simple-typescript-starter",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "solid-email-microservice",
+          "fullName": "stemmlerjs/solid-email-microservice",
+          "stars": 146,
+          "url": "https://github.com/stemmlerjs/solid-email-microservice",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

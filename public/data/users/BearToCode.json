@@ -1,0 +1,34 @@
+{
+  "login": "BearToCode",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/47280851?v=4",
+  "htmlUrl": "https://github.com/BearToCode",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 755,
+      "repoCountPrimary": 1,
+      "starsContains": 755,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "carta",
+          "fullName": "BearToCode/carta",
+          "stars": 755,
+          "url": "https://github.com/BearToCode/carta",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

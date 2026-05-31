@@ -1,0 +1,34 @@
+{
+  "login": "mapembert",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2273230?v=4",
+  "htmlUrl": "https://github.com/mapembert",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 119,
+      "repoCountPrimary": 1,
+      "starsContains": 119,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "bolt.new-any-llm",
+          "fullName": "mapembert/bolt.new-any-llm",
+          "stars": 119,
+          "url": "https://github.com/mapembert/bolt.new-any-llm",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

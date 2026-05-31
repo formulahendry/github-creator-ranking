@@ -1,0 +1,34 @@
+{
+  "login": "shivammathur",
+  "name": "Shivam Mathur",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1571086?v=4",
+  "htmlUrl": "https://github.com/shivammathur",
+  "location": "India",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3222,
+      "repoCountPrimary": 1,
+      "starsContains": 3222,
+      "repoCountContains": 1,
+      "globalRank": 837,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "setup-php",
+          "fullName": "shivammathur/setup-php",
+          "stars": 3222,
+          "url": "https://github.com/shivammathur/setup-php",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

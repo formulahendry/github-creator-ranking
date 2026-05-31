@@ -1,11 +1,11 @@
 {
   "login": "pubkey",
-  "name": null,
+  "name": "Daniel Meyer",
   "avatarUrl": "https://avatars.githubusercontent.com/u/8926560?v=4",
   "htmlUrl": "https://github.com/pubkey",
-  "location": null,
+  "location": "Stuttgart, Germany",
   "countryCode": null,
-  "generatedAt": "2026-05-31T13:50:40.799Z",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
   "isPartial": true,
   "languages": [
     {
@@ -14,18 +14,39 @@
         "name": "TypeScript",
         "githubQuery": "TypeScript"
       },
-      "starsPrimary": 23211,
-      "repoCountPrimary": 1,
-      "starsContains": 23211,
-      "repoCountContains": 1,
-      "globalRank": null,
+      "starsPrimary": 24962,
+      "repoCountPrimary": 4,
+      "starsContains": 24962,
+      "repoCountContains": 4,
+      "globalRank": 61,
       "countryRank": null,
       "topRepos": [
         {
           "name": "rxdb",
           "fullName": "pubkey/rxdb",
-          "stars": 23211,
+          "stars": 23212,
           "url": "https://github.com/pubkey/rxdb",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "client-side-databases",
+          "fullName": "pubkey/client-side-databases",
+          "stars": 896,
+          "url": "https://github.com/pubkey/client-side-databases",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "event-reduce",
+          "fullName": "pubkey/event-reduce",
+          "stars": 754,
+          "url": "https://github.com/pubkey/event-reduce",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "jsonschema-key-compression",
+          "fullName": "pubkey/jsonschema-key-compression",
+          "stars": 100,
+          "url": "https://github.com/pubkey/jsonschema-key-compression",
           "primaryLanguage": "TypeScript"
         }
       ]

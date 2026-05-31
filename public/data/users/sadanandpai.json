@@ -1,0 +1,48 @@
+{
+  "login": "sadanandpai",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/12962887?v=4",
+  "htmlUrl": "https://github.com/sadanandpai",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2128,
+      "repoCountPrimary": 3,
+      "starsContains": 2128,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "resume-builder",
+          "fullName": "sadanandpai/resume-builder",
+          "stars": 1207,
+          "url": "https://github.com/sadanandpai/resume-builder",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "algo-visualizers",
+          "fullName": "sadanandpai/algo-visualizers",
+          "stars": 719,
+          "url": "https://github.com/sadanandpai/algo-visualizers",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "clearfrontend",
+          "fullName": "sadanandpai/clearfrontend",
+          "stars": 202,
+          "url": "https://github.com/sadanandpai/clearfrontend",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

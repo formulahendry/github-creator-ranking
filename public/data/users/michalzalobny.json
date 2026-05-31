@@ -1,0 +1,62 @@
+{
+  "login": "michalzalobny",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/69809353?v=4",
+  "htmlUrl": "https://github.com/michalzalobny",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1518,
+      "repoCountPrimary": 5,
+      "starsContains": 1518,
+      "repoCountContains": 5,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-just-parallax",
+          "fullName": "michalzalobny/react-just-parallax",
+          "stars": 506,
+          "url": "https://github.com/michalzalobny/react-just-parallax",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "creativeprojects",
+          "fullName": "michalzalobny/creativeprojects",
+          "stars": 311,
+          "url": "https://github.com/michalzalobny/creativeprojects",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "creative-bay",
+          "fullName": "michalzalobny/creative-bay",
+          "stars": 264,
+          "url": "https://github.com/michalzalobny/creative-bay",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "webgl-3d-engine",
+          "fullName": "michalzalobny/webgl-3d-engine",
+          "stars": 219,
+          "url": "https://github.com/michalzalobny/webgl-3d-engine",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "threejs-page-transition",
+          "fullName": "michalzalobny/threejs-page-transition",
+          "stars": 218,
+          "url": "https://github.com/michalzalobny/threejs-page-transition",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "garbles",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1139884?v=4",
+  "htmlUrl": "https://github.com/garbles",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 485,
+      "repoCountPrimary": 2,
+      "starsContains": 485,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "flag",
+          "fullName": "garbles/flag",
+          "stars": 373,
+          "url": "https://github.com/garbles/flag",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-facade",
+          "fullName": "garbles/react-facade",
+          "stars": 112,
+          "url": "https://github.com/garbles/react-facade",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

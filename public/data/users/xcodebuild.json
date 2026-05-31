@@ -1,0 +1,41 @@
+{
+  "login": "xcodebuild",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5436704?v=4",
+  "htmlUrl": "https://github.com/xcodebuild",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 830,
+      "repoCountPrimary": 2,
+      "starsContains": 830,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "CodeTerminal",
+          "fullName": "xcodebuild/CodeTerminal",
+          "stars": 655,
+          "url": "https://github.com/xcodebuild/CodeTerminal",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "iProxy",
+          "fullName": "xcodebuild/iProxy",
+          "stars": 175,
+          "url": "https://github.com/xcodebuild/iProxy",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

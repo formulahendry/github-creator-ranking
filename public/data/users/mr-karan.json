@@ -1,0 +1,34 @@
+{
+  "login": "mr-karan",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5689132?v=4",
+  "htmlUrl": "https://github.com/mr-karan",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 105,
+      "repoCountPrimary": 1,
+      "starsContains": 105,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "hodor",
+          "fullName": "mr-karan/hodor",
+          "stars": 105,
+          "url": "https://github.com/mr-karan/hodor",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

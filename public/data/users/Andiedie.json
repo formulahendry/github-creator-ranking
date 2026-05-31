@@ -1,0 +1,34 @@
+{
+  "login": "Andiedie",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/21376471?v=4",
+  "htmlUrl": "https://github.com/Andiedie",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 237,
+      "repoCountPrimary": 1,
+      "starsContains": 237,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "sync-my-cookie",
+          "fullName": "Andiedie/sync-my-cookie",
+          "stars": 237,
+          "url": "https://github.com/Andiedie/sync-my-cookie",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

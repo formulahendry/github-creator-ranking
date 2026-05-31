@@ -1,0 +1,34 @@
+{
+  "login": "JCodesMore",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/182581310?v=4",
+  "htmlUrl": "https://github.com/JCodesMore",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 15773,
+      "repoCountPrimary": 1,
+      "starsContains": 15773,
+      "repoCountContains": 1,
+      "globalRank": 122,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ai-website-cloner-template",
+          "fullName": "JCodesMore/ai-website-cloner-template",
+          "stars": 15773,
+          "url": "https://github.com/JCodesMore/ai-website-cloner-template",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

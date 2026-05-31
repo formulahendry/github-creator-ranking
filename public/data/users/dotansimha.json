@@ -1,0 +1,55 @@
+{
+  "login": "dotansimha",
+  "name": "Dotan Simha",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3680083?v=4",
+  "htmlUrl": "https://github.com/dotansimha",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 12178,
+      "repoCountPrimary": 4,
+      "starsContains": 12178,
+      "repoCountContains": 4,
+      "globalRank": 167,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "graphql-code-generator",
+          "fullName": "dotansimha/graphql-code-generator",
+          "stars": 11251,
+          "url": "https://github.com/dotansimha/graphql-code-generator",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "graphql-typed-document-node",
+          "fullName": "dotansimha/graphql-typed-document-node",
+          "stars": 411,
+          "url": "https://github.com/dotansimha/graphql-typed-document-node",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "graphql-binding",
+          "fullName": "dotansimha/graphql-binding",
+          "stars": 380,
+          "url": "https://github.com/dotansimha/graphql-binding",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "graphql-code-generator-community",
+          "fullName": "dotansimha/graphql-code-generator-community",
+          "stars": 136,
+          "url": "https://github.com/dotansimha/graphql-code-generator-community",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

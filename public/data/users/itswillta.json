@@ -1,0 +1,34 @@
+{
+  "login": "itswillta",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/24670327?v=4",
+  "htmlUrl": "https://github.com/itswillta",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 161,
+      "repoCountPrimary": 1,
+      "starsContains": 161,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "flexible-counter-app",
+          "fullName": "itswillta/flexible-counter-app",
+          "stars": 161,
+          "url": "https://github.com/itswillta/flexible-counter-app",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

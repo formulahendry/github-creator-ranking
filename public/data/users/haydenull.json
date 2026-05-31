@@ -1,0 +1,48 @@
+{
+  "login": "haydenull",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/17695989?v=4",
+  "htmlUrl": "https://github.com/haydenull",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1277,
+      "repoCountPrimary": 3,
+      "starsContains": 1277,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "logseq-plugin-agenda",
+          "fullName": "haydenull/logseq-plugin-agenda",
+          "stars": 995,
+          "url": "https://github.com/haydenull/logseq-plugin-agenda",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "logseq-plugin-git",
+          "fullName": "haydenull/logseq-plugin-git",
+          "stars": 162,
+          "url": "https://github.com/haydenull/logseq-plugin-git",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "logseq-plugin-excalidraw",
+          "fullName": "haydenull/logseq-plugin-excalidraw",
+          "stars": 120,
+          "url": "https://github.com/haydenull/logseq-plugin-excalidraw",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

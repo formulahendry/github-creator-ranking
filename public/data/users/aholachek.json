@@ -1,0 +1,41 @@
+{
+  "login": "aholachek",
+  "name": "Alex Holachek",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3680488?v=4",
+  "htmlUrl": "https://github.com/aholachek",
+  "location": "NYC",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 5588,
+      "repoCountPrimary": 2,
+      "starsContains": 5588,
+      "repoCountContains": 2,
+      "globalRank": 435,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-flip-toolkit",
+          "fullName": "aholachek/react-flip-toolkit",
+          "stars": 4192,
+          "url": "https://github.com/aholachek/react-flip-toolkit",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "animate-css-grid",
+          "fullName": "aholachek/animate-css-grid",
+          "stars": 1396,
+          "url": "https://github.com/aholachek/animate-css-grid",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

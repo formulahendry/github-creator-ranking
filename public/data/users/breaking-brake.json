@@ -1,0 +1,34 @@
+{
+  "login": "breaking-brake",
+  "name": "breaking-breake",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/76818625?v=4",
+  "htmlUrl": "https://github.com/breaking-brake",
+  "location": "Tokyo, Japan",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 5073,
+      "repoCountPrimary": 1,
+      "starsContains": 5073,
+      "repoCountContains": 1,
+      "globalRank": 494,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "cc-wf-studio",
+          "fullName": "breaking-brake/cc-wf-studio",
+          "stars": 5073,
+          "url": "https://github.com/breaking-brake/cc-wf-studio",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

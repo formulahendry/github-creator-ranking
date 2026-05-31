@@ -1,0 +1,48 @@
+{
+  "login": "mesqueeb",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3253920?v=4",
+  "htmlUrl": "https://github.com/mesqueeb",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 695,
+      "repoCountPrimary": 3,
+      "starsContains": 695,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "merge-anything",
+          "fullName": "mesqueeb/merge-anything",
+          "stars": 382,
+          "url": "https://github.com/mesqueeb/merge-anything",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "is-what",
+          "fullName": "mesqueeb/is-what",
+          "stars": 200,
+          "url": "https://github.com/mesqueeb/is-what",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "case-anything",
+          "fullName": "mesqueeb/case-anything",
+          "stars": 113,
+          "url": "https://github.com/mesqueeb/case-anything",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "Ahmet-Dedeler",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/105894172?v=4",
+  "htmlUrl": "https://github.com/Ahmet-Dedeler",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 420,
+      "repoCountPrimary": 1,
+      "starsContains": 420,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ai-llm-comparison",
+          "fullName": "Ahmet-Dedeler/ai-llm-comparison",
+          "stars": 420,
+          "url": "https://github.com/Ahmet-Dedeler/ai-llm-comparison",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

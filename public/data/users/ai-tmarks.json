@@ -1,0 +1,34 @@
+{
+  "login": "ai-tmarks",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/243581585?v=4",
+  "htmlUrl": "https://github.com/ai-tmarks",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 450,
+      "repoCountPrimary": 1,
+      "starsContains": 450,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "tmarks",
+          "fullName": "ai-tmarks/tmarks",
+          "stars": 450,
+          "url": "https://github.com/ai-tmarks/tmarks",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

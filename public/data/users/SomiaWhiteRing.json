@@ -1,0 +1,41 @@
+{
+  "login": "SomiaWhiteRing",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/55022033?v=4",
+  "htmlUrl": "https://github.com/SomiaWhiteRing",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 334,
+      "repoCountPrimary": 2,
+      "starsContains": 334,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "game-grid",
+          "fullName": "SomiaWhiteRing/game-grid",
+          "stars": 182,
+          "url": "https://github.com/SomiaWhiteRing/game-grid",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "my9",
+          "fullName": "SomiaWhiteRing/my9",
+          "stars": 152,
+          "url": "https://github.com/SomiaWhiteRing/my9",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

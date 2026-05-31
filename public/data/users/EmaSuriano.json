@@ -1,0 +1,41 @@
+{
+  "login": "EmaSuriano",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3399429?v=4",
+  "htmlUrl": "https://github.com/EmaSuriano",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 658,
+      "repoCountPrimary": 2,
+      "starsContains": 658,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "gatsby-starter-mate",
+          "fullName": "EmaSuriano/gatsby-starter-mate",
+          "stars": 543,
+          "url": "https://github.com/EmaSuriano/gatsby-starter-mate",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-scroll-section",
+          "fullName": "EmaSuriano/react-scroll-section",
+          "stars": 115,
+          "url": "https://github.com/EmaSuriano/react-scroll-section",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

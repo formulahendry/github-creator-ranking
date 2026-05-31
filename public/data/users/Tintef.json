@@ -1,0 +1,34 @@
+{
+  "login": "Tintef",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/17990217?v=4",
+  "htmlUrl": "https://github.com/Tintef",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 381,
+      "repoCountPrimary": 1,
+      "starsContains": 381,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-google-places-autocomplete",
+          "fullName": "Tintef/react-google-places-autocomplete",
+          "stars": 381,
+          "url": "https://github.com/Tintef/react-google-places-autocomplete",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

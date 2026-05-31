@@ -1,0 +1,48 @@
+{
+  "login": "kristiandupont",
+  "name": "Kristian Dupont",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/847742?v=4",
+  "htmlUrl": "https://github.com/kristiandupont",
+  "location": "Copenhagen",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2686,
+      "repoCountPrimary": 3,
+      "starsContains": 2686,
+      "repoCountContains": 3,
+      "globalRank": 997,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "kanel",
+          "fullName": "kristiandupont/kanel",
+          "stars": 1143,
+          "url": "https://github.com/kristiandupont/kanel",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-geiger",
+          "fullName": "kristiandupont/react-geiger",
+          "stars": 1104,
+          "url": "https://github.com/kristiandupont/react-geiger",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "schemalint",
+          "fullName": "kristiandupont/schemalint",
+          "stars": 439,
+          "url": "https://github.com/kristiandupont/schemalint",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

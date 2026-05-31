@@ -1,0 +1,62 @@
+{
+  "login": "weijunext",
+  "name": "Jude Wei",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/35557951?v=4",
+  "htmlUrl": "https://github.com/weijunext",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 4344,
+      "repoCountPrimary": 6,
+      "starsContains": 4344,
+      "repoCountContains": 6,
+      "globalRank": 594,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "smart-excel-ai",
+          "fullName": "weijunext/smart-excel-ai",
+          "stars": 1654,
+          "url": "https://github.com/weijunext/smart-excel-ai",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "landing-page-boilerplate",
+          "fullName": "weijunext/landing-page-boilerplate",
+          "stars": 1267,
+          "url": "https://github.com/weijunext/landing-page-boilerplate",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "nextjs-starter",
+          "fullName": "weijunext/nextjs-starter",
+          "stars": 790,
+          "url": "https://github.com/weijunext/nextjs-starter",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "nextjs-learn-demos",
+          "fullName": "weijunext/nextjs-learn-demos",
+          "stars": 372,
+          "url": "https://github.com/weijunext/nextjs-learn-demos",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "image-url-converter",
+          "fullName": "weijunext/image-url-converter",
+          "stars": 151,
+          "url": "https://github.com/weijunext/image-url-converter",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

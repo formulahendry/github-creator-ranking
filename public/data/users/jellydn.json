@@ -1,0 +1,62 @@
+{
+  "login": "jellydn",
+  "name": "Dung Duc Huynh (Kaka)",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/870029?v=4",
+  "htmlUrl": "https://github.com/jellydn",
+  "location": "Singapore",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3164,
+      "repoCountPrimary": 9,
+      "starsContains": 3164,
+      "repoCountContains": 9,
+      "globalRank": 850,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "zed-101-setup",
+          "fullName": "jellydn/zed-101-setup",
+          "stars": 1340,
+          "url": "https://github.com/jellydn/zed-101-setup",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "next-swagger-doc",
+          "fullName": "jellydn/next-swagger-doc",
+          "stars": 521,
+          "url": "https://github.com/jellydn/next-swagger-doc",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "dapp-starter",
+          "fullName": "jellydn/dapp-starter",
+          "stars": 329,
+          "url": "https://github.com/jellydn/dapp-starter",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "next-app-starter",
+          "fullName": "jellydn/next-app-starter",
+          "stars": 282,
+          "url": "https://github.com/jellydn/next-app-starter",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "nft-app",
+          "fullName": "jellydn/nft-app",
+          "stars": 224,
+          "url": "https://github.com/jellydn/nft-app",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

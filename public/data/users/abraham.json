@@ -1,0 +1,48 @@
+{
+  "login": "abraham",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3341?v=4",
+  "htmlUrl": "https://github.com/abraham",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 639,
+      "repoCountPrimary": 3,
+      "starsContains": 639,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "reflection",
+          "fullName": "abraham/reflection",
+          "stars": 287,
+          "url": "https://github.com/abraham/reflection",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "pkg-ok",
+          "fullName": "abraham/pkg-ok",
+          "stars": 235,
+          "url": "https://github.com/abraham/pkg-ok",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "nutmeg",
+          "fullName": "abraham/nutmeg",
+          "stars": 117,
+          "url": "https://github.com/abraham/nutmeg",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

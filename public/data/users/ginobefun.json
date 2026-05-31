@@ -1,0 +1,34 @@
+{
+  "login": "ginobefun",
+  "name": "Gino Zhang",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/21135334?v=4",
+  "htmlUrl": "https://github.com/ginobefun",
+  "location": "Nanjing",
+  "countryCode": "CN",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3684,
+      "repoCountPrimary": 1,
+      "starsContains": 3684,
+      "repoCountContains": 1,
+      "globalRank": 718,
+      "countryRank": 87,
+      "topRepos": [
+        {
+          "name": "BestBlogs",
+          "fullName": "ginobefun/BestBlogs",
+          "stars": 3684,
+          "url": "https://github.com/ginobefun/BestBlogs",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

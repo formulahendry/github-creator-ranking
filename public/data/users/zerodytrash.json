@@ -1,0 +1,34 @@
+{
+  "login": "zerodytrash",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/59258980?v=4",
+  "htmlUrl": "https://github.com/zerodytrash",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2020,
+      "repoCountPrimary": 1,
+      "starsContains": 2020,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "TikTok-Live-Connector",
+          "fullName": "zerodytrash/TikTok-Live-Connector",
+          "stars": 2020,
+          "url": "https://github.com/zerodytrash/TikTok-Live-Connector",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "csandman",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/9214195?v=4",
+  "htmlUrl": "https://github.com/csandman",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 820,
+      "repoCountPrimary": 1,
+      "starsContains": 820,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "chakra-react-select",
+          "fullName": "csandman/chakra-react-select",
+          "stars": 820,
+          "url": "https://github.com/csandman/chakra-react-select",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

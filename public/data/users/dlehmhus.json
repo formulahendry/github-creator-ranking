@@ -1,0 +1,34 @@
+{
+  "login": "dlehmhus",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/27899554?v=4",
+  "htmlUrl": "https://github.com/dlehmhus",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 139,
+      "repoCountPrimary": 1,
+      "starsContains": 139,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "next-with-linaria",
+          "fullName": "dlehmhus/next-with-linaria",
+          "stars": 139,
+          "url": "https://github.com/dlehmhus/next-with-linaria",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

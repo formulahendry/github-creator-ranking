@@ -1,0 +1,41 @@
+{
+  "login": "ResearAI",
+  "name": "ResearAI",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/205890474?v=4",
+  "htmlUrl": "https://github.com/ResearAI",
+  "location": "Hangzhou",
+  "countryCode": "CN",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 4316,
+      "repoCountPrimary": 2,
+      "starsContains": 4316,
+      "repoCountContains": 2,
+      "globalRank": 600,
+      "countryRank": 72,
+      "topRepos": [
+        {
+          "name": "DeepScientist",
+          "fullName": "ResearAI/DeepScientist",
+          "stars": 2858,
+          "url": "https://github.com/ResearAI/DeepScientist",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "AutoFigure",
+          "fullName": "ResearAI/AutoFigure",
+          "stars": 1458,
+          "url": "https://github.com/ResearAI/AutoFigure",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

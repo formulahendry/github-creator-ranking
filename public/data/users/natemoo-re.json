@@ -1,0 +1,62 @@
+{
+  "login": "natemoo-re",
+  "name": "Nate Moore",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7118177?v=4",
+  "htmlUrl": "https://github.com/natemoo-re",
+  "location": "NY State",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3076,
+      "repoCountPrimary": 8,
+      "starsContains": 3076,
+      "repoCountContains": 8,
+      "globalRank": 876,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "microsite",
+          "fullName": "natemoo-re/microsite",
+          "stars": 878,
+          "url": "https://github.com/natemoo-re/microsite",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ultrahtml",
+          "fullName": "natemoo-re/ultrahtml",
+          "stars": 578,
+          "url": "https://github.com/natemoo-re/ultrahtml",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "natemoo-re",
+          "fullName": "natemoo-re/natemoo-re",
+          "stars": 481,
+          "url": "https://github.com/natemoo-re/natemoo-re",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "micromorph",
+          "fullName": "natemoo-re/micromorph",
+          "stars": 364,
+          "url": "https://github.com/natemoo-re/micromorph",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "satori-html",
+          "fullName": "natemoo-re/satori-html",
+          "stars": 327,
+          "url": "https://github.com/natemoo-re/satori-html",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

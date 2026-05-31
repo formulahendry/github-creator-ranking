@@ -1,0 +1,34 @@
+{
+  "login": "AngryLoki",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/108563?v=4",
+  "htmlUrl": "https://github.com/AngryLoki",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 208,
+      "repoCountPrimary": 1,
+      "starsContains": 208,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "wikidata-graph-builder",
+          "fullName": "AngryLoki/wikidata-graph-builder",
+          "stars": 208,
+          "url": "https://github.com/AngryLoki/wikidata-graph-builder",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

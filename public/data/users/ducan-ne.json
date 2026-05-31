@@ -1,0 +1,41 @@
+{
+  "login": "ducan-ne",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/16853175?v=4",
+  "htmlUrl": "https://github.com/ducan-ne",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 859,
+      "repoCountPrimary": 2,
+      "starsContains": 859,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "remove-bg",
+          "fullName": "ducan-ne/remove-bg",
+          "stars": 478,
+          "url": "https://github.com/ducan-ne/remove-bg",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "opencoder",
+          "fullName": "ducan-ne/opencoder",
+          "stars": 381,
+          "url": "https://github.com/ducan-ne/opencoder",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

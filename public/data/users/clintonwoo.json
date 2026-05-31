@@ -1,0 +1,41 @@
+{
+  "login": "clintonwoo",
+  "name": "Clinton D'Annolfo",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/10545637?v=4",
+  "htmlUrl": "https://github.com/clintonwoo",
+  "location": "New York",
+  "countryCode": "US",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 4941,
+      "repoCountPrimary": 2,
+      "starsContains": 4941,
+      "repoCountContains": 2,
+      "globalRank": 513,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "hackernews-react-graphql",
+          "fullName": "clintonwoo/hackernews-react-graphql",
+          "stars": 4453,
+          "url": "https://github.com/clintonwoo/hackernews-react-graphql",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "hackernews-remix-react",
+          "fullName": "clintonwoo/hackernews-remix-react",
+          "stars": 488,
+          "url": "https://github.com/clintonwoo/hackernews-remix-react",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

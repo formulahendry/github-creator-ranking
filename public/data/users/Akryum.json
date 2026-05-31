@@ -1,0 +1,62 @@
+{
+  "login": "Akryum",
+  "name": "Guillaume Chau",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2798204?v=4",
+  "htmlUrl": "https://github.com/Akryum",
+  "location": "France",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 15231,
+      "repoCountPrimary": 5,
+      "starsContains": 15231,
+      "repoCountContains": 5,
+      "globalRank": 126,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vue-virtual-scroller",
+          "fullName": "Akryum/vue-virtual-scroller",
+          "stars": 10762,
+          "url": "https://github.com/Akryum/vue-virtual-scroller",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "floating-vue",
+          "fullName": "Akryum/floating-vue",
+          "stars": 3456,
+          "url": "https://github.com/Akryum/floating-vue",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "peeky",
+          "fullName": "Akryum/peeky",
+          "stars": 673,
+          "url": "https://github.com/Akryum/peeky",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "moquerie",
+          "fullName": "Akryum/moquerie",
+          "stars": 210,
+          "url": "https://github.com/Akryum/moquerie",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "portless",
+          "fullName": "Akryum/portless",
+          "stars": 130,
+          "url": "https://github.com/Akryum/portless",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

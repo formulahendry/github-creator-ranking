@@ -1,0 +1,34 @@
+{
+  "login": "nstuyvesant",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5770938?v=4",
+  "htmlUrl": "https://github.com/nstuyvesant",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 348,
+      "repoCountPrimary": 1,
+      "starsContains": 348,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "sveltekit-auth-example",
+          "fullName": "nstuyvesant/sveltekit-auth-example",
+          "stars": 348,
+          "url": "https://github.com/nstuyvesant/sveltekit-auth-example",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

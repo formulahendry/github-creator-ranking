@@ -1,0 +1,34 @@
+{
+  "login": "MathMan05",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/73901602?v=4",
+  "htmlUrl": "https://github.com/MathMan05",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 326,
+      "repoCountPrimary": 1,
+      "starsContains": 326,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Fermi",
+          "fullName": "MathMan05/Fermi",
+          "stars": 326,
+          "url": "https://github.com/MathMan05/Fermi",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

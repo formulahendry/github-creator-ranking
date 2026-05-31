@@ -1,0 +1,34 @@
+{
+  "login": "habmic",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7610573?v=4",
+  "htmlUrl": "https://github.com/habmic",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 109,
+      "repoCountPrimary": 1,
+      "starsContains": 109,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "opentelemetry-101",
+          "fullName": "habmic/opentelemetry-101",
+          "stars": 109,
+          "url": "https://github.com/habmic/opentelemetry-101",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

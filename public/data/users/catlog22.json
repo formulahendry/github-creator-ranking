@@ -1,0 +1,41 @@
+{
+  "login": "catlog22",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/28037070?v=4",
+  "htmlUrl": "https://github.com/catlog22",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2405,
+      "repoCountPrimary": 2,
+      "starsContains": 2405,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Claude-Code-Workflow",
+          "fullName": "catlog22/Claude-Code-Workflow",
+          "stars": 2063,
+          "url": "https://github.com/catlog22/Claude-Code-Workflow",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "maestro-flow",
+          "fullName": "catlog22/maestro-flow",
+          "stars": 342,
+          "url": "https://github.com/catlog22/maestro-flow",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

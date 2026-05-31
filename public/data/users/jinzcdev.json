@@ -1,0 +1,41 @@
+{
+  "login": "jinzcdev",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/33695160?v=4",
+  "htmlUrl": "https://github.com/jinzcdev",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 320,
+      "repoCountPrimary": 2,
+      "starsContains": 320,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "markmap-mcp-server",
+          "fullName": "jinzcdev/markmap-mcp-server",
+          "stars": 205,
+          "url": "https://github.com/jinzcdev/markmap-mcp-server",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "leetcode-mcp-server",
+          "fullName": "jinzcdev/leetcode-mcp-server",
+          "stars": 115,
+          "url": "https://github.com/jinzcdev/leetcode-mcp-server",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

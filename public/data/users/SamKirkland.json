@@ -1,0 +1,48 @@
+{
+  "login": "SamKirkland",
+  "name": "Sam Kirkland",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7682814?v=4",
+  "htmlUrl": "https://github.com/SamKirkland",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 5395,
+      "repoCountPrimary": 3,
+      "starsContains": 5395,
+      "repoCountContains": 3,
+      "globalRank": 458,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "FTP-Deploy-Action",
+          "fullName": "SamKirkland/FTP-Deploy-Action",
+          "stars": 5028,
+          "url": "https://github.com/SamKirkland/FTP-Deploy-Action",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "web-deploy",
+          "fullName": "SamKirkland/web-deploy",
+          "stars": 254,
+          "url": "https://github.com/SamKirkland/web-deploy",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ftp-deploy",
+          "fullName": "SamKirkland/ftp-deploy",
+          "stars": 113,
+          "url": "https://github.com/SamKirkland/ftp-deploy",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "login": "mkloubert",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/4951215?v=4",
+  "htmlUrl": "https://github.com/mkloubert",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 507,
+      "repoCountPrimary": 3,
+      "starsContains": 507,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vscode-remote-workspace",
+          "fullName": "mkloubert/vscode-remote-workspace",
+          "stars": 205,
+          "url": "https://github.com/mkloubert/vscode-remote-workspace",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vscode-deploy-reloaded",
+          "fullName": "mkloubert/vscode-deploy-reloaded",
+          "stars": 169,
+          "url": "https://github.com/mkloubert/vscode-deploy-reloaded",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vs-deploy",
+          "fullName": "mkloubert/vs-deploy",
+          "stars": 133,
+          "url": "https://github.com/mkloubert/vs-deploy",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

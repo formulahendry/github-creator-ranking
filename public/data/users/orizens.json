@@ -1,0 +1,41 @@
+{
+  "login": "orizens",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/878660?v=4",
+  "htmlUrl": "https://github.com/orizens",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2096,
+      "repoCountPrimary": 2,
+      "starsContains": 2096,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ngx-infinite-scroll",
+          "fullName": "orizens/ngx-infinite-scroll",
+          "stars": 1254,
+          "url": "https://github.com/orizens/ngx-infinite-scroll",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "echoes-player",
+          "fullName": "orizens/echoes-player",
+          "stars": 842,
+          "url": "https://github.com/orizens/echoes-player",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

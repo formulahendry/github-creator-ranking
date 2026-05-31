@@ -1,0 +1,34 @@
+{
+  "login": "Boob025",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/234189696?v=4",
+  "htmlUrl": "https://github.com/Boob025",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 116,
+      "repoCountPrimary": 1,
+      "starsContains": 116,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "peace-equalizer-APO",
+          "fullName": "Boob025/peace-equalizer-APO",
+          "stars": 116,
+          "url": "https://github.com/Boob025/peace-equalizer-APO",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

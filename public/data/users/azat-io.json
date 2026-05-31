@@ -1,0 +1,55 @@
+{
+  "login": "azat-io",
+  "name": "Azat S.",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5698350?v=4",
+  "htmlUrl": "https://github.com/azat-io",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3906,
+      "repoCountPrimary": 4,
+      "starsContains": 3906,
+      "repoCountContains": 4,
+      "globalRank": 680,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "eslint-plugin-perfectionist",
+          "fullName": "azat-io/eslint-plugin-perfectionist",
+          "stars": 2881,
+          "url": "https://github.com/azat-io/eslint-plugin-perfectionist",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "actions-up",
+          "fullName": "azat-io/actions-up",
+          "stars": 577,
+          "url": "https://github.com/azat-io/actions-up",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "eslint-plugin-de-morgan",
+          "fullName": "azat-io/eslint-plugin-de-morgan",
+          "stars": 314,
+          "url": "https://github.com/azat-io/eslint-plugin-de-morgan",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "eyecons",
+          "fullName": "azat-io/eyecons",
+          "stars": 134,
+          "url": "https://github.com/azat-io/eyecons",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

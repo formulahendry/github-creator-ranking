@@ -1,0 +1,41 @@
+{
+  "login": "educlopez",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/13372238?v=4",
+  "htmlUrl": "https://github.com/educlopez",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1151,
+      "repoCountPrimary": 2,
+      "starsContains": 1151,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "smoothui",
+          "fullName": "educlopez/smoothui",
+          "stars": 803,
+          "url": "https://github.com/educlopez/smoothui",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "thegridcn-ui",
+          "fullName": "educlopez/thegridcn-ui",
+          "stars": 348,
+          "url": "https://github.com/educlopez/thegridcn-ui",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

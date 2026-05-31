@@ -1,0 +1,41 @@
+{
+  "login": "sentialx",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/11065386?v=4",
+  "htmlUrl": "https://github.com/sentialx",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2491,
+      "repoCountPrimary": 2,
+      "starsContains": 2491,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "multrin",
+          "fullName": "sentialx/multrin",
+          "stars": 2299,
+          "url": "https://github.com/sentialx/multrin",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "electron-extensions",
+          "fullName": "sentialx/electron-extensions",
+          "stars": 192,
+          "url": "https://github.com/sentialx/electron-extensions",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

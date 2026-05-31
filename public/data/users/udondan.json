@@ -1,0 +1,34 @@
+{
+  "login": "udondan",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6443408?v=4",
+  "htmlUrl": "https://github.com/udondan",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 571,
+      "repoCountPrimary": 1,
+      "starsContains": 571,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "iam-floyd",
+          "fullName": "udondan/iam-floyd",
+          "stars": 571,
+          "url": "https://github.com/udondan/iam-floyd",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

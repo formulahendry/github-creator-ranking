@@ -1,0 +1,41 @@
+{
+  "login": "kolodny",
+  "name": "Moshe Kolodny",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1187604?v=4",
+  "htmlUrl": "https://github.com/kolodny",
+  "location": "New York",
+  "countryCode": "US",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 6592,
+      "repoCountPrimary": 2,
+      "starsContains": 6592,
+      "repoCountContains": 2,
+      "globalRank": 355,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "immutability-helper",
+          "fullName": "kolodny/immutability-helper",
+          "stars": 5188,
+          "url": "https://github.com/kolodny/immutability-helper",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "safetest",
+          "fullName": "kolodny/safetest",
+          "stars": 1404,
+          "url": "https://github.com/kolodny/safetest",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

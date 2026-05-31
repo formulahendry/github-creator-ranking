@@ -1,0 +1,55 @@
+{
+  "login": "CatsJuice",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/39363750?v=4",
+  "htmlUrl": "https://github.com/CatsJuice",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1116,
+      "repoCountPrimary": 4,
+      "starsContains": 1116,
+      "repoCountContains": 4,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ipad-cursor",
+          "fullName": "CatsJuice/ipad-cursor",
+          "stars": 452,
+          "url": "https://github.com/CatsJuice/ipad-cursor",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "medal-forge",
+          "fullName": "CatsJuice/medal-forge",
+          "stars": 276,
+          "url": "https://github.com/CatsJuice/medal-forge",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ssr-contributions-img",
+          "fullName": "CatsJuice/ssr-contributions-img",
+          "stars": 229,
+          "url": "https://github.com/CatsJuice/ssr-contributions-img",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "dockbar",
+          "fullName": "CatsJuice/dockbar",
+          "stars": 159,
+          "url": "https://github.com/CatsJuice/dockbar",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "login": "bmcmahen",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1236841?v=4",
+  "htmlUrl": "https://github.com/bmcmahen",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1168,
+      "repoCountPrimary": 5,
+      "starsContains": 1168,
+      "repoCountContains": 5,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "sancho",
+          "fullName": "bmcmahen/sancho",
+          "stars": 407,
+          "url": "https://github.com/bmcmahen/sancho",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "toasted-notes",
+          "fullName": "bmcmahen/toasted-notes",
+          "stars": 255,
+          "url": "https://github.com/bmcmahen/toasted-notes",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-grid-dnd",
+          "fullName": "bmcmahen/react-grid-dnd",
+          "stars": 227,
+          "url": "https://github.com/bmcmahen/react-grid-dnd",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "julienne",
+          "fullName": "bmcmahen/julienne",
+          "stars": 165,
+          "url": "https://github.com/bmcmahen/julienne",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-gesture-responder",
+          "fullName": "bmcmahen/react-gesture-responder",
+          "stars": 114,
+          "url": "https://github.com/bmcmahen/react-gesture-responder",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

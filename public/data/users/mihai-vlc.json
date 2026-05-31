@@ -1,0 +1,34 @@
+{
+  "login": "mihai-vlc",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3531898?v=4",
+  "htmlUrl": "https://github.com/mihai-vlc",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 167,
+      "repoCountPrimary": 1,
+      "starsContains": 167,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "path-autocomplete",
+          "fullName": "mihai-vlc/path-autocomplete",
+          "stars": 167,
+          "url": "https://github.com/mihai-vlc/path-autocomplete",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

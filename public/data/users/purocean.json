@@ -1,0 +1,34 @@
+{
+  "login": "purocean",
+  "name": "洋子",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7115690?v=4",
+  "htmlUrl": "https://github.com/purocean",
+  "location": "成都",
+  "countryCode": "CN",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 6622,
+      "repoCountPrimary": 1,
+      "starsContains": 6622,
+      "repoCountContains": 1,
+      "globalRank": 354,
+      "countryRank": 46,
+      "topRepos": [
+        {
+          "name": "yn",
+          "fullName": "purocean/yn",
+          "stars": 6622,
+          "url": "https://github.com/purocean/yn",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

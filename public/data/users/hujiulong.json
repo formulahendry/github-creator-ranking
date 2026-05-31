@@ -1,0 +1,34 @@
+{
+  "login": "hujiulong",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/13267437?v=4",
+  "htmlUrl": "https://github.com/hujiulong",
+  "location": "Beijing, China",
+  "countryCode": "CN",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3286,
+      "repoCountPrimary": 1,
+      "starsContains": 3286,
+      "repoCountContains": 1,
+      "globalRank": 822,
+      "countryRank": 93,
+      "topRepos": [
+        {
+          "name": "gcoord",
+          "fullName": "hujiulong/gcoord",
+          "stars": 3286,
+          "url": "https://github.com/hujiulong/gcoord",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "venkataravuri",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3113165?v=4",
+  "htmlUrl": "https://github.com/venkataravuri",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 312,
+      "repoCountPrimary": 1,
+      "starsContains": 312,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "e-commerce-microservices-sample",
+          "fullName": "venkataravuri/e-commerce-microservices-sample",
+          "stars": 312,
+          "url": "https://github.com/venkataravuri/e-commerce-microservices-sample",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

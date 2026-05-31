@@ -1,0 +1,48 @@
+{
+  "login": "kuizuo",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/61005888?v=4",
+  "htmlUrl": "https://github.com/kuizuo",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 646,
+      "repoCountPrimary": 3,
+      "starsContains": 646,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "blog",
+          "fullName": "kuizuo/blog",
+          "stars": 342,
+          "url": "https://github.com/kuizuo/blog",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "chaoxing-sign",
+          "fullName": "kuizuo/chaoxing-sign",
+          "stars": 203,
+          "url": "https://github.com/kuizuo/chaoxing-sign",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "nest-vben-admin",
+          "fullName": "kuizuo/nest-vben-admin",
+          "stars": 101,
+          "url": "https://github.com/kuizuo/nest-vben-admin",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "login": "joelhooks",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/86834?v=4",
+  "htmlUrl": "https://github.com/joelhooks",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1613,
+      "repoCountPrimary": 5,
+      "starsContains": 1613,
+      "repoCountContains": 5,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "swarm-tools",
+          "fullName": "joelhooks/swarm-tools",
+          "stars": 686,
+          "url": "https://github.com/joelhooks/swarm-tools",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "opencode-config",
+          "fullName": "joelhooks/opencode-config",
+          "stars": 365,
+          "url": "https://github.com/joelhooks/opencode-config",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "pdf-brain",
+          "fullName": "joelhooks/pdf-brain",
+          "stars": 226,
+          "url": "https://github.com/joelhooks/pdf-brain",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "opencode-vibe",
+          "fullName": "joelhooks/opencode-vibe",
+          "stars": 177,
+          "url": "https://github.com/joelhooks/opencode-vibe",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "next-typescript-tailwind-mdx-starter",
+          "fullName": "joelhooks/next-typescript-tailwind-mdx-starter",
+          "stars": 159,
+          "url": "https://github.com/joelhooks/next-typescript-tailwind-mdx-starter",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "Siumauricio",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/47042324?v=4",
+  "htmlUrl": "https://github.com/Siumauricio",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1223,
+      "repoCountPrimary": 2,
+      "starsContains": 1223,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "nextui-dashboard-template",
+          "fullName": "Siumauricio/nextui-dashboard-template",
+          "stars": 823,
+          "url": "https://github.com/Siumauricio/nextui-dashboard-template",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "landing-template-nextui",
+          "fullName": "Siumauricio/landing-template-nextui",
+          "stars": 400,
+          "url": "https://github.com/Siumauricio/landing-template-nextui",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

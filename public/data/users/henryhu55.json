@@ -1,0 +1,34 @@
+{
+  "login": "henryhu55",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/128961310?v=4",
+  "htmlUrl": "https://github.com/henryhu55",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 183,
+      "repoCountPrimary": 1,
+      "starsContains": 183,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "tts-web-vue",
+          "fullName": "henryhu55/tts-web-vue",
+          "stars": 183,
+          "url": "https://github.com/henryhu55/tts-web-vue",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

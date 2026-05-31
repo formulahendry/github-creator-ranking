@@ -1,0 +1,41 @@
+{
+  "login": "jiayihu",
+  "name": "Jiayi Hu",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/10067273?v=4",
+  "htmlUrl": "https://github.com/jiayihu",
+  "location": "Zürich, Switzerland",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2888,
+      "repoCountPrimary": 2,
+      "starsContains": 2888,
+      "repoCountContains": 2,
+      "globalRank": 930,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "pretty-algorithms",
+          "fullName": "jiayihu/pretty-algorithms",
+          "stars": 2172,
+          "url": "https://github.com/jiayihu/pretty-algorithms",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ng-animate",
+          "fullName": "jiayihu/ng-animate",
+          "stars": 716,
+          "url": "https://github.com/jiayihu/ng-animate",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

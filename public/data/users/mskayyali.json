@@ -1,0 +1,34 @@
+{
+  "login": "mskayyali",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/272662?v=4",
+  "htmlUrl": "https://github.com/mskayyali",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1037,
+      "repoCountPrimary": 1,
+      "starsContains": 1037,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "nodepad",
+          "fullName": "mskayyali/nodepad",
+          "stars": 1037,
+          "url": "https://github.com/mskayyali/nodepad",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

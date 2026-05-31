@@ -1,0 +1,41 @@
+{
+  "login": "simonwep",
+  "name": "Simon Reinisch",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/30767528?v=4",
+  "htmlUrl": "https://github.com/simonwep",
+  "location": "Mannheim, Germany",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3663,
+      "repoCountPrimary": 2,
+      "starsContains": 3663,
+      "repoCountContains": 2,
+      "globalRank": 723,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "viselect",
+          "fullName": "simonwep/viselect",
+          "stars": 2943,
+          "url": "https://github.com/simonwep/viselect",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "nanopop",
+          "fullName": "simonwep/nanopop",
+          "stars": 720,
+          "url": "https://github.com/simonwep/nanopop",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

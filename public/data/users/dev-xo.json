@@ -1,0 +1,41 @@
+{
+  "login": "dev-xo",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/82425492?v=4",
+  "htmlUrl": "https://github.com/dev-xo",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1947,
+      "repoCountPrimary": 2,
+      "starsContains": 1947,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "remix-saas",
+          "fullName": "dev-xo/remix-saas",
+          "stars": 1463,
+          "url": "https://github.com/dev-xo/remix-saas",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "remix-auth-totp",
+          "fullName": "dev-xo/remix-auth-totp",
+          "stars": 484,
+          "url": "https://github.com/dev-xo/remix-auth-totp",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

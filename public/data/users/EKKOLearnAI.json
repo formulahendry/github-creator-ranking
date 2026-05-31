@@ -1,0 +1,34 @@
+{
+  "login": "EKKOLearnAI",
+  "name": "ekko",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/152005280?v=4",
+  "htmlUrl": "https://github.com/EKKOLearnAI",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 6785,
+      "repoCountPrimary": 1,
+      "starsContains": 6785,
+      "repoCountContains": 1,
+      "globalRank": 343,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "hermes-web-ui",
+          "fullName": "EKKOLearnAI/hermes-web-ui",
+          "stars": 6785,
+          "url": "https://github.com/EKKOLearnAI/hermes-web-ui",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

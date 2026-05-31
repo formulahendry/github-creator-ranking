@@ -1,0 +1,34 @@
+{
+  "login": "fr3fou",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1344906?v=4",
+  "htmlUrl": "https://github.com/fr3fou",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 166,
+      "repoCountPrimary": 1,
+      "starsContains": 166,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "discord-mutual-friends",
+          "fullName": "fr3fou/discord-mutual-friends",
+          "stars": 166,
+          "url": "https://github.com/fr3fou/discord-mutual-friends",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

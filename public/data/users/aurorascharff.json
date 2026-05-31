@@ -1,0 +1,48 @@
+{
+  "login": "aurorascharff",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/66901228?v=4",
+  "htmlUrl": "https://github.com/aurorascharff",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 721,
+      "repoCountPrimary": 3,
+      "starsContains": 721,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "next15-filterlist",
+          "fullName": "aurorascharff/next15-filterlist",
+          "stars": 307,
+          "url": "https://github.com/aurorascharff/next15-filterlist",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "next16-commerce",
+          "fullName": "aurorascharff/next16-commerce",
+          "stars": 250,
+          "url": "https://github.com/aurorascharff/next16-commerce",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "next16-conferences",
+          "fullName": "aurorascharff/next16-conferences",
+          "stars": 164,
+          "url": "https://github.com/aurorascharff/next16-conferences",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

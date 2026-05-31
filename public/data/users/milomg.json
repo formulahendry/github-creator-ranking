@@ -1,0 +1,41 @@
+{
+  "login": "milomg",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/14153763?v=4",
+  "htmlUrl": "https://github.com/milomg",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 699,
+      "repoCountPrimary": 2,
+      "starsContains": 699,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "reactively",
+          "fullName": "milomg/reactively",
+          "stars": 542,
+          "url": "https://github.com/milomg/reactively",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "js-reactivity-benchmark",
+          "fullName": "milomg/js-reactivity-benchmark",
+          "stars": 157,
+          "url": "https://github.com/milomg/js-reactivity-benchmark",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

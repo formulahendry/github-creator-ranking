@@ -1,0 +1,41 @@
+{
+  "login": "mikepenz",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1476232?v=4",
+  "htmlUrl": "https://github.com/mikepenz",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1274,
+      "repoCountPrimary": 2,
+      "starsContains": 1274,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "release-changelog-builder-action",
+          "fullName": "mikepenz/release-changelog-builder-action",
+          "stars": 858,
+          "url": "https://github.com/mikepenz/release-changelog-builder-action",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "action-junit-report",
+          "fullName": "mikepenz/action-junit-report",
+          "stars": 416,
+          "url": "https://github.com/mikepenz/action-junit-report",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

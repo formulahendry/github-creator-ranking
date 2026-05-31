@@ -1,0 +1,34 @@
+{
+  "login": "PiNengShaoNian",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/37055279?v=4",
+  "htmlUrl": "https://github.com/PiNengShaoNian",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 310,
+      "repoCountPrimary": 1,
+      "starsContains": 310,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "tiny-react",
+          "fullName": "PiNengShaoNian/tiny-react",
+          "stars": 310,
+          "url": "https://github.com/PiNengShaoNian/tiny-react",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

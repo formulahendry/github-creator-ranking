@@ -1,0 +1,34 @@
+{
+  "login": "perryrh0dan",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/28621009?v=4",
+  "htmlUrl": "https://github.com/perryrh0dan",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 319,
+      "repoCountPrimary": 1,
+      "starsContains": 319,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "taskline",
+          "fullName": "perryrh0dan/taskline",
+          "stars": 319,
+          "url": "https://github.com/perryrh0dan/taskline",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

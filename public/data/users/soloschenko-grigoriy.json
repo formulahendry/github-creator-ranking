@@ -1,0 +1,34 @@
+{
+  "login": "soloschenko-grigoriy",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5962670?v=4",
+  "htmlUrl": "https://github.com/soloschenko-grigoriy",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 130,
+      "repoCountPrimary": 1,
+      "starsContains": 130,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vue-vuex-ts",
+          "fullName": "soloschenko-grigoriy/vue-vuex-ts",
+          "stars": 130,
+          "url": "https://github.com/soloschenko-grigoriy/vue-vuex-ts",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

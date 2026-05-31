@@ -1,0 +1,48 @@
+{
+  "login": "raunofreiberg",
+  "name": "rauno",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/23662329?v=4",
+  "htmlUrl": "https://github.com/raunofreiberg",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3094,
+      "repoCountPrimary": 3,
+      "starsContains": 3094,
+      "repoCountContains": 3,
+      "globalRank": 872,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "inspx",
+          "fullName": "raunofreiberg/inspx",
+          "stars": 1473,
+          "url": "https://github.com/raunofreiberg/inspx",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ui-playbook",
+          "fullName": "raunofreiberg/ui-playbook",
+          "stars": 1423,
+          "url": "https://github.com/raunofreiberg/ui-playbook",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "axe-mode",
+          "fullName": "raunofreiberg/axe-mode",
+          "stars": 198,
+          "url": "https://github.com/raunofreiberg/axe-mode",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "login": "gilbarbara",
+  "name": "Gil Barbara",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/31954?v=4",
+  "htmlUrl": "https://github.com/gilbarbara",
+  "location": "São Paulo, BR",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 10411,
+      "repoCountPrimary": 6,
+      "starsContains": 10411,
+      "repoCountContains": 6,
+      "globalRank": 209,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-joyride",
+          "fullName": "gilbarbara/react-joyride",
+          "stars": 7757,
+          "url": "https://github.com/gilbarbara/react-joyride",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-inlinesvg",
+          "fullName": "gilbarbara/react-inlinesvg",
+          "stars": 1313,
+          "url": "https://github.com/gilbarbara/react-inlinesvg",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-redux-saga-boilerplate",
+          "fullName": "gilbarbara/react-redux-saga-boilerplate",
+          "stars": 617,
+          "url": "https://github.com/gilbarbara/react-redux-saga-boilerplate",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-spotify-web-playback",
+          "fullName": "gilbarbara/react-spotify-web-playback",
+          "stars": 344,
+          "url": "https://github.com/gilbarbara/react-spotify-web-playback",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-floater",
+          "fullName": "gilbarbara/react-floater",
+          "stars": 239,
+          "url": "https://github.com/gilbarbara/react-floater",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

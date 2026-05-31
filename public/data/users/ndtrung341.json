@@ -1,0 +1,34 @@
+{
+  "login": "ndtrung341",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/95160049?v=4",
+  "htmlUrl": "https://github.com/ndtrung341",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 164,
+      "repoCountPrimary": 1,
+      "starsContains": 164,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "next-tiptap",
+          "fullName": "ndtrung341/next-tiptap",
+          "stars": 164,
+          "url": "https://github.com/ndtrung341/next-tiptap",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "BorysLevytskyi",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7791922?v=4",
+  "htmlUrl": "https://github.com/BorysLevytskyi",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 347,
+      "repoCountPrimary": 1,
+      "starsContains": 347,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "BitwiseCmd",
+          "fullName": "BorysLevytskyi/BitwiseCmd",
+          "stars": 347,
+          "url": "https://github.com/BorysLevytskyi/BitwiseCmd",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

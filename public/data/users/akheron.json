@@ -1,0 +1,48 @@
+{
+  "login": "akheron",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/70927?v=4",
+  "htmlUrl": "https://github.com/akheron",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1213,
+      "repoCountPrimary": 3,
+      "starsContains": 1213,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "optics-ts",
+          "fullName": "akheron/optics-ts",
+          "stars": 903,
+          "url": "https://github.com/akheron/optics-ts",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "typera",
+          "fullName": "akheron/typera",
+          "stars": 182,
+          "url": "https://github.com/akheron/typera",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "sqltyper",
+          "fullName": "akheron/sqltyper",
+          "stars": 128,
+          "url": "https://github.com/akheron/sqltyper",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

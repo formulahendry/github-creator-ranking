@@ -1,0 +1,34 @@
+{
+  "login": "sereneblue",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/14242625?v=4",
+  "htmlUrl": "https://github.com/sereneblue",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 651,
+      "repoCountPrimary": 1,
+      "starsContains": 651,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "chameleon",
+          "fullName": "sereneblue/chameleon",
+          "stars": 651,
+          "url": "https://github.com/sereneblue/chameleon",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

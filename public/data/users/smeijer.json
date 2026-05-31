@@ -1,0 +1,48 @@
+{
+  "login": "smeijer",
+  "name": "Stephan Meijer",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1196524?v=4",
+  "htmlUrl": "https://github.com/smeijer",
+  "location": "Leeuwarden, The Netherlands",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3681,
+      "repoCountPrimary": 3,
+      "starsContains": 3681,
+      "repoCountContains": 3,
+      "globalRank": 719,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "unimported",
+          "fullName": "smeijer/unimported",
+          "stars": 1969,
+          "url": "https://github.com/smeijer/unimported",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "leaflet-geosearch",
+          "fullName": "smeijer/leaflet-geosearch",
+          "stars": 1127,
+          "url": "https://github.com/smeijer/leaflet-geosearch",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "next-runtime",
+          "fullName": "smeijer/next-runtime",
+          "stars": 585,
+          "url": "https://github.com/smeijer/next-runtime",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "BarneyD66",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/135429523?v=4",
+  "htmlUrl": "https://github.com/BarneyD66",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 129,
+      "repoCountPrimary": 1,
+      "starsContains": 129,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "open-warehouse-system",
+          "fullName": "BarneyD66/open-warehouse-system",
+          "stars": 129,
+          "url": "https://github.com/BarneyD66/open-warehouse-system",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "crashmax-dev",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/15673111?v=4",
+  "htmlUrl": "https://github.com/crashmax-dev",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1481,
+      "repoCountPrimary": 2,
+      "starsContains": 1481,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "fireworks-js",
+          "fullName": "crashmax-dev/fireworks-js",
+          "stars": 1373,
+          "url": "https://github.com/crashmax-dev/fireworks-js",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "twallpaper",
+          "fullName": "crashmax-dev/twallpaper",
+          "stars": 108,
+          "url": "https://github.com/crashmax-dev/twallpaper",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

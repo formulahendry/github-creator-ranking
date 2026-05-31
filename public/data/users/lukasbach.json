@@ -1,0 +1,62 @@
+{
+  "login": "lukasbach",
+  "name": "Lukas Bach",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/4140121?v=4",
+  "htmlUrl": "https://github.com/lukasbach",
+  "location": "Stuttgart, Germany",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3005,
+      "repoCountPrimary": 6,
+      "starsContains": 3005,
+      "repoCountContains": 6,
+      "globalRank": 892,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-complex-tree",
+          "fullName": "lukasbach/react-complex-tree",
+          "stars": 1358,
+          "url": "https://github.com/lukasbach/react-complex-tree",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "headless-tree",
+          "fullName": "lukasbach/headless-tree",
+          "stars": 840,
+          "url": "https://github.com/lukasbach/headless-tree",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "yana",
+          "fullName": "lukasbach/yana",
+          "stars": 285,
+          "url": "https://github.com/lukasbach/yana",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "monaco-editor-auto-typings",
+          "fullName": "lukasbach/monaco-editor-auto-typings",
+          "stars": 219,
+          "url": "https://github.com/lukasbach/monaco-editor-auto-typings",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "obsidian-code-files",
+          "fullName": "lukasbach/obsidian-code-files",
+          "stars": 190,
+          "url": "https://github.com/lukasbach/obsidian-code-files",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

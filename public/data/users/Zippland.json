@@ -1,0 +1,48 @@
+{
+  "login": "Zippland",
+  "name": "Zylan",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/126135306?v=4",
+  "htmlUrl": "https://github.com/Zippland",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3821,
+      "repoCountPrimary": 3,
+      "starsContains": 3821,
+      "repoCountContains": 3,
+      "globalRank": 698,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "worth-calculator",
+          "fullName": "Zippland/worth-calculator",
+          "stars": 3100,
+          "url": "https://github.com/Zippland/worth-calculator",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "perler-beads",
+          "fullName": "Zippland/perler-beads",
+          "stars": 583,
+          "url": "https://github.com/Zippland/perler-beads",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "city_compare",
+          "fullName": "Zippland/city_compare",
+          "stars": 138,
+          "url": "https://github.com/Zippland/city_compare",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

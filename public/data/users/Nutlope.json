@@ -1,0 +1,62 @@
+{
+  "login": "Nutlope",
+  "name": "Hassan El Mghari",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/63742054?v=4",
+  "htmlUrl": "https://github.com/Nutlope",
+  "location": "New York City, NY",
+  "countryCode": "US",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 62062,
+      "repoCountPrimary": 34,
+      "starsContains": 62062,
+      "repoCountContains": 34,
+      "globalRank": 9,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "roomGPT",
+          "fullName": "Nutlope/roomGPT",
+          "stars": 10652,
+          "url": "https://github.com/Nutlope/roomGPT",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "aicommits",
+          "fullName": "Nutlope/aicommits",
+          "stars": 9000,
+          "url": "https://github.com/Nutlope/aicommits",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "logocreator",
+          "fullName": "Nutlope/logocreator",
+          "stars": 7012,
+          "url": "https://github.com/Nutlope/logocreator",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "llamacoder",
+          "fullName": "Nutlope/llamacoder",
+          "stars": 6942,
+          "url": "https://github.com/Nutlope/llamacoder",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "restorePhotos",
+          "fullName": "Nutlope/restorePhotos",
+          "stars": 4414,
+          "url": "https://github.com/Nutlope/restorePhotos",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

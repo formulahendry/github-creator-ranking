@@ -1,0 +1,34 @@
+{
+  "login": "nat",
+  "name": "Nat Friedman",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/56260?v=4",
+  "htmlUrl": "https://github.com/nat",
+  "location": "San Francisco",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 6355,
+      "repoCountPrimary": 1,
+      "starsContains": 6355,
+      "repoCountContains": 1,
+      "globalRank": 369,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "openplayground",
+          "fullName": "nat/openplayground",
+          "stars": 6355,
+          "url": "https://github.com/nat/openplayground",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

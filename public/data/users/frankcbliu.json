@@ -1,0 +1,34 @@
+{
+  "login": "frankcbliu",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/36353894?v=4",
+  "htmlUrl": "https://github.com/frankcbliu",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 124,
+      "repoCountPrimary": 1,
+      "starsContains": 124,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "awesome-nextjs-notion-blog",
+          "fullName": "frankcbliu/awesome-nextjs-notion-blog",
+          "stars": 124,
+          "url": "https://github.com/frankcbliu/awesome-nextjs-notion-blog",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

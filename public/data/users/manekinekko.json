@@ -1,0 +1,41 @@
+{
+  "login": "manekinekko",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1699357?v=4",
+  "htmlUrl": "https://github.com/manekinekko",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 364,
+      "repoCountPrimary": 2,
+      "starsContains": 364,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "angular-web-bluetooth",
+          "fullName": "manekinekko/angular-web-bluetooth",
+          "stars": 199,
+          "url": "https://github.com/manekinekko/angular-web-bluetooth",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "angular-search-experience",
+          "fullName": "manekinekko/angular-search-experience",
+          "stars": 165,
+          "url": "https://github.com/manekinekko/angular-search-experience",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

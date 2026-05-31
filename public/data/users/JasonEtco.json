@@ -1,0 +1,55 @@
+{
+  "login": "JasonEtco",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/10660468?v=4",
+  "htmlUrl": "https://github.com/JasonEtco",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1566,
+      "repoCountPrimary": 4,
+      "starsContains": 1566,
+      "repoCountContains": 4,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "actions-toolkit",
+          "fullName": "JasonEtco/actions-toolkit",
+          "stars": 936,
+          "url": "https://github.com/JasonEtco/actions-toolkit",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "create-an-issue",
+          "fullName": "JasonEtco/create-an-issue",
+          "stars": 296,
+          "url": "https://github.com/JasonEtco/create-an-issue",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "rss-to-readme",
+          "fullName": "JasonEtco/rss-to-readme",
+          "stars": 230,
+          "url": "https://github.com/JasonEtco/rss-to-readme",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "build-and-tag-action",
+          "fullName": "JasonEtco/build-and-tag-action",
+          "stars": 104,
+          "url": "https://github.com/JasonEtco/build-and-tag-action",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -11,22 +11,743 @@
     "code": "CN"
   },
   "metric": "starsPrimary",
-  "generatedAt": "2026-05-31T13:50:40.799Z",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
   "isPartial": true,
   "methodology": "Primary metric filtered to users whose public GitHub profile location normalizes to the selected country.",
   "items": [
     {
       "rank": 1,
+      "login": "maotoumao",
+      "name": "猫头猫",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/31655147?v=4",
+      "htmlUrl": "https://github.com/maotoumao",
+      "location": "Beijing, China",
+      "countryCode": "CN",
+      "starsPrimary": 35194,
+      "repoCountPrimary": 3,
+      "starsContains": 35194,
+      "repoCountContains": 3,
+      "topRepos": [
+        {
+          "name": "MusicFree",
+          "fullName": "maotoumao/MusicFree",
+          "stars": 25048,
+          "url": "https://github.com/maotoumao/MusicFree",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "MusicFreeDesktop",
+          "fullName": "maotoumao/MusicFreeDesktop",
+          "stars": 8428,
+          "url": "https://github.com/maotoumao/MusicFreeDesktop",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "MusicFreePlugins",
+          "fullName": "maotoumao/MusicFreePlugins",
+          "stars": 1718,
+          "url": "https://github.com/maotoumao/MusicFreePlugins",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "login": "musistudio",
+      "name": "musi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/21162426?v=4",
+      "htmlUrl": "https://github.com/musistudio",
+      "location": "Hangzhou",
+      "countryCode": "CN",
+      "starsPrimary": 34882,
+      "repoCountPrimary": 2,
+      "starsContains": 34882,
+      "repoCountContains": 2,
+      "topRepos": [
+        {
+          "name": "claude-code-router",
+          "fullName": "musistudio/claude-code-router",
+          "stars": 34578,
+          "url": "https://github.com/musistudio/claude-code-router",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "llms",
+          "fullName": "musistudio/llms",
+          "stars": 304,
+          "url": "https://github.com/musistudio/llms",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "login": "the1812",
+      "name": "Grant Howard",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/26504152?v=4",
+      "htmlUrl": "https://github.com/the1812",
+      "location": "Hangzhou, China",
+      "countryCode": "CN",
+      "starsPrimary": 29545,
+      "repoCountPrimary": 2,
+      "starsContains": 29545,
+      "repoCountContains": 2,
+      "topRepos": [
+        {
+          "name": "Bilibili-Evolved",
+          "fullName": "the1812/Bilibili-Evolved",
+          "stars": 29405,
+          "url": "https://github.com/the1812/Bilibili-Evolved",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Touhou-Tagger",
+          "fullName": "the1812/Touhou-Tagger",
+          "stars": 140,
+          "url": "https://github.com/the1812/Touhou-Tagger",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "login": "Molunerfinn",
+      "name": "PiEgg",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/12621342?v=4",
+      "htmlUrl": "https://github.com/Molunerfinn",
+      "location": "China",
+      "countryCode": "CN",
+      "starsPrimary": 26760,
+      "repoCountPrimary": 1,
+      "starsContains": 26760,
+      "repoCountContains": 1,
+      "topRepos": [
+        {
+          "name": "PicGo",
+          "fullName": "Molunerfinn/PicGo",
+          "stars": 26760,
+          "url": "https://github.com/Molunerfinn/PicGo",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "login": "oldj",
+      "name": "oldj",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/416130?v=4",
+      "htmlUrl": "https://github.com/oldj",
+      "location": "Hangzhou, China",
+      "countryCode": "CN",
+      "starsPrimary": 26736,
+      "repoCountPrimary": 1,
+      "starsContains": 26736,
+      "repoCountContains": 1,
+      "topRepos": [
+        {
+          "name": "SwitchHosts",
+          "fullName": "oldj/SwitchHosts",
+          "stars": 26736,
+          "url": "https://github.com/oldj/SwitchHosts",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "login": "egoist",
+      "name": "EGOIST",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/8784712?v=4",
+      "htmlUrl": "https://github.com/egoist",
+      "location": "China",
+      "countryCode": "CN",
+      "starsPrimary": 26600,
+      "repoCountPrimary": 46,
+      "starsContains": 26600,
+      "repoCountContains": 46,
+      "topRepos": [
+        {
+          "name": "tsup",
+          "fullName": "egoist/tsup",
+          "stars": 11256,
+          "url": "https://github.com/egoist/tsup",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "sitefetch",
+          "fullName": "egoist/sitefetch",
+          "stars": 1733,
+          "url": "https://github.com/egoist/sitefetch",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "chatwise-releases",
+          "fullName": "egoist/chatwise-releases",
+          "stars": 1343,
+          "url": "https://github.com/egoist/chatwise-releases",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "bili",
+          "fullName": "egoist/bili",
+          "stars": 1033,
+          "url": "https://github.com/egoist/bili",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "esbuild-register",
+          "fullName": "egoist/esbuild-register",
+          "stars": 1015,
+          "url": "https://github.com/egoist/esbuild-register",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "login": "ourongxing",
+      "name": "Ou",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/48356807?v=4",
+      "htmlUrl": "https://github.com/ourongxing",
+      "location": "Chongqing, China",
+      "countryCode": "CN",
+      "starsPrimary": 24079,
+      "repoCountPrimary": 4,
+      "starsContains": 24079,
+      "repoCountContains": 4,
+      "topRepos": [
+        {
+          "name": "newsnow",
+          "fullName": "ourongxing/newsnow",
+          "stars": 20521,
+          "url": "https://github.com/ourongxing/newsnow",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "chatgpt-vercel",
+          "fullName": "ourongxing/chatgpt-vercel",
+          "stars": 3216,
+          "url": "https://github.com/ourongxing/chatgpt-vercel",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ohmymn",
+          "fullName": "ourongxing/ohmymn",
+          "stars": 225,
+          "url": "https://github.com/ourongxing/ohmymn",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "web-printer",
+          "fullName": "ourongxing/web-printer",
+          "stars": 117,
+          "url": "https://github.com/ourongxing/web-printer",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "login": "liyupi",
+      "name": "程序员鱼皮",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/26037703?v=4",
+      "htmlUrl": "https://github.com/liyupi",
+      "location": "China Shanghai",
+      "countryCode": "CN",
+      "starsPrimary": 23786,
+      "repoCountPrimary": 10,
+      "starsContains": 23786,
+      "repoCountContains": 10,
+      "topRepos": [
+        {
+          "name": "codefather",
+          "fullName": "liyupi/codefather",
+          "stars": 7524,
+          "url": "https://github.com/liyupi/codefather",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "mianshiya",
+          "fullName": "liyupi/mianshiya",
+          "stars": 5498,
+          "url": "https://github.com/liyupi/mianshiya",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "sql-mother",
+          "fullName": "liyupi/sql-mother",
+          "stars": 4176,
+          "url": "https://github.com/liyupi/sql-mother",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "yuindex",
+          "fullName": "liyupi/yuindex",
+          "stars": 2125,
+          "url": "https://github.com/liyupi/yuindex",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "yulegeyu",
+          "fullName": "liyupi/yulegeyu",
+          "stars": 1823,
+          "url": "https://github.com/liyupi/yulegeyu",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "login": "conwnet",
+      "name": "netcon",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/17734694?v=4",
+      "htmlUrl": "https://github.com/conwnet",
+      "location": "China",
+      "countryCode": "CN",
+      "starsPrimary": 23297,
+      "repoCountPrimary": 1,
+      "starsContains": 23297,
+      "repoCountContains": 1,
+      "topRepos": [
+        {
+          "name": "github1s",
+          "fullName": "conwnet/github1s",
+          "stars": 23297,
+          "url": "https://github.com/conwnet/github1s",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "login": "whyour",
+      "name": "whyour",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/22700758?v=4",
+      "htmlUrl": "https://github.com/whyour",
+      "location": "Beijing, China",
+      "countryCode": "CN",
+      "starsPrimary": 19576,
+      "repoCountPrimary": 1,
+      "starsContains": 19576,
+      "repoCountContains": 1,
+      "topRepos": [
+        {
+          "name": "qinglong",
+          "fullName": "whyour/qinglong",
+          "stars": 19576,
+          "url": "https://github.com/whyour/qinglong",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 11,
+      "login": "idootop",
+      "name": "Del",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/35302658?v=4",
+      "htmlUrl": "https://github.com/idootop",
+      "location": "Shanghai, China",
+      "countryCode": "CN",
+      "starsPrimary": 17976,
+      "repoCountPrimary": 7,
+      "starsContains": 17976,
+      "repoCountContains": 7,
+      "topRepos": [
+        {
+          "name": "mi-gpt",
+          "fullName": "idootop/mi-gpt",
+          "stars": 12424,
+          "url": "https://github.com/idootop/mi-gpt",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "MagicMirror",
+          "fullName": "idootop/MagicMirror",
+          "stars": 2860,
+          "url": "https://github.com/idootop/MagicMirror",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "migpt-next",
+          "fullName": "idootop/migpt-next",
+          "stars": 1398,
+          "url": "https://github.com/idootop/migpt-next",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "feiyu-player",
+          "fullName": "idootop/feiyu-player",
+          "stars": 527,
+          "url": "https://github.com/idootop/feiyu-player",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "mi-note-export",
+          "fullName": "idootop/mi-note-export",
+          "stars": 390,
+          "url": "https://github.com/idootop/mi-note-export",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 12,
+      "login": "ustbhuangyi",
+      "name": "HuangYi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5359011?v=4",
+      "htmlUrl": "https://github.com/ustbhuangyi",
+      "location": "HeFei,China",
+      "countryCode": "CN",
+      "starsPrimary": 16707,
+      "repoCountPrimary": 2,
+      "starsContains": 16707,
+      "repoCountContains": 2,
+      "topRepos": [
+        {
+          "name": "better-scroll",
+          "fullName": "ustbhuangyi/better-scroll",
+          "stars": 16486,
+          "url": "https://github.com/ustbhuangyi/better-scroll",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vue3-lazy",
+          "fullName": "ustbhuangyi/vue3-lazy",
+          "stars": 221,
+          "url": "https://github.com/ustbhuangyi/vue3-lazy",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 13,
+      "login": "fengyuanchen",
+      "name": "Fengyuan Chen",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/3456749?v=4",
+      "htmlUrl": "https://github.com/fengyuanchen",
+      "location": "China",
+      "countryCode": "CN",
+      "starsPrimary": 15978,
+      "repoCountPrimary": 5,
+      "starsContains": 15978,
+      "repoCountContains": 5,
+      "topRepos": [
+        {
+          "name": "cropperjs",
+          "fullName": "fengyuanchen/cropperjs",
+          "stars": 13819,
+          "url": "https://github.com/fengyuanchen/cropperjs",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vue-qrcode",
+          "fullName": "fengyuanchen/vue-qrcode",
+          "stars": 1103,
+          "url": "https://github.com/fengyuanchen/vue-qrcode",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vue-countdown",
+          "fullName": "fengyuanchen/vue-countdown",
+          "stars": 728,
+          "url": "https://github.com/fengyuanchen/vue-countdown",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vue-number-input",
+          "fullName": "fengyuanchen/vue-number-input",
+          "stars": 172,
+          "url": "https://github.com/fengyuanchen/vue-number-input",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vue-feather",
+          "fullName": "fengyuanchen/vue-feather",
+          "stars": 156,
+          "url": "https://github.com/fengyuanchen/vue-feather",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 14,
+      "login": "crimx",
+      "name": "CRIMX",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/6882794?v=4",
+      "htmlUrl": "https://github.com/crimx",
+      "location": "Hangzhou, China",
+      "countryCode": "CN",
+      "starsPrimary": 14172,
+      "repoCountPrimary": 2,
+      "starsContains": 14172,
+      "repoCountContains": 2,
+      "topRepos": [
+        {
+          "name": "ext-saladict",
+          "fullName": "crimx/ext-saladict",
+          "stars": 13118,
+          "url": "https://github.com/crimx/ext-saladict",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "observable-hooks",
+          "fullName": "crimx/observable-hooks",
+          "stars": 1054,
+          "url": "https://github.com/crimx/observable-hooks",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 15,
+      "login": "fuergaosi233",
+      "name": "Holegots",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/22197568?v=4",
+      "htmlUrl": "https://github.com/fuergaosi233",
+      "location": "Beijing",
+      "countryCode": "CN",
+      "starsPrimary": 13460,
+      "repoCountPrimary": 2,
+      "starsContains": 13460,
+      "repoCountContains": 2,
+      "topRepos": [
+        {
+          "name": "wechat-chatgpt",
+          "fullName": "fuergaosi233/wechat-chatgpt",
+          "stars": 13240,
+          "url": "https://github.com/fuergaosi233/wechat-chatgpt",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "openai-proxy",
+          "fullName": "fuergaosi233/openai-proxy",
+          "stars": 220,
+          "url": "https://github.com/fuergaosi233/openai-proxy",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 16,
+      "login": "codexu",
+      "name": null,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/15899990?v=4",
+      "htmlUrl": "https://github.com/codexu",
+      "location": "Beijing",
+      "countryCode": "CN",
+      "starsPrimary": 12879,
+      "repoCountPrimary": 3,
+      "starsContains": 12879,
+      "repoCountContains": 3,
+      "topRepos": [
+        {
+          "name": "note-gen",
+          "fullName": "codexu/note-gen",
+          "stars": 12002,
+          "url": "https://github.com/codexu/note-gen",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "x-build",
+          "fullName": "codexu/x-build",
+          "stars": 775,
+          "url": "https://github.com/codexu/x-build",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "cmechina-chrome-plugin",
+          "fullName": "codexu/cmechina-chrome-plugin",
+          "stars": 102,
+          "url": "https://github.com/codexu/cmechina-chrome-plugin",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 17,
+      "login": "hustcc",
+      "name": "hustcc",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7856674?v=4",
+      "htmlUrl": "https://github.com/hustcc",
+      "location": "HangZhou, China",
+      "countryCode": "CN",
+      "starsPrimary": 12575,
+      "repoCountPrimary": 8,
+      "starsContains": 12575,
+      "repoCountContains": 8,
+      "topRepos": [
+        {
+          "name": "timeago.js",
+          "fullName": "hustcc/timeago.js",
+          "stars": 5377,
+          "url": "https://github.com/hustcc/timeago.js",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "echarts-for-react",
+          "fullName": "hustcc/echarts-for-react",
+          "stars": 4977,
+          "url": "https://github.com/hustcc/echarts-for-react",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "mcp-mermaid",
+          "fullName": "hustcc/mcp-mermaid",
+          "stars": 571,
+          "url": "https://github.com/hustcc/mcp-mermaid",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "onfire.js",
+          "fullName": "hustcc/onfire.js",
+          "stars": 498,
+          "url": "https://github.com/hustcc/onfire.js",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "timeago-react",
+          "fullName": "hustcc/timeago-react",
+          "stars": 433,
+          "url": "https://github.com/hustcc/timeago-react",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 18,
+      "login": "YunYouJun",
+      "name": "云游君",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/25154432?v=4",
+      "htmlUrl": "https://github.com/YunYouJun",
+      "location": "Guangzhou, China",
+      "countryCode": "CN",
+      "starsPrimary": 12431,
+      "repoCountPrimary": 10,
+      "starsContains": 12431,
+      "repoCountContains": 10,
+      "topRepos": [
+        {
+          "name": "cook",
+          "fullName": "YunYouJun/cook",
+          "stars": 6407,
+          "url": "https://github.com/YunYouJun/cook",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "air-conditioner",
+          "fullName": "YunYouJun/air-conditioner",
+          "stars": 3467,
+          "url": "https://github.com/YunYouJun/air-conditioner",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "valaxy",
+          "fullName": "YunYouJun/valaxy",
+          "stars": 1105,
+          "url": "https://github.com/YunYouJun/valaxy",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "advjs",
+          "fullName": "YunYouJun/advjs",
+          "stars": 321,
+          "url": "https://github.com/YunYouJun/advjs",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "mirai-ts",
+          "fullName": "YunYouJun/mirai-ts",
+          "stars": 254,
+          "url": "https://github.com/YunYouJun/mirai-ts",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 19,
+      "login": "James-Yu",
+      "name": "James Jianqiao Yu",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4210342?v=4",
+      "htmlUrl": "https://github.com/James-Yu",
+      "location": "Shenzhen, China",
+      "countryCode": "CN",
+      "starsPrimary": 12117,
+      "repoCountPrimary": 1,
+      "starsContains": 12117,
+      "repoCountContains": 1,
+      "topRepos": [
+        {
+          "name": "LaTeX-Workshop",
+          "fullName": "James-Yu/LaTeX-Workshop",
+          "stars": 12117,
+          "url": "https://github.com/James-Yu/LaTeX-Workshop",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 20,
+      "login": "NanmiCoder",
+      "name": "程序员阿江-Relakkes",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/47178017?v=4",
+      "htmlUrl": "https://github.com/NanmiCoder",
+      "location": "ShenZhen",
+      "countryCode": "CN",
+      "starsPrimary": 12003,
+      "repoCountPrimary": 1,
+      "starsContains": 12003,
+      "repoCountContains": 1,
+      "topRepos": [
+        {
+          "name": "cc-haha",
+          "fullName": "NanmiCoder/cc-haha",
+          "stars": 12003,
+          "url": "https://github.com/NanmiCoder/cc-haha",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 21,
+      "login": "xcatliu",
+      "name": "xcatliu",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5453359?v=4",
+      "htmlUrl": "https://github.com/xcatliu",
+      "location": "Shenzhen, China",
+      "countryCode": "CN",
+      "starsPrimary": 11503,
+      "repoCountPrimary": 2,
+      "starsContains": 11503,
+      "repoCountContains": 2,
+      "topRepos": [
+        {
+          "name": "typescript-tutorial",
+          "fullName": "xcatliu/typescript-tutorial",
+          "stars": 10724,
+          "url": "https://github.com/xcatliu/typescript-tutorial",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "chatgpt-next",
+          "fullName": "xcatliu/chatgpt-next",
+          "stars": 779,
+          "url": "https://github.com/xcatliu/chatgpt-next",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 22,
       "login": "formulahendry",
       "name": "Jun Han",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1050213?v=4",
       "htmlUrl": "https://github.com/formulahendry",
       "location": "Shanghai, China",
       "countryCode": "CN",
-      "starsPrimary": 5932,
-      "repoCountPrimary": 35,
-      "starsContains": 6294,
-      "repoCountContains": 38,
+      "starsPrimary": 11475,
+      "repoCountPrimary": 48,
+      "starsContains": 11837,
+      "repoCountContains": 51,
       "topRepos": [
         {
           "name": "vscode-code-runner",
@@ -38,7 +759,7 @@
         {
           "name": "wechat-acp",
           "fullName": "formulahendry/wechat-acp",
-          "stars": 656,
+          "stars": 661,
           "url": "https://github.com/formulahendry/wechat-acp",
           "primaryLanguage": "TypeScript"
         },
@@ -61,6 +782,2808 @@
           "fullName": "formulahendry/vscode-ycy",
           "stars": 286,
           "url": "https://github.com/formulahendry/vscode-ycy",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 23,
+      "login": "Vanessa219",
+      "name": "V",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/970828?v=4",
+      "htmlUrl": "https://github.com/Vanessa219",
+      "location": "Kunming, China",
+      "countryCode": "CN",
+      "starsPrimary": 11004,
+      "repoCountPrimary": 1,
+      "starsContains": 11004,
+      "repoCountContains": 1,
+      "topRepos": [
+        {
+          "name": "vditor",
+          "fullName": "Vanessa219/vditor",
+          "stars": 11004,
+          "url": "https://github.com/Vanessa219/vditor",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 24,
+      "login": "cuixiaorui",
+      "name": "阿崔cxr",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/12064746?v=4",
+      "htmlUrl": "https://github.com/cuixiaorui",
+      "location": "China",
+      "countryCode": "CN",
+      "starsPrimary": 10968,
+      "repoCountPrimary": 3,
+      "starsContains": 10968,
+      "repoCountContains": 3,
+      "topRepos": [
+        {
+          "name": "mini-vue",
+          "fullName": "cuixiaorui/mini-vue",
+          "stars": 10570,
+          "url": "https://github.com/cuixiaorui/mini-vue",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "earthworm",
+          "fullName": "cuixiaorui/earthworm",
+          "stars": 236,
+          "url": "https://github.com/cuixiaorui/earthworm",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "front-end-testing",
+          "fullName": "cuixiaorui/front-end-testing",
+          "stars": 162,
+          "url": "https://github.com/cuixiaorui/front-end-testing",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 25,
+      "login": "jaywcjlove",
+      "name": "小弟调调",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1680273?v=4",
+      "htmlUrl": "https://github.com/jaywcjlove",
+      "location": "Suzhou, China",
+      "countryCode": "CN",
+      "starsPrimary": 10794,
+      "repoCountPrimary": 11,
+      "starsContains": 10794,
+      "repoCountContains": 11,
+      "topRepos": [
+        {
+          "name": "hotkeys-js",
+          "fullName": "jaywcjlove/hotkeys-js",
+          "stars": 7098,
+          "url": "https://github.com/jaywcjlove/hotkeys-js",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "svgtofont",
+          "fullName": "jaywcjlove/svgtofont",
+          "stars": 723,
+          "url": "https://github.com/jaywcjlove/svgtofont",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "validator.js",
+          "fullName": "jaywcjlove/validator.js",
+          "stars": 553,
+          "url": "https://github.com/jaywcjlove/validator.js",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "wxmp",
+          "fullName": "jaywcjlove/wxmp",
+          "stars": 531,
+          "url": "https://github.com/jaywcjlove/wxmp",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "mocker-api",
+          "fullName": "jaywcjlove/mocker-api",
+          "stars": 502,
+          "url": "https://github.com/jaywcjlove/mocker-api",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 26,
+      "login": "buqiyuan",
+      "name": "bqy_fe",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/39730999?v=4",
+      "htmlUrl": "https://github.com/buqiyuan",
+      "location": "GuangZhou, China",
+      "countryCode": "CN",
+      "starsPrimary": 10641,
+      "repoCountPrimary": 5,
+      "starsContains": 10641,
+      "repoCountContains": 5,
+      "topRepos": [
+        {
+          "name": "vue3-antdv-admin",
+          "fullName": "buqiyuan/vue3-antdv-admin",
+          "stars": 4097,
+          "url": "https://github.com/buqiyuan/vue3-antdv-admin",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vite-vue3-lowcode",
+          "fullName": "buqiyuan/vite-vue3-lowcode",
+          "stars": 3410,
+          "url": "https://github.com/buqiyuan/vite-vue3-lowcode",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "nest-admin",
+          "fullName": "buqiyuan/nest-admin",
+          "stars": 2224,
+          "url": "https://github.com/buqiyuan/nest-admin",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "electron-vite-monorepo",
+          "fullName": "buqiyuan/electron-vite-monorepo",
+          "stars": 733,
+          "url": "https://github.com/buqiyuan/electron-vite-monorepo",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-antd-admin",
+          "fullName": "buqiyuan/react-antd-admin",
+          "stars": 177,
+          "url": "https://github.com/buqiyuan/react-antd-admin",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 27,
+      "login": "lencx",
+      "name": null,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/16164244?v=4",
+      "htmlUrl": "https://github.com/lencx",
+      "location": "Shanghai",
+      "countryCode": "CN",
+      "starsPrimary": 10283,
+      "repoCountPrimary": 4,
+      "starsContains": 10283,
+      "repoCountContains": 4,
+      "topRepos": [
+        {
+          "name": "Noi",
+          "fullName": "lencx/Noi",
+          "stars": 8918,
+          "url": "https://github.com/lencx/Noi",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "tauri-tutorial",
+          "fullName": "lencx/tauri-tutorial",
+          "stars": 643,
+          "url": "https://github.com/lencx/tauri-tutorial",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "GPTHub",
+          "fullName": "lencx/GPTHub",
+          "stars": 566,
+          "url": "https://github.com/lencx/GPTHub",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "z",
+          "fullName": "lencx/z",
+          "stars": 156,
+          "url": "https://github.com/lencx/z",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 28,
+      "login": "nashsu",
+      "name": "nash_su",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2127280?v=4",
+      "htmlUrl": "https://github.com/nashsu",
+      "location": "Xi'an",
+      "countryCode": "CN",
+      "starsPrimary": 9974,
+      "repoCountPrimary": 1,
+      "starsContains": 9974,
+      "repoCountContains": 1,
+      "topRepos": [
+        {
+          "name": "llm_wiki",
+          "fullName": "nashsu/llm_wiki",
+          "stars": 9974,
+          "url": "https://github.com/nashsu/llm_wiki",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 29,
+      "login": "zuiidea",
+      "name": "zuiidea",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/16070518?v=4",
+      "htmlUrl": "https://github.com/zuiidea",
+      "location": "Chengdu",
+      "countryCode": "CN",
+      "starsPrimary": 9752,
+      "repoCountPrimary": 1,
+      "starsContains": 9752,
+      "repoCountContains": 1,
+      "topRepos": [
+        {
+          "name": "antd-admin",
+          "fullName": "zuiidea/antd-admin",
+          "stars": 9752,
+          "url": "https://github.com/zuiidea/antd-admin",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 30,
+      "login": "op7418",
+      "name": "歸藏",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/13505770?v=4",
+      "htmlUrl": "https://github.com/op7418",
+      "location": "beijing",
+      "countryCode": "CN",
+      "starsPrimary": 9340,
+      "repoCountPrimary": 5,
+      "starsContains": 9340,
+      "repoCountContains": 5,
+      "topRepos": [
+        {
+          "name": "CodePilot",
+          "fullName": "op7418/CodePilot",
+          "stars": 5863,
+          "url": "https://github.com/op7418/CodePilot",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Claude-to-IM-skill",
+          "fullName": "op7418/Claude-to-IM-skill",
+          "stars": 2648,
+          "url": "https://github.com/op7418/Claude-to-IM-skill",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Claude-to-IM",
+          "fullName": "op7418/Claude-to-IM",
+          "stars": 461,
+          "url": "https://github.com/op7418/Claude-to-IM",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ai-claude-start",
+          "fullName": "op7418/ai-claude-start",
+          "stars": 224,
+          "url": "https://github.com/op7418/ai-claude-start",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Night-Patrol",
+          "fullName": "op7418/Night-Patrol",
+          "stars": 144,
+          "url": "https://github.com/op7418/Night-Patrol",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 31,
+      "login": "yiminghe",
+      "name": "yiminghe",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/200876?v=4",
+      "htmlUrl": "https://github.com/yiminghe",
+      "location": "China, Shanghai",
+      "countryCode": "CN",
+      "starsPrimary": 9095,
+      "repoCountPrimary": 1,
+      "starsContains": 9095,
+      "repoCountContains": 1,
+      "topRepos": [
+        {
+          "name": "async-validator",
+          "fullName": "yiminghe/async-validator",
+          "stars": 9095,
+          "url": "https://github.com/yiminghe/async-validator",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 32,
+      "login": "phodal",
+      "name": "Fengda Huang",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/472311?v=4",
+      "htmlUrl": "https://github.com/phodal",
+      "location": "Hangzhou",
+      "countryCode": "CN",
+      "starsPrimary": 8454,
+      "repoCountPrimary": 8,
+      "starsContains": 8454,
+      "repoCountContains": 8,
+      "topRepos": [
+        {
+          "name": "ledge",
+          "fullName": "phodal/ledge",
+          "stars": 2174,
+          "url": "https://github.com/phodal/ledge",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "growth-ionic",
+          "fullName": "phodal/growth-ionic",
+          "stars": 2150,
+          "url": "https://github.com/phodal/growth-ionic",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "routa",
+          "fullName": "phodal/routa",
+          "stars": 1622,
+          "url": "https://github.com/phodal/routa",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "mooa",
+          "fullName": "phodal/mooa",
+          "stars": 844,
+          "url": "https://github.com/phodal/mooa",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "clean-frontend",
+          "fullName": "phodal/clean-frontend",
+          "stars": 837,
+          "url": "https://github.com/phodal/clean-frontend",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 33,
+      "login": "JOYCEQL",
+      "name": "siyue",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/34961949?v=4",
+      "htmlUrl": "https://github.com/JOYCEQL",
+      "location": "chengdu",
+      "countryCode": "CN",
+      "starsPrimary": 8323,
+      "repoCountPrimary": 1,
+      "starsContains": 8323,
+      "repoCountContains": 1,
+      "topRepos": [
+        {
+          "name": "magic-resume",
+          "fullName": "JOYCEQL/magic-resume",
+          "stars": 8323,
+          "url": "https://github.com/JOYCEQL/magic-resume",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 34,
+      "login": "lxfater",
+      "name": "lxfater",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/22794120?v=4",
+      "htmlUrl": "https://github.com/lxfater",
+      "location": "Beijing",
+      "countryCode": "CN",
+      "starsPrimary": 8224,
+      "repoCountPrimary": 3,
+      "starsContains": 8224,
+      "repoCountContains": 3,
+      "topRepos": [
+        {
+          "name": "inpaint-web",
+          "fullName": "lxfater/inpaint-web",
+          "stars": 5818,
+          "url": "https://github.com/lxfater/inpaint-web",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Portal",
+          "fullName": "lxfater/Portal",
+          "stars": 1680,
+          "url": "https://github.com/lxfater/Portal",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "BilibiliSummary",
+          "fullName": "lxfater/BilibiliSummary",
+          "stars": 726,
+          "url": "https://github.com/lxfater/BilibiliSummary",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 35,
+      "login": "zh-lx",
+      "name": "zhoulixiang",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/73059627?v=4",
+      "htmlUrl": "https://github.com/zh-lx",
+      "location": "北京",
+      "countryCode": "CN",
+      "starsPrimary": 8065,
+      "repoCountPrimary": 4,
+      "starsContains": 8065,
+      "repoCountContains": 4,
+      "topRepos": [
+        {
+          "name": "pinyin-pro",
+          "fullName": "zh-lx/pinyin-pro",
+          "stars": 4629,
+          "url": "https://github.com/zh-lx/pinyin-pro",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "code-inspector",
+          "fullName": "zh-lx/code-inspector",
+          "stars": 2967,
+          "url": "https://github.com/zh-lx/code-inspector",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "codeplayer",
+          "fullName": "zh-lx/codeplayer",
+          "stars": 256,
+          "url": "https://github.com/zh-lx/codeplayer",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vitepress-demo-plugin",
+          "fullName": "zh-lx/vitepress-demo-plugin",
+          "stars": 213,
+          "url": "https://github.com/zh-lx/vitepress-demo-plugin",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 36,
+      "login": "miantiao-me",
+      "name": "面条",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2959393?v=4",
+      "htmlUrl": "https://github.com/miantiao-me",
+      "location": "NanJing,China",
+      "countryCode": "CN",
+      "starsPrimary": 7819,
+      "repoCountPrimary": 9,
+      "starsContains": 7819,
+      "repoCountContains": 9,
+      "topRepos": [
+        {
+          "name": "hacker-podcast",
+          "fullName": "miantiao-me/hacker-podcast",
+          "stars": 2535,
+          "url": "https://github.com/miantiao-me/hacker-podcast",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "BroadcastChannel",
+          "fullName": "miantiao-me/BroadcastChannel",
+          "stars": 2021,
+          "url": "https://github.com/miantiao-me/BroadcastChannel",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ssh-ai-chat",
+          "fullName": "miantiao-me/ssh-ai-chat",
+          "stars": 827,
+          "url": "https://github.com/miantiao-me/ssh-ai-chat",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "bm.md",
+          "fullName": "miantiao-me/bm.md",
+          "stars": 585,
+          "url": "https://github.com/miantiao-me/bm.md",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "cloud-code",
+          "fullName": "miantiao-me/cloud-code",
+          "stars": 546,
+          "url": "https://github.com/miantiao-me/cloud-code",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 37,
+      "login": "xiangsx",
+      "name": "Xiang",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/29322721?v=4",
+      "htmlUrl": "https://github.com/xiangsx",
+      "location": "shanghai",
+      "countryCode": "CN",
+      "starsPrimary": 7706,
+      "repoCountPrimary": 1,
+      "starsContains": 7706,
+      "repoCountContains": 1,
+      "topRepos": [
+        {
+          "name": "gpt4free-ts",
+          "fullName": "xiangsx/gpt4free-ts",
+          "stars": 7706,
+          "url": "https://github.com/xiangsx/gpt4free-ts",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 38,
+      "login": "l0o0",
+      "name": "l0o0",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2743744?v=4",
+      "htmlUrl": "https://github.com/l0o0",
+      "location": "Hangzhou, China",
+      "countryCode": "CN",
+      "starsPrimary": 7425,
+      "repoCountPrimary": 2,
+      "starsContains": 7425,
+      "repoCountContains": 2,
+      "topRepos": [
+        {
+          "name": "jasminum",
+          "fullName": "l0o0/jasminum",
+          "stars": 6971,
+          "url": "https://github.com/l0o0/jasminum",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "tara",
+          "fullName": "l0o0/tara",
+          "stars": 454,
+          "url": "https://github.com/l0o0/tara",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 39,
+      "login": "bubkoo",
+      "name": "Neo",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/6045824?v=4",
+      "htmlUrl": "https://github.com/bubkoo",
+      "location": "Hangzhou, China  ",
+      "countryCode": "CN",
+      "starsPrimary": 7370,
+      "repoCountPrimary": 2,
+      "starsContains": 7370,
+      "repoCountContains": 2,
+      "topRepos": [
+        {
+          "name": "html-to-image",
+          "fullName": "bubkoo/html-to-image",
+          "stars": 7152,
+          "url": "https://github.com/bubkoo/html-to-image",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ascii-progress",
+          "fullName": "bubkoo/ascii-progress",
+          "stars": 218,
+          "url": "https://github.com/bubkoo/ascii-progress",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 40,
+      "login": "yinxin630",
+      "name": "碎碎酱",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/6939365?v=4",
+      "htmlUrl": "https://github.com/yinxin630",
+      "location": "Beijing, China",
+      "countryCode": "CN",
+      "starsPrimary": 7302,
+      "repoCountPrimary": 2,
+      "starsContains": 7302,
+      "repoCountContains": 2,
+      "topRepos": [
+        {
+          "name": "fiora",
+          "fullName": "yinxin630/fiora",
+          "stars": 7152,
+          "url": "https://github.com/yinxin630/fiora",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "fiora-app",
+          "fullName": "yinxin630/fiora-app",
+          "stars": 150,
+          "url": "https://github.com/yinxin630/fiora-app",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 41,
+      "login": "SukkaW",
+      "name": "Sukka",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/40715044?v=4",
+      "htmlUrl": "https://github.com/SukkaW",
+      "location": "City of Science which may or may not in China",
+      "countryCode": "CN",
+      "starsPrimary": 7162,
+      "repoCountPrimary": 8,
+      "starsContains": 7162,
+      "repoCountContains": 8,
+      "topRepos": [
+        {
+          "name": "Surge",
+          "fullName": "SukkaW/Surge",
+          "stars": 4053,
+          "url": "https://github.com/SukkaW/Surge",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "nolyfill",
+          "fullName": "SukkaW/nolyfill",
+          "stars": 1182,
+          "url": "https://github.com/SukkaW/nolyfill",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "DisqusJS",
+          "fullName": "SukkaW/DisqusJS",
+          "stars": 667,
+          "url": "https://github.com/SukkaW/DisqusJS",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Make-Bilibili-Great-Than-Ever-Before",
+          "fullName": "SukkaW/Make-Bilibili-Great-Than-Ever-Before",
+          "stars": 548,
+          "url": "https://github.com/SukkaW/Make-Bilibili-Great-Than-Ever-Before",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "location-guard-ng",
+          "fullName": "SukkaW/location-guard-ng",
+          "stars": 287,
+          "url": "https://github.com/SukkaW/location-guard-ng",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 42,
+      "login": "jkchao",
+      "name": "三毛",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/22933931?v=4",
+      "htmlUrl": "https://github.com/jkchao",
+      "location": "Shanghai China",
+      "countryCode": "CN",
+      "starsPrimary": 7091,
+      "repoCountPrimary": 3,
+      "starsContains": 7091,
+      "repoCountContains": 3,
+      "topRepos": [
+        {
+          "name": "typescript-book-chinese",
+          "fullName": "jkchao/typescript-book-chinese",
+          "stars": 6647,
+          "url": "https://github.com/jkchao/typescript-book-chinese",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "blog-admin",
+          "fullName": "jkchao/blog-admin",
+          "stars": 232,
+          "url": "https://github.com/jkchao/blog-admin",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "blog-service",
+          "fullName": "jkchao/blog-service",
+          "stars": 212,
+          "url": "https://github.com/jkchao/blog-service",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 43,
+      "login": "Bistutu",
+      "name": "ThinkStu",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/91378285?v=4",
+      "htmlUrl": "https://github.com/Bistutu",
+      "location": "Shenzhen, China",
+      "countryCode": "CN",
+      "starsPrimary": 6985,
+      "repoCountPrimary": 1,
+      "starsContains": 6985,
+      "repoCountContains": 1,
+      "topRepos": [
+        {
+          "name": "FluentRead",
+          "fullName": "Bistutu/FluentRead",
+          "stars": 6985,
+          "url": "https://github.com/Bistutu/FluentRead",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 44,
+      "login": "Narcooo",
+      "name": "Junxian Ma",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/33502405?v=4",
+      "htmlUrl": "https://github.com/Narcooo",
+      "location": "BeiJing",
+      "countryCode": "CN",
+      "starsPrimary": 6783,
+      "repoCountPrimary": 1,
+      "starsContains": 6783,
+      "repoCountContains": 1,
+      "topRepos": [
+        {
+          "name": "inkos",
+          "fullName": "Narcooo/inkos",
+          "stars": 6783,
+          "url": "https://github.com/Narcooo/inkos",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 45,
+      "login": "yezihaohao",
+      "name": "叶子",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/23539868?v=4",
+      "htmlUrl": "https://github.com/yezihaohao",
+      "location": "chengdu",
+      "countryCode": "CN",
+      "starsPrimary": 6750,
+      "repoCountPrimary": 1,
+      "starsContains": 6750,
+      "repoCountContains": 1,
+      "topRepos": [
+        {
+          "name": "react-admin",
+          "fullName": "yezihaohao/react-admin",
+          "stars": 6750,
+          "url": "https://github.com/yezihaohao/react-admin",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 46,
+      "login": "purocean",
+      "name": "洋子",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7115690?v=4",
+      "htmlUrl": "https://github.com/purocean",
+      "location": "成都",
+      "countryCode": "CN",
+      "starsPrimary": 6622,
+      "repoCountPrimary": 1,
+      "starsContains": 6622,
+      "repoCountContains": 1,
+      "topRepos": [
+        {
+          "name": "yn",
+          "fullName": "purocean/yn",
+          "stars": 6622,
+          "url": "https://github.com/purocean/yn",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 47,
+      "login": "zhukunpenglinyutong",
+      "name": "朱昆鹏",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/31264015?v=4",
+      "htmlUrl": "https://github.com/zhukunpenglinyutong",
+      "location": "Beijing China",
+      "countryCode": "CN",
+      "starsPrimary": 6506,
+      "repoCountPrimary": 2,
+      "starsContains": 6506,
+      "repoCountContains": 2,
+      "topRepos": [
+        {
+          "name": "jetbrains-cc-gui",
+          "fullName": "zhukunpenglinyutong/jetbrains-cc-gui",
+          "stars": 3793,
+          "url": "https://github.com/zhukunpenglinyutong/jetbrains-cc-gui",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "desktop-cc-gui",
+          "fullName": "zhukunpenglinyutong/desktop-cc-gui",
+          "stars": 2713,
+          "url": "https://github.com/zhukunpenglinyutong/desktop-cc-gui",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 48,
+      "login": "theajack",
+      "name": "Tack Chen",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/23377279?v=4",
+      "htmlUrl": "https://github.com/theajack",
+      "location": "China.ShangHai",
+      "countryCode": "CN",
+      "starsPrimary": 6411,
+      "repoCountPrimary": 2,
+      "starsContains": 6411,
+      "repoCountContains": 2,
+      "topRepos": [
+        {
+          "name": "disable-devtool",
+          "fullName": "theajack/disable-devtool",
+          "stars": 3370,
+          "url": "https://github.com/theajack/disable-devtool",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "cnchar",
+          "fullName": "theajack/cnchar",
+          "stars": 3041,
+          "url": "https://github.com/theajack/cnchar",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 49,
+      "login": "JimmyLv",
+      "name": "JimmyLv_吕立青",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4997466?v=4",
+      "htmlUrl": "https://github.com/JimmyLv",
+      "location": "Chengdu, China",
+      "countryCode": "CN",
+      "starsPrimary": 6191,
+      "repoCountPrimary": 2,
+      "starsContains": 6191,
+      "repoCountContains": 2,
+      "topRepos": [
+        {
+          "name": "BibiGPT-v1",
+          "fullName": "JimmyLv/BibiGPT-v1",
+          "stars": 6088,
+          "url": "https://github.com/JimmyLv/BibiGPT-v1",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ChatVox",
+          "fullName": "JimmyLv/ChatVox",
+          "stars": 103,
+          "url": "https://github.com/JimmyLv/ChatVox",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 50,
+      "login": "LokerL",
+      "name": "LokerL",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/44148627?v=4",
+      "htmlUrl": "https://github.com/LokerL",
+      "location": "China",
+      "countryCode": "CN",
+      "starsPrimary": 6100,
+      "repoCountPrimary": 1,
+      "starsContains": 6100,
+      "repoCountContains": 1,
+      "topRepos": [
+        {
+          "name": "tts-vue",
+          "fullName": "LokerL/tts-vue",
+          "stars": 6100,
+          "url": "https://github.com/LokerL/tts-vue",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 51,
+      "login": "Huachao",
+      "name": "Huachao Mao",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2796177?v=4",
+      "htmlUrl": "https://github.com/Huachao",
+      "location": "Wuxi, China",
+      "countryCode": "CN",
+      "starsPrimary": 6008,
+      "repoCountPrimary": 1,
+      "starsContains": 6008,
+      "repoCountContains": 1,
+      "topRepos": [
+        {
+          "name": "vscode-restclient",
+          "fullName": "Huachao/vscode-restclient",
+          "stars": 6008,
+          "url": "https://github.com/Huachao/vscode-restclient",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 52,
+      "login": "CJex",
+      "name": null,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2967361?v=4",
+      "htmlUrl": "https://github.com/CJex",
+      "location": "China，上海",
+      "countryCode": "CN",
+      "starsPrimary": 5837,
+      "repoCountPrimary": 1,
+      "starsContains": 5837,
+      "repoCountContains": 1,
+      "topRepos": [
+        {
+          "name": "regulex",
+          "fullName": "CJex/regulex",
+          "stars": 5837,
+          "url": "https://github.com/CJex/regulex",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 53,
+      "login": "alex8088",
+      "name": "alex.wei",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/25053004?v=4",
+      "htmlUrl": "https://github.com/alex8088",
+      "location": "Guangzhou, GD, China",
+      "countryCode": "CN",
+      "starsPrimary": 5671,
+      "repoCountPrimary": 2,
+      "starsContains": 5671,
+      "repoCountContains": 2,
+      "topRepos": [
+        {
+          "name": "electron-vite",
+          "fullName": "alex8088/electron-vite",
+          "stars": 5459,
+          "url": "https://github.com/alex8088/electron-vite",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "electron-toolkit",
+          "fullName": "alex8088/electron-toolkit",
+          "stars": 212,
+          "url": "https://github.com/alex8088/electron-toolkit",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 54,
+      "login": "shfshanyue",
+      "name": "shanyue",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/13389461?v=4",
+      "htmlUrl": "https://github.com/shfshanyue",
+      "location": "成都",
+      "countryCode": "CN",
+      "starsPrimary": 5660,
+      "repoCountPrimary": 2,
+      "starsContains": 5660,
+      "repoCountContains": 2,
+      "topRepos": [
+        {
+          "name": "Daily-Question",
+          "fullName": "shfshanyue/Daily-Question",
+          "stars": 5138,
+          "url": "https://github.com/shfshanyue/Daily-Question",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "wechat-chatgpt",
+          "fullName": "shfshanyue/wechat-chatgpt",
+          "stars": 522,
+          "url": "https://github.com/shfshanyue/wechat-chatgpt",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 55,
+      "login": "kimlimjustin",
+      "name": "Justin Kimlim",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/61906684?v=4",
+      "htmlUrl": "https://github.com/kimlimjustin",
+      "location": "China",
+      "countryCode": "CN",
+      "starsPrimary": 5561,
+      "repoCountPrimary": 1,
+      "starsContains": 5561,
+      "repoCountContains": 1,
+      "topRepos": [
+        {
+          "name": "xplorer",
+          "fullName": "kimlimjustin/xplorer",
+          "stars": 5561,
+          "url": "https://github.com/kimlimjustin/xplorer",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 56,
+      "login": "czy0729",
+      "name": "Chan",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/13514316?v=4",
+      "htmlUrl": "https://github.com/czy0729",
+      "location": "GuangZhou China",
+      "countryCode": "CN",
+      "starsPrimary": 5551,
+      "repoCountPrimary": 1,
+      "starsContains": 5551,
+      "repoCountContains": 1,
+      "topRepos": [
+        {
+          "name": "Bangumi",
+          "fullName": "czy0729/Bangumi",
+          "stars": 5551,
+          "url": "https://github.com/czy0729/Bangumi",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 57,
+      "login": "hanydd",
+      "name": null,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/31091101?v=4",
+      "htmlUrl": "https://github.com/hanydd",
+      "location": "Shanghai",
+      "countryCode": "CN",
+      "starsPrimary": 5483,
+      "repoCountPrimary": 1,
+      "starsContains": 5483,
+      "repoCountContains": 1,
+      "topRepos": [
+        {
+          "name": "BilibiliSponsorBlock",
+          "fullName": "hanydd/BilibiliSponsorBlock",
+          "stars": 5483,
+          "url": "https://github.com/hanydd/BilibiliSponsorBlock",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 58,
+      "login": "netease-youdao",
+      "name": "NetEase Youdao",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/3909232?v=4",
+      "htmlUrl": "https://github.com/netease-youdao",
+      "location": "Beijing",
+      "countryCode": "CN",
+      "starsPrimary": 5213,
+      "repoCountPrimary": 1,
+      "starsContains": 5213,
+      "repoCountContains": 1,
+      "topRepos": [
+        {
+          "name": "LobsterAI",
+          "fullName": "netease-youdao/LobsterAI",
+          "stars": 5213,
+          "url": "https://github.com/netease-youdao/LobsterAI",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 59,
+      "login": "haishanh",
+      "name": "haishan",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1166872?v=4",
+      "htmlUrl": "https://github.com/haishanh",
+      "location": "Shanghai",
+      "countryCode": "CN",
+      "starsPrimary": 5088,
+      "repoCountPrimary": 2,
+      "starsContains": 5088,
+      "repoCountContains": 2,
+      "topRepos": [
+        {
+          "name": "yacd",
+          "fullName": "haishanh/yacd",
+          "stars": 4810,
+          "url": "https://github.com/haishanh/yacd",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "cherry",
+          "fullName": "haishanh/cherry",
+          "stars": 278,
+          "url": "https://github.com/haishanh/cherry",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 60,
+      "login": "XPoet",
+      "name": "指间的诗意",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/24516169?v=4",
+      "htmlUrl": "https://github.com/XPoet",
+      "location": "Shenzhen, China",
+      "countryCode": "CN",
+      "starsPrimary": 5073,
+      "repoCountPrimary": 1,
+      "starsContains": 5073,
+      "repoCountContains": 1,
+      "topRepos": [
+        {
+          "name": "picx",
+          "fullName": "XPoet/picx",
+          "stars": 5073,
+          "url": "https://github.com/XPoet/picx",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 61,
+      "login": "Hufe921",
+      "name": "Hufe",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/27001251?v=4",
+      "htmlUrl": "https://github.com/Hufe921",
+      "location": "China",
+      "countryCode": "CN",
+      "starsPrimary": 5069,
+      "repoCountPrimary": 2,
+      "starsContains": 5069,
+      "repoCountContains": 2,
+      "topRepos": [
+        {
+          "name": "canvas-editor",
+          "fullName": "Hufe921/canvas-editor",
+          "stars": 4945,
+          "url": "https://github.com/Hufe921/canvas-editor",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "canvas-editor-plugin",
+          "fullName": "Hufe921/canvas-editor-plugin",
+          "stars": 124,
+          "url": "https://github.com/Hufe921/canvas-editor-plugin",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 62,
+      "login": "tiajinsha",
+      "name": "jinsha",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/49967568?v=4",
+      "htmlUrl": "https://github.com/tiajinsha",
+      "location": "ChongQing/China",
+      "countryCode": "CN",
+      "starsPrimary": 4982,
+      "repoCountPrimary": 1,
+      "starsContains": 4982,
+      "repoCountContains": 1,
+      "topRepos": [
+        {
+          "name": "JKVideo",
+          "fullName": "tiajinsha/JKVideo",
+          "stars": 4982,
+          "url": "https://github.com/tiajinsha/JKVideo",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 63,
+      "login": "linuxhsj",
+      "name": "SeekSage",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7509894?v=4",
+      "htmlUrl": "https://github.com/linuxhsj",
+      "location": "shenzhen",
+      "countryCode": "CN",
+      "starsPrimary": 4920,
+      "repoCountPrimary": 1,
+      "starsContains": 4920,
+      "repoCountContains": 1,
+      "topRepos": [
+        {
+          "name": "openclaw-zero-token",
+          "fullName": "linuxhsj/openclaw-zero-token",
+          "stars": 4920,
+          "url": "https://github.com/linuxhsj/openclaw-zero-token",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 64,
+      "login": "Mereithhh",
+      "name": "WangLu",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/22872368?v=4",
+      "htmlUrl": "https://github.com/Mereithhh",
+      "location": "Beijing",
+      "countryCode": "CN",
+      "starsPrimary": 4918,
+      "repoCountPrimary": 3,
+      "starsContains": 4918,
+      "repoCountContains": 3,
+      "topRepos": [
+        {
+          "name": "vanblog",
+          "fullName": "Mereithhh/vanblog",
+          "stars": 3555,
+          "url": "https://github.com/Mereithhh/vanblog",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "van-nav",
+          "fullName": "Mereithhh/van-nav",
+          "stars": 1246,
+          "url": "https://github.com/Mereithhh/van-nav",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "van-hub",
+          "fullName": "Mereithhh/van-hub",
+          "stars": 117,
+          "url": "https://github.com/Mereithhh/van-hub",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 65,
+      "login": "ascoders",
+      "name": "黄子毅",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7970947?v=4",
+      "htmlUrl": "https://github.com/ascoders",
+      "location": "Hangzhou, China",
+      "countryCode": "CN",
+      "starsPrimary": 4915,
+      "repoCountPrimary": 4,
+      "starsContains": 4915,
+      "repoCountContains": 4,
+      "topRepos": [
+        {
+          "name": "react-native-image-viewer",
+          "fullName": "ascoders/react-native-image-viewer",
+          "stars": 2445,
+          "url": "https://github.com/ascoders/react-native-image-viewer",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "gaea-editor",
+          "fullName": "ascoders/gaea-editor",
+          "stars": 1352,
+          "url": "https://github.com/ascoders/gaea-editor",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-native-image-zoom",
+          "fullName": "ascoders/react-native-image-zoom",
+          "stars": 638,
+          "url": "https://github.com/ascoders/react-native-image-zoom",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "syntax-parser",
+          "fullName": "ascoders/syntax-parser",
+          "stars": 480,
+          "url": "https://github.com/ascoders/syntax-parser",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 66,
+      "login": "Bowen7",
+      "name": "Bowen",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/27432981?v=4",
+      "htmlUrl": "https://github.com/Bowen7",
+      "location": "China",
+      "countryCode": "CN",
+      "starsPrimary": 4824,
+      "repoCountPrimary": 2,
+      "starsContains": 4824,
+      "repoCountContains": 2,
+      "topRepos": [
+        {
+          "name": "regex-vis",
+          "fullName": "Bowen7/regex-vis",
+          "stars": 4385,
+          "url": "https://github.com/Bowen7/regex-vis",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-rough-fiber",
+          "fullName": "Bowen7/react-rough-fiber",
+          "stars": 439,
+          "url": "https://github.com/Bowen7/react-rough-fiber",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 67,
+      "login": "zenghongtu",
+      "name": "jasonzeng",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/25629121?v=4",
+      "htmlUrl": "https://github.com/zenghongtu",
+      "location": "Chengdu, China",
+      "countryCode": "CN",
+      "starsPrimary": 4798,
+      "repoCountPrimary": 6,
+      "starsContains": 4798,
+      "repoCountContains": 6,
+      "topRepos": [
+        {
+          "name": "PPet",
+          "fullName": "zenghongtu/PPet",
+          "stars": 2023,
+          "url": "https://github.com/zenghongtu/PPet",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-use-chinese",
+          "fullName": "zenghongtu/react-use-chinese",
+          "stars": 1043,
+          "url": "https://github.com/zenghongtu/react-use-chinese",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Mob",
+          "fullName": "zenghongtu/Mob",
+          "stars": 955,
+          "url": "https://github.com/zenghongtu/Mob",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Remu",
+          "fullName": "zenghongtu/Remu",
+          "stars": 518,
+          "url": "https://github.com/zenghongtu/Remu",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "GitHub-Pro",
+          "fullName": "zenghongtu/GitHub-Pro",
+          "stars": 156,
+          "url": "https://github.com/zenghongtu/GitHub-Pro",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 68,
+      "login": "027xiguapi",
+      "name": "西瓜皮",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/31228055?v=4",
+      "htmlUrl": "https://github.com/027xiguapi",
+      "location": "武汉",
+      "countryCode": "CN",
+      "starsPrimary": 4688,
+      "repoCountPrimary": 2,
+      "starsContains": 4688,
+      "repoCountContains": 2,
+      "topRepos": [
+        {
+          "name": "code-box",
+          "fullName": "027xiguapi/code-box",
+          "stars": 3252,
+          "url": "https://github.com/027xiguapi/code-box",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "pear-rec",
+          "fullName": "027xiguapi/pear-rec",
+          "stars": 1436,
+          "url": "https://github.com/027xiguapi/pear-rec",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 69,
+      "login": "zce",
+      "name": "Lei",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/6166576?v=4",
+      "htmlUrl": "https://github.com/zce",
+      "location": "Beijing, China",
+      "countryCode": "CN",
+      "starsPrimary": 4573,
+      "repoCountPrimary": 3,
+      "starsContains": 4573,
+      "repoCountContains": 3,
+      "topRepos": [
+        {
+          "name": "caz",
+          "fullName": "zce/caz",
+          "stars": 2482,
+          "url": "https://github.com/zce/caz",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "fearless",
+          "fullName": "zce/fearless",
+          "stars": 1311,
+          "url": "https://github.com/zce/fearless",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "velite",
+          "fullName": "zce/velite",
+          "stars": 780,
+          "url": "https://github.com/zce/velite",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 70,
+      "login": "zdhxiong",
+      "name": "zdhxiong",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/3030330?v=4",
+      "htmlUrl": "https://github.com/zdhxiong",
+      "location": "HangZhou, China",
+      "countryCode": "CN",
+      "starsPrimary": 4513,
+      "repoCountPrimary": 1,
+      "starsContains": 4513,
+      "repoCountContains": 1,
+      "topRepos": [
+        {
+          "name": "mdui",
+          "fullName": "zdhxiong/mdui",
+          "stars": 4513,
+          "url": "https://github.com/zdhxiong/mdui",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 71,
+      "login": "gdh1995",
+      "name": "Dahan Gong",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5547703?v=4",
+      "htmlUrl": "https://github.com/gdh1995",
+      "location": "Beijing, China",
+      "countryCode": "CN",
+      "starsPrimary": 4437,
+      "repoCountPrimary": 1,
+      "starsContains": 4437,
+      "repoCountContains": 1,
+      "topRepos": [
+        {
+          "name": "vimium-c",
+          "fullName": "gdh1995/vimium-c",
+          "stars": 4437,
+          "url": "https://github.com/gdh1995/vimium-c",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 72,
+      "login": "ResearAI",
+      "name": "ResearAI",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/205890474?v=4",
+      "htmlUrl": "https://github.com/ResearAI",
+      "location": "Hangzhou",
+      "countryCode": "CN",
+      "starsPrimary": 4316,
+      "repoCountPrimary": 2,
+      "starsContains": 4316,
+      "repoCountContains": 2,
+      "topRepos": [
+        {
+          "name": "DeepScientist",
+          "fullName": "ResearAI/DeepScientist",
+          "stars": 2858,
+          "url": "https://github.com/ResearAI/DeepScientist",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "AutoFigure",
+          "fullName": "ResearAI/AutoFigure",
+          "stars": 1458,
+          "url": "https://github.com/ResearAI/AutoFigure",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 73,
+      "login": "djyde",
+      "name": "Randy",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/914329?v=4",
+      "htmlUrl": "https://github.com/djyde",
+      "location": "Guangzhou, China",
+      "countryCode": "CN",
+      "starsPrimary": 4314,
+      "repoCountPrimary": 7,
+      "starsContains": 4314,
+      "repoCountContains": 7,
+      "topRepos": [
+        {
+          "name": "cusdis",
+          "fullName": "djyde/cusdis",
+          "stars": 2780,
+          "url": "https://github.com/djyde/cusdis",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ccmate",
+          "fullName": "djyde/ccmate",
+          "stars": 627,
+          "url": "https://github.com/djyde/ccmate",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ossart",
+          "fullName": "djyde/ossart",
+          "stars": 216,
+          "url": "https://github.com/djyde/ossart",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "sairin",
+          "fullName": "djyde/sairin",
+          "stars": 200,
+          "url": "https://github.com/djyde/sairin",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "PandocX",
+          "fullName": "djyde/PandocX",
+          "stars": 194,
+          "url": "https://github.com/djyde/PandocX",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 74,
+      "login": "SSShooter",
+      "name": "DJJo",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/13051472?v=4",
+      "htmlUrl": "https://github.com/SSShooter",
+      "location": "China Guangdong Guangzhou",
+      "countryCode": "CN",
+      "starsPrimary": 4274,
+      "repoCountPrimary": 2,
+      "starsContains": 4274,
+      "repoCountContains": 2,
+      "topRepos": [
+        {
+          "name": "mind-elixir-core",
+          "fullName": "SSShooter/mind-elixir-core",
+          "stars": 3051,
+          "url": "https://github.com/SSShooter/mind-elixir-core",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ebook-to-mindmap",
+          "fullName": "SSShooter/ebook-to-mindmap",
+          "stars": 1223,
+          "url": "https://github.com/SSShooter/ebook-to-mindmap",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 75,
+      "login": "SylarLong",
+      "name": "Sylar",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/6510425?v=4",
+      "htmlUrl": "https://github.com/SylarLong",
+      "location": "Chengdu",
+      "countryCode": "CN",
+      "starsPrimary": 4271,
+      "repoCountPrimary": 2,
+      "starsContains": 4271,
+      "repoCountContains": 2,
+      "topRepos": [
+        {
+          "name": "iztro",
+          "fullName": "SylarLong/iztro",
+          "stars": 3755,
+          "url": "https://github.com/SylarLong/iztro",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-iztro",
+          "fullName": "SylarLong/react-iztro",
+          "stars": 516,
+          "url": "https://github.com/SylarLong/react-iztro",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 76,
+      "login": "doodlewind",
+      "name": "Yifeng \"Evan\" Wang",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7312949?v=4",
+      "htmlUrl": "https://github.com/doodlewind",
+      "location": "China ⇔ Singapore",
+      "countryCode": "CN",
+      "starsPrimary": 4237,
+      "repoCountPrimary": 1,
+      "starsContains": 4237,
+      "repoCountContains": 1,
+      "topRepos": [
+        {
+          "name": "jshistory-cn",
+          "fullName": "doodlewind/jshistory-cn",
+          "stars": 4237,
+          "url": "https://github.com/doodlewind/jshistory-cn",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 77,
+      "login": "LingyiChen-AI",
+      "name": "LingyiChen-AI",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/44161003?v=4",
+      "htmlUrl": "https://github.com/LingyiChen-AI",
+      "location": "四川省成都市",
+      "countryCode": "CN",
+      "starsPrimary": 4092,
+      "repoCountPrimary": 3,
+      "starsContains": 4092,
+      "repoCountContains": 3,
+      "topRepos": [
+        {
+          "name": "JadeAI",
+          "fullName": "LingyiChen-AI/JadeAI",
+          "stars": 1690,
+          "url": "https://github.com/LingyiChen-AI/JadeAI",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "AIComicBuilder",
+          "fullName": "LingyiChen-AI/AIComicBuilder",
+          "stars": 1497,
+          "url": "https://github.com/LingyiChen-AI/AIComicBuilder",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "DeepDiagram",
+          "fullName": "LingyiChen-AI/DeepDiagram",
+          "stars": 905,
+          "url": "https://github.com/LingyiChen-AI/DeepDiagram",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 78,
+      "login": "imcuttle",
+      "name": "Cong Yu",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/13509258?v=4",
+      "htmlUrl": "https://github.com/imcuttle",
+      "location": "Beijing, China",
+      "countryCode": "CN",
+      "starsPrimary": 4088,
+      "repoCountPrimary": 1,
+      "starsContains": 4088,
+      "repoCountContains": 1,
+      "topRepos": [
+        {
+          "name": "mometa",
+          "fullName": "imcuttle/mometa",
+          "stars": 4088,
+          "url": "https://github.com/imcuttle/mometa",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 79,
+      "login": "spencerwooo",
+      "name": "Shangbo Wu",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/32114380?v=4",
+      "htmlUrl": "https://github.com/spencerwooo",
+      "location": "Beijing, China",
+      "countryCode": "CN",
+      "starsPrimary": 4012,
+      "repoCountPrimary": 2,
+      "starsContains": 4012,
+      "repoCountContains": 2,
+      "topRepos": [
+        {
+          "name": "onedrive-vercel-index",
+          "fullName": "spencerwooo/onedrive-vercel-index",
+          "stars": 3112,
+          "url": "https://github.com/spencerwooo/onedrive-vercel-index",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "substats",
+          "fullName": "spencerwooo/substats",
+          "stars": 900,
+          "url": "https://github.com/spencerwooo/substats",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 80,
+      "login": "justjavac",
+      "name": "迷渡",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/359395?v=4",
+      "htmlUrl": "https://github.com/justjavac",
+      "location": "Tianjin, China",
+      "countryCode": "CN",
+      "starsPrimary": 3966,
+      "repoCountPrimary": 10,
+      "starsContains": 3966,
+      "repoCountContains": 10,
+      "topRepos": [
+        {
+          "name": "ali-words",
+          "fullName": "justjavac/ali-words",
+          "stars": 963,
+          "url": "https://github.com/justjavac/ali-words",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "openai-proxy",
+          "fullName": "justjavac/openai-proxy",
+          "stars": 943,
+          "url": "https://github.com/justjavac/openai-proxy",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "weibo-trending-hot-search",
+          "fullName": "justjavac/weibo-trending-hot-search",
+          "stars": 767,
+          "url": "https://github.com/justjavac/weibo-trending-hot-search",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vscode-deno",
+          "fullName": "justjavac/vscode-deno",
+          "stars": 242,
+          "url": "https://github.com/justjavac/vscode-deno",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "zhihu-trending-top-search",
+          "fullName": "justjavac/zhihu-trending-top-search",
+          "stars": 221,
+          "url": "https://github.com/justjavac/zhihu-trending-top-search",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 81,
+      "login": "buxuku",
+      "name": " Lin Xiaodong",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7866330?v=4",
+      "htmlUrl": "https://github.com/buxuku",
+      "location": "chengdu, sichuan, china",
+      "countryCode": "CN",
+      "starsPrimary": 3921,
+      "repoCountPrimary": 1,
+      "starsContains": 3921,
+      "repoCountContains": 1,
+      "topRepos": [
+        {
+          "name": "SmartSub",
+          "fullName": "buxuku/SmartSub",
+          "stars": 3921,
+          "url": "https://github.com/buxuku/SmartSub",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 82,
+      "login": "timqian",
+      "name": "Tim Qian",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5512552?v=4",
+      "htmlUrl": "https://github.com/timqian",
+      "location": "ChongQing, China",
+      "countryCode": "CN",
+      "starsPrimary": 3877,
+      "repoCountPrimary": 2,
+      "starsContains": 3877,
+      "repoCountContains": 2,
+      "topRepos": [
+        {
+          "name": "open-source-jobs",
+          "fullName": "timqian/open-source-jobs",
+          "stars": 2934,
+          "url": "https://github.com/timqian/open-source-jobs",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "bambot",
+          "fullName": "timqian/bambot",
+          "stars": 943,
+          "url": "https://github.com/timqian/bambot",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 83,
+      "login": "varHarrie",
+      "name": "varHarrie",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/14304201?v=4",
+      "htmlUrl": "https://github.com/varHarrie",
+      "location": "Guangzhou, China",
+      "countryCode": "CN",
+      "starsPrimary": 3790,
+      "repoCountPrimary": 2,
+      "starsContains": 3790,
+      "repoCountContains": 2,
+      "topRepos": [
+        {
+          "name": "varharrie.github.io",
+          "fullName": "varHarrie/varharrie.github.io",
+          "stars": 3678,
+          "url": "https://github.com/varHarrie/varharrie.github.io",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "mokia",
+          "fullName": "varHarrie/mokia",
+          "stars": 112,
+          "url": "https://github.com/varHarrie/mokia",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 84,
+      "login": "fannheyward",
+      "name": "Heyward Fann",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/345274?v=4",
+      "htmlUrl": "https://github.com/fannheyward",
+      "location": "Beijing, China",
+      "countryCode": "CN",
+      "starsPrimary": 3784,
+      "repoCountPrimary": 9,
+      "starsContains": 3784,
+      "repoCountContains": 9,
+      "topRepos": [
+        {
+          "name": "coc-pyright",
+          "fullName": "fannheyward/coc-pyright",
+          "stars": 1360,
+          "url": "https://github.com/fannheyward/coc-pyright",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "coc-rust-analyzer",
+          "fullName": "fannheyward/coc-rust-analyzer",
+          "stars": 1153,
+          "url": "https://github.com/fannheyward/coc-rust-analyzer",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "coc-marketplace",
+          "fullName": "fannheyward/coc-marketplace",
+          "stars": 351,
+          "url": "https://github.com/fannheyward/coc-marketplace",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "create-coc-extension",
+          "fullName": "fannheyward/create-coc-extension",
+          "stars": 216,
+          "url": "https://github.com/fannheyward/create-coc-extension",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "coc-markdownlint",
+          "fullName": "fannheyward/coc-markdownlint",
+          "stars": 174,
+          "url": "https://github.com/fannheyward/coc-markdownlint",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 85,
+      "login": "Mayandev",
+      "name": "MayanDev",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/28648715?v=4",
+      "htmlUrl": "https://github.com/Mayandev",
+      "location": "Wuhan Hubei",
+      "countryCode": "CN",
+      "starsPrimary": 3781,
+      "repoCountPrimary": 3,
+      "starsContains": 3781,
+      "repoCountContains": 3,
+      "topRepos": [
+        {
+          "name": "notion-avatar",
+          "fullName": "Mayandev/notion-avatar",
+          "stars": 3196,
+          "url": "https://github.com/Mayandev/notion-avatar",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ikea-low-price",
+          "fullName": "Mayandev/ikea-low-price",
+          "stars": 429,
+          "url": "https://github.com/Mayandev/ikea-low-price",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "classmate-map",
+          "fullName": "Mayandev/classmate-map",
+          "stars": 156,
+          "url": "https://github.com/Mayandev/classmate-map",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 86,
+      "login": "i5ting",
+      "name": "狼叔",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/3118295?v=4",
+      "htmlUrl": "https://github.com/i5ting",
+      "location": "china beijing",
+      "countryCode": "CN",
+      "starsPrimary": 3734,
+      "repoCountPrimary": 1,
+      "starsContains": 3734,
+      "repoCountContains": 1,
+      "topRepos": [
+        {
+          "name": "imove",
+          "fullName": "i5ting/imove",
+          "stars": 3734,
+          "url": "https://github.com/i5ting/imove",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 87,
+      "login": "ginobefun",
+      "name": "Gino Zhang",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/21135334?v=4",
+      "htmlUrl": "https://github.com/ginobefun",
+      "location": "Nanjing",
+      "countryCode": "CN",
+      "starsPrimary": 3684,
+      "repoCountPrimary": 1,
+      "starsContains": 3684,
+      "repoCountContains": 1,
+      "topRepos": [
+        {
+          "name": "BestBlogs",
+          "fullName": "ginobefun/BestBlogs",
+          "stars": 3684,
+          "url": "https://github.com/ginobefun/BestBlogs",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 88,
+      "login": "easychen",
+      "name": "Easy",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1294760?v=4",
+      "htmlUrl": "https://github.com/easychen",
+      "location": "Chongqing, China",
+      "countryCode": "CN",
+      "starsPrimary": 3557,
+      "repoCountPrimary": 3,
+      "starsContains": 3557,
+      "repoCountContains": 3,
+      "topRepos": [
+        {
+          "name": "CookieCloud",
+          "fullName": "easychen/CookieCloud",
+          "stars": 3029,
+          "url": "https://github.com/easychen/CookieCloud",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "telechan",
+          "fullName": "easychen/telechan",
+          "stars": 411,
+          "url": "https://github.com/easychen/telechan",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "airole",
+          "fullName": "easychen/airole",
+          "stars": 117,
+          "url": "https://github.com/easychen/airole",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 89,
+      "login": "sunniejs",
+      "name": "sunnie",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/35954879?v=4",
+      "htmlUrl": "https://github.com/sunniejs",
+      "location": "Shanghai, China",
+      "countryCode": "CN",
+      "starsPrimary": 3475,
+      "repoCountPrimary": 1,
+      "starsContains": 3475,
+      "repoCountContains": 1,
+      "topRepos": [
+        {
+          "name": "vue-h5-template",
+          "fullName": "sunniejs/vue-h5-template",
+          "stars": 3475,
+          "url": "https://github.com/sunniejs/vue-h5-template",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 90,
+      "login": "guokaigdg",
+      "name": "guokaigdg",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/9608847?v=4",
+      "htmlUrl": "https://github.com/guokaigdg",
+      "location": "beijing,China",
+      "countryCode": "CN",
+      "starsPrimary": 3436,
+      "repoCountPrimary": 2,
+      "starsContains": 3436,
+      "repoCountContains": 2,
+      "topRepos": [
+        {
+          "name": "animal-island-ui",
+          "fullName": "guokaigdg/animal-island-ui",
+          "stars": 2906,
+          "url": "https://github.com/guokaigdg/animal-island-ui",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-seed",
+          "fullName": "guokaigdg/react-seed",
+          "stars": 530,
+          "url": "https://github.com/guokaigdg/react-seed",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 91,
+      "login": "ConardLi",
+      "name": "ConardLi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/30708545?v=4",
+      "htmlUrl": "https://github.com/ConardLi",
+      "location": "BeiJing",
+      "countryCode": "CN",
+      "starsPrimary": 3385,
+      "repoCountPrimary": 4,
+      "starsContains": 3385,
+      "repoCountContains": 4,
+      "topRepos": [
+        {
+          "name": "easy-llm-cli",
+          "fullName": "ConardLi/easy-llm-cli",
+          "stars": 1326,
+          "url": "https://github.com/ConardLi/easy-llm-cli",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "easy-learn-ai",
+          "fullName": "ConardLi/easy-learn-ai",
+          "stars": 1217,
+          "url": "https://github.com/ConardLi/easy-learn-ai",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "easy-agent",
+          "fullName": "ConardLi/easy-agent",
+          "stars": 740,
+          "url": "https://github.com/ConardLi/easy-agent",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "mcp-client-nodejs",
+          "fullName": "ConardLi/mcp-client-nodejs",
+          "stars": 102,
+          "url": "https://github.com/ConardLi/mcp-client-nodejs",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 92,
+      "login": "LOG1997",
+      "name": "LOG1997",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/26322485?v=4",
+      "htmlUrl": "https://github.com/LOG1997",
+      "location": "Chengdu,China",
+      "countryCode": "CN",
+      "starsPrimary": 3323,
+      "repoCountPrimary": 1,
+      "starsContains": 3323,
+      "repoCountContains": 1,
+      "topRepos": [
+        {
+          "name": "log-lottery",
+          "fullName": "LOG1997/log-lottery",
+          "stars": 3323,
+          "url": "https://github.com/LOG1997/log-lottery",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 93,
+      "login": "hujiulong",
+      "name": null,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/13267437?v=4",
+      "htmlUrl": "https://github.com/hujiulong",
+      "location": "Beijing, China",
+      "countryCode": "CN",
+      "starsPrimary": 3286,
+      "repoCountPrimary": 1,
+      "starsContains": 3286,
+      "repoCountContains": 1,
+      "topRepos": [
+        {
+          "name": "gcoord",
+          "fullName": "hujiulong/gcoord",
+          "stars": 3286,
+          "url": "https://github.com/hujiulong/gcoord",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 94,
+      "login": "guaguaguaxia",
+      "name": "guaguaguaxia",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/18466048?v=4",
+      "htmlUrl": "https://github.com/guaguaguaxia",
+      "location": "ZhuHai GuangDong China",
+      "countryCode": "CN",
+      "starsPrimary": 3236,
+      "repoCountPrimary": 1,
+      "starsContains": 3236,
+      "repoCountContains": 1,
+      "topRepos": [
+        {
+          "name": "weekly_report",
+          "fullName": "guaguaguaxia/weekly_report",
+          "stars": 3236,
+          "url": "https://github.com/guaguaguaxia/weekly_report",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 95,
+      "login": "MrXujiang",
+      "name": "徐小夕",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/28833634?v=4",
+      "htmlUrl": "https://github.com/MrXujiang",
+      "location": "chongqing",
+      "countryCode": "CN",
+      "starsPrimary": 3230,
+      "repoCountPrimary": 8,
+      "starsContains": 3230,
+      "repoCountContains": 8,
+      "topRepos": [
+        {
+          "name": "next-admin",
+          "fullName": "MrXujiang/next-admin",
+          "stars": 795,
+          "url": "https://github.com/MrXujiang/next-admin",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "v6.dooring.public",
+          "fullName": "MrXujiang/v6.dooring.public",
+          "stars": 715,
+          "url": "https://github.com/MrXujiang/v6.dooring.public",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "pc-Dooring",
+          "fullName": "MrXujiang/pc-Dooring",
+          "stars": 506,
+          "url": "https://github.com/MrXujiang/pc-Dooring",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "xijs",
+          "fullName": "MrXujiang/xijs",
+          "stars": 355,
+          "url": "https://github.com/MrXujiang/xijs",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Nocode-Wep",
+          "fullName": "MrXujiang/Nocode-Wep",
+          "stars": 277,
+          "url": "https://github.com/MrXujiang/Nocode-Wep",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 96,
+      "login": "fantasticit",
+      "name": "fantasticit",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/26452939?v=4",
+      "htmlUrl": "https://github.com/fantasticit",
+      "location": "China",
+      "countryCode": "CN",
+      "starsPrimary": 3223,
+      "repoCountPrimary": 4,
+      "starsContains": 3223,
+      "repoCountContains": 4,
+      "topRepos": [
+        {
+          "name": "think",
+          "fullName": "fantasticit/think",
+          "stars": 2147,
+          "url": "https://github.com/fantasticit/think",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "wipi",
+          "fullName": "fantasticit/wipi",
+          "stars": 619,
+          "url": "https://github.com/fantasticit/wipi",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ramiko",
+          "fullName": "fantasticit/ramiko",
+          "stars": 304,
+          "url": "https://github.com/fantasticit/ramiko",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "coding",
+          "fullName": "fantasticit/coding",
+          "stars": 153,
+          "url": "https://github.com/fantasticit/coding",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 97,
+      "login": "LHRUN",
+      "name": "Leo Song",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/51286284?v=4",
+      "htmlUrl": "https://github.com/LHRUN",
+      "location": "china",
+      "countryCode": "CN",
+      "starsPrimary": 3206,
+      "repoCountPrimary": 3,
+      "starsContains": 3206,
+      "repoCountContains": 3,
+      "topRepos": [
+        {
+          "name": "paint-board",
+          "fullName": "LHRUN/paint-board",
+          "stars": 2620,
+          "url": "https://github.com/LHRUN/paint-board",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "bubble",
+          "fullName": "LHRUN/bubble",
+          "stars": 462,
+          "url": "https://github.com/LHRUN/bubble",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "one-space",
+          "fullName": "LHRUN/one-space",
+          "stars": 124,
+          "url": "https://github.com/LHRUN/one-space",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 98,
+      "login": "unadlib",
+      "name": "Michael Lin",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/18650460?v=4",
+      "htmlUrl": "https://github.com/unadlib",
+      "location": "Xiamen, China",
+      "countryCode": "CN",
+      "starsPrimary": 3182,
+      "repoCountPrimary": 5,
+      "starsContains": 3182,
+      "repoCountContains": 5,
+      "topRepos": [
+        {
+          "name": "mutative",
+          "fullName": "unadlib/mutative",
+          "stars": 1973,
+          "url": "https://github.com/unadlib/mutative",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "fronts",
+          "fullName": "unadlib/fronts",
+          "stars": 488,
+          "url": "https://github.com/unadlib/fronts",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "usm",
+          "fullName": "unadlib/usm",
+          "stars": 300,
+          "url": "https://github.com/unadlib/usm",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "reactant",
+          "fullName": "unadlib/reactant",
+          "stars": 233,
+          "url": "https://github.com/unadlib/reactant",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "localspace",
+          "fullName": "unadlib/localspace",
+          "stars": 188,
+          "url": "https://github.com/unadlib/localspace",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 99,
+      "login": "oboard",
+      "name": null,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/23210180?v=4",
+      "htmlUrl": "https://github.com/oboard",
+      "location": "Wuhan",
+      "countryCode": "CN",
+      "starsPrimary": 3176,
+      "repoCountPrimary": 1,
+      "starsContains": 3176,
+      "repoCountContains": 1,
+      "topRepos": [
+        {
+          "name": "claude-code-rev",
+          "fullName": "oboard/claude-code-rev",
+          "stars": 3176,
+          "url": "https://github.com/oboard/claude-code-rev",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 100,
+      "login": "pacexy",
+      "name": null,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/32255488?v=4",
+      "htmlUrl": "https://github.com/pacexy",
+      "location": "Shanghai, China",
+      "countryCode": "CN",
+      "starsPrimary": 3171,
+      "repoCountPrimary": 1,
+      "starsContains": 3171,
+      "repoCountContains": 1,
+      "topRepos": [
+        {
+          "name": "flow",
+          "fullName": "pacexy/flow",
+          "stars": 3171,
+          "url": "https://github.com/pacexy/flow",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 101,
+      "login": "ryan4yin",
+      "name": "Ryan Yin",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/22363274?v=4",
+      "htmlUrl": "https://github.com/ryan4yin",
+      "location": "China",
+      "countryCode": "CN",
+      "starsPrimary": 3152,
+      "repoCountPrimary": 1,
+      "starsContains": 3152,
+      "repoCountContains": 1,
+      "topRepos": [
+        {
+          "name": "nixos-and-flakes-book",
+          "fullName": "ryan4yin/nixos-and-flakes-book",
+          "stars": 3152,
+          "url": "https://github.com/ryan4yin/nixos-and-flakes-book",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 102,
+      "login": "brookshi",
+      "name": "Brook Shi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/13607728?v=4",
+      "htmlUrl": "https://github.com/brookshi",
+      "location": "Shenzhen",
+      "countryCode": "CN",
+      "starsPrimary": 3112,
+      "repoCountPrimary": 2,
+      "starsContains": 3112,
+      "repoCountContains": 2,
+      "topRepos": [
+        {
+          "name": "Hitchhiker",
+          "fullName": "brookshi/Hitchhiker",
+          "stars": 2218,
+          "url": "https://github.com/brookshi/Hitchhiker",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "awesome-typescript-projects",
+          "fullName": "brookshi/awesome-typescript-projects",
+          "stars": 894,
+          "url": "https://github.com/brookshi/awesome-typescript-projects",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 103,
+      "login": "visiky",
+      "name": "visiky",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/15646325?v=4",
+      "htmlUrl": "https://github.com/visiky",
+      "location": "Hangzhou(杭州) -> Shenzhen (深圳)",
+      "countryCode": "CN",
+      "starsPrimary": 3104,
+      "repoCountPrimary": 1,
+      "starsContains": 3104,
+      "repoCountContains": 1,
+      "topRepos": [
+        {
+          "name": "resume",
+          "fullName": "visiky/resume",
+          "stars": 3104,
+          "url": "https://github.com/visiky/resume",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 104,
+      "login": "mengjian-github",
+      "name": "孟健",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/8306959?v=4",
+      "htmlUrl": "https://github.com/mengjian-github",
+      "location": "北京，中国",
+      "countryCode": "CN",
+      "starsPrimary": 3057,
+      "repoCountPrimary": 2,
+      "starsContains": 3057,
+      "repoCountContains": 2,
+      "topRepos": [
+        {
+          "name": "openclaw101",
+          "fullName": "mengjian-github/openclaw101",
+          "stars": 2905,
+          "url": "https://github.com/mengjian-github/openclaw101",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "lark-to-markdown",
+          "fullName": "mengjian-github/lark-to-markdown",
+          "stars": 152,
+          "url": "https://github.com/mengjian-github/lark-to-markdown",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 105,
+      "login": "cweijan",
+      "name": "Weijan Chen ",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/27798227?v=4",
+      "htmlUrl": "https://github.com/cweijan",
+      "location": "Guangdong, China",
+      "countryCode": "CN",
+      "starsPrimary": 3010,
+      "repoCountPrimary": 2,
+      "starsContains": 3010,
+      "repoCountContains": 2,
+      "topRepos": [
+        {
+          "name": "vscode-database-client",
+          "fullName": "cweijan/vscode-database-client",
+          "stars": 2877,
+          "url": "https://github.com/cweijan/vscode-database-client",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "autohotkey-plus",
+          "fullName": "cweijan/autohotkey-plus",
+          "stars": 133,
+          "url": "https://github.com/cweijan/autohotkey-plus",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 106,
+      "login": "Pana",
+      "name": "Pana",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/552081?v=4",
+      "htmlUrl": "https://github.com/Pana",
+      "location": "Beijing, China",
+      "countryCode": "CN",
+      "starsPrimary": 3008,
+      "repoCountPrimary": 1,
+      "starsContains": 3008,
+      "repoCountContains": 1,
+      "topRepos": [
+        {
+          "name": "nrm",
+          "fullName": "Pana/nrm",
+          "stars": 3008,
+          "url": "https://github.com/Pana/nrm",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 107,
+      "login": "imzbf",
+      "name": "zbf",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/37092006?v=4",
+      "htmlUrl": "https://github.com/imzbf",
+      "location": "Chong Qing, China",
+      "countryCode": "CN",
+      "starsPrimary": 2972,
+      "repoCountPrimary": 2,
+      "starsContains": 2972,
+      "repoCountContains": 2,
+      "topRepos": [
+        {
+          "name": "md-editor-v3",
+          "fullName": "imzbf/md-editor-v3",
+          "stars": 2513,
+          "url": "https://github.com/imzbf/md-editor-v3",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "md-editor-rt",
+          "fullName": "imzbf/md-editor-rt",
+          "stars": 459,
+          "url": "https://github.com/imzbf/md-editor-rt",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 108,
+      "login": "Lin-arm",
+      "name": "林灵柒",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/85251920?v=4",
+      "htmlUrl": "https://github.com/Lin-arm",
+      "location": "广州",
+      "countryCode": "CN",
+      "starsPrimary": 2965,
+      "repoCountPrimary": 1,
+      "starsContains": 2965,
+      "repoCountContains": 1,
+      "topRepos": [
+        {
+          "name": "GKD_subscription",
+          "fullName": "Lin-arm/GKD_subscription",
+          "stars": 2965,
+          "url": "https://github.com/Lin-arm/GKD_subscription",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 109,
+      "login": "colinlet",
+      "name": "凌枫",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/8656366?v=4",
+      "htmlUrl": "https://github.com/colinlet",
+      "location": "深圳",
+      "countryCode": "CN",
+      "starsPrimary": 2954,
+      "repoCountPrimary": 1,
+      "starsContains": 2954,
+      "repoCountContains": 1,
+      "topRepos": [
+        {
+          "name": "PHP-Interview-QA",
+          "fullName": "colinlet/PHP-Interview-QA",
+          "stars": 2954,
+          "url": "https://github.com/colinlet/PHP-Interview-QA",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 110,
+      "login": "ding113",
+      "name": "Ding",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/44717411?v=4",
+      "htmlUrl": "https://github.com/ding113",
+      "location": "China",
+      "countryCode": "CN",
+      "starsPrimary": 2953,
+      "repoCountPrimary": 1,
+      "starsContains": 2953,
+      "repoCountContains": 1,
+      "topRepos": [
+        {
+          "name": "claude-code-hub",
+          "fullName": "ding113/claude-code-hub",
+          "stars": 2953,
+          "url": "https://github.com/ding113/claude-code-hub",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 111,
+      "login": "M-cheng-web",
+      "name": null,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/58416262?v=4",
+      "htmlUrl": "https://github.com/M-cheng-web",
+      "location": "HangZhou",
+      "countryCode": "CN",
+      "starsPrimary": 2927,
+      "repoCountPrimary": 1,
+      "starsContains": 2927,
+      "repoCountContains": 1,
+      "topRepos": [
+        {
+          "name": "web-tracing",
+          "fullName": "M-cheng-web/web-tracing",
+          "stars": 2927,
+          "url": "https://github.com/M-cheng-web/web-tracing",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 112,
+      "login": "ZHO-ZHO-ZHO",
+      "name": null,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/140084057?v=4",
+      "htmlUrl": "https://github.com/ZHO-ZHO-ZHO",
+      "location": "China",
+      "countryCode": "CN",
+      "starsPrimary": 2924,
+      "repoCountPrimary": 4,
+      "starsContains": 2924,
+      "repoCountContains": 4,
+      "topRepos": [
+        {
+          "name": "Nano-Bananary",
+          "fullName": "ZHO-ZHO-ZHO/Nano-Bananary",
+          "stars": 1851,
+          "url": "https://github.com/ZHO-ZHO-ZHO/Nano-Bananary",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "BananaFace",
+          "fullName": "ZHO-ZHO-ZHO/BananaFace",
+          "stars": 378,
+          "url": "https://github.com/ZHO-ZHO-ZHO/BananaFace",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "BananaFlow-ZHO",
+          "fullName": "ZHO-ZHO-ZHO/BananaFlow-ZHO",
+          "stars": 378,
+          "url": "https://github.com/ZHO-ZHO-ZHO/BananaFlow-ZHO",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "BananaPod",
+          "fullName": "ZHO-ZHO-ZHO/BananaPod",
+          "stars": 317,
+          "url": "https://github.com/ZHO-ZHO-ZHO/BananaPod",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 113,
+      "login": "zenozeng",
+      "name": "Zeno Zeng",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2544489?v=4",
+      "htmlUrl": "https://github.com/zenozeng",
+      "location": "Hangzhou, Zhejiang, China",
+      "countryCode": "CN",
+      "starsPrimary": 2831,
+      "repoCountPrimary": 2,
+      "starsContains": 2831,
+      "repoCountContains": 2,
+      "topRepos": [
+        {
+          "name": "fonts.css",
+          "fullName": "zenozeng/fonts.css",
+          "stars": 2096,
+          "url": "https://github.com/zenozeng/fonts.css",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "color-hash",
+          "fullName": "zenozeng/color-hash",
+          "stars": 735,
+          "url": "https://github.com/zenozeng/color-hash",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 114,
+      "login": "codercup",
+      "name": "菲鸽",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/65991901?v=4",
+      "htmlUrl": "https://github.com/codercup",
+      "location": "Shenzhen China",
+      "countryCode": "CN",
+      "starsPrimary": 2826,
+      "repoCountPrimary": 1,
+      "starsContains": 2826,
+      "repoCountContains": 1,
+      "topRepos": [
+        {
+          "name": "unibest",
+          "fullName": "codercup/unibest",
+          "stars": 2826,
+          "url": "https://github.com/codercup/unibest",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 115,
+      "login": "Mouseww",
+      "name": "Webber Wei",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/28473201?v=4",
+      "htmlUrl": "https://github.com/Mouseww",
+      "location": "Qingdao, Shandong, China",
+      "countryCode": "CN",
+      "starsPrimary": 2743,
+      "repoCountPrimary": 1,
+      "starsContains": 2743,
+      "repoCountContains": 1,
+      "topRepos": [
+        {
+          "name": "anything-analyzer",
+          "fullName": "Mouseww/anything-analyzer",
+          "stars": 2743,
+          "url": "https://github.com/Mouseww/anything-analyzer",
           "primaryLanguage": "TypeScript"
         }
       ]

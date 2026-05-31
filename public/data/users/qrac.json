@@ -1,0 +1,34 @@
+{
+  "login": "qrac",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/9658016?v=4",
+  "htmlUrl": "https://github.com/qrac",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 417,
+      "repoCountPrimary": 1,
+      "starsContains": 417,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "yakuhanjp",
+          "fullName": "qrac/yakuhanjp",
+          "stars": 417,
+          "url": "https://github.com/qrac/yakuhanjp",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

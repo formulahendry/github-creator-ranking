@@ -1,0 +1,34 @@
+{
+  "login": "AhsanAyaz",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/9844254?v=4",
+  "htmlUrl": "https://github.com/AhsanAyaz",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 558,
+      "repoCountPrimary": 1,
+      "starsContains": 558,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ngx-device-detector",
+          "fullName": "AhsanAyaz/ngx-device-detector",
+          "stars": 558,
+          "url": "https://github.com/AhsanAyaz/ngx-device-detector",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

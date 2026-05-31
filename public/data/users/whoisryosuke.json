@@ -1,0 +1,41 @@
+{
+  "login": "whoisryosuke",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/37885061?v=4",
+  "htmlUrl": "https://github.com/whoisryosuke",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 235,
+      "repoCountPrimary": 2,
+      "starsContains": 235,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "r3f-next-starter",
+          "fullName": "whoisryosuke/r3f-next-starter",
+          "stars": 130,
+          "url": "https://github.com/whoisryosuke/r3f-next-starter",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ryosuke-gatsby-blog",
+          "fullName": "whoisryosuke/ryosuke-gatsby-blog",
+          "stars": 105,
+          "url": "https://github.com/whoisryosuke/ryosuke-gatsby-blog",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

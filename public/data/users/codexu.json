@@ -1,0 +1,48 @@
+{
+  "login": "codexu",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/15899990?v=4",
+  "htmlUrl": "https://github.com/codexu",
+  "location": "Beijing",
+  "countryCode": "CN",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 12879,
+      "repoCountPrimary": 3,
+      "starsContains": 12879,
+      "repoCountContains": 3,
+      "globalRank": 161,
+      "countryRank": 16,
+      "topRepos": [
+        {
+          "name": "note-gen",
+          "fullName": "codexu/note-gen",
+          "stars": 12002,
+          "url": "https://github.com/codexu/note-gen",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "x-build",
+          "fullName": "codexu/x-build",
+          "stars": 775,
+          "url": "https://github.com/codexu/x-build",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "cmechina-chrome-plugin",
+          "fullName": "codexu/cmechina-chrome-plugin",
+          "stars": 102,
+          "url": "https://github.com/codexu/cmechina-chrome-plugin",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

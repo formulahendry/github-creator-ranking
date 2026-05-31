@@ -1,0 +1,34 @@
+{
+  "login": "IvanWng97",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/39482599?v=4",
+  "htmlUrl": "https://github.com/IvanWng97",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 289,
+      "repoCountPrimary": 1,
+      "starsContains": 289,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "node-tasks",
+          "fullName": "IvanWng97/node-tasks",
+          "stars": 289,
+          "url": "https://github.com/IvanWng97/node-tasks",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "login": "djyde",
+  "name": "Randy",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/914329?v=4",
+  "htmlUrl": "https://github.com/djyde",
+  "location": "Guangzhou, China",
+  "countryCode": "CN",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 4314,
+      "repoCountPrimary": 7,
+      "starsContains": 4314,
+      "repoCountContains": 7,
+      "globalRank": 601,
+      "countryRank": 73,
+      "topRepos": [
+        {
+          "name": "cusdis",
+          "fullName": "djyde/cusdis",
+          "stars": 2780,
+          "url": "https://github.com/djyde/cusdis",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ccmate",
+          "fullName": "djyde/ccmate",
+          "stars": 627,
+          "url": "https://github.com/djyde/ccmate",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ossart",
+          "fullName": "djyde/ossart",
+          "stars": 216,
+          "url": "https://github.com/djyde/ossart",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "sairin",
+          "fullName": "djyde/sairin",
+          "stars": 200,
+          "url": "https://github.com/djyde/sairin",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "PandocX",
+          "fullName": "djyde/PandocX",
+          "stars": 194,
+          "url": "https://github.com/djyde/PandocX",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

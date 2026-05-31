@@ -1,0 +1,41 @@
+{
+  "login": "maria-rcks",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/254055478?v=4",
+  "htmlUrl": "https://github.com/maria-rcks",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 653,
+      "repoCountPrimary": 2,
+      "starsContains": 653,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "t1code",
+          "fullName": "maria-rcks/t1code",
+          "stars": 483,
+          "url": "https://github.com/maria-rcks/t1code",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "clawd.rip",
+          "fullName": "maria-rcks/clawd.rip",
+          "stars": 170,
+          "url": "https://github.com/maria-rcks/clawd.rip",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

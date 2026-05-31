@@ -1,0 +1,55 @@
+{
+  "login": "ln-dev7",
+  "name": "LN",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/62269693?v=4",
+  "htmlUrl": "https://github.com/ln-dev7",
+  "location": "Cameroon",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 7949,
+      "repoCountPrimary": 4,
+      "starsContains": 7949,
+      "repoCountContains": 4,
+      "globalRank": 286,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "square-ui",
+          "fullName": "ln-dev7/square-ui",
+          "stars": 5241,
+          "url": "https://github.com/ln-dev7/square-ui",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "circle",
+          "fullName": "ln-dev7/circle",
+          "stars": 2462,
+          "url": "https://github.com/ln-dev7/circle",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "world-portfolios",
+          "fullName": "ln-dev7/world-portfolios",
+          "stars": 140,
+          "url": "https://github.com/ln-dev7/world-portfolios",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "sharuco",
+          "fullName": "ln-dev7/sharuco",
+          "stars": 106,
+          "url": "https://github.com/ln-dev7/sharuco",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

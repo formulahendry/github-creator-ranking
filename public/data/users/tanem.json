@@ -1,0 +1,48 @@
+{
+  "login": "tanem",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/464864?v=4",
+  "htmlUrl": "https://github.com/tanem",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1456,
+      "repoCountPrimary": 3,
+      "starsContains": 1456,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-svg",
+          "fullName": "tanem/react-svg",
+          "stars": 882,
+          "url": "https://github.com/tanem/react-svg",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-nprogress",
+          "fullName": "tanem/react-nprogress",
+          "stars": 466,
+          "url": "https://github.com/tanem/react-nprogress",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "svg-injector",
+          "fullName": "tanem/svg-injector",
+          "stars": 108,
+          "url": "https://github.com/tanem/svg-injector",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

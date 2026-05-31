@@ -1,0 +1,41 @@
+{
+  "login": "tulustul",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5584294?v=4",
+  "htmlUrl": "https://github.com/tulustul",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 238,
+      "repoCountPrimary": 2,
+      "starsContains": 238,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "The-Wandering-Wraith",
+          "fullName": "tulustul/The-Wandering-Wraith",
+          "stars": 132,
+          "url": "https://github.com/tulustul/The-Wandering-Wraith",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ants-sandbox",
+          "fullName": "tulustul/ants-sandbox",
+          "stars": 106,
+          "url": "https://github.com/tulustul/ants-sandbox",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

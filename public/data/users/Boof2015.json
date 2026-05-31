@@ -1,0 +1,34 @@
+{
+  "login": "Boof2015",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/75185879?v=4",
+  "htmlUrl": "https://github.com/Boof2015",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 255,
+      "repoCountPrimary": 1,
+      "starsContains": 255,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "astra",
+          "fullName": "Boof2015/astra",
+          "stars": 255,
+          "url": "https://github.com/Boof2015/astra",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

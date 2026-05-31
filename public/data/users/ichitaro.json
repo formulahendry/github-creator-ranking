@@ -1,0 +1,48 @@
+{
+  "login": "ichitaro",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2506174?v=4",
+  "htmlUrl": "https://github.com/ichitaro",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 335,
+      "repoCountPrimary": 3,
+      "starsContains": 335,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "carla-flow",
+          "fullName": "ichitaro/carla-flow",
+          "stars": 119,
+          "url": "https://github.com/ichitaro/carla-flow",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "carla-trail",
+          "fullName": "ichitaro/carla-trail",
+          "stars": 112,
+          "url": "https://github.com/ichitaro/carla-trail",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "terrain-warp",
+          "fullName": "ichitaro/terrain-warp",
+          "stars": 104,
+          "url": "https://github.com/ichitaro/terrain-warp",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

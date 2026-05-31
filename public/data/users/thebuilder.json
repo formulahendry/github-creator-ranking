@@ -1,0 +1,41 @@
+{
+  "login": "thebuilder",
+  "name": "Daniel Schmidt",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3764345?v=4",
+  "htmlUrl": "https://github.com/thebuilder",
+  "location": "Copenhagen",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 5763,
+      "repoCountPrimary": 2,
+      "starsContains": 5763,
+      "repoCountContains": 2,
+      "globalRank": 418,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-intersection-observer",
+          "fullName": "thebuilder/react-intersection-observer",
+          "stars": 5537,
+          "url": "https://github.com/thebuilder/react-intersection-observer",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-scroll-percentage",
+          "fullName": "thebuilder/react-scroll-percentage",
+          "stars": 226,
+          "url": "https://github.com/thebuilder/react-scroll-percentage",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

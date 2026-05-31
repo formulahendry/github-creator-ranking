@@ -1,0 +1,34 @@
+{
+  "login": "p-m-p",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/441581?v=4",
+  "htmlUrl": "https://github.com/p-m-p",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 890,
+      "repoCountPrimary": 1,
+      "starsContains": 890,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "slider",
+          "fullName": "p-m-p/slider",
+          "stars": 890,
+          "url": "https://github.com/p-m-p/slider",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

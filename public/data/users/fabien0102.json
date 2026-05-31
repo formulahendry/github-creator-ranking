@@ -1,0 +1,48 @@
+{
+  "login": "fabien0102",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1761469?v=4",
+  "htmlUrl": "https://github.com/fabien0102",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2634,
+      "repoCountPrimary": 3,
+      "starsContains": 2634,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ts-to-zod",
+          "fullName": "fabien0102/ts-to-zod",
+          "stars": 1624,
+          "url": "https://github.com/fabien0102/ts-to-zod",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "openapi-codegen",
+          "fullName": "fabien0102/openapi-codegen",
+          "stars": 631,
+          "url": "https://github.com/fabien0102/openapi-codegen",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "gatsby-starter",
+          "fullName": "fabien0102/gatsby-starter",
+          "stars": 379,
+          "url": "https://github.com/fabien0102/gatsby-starter",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

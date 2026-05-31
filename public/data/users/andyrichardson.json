@@ -1,0 +1,41 @@
+{
+  "login": "andyrichardson",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/10779424?v=4",
+  "htmlUrl": "https://github.com/andyrichardson",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 320,
+      "repoCountPrimary": 2,
+      "starsContains": 320,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "fielder",
+          "fullName": "andyrichardson/fielder",
+          "stars": 191,
+          "url": "https://github.com/andyrichardson/fielder",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "tipple",
+          "fullName": "andyrichardson/tipple",
+          "stars": 129,
+          "url": "https://github.com/andyrichardson/tipple",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

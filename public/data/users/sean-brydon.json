@@ -1,0 +1,34 @@
+{
+  "login": "sean-brydon",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/55134778?v=4",
+  "htmlUrl": "https://github.com/sean-brydon",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 182,
+      "repoCountPrimary": 1,
+      "starsContains": 182,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "devl.dev",
+          "fullName": "sean-brydon/devl.dev",
+          "stars": 182,
+          "url": "https://github.com/sean-brydon/devl.dev",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

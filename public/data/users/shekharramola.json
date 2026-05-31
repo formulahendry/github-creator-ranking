@@ -1,0 +1,34 @@
+{
+  "login": "shekharramola",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/13901619?v=4",
+  "htmlUrl": "https://github.com/shekharramola",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 102,
+      "repoCountPrimary": 1,
+      "starsContains": 102,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-wheel-of-prizes",
+          "fullName": "shekharramola/react-wheel-of-prizes",
+          "stars": 102,
+          "url": "https://github.com/shekharramola/react-wheel-of-prizes",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

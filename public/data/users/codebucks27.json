@@ -1,0 +1,34 @@
+{
+  "login": "codebucks27",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/70878044?v=4",
+  "htmlUrl": "https://github.com/codebucks27",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 162,
+      "repoCountPrimary": 1,
+      "starsContains": 162,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Deep-Research-AI-Agent",
+          "fullName": "codebucks27/Deep-Research-AI-Agent",
+          "stars": 162,
+          "url": "https://github.com/codebucks27/Deep-Research-AI-Agent",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

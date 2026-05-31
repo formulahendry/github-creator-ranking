@@ -1,0 +1,48 @@
+{
+  "login": "davidmyersdev",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/922012?v=4",
+  "htmlUrl": "https://github.com/davidmyersdev",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 823,
+      "repoCountPrimary": 3,
+      "starsContains": 823,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vite-plugin-node-polyfills",
+          "fullName": "davidmyersdev/vite-plugin-node-polyfills",
+          "stars": 421,
+          "url": "https://github.com/davidmyersdev/vite-plugin-node-polyfills",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ink-mde",
+          "fullName": "davidmyersdev/ink-mde",
+          "stars": 299,
+          "url": "https://github.com/davidmyersdev/ink-mde",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vite-plugin-externalize-deps",
+          "fullName": "davidmyersdev/vite-plugin-externalize-deps",
+          "stars": 103,
+          "url": "https://github.com/davidmyersdev/vite-plugin-externalize-deps",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

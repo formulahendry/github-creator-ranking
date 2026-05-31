@@ -1,0 +1,34 @@
+{
+  "login": "ixkaito",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5457539?v=4",
+  "htmlUrl": "https://github.com/ixkaito",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 118,
+      "repoCountPrimary": 1,
+      "starsContains": 118,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "astro-relative-links",
+          "fullName": "ixkaito/astro-relative-links",
+          "stars": 118,
+          "url": "https://github.com/ixkaito/astro-relative-links",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

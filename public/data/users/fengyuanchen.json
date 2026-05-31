@@ -1,0 +1,62 @@
+{
+  "login": "fengyuanchen",
+  "name": "Fengyuan Chen",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3456749?v=4",
+  "htmlUrl": "https://github.com/fengyuanchen",
+  "location": "China",
+  "countryCode": "CN",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 15978,
+      "repoCountPrimary": 5,
+      "starsContains": 15978,
+      "repoCountContains": 5,
+      "globalRank": 119,
+      "countryRank": 13,
+      "topRepos": [
+        {
+          "name": "cropperjs",
+          "fullName": "fengyuanchen/cropperjs",
+          "stars": 13819,
+          "url": "https://github.com/fengyuanchen/cropperjs",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vue-qrcode",
+          "fullName": "fengyuanchen/vue-qrcode",
+          "stars": 1103,
+          "url": "https://github.com/fengyuanchen/vue-qrcode",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vue-countdown",
+          "fullName": "fengyuanchen/vue-countdown",
+          "stars": 728,
+          "url": "https://github.com/fengyuanchen/vue-countdown",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vue-number-input",
+          "fullName": "fengyuanchen/vue-number-input",
+          "stars": 172,
+          "url": "https://github.com/fengyuanchen/vue-number-input",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vue-feather",
+          "fullName": "fengyuanchen/vue-feather",
+          "stars": 156,
+          "url": "https://github.com/fengyuanchen/vue-feather",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

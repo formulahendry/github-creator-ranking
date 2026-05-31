@@ -1,0 +1,41 @@
+{
+  "login": "ikatyang",
+  "name": "Ika",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/8341033?v=4",
+  "htmlUrl": "https://github.com/ikatyang",
+  "location": "Hsinchu, Taiwan",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 13856,
+      "repoCountPrimary": 2,
+      "starsContains": 13856,
+      "repoCountContains": 2,
+      "globalRank": 143,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "emoji-cheat-sheet",
+          "fullName": "ikatyang/emoji-cheat-sheet",
+          "stars": 13733,
+          "url": "https://github.com/ikatyang/emoji-cheat-sheet",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "dts-jest",
+          "fullName": "ikatyang/dts-jest",
+          "stars": 123,
+          "url": "https://github.com/ikatyang/dts-jest",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

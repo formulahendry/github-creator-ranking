@@ -1,0 +1,34 @@
+{
+  "login": "tanmingtao1994-gif",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/257472586?v=4",
+  "htmlUrl": "https://github.com/tanmingtao1994-gif",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 179,
+      "repoCountPrimary": 1,
+      "starsContains": 179,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "fincrew",
+          "fullName": "tanmingtao1994-gif/fincrew",
+          "stars": 179,
+          "url": "https://github.com/tanmingtao1994-gif/fincrew",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

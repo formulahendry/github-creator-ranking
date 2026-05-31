@@ -1,0 +1,34 @@
+{
+  "login": "htrinter",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2707577?v=4",
+  "htmlUrl": "https://github.com/htrinter",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 326,
+      "repoCountPrimary": 1,
+      "starsContains": 326,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Open-Multiple-URLs",
+          "fullName": "htrinter/Open-Multiple-URLs",
+          "stars": 326,
+          "url": "https://github.com/htrinter/Open-Multiple-URLs",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

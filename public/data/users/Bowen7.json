@@ -1,0 +1,41 @@
+{
+  "login": "Bowen7",
+  "name": "Bowen",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/27432981?v=4",
+  "htmlUrl": "https://github.com/Bowen7",
+  "location": "China",
+  "countryCode": "CN",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 4824,
+      "repoCountPrimary": 2,
+      "starsContains": 4824,
+      "repoCountContains": 2,
+      "globalRank": 528,
+      "countryRank": 66,
+      "topRepos": [
+        {
+          "name": "regex-vis",
+          "fullName": "Bowen7/regex-vis",
+          "stars": 4385,
+          "url": "https://github.com/Bowen7/regex-vis",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-rough-fiber",
+          "fullName": "Bowen7/react-rough-fiber",
+          "stars": 439,
+          "url": "https://github.com/Bowen7/react-rough-fiber",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

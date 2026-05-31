@@ -1,0 +1,62 @@
+{
+  "login": "betomoedano",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/43630417?v=4",
+  "htmlUrl": "https://github.com/betomoedano",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2446,
+      "repoCountPrimary": 5,
+      "starsContains": 2446,
+      "repoCountContains": 5,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "snapai",
+          "fullName": "betomoedano/snapai",
+          "stars": 1828,
+          "url": "https://github.com/betomoedano/snapai",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "expo-ui-playground",
+          "fullName": "betomoedano/expo-ui-playground",
+          "stars": 229,
+          "url": "https://github.com/betomoedano/expo-ui-playground",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "groceries-shopping-list-app",
+          "fullName": "betomoedano/groceries-shopping-list-app",
+          "stars": 161,
+          "url": "https://github.com/betomoedano/groceries-shopping-list-app",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "React-Native-Notion-Clone",
+          "fullName": "betomoedano/React-Native-Notion-Clone",
+          "stars": 126,
+          "url": "https://github.com/betomoedano/React-Native-Notion-Clone",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Budget-Buddy-App",
+          "fullName": "betomoedano/Budget-Buddy-App",
+          "stars": 102,
+          "url": "https://github.com/betomoedano/Budget-Buddy-App",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

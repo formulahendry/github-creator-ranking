@@ -1,0 +1,62 @@
+{
+  "login": "aidenlx",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/31102694?v=4",
+  "htmlUrl": "https://github.com/aidenlx",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1890,
+      "repoCountPrimary": 6,
+      "starsContains": 1890,
+      "repoCountContains": 6,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "zotlit",
+          "fullName": "aidenlx/zotlit",
+          "stars": 947,
+          "url": "https://github.com/aidenlx/zotlit",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "alx-folder-note",
+          "fullName": "aidenlx/alx-folder-note",
+          "stars": 267,
+          "url": "https://github.com/aidenlx/alx-folder-note",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "table-extended",
+          "fullName": "aidenlx/table-extended",
+          "stars": 218,
+          "url": "https://github.com/aidenlx/table-extended",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "marginnote-companion",
+          "fullName": "aidenlx/marginnote-companion",
+          "stars": 171,
+          "url": "https://github.com/aidenlx/marginnote-companion",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "obsidian-icon-shortcodes",
+          "fullName": "aidenlx/obsidian-icon-shortcodes",
+          "stars": 170,
+          "url": "https://github.com/aidenlx/obsidian-icon-shortcodes",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

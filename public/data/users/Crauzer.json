@@ -1,0 +1,34 @@
+{
+  "login": "Crauzer",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/18646077?v=4",
+  "htmlUrl": "https://github.com/Crauzer",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 661,
+      "repoCountPrimary": 1,
+      "starsContains": 661,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Obsidian",
+          "fullName": "Crauzer/Obsidian",
+          "stars": 661,
+          "url": "https://github.com/Crauzer/Obsidian",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

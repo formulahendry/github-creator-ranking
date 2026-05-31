@@ -1,11 +1,11 @@
 {
   "login": "mifi",
-  "name": null,
+  "name": "Mikael Finstad",
   "avatarUrl": "https://avatars.githubusercontent.com/u/402547?v=4",
   "htmlUrl": "https://github.com/mifi",
-  "location": null,
+  "location": "Norway",
   "countryCode": null,
-  "generatedAt": "2026-05-31T13:50:40.799Z",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
   "isPartial": true,
   "languages": [
     {
@@ -14,18 +14,46 @@
         "name": "TypeScript",
         "githubQuery": "TypeScript"
       },
-      "starsPrimary": 40807,
-      "repoCountPrimary": 1,
-      "starsContains": 40807,
-      "repoCountContains": 1,
+      "starsPrimary": 48749,
+      "repoCountPrimary": 6,
+      "starsContains": 48749,
+      "repoCountContains": 6,
       "globalRank": 19,
       "countryRank": null,
       "topRepos": [
         {
           "name": "lossless-cut",
           "fullName": "mifi/lossless-cut",
-          "stars": 40807,
+          "stars": 40813,
           "url": "https://github.com/mifi/lossless-cut",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "editly",
+          "fullName": "mifi/editly",
+          "stars": 5425,
+          "url": "https://github.com/mifi/editly",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "instauto",
+          "fullName": "mifi/instauto",
+          "stars": 841,
+          "url": "https://github.com/mifi/instauto",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ezshare",
+          "fullName": "mifi/ezshare",
+          "stars": 781,
+          "url": "https://github.com/mifi/ezshare",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "SimpleInstaBot",
+          "fullName": "mifi/SimpleInstaBot",
+          "stars": 673,
+          "url": "https://github.com/mifi/SimpleInstaBot",
           "primaryLanguage": "TypeScript"
         }
       ]

@@ -1,0 +1,34 @@
+{
+  "login": "mehanix",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/23579982?v=4",
+  "htmlUrl": "https://github.com/mehanix",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 358,
+      "repoCountPrimary": 1,
+      "starsContains": 358,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "arcada",
+          "fullName": "mehanix/arcada",
+          "stars": 358,
+          "url": "https://github.com/mehanix/arcada",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

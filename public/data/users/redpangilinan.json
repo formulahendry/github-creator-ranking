@@ -1,0 +1,62 @@
+{
+  "login": "redpangilinan",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/82772769?v=4",
+  "htmlUrl": "https://github.com/redpangilinan",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1533,
+      "repoCountPrimary": 5,
+      "starsContains": 1533,
+      "repoCountContains": 5,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "credenza",
+          "fullName": "redpangilinan/credenza",
+          "stars": 893,
+          "url": "https://github.com/redpangilinan/credenza",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "iotawise",
+          "fullName": "redpangilinan/iotawise",
+          "stars": 261,
+          "url": "https://github.com/redpangilinan/iotawise",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "next-entree",
+          "fullName": "redpangilinan/next-entree",
+          "stars": 158,
+          "url": "https://github.com/redpangilinan/next-entree",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "next-shadcn-landing",
+          "fullName": "redpangilinan/next-shadcn-landing",
+          "stars": 111,
+          "url": "https://github.com/redpangilinan/next-shadcn-landing",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "crikket",
+          "fullName": "redpangilinan/crikket",
+          "stars": 110,
+          "url": "https://github.com/redpangilinan/crikket",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

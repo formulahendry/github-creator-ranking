@@ -1,0 +1,34 @@
+{
+  "login": "hannoeru",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/16288797?v=4",
+  "htmlUrl": "https://github.com/hannoeru",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2078,
+      "repoCountPrimary": 1,
+      "starsContains": 2078,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vite-plugin-pages",
+          "fullName": "hannoeru/vite-plugin-pages",
+          "stars": 2078,
+          "url": "https://github.com/hannoeru/vite-plugin-pages",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

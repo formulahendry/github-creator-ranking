@@ -1,0 +1,41 @@
+{
+  "login": "coston",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7424180?v=4",
+  "htmlUrl": "https://github.com/coston",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 564,
+      "repoCountPrimary": 2,
+      "starsContains": 564,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-super-responsive-table",
+          "fullName": "coston/react-super-responsive-table",
+          "stars": 443,
+          "url": "https://github.com/coston/react-super-responsive-table",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-obfuscate",
+          "fullName": "coston/react-obfuscate",
+          "stars": 121,
+          "url": "https://github.com/coston/react-obfuscate",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

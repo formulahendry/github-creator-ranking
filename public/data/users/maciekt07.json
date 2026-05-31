@@ -1,0 +1,34 @@
+{
+  "login": "maciekt07",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/85953204?v=4",
+  "htmlUrl": "https://github.com/maciekt07",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 371,
+      "repoCountPrimary": 1,
+      "starsContains": 371,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "TodoApp",
+          "fullName": "maciekt07/TodoApp",
+          "stars": 371,
+          "url": "https://github.com/maciekt07/TodoApp",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "klover2",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/49548817?v=4",
+  "htmlUrl": "https://github.com/klover2",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 772,
+      "repoCountPrimary": 1,
+      "starsContains": 772,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "wechatpay-node-v3-ts",
+          "fullName": "klover2/wechatpay-node-v3-ts",
+          "stars": 772,
+          "url": "https://github.com/klover2/wechatpay-node-v3-ts",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

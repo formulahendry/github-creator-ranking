@@ -1,11 +1,11 @@
 {
   "login": "ItzCrazyKns",
-  "name": null,
+  "name": "Kushagra Srivastava",
   "avatarUrl": "https://avatars.githubusercontent.com/u/95534749?v=4",
   "htmlUrl": "https://github.com/ItzCrazyKns",
-  "location": null,
+  "location": "127.0.0.1",
   "countryCode": null,
-  "generatedAt": "2026-05-31T13:50:40.799Z",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
   "isPartial": true,
   "languages": [
     {
@@ -14,18 +14,32 @@
         "name": "TypeScript",
         "githubQuery": "TypeScript"
       },
-      "starsPrimary": 35024,
-      "repoCountPrimary": 1,
-      "starsContains": 35024,
-      "repoCountContains": 1,
-      "globalRank": null,
+      "starsPrimary": 35267,
+      "repoCountPrimary": 3,
+      "starsContains": 35267,
+      "repoCountContains": 3,
+      "globalRank": 35,
       "countryRank": null,
       "topRepos": [
         {
           "name": "Vane",
           "fullName": "ItzCrazyKns/Vane",
-          "stars": 35024,
+          "stars": 35028,
           "url": "https://github.com/ItzCrazyKns/Vane",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Epoch",
+          "fullName": "ItzCrazyKns/Epoch",
+          "stars": 132,
+          "url": "https://github.com/ItzCrazyKns/Epoch",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Not-Devin",
+          "fullName": "ItzCrazyKns/Not-Devin",
+          "stars": 107,
+          "url": "https://github.com/ItzCrazyKns/Not-Devin",
           "primaryLanguage": "TypeScript"
         }
       ]

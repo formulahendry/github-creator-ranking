@@ -1,0 +1,41 @@
+{
+  "login": "maykbrito",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6643122?v=4",
+  "htmlUrl": "https://github.com/maykbrito",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2047,
+      "repoCountPrimary": 2,
+      "starsContains": 2047,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "mini-video-me",
+          "fullName": "maykbrito/mini-video-me",
+          "stars": 1635,
+          "url": "https://github.com/maykbrito/mini-video-me",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "fronteditorv2",
+          "fullName": "maykbrito/fronteditorv2",
+          "stars": 412,
+          "url": "https://github.com/maykbrito/fronteditorv2",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "Marcisbee",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/16621507?v=4",
+  "htmlUrl": "https://github.com/Marcisbee",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1222,
+      "repoCountPrimary": 2,
+      "starsContains": 1222,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "radi",
+          "fullName": "Marcisbee/radi",
+          "stars": 943,
+          "url": "https://github.com/Marcisbee/radi",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "exome",
+          "fullName": "Marcisbee/exome",
+          "stars": 279,
+          "url": "https://github.com/Marcisbee/exome",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "hellowuxin",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/37543498?v=4",
+  "htmlUrl": "https://github.com/hellowuxin",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 454,
+      "repoCountPrimary": 1,
+      "starsContains": 454,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vue3-mindmap",
+          "fullName": "hellowuxin/vue3-mindmap",
+          "stars": 454,
+          "url": "https://github.com/hellowuxin/vue3-mindmap",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "login": "phamfoo",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/57227217?v=4",
+  "htmlUrl": "https://github.com/phamfoo",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1236,
+      "repoCountPrimary": 4,
+      "starsContains": 1236,
+      "repoCountContains": 4,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-native-figma-squircle",
+          "fullName": "phamfoo/react-native-figma-squircle",
+          "stars": 355,
+          "url": "https://github.com/phamfoo/react-native-figma-squircle",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-native-animated-spinkit",
+          "fullName": "phamfoo/react-native-animated-spinkit",
+          "stars": 328,
+          "url": "https://github.com/phamfoo/react-native-animated-spinkit",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "figma-squircle",
+          "fullName": "phamfoo/figma-squircle",
+          "stars": 294,
+          "url": "https://github.com/phamfoo/figma-squircle",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-native-easing-gradient",
+          "fullName": "phamfoo/react-native-easing-gradient",
+          "stars": 259,
+          "url": "https://github.com/phamfoo/react-native-easing-gradient",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

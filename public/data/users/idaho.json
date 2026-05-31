@@ -1,0 +1,34 @@
+{
+  "login": "idaho",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/664101?v=4",
+  "htmlUrl": "https://github.com/idaho",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 355,
+      "repoCountPrimary": 1,
+      "starsContains": 355,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "hassio-trash-card",
+          "fullName": "idaho/hassio-trash-card",
+          "stars": 355,
+          "url": "https://github.com/idaho/hassio-trash-card",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

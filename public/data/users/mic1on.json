@@ -1,0 +1,34 @@
+{
+  "login": "mic1on",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/62975647?v=4",
+  "htmlUrl": "https://github.com/mic1on",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 269,
+      "repoCountPrimary": 1,
+      "starsContains": 269,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "xpath-helper-plus",
+          "fullName": "mic1on/xpath-helper-plus",
+          "stars": 269,
+          "url": "https://github.com/mic1on/xpath-helper-plus",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

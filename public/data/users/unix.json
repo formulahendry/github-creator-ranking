@@ -1,0 +1,55 @@
+{
+  "login": "unix",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/11304944?v=4",
+  "htmlUrl": "https://github.com/unix",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1156,
+      "repoCountPrimary": 4,
+      "starsContains": 1156,
+      "repoCountContains": 4,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "func",
+          "fullName": "unix/func",
+          "stars": 406,
+          "url": "https://github.com/unix/func",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "koa-ts",
+          "fullName": "unix/koa-ts",
+          "stars": 380,
+          "url": "https://github.com/unix/koa-ts",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "unix.bio",
+          "fullName": "unix/unix.bio",
+          "stars": 225,
+          "url": "https://github.com/unix/unix.bio",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "simpler-paper",
+          "fullName": "unix/simpler-paper",
+          "stars": 145,
+          "url": "https://github.com/unix/simpler-paper",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

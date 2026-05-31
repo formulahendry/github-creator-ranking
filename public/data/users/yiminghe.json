@@ -1,0 +1,34 @@
+{
+  "login": "yiminghe",
+  "name": "yiminghe",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/200876?v=4",
+  "htmlUrl": "https://github.com/yiminghe",
+  "location": "China, Shanghai",
+  "countryCode": "CN",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 9095,
+      "repoCountPrimary": 1,
+      "starsContains": 9095,
+      "repoCountContains": 1,
+      "globalRank": 254,
+      "countryRank": 31,
+      "topRepos": [
+        {
+          "name": "async-validator",
+          "fullName": "yiminghe/async-validator",
+          "stars": 9095,
+          "url": "https://github.com/yiminghe/async-validator",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

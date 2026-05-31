@@ -1,0 +1,55 @@
+{
+  "login": "mickasmt",
+  "name": "mickasmt",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/62285783?v=4",
+  "htmlUrl": "https://github.com/mickasmt",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3670,
+      "repoCountPrimary": 4,
+      "starsContains": 3670,
+      "repoCountContains": 4,
+      "globalRank": 721,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "next-saas-stripe-starter",
+          "fullName": "mickasmt/next-saas-stripe-starter",
+          "stars": 2986,
+          "url": "https://github.com/mickasmt/next-saas-stripe-starter",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "next-auth-roles-template",
+          "fullName": "mickasmt/next-auth-roles-template",
+          "stars": 335,
+          "url": "https://github.com/mickasmt/next-auth-roles-template",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ui-colorgen",
+          "fullName": "mickasmt/ui-colorgen",
+          "stars": 225,
+          "url": "https://github.com/mickasmt/ui-colorgen",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "next-mobbin-clone",
+          "fullName": "mickasmt/next-mobbin-clone",
+          "stars": 124,
+          "url": "https://github.com/mickasmt/next-mobbin-clone",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

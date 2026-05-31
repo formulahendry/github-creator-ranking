@@ -1,0 +1,41 @@
+{
+  "login": "thundernet8",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7200477?v=4",
+  "htmlUrl": "https://github.com/thundernet8",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 595,
+      "repoCountPrimary": 2,
+      "starsContains": 595,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "StarCabinet",
+          "fullName": "thundernet8/StarCabinet",
+          "stars": 407,
+          "url": "https://github.com/thundernet8/StarCabinet",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "YouzanPayPortal",
+          "fullName": "thundernet8/YouzanPayPortal",
+          "stars": 188,
+          "url": "https://github.com/thundernet8/YouzanPayPortal",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

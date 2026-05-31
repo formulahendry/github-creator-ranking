@@ -1,0 +1,48 @@
+{
+  "login": "chhoumann",
+  "name": "Christian Bager Bach Houmann",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/29108628?v=4",
+  "htmlUrl": "https://github.com/chhoumann",
+  "location": "Aalborg, DK",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2976,
+      "repoCountPrimary": 3,
+      "starsContains": 2976,
+      "repoCountContains": 3,
+      "globalRank": 906,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "quickadd",
+          "fullName": "chhoumann/quickadd",
+          "stars": 2232,
+          "url": "https://github.com/chhoumann/quickadd",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "MetaEdit",
+          "fullName": "chhoumann/MetaEdit",
+          "stars": 485,
+          "url": "https://github.com/chhoumann/MetaEdit",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "PodNotes",
+          "fullName": "chhoumann/PodNotes",
+          "stars": 259,
+          "url": "https://github.com/chhoumann/PodNotes",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

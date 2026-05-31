@@ -1,0 +1,41 @@
+{
+  "login": "landluck",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/27060081?v=4",
+  "htmlUrl": "https://github.com/landluck",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 585,
+      "repoCountPrimary": 2,
+      "starsContains": 585,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-ant-admin",
+          "fullName": "landluck/react-ant-admin",
+          "stars": 480,
+          "url": "https://github.com/landluck/react-ant-admin",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "iny-bus",
+          "fullName": "landluck/iny-bus",
+          "stars": 105,
+          "url": "https://github.com/landluck/iny-bus",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

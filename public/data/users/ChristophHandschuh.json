@@ -1,0 +1,34 @@
+{
+  "login": "ChristophHandschuh",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/69692985?v=4",
+  "htmlUrl": "https://github.com/ChristophHandschuh",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 110,
+      "repoCountPrimary": 1,
+      "starsContains": 110,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "chatbot-ui",
+          "fullName": "ChristophHandschuh/chatbot-ui",
+          "stars": 110,
+          "url": "https://github.com/ChristophHandschuh/chatbot-ui",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

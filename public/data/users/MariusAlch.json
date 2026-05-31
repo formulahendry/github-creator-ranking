@@ -1,0 +1,41 @@
+{
+  "login": "MariusAlch",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/11492675?v=4",
+  "htmlUrl": "https://github.com/MariusAlch",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 570,
+      "repoCountPrimary": 2,
+      "starsContains": 570,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "json-to-ts",
+          "fullName": "MariusAlch/json-to-ts",
+          "stars": 432,
+          "url": "https://github.com/MariusAlch/json-to-ts",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vscode-json-to-ts",
+          "fullName": "MariusAlch/vscode-json-to-ts",
+          "stars": 138,
+          "url": "https://github.com/MariusAlch/vscode-json-to-ts",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

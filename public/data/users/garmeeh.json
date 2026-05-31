@@ -1,0 +1,34 @@
+{
+  "login": "garmeeh",
+  "name": "Gary Meehan",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/13333582?v=4",
+  "htmlUrl": "https://github.com/garmeeh",
+  "location": "Wexford, Ireland",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 8462,
+      "repoCountPrimary": 1,
+      "starsContains": 8462,
+      "repoCountContains": 1,
+      "globalRank": 267,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "next-seo",
+          "fullName": "garmeeh/next-seo",
+          "stars": 8462,
+          "url": "https://github.com/garmeeh/next-seo",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

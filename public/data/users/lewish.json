@@ -1,0 +1,34 @@
+{
+  "login": "lewish",
+  "name": "Lewis Hemens",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/912458?v=4",
+  "htmlUrl": "https://github.com/lewish",
+  "location": "London, UK",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 5729,
+      "repoCountPrimary": 1,
+      "starsContains": 5729,
+      "repoCountContains": 1,
+      "globalRank": 421,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "asciiflow",
+          "fullName": "lewish/asciiflow",
+          "stars": 5729,
+          "url": "https://github.com/lewish/asciiflow",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

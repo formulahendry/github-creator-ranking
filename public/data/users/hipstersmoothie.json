@@ -1,0 +1,62 @@
+{
+  "login": "hipstersmoothie",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1192452?v=4",
+  "htmlUrl": "https://github.com/hipstersmoothie",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1257,
+      "repoCountPrimary": 6,
+      "starsContains": 1257,
+      "repoCountContains": 6,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "storybook-dark-mode",
+          "fullName": "hipstersmoothie/storybook-dark-mode",
+          "stars": 477,
+          "url": "https://github.com/hipstersmoothie/storybook-dark-mode",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "obsidian-plugin-toc",
+          "fullName": "hipstersmoothie/obsidian-plugin-toc",
+          "stars": 333,
+          "url": "https://github.com/hipstersmoothie/obsidian-plugin-toc",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "window-splitter",
+          "fullName": "hipstersmoothie/window-splitter",
+          "stars": 127,
+          "url": "https://github.com/hipstersmoothie/window-splitter",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "eslint-formatter-github",
+          "fullName": "hipstersmoothie/eslint-formatter-github",
+          "stars": 111,
+          "url": "https://github.com/hipstersmoothie/eslint-formatter-github",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "jest-github-reporter",
+          "fullName": "hipstersmoothie/jest-github-reporter",
+          "stars": 106,
+          "url": "https://github.com/hipstersmoothie/jest-github-reporter",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

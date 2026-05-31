@@ -1,0 +1,48 @@
+{
+  "login": "souporserious",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2762082?v=4",
+  "htmlUrl": "https://github.com/souporserious",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1164,
+      "repoCountPrimary": 3,
+      "starsContains": 1164,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "renoun",
+          "fullName": "souporserious/renoun",
+          "stars": 602,
+          "url": "https://github.com/souporserious/renoun",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "restyle",
+          "fullName": "souporserious/restyle",
+          "stars": 449,
+          "url": "https://github.com/souporserious/restyle",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "tsxmod",
+          "fullName": "souporserious/tsxmod",
+          "stars": 113,
+          "url": "https://github.com/souporserious/tsxmod",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

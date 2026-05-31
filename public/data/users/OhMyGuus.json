@@ -1,0 +1,41 @@
+{
+  "login": "OhMyGuus",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/12090928?v=4",
+  "htmlUrl": "https://github.com/OhMyGuus",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1241,
+      "repoCountPrimary": 2,
+      "starsContains": 1241,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "BetterCrewLink",
+          "fullName": "OhMyGuus/BetterCrewLink",
+          "stars": 1062,
+          "url": "https://github.com/OhMyGuus/BetterCrewLink",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "BetterCrewlink-mobile",
+          "fullName": "OhMyGuus/BetterCrewlink-mobile",
+          "stars": 179,
+          "url": "https://github.com/OhMyGuus/BetterCrewlink-mobile",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

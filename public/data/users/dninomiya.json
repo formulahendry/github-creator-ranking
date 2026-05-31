@@ -1,0 +1,41 @@
+{
+  "login": "dninomiya",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5842851?v=4",
+  "htmlUrl": "https://github.com/dninomiya",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 327,
+      "repoCountPrimary": 2,
+      "starsContains": 327,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "full-calendar-for-shadcn-ui",
+          "fullName": "dninomiya/full-calendar-for-shadcn-ui",
+          "stars": 218,
+          "url": "https://github.com/dninomiya/full-calendar-for-shadcn-ui",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "form-guide",
+          "fullName": "dninomiya/form-guide",
+          "stars": 109,
+          "url": "https://github.com/dninomiya/form-guide",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

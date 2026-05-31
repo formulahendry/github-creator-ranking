@@ -1,0 +1,34 @@
+{
+  "login": "herrethan",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5460067?v=4",
+  "htmlUrl": "https://github.com/herrethan",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 252,
+      "repoCountPrimary": 1,
+      "starsContains": 252,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-confetti-explosion",
+          "fullName": "herrethan/react-confetti-explosion",
+          "stars": 252,
+          "url": "https://github.com/herrethan/react-confetti-explosion",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

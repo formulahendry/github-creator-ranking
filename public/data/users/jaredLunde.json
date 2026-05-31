@@ -1,0 +1,41 @@
+{
+  "login": "jaredLunde",
+  "name": "Jared Lunde",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/86995?v=4",
+  "htmlUrl": "https://github.com/jaredLunde",
+  "location": "California",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2931,
+      "repoCountPrimary": 2,
+      "starsContains": 2931,
+      "repoCountContains": 2,
+      "globalRank": 920,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-hook",
+          "fullName": "jaredLunde/react-hook",
+          "stars": 1534,
+          "url": "https://github.com/jaredLunde/react-hook",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "masonic",
+          "fullName": "jaredLunde/masonic",
+          "stars": 1397,
+          "url": "https://github.com/jaredLunde/masonic",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

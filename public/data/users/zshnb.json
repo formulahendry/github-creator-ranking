@@ -1,0 +1,34 @@
+{
+  "login": "zshnb",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/17894980?v=4",
+  "htmlUrl": "https://github.com/zshnb",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 126,
+      "repoCountPrimary": 1,
+      "starsContains": 126,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "lifetime-visualization",
+          "fullName": "zshnb/lifetime-visualization",
+          "stars": 126,
+          "url": "https://github.com/zshnb/lifetime-visualization",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

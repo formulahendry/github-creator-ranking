@@ -1,0 +1,41 @@
+{
+  "login": "IIIIQIIII",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/73766507?v=4",
+  "htmlUrl": "https://github.com/IIIIQIIII",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 279,
+      "repoCountPrimary": 2,
+      "starsContains": 279,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "claude-code-clean",
+          "fullName": "IIIIQIIII/claude-code-clean",
+          "stars": 142,
+          "url": "https://github.com/IIIIQIIII/claude-code-clean",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "claude-code",
+          "fullName": "IIIIQIIII/claude-code",
+          "stars": 137,
+          "url": "https://github.com/IIIIQIIII/claude-code",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "login": "mrmartineau",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/64883?v=4",
+  "htmlUrl": "https://github.com/mrmartineau",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1196,
+      "repoCountPrimary": 3,
+      "starsContains": 1196,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "design-system-utils",
+          "fullName": "mrmartineau/design-system-utils",
+          "stars": 544,
+          "url": "https://github.com/mrmartineau/design-system-utils",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "gatsby-theme-code-notes",
+          "fullName": "mrmartineau/gatsby-theme-code-notes",
+          "stars": 467,
+          "url": "https://github.com/mrmartineau/gatsby-theme-code-notes",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Otter",
+          "fullName": "mrmartineau/Otter",
+          "stars": 185,
+          "url": "https://github.com/mrmartineau/Otter",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

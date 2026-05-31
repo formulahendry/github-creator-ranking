@@ -1,0 +1,48 @@
+{
+  "login": "FarazzShaikh",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/55190601?v=4",
+  "htmlUrl": "https://github.com/FarazzShaikh",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1592,
+      "repoCountPrimary": 3,
+      "starsContains": 1592,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "THREE-CustomShaderMaterial",
+          "fullName": "FarazzShaikh/THREE-CustomShaderMaterial",
+          "stars": 1299,
+          "url": "https://github.com/FarazzShaikh/THREE-CustomShaderMaterial",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "three-shader-baker",
+          "fullName": "FarazzShaikh/three-shader-baker",
+          "stars": 178,
+          "url": "https://github.com/FarazzShaikh/three-shader-baker",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "three-volumetric-clouds",
+          "fullName": "FarazzShaikh/three-volumetric-clouds",
+          "stars": 115,
+          "url": "https://github.com/FarazzShaikh/three-volumetric-clouds",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

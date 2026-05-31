@@ -1,0 +1,34 @@
+{
+  "login": "liltrendi",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/39704881?v=4",
+  "htmlUrl": "https://github.com/liltrendi",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 492,
+      "repoCountPrimary": 1,
+      "starsContains": 492,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "gitlantis",
+          "fullName": "liltrendi/gitlantis",
+          "stars": 492,
+          "url": "https://github.com/liltrendi/gitlantis",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

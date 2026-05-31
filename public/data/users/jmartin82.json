@@ -1,0 +1,34 @@
+{
+  "login": "jmartin82",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/152270?v=4",
+  "htmlUrl": "https://github.com/jmartin82",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 694,
+      "repoCountPrimary": 1,
+      "starsContains": 694,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "mmock",
+          "fullName": "jmartin82/mmock",
+          "stars": 694,
+          "url": "https://github.com/jmartin82/mmock",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

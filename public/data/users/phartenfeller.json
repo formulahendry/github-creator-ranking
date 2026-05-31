@@ -1,0 +1,34 @@
+{
+  "login": "phartenfeller",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/34486873?v=4",
+  "htmlUrl": "https://github.com/phartenfeller",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 118,
+      "repoCountPrimary": 1,
+      "starsContains": 118,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "sveltekit-1.0-sqlite-demo-app",
+          "fullName": "phartenfeller/sveltekit-1.0-sqlite-demo-app",
+          "stars": 118,
+          "url": "https://github.com/phartenfeller/sveltekit-1.0-sqlite-demo-app",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

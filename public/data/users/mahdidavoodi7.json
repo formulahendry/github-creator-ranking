@@ -1,0 +1,41 @@
+{
+  "login": "mahdidavoodi7",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/29153345?v=4",
+  "htmlUrl": "https://github.com/mahdidavoodi7",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 481,
+      "repoCountPrimary": 2,
+      "starsContains": 481,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "bottom-sheet-stepper",
+          "fullName": "mahdidavoodi7/bottom-sheet-stepper",
+          "stars": 303,
+          "url": "https://github.com/mahdidavoodi7/bottom-sheet-stepper",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "expo-apple-music-bottom-sheet",
+          "fullName": "mahdidavoodi7/expo-apple-music-bottom-sheet",
+          "stars": 178,
+          "url": "https://github.com/mahdidavoodi7/expo-apple-music-bottom-sheet",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

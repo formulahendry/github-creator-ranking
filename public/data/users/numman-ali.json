@@ -1,0 +1,62 @@
+{
+  "login": "numman-ali",
+  "name": "Numman Ali",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/35879093?v=4",
+  "htmlUrl": "https://github.com/numman-ali",
+  "location": "UK (Remote)",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 15732,
+      "repoCountPrimary": 5,
+      "starsContains": 15732,
+      "repoCountContains": 5,
+      "globalRank": 123,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "openskills",
+          "fullName": "numman-ali/openskills",
+          "stars": 10308,
+          "url": "https://github.com/numman-ali/openskills",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "cc-mirror",
+          "fullName": "numman-ali/cc-mirror",
+          "stars": 2229,
+          "url": "https://github.com/numman-ali/cc-mirror",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "opencode-openai-codex-auth",
+          "fullName": "numman-ali/opencode-openai-codex-auth",
+          "stars": 2086,
+          "url": "https://github.com/numman-ali/opencode-openai-codex-auth",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "n-skills",
+          "fullName": "numman-ali/n-skills",
+          "stars": 992,
+          "url": "https://github.com/numman-ali/n-skills",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "codex-wrapped",
+          "fullName": "numman-ali/codex-wrapped",
+          "stars": 117,
+          "url": "https://github.com/numman-ali/codex-wrapped",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

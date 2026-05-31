@@ -1,0 +1,34 @@
+{
+  "login": "er77",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/12100294?v=4",
+  "htmlUrl": "https://github.com/er77",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 118,
+      "repoCountPrimary": 1,
+      "starsContains": 118,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "code-graph-rag-mcp",
+          "fullName": "er77/code-graph-rag-mcp",
+          "stars": 118,
+          "url": "https://github.com/er77/code-graph-rag-mcp",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

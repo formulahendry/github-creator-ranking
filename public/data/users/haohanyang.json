@@ -1,0 +1,34 @@
+{
+  "login": "haohanyang",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/37651510?v=4",
+  "htmlUrl": "https://github.com/haohanyang",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 155,
+      "repoCountPrimary": 1,
+      "starsContains": 155,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "mongodb-datasource",
+          "fullName": "haohanyang/mongodb-datasource",
+          "stars": 155,
+          "url": "https://github.com/haohanyang/mongodb-datasource",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

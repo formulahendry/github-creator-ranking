@@ -1,0 +1,34 @@
+{
+  "login": "lookfirst",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/85355?v=4",
+  "htmlUrl": "https://github.com/lookfirst",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 527,
+      "repoCountPrimary": 1,
+      "starsContains": 527,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "mui-rff",
+          "fullName": "lookfirst/mui-rff",
+          "stars": 527,
+          "url": "https://github.com/lookfirst/mui-rff",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

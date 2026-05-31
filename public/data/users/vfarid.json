@@ -1,0 +1,41 @@
+{
+  "login": "vfarid",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/23278340?v=4",
+  "htmlUrl": "https://github.com/vfarid",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2113,
+      "repoCountPrimary": 2,
+      "starsContains": 2113,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "v2ray-worker",
+          "fullName": "vfarid/v2ray-worker",
+          "stars": 1404,
+          "url": "https://github.com/vfarid/v2ray-worker",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "v2ray-worker-sub",
+          "fullName": "vfarid/v2ray-worker-sub",
+          "stars": 709,
+          "url": "https://github.com/vfarid/v2ray-worker-sub",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

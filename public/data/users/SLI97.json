@@ -1,0 +1,34 @@
+{
+  "login": "SLI97",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/63903024?v=4",
+  "htmlUrl": "https://github.com/SLI97",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 125,
+      "repoCountPrimary": 1,
+      "starsContains": 125,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "cocos-cramped-room-of-death",
+          "fullName": "SLI97/cocos-cramped-room-of-death",
+          "stars": 125,
+          "url": "https://github.com/SLI97/cocos-cramped-room-of-death",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "felipeAguiarCode",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/37452836?v=4",
+  "htmlUrl": "https://github.com/felipeAguiarCode",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 703,
+      "repoCountPrimary": 2,
+      "starsContains": 703,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "angular-playground",
+          "fullName": "felipeAguiarCode/angular-playground",
+          "stars": 461,
+          "url": "https://github.com/felipeAguiarCode/angular-playground",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "node-blue-boilerplate",
+          "fullName": "felipeAguiarCode/node-blue-boilerplate",
+          "stars": 242,
+          "url": "https://github.com/felipeAguiarCode/node-blue-boilerplate",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

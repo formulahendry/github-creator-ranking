@@ -1,0 +1,48 @@
+{
+  "login": "GeorgeSG",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2514425?v=4",
+  "htmlUrl": "https://github.com/GeorgeSG",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 931,
+      "repoCountPrimary": 3,
+      "starsContains": 931,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "KoInsight",
+          "fullName": "GeorgeSG/KoInsight",
+          "stars": 543,
+          "url": "https://github.com/GeorgeSG/KoInsight",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "lovelace-time-picker-card",
+          "fullName": "GeorgeSG/lovelace-time-picker-card",
+          "stars": 277,
+          "url": "https://github.com/GeorgeSG/lovelace-time-picker-card",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "sub.rehab",
+          "fullName": "GeorgeSG/sub.rehab",
+          "stars": 111,
+          "url": "https://github.com/GeorgeSG/sub.rehab",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

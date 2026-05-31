@@ -1,0 +1,41 @@
+{
+  "login": "tmustier",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6326440?v=4",
+  "htmlUrl": "https://github.com/tmustier",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 696,
+      "repoCountPrimary": 2,
+      "starsContains": 696,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "pi-extensions",
+          "fullName": "tmustier/pi-extensions",
+          "stars": 357,
+          "url": "https://github.com/tmustier/pi-extensions",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "pi-for-excel",
+          "fullName": "tmustier/pi-for-excel",
+          "stars": 339,
+          "url": "https://github.com/tmustier/pi-for-excel",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

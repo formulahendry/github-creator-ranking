@@ -1,0 +1,34 @@
+{
+  "login": "JessYan0913",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/52144974?v=4",
+  "htmlUrl": "https://github.com/JessYan0913",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 598,
+      "repoCountPrimary": 1,
+      "starsContains": 598,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "pictode",
+          "fullName": "JessYan0913/pictode",
+          "stars": 598,
+          "url": "https://github.com/JessYan0913/pictode",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

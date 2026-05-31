@@ -1,0 +1,34 @@
+{
+  "login": "a-ghorbani",
+  "name": "Asghar Ghorbani",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/11278140?v=4",
+  "htmlUrl": "https://github.com/a-ghorbani",
+  "location": "Germany",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 7113,
+      "repoCountPrimary": 1,
+      "starsContains": 7113,
+      "repoCountContains": 1,
+      "globalRank": 325,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "pocketpal-ai",
+          "fullName": "a-ghorbani/pocketpal-ai",
+          "stars": 7113,
+          "url": "https://github.com/a-ghorbani/pocketpal-ai",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

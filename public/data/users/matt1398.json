@@ -1,0 +1,34 @@
+{
+  "login": "matt1398",
+  "name": "matt",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/113107082?v=4",
+  "htmlUrl": "https://github.com/matt1398",
+  "location": "Seoul",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3492,
+      "repoCountPrimary": 1,
+      "starsContains": 3492,
+      "repoCountContains": 1,
+      "globalRank": 771,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "claude-devtools",
+          "fullName": "matt1398/claude-devtools",
+          "stars": 3492,
+          "url": "https://github.com/matt1398/claude-devtools",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

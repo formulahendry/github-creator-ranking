@@ -1,0 +1,34 @@
+{
+  "login": "fast-reflexes",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2438128?v=4",
+  "htmlUrl": "https://github.com/fast-reflexes",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 186,
+      "repoCountPrimary": 1,
+      "starsContains": 186,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "better-react-mathjax",
+          "fullName": "fast-reflexes/better-react-mathjax",
+          "stars": 186,
+          "url": "https://github.com/fast-reflexes/better-react-mathjax",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

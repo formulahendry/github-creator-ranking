@@ -1,0 +1,34 @@
+{
+  "login": "jlkiri",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/38713361?v=4",
+  "htmlUrl": "https://github.com/jlkiri",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 246,
+      "repoCountPrimary": 1,
+      "starsContains": 246,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-easy-flip",
+          "fullName": "jlkiri/react-easy-flip",
+          "stars": 246,
+          "url": "https://github.com/jlkiri/react-easy-flip",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

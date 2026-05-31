@@ -1,0 +1,48 @@
+{
+  "login": "Andarist",
+  "name": "Mateusz Burzyński",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/9800850?v=4",
+  "htmlUrl": "https://github.com/Andarist",
+  "location": "Wrocław, Poland",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3120,
+      "repoCountPrimary": 3,
+      "starsContains": 3120,
+      "repoCountContains": 3,
+      "globalRank": 864,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-textarea-autosize",
+          "fullName": "Andarist/react-textarea-autosize",
+          "stars": 2409,
+          "url": "https://github.com/Andarist/react-textarea-autosize",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "use-onclickoutside",
+          "fullName": "Andarist/use-onclickoutside",
+          "stars": 497,
+          "url": "https://github.com/Andarist/use-onclickoutside",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "use-constant",
+          "fullName": "Andarist/use-constant",
+          "stars": 214,
+          "url": "https://github.com/Andarist/use-constant",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

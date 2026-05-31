@@ -1,0 +1,48 @@
+{
+  "login": "zebangeth",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/112261071?v=4",
+  "htmlUrl": "https://github.com/zebangeth",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 993,
+      "repoCountPrimary": 3,
+      "starsContains": 993,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "PawPal",
+          "fullName": "zebangeth/PawPal",
+          "stars": 503,
+          "url": "https://github.com/zebangeth/PawPal",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ai-closet",
+          "fullName": "zebangeth/ai-closet",
+          "stars": 264,
+          "url": "https://github.com/zebangeth/ai-closet",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "rent-or-buy.homes",
+          "fullName": "zebangeth/rent-or-buy.homes",
+          "stars": 226,
+          "url": "https://github.com/zebangeth/rent-or-buy.homes",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

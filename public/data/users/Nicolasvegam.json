@@ -1,0 +1,34 @@
+{
+  "login": "Nicolasvegam",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/26209122?v=4",
+  "htmlUrl": "https://github.com/Nicolasvegam",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 134,
+      "repoCountPrimary": 1,
+      "starsContains": 134,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "garmin-connect-mcp",
+          "fullName": "Nicolasvegam/garmin-connect-mcp",
+          "stars": 134,
+          "url": "https://github.com/Nicolasvegam/garmin-connect-mcp",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

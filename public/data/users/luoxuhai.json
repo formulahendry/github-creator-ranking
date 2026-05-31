@@ -1,0 +1,48 @@
+{
+  "login": "luoxuhai",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/37284154?v=4",
+  "htmlUrl": "https://github.com/luoxuhai",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1412,
+      "repoCountPrimary": 3,
+      "starsContains": 1412,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Alock",
+          "fullName": "luoxuhai/Alock",
+          "stars": 623,
+          "url": "https://github.com/luoxuhai/Alock",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "pcl.js",
+          "fullName": "luoxuhai/pcl.js",
+          "stars": 473,
+          "url": "https://github.com/luoxuhai/pcl.js",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "NightVision",
+          "fullName": "luoxuhai/NightVision",
+          "stars": 316,
+          "url": "https://github.com/luoxuhai/NightVision",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "tenngoxars",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/22515339?v=4",
+  "htmlUrl": "https://github.com/tenngoxars",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 793,
+      "repoCountPrimary": 1,
+      "starsContains": 793,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "WeMD",
+          "fullName": "tenngoxars/WeMD",
+          "stars": 793,
+          "url": "https://github.com/tenngoxars/WeMD",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

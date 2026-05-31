@@ -1,0 +1,34 @@
+{
+  "login": "tornikebolokadze1-cyber",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/230101080?v=4",
+  "htmlUrl": "https://github.com/tornikebolokadze1-cyber",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 118,
+      "repoCountPrimary": 1,
+      "starsContains": 118,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "awesome-ai-pulse-georgia",
+          "fullName": "tornikebolokadze1-cyber/awesome-ai-pulse-georgia",
+          "stars": 118,
+          "url": "https://github.com/tornikebolokadze1-cyber/awesome-ai-pulse-georgia",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

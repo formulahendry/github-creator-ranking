@@ -1,0 +1,41 @@
+{
+  "login": "shihabmridha",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3264156?v=4",
+  "htmlUrl": "https://github.com/shihabmridha",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 346,
+      "repoCountPrimary": 2,
+      "starsContains": 346,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "educative.io-downloader",
+          "fullName": "shihabmridha/educative.io-downloader",
+          "stars": 225,
+          "url": "https://github.com/shihabmridha/educative.io-downloader",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "nodejs-repository-pattern-and-ioc",
+          "fullName": "shihabmridha/nodejs-repository-pattern-and-ioc",
+          "stars": 121,
+          "url": "https://github.com/shihabmridha/nodejs-repository-pattern-and-ioc",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "tuannvm",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1461216?v=4",
+  "htmlUrl": "https://github.com/tuannvm",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 474,
+      "repoCountPrimary": 1,
+      "starsContains": 474,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "codex-mcp-server",
+          "fullName": "tuannvm/codex-mcp-server",
+          "stars": 474,
+          "url": "https://github.com/tuannvm/codex-mcp-server",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

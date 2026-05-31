@@ -1,0 +1,34 @@
+{
+  "login": "dengcb",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/12539131?v=4",
+  "htmlUrl": "https://github.com/dengcb",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 450,
+      "repoCountPrimary": 1,
+      "starsContains": 450,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "weixin-reader-desktop",
+          "fullName": "dengcb/weixin-reader-desktop",
+          "stars": 450,
+          "url": "https://github.com/dengcb/weixin-reader-desktop",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

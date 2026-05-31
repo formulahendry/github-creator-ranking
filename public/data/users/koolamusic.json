@@ -1,0 +1,34 @@
+{
+  "login": "koolamusic",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/8960757?v=4",
+  "htmlUrl": "https://github.com/koolamusic",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 327,
+      "repoCountPrimary": 1,
+      "starsContains": 327,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "chakra-ui-autocomplete",
+          "fullName": "koolamusic/chakra-ui-autocomplete",
+          "stars": 327,
+          "url": "https://github.com/koolamusic/chakra-ui-autocomplete",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

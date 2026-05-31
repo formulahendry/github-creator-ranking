@@ -1,0 +1,41 @@
+{
+  "login": "yunsii",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/18096089?v=4",
+  "htmlUrl": "https://github.com/yunsii",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 430,
+      "repoCountPrimary": 2,
+      "starsContains": 430,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ant-design-pro-plus",
+          "fullName": "yunsii/ant-design-pro-plus",
+          "stars": 263,
+          "url": "https://github.com/yunsii/ant-design-pro-plus",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vite-react",
+          "fullName": "yunsii/vite-react",
+          "stars": 167,
+          "url": "https://github.com/yunsii/vite-react",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

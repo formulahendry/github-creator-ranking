@@ -1,0 +1,41 @@
+{
+  "login": "johannesjo",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1456265?v=4",
+  "htmlUrl": "https://github.com/johannesjo",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1128,
+      "repoCountPrimary": 2,
+      "starsContains": 1128,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "parallel-code",
+          "fullName": "johannesjo/parallel-code",
+          "stars": 693,
+          "url": "https://github.com/johannesjo/parallel-code",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "linux-window-session-manager",
+          "fullName": "johannesjo/linux-window-session-manager",
+          "stars": 435,
+          "url": "https://github.com/johannesjo/linux-window-session-manager",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

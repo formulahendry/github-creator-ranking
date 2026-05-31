@@ -1,0 +1,41 @@
+{
+  "login": "echoVic",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/16428813?v=4",
+  "htmlUrl": "https://github.com/echoVic",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 572,
+      "repoCountPrimary": 2,
+      "starsContains": 572,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "boss-skill",
+          "fullName": "echoVic/boss-skill",
+          "stars": 410,
+          "url": "https://github.com/echoVic/boss-skill",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "blade-code",
+          "fullName": "echoVic/blade-code",
+          "stars": 162,
+          "url": "https://github.com/echoVic/blade-code",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "login": "thomasloven",
+  "name": "Thomas Lovén",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1299821?v=4",
+  "htmlUrl": "https://github.com/thomasloven",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 9128,
+      "repoCountPrimary": 10,
+      "starsContains": 9128,
+      "repoCountContains": 10,
+      "globalRank": 251,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "lovelace-auto-entities",
+          "fullName": "thomasloven/lovelace-auto-entities",
+          "stars": 1755,
+          "url": "https://github.com/thomasloven/lovelace-auto-entities",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "hass-browser_mod",
+          "fullName": "thomasloven/hass-browser_mod",
+          "stars": 1739,
+          "url": "https://github.com/thomasloven/hass-browser_mod",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "lovelace-card-mod",
+          "fullName": "thomasloven/lovelace-card-mod",
+          "stars": 1712,
+          "url": "https://github.com/thomasloven/lovelace-card-mod",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "lovelace-layout-card",
+          "fullName": "thomasloven/lovelace-layout-card",
+          "stars": 1243,
+          "url": "https://github.com/thomasloven/lovelace-layout-card",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "lovelace-slider-entity-row",
+          "fullName": "thomasloven/lovelace-slider-entity-row",
+          "stars": 910,
+          "url": "https://github.com/thomasloven/lovelace-slider-entity-row",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

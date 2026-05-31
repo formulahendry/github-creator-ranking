@@ -1,0 +1,34 @@
+{
+  "login": "jeemok",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/26216852?v=4",
+  "htmlUrl": "https://github.com/jeemok",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 138,
+      "repoCountPrimary": 1,
+      "starsContains": 138,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "better-npm-audit",
+          "fullName": "jeemok/better-npm-audit",
+          "stars": 138,
+          "url": "https://github.com/jeemok/better-npm-audit",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

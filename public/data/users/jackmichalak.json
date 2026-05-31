@@ -1,0 +1,34 @@
+{
+  "login": "jackmichalak",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/51389104?v=4",
+  "htmlUrl": "https://github.com/jackmichalak",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 133,
+      "repoCountPrimary": 1,
+      "starsContains": 133,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "phishim",
+          "fullName": "jackmichalak/phishim",
+          "stars": 133,
+          "url": "https://github.com/jackmichalak/phishim",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "login": "danvk",
+  "name": "Dan Vanderkam",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/98301?v=4",
+  "htmlUrl": "https://github.com/danvk",
+  "location": "New York, NY",
+  "countryCode": "US",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 4691,
+      "repoCountPrimary": 5,
+      "starsContains": 4691,
+      "repoCountContains": 5,
+      "globalRank": 547,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "source-map-explorer",
+          "fullName": "danvk/source-map-explorer",
+          "stars": 3929,
+          "url": "https://github.com/danvk/source-map-explorer",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "webdiff",
+          "fullName": "danvk/webdiff",
+          "stars": 318,
+          "url": "https://github.com/danvk/webdiff",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "localturk",
+          "fullName": "danvk/localturk",
+          "stars": 207,
+          "url": "https://github.com/danvk/localturk",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "pg-to-ts",
+          "fullName": "danvk/pg-to-ts",
+          "stars": 125,
+          "url": "https://github.com/danvk/pg-to-ts",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "literate-ts",
+          "fullName": "danvk/literate-ts",
+          "stars": 112,
+          "url": "https://github.com/danvk/literate-ts",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

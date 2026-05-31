@@ -1,0 +1,34 @@
+{
+  "login": "nrslib",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/38722970?v=4",
+  "htmlUrl": "https://github.com/nrslib",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1104,
+      "repoCountPrimary": 1,
+      "starsContains": 1104,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "takt",
+          "fullName": "nrslib/takt",
+          "stars": 1104,
+          "url": "https://github.com/nrslib/takt",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

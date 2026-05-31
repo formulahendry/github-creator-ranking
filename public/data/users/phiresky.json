@@ -1,0 +1,62 @@
+{
+  "login": "phiresky",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2303841?v=4",
+  "htmlUrl": "https://github.com/phiresky",
+  "location": "Germany",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 4914,
+      "repoCountPrimary": 6,
+      "starsContains": 4914,
+      "repoCountContains": 6,
+      "globalRank": 518,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "sql.js-httpvfs",
+          "fullName": "phiresky/sql.js-httpvfs",
+          "stars": 3679,
+          "url": "https://github.com/phiresky/sql.js-httpvfs",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "isbn-visualization",
+          "fullName": "phiresky/isbn-visualization",
+          "stars": 506,
+          "url": "https://github.com/phiresky/isbn-visualization",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "blog",
+          "fullName": "phiresky/blog",
+          "stars": 347,
+          "url": "https://github.com/phiresky/blog",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "pandoc-url2cite",
+          "fullName": "phiresky/pandoc-url2cite",
+          "stars": 132,
+          "url": "https://github.com/phiresky/pandoc-url2cite",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "nmap-log-parse",
+          "fullName": "phiresky/nmap-log-parse",
+          "stars": 126,
+          "url": "https://github.com/phiresky/nmap-log-parse",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

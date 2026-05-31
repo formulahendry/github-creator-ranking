@@ -1,0 +1,34 @@
+{
+  "login": "alexitaylor",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3086807?v=4",
+  "htmlUrl": "https://github.com/alexitaylor",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 127,
+      "repoCountPrimary": 1,
+      "starsContains": 127,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "angular-graphql-nestjs-postgres-starter-kit",
+          "fullName": "alexitaylor/angular-graphql-nestjs-postgres-starter-kit",
+          "stars": 127,
+          "url": "https://github.com/alexitaylor/angular-graphql-nestjs-postgres-starter-kit",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

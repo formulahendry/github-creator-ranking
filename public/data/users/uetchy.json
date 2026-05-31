@@ -1,0 +1,41 @@
+{
+  "login": "uetchy",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/431808?v=4",
+  "htmlUrl": "https://github.com/uetchy",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 815,
+      "repoCountPrimary": 2,
+      "starsContains": 815,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "namae",
+          "fullName": "uetchy/namae",
+          "stars": 712,
+          "url": "https://github.com/uetchy/namae",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "create-create-app",
+          "fullName": "uetchy/create-create-app",
+          "stars": 103,
+          "url": "https://github.com/uetchy/create-create-app",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

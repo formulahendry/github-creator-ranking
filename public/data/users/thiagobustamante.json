@@ -1,0 +1,48 @@
+{
+  "login": "thiagobustamante",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/10834356?v=4",
+  "htmlUrl": "https://github.com/thiagobustamante",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1208,
+      "repoCountPrimary": 3,
+      "starsContains": 1208,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "typescript-ioc",
+          "fullName": "thiagobustamante/typescript-ioc",
+          "stars": 527,
+          "url": "https://github.com/thiagobustamante/typescript-ioc",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "typescript-rest",
+          "fullName": "thiagobustamante/typescript-rest",
+          "stars": 523,
+          "url": "https://github.com/thiagobustamante/typescript-rest",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "typescript-rest-swagger",
+          "fullName": "thiagobustamante/typescript-rest-swagger",
+          "stars": 158,
+          "url": "https://github.com/thiagobustamante/typescript-rest-swagger",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

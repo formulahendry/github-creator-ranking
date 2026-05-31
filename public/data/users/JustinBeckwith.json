@@ -1,0 +1,41 @@
+{
+  "login": "JustinBeckwith",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/534619?v=4",
+  "htmlUrl": "https://github.com/JustinBeckwith",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1727,
+      "repoCountPrimary": 2,
+      "starsContains": 1727,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "linkinator",
+          "fullName": "JustinBeckwith/linkinator",
+          "stars": 1220,
+          "url": "https://github.com/JustinBeckwith/linkinator",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "retry-axios",
+          "fullName": "JustinBeckwith/retry-axios",
+          "stars": 507,
+          "url": "https://github.com/JustinBeckwith/retry-axios",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

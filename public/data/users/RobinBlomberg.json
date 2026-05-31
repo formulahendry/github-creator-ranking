@@ -1,0 +1,34 @@
+{
+  "login": "RobinBlomberg",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/20827397?v=4",
+  "htmlUrl": "https://github.com/RobinBlomberg",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1207,
+      "repoCountPrimary": 1,
+      "starsContains": 1207,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "kysely-codegen",
+          "fullName": "RobinBlomberg/kysely-codegen",
+          "stars": 1207,
+          "url": "https://github.com/RobinBlomberg/kysely-codegen",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

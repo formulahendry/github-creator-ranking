@@ -1,0 +1,62 @@
+{
+  "login": "miantiao-me",
+  "name": "面条",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2959393?v=4",
+  "htmlUrl": "https://github.com/miantiao-me",
+  "location": "NanJing,China",
+  "countryCode": "CN",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 7819,
+      "repoCountPrimary": 9,
+      "starsContains": 7819,
+      "repoCountContains": 9,
+      "globalRank": 293,
+      "countryRank": 36,
+      "topRepos": [
+        {
+          "name": "hacker-podcast",
+          "fullName": "miantiao-me/hacker-podcast",
+          "stars": 2535,
+          "url": "https://github.com/miantiao-me/hacker-podcast",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "BroadcastChannel",
+          "fullName": "miantiao-me/BroadcastChannel",
+          "stars": 2021,
+          "url": "https://github.com/miantiao-me/BroadcastChannel",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ssh-ai-chat",
+          "fullName": "miantiao-me/ssh-ai-chat",
+          "stars": 827,
+          "url": "https://github.com/miantiao-me/ssh-ai-chat",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "bm.md",
+          "fullName": "miantiao-me/bm.md",
+          "stars": 585,
+          "url": "https://github.com/miantiao-me/bm.md",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "cloud-code",
+          "fullName": "miantiao-me/cloud-code",
+          "stars": 546,
+          "url": "https://github.com/miantiao-me/cloud-code",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

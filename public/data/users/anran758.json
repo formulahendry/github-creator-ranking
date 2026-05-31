@@ -1,0 +1,34 @@
+{
+  "login": "anran758",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/23024075?v=4",
+  "htmlUrl": "https://github.com/anran758",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 125,
+      "repoCountPrimary": 1,
+      "starsContains": 125,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "mincloudx",
+          "fullName": "anran758/mincloudx",
+          "stars": 125,
+          "url": "https://github.com/anran758/mincloudx",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "RookieEnough",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/128968367?v=4",
+  "htmlUrl": "https://github.com/RookieEnough",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2546,
+      "repoCountPrimary": 1,
+      "starsContains": 2546,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Orion-Store",
+          "fullName": "RookieEnough/Orion-Store",
+          "stars": 2546,
+          "url": "https://github.com/RookieEnough/Orion-Store",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

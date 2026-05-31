@@ -1,0 +1,41 @@
+{
+  "login": "s-theo",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/89436345?v=4",
+  "htmlUrl": "https://github.com/s-theo",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1134,
+      "repoCountPrimary": 2,
+      "starsContains": 1134,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Theo-Docs",
+          "fullName": "s-theo/Theo-Docs",
+          "stars": 834,
+          "url": "https://github.com/s-theo/Theo-Docs",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "xx.theojs.cn",
+          "fullName": "s-theo/xx.theojs.cn",
+          "stars": 300,
+          "url": "https://github.com/s-theo/xx.theojs.cn",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

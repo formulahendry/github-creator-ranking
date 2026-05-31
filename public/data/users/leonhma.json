@@ -1,0 +1,34 @@
+{
+  "login": "leonhma",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/67312077?v=4",
+  "htmlUrl": "https://github.com/leonhma",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 266,
+      "repoCountPrimary": 1,
+      "starsContains": 266,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "obsidian-functionplot",
+          "fullName": "leonhma/obsidian-functionplot",
+          "stars": 266,
+          "url": "https://github.com/leonhma/obsidian-functionplot",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

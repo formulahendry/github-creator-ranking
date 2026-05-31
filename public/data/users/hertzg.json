@@ -1,0 +1,41 @@
+{
+  "login": "hertzg",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1886698?v=4",
+  "htmlUrl": "https://github.com/hertzg",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 348,
+      "repoCountPrimary": 2,
+      "starsContains": 348,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "rtl_433_docker",
+          "fullName": "hertzg/rtl_433_docker",
+          "stars": 220,
+          "url": "https://github.com/hertzg/rtl_433_docker",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "tesseract-server",
+          "fullName": "hertzg/tesseract-server",
+          "stars": 128,
+          "url": "https://github.com/hertzg/tesseract-server",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

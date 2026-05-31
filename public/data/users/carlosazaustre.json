@@ -1,0 +1,41 @@
+{
+  "login": "carlosazaustre",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/650752?v=4",
+  "htmlUrl": "https://github.com/carlosazaustre",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1494,
+      "repoCountPrimary": 2,
+      "starsContains": 1494,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "tenacitOS",
+          "fullName": "carlosazaustre/tenacitOS",
+          "stars": 1222,
+          "url": "https://github.com/carlosazaustre/tenacitOS",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "next-hexagonal-starter",
+          "fullName": "carlosazaustre/next-hexagonal-starter",
+          "stars": 272,
+          "url": "https://github.com/carlosazaustre/next-hexagonal-starter",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

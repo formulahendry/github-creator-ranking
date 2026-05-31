@@ -1,0 +1,34 @@
+{
+  "login": "lowcortisolprogrammer",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/272474027?v=4",
+  "htmlUrl": "https://github.com/lowcortisolprogrammer",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 172,
+      "repoCountPrimary": 1,
+      "starsContains": 172,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "claude-code",
+          "fullName": "lowcortisolprogrammer/claude-code",
+          "stars": 172,
+          "url": "https://github.com/lowcortisolprogrammer/claude-code",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

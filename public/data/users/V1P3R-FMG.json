@@ -1,0 +1,34 @@
+{
+  "login": "V1P3R-FMG",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/114585881?v=4",
+  "htmlUrl": "https://github.com/V1P3R-FMG",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 402,
+      "repoCountPrimary": 1,
+      "starsContains": 402,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "free-map-genie",
+          "fullName": "V1P3R-FMG/free-map-genie",
+          "stars": 402,
+          "url": "https://github.com/V1P3R-FMG/free-map-genie",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "serafimcloud",
+  "name": "serafim",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/55061526?v=4",
+  "htmlUrl": "https://github.com/serafimcloud",
+  "location": "London",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 5256,
+      "repoCountPrimary": 1,
+      "starsContains": 5256,
+      "repoCountContains": 1,
+      "globalRank": 472,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "21st",
+          "fullName": "serafimcloud/21st",
+          "stars": 5256,
+          "url": "https://github.com/serafimcloud/21st",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

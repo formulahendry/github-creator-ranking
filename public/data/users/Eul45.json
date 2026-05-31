@@ -1,0 +1,34 @@
+{
+  "login": "Eul45",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/176154715?v=4",
+  "htmlUrl": "https://github.com/Eul45",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 512,
+      "repoCountPrimary": 1,
+      "starsContains": 512,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "omni-search",
+          "fullName": "Eul45/omni-search",
+          "stars": 512,
+          "url": "https://github.com/Eul45/omni-search",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "login": "goenning",
+  "name": "Guilherme Oenning",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/94755?v=4",
+  "htmlUrl": "https://github.com/goenning",
+  "location": "Dublin, Ireland",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 7874,
+      "repoCountPrimary": 3,
+      "starsContains": 7874,
+      "repoCountContains": 3,
+      "globalRank": 290,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "google-indexing-script",
+          "fullName": "goenning/google-indexing-script",
+          "stars": 7649,
+          "url": "https://github.com/goenning/google-indexing-script",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "typescript-selenium-example",
+          "fullName": "goenning/typescript-selenium-example",
+          "stars": 121,
+          "url": "https://github.com/goenning/typescript-selenium-example",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "webping.cloud",
+          "fullName": "goenning/webping.cloud",
+          "stars": 104,
+          "url": "https://github.com/goenning/webping.cloud",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

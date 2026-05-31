@@ -1,0 +1,34 @@
+{
+  "login": "jycouet",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5312607?v=4",
+  "htmlUrl": "https://github.com/jycouet",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 455,
+      "repoCountPrimary": 1,
+      "starsContains": 455,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "kitql",
+          "fullName": "jycouet/kitql",
+          "stars": 455,
+          "url": "https://github.com/jycouet/kitql",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

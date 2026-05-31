@@ -1,0 +1,62 @@
+{
+  "login": "midudev",
+  "name": "Miguel Ángel Durán",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1561955?v=4",
+  "htmlUrl": "https://github.com/midudev",
+  "location": "Barcelona",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 18700,
+      "repoCountPrimary": 14,
+      "starsContains": 18700,
+      "repoCountContains": 14,
+      "globalRank": 99,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "aprendiendo-react",
+          "fullName": "midudev/aprendiendo-react",
+          "stars": 8948,
+          "url": "https://github.com/midudev/aprendiendo-react",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "libros-programacion-gratis",
+          "fullName": "midudev/libros-programacion-gratis",
+          "stars": 5281,
+          "url": "https://github.com/midudev/libros-programacion-gratis",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "la-velada-web-oficial",
+          "fullName": "midudev/la-velada-web-oficial",
+          "stars": 1830,
+          "url": "https://github.com/midudev/la-velada-web-oficial",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "miduconf-website",
+          "fullName": "midudev/miduconf-website",
+          "stars": 603,
+          "url": "https://github.com/midudev/miduconf-website",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "esland-web",
+          "fullName": "midudev/esland-web",
+          "stars": 417,
+          "url": "https://github.com/midudev/esland-web",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

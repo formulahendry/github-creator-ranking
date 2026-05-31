@@ -1,0 +1,34 @@
+{
+  "login": "richards199999",
+  "name": "Richards Tu",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/142148415?v=4",
+  "htmlUrl": "https://github.com/richards199999",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 17060,
+      "repoCountPrimary": 1,
+      "starsContains": 17060,
+      "repoCountContains": 1,
+      "globalRank": 112,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Thinking-Claude",
+          "fullName": "richards199999/Thinking-Claude",
+          "stars": 17060,
+          "url": "https://github.com/richards199999/Thinking-Claude",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

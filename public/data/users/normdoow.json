@@ -1,0 +1,34 @@
+{
+  "login": "normdoow",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/21371266?v=4",
+  "htmlUrl": "https://github.com/normdoow",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 217,
+      "repoCountPrimary": 1,
+      "starsContains": 217,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "uniswap.fish",
+          "fullName": "normdoow/uniswap.fish",
+          "stars": 217,
+          "url": "https://github.com/normdoow/uniswap.fish",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

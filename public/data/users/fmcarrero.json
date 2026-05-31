@@ -1,0 +1,34 @@
+{
+  "login": "fmcarrero",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/14128843?v=4",
+  "htmlUrl": "https://github.com/fmcarrero",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 124,
+      "repoCountPrimary": 1,
+      "starsContains": 124,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "nest-js-products-api",
+          "fullName": "fmcarrero/nest-js-products-api",
+          "stars": 124,
+          "url": "https://github.com/fmcarrero/nest-js-products-api",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "TriPSs",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7668692?v=4",
+  "htmlUrl": "https://github.com/TriPSs",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 420,
+      "repoCountPrimary": 2,
+      "starsContains": 420,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "nx-extend",
+          "fullName": "TriPSs/nx-extend",
+          "stars": 222,
+          "url": "https://github.com/TriPSs/nx-extend",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "nestjs-query",
+          "fullName": "TriPSs/nestjs-query",
+          "stars": 198,
+          "url": "https://github.com/TriPSs/nestjs-query",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

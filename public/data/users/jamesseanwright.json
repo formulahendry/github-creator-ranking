@@ -1,0 +1,34 @@
+{
+  "login": "jamesseanwright",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2032803?v=4",
+  "htmlUrl": "https://github.com/jamesseanwright",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 311,
+      "repoCountPrimary": 1,
+      "starsContains": 311,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ron-swanson-quotes",
+          "fullName": "jamesseanwright/ron-swanson-quotes",
+          "stars": 311,
+          "url": "https://github.com/jamesseanwright/ron-swanson-quotes",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

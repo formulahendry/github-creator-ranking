@@ -1,0 +1,41 @@
+{
+  "login": "amaancoderx",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/89069951?v=4",
+  "htmlUrl": "https://github.com/amaancoderx",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 887,
+      "repoCountPrimary": 2,
+      "starsContains": 887,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "npxskillui",
+          "fullName": "amaancoderx/npxskillui",
+          "stars": 775,
+          "url": "https://github.com/amaancoderx/npxskillui",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "skillui",
+          "fullName": "amaancoderx/skillui",
+          "stars": 112,
+          "url": "https://github.com/amaancoderx/skillui",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "Andrew-Chen-Wang",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/60190294?v=4",
+  "htmlUrl": "https://github.com/Andrew-Chen-Wang",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 103,
+      "repoCountPrimary": 1,
+      "starsContains": 103,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "github-wiki-action",
+          "fullName": "Andrew-Chen-Wang/github-wiki-action",
+          "stars": 103,
+          "url": "https://github.com/Andrew-Chen-Wang/github-wiki-action",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

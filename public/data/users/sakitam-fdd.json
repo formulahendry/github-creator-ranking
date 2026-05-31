@@ -1,0 +1,48 @@
+{
+  "login": "sakitam-fdd",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/19517451?v=4",
+  "htmlUrl": "https://github.com/sakitam-fdd",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1205,
+      "repoCountPrimary": 3,
+      "starsContains": 1205,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "wind-layer",
+          "fullName": "sakitam-fdd/wind-layer",
+          "stars": 698,
+          "url": "https://github.com/sakitam-fdd/wind-layer",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ol3Echarts",
+          "fullName": "sakitam-fdd/ol3Echarts",
+          "stars": 329,
+          "url": "https://github.com/sakitam-fdd/ol3Echarts",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ol-plot",
+          "fullName": "sakitam-fdd/ol-plot",
+          "stars": 178,
+          "url": "https://github.com/sakitam-fdd/ol-plot",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "gronxb",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/41789633?v=4",
+  "htmlUrl": "https://github.com/gronxb",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1968,
+      "repoCountPrimary": 2,
+      "starsContains": 1968,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "hot-updater",
+          "fullName": "gronxb/hot-updater",
+          "stars": 1527,
+          "url": "https://github.com/gronxb/hot-updater",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "webview-bridge",
+          "fullName": "gronxb/webview-bridge",
+          "stars": 441,
+          "url": "https://github.com/gronxb/webview-bridge",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

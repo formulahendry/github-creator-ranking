@@ -1,0 +1,41 @@
+{
+  "login": "disjukr",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/690661?v=4",
+  "htmlUrl": "https://github.com/disjukr",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 423,
+      "repoCountPrimary": 2,
+      "starsContains": 423,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "croquis.js",
+          "fullName": "disjukr/croquis.js",
+          "stars": 231,
+          "url": "https://github.com/disjukr/croquis.js",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "just-news",
+          "fullName": "disjukr/just-news",
+          "stars": 192,
+          "url": "https://github.com/disjukr/just-news",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "login": "KnisterPeter",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/327445?v=4",
+  "htmlUrl": "https://github.com/KnisterPeter",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 605,
+      "repoCountPrimary": 3,
+      "starsContains": 605,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vscode-commitizen",
+          "fullName": "KnisterPeter/vscode-commitizen",
+          "stars": 240,
+          "url": "https://github.com/KnisterPeter/vscode-commitizen",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-to-typescript-definitions",
+          "fullName": "KnisterPeter/react-to-typescript-definitions",
+          "stars": 236,
+          "url": "https://github.com/KnisterPeter/react-to-typescript-definitions",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vscode-github",
+          "fullName": "KnisterPeter/vscode-github",
+          "stars": 129,
+          "url": "https://github.com/KnisterPeter/vscode-github",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

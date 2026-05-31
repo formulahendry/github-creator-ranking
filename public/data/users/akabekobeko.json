@@ -1,0 +1,41 @@
+{
+  "login": "akabekobeko",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1257526?v=4",
+  "htmlUrl": "https://github.com/akabekobeko",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 390,
+      "repoCountPrimary": 2,
+      "starsContains": 390,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "examples-electron",
+          "fullName": "akabekobeko/examples-electron",
+          "stars": 215,
+          "url": "https://github.com/akabekobeko/examples-electron",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "npm-icon-gen",
+          "fullName": "akabekobeko/npm-icon-gen",
+          "stars": 175,
+          "url": "https://github.com/akabekobeko/npm-icon-gen",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

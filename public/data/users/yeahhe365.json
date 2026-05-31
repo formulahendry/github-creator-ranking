@@ -1,0 +1,55 @@
+{
+  "login": "yeahhe365",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/64304674?v=4",
+  "htmlUrl": "https://github.com/yeahhe365",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1804,
+      "repoCountPrimary": 4,
+      "starsContains": 1804,
+      "repoCountContains": 4,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "AMC-WebUI",
+          "fullName": "yeahhe365/AMC-WebUI",
+          "stars": 862,
+          "url": "https://github.com/yeahhe365/AMC-WebUI",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Dual-AI-Chat",
+          "fullName": "yeahhe365/Dual-AI-Chat",
+          "stars": 347,
+          "url": "https://github.com/yeahhe365/Dual-AI-Chat",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Prisma",
+          "fullName": "yeahhe365/Prisma",
+          "stars": 332,
+          "url": "https://github.com/yeahhe365/Prisma",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ASR-Studio",
+          "fullName": "yeahhe365/ASR-Studio",
+          "stars": 263,
+          "url": "https://github.com/yeahhe365/ASR-Studio",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

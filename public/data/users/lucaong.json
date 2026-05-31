@@ -1,0 +1,34 @@
+{
+  "login": "lucaong",
+  "name": "Luca Ongaro",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/225441?v=4",
+  "htmlUrl": "https://github.com/lucaong",
+  "location": "Berlin, Germany",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 5978,
+      "repoCountPrimary": 1,
+      "starsContains": 5978,
+      "repoCountContains": 1,
+      "globalRank": 399,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "minisearch",
+          "fullName": "lucaong/minisearch",
+          "stars": 5978,
+          "url": "https://github.com/lucaong/minisearch",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

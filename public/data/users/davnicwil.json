@@ -1,0 +1,34 @@
+{
+  "login": "davnicwil",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/9915841?v=4",
+  "htmlUrl": "https://github.com/davnicwil",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 446,
+      "repoCountPrimary": 1,
+      "starsContains": 446,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-frontload",
+          "fullName": "davnicwil/react-frontload",
+          "stars": 446,
+          "url": "https://github.com/davnicwil/react-frontload",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "grp06",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1573959?v=4",
+  "htmlUrl": "https://github.com/grp06",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2022,
+      "repoCountPrimary": 1,
+      "starsContains": 2022,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "openclaw-studio",
+          "fullName": "grp06/openclaw-studio",
+          "stars": 2022,
+          "url": "https://github.com/grp06/openclaw-studio",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "shentao",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3737591?v=4",
+  "htmlUrl": "https://github.com/shentao",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 695,
+      "repoCountPrimary": 1,
+      "starsContains": 695,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vue-global-events",
+          "fullName": "shentao/vue-global-events",
+          "stars": 695,
+          "url": "https://github.com/shentao/vue-global-events",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

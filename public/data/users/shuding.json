@@ -1,0 +1,62 @@
+{
+  "login": "shuding",
+  "name": "Shu Ding",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3676859?v=4",
+  "htmlUrl": "https://github.com/shuding",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 26415,
+      "repoCountPrimary": 9,
+      "starsContains": 26415,
+      "repoCountContains": 9,
+      "globalRank": 58,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "nextra",
+          "fullName": "shuding/nextra",
+          "stars": 13816,
+          "url": "https://github.com/shuding/nextra",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "cobe",
+          "fullName": "shuding/cobe",
+          "stars": 5324,
+          "url": "https://github.com/shuding/cobe",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "next-view-transitions",
+          "fullName": "shuding/next-view-transitions",
+          "stars": 2388,
+          "url": "https://github.com/shuding/next-view-transitions",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "tilg",
+          "fullName": "shuding/tilg",
+          "stars": 2182,
+          "url": "https://github.com/shuding/tilg",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "better-all",
+          "fullName": "shuding/better-all",
+          "stars": 1086,
+          "url": "https://github.com/shuding/better-all",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

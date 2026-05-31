@@ -1,0 +1,41 @@
+{
+  "login": "vangelov",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2122787?v=4",
+  "htmlUrl": "https://github.com/vangelov",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 389,
+      "repoCountPrimary": 2,
+      "starsContains": 389,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "devresume",
+          "fullName": "vangelov/devresume",
+          "stars": 201,
+          "url": "https://github.com/vangelov/devresume",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "calories-in",
+          "fullName": "vangelov/calories-in",
+          "stars": 188,
+          "url": "https://github.com/vangelov/calories-in",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

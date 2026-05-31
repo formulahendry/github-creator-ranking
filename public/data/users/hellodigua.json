@@ -1,0 +1,41 @@
+{
+  "login": "hellodigua",
+  "name": "digua",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/9943164?v=4",
+  "htmlUrl": "https://github.com/hellodigua",
+  "location": "Auckland",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3508,
+      "repoCountPrimary": 2,
+      "starsContains": 3508,
+      "repoCountContains": 2,
+      "globalRank": 767,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "code996",
+          "fullName": "hellodigua/code996",
+          "stars": 1968,
+          "url": "https://github.com/hellodigua/code996",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "code996-web",
+          "fullName": "hellodigua/code996-web",
+          "stars": 1540,
+          "url": "https://github.com/hellodigua/code996-web",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

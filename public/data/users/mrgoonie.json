@@ -1,0 +1,48 @@
+{
+  "login": "mrgoonie",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6857382?v=4",
+  "htmlUrl": "https://github.com/mrgoonie",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 934,
+      "repoCountPrimary": 3,
+      "starsContains": 934,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "winshot",
+          "fullName": "mrgoonie/winshot",
+          "stars": 542,
+          "url": "https://github.com/mrgoonie/winshot",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "human-mcp",
+          "fullName": "mrgoonie/human-mcp",
+          "stars": 288,
+          "url": "https://github.com/mrgoonie/human-mcp",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "claudekit-cli",
+          "fullName": "mrgoonie/claudekit-cli",
+          "stars": 104,
+          "url": "https://github.com/mrgoonie/claudekit-cli",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

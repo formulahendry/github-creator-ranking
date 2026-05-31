@@ -1,0 +1,41 @@
+{
+  "login": "TangSY",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/16008985?v=4",
+  "htmlUrl": "https://github.com/TangSY",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 572,
+      "repoCountPrimary": 2,
+      "starsContains": 572,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "edge-next-starter",
+          "fullName": "TangSY/edge-next-starter",
+          "stars": 470,
+          "url": "https://github.com/TangSY/edge-next-starter",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vue3-hash-calendar",
+          "fullName": "TangSY/vue3-hash-calendar",
+          "stars": 102,
+          "url": "https://github.com/TangSY/vue3-hash-calendar",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

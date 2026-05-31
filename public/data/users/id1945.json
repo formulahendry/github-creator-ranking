@@ -1,0 +1,34 @@
+{
+  "login": "id1945",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/40824445?v=4",
+  "htmlUrl": "https://github.com/id1945",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 292,
+      "repoCountPrimary": 1,
+      "starsContains": 292,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "metronic-admin",
+          "fullName": "id1945/metronic-admin",
+          "stars": 292,
+          "url": "https://github.com/id1945/metronic-admin",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

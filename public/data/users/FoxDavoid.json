@@ -1,0 +1,34 @@
+{
+  "login": "FoxDavoid",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/133821902?v=4",
+  "htmlUrl": "https://github.com/FoxDavoid",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 140,
+      "repoCountPrimary": 1,
+      "starsContains": 140,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "YT-Desktop-App",
+          "fullName": "FoxDavoid/YT-Desktop-App",
+          "stars": 140,
+          "url": "https://github.com/FoxDavoid/YT-Desktop-App",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

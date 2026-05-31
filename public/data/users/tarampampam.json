@@ -1,0 +1,34 @@
+{
+  "login": "tarampampam",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7326800?v=4",
+  "htmlUrl": "https://github.com/tarampampam",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 744,
+      "repoCountPrimary": 1,
+      "starsContains": 744,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "random-user-agent",
+          "fullName": "tarampampam/random-user-agent",
+          "stars": 744,
+          "url": "https://github.com/tarampampam/random-user-agent",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "login": "birkir",
+  "name": "Birkir Gudjonsson",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/180773?v=4",
+  "htmlUrl": "https://github.com/birkir",
+  "location": "Reykjavík, Iceland",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3549,
+      "repoCountPrimary": 5,
+      "starsContains": 3549,
+      "repoCountContains": 5,
+      "globalRank": 757,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "prime",
+          "fullName": "birkir/prime",
+          "stars": 1717,
+          "url": "https://github.com/birkir/prime",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-native-carplay",
+          "fullName": "birkir/react-native-carplay",
+          "stars": 802,
+          "url": "https://github.com/birkir/react-native-carplay",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-three-gui",
+          "fullName": "birkir/react-three-gui",
+          "stars": 526,
+          "url": "https://github.com/birkir/react-three-gui",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "hekla",
+          "fullName": "birkir/hekla",
+          "stars": 366,
+          "url": "https://github.com/birkir/hekla",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "gatsby-source-prismic-graphql",
+          "fullName": "birkir/gatsby-source-prismic-graphql",
+          "stars": 138,
+          "url": "https://github.com/birkir/gatsby-source-prismic-graphql",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

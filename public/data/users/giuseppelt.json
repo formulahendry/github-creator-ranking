@@ -1,0 +1,48 @@
+{
+  "login": "giuseppelt",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7147291?v=4",
+  "htmlUrl": "https://github.com/giuseppelt",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 652,
+      "repoCountPrimary": 3,
+      "starsContains": 652,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "EmailFlare",
+          "fullName": "giuseppelt/EmailFlare",
+          "stars": 319,
+          "url": "https://github.com/giuseppelt/EmailFlare",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "httpc",
+          "fullName": "giuseppelt/httpc",
+          "stars": 198,
+          "url": "https://github.com/giuseppelt/httpc",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "self-workerd",
+          "fullName": "giuseppelt/self-workerd",
+          "stars": 135,
+          "url": "https://github.com/giuseppelt/self-workerd",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

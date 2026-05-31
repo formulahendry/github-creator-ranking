@@ -1,0 +1,34 @@
+{
+  "login": "jerrywu001",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/12525415?v=4",
+  "htmlUrl": "https://github.com/jerrywu001",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 115,
+      "repoCountPrimary": 1,
+      "starsContains": 115,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "sandpack-vue3",
+          "fullName": "jerrywu001/sandpack-vue3",
+          "stars": 115,
+          "url": "https://github.com/jerrywu001/sandpack-vue3",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

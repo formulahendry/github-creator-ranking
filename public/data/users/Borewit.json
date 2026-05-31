@@ -1,0 +1,48 @@
+{
+  "login": "Borewit",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/23255260?v=4",
+  "htmlUrl": "https://github.com/Borewit",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1749,
+      "repoCountPrimary": 3,
+      "starsContains": 1749,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "music-metadata",
+          "fullName": "Borewit/music-metadata",
+          "stars": 1286,
+          "url": "https://github.com/Borewit/music-metadata",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "music-metadata-browser",
+          "fullName": "Borewit/music-metadata-browser",
+          "stars": 239,
+          "url": "https://github.com/Borewit/music-metadata-browser",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "musicbrainz-api",
+          "fullName": "Borewit/musicbrainz-api",
+          "stars": 224,
+          "url": "https://github.com/Borewit/musicbrainz-api",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "login": "Rich-Harris",
+  "name": "Rich Harris",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1162160?v=4",
+  "htmlUrl": "https://github.com/Rich-Harris",
+  "location": "NYC",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 8225,
+      "repoCountPrimary": 3,
+      "starsContains": 8225,
+      "repoCountContains": 3,
+      "globalRank": 275,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "degit",
+          "fullName": "Rich-Harris/degit",
+          "stars": 7866,
+          "url": "https://github.com/Rich-Harris/degit",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "phonograph",
+          "fullName": "Rich-Harris/phonograph",
+          "stars": 212,
+          "url": "https://github.com/Rich-Harris/phonograph",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "object-cull",
+          "fullName": "Rich-Harris/object-cull",
+          "stars": 147,
+          "url": "https://github.com/Rich-Harris/object-cull",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

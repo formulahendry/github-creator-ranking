@@ -1,0 +1,34 @@
+{
+  "login": "kavinsood",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/68739182?v=4",
+  "htmlUrl": "https://github.com/kavinsood",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 628,
+      "repoCountPrimary": 1,
+      "starsContains": 628,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "yaos",
+          "fullName": "kavinsood/yaos",
+          "stars": 628,
+          "url": "https://github.com/kavinsood/yaos",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

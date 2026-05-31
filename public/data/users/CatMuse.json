@@ -1,0 +1,41 @@
+{
+  "login": "CatMuse",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/154716620?v=4",
+  "htmlUrl": "https://github.com/CatMuse",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 406,
+      "repoCountPrimary": 2,
+      "starsContains": 406,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "HiNote",
+          "fullName": "CatMuse/HiNote",
+          "stars": 240,
+          "url": "https://github.com/CatMuse/HiNote",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "HiWords",
+          "fullName": "CatMuse/HiWords",
+          "stars": 166,
+          "url": "https://github.com/CatMuse/HiWords",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

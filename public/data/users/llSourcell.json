@@ -1,0 +1,41 @@
+{
+  "login": "llSourcell",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1279609?v=4",
+  "htmlUrl": "https://github.com/llSourcell",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 428,
+      "repoCountPrimary": 2,
+      "starsContains": 428,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "pose_estimation",
+          "fullName": "llSourcell/pose_estimation",
+          "stars": 320,
+          "url": "https://github.com/llSourcell/pose_estimation",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Watch-Me-Build-an-Education-Startup",
+          "fullName": "llSourcell/Watch-Me-Build-an-Education-Startup",
+          "stars": 108,
+          "url": "https://github.com/llSourcell/Watch-Me-Build-an-Education-Startup",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

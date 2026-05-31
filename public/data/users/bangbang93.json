@@ -1,0 +1,41 @@
+{
+  "login": "bangbang93",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3430784?v=4",
+  "htmlUrl": "https://github.com/bangbang93",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 548,
+      "repoCountPrimary": 2,
+      "starsContains": 548,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "openbmclapi",
+          "fullName": "bangbang93/openbmclapi",
+          "stars": 391,
+          "url": "https://github.com/bangbang93/openbmclapi",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "minecraft-proxy",
+          "fullName": "bangbang93/minecraft-proxy",
+          "stars": 157,
+          "url": "https://github.com/bangbang93/minecraft-proxy",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "atinux",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/904724?v=4",
+  "htmlUrl": "https://github.com/atinux",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1719,
+      "repoCountPrimary": 2,
+      "starsContains": 1719,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "nuxt-auth-utils",
+          "fullName": "atinux/nuxt-auth-utils",
+          "stars": 1571,
+          "url": "https://github.com/atinux/nuxt-auth-utils",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "nuxthub-better-auth",
+          "fullName": "atinux/nuxthub-better-auth",
+          "stars": 148,
+          "url": "https://github.com/atinux/nuxthub-better-auth",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

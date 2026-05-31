@@ -1,0 +1,34 @@
+{
+  "login": "IRCraziestTaxi",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/18566088?v=4",
+  "htmlUrl": "https://github.com/IRCraziestTaxi",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 185,
+      "repoCountPrimary": 1,
+      "starsContains": 185,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "typeorm-linq-repository",
+          "fullName": "IRCraziestTaxi/typeorm-linq-repository",
+          "stars": 185,
+          "url": "https://github.com/IRCraziestTaxi/typeorm-linq-repository",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

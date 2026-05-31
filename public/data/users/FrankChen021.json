@@ -1,0 +1,34 @@
+{
+  "login": "FrankChen021",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6525742?v=4",
+  "htmlUrl": "https://github.com/FrankChen021",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 318,
+      "repoCountPrimary": 1,
+      "starsContains": 318,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "datastoria",
+          "fullName": "FrankChen021/datastoria",
+          "stars": 318,
+          "url": "https://github.com/FrankChen021/datastoria",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

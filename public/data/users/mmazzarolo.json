@@ -1,0 +1,62 @@
+{
+  "login": "mmazzarolo",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/9536354?v=4",
+  "htmlUrl": "https://github.com/mmazzarolo",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2325,
+      "repoCountPrimary": 5,
+      "starsContains": 2325,
+      "repoCountContains": 5,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-native-dialog",
+          "fullName": "mmazzarolo/react-native-dialog",
+          "stars": 711,
+          "url": "https://github.com/mmazzarolo/react-native-dialog",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "breathly-app",
+          "fullName": "mmazzarolo/breathly-app",
+          "stars": 583,
+          "url": "https://github.com/mmazzarolo/breathly-app",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ordinary-puzzles-app",
+          "fullName": "mmazzarolo/ordinary-puzzles-app",
+          "stars": 507,
+          "url": "https://github.com/mmazzarolo/ordinary-puzzles-app",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "tangerine-monorepo",
+          "fullName": "mmazzarolo/tangerine-monorepo",
+          "stars": 274,
+          "url": "https://github.com/mmazzarolo/tangerine-monorepo",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "chrome-another-tab",
+          "fullName": "mmazzarolo/chrome-another-tab",
+          "stars": 250,
+          "url": "https://github.com/mmazzarolo/chrome-another-tab",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

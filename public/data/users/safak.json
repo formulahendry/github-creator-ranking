@@ -1,0 +1,62 @@
+{
+  "login": "safak",
+  "name": "Safak",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1486366?v=4",
+  "htmlUrl": "https://github.com/safak",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 5515,
+      "repoCountPrimary": 8,
+      "starsContains": 5515,
+      "repoCountContains": 8,
+      "globalRank": 442,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "next-dashboard-ui",
+          "fullName": "safak/next-dashboard-ui",
+          "stars": 2578,
+          "url": "https://github.com/safak/next-dashboard-ui",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "full-stack-school",
+          "fullName": "safak/full-stack-school",
+          "stars": 855,
+          "url": "https://github.com/safak/full-stack-school",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "next-ecommerce",
+          "fullName": "safak/next-ecommerce",
+          "stars": 603,
+          "url": "https://github.com/safak/next-ecommerce",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "next-social",
+          "fullName": "safak/next-social",
+          "stars": 488,
+          "url": "https://github.com/safak/next-social",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "e-commerce-ui",
+          "fullName": "safak/e-commerce-ui",
+          "stars": 483,
+          "url": "https://github.com/safak/e-commerce-ui",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

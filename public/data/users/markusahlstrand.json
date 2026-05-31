@@ -1,0 +1,34 @@
+{
+  "login": "markusahlstrand",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/89469?v=4",
+  "htmlUrl": "https://github.com/markusahlstrand",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 211,
+      "repoCountPrimary": 1,
+      "starsContains": 211,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "cloudworker-proxy",
+          "fullName": "markusahlstrand/cloudworker-proxy",
+          "stars": 211,
+          "url": "https://github.com/markusahlstrand/cloudworker-proxy",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

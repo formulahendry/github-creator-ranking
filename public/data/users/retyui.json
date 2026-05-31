@@ -1,0 +1,41 @@
+{
+  "login": "retyui",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/4661784?v=4",
+  "htmlUrl": "https://github.com/retyui",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1341,
+      "repoCountPrimary": 2,
+      "starsContains": 1341,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-native-confirmation-code-field",
+          "fullName": "retyui/react-native-confirmation-code-field",
+          "stars": 1224,
+          "url": "https://github.com/retyui/react-native-confirmation-code-field",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-native-stylex",
+          "fullName": "retyui/react-native-stylex",
+          "stars": 117,
+          "url": "https://github.com/retyui/react-native-stylex",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

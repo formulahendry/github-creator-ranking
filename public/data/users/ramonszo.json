@@ -1,0 +1,34 @@
+{
+  "login": "ramonszo",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2271175?v=4",
+  "htmlUrl": "https://github.com/ramonszo",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3726,
+      "repoCountPrimary": 1,
+      "starsContains": 3726,
+      "repoCountContains": 1,
+      "globalRank": 712,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "zuck.js",
+          "fullName": "ramonszo/zuck.js",
+          "stars": 3726,
+          "url": "https://github.com/ramonszo/zuck.js",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "janaagaard75",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1769450?v=4",
+  "htmlUrl": "https://github.com/janaagaard75",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 254,
+      "repoCountPrimary": 1,
+      "starsContains": 254,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "expo-and-typescript",
+          "fullName": "janaagaard75/expo-and-typescript",
+          "stars": 254,
+          "url": "https://github.com/janaagaard75/expo-and-typescript",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "i-am-alice",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/148684274?v=4",
+  "htmlUrl": "https://github.com/i-am-alice",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 729,
+      "repoCountPrimary": 2,
+      "starsContains": 729,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "3rd-devs",
+          "fullName": "i-am-alice/3rd-devs",
+          "stars": 493,
+          "url": "https://github.com/i-am-alice/3rd-devs",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "4th-devs",
+          "fullName": "i-am-alice/4th-devs",
+          "stars": 236,
+          "url": "https://github.com/i-am-alice/4th-devs",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

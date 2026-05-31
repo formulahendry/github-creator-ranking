@@ -1,0 +1,34 @@
+{
+  "login": "alexanderatallah",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1011391?v=4",
+  "htmlUrl": "https://github.com/alexanderatallah",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 980,
+      "repoCountPrimary": 1,
+      "starsContains": 980,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "window.ai",
+          "fullName": "alexanderatallah/window.ai",
+          "stars": 980,
+          "url": "https://github.com/alexanderatallah/window.ai",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

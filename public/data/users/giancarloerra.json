@@ -1,0 +1,34 @@
+{
+  "login": "giancarloerra",
+  "name": "Giancarlo Erra",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/105157948?v=4",
+  "htmlUrl": "https://github.com/giancarloerra",
+  "location": "United Kingdom",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2765,
+      "repoCountPrimary": 1,
+      "starsContains": 2765,
+      "repoCountContains": 1,
+      "globalRank": 969,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "SocratiCode",
+          "fullName": "giancarloerra/SocratiCode",
+          "stars": 2765,
+          "url": "https://github.com/giancarloerra/SocratiCode",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

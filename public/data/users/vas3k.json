@@ -1,0 +1,41 @@
+{
+  "login": "vas3k",
+  "name": "Vasily Zubarev",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/176344?v=4",
+  "htmlUrl": "https://github.com/vas3k",
+  "location": "Berlin, Germany",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 6275,
+      "repoCountPrimary": 2,
+      "starsContains": 6275,
+      "repoCountContains": 2,
+      "globalRank": 375,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "TaxHacker",
+          "fullName": "vas3k/TaxHacker",
+          "stars": 6023,
+          "url": "https://github.com/vas3k/TaxHacker",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "year.vas3k.cloud",
+          "fullName": "vas3k/year.vas3k.cloud",
+          "stars": 252,
+          "url": "https://github.com/vas3k/year.vas3k.cloud",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

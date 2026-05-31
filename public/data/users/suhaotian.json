@@ -1,0 +1,41 @@
+{
+  "login": "suhaotian",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6512574?v=4",
+  "htmlUrl": "https://github.com/suhaotian",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 595,
+      "repoCountPrimary": 2,
+      "starsContains": 595,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "xior",
+          "fullName": "suhaotian/xior",
+          "stars": 439,
+          "url": "https://github.com/suhaotian/xior",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "broad-infinite-list",
+          "fullName": "suhaotian/broad-infinite-list",
+          "stars": 156,
+          "url": "https://github.com/suhaotian/broad-infinite-list",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

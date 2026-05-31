@@ -1,0 +1,48 @@
+{
+  "login": "beerose",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/9019397?v=4",
+  "htmlUrl": "https://github.com/beerose",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 736,
+      "repoCountPrimary": 3,
+      "starsContains": 736,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "simple-zustand-devtools",
+          "fullName": "beerose/simple-zustand-devtools",
+          "stars": 359,
+          "url": "https://github.com/beerose/simple-zustand-devtools",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "theme-ui-sketchy",
+          "fullName": "beerose/theme-ui-sketchy",
+          "stars": 205,
+          "url": "https://github.com/beerose/theme-ui-sketchy",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "use-comments",
+          "fullName": "beerose/use-comments",
+          "stars": 172,
+          "url": "https://github.com/beerose/use-comments",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "nirholas",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/22895867?v=4",
+  "htmlUrl": "https://github.com/nirholas",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 231,
+      "repoCountPrimary": 1,
+      "starsContains": 231,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "cryptocurrency.cv",
+          "fullName": "nirholas/cryptocurrency.cv",
+          "stars": 231,
+          "url": "https://github.com/nirholas/cryptocurrency.cv",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

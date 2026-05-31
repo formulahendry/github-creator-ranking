@@ -1,0 +1,48 @@
+{
+  "login": "btholt",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/999523?v=4",
+  "htmlUrl": "https://github.com/btholt",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 594,
+      "repoCountPrimary": 3,
+      "starsContains": 594,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "projects-for-complete-intro-to-containers",
+          "fullName": "btholt/projects-for-complete-intro-to-containers",
+          "stars": 349,
+          "url": "https://github.com/btholt/projects-for-complete-intro-to-containers",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "loldash",
+          "fullName": "btholt/loldash",
+          "stars": 135,
+          "url": "https://github.com/btholt/loldash",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "mcp-issue-tracker",
+          "fullName": "btholt/mcp-issue-tracker",
+          "stars": 110,
+          "url": "https://github.com/btholt/mcp-issue-tracker",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "login": "oblador",
+  "name": "Joel Arvidsson",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/378279?v=4",
+  "htmlUrl": "https://github.com/oblador",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 19030,
+      "repoCountPrimary": 3,
+      "starsContains": 19030,
+      "repoCountContains": 3,
+      "globalRank": 97,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-native-vector-icons",
+          "fullName": "oblador/react-native-vector-icons",
+          "stars": 17864,
+          "url": "https://github.com/oblador/react-native-vector-icons",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-native-performance",
+          "fullName": "oblador/react-native-performance",
+          "stars": 1048,
+          "url": "https://github.com/oblador/react-native-performance",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-native-swc",
+          "fullName": "oblador/react-native-swc",
+          "stars": 118,
+          "url": "https://github.com/oblador/react-native-swc",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

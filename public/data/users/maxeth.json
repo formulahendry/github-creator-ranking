@@ -1,0 +1,34 @@
+{
+  "login": "maxeth",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/48837036?v=4",
+  "htmlUrl": "https://github.com/maxeth",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 483,
+      "repoCountPrimary": 1,
+      "starsContains": 483,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-type-animation",
+          "fullName": "maxeth/react-type-animation",
+          "stars": 483,
+          "url": "https://github.com/maxeth/react-type-animation",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

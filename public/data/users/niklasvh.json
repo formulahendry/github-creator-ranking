@@ -1,0 +1,48 @@
+{
+  "login": "niklasvh",
+  "name": "Niklas von Hertzen",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/551347?v=4",
+  "htmlUrl": "https://github.com/niklasvh",
+  "location": "Singapore",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 32367,
+      "repoCountPrimary": 3,
+      "starsContains": 32367,
+      "repoCountContains": 3,
+      "globalRank": 41,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "html2canvas",
+          "fullName": "niklasvh/html2canvas",
+          "stars": 31865,
+          "url": "https://github.com/niklasvh/html2canvas",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "base64-arraybuffer",
+          "fullName": "niklasvh/base64-arraybuffer",
+          "stars": 373,
+          "url": "https://github.com/niklasvh/base64-arraybuffer",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "css-line-break",
+          "fullName": "niklasvh/css-line-break",
+          "stars": 129,
+          "url": "https://github.com/niklasvh/css-line-break",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

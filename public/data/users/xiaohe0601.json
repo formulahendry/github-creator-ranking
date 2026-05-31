@@ -1,0 +1,34 @@
+{
+  "login": "xiaohe0601",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/59353463?v=4",
+  "htmlUrl": "https://github.com/xiaohe0601",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 157,
+      "repoCountPrimary": 1,
+      "starsContains": 157,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "uni-echarts",
+          "fullName": "xiaohe0601/uni-echarts",
+          "stars": 157,
+          "url": "https://github.com/xiaohe0601/uni-echarts",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

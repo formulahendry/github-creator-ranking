@@ -1,0 +1,62 @@
+{
+  "login": "samchon",
+  "name": "Jeongho Nam",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/13158709?v=4",
+  "htmlUrl": "https://github.com/samchon",
+  "location": "Seoul, South Korea",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 10715,
+      "repoCountPrimary": 9,
+      "starsContains": 10715,
+      "repoCountContains": 9,
+      "globalRank": 201,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "typia",
+          "fullName": "samchon/typia",
+          "stars": 5812,
+          "url": "https://github.com/samchon/typia",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "nestia",
+          "fullName": "samchon/nestia",
+          "stars": 2156,
+          "url": "https://github.com/samchon/nestia",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "backend",
+          "fullName": "samchon/backend",
+          "stars": 713,
+          "url": "https://github.com/samchon/backend",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "tstl",
+          "fullName": "samchon/tstl",
+          "stars": 629,
+          "url": "https://github.com/samchon/tstl",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "prisma-markdown",
+          "fullName": "samchon/prisma-markdown",
+          "stars": 524,
+          "url": "https://github.com/samchon/prisma-markdown",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

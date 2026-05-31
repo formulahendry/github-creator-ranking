@@ -1,0 +1,34 @@
+{
+  "login": "Sayrix",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/43046854?v=4",
+  "htmlUrl": "https://github.com/Sayrix",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 496,
+      "repoCountPrimary": 1,
+      "starsContains": 496,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Ticket-Bot",
+          "fullName": "Sayrix/Ticket-Bot",
+          "stars": 496,
+          "url": "https://github.com/Sayrix/Ticket-Bot",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "princefishthrower",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/11366744?v=4",
+  "htmlUrl": "https://github.com/princefishthrower",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 153,
+      "repoCountPrimary": 1,
+      "starsContains": 153,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-use-please-stay",
+          "fullName": "princefishthrower/react-use-please-stay",
+          "stars": 153,
+          "url": "https://github.com/princefishthrower/react-use-please-stay",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

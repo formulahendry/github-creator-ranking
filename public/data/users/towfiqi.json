@@ -1,0 +1,34 @@
+{
+  "login": "towfiqi",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1926614?v=4",
+  "htmlUrl": "https://github.com/towfiqi",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1965,
+      "repoCountPrimary": 1,
+      "starsContains": 1965,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "serpbear",
+          "fullName": "towfiqi/serpbear",
+          "stars": 1965,
+          "url": "https://github.com/towfiqi/serpbear",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

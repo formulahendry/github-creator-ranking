@@ -1,0 +1,34 @@
+{
+  "login": "samwillis",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/31130?v=4",
+  "htmlUrl": "https://github.com/samwillis",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 287,
+      "repoCountPrimary": 1,
+      "starsContains": 287,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "solidtype",
+          "fullName": "samwillis/solidtype",
+          "stars": 287,
+          "url": "https://github.com/samwillis/solidtype",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "3lang3",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7098719?v=4",
+  "htmlUrl": "https://github.com/3lang3",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1449,
+      "repoCountPrimary": 2,
+      "starsContains": 1449,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-vant",
+          "fullName": "3lang3/react-vant",
+          "stars": 1313,
+          "url": "https://github.com/3lang3/react-vant",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "wxopen",
+          "fullName": "3lang3/wxopen",
+          "stars": 136,
+          "url": "https://github.com/3lang3/wxopen",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

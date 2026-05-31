@@ -1,0 +1,41 @@
+{
+  "login": "nielsfaber",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/16861605?v=4",
+  "htmlUrl": "https://github.com/nielsfaber",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1394,
+      "repoCountPrimary": 2,
+      "starsContains": 1394,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "scheduler-card",
+          "fullName": "nielsfaber/scheduler-card",
+          "stars": 1228,
+          "url": "https://github.com/nielsfaber/scheduler-card",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "alarmo-card",
+          "fullName": "nielsfaber/alarmo-card",
+          "stars": 166,
+          "url": "https://github.com/nielsfaber/alarmo-card",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

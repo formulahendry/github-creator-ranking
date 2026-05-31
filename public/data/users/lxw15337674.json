@@ -1,0 +1,34 @@
+{
+  "login": "lxw15337674",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/19898669?v=4",
+  "htmlUrl": "https://github.com/lxw15337674",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 542,
+      "repoCountPrimary": 1,
+      "starsContains": 542,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "galaxy-downloader",
+          "fullName": "lxw15337674/galaxy-downloader",
+          "stars": 542,
+          "url": "https://github.com/lxw15337674/galaxy-downloader",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,11 +1,11 @@
 {
   "login": "virattt",
-  "name": null,
+  "name": "Virat Singh",
   "avatarUrl": "https://avatars.githubusercontent.com/u/901795?v=4",
   "htmlUrl": "https://github.com/virattt",
-  "location": null,
-  "countryCode": null,
-  "generatedAt": "2026-05-31T13:50:40.799Z",
+  "location": "New York, NY",
+  "countryCode": "US",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
   "isPartial": true,
   "languages": [
     {
@@ -14,18 +14,39 @@
         "name": "TypeScript",
         "githubQuery": "TypeScript"
       },
-      "starsPrimary": 26713,
-      "repoCountPrimary": 1,
-      "starsContains": 26713,
-      "repoCountContains": 1,
-      "globalRank": null,
+      "starsPrimary": 29617,
+      "repoCountPrimary": 4,
+      "starsContains": 29617,
+      "repoCountContains": 4,
+      "globalRank": 45,
       "countryRank": null,
       "topRepos": [
         {
           "name": "dexter",
           "fullName": "virattt/dexter",
-          "stars": 26713,
+          "stars": 26724,
           "url": "https://github.com/virattt/dexter",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ai-financial-agent",
+          "fullName": "virattt/ai-financial-agent",
+          "stars": 1979,
+          "url": "https://github.com/virattt/ai-financial-agent",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "financial-agent-ui",
+          "fullName": "virattt/financial-agent-ui",
+          "stars": 791,
+          "url": "https://github.com/virattt/financial-agent-ui",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "chat_app",
+          "fullName": "virattt/chat_app",
+          "stars": 123,
+          "url": "https://github.com/virattt/chat_app",
           "primaryLanguage": "TypeScript"
         }
       ]

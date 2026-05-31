@@ -1,0 +1,34 @@
+{
+  "login": "gao-sun",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/14722250?v=4",
+  "htmlUrl": "https://github.com/gao-sun",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 129,
+      "repoCountPrimary": 1,
+      "starsContains": 129,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "github-vsc",
+          "fullName": "gao-sun/github-vsc",
+          "stars": 129,
+          "url": "https://github.com/gao-sun/github-vsc",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

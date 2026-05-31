@@ -1,0 +1,48 @@
+{
+  "login": "freestylefly",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/43960064?v=4",
+  "htmlUrl": "https://github.com/freestylefly",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2089,
+      "repoCountPrimary": 3,
+      "starsContains": 2089,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "openclaw-wechat",
+          "fullName": "freestylefly/openclaw-wechat",
+          "stars": 1666,
+          "url": "https://github.com/freestylefly/openclaw-wechat",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "canghe-skills",
+          "fullName": "freestylefly/canghe-skills",
+          "stars": 298,
+          "url": "https://github.com/freestylefly/canghe-skills",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "claude-code",
+          "fullName": "freestylefly/claude-code",
+          "stars": 125,
+          "url": "https://github.com/freestylefly/claude-code",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

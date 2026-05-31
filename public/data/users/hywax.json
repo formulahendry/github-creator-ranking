@@ -1,0 +1,41 @@
+{
+  "login": "hywax",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/149865959?v=4",
+  "htmlUrl": "https://github.com/hywax",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 834,
+      "repoCountPrimary": 2,
+      "starsContains": 834,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "mafl",
+          "fullName": "hywax/mafl",
+          "stars": 734,
+          "url": "https://github.com/hywax/mafl",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "nuxt-cron",
+          "fullName": "hywax/nuxt-cron",
+          "stars": 100,
+          "url": "https://github.com/hywax/nuxt-cron",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "LouisBrunner",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7120871?v=4",
+  "htmlUrl": "https://github.com/LouisBrunner",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 474,
+      "repoCountPrimary": 2,
+      "starsContains": 474,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "checks-action",
+          "fullName": "LouisBrunner/checks-action",
+          "stars": 264,
+          "url": "https://github.com/LouisBrunner/checks-action",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "dnd-multi-backend",
+          "fullName": "LouisBrunner/dnd-multi-backend",
+          "stars": 210,
+          "url": "https://github.com/LouisBrunner/dnd-multi-backend",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "jensmtg",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6455628?v=4",
+  "htmlUrl": "https://github.com/jensmtg",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 479,
+      "repoCountPrimary": 2,
+      "starsContains": 479,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "influx",
+          "fullName": "jensmtg/influx",
+          "stars": 358,
+          "url": "https://github.com/jensmtg/influx",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "obsidian-diagrams-net",
+          "fullName": "jensmtg/obsidian-diagrams-net",
+          "stars": 121,
+          "url": "https://github.com/jensmtg/obsidian-diagrams-net",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

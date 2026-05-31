@@ -1,0 +1,34 @@
+{
+  "login": "seladb",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/9059541?v=4",
+  "htmlUrl": "https://github.com/seladb",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 589,
+      "repoCountPrimary": 1,
+      "starsContains": 589,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "StarTrack-js",
+          "fullName": "seladb/StarTrack-js",
+          "stars": 589,
+          "url": "https://github.com/seladb/StarTrack-js",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

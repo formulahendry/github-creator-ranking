@@ -1,0 +1,34 @@
+{
+  "login": "andrico1234",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/17087167?v=4",
+  "htmlUrl": "https://github.com/andrico1234",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 390,
+      "repoCountPrimary": 1,
+      "starsContains": 390,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "beautiful-skill-tree",
+          "fullName": "andrico1234/beautiful-skill-tree",
+          "stars": 390,
+          "url": "https://github.com/andrico1234/beautiful-skill-tree",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

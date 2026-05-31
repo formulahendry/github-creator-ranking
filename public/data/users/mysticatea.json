@@ -1,0 +1,48 @@
+{
+  "login": "mysticatea",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1937871?v=4",
+  "htmlUrl": "https://github.com/mysticatea",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 595,
+      "repoCountPrimary": 3,
+      "starsContains": 595,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "abort-controller",
+          "fullName": "mysticatea/abort-controller",
+          "stars": 308,
+          "url": "https://github.com/mysticatea/abort-controller",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "regexpp",
+          "fullName": "mysticatea/regexpp",
+          "stars": 157,
+          "url": "https://github.com/mysticatea/regexpp",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "event-target-shim",
+          "fullName": "mysticatea/event-target-shim",
+          "stars": 130,
+          "url": "https://github.com/mysticatea/event-target-shim",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

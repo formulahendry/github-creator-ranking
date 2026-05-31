@@ -1,0 +1,41 @@
+{
+  "login": "arikchakma",
+  "name": "Arik Chakma",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/54026804?v=4",
+  "htmlUrl": "https://github.com/arikchakma",
+  "location": "Bangladesh",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3902,
+      "repoCountPrimary": 2,
+      "starsContains": 3902,
+      "repoCountContains": 2,
+      "globalRank": 682,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "maily.to",
+          "fullName": "arikchakma/maily.to",
+          "stars": 3792,
+          "url": "https://github.com/arikchakma/maily.to",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "inboxing",
+          "fullName": "arikchakma/inboxing",
+          "stars": 110,
+          "url": "https://github.com/arikchakma/inboxing",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

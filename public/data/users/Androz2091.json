@@ -1,0 +1,55 @@
+{
+  "login": "Androz2091",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/42497995?v=4",
+  "htmlUrl": "https://github.com/Androz2091",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1463,
+      "repoCountPrimary": 4,
+      "starsContains": 1463,
+      "repoCountContains": 4,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "discord-player",
+          "fullName": "Androz2091/discord-player",
+          "stars": 638,
+          "url": "https://github.com/Androz2091/discord-player",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "discord-backup",
+          "fullName": "Androz2091/discord-backup",
+          "stars": 476,
+          "url": "https://github.com/Androz2091/discord-backup",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "discord-logs",
+          "fullName": "Androz2091/discord-logs",
+          "stars": 240,
+          "url": "https://github.com/Androz2091/discord-logs",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "discord-temp-channels",
+          "fullName": "Androz2091/discord-temp-channels",
+          "stars": 109,
+          "url": "https://github.com/Androz2091/discord-temp-channels",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

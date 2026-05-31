@@ -1,0 +1,41 @@
+{
+  "login": "ananthakumaran",
+  "name": "Anantha Kumaran",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/149238?v=4",
+  "htmlUrl": "https://github.com/ananthakumaran",
+  "location": "Bangalore, India",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3336,
+      "repoCountPrimary": 2,
+      "starsContains": 3336,
+      "repoCountContains": 2,
+      "globalRank": 813,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "paisa",
+          "fullName": "ananthakumaran/paisa",
+          "stars": 3159,
+          "url": "https://github.com/ananthakumaran/paisa",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "u",
+          "fullName": "ananthakumaran/u",
+          "stars": 177,
+          "url": "https://github.com/ananthakumaran/u",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

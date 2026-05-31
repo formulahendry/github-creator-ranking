@@ -1,0 +1,34 @@
+{
+  "login": "mauriciovigolo",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/676270?v=4",
+  "htmlUrl": "https://github.com/mauriciovigolo",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 855,
+      "repoCountPrimary": 1,
+      "starsContains": 855,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "keycloak-angular",
+          "fullName": "mauriciovigolo/keycloak-angular",
+          "stars": 855,
+          "url": "https://github.com/mauriciovigolo/keycloak-angular",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

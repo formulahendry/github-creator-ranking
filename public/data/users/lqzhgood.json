@@ -1,0 +1,34 @@
+{
+  "login": "lqzhgood",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/9134671?v=4",
+  "htmlUrl": "https://github.com/lqzhgood",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2153,
+      "repoCountPrimary": 1,
+      "starsContains": 2153,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "wechat-need-web",
+          "fullName": "lqzhgood/wechat-need-web",
+          "stars": 2153,
+          "url": "https://github.com/lqzhgood/wechat-need-web",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

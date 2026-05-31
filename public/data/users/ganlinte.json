@@ -1,0 +1,34 @@
+{
+  "login": "ganlinte",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/160194569?v=4",
+  "htmlUrl": "https://github.com/ganlinte",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 767,
+      "repoCountPrimary": 1,
+      "starsContains": 767,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "GKD-subscription",
+          "fullName": "ganlinte/GKD-subscription",
+          "stars": 767,
+          "url": "https://github.com/ganlinte/GKD-subscription",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

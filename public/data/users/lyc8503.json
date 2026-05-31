@@ -1,0 +1,41 @@
+{
+  "login": "lyc8503",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/36782264?v=4",
+  "htmlUrl": "https://github.com/lyc8503",
+  "location": "Suzhou Jiangsu",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 4169,
+      "repoCountPrimary": 2,
+      "starsContains": 4169,
+      "repoCountContains": 2,
+      "globalRank": 626,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "UptimeFlare",
+          "fullName": "lyc8503/UptimeFlare",
+          "stars": 3580,
+          "url": "https://github.com/lyc8503/UptimeFlare",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "onedrive-cf-index-ng",
+          "fullName": "lyc8503/onedrive-cf-index-ng",
+          "stars": 589,
+          "url": "https://github.com/lyc8503/onedrive-cf-index-ng",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

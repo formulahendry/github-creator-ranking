@@ -1,0 +1,41 @@
+{
+  "login": "mendsalbert",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/40429398?v=4",
+  "htmlUrl": "https://github.com/mendsalbert",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 239,
+      "repoCountPrimary": 2,
+      "starsContains": 239,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "medicine-reminder-app",
+          "fullName": "mendsalbert/medicine-reminder-app",
+          "stars": 128,
+          "url": "https://github.com/mendsalbert/medicine-reminder-app",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "zero-to-hero",
+          "fullName": "mendsalbert/zero-to-hero",
+          "stars": 111,
+          "url": "https://github.com/mendsalbert/zero-to-hero",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "login": "gadingnst",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/38345393?v=4",
+  "htmlUrl": "https://github.com/gadingnst",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 691,
+      "repoCountPrimary": 3,
+      "starsContains": 691,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "hadith-api",
+          "fullName": "gadingnst/hadith-api",
+          "stars": 392,
+          "url": "https://github.com/gadingnst/hadith-api",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "fullstack-next-template",
+          "fullName": "gadingnst/fullstack-next-template",
+          "stars": 174,
+          "url": "https://github.com/gadingnst/fullstack-next-template",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "gading.dev",
+          "fullName": "gadingnst/gading.dev",
+          "stars": 125,
+          "url": "https://github.com/gadingnst/gading.dev",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

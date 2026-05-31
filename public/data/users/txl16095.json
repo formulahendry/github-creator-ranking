@@ -1,0 +1,34 @@
+{
+  "login": "txl16095",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/46282746?v=4",
+  "htmlUrl": "https://github.com/txl16095",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 142,
+      "repoCountPrimary": 1,
+      "starsContains": 142,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "MiniClaude",
+          "fullName": "txl16095/MiniClaude",
+          "stars": 142,
+          "url": "https://github.com/txl16095/MiniClaude",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

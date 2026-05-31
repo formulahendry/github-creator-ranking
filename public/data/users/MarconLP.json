@@ -1,0 +1,41 @@
+{
+  "login": "MarconLP",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/13001502?v=4",
+  "htmlUrl": "https://github.com/MarconLP",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1139,
+      "repoCountPrimary": 2,
+      "starsContains": 1139,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "snapify",
+          "fullName": "MarconLP/snapify",
+          "stars": 1018,
+          "url": "https://github.com/MarconLP/snapify",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "loggl",
+          "fullName": "MarconLP/loggl",
+          "stars": 121,
+          "url": "https://github.com/MarconLP/loggl",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

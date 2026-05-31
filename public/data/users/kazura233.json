@@ -1,0 +1,41 @@
+{
+  "login": "kazura233",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/26360761?v=4",
+  "htmlUrl": "https://github.com/kazura233",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 803,
+      "repoCountPrimary": 2,
+      "starsContains": 803,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "web-daemon",
+          "fullName": "kazura233/web-daemon",
+          "stars": 667,
+          "url": "https://github.com/kazura233/web-daemon",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "kazurajs",
+          "fullName": "kazura233/kazurajs",
+          "stars": 136,
+          "url": "https://github.com/kazura233/kazurajs",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

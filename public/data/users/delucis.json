@@ -1,0 +1,55 @@
+{
+  "login": "delucis",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/357379?v=4",
+  "htmlUrl": "https://github.com/delucis",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 678,
+      "repoCountPrimary": 4,
+      "starsContains": 678,
+      "repoCountContains": 4,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "astro-og-canvas",
+          "fullName": "delucis/astro-og-canvas",
+          "stars": 264,
+          "url": "https://github.com/delucis/astro-og-canvas",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "astro-netlify-cms",
+          "fullName": "delucis/astro-netlify-cms",
+          "stars": 161,
+          "url": "https://github.com/delucis/astro-netlify-cms",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "astro-auto-import",
+          "fullName": "delucis/astro-auto-import",
+          "stars": 153,
+          "url": "https://github.com/delucis/astro-auto-import",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "starlight-llms-txt",
+          "fullName": "delucis/starlight-llms-txt",
+          "stars": 100,
+          "url": "https://github.com/delucis/starlight-llms-txt",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

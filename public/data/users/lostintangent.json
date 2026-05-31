@@ -1,0 +1,62 @@
+{
+  "login": "lostintangent",
+  "name": "Jonathan Carter",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/116461?v=4",
+  "htmlUrl": "https://github.com/lostintangent",
+  "location": "Seattle, WA",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2721,
+      "repoCountPrimary": 5,
+      "starsContains": 2721,
+      "repoCountContains": 5,
+      "globalRank": 986,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "gistpad",
+          "fullName": "lostintangent/gistpad",
+          "stars": 1055,
+          "url": "https://github.com/lostintangent/gistpad",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "codeswing",
+          "fullName": "lostintangent/codeswing",
+          "stars": 1003,
+          "url": "https://github.com/lostintangent/codeswing",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "gitdoc",
+          "fullName": "lostintangent/gitdoc",
+          "stars": 332,
+          "url": "https://github.com/lostintangent/gitdoc",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "gistpad-mcp",
+          "fullName": "lostintangent/gistpad-mcp",
+          "stars": 195,
+          "url": "https://github.com/lostintangent/gistpad-mcp",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "wikilens",
+          "fullName": "lostintangent/wikilens",
+          "stars": 136,
+          "url": "https://github.com/lostintangent/wikilens",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

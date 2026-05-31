@@ -1,0 +1,62 @@
+{
+  "login": "op7418",
+  "name": "歸藏",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/13505770?v=4",
+  "htmlUrl": "https://github.com/op7418",
+  "location": "beijing",
+  "countryCode": "CN",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 9340,
+      "repoCountPrimary": 5,
+      "starsContains": 9340,
+      "repoCountContains": 5,
+      "globalRank": 243,
+      "countryRank": 30,
+      "topRepos": [
+        {
+          "name": "CodePilot",
+          "fullName": "op7418/CodePilot",
+          "stars": 5863,
+          "url": "https://github.com/op7418/CodePilot",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Claude-to-IM-skill",
+          "fullName": "op7418/Claude-to-IM-skill",
+          "stars": 2648,
+          "url": "https://github.com/op7418/Claude-to-IM-skill",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Claude-to-IM",
+          "fullName": "op7418/Claude-to-IM",
+          "stars": 461,
+          "url": "https://github.com/op7418/Claude-to-IM",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ai-claude-start",
+          "fullName": "op7418/ai-claude-start",
+          "stars": 224,
+          "url": "https://github.com/op7418/ai-claude-start",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Night-Patrol",
+          "fullName": "op7418/Night-Patrol",
+          "stars": 144,
+          "url": "https://github.com/op7418/Night-Patrol",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

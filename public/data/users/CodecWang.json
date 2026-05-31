@@ -1,0 +1,34 @@
+{
+  "login": "CodecWang",
+  "name": "Arthur Wang",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/14953457?v=4",
+  "htmlUrl": "https://github.com/CodecWang",
+  "location": "Suzhou",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3139,
+      "repoCountPrimary": 1,
+      "starsContains": 3139,
+      "repoCountContains": 1,
+      "globalRank": 860,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "opencv-python-tutorial",
+          "fullName": "CodecWang/opencv-python-tutorial",
+          "stars": 3139,
+          "url": "https://github.com/CodecWang/opencv-python-tutorial",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

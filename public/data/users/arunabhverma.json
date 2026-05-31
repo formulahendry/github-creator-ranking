@@ -1,0 +1,41 @@
+{
+  "login": "arunabhverma",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/59590144?v=4",
+  "htmlUrl": "https://github.com/arunabhverma",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 259,
+      "repoCountPrimary": 2,
+      "starsContains": 259,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "expo-reaction-menu",
+          "fullName": "arunabhverma/expo-reaction-menu",
+          "stars": 155,
+          "url": "https://github.com/arunabhverma/expo-reaction-menu",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "expo-tournament-bracket",
+          "fullName": "arunabhverma/expo-tournament-bracket",
+          "stars": 104,
+          "url": "https://github.com/arunabhverma/expo-tournament-bracket",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

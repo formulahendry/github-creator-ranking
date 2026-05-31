@@ -1,0 +1,55 @@
+{
+  "login": "joshuadavidthomas",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/19896267?v=4",
+  "htmlUrl": "https://github.com/joshuadavidthomas",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 854,
+      "repoCountPrimary": 4,
+      "starsContains": 854,
+      "repoCountContains": 4,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "opencode-agent-memory",
+          "fullName": "joshuadavidthomas/opencode-agent-memory",
+          "stars": 272,
+          "url": "https://github.com/joshuadavidthomas/opencode-agent-memory",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "opencode-beads",
+          "fullName": "joshuadavidthomas/opencode-beads",
+          "stars": 241,
+          "url": "https://github.com/joshuadavidthomas/opencode-beads",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "opencode-agent-skills",
+          "fullName": "joshuadavidthomas/opencode-agent-skills",
+          "stars": 222,
+          "url": "https://github.com/joshuadavidthomas/opencode-agent-skills",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "opencode-handoff",
+          "fullName": "joshuadavidthomas/opencode-handoff",
+          "stars": 119,
+          "url": "https://github.com/joshuadavidthomas/opencode-handoff",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "Dschungelabenteuer",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/16818271?v=4",
+  "htmlUrl": "https://github.com/Dschungelabenteuer",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 155,
+      "repoCountPrimary": 1,
+      "starsContains": 155,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vite-plugin-entry-shaking",
+          "fullName": "Dschungelabenteuer/vite-plugin-entry-shaking",
+          "stars": 155,
+          "url": "https://github.com/Dschungelabenteuer/vite-plugin-entry-shaking",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

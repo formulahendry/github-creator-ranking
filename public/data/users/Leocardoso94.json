@@ -1,0 +1,34 @@
+{
+  "login": "Leocardoso94",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/12713314?v=4",
+  "htmlUrl": "https://github.com/Leocardoso94",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 564,
+      "repoCountPrimary": 1,
+      "starsContains": 564,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Free-Courses",
+          "fullName": "Leocardoso94/Free-Courses",
+          "stars": 564,
+          "url": "https://github.com/Leocardoso94/Free-Courses",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

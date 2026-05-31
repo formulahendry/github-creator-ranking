@@ -1,0 +1,48 @@
+{
+  "login": "pfrankov",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/584632?v=4",
+  "htmlUrl": "https://github.com/pfrankov",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 912,
+      "repoCountPrimary": 3,
+      "starsContains": 912,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "obsidian-local-gpt",
+          "fullName": "pfrankov/obsidian-local-gpt",
+          "stars": 646,
+          "url": "https://github.com/pfrankov/obsidian-local-gpt",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "obsidian-colored-tags",
+          "fullName": "pfrankov/obsidian-colored-tags",
+          "stars": 149,
+          "url": "https://github.com/pfrankov/obsidian-colored-tags",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "obsidian-ai-providers",
+          "fullName": "pfrankov/obsidian-ai-providers",
+          "stars": 117,
+          "url": "https://github.com/pfrankov/obsidian-ai-providers",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

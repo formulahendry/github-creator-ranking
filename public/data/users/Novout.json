@@ -1,0 +1,41 @@
+{
+  "login": "Novout",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/41403842?v=4",
+  "htmlUrl": "https://github.com/Novout",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 378,
+      "repoCountPrimary": 2,
+      "starsContains": 378,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vue4noobs",
+          "fullName": "Novout/vue4noobs",
+          "stars": 236,
+          "url": "https://github.com/Novout/vue4noobs",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "cpp4noobs",
+          "fullName": "Novout/cpp4noobs",
+          "stars": 142,
+          "url": "https://github.com/Novout/cpp4noobs",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

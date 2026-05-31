@@ -1,0 +1,34 @@
+{
+  "login": "cgewecke",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7332026?v=4",
+  "htmlUrl": "https://github.com/cgewecke",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 430,
+      "repoCountPrimary": 1,
+      "starsContains": 430,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "hardhat-gas-reporter",
+          "fullName": "cgewecke/hardhat-gas-reporter",
+          "stars": 430,
+          "url": "https://github.com/cgewecke/hardhat-gas-reporter",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

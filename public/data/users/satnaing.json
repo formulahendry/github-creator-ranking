@@ -1,0 +1,62 @@
+{
+  "login": "satnaing",
+  "name": "Sat Naing",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/53733092?v=4",
+  "htmlUrl": "https://github.com/satnaing",
+  "location": "Bangkok, Thailand",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 13400,
+      "repoCountPrimary": 5,
+      "starsContains": 13400,
+      "repoCountContains": 5,
+      "globalRank": 150,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "shadcn-admin",
+          "fullName": "satnaing/shadcn-admin",
+          "stars": 12176,
+          "url": "https://github.com/satnaing/shadcn-admin",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "terminal-portfolio",
+          "fullName": "satnaing/terminal-portfolio",
+          "stars": 770,
+          "url": "https://github.com/satnaing/terminal-portfolio",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "satnaing.dev",
+          "fullName": "satnaing/satnaing.dev",
+          "stars": 173,
+          "url": "https://github.com/satnaing/satnaing.dev",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "haru-fashion",
+          "fullName": "satnaing/haru-fashion",
+          "stars": 170,
+          "url": "https://github.com/satnaing/haru-fashion",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "next-bookstore",
+          "fullName": "satnaing/next-bookstore",
+          "stars": 111,
+          "url": "https://github.com/satnaing/next-bookstore",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

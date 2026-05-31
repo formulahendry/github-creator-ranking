@@ -1,0 +1,34 @@
+{
+  "login": "mauriceboe",
+  "name": "Maurice",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/61554723?v=4",
+  "htmlUrl": "https://github.com/mauriceboe",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 5292,
+      "repoCountPrimary": 1,
+      "starsContains": 5292,
+      "repoCountContains": 1,
+      "globalRank": 469,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "TREK",
+          "fullName": "mauriceboe/TREK",
+          "stars": 5292,
+          "url": "https://github.com/mauriceboe/TREK",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

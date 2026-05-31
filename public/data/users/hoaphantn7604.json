@@ -1,0 +1,48 @@
+{
+  "login": "hoaphantn7604",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/50919571?v=4",
+  "htmlUrl": "https://github.com/hoaphantn7604",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2095,
+      "repoCountPrimary": 3,
+      "starsContains": 2095,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-native-element-dropdown",
+          "fullName": "hoaphantn7604/react-native-element-dropdown",
+          "stars": 1313,
+          "url": "https://github.com/hoaphantn7604/react-native-element-dropdown",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-native-curved-bottom-bar",
+          "fullName": "hoaphantn7604/react-native-curved-bottom-bar",
+          "stars": 596,
+          "url": "https://github.com/hoaphantn7604/react-native-curved-bottom-bar",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-native-template-components",
+          "fullName": "hoaphantn7604/react-native-template-components",
+          "stars": 186,
+          "url": "https://github.com/hoaphantn7604/react-native-template-components",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

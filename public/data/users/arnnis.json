@@ -1,0 +1,41 @@
+{
+  "login": "arnnis",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/61647712?v=4",
+  "htmlUrl": "https://github.com/arnnis",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 969,
+      "repoCountPrimary": 2,
+      "starsContains": 969,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-native-toast-notifications",
+          "fullName": "arnnis/react-native-toast-notifications",
+          "stars": 586,
+          "url": "https://github.com/arnnis/react-native-toast-notifications",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Sup",
+          "fullName": "arnnis/Sup",
+          "stars": 383,
+          "url": "https://github.com/arnnis/Sup",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

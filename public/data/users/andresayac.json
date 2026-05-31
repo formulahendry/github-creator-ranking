@@ -1,0 +1,41 @@
+{
+  "login": "andresayac",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/16548795?v=4",
+  "htmlUrl": "https://github.com/andresayac",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 240,
+      "repoCountPrimary": 2,
+      "starsContains": 240,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "edge-tts",
+          "fullName": "andresayac/edge-tts",
+          "stars": 129,
+          "url": "https://github.com/andresayac/edge-tts",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "bot-wa-baileys",
+          "fullName": "andresayac/bot-wa-baileys",
+          "stars": 111,
+          "url": "https://github.com/andresayac/bot-wa-baileys",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "login": "EvanBacon",
+  "name": "Evan Bacon",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/9664363?v=4",
+  "htmlUrl": "https://github.com/EvanBacon",
+  "location": "San Francisco",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 8749,
+      "repoCountPrimary": 24,
+      "starsContains": 8749,
+      "repoCountContains": 24,
+      "globalRank": 258,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "serve-sim",
+          "fullName": "EvanBacon/serve-sim",
+          "stars": 1258,
+          "url": "https://github.com/EvanBacon/serve-sim",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Expo-Crossy-Road",
+          "fullName": "EvanBacon/Expo-Crossy-Road",
+          "stars": 1139,
+          "url": "https://github.com/EvanBacon/Expo-Crossy-Road",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "expo-ai",
+          "fullName": "EvanBacon/expo-ai",
+          "stars": 852,
+          "url": "https://github.com/EvanBacon/expo-ai",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "pillar-valley",
+          "fullName": "EvanBacon/pillar-valley",
+          "stars": 765,
+          "url": "https://github.com/EvanBacon/pillar-valley",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "expo-quick-actions",
+          "fullName": "EvanBacon/expo-quick-actions",
+          "stars": 638,
+          "url": "https://github.com/EvanBacon/expo-quick-actions",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

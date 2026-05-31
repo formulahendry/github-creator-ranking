@@ -1,0 +1,34 @@
+{
+  "login": "snake-ai-agent",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/157666913?v=4",
+  "htmlUrl": "https://github.com/snake-ai-agent",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 211,
+      "repoCountPrimary": 1,
+      "starsContains": 211,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "SnakeAI",
+          "fullName": "snake-ai-agent/SnakeAI",
+          "stars": 211,
+          "url": "https://github.com/snake-ai-agent/SnakeAI",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

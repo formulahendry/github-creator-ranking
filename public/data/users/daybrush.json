@@ -1,0 +1,62 @@
+{
+  "login": "daybrush",
+  "name": "Daybrush (Younkue Choi)",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3433062?v=4",
+  "htmlUrl": "https://github.com/daybrush",
+  "location": "Seongnam, Republic of Korea",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 18025,
+      "repoCountPrimary": 9,
+      "starsContains": 18025,
+      "repoCountContains": 9,
+      "globalRank": 103,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "moveable",
+          "fullName": "daybrush/moveable",
+          "stars": 10706,
+          "url": "https://github.com/daybrush/moveable",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "scenejs",
+          "fullName": "daybrush/scenejs",
+          "stars": 2768,
+          "url": "https://github.com/daybrush/scenejs",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "selecto",
+          "fullName": "daybrush/selecto",
+          "stars": 2218,
+          "url": "https://github.com/daybrush/selecto",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "scena",
+          "fullName": "daybrush/scena",
+          "stars": 931,
+          "url": "https://github.com/daybrush/scena",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "guides",
+          "fullName": "daybrush/guides",
+          "stars": 377,
+          "url": "https://github.com/daybrush/guides",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "sugarshin",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2001452?v=4",
+  "htmlUrl": "https://github.com/sugarshin",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 257,
+      "repoCountPrimary": 1,
+      "starsContains": 257,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-instagram-embed",
+          "fullName": "sugarshin/react-instagram-embed",
+          "stars": 257,
+          "url": "https://github.com/sugarshin/react-instagram-embed",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

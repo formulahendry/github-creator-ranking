@@ -1,0 +1,34 @@
+{
+  "login": "emmanuelnk",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/19330930?v=4",
+  "htmlUrl": "https://github.com/emmanuelnk",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 153,
+      "repoCountPrimary": 1,
+      "starsContains": 153,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "github-actions-workflow-ts",
+          "fullName": "emmanuelnk/github-actions-workflow-ts",
+          "stars": 153,
+          "url": "https://github.com/emmanuelnk/github-actions-workflow-ts",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

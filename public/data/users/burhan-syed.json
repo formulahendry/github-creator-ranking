@@ -1,0 +1,34 @@
+{
+  "login": "burhan-syed",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/32972409?v=4",
+  "htmlUrl": "https://github.com/burhan-syed",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 624,
+      "repoCountPrimary": 1,
+      "starsContains": 624,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "troddit",
+          "fullName": "burhan-syed/troddit",
+          "stars": 624,
+          "url": "https://github.com/burhan-syed/troddit",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

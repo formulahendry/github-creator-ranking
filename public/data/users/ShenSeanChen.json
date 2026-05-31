@@ -1,0 +1,41 @@
+{
+  "login": "ShenSeanChen",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/33162434?v=4",
+  "htmlUrl": "https://github.com/ShenSeanChen",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1115,
+      "repoCountPrimary": 2,
+      "starsContains": 1115,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "launch-mvp-stripe-nextjs-supabase",
+          "fullName": "ShenSeanChen/launch-mvp-stripe-nextjs-supabase",
+          "stars": 1003,
+          "url": "https://github.com/ShenSeanChen/launch-mvp-stripe-nextjs-supabase",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "launch-react-nextjs-tips",
+          "fullName": "ShenSeanChen/launch-react-nextjs-tips",
+          "stars": 112,
+          "url": "https://github.com/ShenSeanChen/launch-react-nextjs-tips",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

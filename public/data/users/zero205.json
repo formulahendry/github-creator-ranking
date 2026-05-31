@@ -1,0 +1,34 @@
+{
+  "login": "zero205",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/26343559?v=4",
+  "htmlUrl": "https://github.com/zero205",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 643,
+      "repoCountPrimary": 1,
+      "starsContains": 643,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "JD_tencent_scf",
+          "fullName": "zero205/JD_tencent_scf",
+          "stars": 643,
+          "url": "https://github.com/zero205/JD_tencent_scf",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

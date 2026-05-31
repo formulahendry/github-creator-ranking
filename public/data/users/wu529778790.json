@@ -1,0 +1,34 @@
+{
+  "login": "wu529778790",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/11481938?v=4",
+  "htmlUrl": "https://github.com/wu529778790",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1297,
+      "repoCountPrimary": 1,
+      "starsContains": 1297,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "panhub.shenzjd.com",
+          "fullName": "wu529778790/panhub.shenzjd.com",
+          "stars": 1297,
+          "url": "https://github.com/wu529778790/panhub.shenzjd.com",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

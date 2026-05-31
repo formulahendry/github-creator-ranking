@@ -1,0 +1,41 @@
+{
+  "login": "mattkrick",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5514175?v=4",
+  "htmlUrl": "https://github.com/mattkrick",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 289,
+      "repoCountPrimary": 2,
+      "starsContains": 289,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "trebuchet-client",
+          "fullName": "mattkrick/trebuchet-client",
+          "stars": 181,
+          "url": "https://github.com/mattkrick/trebuchet-client",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "fast-rtc-swarm",
+          "fullName": "mattkrick/fast-rtc-swarm",
+          "stars": 108,
+          "url": "https://github.com/mattkrick/fast-rtc-swarm",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

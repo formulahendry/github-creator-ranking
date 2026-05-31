@@ -1,0 +1,34 @@
+{
+  "login": "snezhig",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3987716?v=4",
+  "htmlUrl": "https://github.com/snezhig",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 349,
+      "repoCountPrimary": 1,
+      "starsContains": 349,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "obsidian-front-matter-title",
+          "fullName": "snezhig/obsidian-front-matter-title",
+          "stars": 349,
+          "url": "https://github.com/snezhig/obsidian-front-matter-title",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

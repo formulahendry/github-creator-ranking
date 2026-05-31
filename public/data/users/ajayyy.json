@@ -1,0 +1,48 @@
+{
+  "login": "ajayyy",
+  "name": "Ajay Ramachandran",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/12688112?v=4",
+  "htmlUrl": "https://github.com/ajayyy",
+  "location": "Ottawa, Ontario, Canada",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 16450,
+      "repoCountPrimary": 3,
+      "starsContains": 16450,
+      "repoCountContains": 3,
+      "globalRank": 117,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "SponsorBlock",
+          "fullName": "ajayyy/SponsorBlock",
+          "stars": 13274,
+          "url": "https://github.com/ajayyy/SponsorBlock",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "DeArrow",
+          "fullName": "ajayyy/DeArrow",
+          "stars": 2155,
+          "url": "https://github.com/ajayyy/DeArrow",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "SponsorBlockServer",
+          "fullName": "ajayyy/SponsorBlockServer",
+          "stars": 1021,
+          "url": "https://github.com/ajayyy/SponsorBlockServer",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "Vizards",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/13443193?v=4",
+  "htmlUrl": "https://github.com/Vizards",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 653,
+      "repoCountPrimary": 1,
+      "starsContains": 653,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "deepseek-v4-for-copilot",
+          "fullName": "Vizards/deepseek-v4-for-copilot",
+          "stars": 653,
+          "url": "https://github.com/Vizards/deepseek-v4-for-copilot",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

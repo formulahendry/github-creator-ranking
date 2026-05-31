@@ -1,0 +1,41 @@
+{
+  "login": "cocopon",
+  "name": "Hiroki Kokubun",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/602961?v=4",
+  "htmlUrl": "https://github.com/cocopon",
+  "location": "Japan",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 4636,
+      "repoCountPrimary": 2,
+      "starsContains": 4636,
+      "repoCountContains": 2,
+      "globalRank": 554,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "tweakpane",
+          "fullName": "cocopon/tweakpane",
+          "stars": 4504,
+          "url": "https://github.com/cocopon/tweakpane",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vscode-iceberg-theme",
+          "fullName": "cocopon/vscode-iceberg-theme",
+          "stars": 132,
+          "url": "https://github.com/cocopon/vscode-iceberg-theme",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "Brainicism",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/13823855?v=4",
+  "htmlUrl": "https://github.com/Brainicism",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 548,
+      "repoCountPrimary": 1,
+      "starsContains": 548,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "bgutil-ytdlp-pot-provider",
+          "fullName": "Brainicism/bgutil-ytdlp-pot-provider",
+          "stars": 548,
+          "url": "https://github.com/Brainicism/bgutil-ytdlp-pot-provider",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

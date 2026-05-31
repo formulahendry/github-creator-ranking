@@ -1,0 +1,41 @@
+{
+  "login": "Purii",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7056989?v=4",
+  "htmlUrl": "https://github.com/Purii",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 892,
+      "repoCountPrimary": 2,
+      "starsContains": 892,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-native-tableview-simple",
+          "fullName": "Purii/react-native-tableview-simple",
+          "stars": 575,
+          "url": "https://github.com/Purii/react-native-tableview-simple",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-use-scrollspy",
+          "fullName": "Purii/react-use-scrollspy",
+          "stars": 317,
+          "url": "https://github.com/Purii/react-use-scrollspy",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "CarlosZiegler",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/38855507?v=4",
+  "htmlUrl": "https://github.com/CarlosZiegler",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 400,
+      "repoCountPrimary": 2,
+      "starsContains": 400,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "fullstack-start-template",
+          "fullName": "CarlosZiegler/fullstack-start-template",
+          "stars": 286,
+          "url": "https://github.com/CarlosZiegler/fullstack-start-template",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "hono-supabase",
+          "fullName": "CarlosZiegler/hono-supabase",
+          "stars": 114,
+          "url": "https://github.com/CarlosZiegler/hono-supabase",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

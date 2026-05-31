@@ -1,0 +1,34 @@
+{
+  "login": "nikeee",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/4068864?v=4",
+  "htmlUrl": "https://github.com/nikeee",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 206,
+      "repoCountPrimary": 1,
+      "starsContains": 206,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "edotor.net",
+          "fullName": "nikeee/edotor.net",
+          "stars": 206,
+          "url": "https://github.com/nikeee/edotor.net",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "EricWXY",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/35448319?v=4",
+  "htmlUrl": "https://github.com/EricWXY",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 126,
+      "repoCountPrimary": 1,
+      "starsContains": 126,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "eric-ui",
+          "fullName": "EricWXY/eric-ui",
+          "stars": 126,
+          "url": "https://github.com/EricWXY/eric-ui",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

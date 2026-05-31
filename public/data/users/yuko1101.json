@@ -1,0 +1,34 @@
+{
+  "login": "yuko1101",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/68993883?v=4",
+  "htmlUrl": "https://github.com/yuko1101",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 101,
+      "repoCountPrimary": 1,
+      "starsContains": 101,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "enka-network-api",
+          "fullName": "yuko1101/enka-network-api",
+          "stars": 101,
+          "url": "https://github.com/yuko1101/enka-network-api",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

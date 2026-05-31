@@ -1,0 +1,34 @@
+{
+  "login": "trixnz",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2995953?v=4",
+  "htmlUrl": "https://github.com/trixnz",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 123,
+      "repoCountPrimary": 1,
+      "starsContains": 123,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vscode-lua",
+          "fullName": "trixnz/vscode-lua",
+          "stars": 123,
+          "url": "https://github.com/trixnz/vscode-lua",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

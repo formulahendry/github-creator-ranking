@@ -1,0 +1,48 @@
+{
+  "login": "raiv200",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/67946371?v=4",
+  "htmlUrl": "https://github.com/raiv200",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 537,
+      "repoCountPrimary": 3,
+      "starsContains": 537,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Tic-Tac-Toe-Game",
+          "fullName": "raiv200/Tic-Tac-Toe-Game",
+          "stars": 224,
+          "url": "https://github.com/raiv200/Tic-Tac-Toe-Game",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Launch-Countdown-Timer",
+          "fullName": "raiv200/Launch-Countdown-Timer",
+          "stars": 167,
+          "url": "https://github.com/raiv200/Launch-Countdown-Timer",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "NextAuth-Next.js-13",
+          "fullName": "raiv200/NextAuth-Next.js-13",
+          "stars": 146,
+          "url": "https://github.com/raiv200/NextAuth-Next.js-13",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

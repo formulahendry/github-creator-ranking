@@ -1,0 +1,34 @@
+{
+  "login": "slowlydev",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/61624214?v=4",
+  "htmlUrl": "https://github.com/slowlydev",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1864,
+      "repoCountPrimary": 1,
+      "starsContains": 1864,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "f1-dash",
+          "fullName": "slowlydev/f1-dash",
+          "stars": 1864,
+          "url": "https://github.com/slowlydev/f1-dash",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

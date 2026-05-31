@@ -1,0 +1,34 @@
+{
+  "login": "gitname",
+  "name": "gitname",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7143133?v=4",
+  "htmlUrl": "https://github.com/gitname",
+  "location": "California, USA",
+  "countryCode": "US",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 6958,
+      "repoCountPrimary": 1,
+      "starsContains": 6958,
+      "repoCountContains": 1,
+      "globalRank": 334,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-gh-pages",
+          "fullName": "gitname/react-gh-pages",
+          "stars": 6958,
+          "url": "https://github.com/gitname/react-gh-pages",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

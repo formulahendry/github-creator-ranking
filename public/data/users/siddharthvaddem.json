@@ -1,11 +1,11 @@
 {
   "login": "siddharthvaddem",
-  "name": null,
+  "name": "Sid",
   "avatarUrl": "https://avatars.githubusercontent.com/u/70214527?v=4",
   "htmlUrl": "https://github.com/siddharthvaddem",
   "location": null,
   "countryCode": null,
-  "generatedAt": "2026-05-31T13:50:40.799Z",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
   "isPartial": true,
   "languages": [
     {
@@ -14,17 +14,17 @@
         "name": "TypeScript",
         "githubQuery": "TypeScript"
       },
-      "starsPrimary": 37854,
+      "starsPrimary": 37867,
       "repoCountPrimary": 1,
-      "starsContains": 37854,
+      "starsContains": 37867,
       "repoCountContains": 1,
-      "globalRank": 23,
+      "globalRank": 31,
       "countryRank": null,
       "topRepos": [
         {
           "name": "openscreen",
           "fullName": "siddharthvaddem/openscreen",
-          "stars": 37854,
+          "stars": 37867,
           "url": "https://github.com/siddharthvaddem/openscreen",
           "primaryLanguage": "TypeScript"
         }

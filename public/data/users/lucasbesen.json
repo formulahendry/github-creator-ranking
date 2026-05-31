@@ -1,0 +1,34 @@
+{
+  "login": "lucasbesen",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/13984388?v=4",
+  "htmlUrl": "https://github.com/lucasbesen",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 135,
+      "repoCountPrimary": 1,
+      "starsContains": 135,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-kanban-dnd",
+          "fullName": "lucasbesen/react-kanban-dnd",
+          "stars": 135,
+          "url": "https://github.com/lucasbesen/react-kanban-dnd",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

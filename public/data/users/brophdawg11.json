@@ -1,0 +1,41 @@
+{
+  "login": "brophdawg11",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1609022?v=4",
+  "htmlUrl": "https://github.com/brophdawg11",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 319,
+      "repoCountPrimary": 2,
+      "starsContains": 319,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "remix-validity-state",
+          "fullName": "brophdawg11/remix-validity-state",
+          "stars": 164,
+          "url": "https://github.com/brophdawg11/remix-validity-state",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "remix-routers",
+          "fullName": "brophdawg11/remix-routers",
+          "stars": 155,
+          "url": "https://github.com/brophdawg11/remix-routers",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "PeWu",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6564445?v=4",
+  "htmlUrl": "https://github.com/PeWu",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 433,
+      "repoCountPrimary": 2,
+      "starsContains": 433,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "topola-viewer",
+          "fullName": "PeWu/topola-viewer",
+          "stars": 317,
+          "url": "https://github.com/PeWu/topola-viewer",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "topola",
+          "fullName": "PeWu/topola",
+          "stars": 116,
+          "url": "https://github.com/PeWu/topola",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

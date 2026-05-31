@@ -1,0 +1,34 @@
+{
+  "login": "jesse-r-s-hines",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/47368565?v=4",
+  "htmlUrl": "https://github.com/jesse-r-s-hines",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 121,
+      "repoCountPrimary": 1,
+      "starsContains": 121,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "obsidian-open-tab-settings",
+          "fullName": "jesse-r-s-hines/obsidian-open-tab-settings",
+          "stars": 121,
+          "url": "https://github.com/jesse-r-s-hines/obsidian-open-tab-settings",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "BingZi-233",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/54745251?v=4",
+  "htmlUrl": "https://github.com/BingZi-233",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 569,
+      "repoCountPrimary": 1,
+      "starsContains": 569,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "check-cx",
+          "fullName": "BingZi-233/check-cx",
+          "stars": 569,
+          "url": "https://github.com/BingZi-233/check-cx",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

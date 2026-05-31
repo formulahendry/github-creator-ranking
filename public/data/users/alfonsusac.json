@@ -1,0 +1,41 @@
+{
+  "login": "alfonsusac",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/20208219?v=4",
+  "htmlUrl": "https://github.com/alfonsusac",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 781,
+      "repoCountPrimary": 2,
+      "starsContains": 781,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "check-site-meta",
+          "fullName": "alfonsusac/check-site-meta",
+          "stars": 678,
+          "url": "https://github.com/alfonsusac/check-site-meta",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "service-title-logo",
+          "fullName": "alfonsusac/service-title-logo",
+          "stars": 103,
+          "url": "https://github.com/alfonsusac/service-title-logo",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

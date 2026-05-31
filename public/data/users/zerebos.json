@@ -1,0 +1,41 @@
+{
+  "login": "zerebos",
+  "name": "Zerebos",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6865942?v=4",
+  "htmlUrl": "https://github.com/zerebos",
+  "location": "United States",
+  "countryCode": "US",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 4404,
+      "repoCountPrimary": 2,
+      "starsContains": 4404,
+      "repoCountContains": 2,
+      "globalRank": 585,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ghostty-config",
+          "fullName": "zerebos/ghostty-config",
+          "stars": 3787,
+          "url": "https://github.com/zerebos/ghostty-config",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "BetterDiscordAddons",
+          "fullName": "zerebos/BetterDiscordAddons",
+          "stars": 617,
+          "url": "https://github.com/zerebos/BetterDiscordAddons",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

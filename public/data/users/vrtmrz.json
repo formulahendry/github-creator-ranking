@@ -1,0 +1,48 @@
+{
+  "login": "vrtmrz",
+  "name": "vorotamoroz",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/45774780?v=4",
+  "htmlUrl": "https://github.com/vrtmrz",
+  "location": "Osaka, Japan",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 11493,
+      "repoCountPrimary": 3,
+      "starsContains": 11493,
+      "repoCountContains": 3,
+      "globalRank": 180,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "obsidian-livesync",
+          "fullName": "vrtmrz/obsidian-livesync",
+          "stars": 11056,
+          "url": "https://github.com/vrtmrz/obsidian-livesync",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "obsidian-tagfolder",
+          "fullName": "vrtmrz/obsidian-tagfolder",
+          "stars": 329,
+          "url": "https://github.com/vrtmrz/obsidian-tagfolder",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "livesync-bridge",
+          "fullName": "vrtmrz/livesync-bridge",
+          "stars": 108,
+          "url": "https://github.com/vrtmrz/livesync-bridge",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

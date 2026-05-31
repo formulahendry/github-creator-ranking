@@ -1,0 +1,34 @@
+{
+  "login": "jenslys",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/69081683?v=4",
+  "htmlUrl": "https://github.com/jenslys",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1642,
+      "repoCountPrimary": 1,
+      "starsContains": 1642,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "opencode-gemini-auth",
+          "fullName": "jenslys/opencode-gemini-auth",
+          "stars": 1642,
+          "url": "https://github.com/jenslys/opencode-gemini-auth",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

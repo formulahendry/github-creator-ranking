@@ -1,0 +1,48 @@
+{
+  "login": "JohnMwendwa",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/72663882?v=4",
+  "htmlUrl": "https://github.com/JohnMwendwa",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 506,
+      "repoCountPrimary": 3,
+      "starsContains": 506,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vet-management-system",
+          "fullName": "JohnMwendwa/vet-management-system",
+          "stars": 224,
+          "url": "https://github.com/JohnMwendwa/vet-management-system",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-movies-app",
+          "fullName": "JohnMwendwa/react-movies-app",
+          "stars": 176,
+          "url": "https://github.com/JohnMwendwa/react-movies-app",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "nextjs-dashboard",
+          "fullName": "JohnMwendwa/nextjs-dashboard",
+          "stars": 106,
+          "url": "https://github.com/JohnMwendwa/nextjs-dashboard",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

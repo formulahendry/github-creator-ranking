@@ -1,11 +1,11 @@
 {
   "login": "jquense",
-  "name": null,
+  "name": "Jason Quense",
   "avatarUrl": "https://avatars.githubusercontent.com/u/339286?v=4",
   "htmlUrl": "https://github.com/jquense",
-  "location": null,
+  "location": "New Jersey",
   "countryCode": null,
-  "generatedAt": "2026-05-31T13:50:40.799Z",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
   "isPartial": true,
   "languages": [
     {
@@ -14,11 +14,11 @@
         "name": "TypeScript",
         "githubQuery": "TypeScript"
       },
-      "starsPrimary": 23682,
-      "repoCountPrimary": 1,
-      "starsContains": 23682,
-      "repoCountContains": 1,
-      "globalRank": null,
+      "starsPrimary": 26773,
+      "repoCountPrimary": 4,
+      "starsContains": 26773,
+      "repoCountContains": 4,
+      "globalRank": 53,
       "countryRank": null,
       "topRepos": [
         {
@@ -26,6 +26,27 @@
           "fullName": "jquense/yup",
           "stars": 23682,
           "url": "https://github.com/jquense/yup",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-widgets",
+          "fullName": "jquense/react-widgets",
+          "stars": 2363,
+          "url": "https://github.com/jquense/react-widgets",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-formal",
+          "fullName": "jquense/react-formal",
+          "stars": 525,
+          "url": "https://github.com/jquense/react-formal",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "uncontrollable",
+          "fullName": "jquense/uncontrollable",
+          "stars": 203,
+          "url": "https://github.com/jquense/uncontrollable",
           "primaryLanguage": "TypeScript"
         }
       ]

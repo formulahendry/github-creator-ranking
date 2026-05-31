@@ -1,0 +1,41 @@
+{
+  "login": "albingroen",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/19674362?v=4",
+  "htmlUrl": "https://github.com/albingroen",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1529,
+      "repoCountPrimary": 2,
+      "starsContains": 1529,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-cmdk",
+          "fullName": "albingroen/react-cmdk",
+          "stars": 1224,
+          "url": "https://github.com/albingroen/react-cmdk",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "prismabuilder.io",
+          "fullName": "albingroen/prismabuilder.io",
+          "stars": 305,
+          "url": "https://github.com/albingroen/prismabuilder.io",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

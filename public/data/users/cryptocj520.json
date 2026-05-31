@@ -1,0 +1,48 @@
+{
+  "login": "cryptocj520",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/204736459?v=4",
+  "htmlUrl": "https://github.com/cryptocj520",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 447,
+      "repoCountPrimary": 3,
+      "starsContains": 447,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "meteora",
+          "fullName": "cryptocj520/meteora",
+          "stars": 168,
+          "url": "https://github.com/cryptocj520/meteora",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "pancake",
+          "fullName": "cryptocj520/pancake",
+          "stars": 147,
+          "url": "https://github.com/cryptocj520/pancake",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "meteora2",
+          "fullName": "cryptocj520/meteora2",
+          "stars": 132,
+          "url": "https://github.com/cryptocj520/meteora2",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

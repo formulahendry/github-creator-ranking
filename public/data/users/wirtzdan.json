@@ -1,0 +1,34 @@
+{
+  "login": "wirtzdan",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/18514829?v=4",
+  "htmlUrl": "https://github.com/wirtzdan",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 551,
+      "repoCountPrimary": 1,
+      "starsContains": 551,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "website",
+          "fullName": "wirtzdan/website",
+          "stars": 551,
+          "url": "https://github.com/wirtzdan/website",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

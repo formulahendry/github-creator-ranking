@@ -1,0 +1,41 @@
+{
+  "login": "waynesutton",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/720186?v=4",
+  "htmlUrl": "https://github.com/waynesutton",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 979,
+      "repoCountPrimary": 2,
+      "starsContains": 979,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "markdown-site",
+          "fullName": "waynesutton/markdown-site",
+          "stars": 615,
+          "url": "https://github.com/waynesutton/markdown-site",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "opensync",
+          "fullName": "waynesutton/opensync",
+          "stars": 364,
+          "url": "https://github.com/waynesutton/opensync",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

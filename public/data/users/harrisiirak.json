@@ -1,0 +1,34 @@
+{
+  "login": "harrisiirak",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/185315?v=4",
+  "htmlUrl": "https://github.com/harrisiirak",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1479,
+      "repoCountPrimary": 1,
+      "starsContains": 1479,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "cron-parser",
+          "fullName": "harrisiirak/cron-parser",
+          "stars": 1479,
+          "url": "https://github.com/harrisiirak/cron-parser",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

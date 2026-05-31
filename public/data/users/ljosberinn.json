@@ -1,0 +1,41 @@
+{
+  "login": "ljosberinn",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/29307652?v=4",
+  "htmlUrl": "https://github.com/ljosberinn",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 280,
+      "repoCountPrimary": 2,
+      "starsContains": 280,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "eslint-config-galex",
+          "fullName": "ljosberinn/eslint-config-galex",
+          "stars": 175,
+          "url": "https://github.com/ljosberinn/eslint-config-galex",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "personal-react-boilerplate",
+          "fullName": "ljosberinn/personal-react-boilerplate",
+          "stars": 105,
+          "url": "https://github.com/ljosberinn/personal-react-boilerplate",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

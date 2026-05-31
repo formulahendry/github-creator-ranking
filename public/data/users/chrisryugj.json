@@ -1,0 +1,41 @@
+{
+  "login": "chrisryugj",
+  "name": "딴짓하는 류주임",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/212630997?v=4",
+  "htmlUrl": "https://github.com/chrisryugj",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2851,
+      "repoCountPrimary": 2,
+      "starsContains": 2851,
+      "repoCountContains": 2,
+      "globalRank": 936,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "korean-law-mcp",
+          "fullName": "chrisryugj/korean-law-mcp",
+          "stars": 1872,
+          "url": "https://github.com/chrisryugj/korean-law-mcp",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "kordoc",
+          "fullName": "chrisryugj/kordoc",
+          "stars": 979,
+          "url": "https://github.com/chrisryugj/kordoc",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

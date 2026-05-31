@@ -1,0 +1,34 @@
+{
+  "login": "richardr1126",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/29444239?v=4",
+  "htmlUrl": "https://github.com/richardr1126",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 347,
+      "repoCountPrimary": 1,
+      "starsContains": 347,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "openreader",
+          "fullName": "richardr1126/openreader",
+          "stars": 347,
+          "url": "https://github.com/richardr1126/openreader",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

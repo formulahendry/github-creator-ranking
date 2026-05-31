@@ -1,0 +1,62 @@
+{
+  "login": "shadcn",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/124599?v=4",
+  "htmlUrl": "https://github.com/shadcn",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1397,
+      "repoCountPrimary": 5,
+      "starsContains": 1397,
+      "repoCountContains": 5,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "next-contentlayer",
+          "fullName": "shadcn/next-contentlayer",
+          "stars": 715,
+          "url": "https://github.com/shadcn/next-contentlayer",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "app-tailwind-v4",
+          "fullName": "shadcn/app-tailwind-v4",
+          "stars": 220,
+          "url": "https://github.com/shadcn/app-tailwind-v4",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "next-mdx",
+          "fullName": "shadcn/next-mdx",
+          "stars": 200,
+          "url": "https://github.com/shadcn/next-mdx",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "shadcn-electron-app",
+          "fullName": "shadcn/shadcn-electron-app",
+          "stars": 157,
+          "url": "https://github.com/shadcn/shadcn-electron-app",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "example-ui-themes",
+          "fullName": "shadcn/example-ui-themes",
+          "stars": 105,
+          "url": "https://github.com/shadcn/example-ui-themes",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

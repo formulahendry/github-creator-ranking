@@ -1,0 +1,34 @@
+{
+  "login": "bytesleo",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2652129?v=4",
+  "htmlUrl": "https://github.com/bytesleo",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 448,
+      "repoCountPrimary": 1,
+      "starsContains": 448,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "angular-editor-fabric-js",
+          "fullName": "bytesleo/angular-editor-fabric-js",
+          "stars": 448,
+          "url": "https://github.com/bytesleo/angular-editor-fabric-js",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

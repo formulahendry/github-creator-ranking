@@ -1,0 +1,41 @@
+{
+  "login": "VaalaCat",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/42285362?v=4",
+  "htmlUrl": "https://github.com/VaalaCat",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1880,
+      "repoCountPrimary": 2,
+      "starsContains": 1880,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "frp-panel",
+          "fullName": "VaalaCat/frp-panel",
+          "stars": 1722,
+          "url": "https://github.com/VaalaCat/frp-panel",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "movie-sync",
+          "fullName": "VaalaCat/movie-sync",
+          "stars": 158,
+          "url": "https://github.com/VaalaCat/movie-sync",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

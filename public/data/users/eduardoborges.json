@@ -1,0 +1,34 @@
+{
+  "login": "eduardoborges",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2353216?v=4",
+  "htmlUrl": "https://github.com/eduardoborges",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 645,
+      "repoCountPrimary": 1,
+      "starsContains": 645,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "use-mask-input",
+          "fullName": "eduardoborges/use-mask-input",
+          "stars": 645,
+          "url": "https://github.com/eduardoborges/use-mask-input",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

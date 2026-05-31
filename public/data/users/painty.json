@@ -1,0 +1,34 @@
+{
+  "login": "painty",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5387771?v=4",
+  "htmlUrl": "https://github.com/painty",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 307,
+      "repoCountPrimary": 1,
+      "starsContains": 307,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "CSS-Used-ChromeExt",
+          "fullName": "painty/CSS-Used-ChromeExt",
+          "stars": 307,
+          "url": "https://github.com/painty/CSS-Used-ChromeExt",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

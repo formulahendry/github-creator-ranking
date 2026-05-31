@@ -1,0 +1,41 @@
+{
+  "login": "cometkim",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/9696352?v=4",
+  "htmlUrl": "https://github.com/cometkim",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 373,
+      "repoCountPrimary": 2,
+      "starsContains": 373,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "gatsby-plugin-typegen",
+          "fullName": "cometkim/gatsby-plugin-typegen",
+          "stars": 202,
+          "url": "https://github.com/cometkim/gatsby-plugin-typegen",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "espub",
+          "fullName": "cometkim/espub",
+          "stars": 171,
+          "url": "https://github.com/cometkim/espub",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

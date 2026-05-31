@@ -1,0 +1,48 @@
+{
+  "login": "frandiox",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1634092?v=4",
+  "htmlUrl": "https://github.com/frandiox",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1182,
+      "repoCountPrimary": 3,
+      "starsContains": 1182,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vite-ssr",
+          "fullName": "frandiox/vite-ssr",
+          "stars": 835,
+          "url": "https://github.com/frandiox/vite-ssr",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vitesse-ssr-template",
+          "fullName": "frandiox/vitesse-ssr-template",
+          "stars": 190,
+          "url": "https://github.com/frandiox/vitesse-ssr-template",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vitessedge-template",
+          "fullName": "frandiox/vitessedge-template",
+          "stars": 157,
+          "url": "https://github.com/frandiox/vitessedge-template",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

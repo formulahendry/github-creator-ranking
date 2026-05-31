@@ -1,0 +1,55 @@
+{
+  "login": "hiroppy",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3367801?v=4",
+  "htmlUrl": "https://github.com/hiroppy",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1171,
+      "repoCountPrimary": 4,
+      "starsContains": 1171,
+      "repoCountContains": 4,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "nextjs-app-router-training",
+          "fullName": "hiroppy/nextjs-app-router-training",
+          "stars": 455,
+          "url": "https://github.com/hiroppy/nextjs-app-router-training",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ssr-sample",
+          "fullName": "hiroppy/ssr-sample",
+          "stars": 283,
+          "url": "https://github.com/hiroppy/ssr-sample",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "mf-dashboard",
+          "fullName": "hiroppy/mf-dashboard",
+          "stars": 264,
+          "url": "https://github.com/hiroppy/mf-dashboard",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "web-app-template",
+          "fullName": "hiroppy/web-app-template",
+          "stars": 169,
+          "url": "https://github.com/hiroppy/web-app-template",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

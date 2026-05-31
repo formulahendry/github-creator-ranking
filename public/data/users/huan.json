@@ -1,0 +1,34 @@
+{
+  "login": "huan",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1361891?v=4",
+  "htmlUrl": "https://github.com/huan",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 426,
+      "repoCountPrimary": 1,
+      "starsContains": 426,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "node-facenet",
+          "fullName": "huan/node-facenet",
+          "stars": 426,
+          "url": "https://github.com/huan/node-facenet",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

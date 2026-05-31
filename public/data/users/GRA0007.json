@@ -1,0 +1,34 @@
+{
+  "login": "GRA0007",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/8862273?v=4",
+  "htmlUrl": "https://github.com/GRA0007",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 499,
+      "repoCountPrimary": 1,
+      "starsContains": 499,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "crab.fit",
+          "fullName": "GRA0007/crab.fit",
+          "stars": 499,
+          "url": "https://github.com/GRA0007/crab.fit",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

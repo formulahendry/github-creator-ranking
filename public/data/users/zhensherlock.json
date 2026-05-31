@@ -1,0 +1,62 @@
+{
+  "login": "zhensherlock",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3541162?v=4",
+  "htmlUrl": "https://github.com/zhensherlock",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1273,
+      "repoCountPrimary": 6,
+      "starsContains": 1273,
+      "repoCountContains": 6,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "watermark-js-plus",
+          "fullName": "zhensherlock/watermark-js-plus",
+          "stars": 547,
+          "url": "https://github.com/zhensherlock/watermark-js-plus",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "company-autocomplete",
+          "fullName": "zhensherlock/company-autocomplete",
+          "stars": 195,
+          "url": "https://github.com/zhensherlock/company-autocomplete",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "webrtc-streamer-helper",
+          "fullName": "zhensherlock/webrtc-streamer-helper",
+          "stars": 186,
+          "url": "https://github.com/zhensherlock/webrtc-streamer-helper",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vue-devtools-unlocker",
+          "fullName": "zhensherlock/vue-devtools-unlocker",
+          "stars": 128,
+          "url": "https://github.com/zhensherlock/vue-devtools-unlocker",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "protocol-launcher",
+          "fullName": "zhensherlock/protocol-launcher",
+          "stars": 115,
+          "url": "https://github.com/zhensherlock/protocol-launcher",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

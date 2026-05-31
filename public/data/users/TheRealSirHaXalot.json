@@ -1,0 +1,34 @@
+{
+  "login": "TheRealSirHaXalot",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/48562061?v=4",
+  "htmlUrl": "https://github.com/TheRealSirHaXalot",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 133,
+      "repoCountPrimary": 1,
+      "starsContains": 133,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "AntiHunter-Command-Control-PRO",
+          "fullName": "TheRealSirHaXalot/AntiHunter-Command-Control-PRO",
+          "stars": 133,
+          "url": "https://github.com/TheRealSirHaXalot/AntiHunter-Command-Control-PRO",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

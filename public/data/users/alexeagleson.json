@@ -1,0 +1,41 @@
+{
+  "login": "alexeagleson",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/8410402?v=4",
+  "htmlUrl": "https://github.com/alexeagleson",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1059,
+      "repoCountPrimary": 2,
+      "starsContains": 1059,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "nextjs-fullstack-app-template",
+          "fullName": "alexeagleson/nextjs-fullstack-app-template",
+          "stars": 740,
+          "url": "https://github.com/alexeagleson/nextjs-fullstack-app-template",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "template-react-component-library",
+          "fullName": "alexeagleson/template-react-component-library",
+          "stars": 319,
+          "url": "https://github.com/alexeagleson/template-react-component-library",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

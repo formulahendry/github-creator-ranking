@@ -1,0 +1,41 @@
+{
+  "login": "acmenlei",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/54731221?v=4",
+  "htmlUrl": "https://github.com/acmenlei",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1375,
+      "repoCountPrimary": 2,
+      "starsContains": 1375,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "codecv",
+          "fullName": "acmenlei/codecv",
+          "stars": 931,
+          "url": "https://github.com/acmenlei/codecv",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "next-blog",
+          "fullName": "acmenlei/next-blog",
+          "stars": 444,
+          "url": "https://github.com/acmenlei/next-blog",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

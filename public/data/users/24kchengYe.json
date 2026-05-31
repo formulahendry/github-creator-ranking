@@ -1,0 +1,34 @@
+{
+  "login": "24kchengYe",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/90444974?v=4",
+  "htmlUrl": "https://github.com/24kchengYe",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 546,
+      "repoCountPrimary": 1,
+      "starsContains": 546,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "human-skill-tree",
+          "fullName": "24kchengYe/human-skill-tree",
+          "stars": 546,
+          "url": "https://github.com/24kchengYe/human-skill-tree",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

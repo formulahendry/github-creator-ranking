@@ -1,0 +1,41 @@
+{
+  "login": "sidhantpanda",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3083847?v=4",
+  "htmlUrl": "https://github.com/sidhantpanda",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 510,
+      "repoCountPrimary": 2,
+      "starsContains": 510,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "docker-express-typescript-boilerplate",
+          "fullName": "sidhantpanda/docker-express-typescript-boilerplate",
+          "stars": 313,
+          "url": "https://github.com/sidhantpanda/docker-express-typescript-boilerplate",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "logt",
+          "fullName": "sidhantpanda/logt",
+          "stars": 197,
+          "url": "https://github.com/sidhantpanda/logt",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

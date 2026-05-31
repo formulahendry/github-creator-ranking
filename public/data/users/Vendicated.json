@@ -1,0 +1,34 @@
+{
+  "login": "Vendicated",
+  "name": "V",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/45497981?v=4",
+  "htmlUrl": "https://github.com/Vendicated",
+  "location": "World Wide World",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 13446,
+      "repoCountPrimary": 1,
+      "starsContains": 13446,
+      "repoCountContains": 1,
+      "globalRank": 149,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Vencord",
+          "fullName": "Vendicated/Vencord",
+          "stars": 13446,
+          "url": "https://github.com/Vendicated/Vencord",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

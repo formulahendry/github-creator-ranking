@@ -1,0 +1,34 @@
+{
+  "login": "charkour",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/33156025?v=4",
+  "htmlUrl": "https://github.com/charkour",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 872,
+      "repoCountPrimary": 1,
+      "starsContains": 872,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "zundo",
+          "fullName": "charkour/zundo",
+          "stars": 872,
+          "url": "https://github.com/charkour/zundo",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

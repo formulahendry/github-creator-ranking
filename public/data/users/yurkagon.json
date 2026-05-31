@@ -1,0 +1,41 @@
+{
+  "login": "yurkagon",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/30753082?v=4",
+  "htmlUrl": "https://github.com/yurkagon",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 263,
+      "repoCountPrimary": 2,
+      "starsContains": 263,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Doom-Nukem-CSS",
+          "fullName": "yurkagon/Doom-Nukem-CSS",
+          "stars": 142,
+          "url": "https://github.com/yurkagon/Doom-Nukem-CSS",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ReactCasting",
+          "fullName": "yurkagon/ReactCasting",
+          "stars": 121,
+          "url": "https://github.com/yurkagon/ReactCasting",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

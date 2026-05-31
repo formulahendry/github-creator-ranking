@@ -1,0 +1,48 @@
+{
+  "login": "Bunlong",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1308397?v=4",
+  "htmlUrl": "https://github.com/Bunlong",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 815,
+      "repoCountPrimary": 3,
+      "starsContains": 815,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-papaparse",
+          "fullName": "Bunlong/react-papaparse",
+          "stars": 383,
+          "url": "https://github.com/Bunlong/react-papaparse",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "next-share",
+          "fullName": "Bunlong/next-share",
+          "stars": 263,
+          "url": "https://github.com/Bunlong/next-share",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "next-qrcode",
+          "fullName": "Bunlong/next-qrcode",
+          "stars": 169,
+          "url": "https://github.com/Bunlong/next-qrcode",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "PaoloJN",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/87121008?v=4",
+  "htmlUrl": "https://github.com/PaoloJN",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 670,
+      "repoCountPrimary": 1,
+      "starsContains": 670,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "youtube-ai-extension",
+          "fullName": "PaoloJN/youtube-ai-extension",
+          "stars": 670,
+          "url": "https://github.com/PaoloJN/youtube-ai-extension",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

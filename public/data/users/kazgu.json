@@ -1,0 +1,34 @@
+{
+  "login": "kazgu",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7955157?v=4",
+  "htmlUrl": "https://github.com/kazgu",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 301,
+      "repoCountPrimary": 1,
+      "starsContains": 301,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "zotero-chatgpt",
+          "fullName": "kazgu/zotero-chatgpt",
+          "stars": 301,
+          "url": "https://github.com/kazgu/zotero-chatgpt",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

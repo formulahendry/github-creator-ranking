@@ -1,0 +1,34 @@
+{
+  "login": "jnsahaj",
+  "name": "Sahaj Jain",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/82111591?v=4",
+  "htmlUrl": "https://github.com/jnsahaj",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 9935,
+      "repoCountPrimary": 1,
+      "starsContains": 9935,
+      "repoCountContains": 1,
+      "globalRank": 224,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "tweakcn",
+          "fullName": "jnsahaj/tweakcn",
+          "stars": 9935,
+          "url": "https://github.com/jnsahaj/tweakcn",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

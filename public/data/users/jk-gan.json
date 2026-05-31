@@ -1,0 +1,41 @@
+{
+  "login": "jk-gan",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7545747?v=4",
+  "htmlUrl": "https://github.com/jk-gan",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 274,
+      "repoCountPrimary": 2,
+      "starsContains": 274,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "redux-flipper",
+          "fullName": "jk-gan/redux-flipper",
+          "stars": 159,
+          "url": "https://github.com/jk-gan/redux-flipper",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "flipper-plugin-redux-debugger",
+          "fullName": "jk-gan/flipper-plugin-redux-debugger",
+          "stars": 115,
+          "url": "https://github.com/jk-gan/flipper-plugin-redux-debugger",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

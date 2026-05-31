@@ -1,0 +1,41 @@
+{
+  "login": "Idered",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/230404?v=4",
+  "htmlUrl": "https://github.com/Idered",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 457,
+      "repoCountPrimary": 2,
+      "starsContains": 457,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "typescript-expect-plugin",
+          "fullName": "Idered/typescript-expect-plugin",
+          "stars": 338,
+          "url": "https://github.com/Idered/typescript-expect-plugin",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "behavior-tree",
+          "fullName": "Idered/behavior-tree",
+          "stars": 119,
+          "url": "https://github.com/Idered/behavior-tree",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

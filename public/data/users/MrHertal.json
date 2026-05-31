@@ -1,0 +1,41 @@
+{
+  "login": "MrHertal",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/11944221?v=4",
+  "htmlUrl": "https://github.com/MrHertal",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 318,
+      "repoCountPrimary": 2,
+      "starsContains": 318,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-native-twilio-phone",
+          "fullName": "MrHertal/react-native-twilio-phone",
+          "stars": 160,
+          "url": "https://github.com/MrHertal/react-native-twilio-phone",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-admin-amplify",
+          "fullName": "MrHertal/react-admin-amplify",
+          "stars": 158,
+          "url": "https://github.com/MrHertal/react-admin-amplify",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

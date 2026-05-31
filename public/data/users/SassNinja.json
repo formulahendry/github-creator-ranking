@@ -1,0 +1,41 @@
+{
+  "login": "SassNinja",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/19912475?v=4",
+  "htmlUrl": "https://github.com/SassNinja",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 254,
+      "repoCountPrimary": 2,
+      "starsContains": 254,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "postcss-extract-media-query",
+          "fullName": "SassNinja/postcss-extract-media-query",
+          "stars": 139,
+          "url": "https://github.com/SassNinja/postcss-extract-media-query",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "postcss-combine-media-query",
+          "fullName": "SassNinja/postcss-combine-media-query",
+          "stars": 115,
+          "url": "https://github.com/SassNinja/postcss-combine-media-query",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

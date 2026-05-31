@@ -1,0 +1,62 @@
+{
+  "login": "mguay22",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/20136815?v=4",
+  "htmlUrl": "https://github.com/mguay22",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1276,
+      "repoCountPrimary": 6,
+      "starsContains": 1276,
+      "repoCountContains": 6,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "nestjs-rabbitmq-microservices",
+          "fullName": "mguay22/nestjs-rabbitmq-microservices",
+          "stars": 444,
+          "url": "https://github.com/mguay22/nestjs-rabbitmq-microservices",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "sleepr",
+          "fullName": "mguay22/sleepr",
+          "stars": 311,
+          "url": "https://github.com/mguay22/sleepr",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "nestjs-mongo",
+          "fullName": "mguay22/nestjs-mongo",
+          "stars": 155,
+          "url": "https://github.com/mguay22/nestjs-mongo",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "nestjs-microservices",
+          "fullName": "mguay22/nestjs-microservices",
+          "stars": 129,
+          "url": "https://github.com/mguay22/nestjs-microservices",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "nestjs-ddd",
+          "fullName": "mguay22/nestjs-ddd",
+          "stars": 123,
+          "url": "https://github.com/mguay22/nestjs-ddd",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

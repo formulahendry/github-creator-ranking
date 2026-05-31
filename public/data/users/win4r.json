@@ -1,0 +1,48 @@
+{
+  "login": "win4r",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/42172631?v=4",
+  "htmlUrl": "https://github.com/win4r",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1250,
+      "repoCountPrimary": 3,
+      "starsContains": 1250,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "lossless-claw-enhanced",
+          "fullName": "win4r/lossless-claw-enhanced",
+          "stars": 547,
+          "url": "https://github.com/win4r/lossless-claw-enhanced",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "openclaw-a2a-gateway",
+          "fullName": "win4r/openclaw-a2a-gateway",
+          "stars": 509,
+          "url": "https://github.com/win4r/openclaw-a2a-gateway",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "free-code",
+          "fullName": "win4r/free-code",
+          "stars": 194,
+          "url": "https://github.com/win4r/free-code",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

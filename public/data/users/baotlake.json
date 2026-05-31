@@ -1,0 +1,41 @@
+{
+  "login": "baotlake",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/33485493?v=4",
+  "htmlUrl": "https://github.com/baotlake",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1450,
+      "repoCountPrimary": 2,
+      "starsContains": 1450,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "office-website",
+          "fullName": "baotlake/office-website",
+          "stars": 1080,
+          "url": "https://github.com/baotlake/office-website",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "periodic-table-pro",
+          "fullName": "baotlake/periodic-table-pro",
+          "stars": 370,
+          "url": "https://github.com/baotlake/periodic-table-pro",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

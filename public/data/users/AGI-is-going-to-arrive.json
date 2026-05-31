@@ -1,0 +1,34 @@
+{
+  "login": "AGI-is-going-to-arrive",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/41132696?v=4",
+  "htmlUrl": "https://github.com/AGI-is-going-to-arrive",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 128,
+      "repoCountPrimary": 1,
+      "starsContains": 128,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Antigravity-Context-Window-Monitor",
+          "fullName": "AGI-is-going-to-arrive/Antigravity-Context-Window-Monitor",
+          "stars": 128,
+          "url": "https://github.com/AGI-is-going-to-arrive/Antigravity-Context-Window-Monitor",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

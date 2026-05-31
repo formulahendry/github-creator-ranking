@@ -1,0 +1,34 @@
+{
+  "login": "fkguo",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/62633089?v=4",
+  "htmlUrl": "https://github.com/fkguo",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 225,
+      "repoCountPrimary": 1,
+      "starsContains": 225,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "zotero-inspire",
+          "fullName": "fkguo/zotero-inspire",
+          "stars": 225,
+          "url": "https://github.com/fkguo/zotero-inspire",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

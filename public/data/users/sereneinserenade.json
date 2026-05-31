@@ -1,0 +1,55 @@
+{
+  "login": "sereneinserenade",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/45892659?v=4",
+  "htmlUrl": "https://github.com/sereneinserenade",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1328,
+      "repoCountPrimary": 4,
+      "starsContains": 1328,
+      "repoCountContains": 4,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "tiptap-comment-extension",
+          "fullName": "sereneinserenade/tiptap-comment-extension",
+          "stars": 507,
+          "url": "https://github.com/sereneinserenade/tiptap-comment-extension",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "notitap",
+          "fullName": "sereneinserenade/notitap",
+          "stars": 419,
+          "url": "https://github.com/sereneinserenade/notitap",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "tiptap-search-and-replace",
+          "fullName": "sereneinserenade/tiptap-search-and-replace",
+          "stars": 242,
+          "url": "https://github.com/sereneinserenade/tiptap-search-and-replace",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "tiptap-languagetool",
+          "fullName": "sereneinserenade/tiptap-languagetool",
+          "stars": 160,
+          "url": "https://github.com/sereneinserenade/tiptap-languagetool",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

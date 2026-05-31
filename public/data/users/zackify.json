@@ -1,0 +1,41 @@
+{
+  "login": "zackify",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/449136?v=4",
+  "htmlUrl": "https://github.com/zackify",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 447,
+      "repoCountPrimary": 2,
+      "starsContains": 447,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "validify",
+          "fullName": "zackify/validify",
+          "stars": 274,
+          "url": "https://github.com/zackify/validify",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-calendar",
+          "fullName": "zackify/react-calendar",
+          "stars": 173,
+          "url": "https://github.com/zackify/react-calendar",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

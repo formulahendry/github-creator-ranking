@@ -1,0 +1,41 @@
+{
+  "login": "hymhub",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/68531467?v=4",
+  "htmlUrl": "https://github.com/hymhub",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 569,
+      "repoCountPrimary": 2,
+      "starsContains": 569,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "css-to-tailwind",
+          "fullName": "hymhub/css-to-tailwind",
+          "stars": 455,
+          "url": "https://github.com/hymhub/css-to-tailwind",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "language-translate",
+          "fullName": "hymhub/language-translate",
+          "stars": 114,
+          "url": "https://github.com/hymhub/language-translate",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

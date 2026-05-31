@@ -1,0 +1,62 @@
+{
+  "login": "steven-tey",
+  "name": "Steven Tey",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/28986134?v=4",
+  "htmlUrl": "https://github.com/steven-tey",
+  "location": "Seattle, WA",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 24244,
+      "repoCountPrimary": 8,
+      "starsContains": 24244,
+      "repoCountContains": 8,
+      "globalRank": 64,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "novel",
+          "fullName": "steven-tey/novel",
+          "stars": 16292,
+          "url": "https://github.com/steven-tey/novel",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "precedent",
+          "fullName": "steven-tey/precedent",
+          "stars": 5097,
+          "url": "https://github.com/steven-tey/precedent",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "chathn",
+          "fullName": "steven-tey/chathn",
+          "stars": 1180,
+          "url": "https://github.com/steven-tey/chathn",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "extrapolate",
+          "fullName": "steven-tey/extrapolate",
+          "stars": 698,
+          "url": "https://github.com/steven-tey/extrapolate",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "weathergpt",
+          "fullName": "steven-tey/weathergpt",
+          "stars": 340,
+          "url": "https://github.com/steven-tey/weathergpt",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "mimalef70",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/17767869?v=4",
+  "htmlUrl": "https://github.com/mimalef70",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 601,
+      "repoCountPrimary": 2,
+      "starsContains": 601,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "fontara",
+          "fullName": "mimalef70/fontara",
+          "stars": 454,
+          "url": "https://github.com/mimalef70/fontara",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "CodeTree",
+          "fullName": "mimalef70/CodeTree",
+          "stars": 147,
+          "url": "https://github.com/mimalef70/CodeTree",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

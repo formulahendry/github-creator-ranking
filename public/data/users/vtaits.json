@@ -1,0 +1,34 @@
+{
+  "login": "vtaits",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/4801414?v=4",
+  "htmlUrl": "https://github.com/vtaits",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 331,
+      "repoCountPrimary": 1,
+      "starsContains": 331,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-select-async-paginate",
+          "fullName": "vtaits/react-select-async-paginate",
+          "stars": 331,
+          "url": "https://github.com/vtaits/react-select-async-paginate",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

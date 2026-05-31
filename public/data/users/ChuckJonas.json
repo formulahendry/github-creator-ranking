@@ -1,0 +1,34 @@
+{
+  "login": "ChuckJonas",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5217568?v=4",
+  "htmlUrl": "https://github.com/ChuckJonas",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 172,
+      "repoCountPrimary": 1,
+      "starsContains": 172,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "bad-ass-salesforce-stack",
+          "fullName": "ChuckJonas/bad-ass-salesforce-stack",
+          "stars": 172,
+          "url": "https://github.com/ChuckJonas/bad-ass-salesforce-stack",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

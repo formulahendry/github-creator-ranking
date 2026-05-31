@@ -1,0 +1,62 @@
+{
+  "login": "cartant",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3878593?v=4",
+  "htmlUrl": "https://github.com/cartant",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2252,
+      "repoCountPrimary": 7,
+      "starsContains": 2252,
+      "repoCountContains": 7,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "rxjs-spy",
+          "fullName": "cartant/rxjs-spy",
+          "stars": 706,
+          "url": "https://github.com/cartant/rxjs-spy",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "rxjs-tslint-rules",
+          "fullName": "cartant/rxjs-tslint-rules",
+          "stars": 375,
+          "url": "https://github.com/cartant/rxjs-tslint-rules",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "eslint-plugin-rxjs",
+          "fullName": "cartant/eslint-plugin-rxjs",
+          "stars": 315,
+          "url": "https://github.com/cartant/eslint-plugin-rxjs",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "rxjs-marbles",
+          "fullName": "cartant/rxjs-marbles",
+          "stars": 301,
+          "url": "https://github.com/cartant/rxjs-marbles",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "rxjs-etc",
+          "fullName": "cartant/rxjs-etc",
+          "stars": 216,
+          "url": "https://github.com/cartant/rxjs-etc",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

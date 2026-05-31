@@ -1,0 +1,34 @@
+{
+  "login": "ajitid",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/26769888?v=4",
+  "htmlUrl": "https://github.com/ajitid",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 954,
+      "repoCountPrimary": 1,
+      "starsContains": 954,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "fzf-for-js",
+          "fullName": "ajitid/fzf-for-js",
+          "stars": 954,
+          "url": "https://github.com/ajitid/fzf-for-js",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

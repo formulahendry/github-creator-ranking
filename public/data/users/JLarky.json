@@ -1,0 +1,34 @@
+{
+  "login": "JLarky",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7026?v=4",
+  "htmlUrl": "https://github.com/JLarky",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 283,
+      "repoCountPrimary": 1,
+      "starsContains": 283,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "rad-event-listener",
+          "fullName": "JLarky/rad-event-listener",
+          "stars": 283,
+          "url": "https://github.com/JLarky/rad-event-listener",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

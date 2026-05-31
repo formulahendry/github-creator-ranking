@@ -1,0 +1,34 @@
+{
+  "login": "gevgeny",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1986803?v=4",
+  "htmlUrl": "https://github.com/gevgeny",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 376,
+      "repoCountPrimary": 1,
+      "starsContains": 376,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "angular2-highcharts",
+          "fullName": "gevgeny/angular2-highcharts",
+          "stars": 376,
+          "url": "https://github.com/gevgeny/angular2-highcharts",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

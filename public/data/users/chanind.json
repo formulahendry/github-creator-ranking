@@ -1,0 +1,41 @@
+{
+  "login": "chanind",
+  "name": "David Chanin",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/200725?v=4",
+  "htmlUrl": "https://github.com/chanind",
+  "location": "London, UK",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 4948,
+      "repoCountPrimary": 2,
+      "starsContains": 4948,
+      "repoCountContains": 2,
+      "globalRank": 512,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "hanzi-writer",
+          "fullName": "chanind/hanzi-writer",
+          "stars": 4797,
+          "url": "https://github.com/chanind/hanzi-writer",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "curve-matcher",
+          "fullName": "chanind/curve-matcher",
+          "stars": 151,
+          "url": "https://github.com/chanind/curve-matcher",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

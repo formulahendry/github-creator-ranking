@@ -1,0 +1,55 @@
+{
+  "login": "edmundhung",
+  "name": "Edmund Hung",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/8258047?v=4",
+  "htmlUrl": "https://github.com/edmundhung",
+  "location": "Hong Kong",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3561,
+      "repoCountPrimary": 4,
+      "starsContains": 3561,
+      "repoCountContains": 4,
+      "globalRank": 750,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "conform",
+          "fullName": "edmundhung/conform",
+          "stars": 2555,
+          "url": "https://github.com/edmundhung/conform",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "maildog",
+          "fullName": "edmundhung/maildog",
+          "stars": 401,
+          "url": "https://github.com/edmundhung/maildog",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "remix-cloudflare-template",
+          "fullName": "edmundhung/remix-cloudflare-template",
+          "stars": 327,
+          "url": "https://github.com/edmundhung/remix-cloudflare-template",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "remix-guide",
+          "fullName": "edmundhung/remix-guide",
+          "stars": 278,
+          "url": "https://github.com/edmundhung/remix-guide",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

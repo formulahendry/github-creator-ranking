@@ -1,0 +1,34 @@
+{
+  "login": "xizon",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5258143?v=4",
+  "htmlUrl": "https://github.com/xizon",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 234,
+      "repoCountPrimary": 1,
+      "starsContains": 234,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "fullstack-nextjs-app-template",
+          "fullName": "xizon/fullstack-nextjs-app-template",
+          "stars": 234,
+          "url": "https://github.com/xizon/fullstack-nextjs-app-template",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

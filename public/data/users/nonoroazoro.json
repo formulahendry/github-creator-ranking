@@ -1,0 +1,34 @@
+{
+  "login": "nonoroazoro",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/383132?v=4",
+  "htmlUrl": "https://github.com/nonoroazoro",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 509,
+      "repoCountPrimary": 1,
+      "starsContains": 509,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vscode-syncing",
+          "fullName": "nonoroazoro/vscode-syncing",
+          "stars": 509,
+          "url": "https://github.com/nonoroazoro/vscode-syncing",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

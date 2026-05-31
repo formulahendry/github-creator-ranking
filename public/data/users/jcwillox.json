@@ -1,0 +1,41 @@
+{
+  "login": "jcwillox",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/39120423?v=4",
+  "htmlUrl": "https://github.com/jcwillox",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 486,
+      "repoCountPrimary": 2,
+      "starsContains": 486,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "lovelace-paper-buttons-row",
+          "fullName": "jcwillox/lovelace-paper-buttons-row",
+          "stars": 359,
+          "url": "https://github.com/jcwillox/lovelace-paper-buttons-row",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "lovelace-canary",
+          "fullName": "jcwillox/lovelace-canary",
+          "stars": 127,
+          "url": "https://github.com/jcwillox/lovelace-canary",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

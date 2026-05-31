@@ -1,0 +1,55 @@
+{
+  "login": "yandeu",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/20306025?v=4",
+  "htmlUrl": "https://github.com/yandeu",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 979,
+      "repoCountPrimary": 4,
+      "starsContains": 979,
+      "repoCountContains": 4,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "phaser-project-template",
+          "fullName": "yandeu/phaser-project-template",
+          "stars": 425,
+          "url": "https://github.com/yandeu/phaser-project-template",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "five-server",
+          "fullName": "yandeu/five-server",
+          "stars": 221,
+          "url": "https://github.com/yandeu/five-server",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "phaser3-multiplayer-with-physics",
+          "fullName": "yandeu/phaser3-multiplayer-with-physics",
+          "stars": 185,
+          "url": "https://github.com/yandeu/phaser3-multiplayer-with-physics",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "five-server-vscode",
+          "fullName": "yandeu/five-server-vscode",
+          "stars": 148,
+          "url": "https://github.com/yandeu/five-server-vscode",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

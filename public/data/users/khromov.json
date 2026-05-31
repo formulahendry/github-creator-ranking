@@ -1,0 +1,41 @@
+{
+  "login": "khromov",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1207507?v=4",
+  "htmlUrl": "https://github.com/khromov",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 847,
+      "repoCountPrimary": 2,
+      "starsContains": 847,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ai-digest",
+          "fullName": "khromov/ai-digest",
+          "stars": 673,
+          "url": "https://github.com/khromov/ai-digest",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "svelte-bench",
+          "fullName": "khromov/svelte-bench",
+          "stars": 174,
+          "url": "https://github.com/khromov/svelte-bench",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

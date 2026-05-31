@@ -1,0 +1,48 @@
+{
+  "login": "banggx",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/50794907?v=4",
+  "htmlUrl": "https://github.com/banggx",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 380,
+      "repoCountPrimary": 3,
+      "starsContains": 380,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "morgana-form",
+          "fullName": "banggx/morgana-form",
+          "stars": 147,
+          "url": "https://github.com/banggx/morgana-form",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "account_app_harmonyos",
+          "fullName": "banggx/account_app_harmonyos",
+          "stars": 133,
+          "url": "https://github.com/banggx/account_app_harmonyos",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vue-weui",
+          "fullName": "banggx/vue-weui",
+          "stars": 100,
+          "url": "https://github.com/banggx/vue-weui",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

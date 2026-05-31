@@ -1,0 +1,34 @@
+{
+  "login": "gongxings",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/24495727?v=4",
+  "htmlUrl": "https://github.com/gongxings",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 141,
+      "repoCountPrimary": 1,
+      "starsContains": 141,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "kemeng-ai-anime-creation",
+          "fullName": "gongxings/kemeng-ai-anime-creation",
+          "stars": 141,
+          "url": "https://github.com/gongxings/kemeng-ai-anime-creation",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

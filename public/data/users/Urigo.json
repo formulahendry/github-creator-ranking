@@ -1,0 +1,62 @@
+{
+  "login": "Urigo",
+  "name": "Uri Goldshtein",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1297448?v=4",
+  "htmlUrl": "https://github.com/Urigo",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3652,
+      "repoCountPrimary": 7,
+      "starsContains": 3652,
+      "repoCountContains": 7,
+      "globalRank": 726,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "graphql-cli",
+          "fullName": "Urigo/graphql-cli",
+          "stars": 2022,
+          "url": "https://github.com/Urigo/graphql-cli",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "WhatsApp-Clone-Client-React",
+          "fullName": "Urigo/WhatsApp-Clone-Client-React",
+          "stars": 612,
+          "url": "https://github.com/Urigo/WhatsApp-Clone-Client-React",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "WhatsApp-Clone-Server",
+          "fullName": "Urigo/WhatsApp-Clone-Server",
+          "stars": 452,
+          "url": "https://github.com/Urigo/WhatsApp-Clone-Server",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Ionic2CLI-Meteor-WhatsApp",
+          "fullName": "Urigo/Ionic2CLI-Meteor-WhatsApp",
+          "stars": 161,
+          "url": "https://github.com/Urigo/Ionic2CLI-Meteor-WhatsApp",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "meteor-angular-socially",
+          "fullName": "Urigo/meteor-angular-socially",
+          "stars": 155,
+          "url": "https://github.com/Urigo/meteor-angular-socially",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

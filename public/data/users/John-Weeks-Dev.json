@@ -1,0 +1,34 @@
+{
+  "login": "John-Weeks-Dev",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/108229029?v=4",
+  "htmlUrl": "https://github.com/John-Weeks-Dev",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 151,
+      "repoCountPrimary": 1,
+      "starsContains": 151,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "tiktok-clone-nextjs",
+          "fullName": "John-Weeks-Dev/tiktok-clone-nextjs",
+          "stars": 151,
+          "url": "https://github.com/John-Weeks-Dev/tiktok-clone-nextjs",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

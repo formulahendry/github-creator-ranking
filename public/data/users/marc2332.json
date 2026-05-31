@@ -1,0 +1,34 @@
+{
+  "login": "marc2332",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/38158676?v=4",
+  "htmlUrl": "https://github.com/marc2332",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 210,
+      "repoCountPrimary": 1,
+      "starsContains": 210,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "tauri-deno-starter",
+          "fullName": "marc2332/tauri-deno-starter",
+          "stars": 210,
+          "url": "https://github.com/marc2332/tauri-deno-starter",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

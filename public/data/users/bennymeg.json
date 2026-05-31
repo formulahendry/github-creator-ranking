@@ -1,0 +1,34 @@
+{
+  "login": "bennymeg",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/25218142?v=4",
+  "htmlUrl": "https://github.com/bennymeg",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 368,
+      "repoCountPrimary": 1,
+      "starsContains": 368,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "nx-electron",
+          "fullName": "bennymeg/nx-electron",
+          "stars": 368,
+          "url": "https://github.com/bennymeg/nx-electron",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

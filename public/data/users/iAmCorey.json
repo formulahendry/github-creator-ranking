@@ -1,0 +1,48 @@
+{
+  "login": "iAmCorey",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/33424334?v=4",
+  "htmlUrl": "https://github.com/iAmCorey",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2190,
+      "repoCountPrimary": 3,
+      "starsContains": 2190,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "awesome-indie-hacker-tools",
+          "fullName": "iAmCorey/awesome-indie-hacker-tools",
+          "stars": 1349,
+          "url": "https://github.com/iAmCorey/awesome-indie-hacker-tools",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "coreychiu-portfolio-template",
+          "fullName": "iAmCorey/coreychiu-portfolio-template",
+          "stars": 461,
+          "url": "https://github.com/iAmCorey/coreychiu-portfolio-template",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "devtoolset",
+          "fullName": "iAmCorey/devtoolset",
+          "stars": 380,
+          "url": "https://github.com/iAmCorey/devtoolset",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

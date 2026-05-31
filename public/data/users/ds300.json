@@ -1,0 +1,41 @@
+{
+  "login": "ds300",
+  "name": "David Sheldrick",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1242537?v=4",
+  "htmlUrl": "https://github.com/ds300",
+  "location": "London, England",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 11730,
+      "repoCountPrimary": 2,
+      "starsContains": 11730,
+      "repoCountContains": 2,
+      "globalRank": 177,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "patch-package",
+          "fullName": "ds300/patch-package",
+          "stars": 11194,
+          "url": "https://github.com/ds300/patch-package",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "lazyrepo",
+          "fullName": "ds300/lazyrepo",
+          "stars": 536,
+          "url": "https://github.com/ds300/lazyrepo",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

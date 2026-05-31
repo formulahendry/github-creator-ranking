@@ -1,11 +1,11 @@
 {
   "login": "vadimdemedes",
-  "name": null,
+  "name": "Vadim Demedes",
   "avatarUrl": "https://avatars.githubusercontent.com/u/697676?v=4",
   "htmlUrl": "https://github.com/vadimdemedes",
-  "location": null,
+  "location": "Ukraine",
   "countryCode": null,
-  "generatedAt": "2026-05-31T13:50:40.799Z",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
   "isPartial": true,
   "languages": [
     {
@@ -14,18 +14,46 @@
         "name": "TypeScript",
         "githubQuery": "TypeScript"
       },
-      "starsPrimary": 38673,
-      "repoCountPrimary": 1,
-      "starsContains": 38673,
-      "repoCountContains": 1,
-      "globalRank": 21,
+      "starsPrimary": 44570,
+      "repoCountPrimary": 9,
+      "starsContains": 44570,
+      "repoCountContains": 9,
+      "globalRank": 25,
       "countryRank": null,
       "topRepos": [
         {
           "name": "ink",
           "fullName": "vadimdemedes/ink",
-          "stars": 38673,
+          "stars": 38681,
           "url": "https://github.com/vadimdemedes/ink",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "pastel",
+          "fullName": "vadimdemedes/pastel",
+          "stars": 2398,
+          "url": "https://github.com/vadimdemedes/pastel",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ink-ui",
+          "fullName": "vadimdemedes/ink-ui",
+          "stars": 2016,
+          "url": "https://github.com/vadimdemedes/ink-ui",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "dom-chef",
+          "fullName": "vadimdemedes/dom-chef",
+          "stars": 531,
+          "url": "https://github.com/vadimdemedes/dom-chef",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "thememirror",
+          "fullName": "vadimdemedes/thememirror",
+          "stars": 249,
+          "url": "https://github.com/vadimdemedes/thememirror",
           "primaryLanguage": "TypeScript"
         }
       ]

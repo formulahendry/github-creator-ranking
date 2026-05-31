@@ -1,0 +1,34 @@
+{
+  "login": "Houseofmvps",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/223674346?v=4",
+  "htmlUrl": "https://github.com/Houseofmvps",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1083,
+      "repoCountPrimary": 1,
+      "starsContains": 1083,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "codesight",
+          "fullName": "Houseofmvps/codesight",
+          "stars": 1083,
+          "url": "https://github.com/Houseofmvps/codesight",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

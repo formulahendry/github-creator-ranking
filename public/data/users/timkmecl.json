@@ -1,0 +1,41 @@
+{
+  "login": "timkmecl",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/49208260?v=4",
+  "htmlUrl": "https://github.com/timkmecl",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 573,
+      "repoCountPrimary": 2,
+      "starsContains": 573,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "chatgpt-vscode",
+          "fullName": "timkmecl/chatgpt-vscode",
+          "stars": 347,
+          "url": "https://github.com/timkmecl/chatgpt-vscode",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "codegpt",
+          "fullName": "timkmecl/codegpt",
+          "stars": 226,
+          "url": "https://github.com/timkmecl/codegpt",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

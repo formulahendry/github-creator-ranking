@@ -1,0 +1,34 @@
+{
+  "login": "Jervis2049",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/20250524?v=4",
+  "htmlUrl": "https://github.com/Jervis2049",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 230,
+      "repoCountPrimary": 1,
+      "starsContains": 230,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vite-plugin-crx-mv3",
+          "fullName": "Jervis2049/vite-plugin-crx-mv3",
+          "stars": 230,
+          "url": "https://github.com/Jervis2049/vite-plugin-crx-mv3",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

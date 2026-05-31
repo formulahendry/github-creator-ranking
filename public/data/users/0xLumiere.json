@@ -1,0 +1,41 @@
+{
+  "login": "0xLumiere",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/45700423?v=4",
+  "htmlUrl": "https://github.com/0xLumiere",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 465,
+      "repoCountPrimary": 2,
+      "starsContains": 465,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "pumpfun-bundler-bot-pump.fun-bundler-bot-solana-token-bundler-bot",
+          "fullName": "0xLumiere/pumpfun-bundler-bot-pump.fun-bundler-bot-solana-token-bundler-bot",
+          "stars": 251,
+          "url": "https://github.com/0xLumiere/pumpfun-bundler-bot-pump.fun-bundler-bot-solana-token-bundler-bot",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "arbitrage-copy-trading-bot-sports-crypto-all-markets",
+          "fullName": "0xLumiere/arbitrage-copy-trading-bot-sports-crypto-all-markets",
+          "stars": 214,
+          "url": "https://github.com/0xLumiere/arbitrage-copy-trading-bot-sports-crypto-all-markets",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

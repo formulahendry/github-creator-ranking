@@ -1,0 +1,34 @@
+{
+  "login": "jqknono",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/12892734?v=4",
+  "htmlUrl": "https://github.com/jqknono",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 119,
+      "repoCountPrimary": 1,
+      "starsContains": 119,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "coding-plans-for-copilot",
+          "fullName": "jqknono/coding-plans-for-copilot",
+          "stars": 119,
+          "url": "https://github.com/jqknono/coding-plans-for-copilot",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

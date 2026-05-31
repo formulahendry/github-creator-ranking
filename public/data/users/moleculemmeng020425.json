@@ -1,0 +1,34 @@
+{
+  "login": "moleculemmeng020425",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/192314735?v=4",
+  "htmlUrl": "https://github.com/moleculemmeng020425",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 958,
+      "repoCountPrimary": 1,
+      "starsContains": 958,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "christmas-tree",
+          "fullName": "moleculemmeng020425/christmas-tree",
+          "stars": 958,
+          "url": "https://github.com/moleculemmeng020425/christmas-tree",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "icurtis1",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/71857252?v=4",
+  "htmlUrl": "https://github.com/icurtis1",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 529,
+      "repoCountPrimary": 2,
+      "starsContains": 529,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "off-axis-sneaker",
+          "fullName": "icurtis1/off-axis-sneaker",
+          "stars": 380,
+          "url": "https://github.com/icurtis1/off-axis-sneaker",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "thebrowserlab",
+          "fullName": "icurtis1/thebrowserlab",
+          "stars": 149,
+          "url": "https://github.com/icurtis1/thebrowserlab",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

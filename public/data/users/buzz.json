@@ -1,0 +1,34 @@
+{
+  "login": "buzz",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/12035?v=4",
+  "htmlUrl": "https://github.com/buzz",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 857,
+      "repoCountPrimary": 1,
+      "starsContains": 857,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "mediainfo.js",
+          "fullName": "buzz/mediainfo.js",
+          "stars": 857,
+          "url": "https://github.com/buzz/mediainfo.js",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

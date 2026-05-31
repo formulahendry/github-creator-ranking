@@ -1,0 +1,48 @@
+{
+  "login": "eser",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/866558?v=4",
+  "htmlUrl": "https://github.com/eser",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 343,
+      "repoCountPrimary": 3,
+      "starsContains": 343,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "stack",
+          "fullName": "eser/stack",
+          "stars": 128,
+          "url": "https://github.com/eser/stack",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "acikkaynak-website",
+          "fullName": "eser/acikkaynak-website",
+          "stars": 110,
+          "url": "https://github.com/eser/acikkaynak-website",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "fetchp",
+          "fullName": "eser/fetchp",
+          "stars": 105,
+          "url": "https://github.com/eser/fetchp",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

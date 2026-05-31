@@ -1,0 +1,48 @@
+{
+  "login": "JMPerez",
+  "name": "José M. Pérez",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/416456?v=4",
+  "htmlUrl": "https://github.com/JMPerez",
+  "location": "Elche, Spain",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3385,
+      "repoCountPrimary": 3,
+      "starsContains": 3385,
+      "repoCountContains": 3,
+      "globalRank": 795,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "spotify-web-api-js",
+          "fullName": "JMPerez/spotify-web-api-js",
+          "stars": 1894,
+          "url": "https://github.com/JMPerez/spotify-web-api-js",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "spotify-dedup",
+          "fullName": "JMPerez/spotify-dedup",
+          "stars": 1113,
+          "url": "https://github.com/JMPerez/spotify-dedup",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "linkedin-to-json-resume",
+          "fullName": "JMPerez/linkedin-to-json-resume",
+          "stars": 378,
+          "url": "https://github.com/JMPerez/linkedin-to-json-resume",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

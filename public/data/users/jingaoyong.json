@@ -1,0 +1,34 @@
+{
+  "login": "jingaoyong",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/56209391?v=4",
+  "htmlUrl": "https://github.com/jingaoyong",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 164,
+      "repoCountPrimary": 1,
+      "starsContains": 164,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "aslturb",
+          "fullName": "jingaoyong/aslturb",
+          "stars": 164,
+          "url": "https://github.com/jingaoyong/aslturb",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "login": "bestruirui",
+  "name": "BESTRUI",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/89796393?v=4",
+  "htmlUrl": "https://github.com/bestruirui",
+  "location": "Antarctica",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 4692,
+      "repoCountPrimary": 3,
+      "starsContains": 4692,
+      "repoCountContains": 3,
+      "globalRank": 546,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "octopus",
+          "fullName": "bestruirui/octopus",
+          "stars": 2183,
+          "url": "https://github.com/bestruirui/octopus",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "BestSub",
+          "fullName": "bestruirui/BestSub",
+          "stars": 2079,
+          "url": "https://github.com/bestruirui/BestSub",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Alle",
+          "fullName": "bestruirui/Alle",
+          "stars": 430,
+          "url": "https://github.com/bestruirui/Alle",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

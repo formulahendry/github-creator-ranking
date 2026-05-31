@@ -1,0 +1,34 @@
+{
+  "login": "DanteAlighieri13210914",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/219945743?v=4",
+  "htmlUrl": "https://github.com/DanteAlighieri13210914",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 368,
+      "repoCountPrimary": 1,
+      "starsContains": 368,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "pv-tool",
+          "fullName": "DanteAlighieri13210914/pv-tool",
+          "stars": 368,
+          "url": "https://github.com/DanteAlighieri13210914/pv-tool",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

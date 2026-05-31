@@ -1,0 +1,62 @@
+{
+  "login": "goncy",
+  "name": "Gonzalo Pozzo",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6494462?v=4",
+  "htmlUrl": "https://github.com/goncy",
+  "location": "Quilmes, Buenos Aires, Argentina",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2988,
+      "repoCountPrimary": 6,
+      "starsContains": 2988,
+      "repoCountContains": 6,
+      "globalRank": 901,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "interview-challenges",
+          "fullName": "goncy/interview-challenges",
+          "stars": 1718,
+          "url": "https://github.com/goncy/interview-challenges",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "next-mercadopago",
+          "fullName": "goncy/next-mercadopago",
+          "stars": 676,
+          "url": "https://github.com/goncy/next-mercadopago",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "pency",
+          "fullName": "goncy/pency",
+          "stars": 250,
+          "url": "https://github.com/goncy/pency",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "mercadolibre-details-challenge",
+          "fullName": "goncy/mercadolibre-details-challenge",
+          "stars": 123,
+          "url": "https://github.com/goncy/mercadolibre-details-challenge",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "create-appncy",
+          "fullName": "goncy/create-appncy",
+          "stars": 118,
+          "url": "https://github.com/goncy/create-appncy",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

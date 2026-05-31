@@ -1,0 +1,41 @@
+{
+  "login": "Monte9",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7840686?v=4",
+  "htmlUrl": "https://github.com/Monte9",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1068,
+      "repoCountPrimary": 2,
+      "starsContains": 1068,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-native-ratings",
+          "fullName": "Monte9/react-native-ratings",
+          "stars": 948,
+          "url": "https://github.com/Monte9/react-native-ratings",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "nextjs-tailwindcss-chatgpt-clone",
+          "fullName": "Monte9/nextjs-tailwindcss-chatgpt-clone",
+          "stars": 120,
+          "url": "https://github.com/Monte9/nextjs-tailwindcss-chatgpt-clone",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

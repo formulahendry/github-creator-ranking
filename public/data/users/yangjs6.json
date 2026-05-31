@@ -1,0 +1,34 @@
+{
+  "login": "yangjs6",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/16881218?v=4",
+  "htmlUrl": "https://github.com/yangjs6",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 189,
+      "repoCountPrimary": 1,
+      "starsContains": 189,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "mapbox-3d-tiles",
+          "fullName": "yangjs6/mapbox-3d-tiles",
+          "stars": 189,
+          "url": "https://github.com/yangjs6/mapbox-3d-tiles",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

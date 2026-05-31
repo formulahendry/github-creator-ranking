@@ -1,0 +1,41 @@
+{
+  "login": "L-Blondy",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/51233631?v=4",
+  "htmlUrl": "https://github.com/L-Blondy",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1917,
+      "repoCountPrimary": 2,
+      "starsContains": 1917,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "up-fetch",
+          "fullName": "L-Blondy/up-fetch",
+          "stars": 1402,
+          "url": "https://github.com/L-Blondy/up-fetch",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "tw-colors",
+          "fullName": "L-Blondy/tw-colors",
+          "stars": 515,
+          "url": "https://github.com/L-Blondy/tw-colors",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

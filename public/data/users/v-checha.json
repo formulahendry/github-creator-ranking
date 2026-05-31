@@ -1,0 +1,48 @@
+{
+  "login": "v-checha",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/11835320?v=4",
+  "htmlUrl": "https://github.com/v-checha",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 431,
+      "repoCountPrimary": 3,
+      "starsContains": 431,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "nestjs-template",
+          "fullName": "v-checha/nestjs-template",
+          "stars": 178,
+          "url": "https://github.com/v-checha/nestjs-template",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "node-typescript-mongodb",
+          "fullName": "v-checha/node-typescript-mongodb",
+          "stars": 148,
+          "url": "https://github.com/v-checha/node-typescript-mongodb",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "nestjs-prisma-mongodb",
+          "fullName": "v-checha/nestjs-prisma-mongodb",
+          "stars": 105,
+          "url": "https://github.com/v-checha/nestjs-prisma-mongodb",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

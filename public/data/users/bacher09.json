@@ -1,0 +1,34 @@
+{
+  "login": "bacher09",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1330898?v=4",
+  "htmlUrl": "https://github.com/bacher09",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1398,
+      "repoCountPrimary": 1,
+      "starsContains": 1398,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "pwgen-for-bios",
+          "fullName": "bacher09/pwgen-for-bios",
+          "stars": 1398,
+          "url": "https://github.com/bacher09/pwgen-for-bios",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

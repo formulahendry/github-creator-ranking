@@ -1,0 +1,41 @@
+{
+  "login": "jwagner",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/293536?v=4",
+  "htmlUrl": "https://github.com/jwagner",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1993,
+      "repoCountPrimary": 2,
+      "starsContains": 1993,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "simplex-noise.js",
+          "fullName": "jwagner/simplex-noise.js",
+          "stars": 1829,
+          "url": "https://github.com/jwagner/simplex-noise.js",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "dont-crop",
+          "fullName": "jwagner/dont-crop",
+          "stars": 164,
+          "url": "https://github.com/jwagner/dont-crop",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

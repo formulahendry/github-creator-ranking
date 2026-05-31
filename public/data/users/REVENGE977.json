@@ -1,0 +1,34 @@
+{
+  "login": "REVENGE977",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/32039975?v=4",
+  "htmlUrl": "https://github.com/REVENGE977",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 715,
+      "repoCountPrimary": 1,
+      "starsContains": 715,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "stremio-enhanced",
+          "fullName": "REVENGE977/stremio-enhanced",
+          "stars": 715,
+          "url": "https://github.com/REVENGE977/stremio-enhanced",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

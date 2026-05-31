@@ -1,0 +1,41 @@
+{
+  "login": "heyman333",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/22214150?v=4",
+  "htmlUrl": "https://github.com/heyman333",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 774,
+      "repoCountPrimary": 2,
+      "starsContains": 774,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-native-animated-numbers",
+          "fullName": "heyman333/react-native-animated-numbers",
+          "stars": 470,
+          "url": "https://github.com/heyman333/react-native-animated-numbers",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-animated-numbers",
+          "fullName": "heyman333/react-animated-numbers",
+          "stars": 304,
+          "url": "https://github.com/heyman333/react-animated-numbers",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "AlirezaHadjar",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/57192409?v=4",
+  "htmlUrl": "https://github.com/AlirezaHadjar",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 668,
+      "repoCountPrimary": 2,
+      "starsContains": 668,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-native-fast-confetti",
+          "fullName": "AlirezaHadjar/react-native-fast-confetti",
+          "stars": 536,
+          "url": "https://github.com/AlirezaHadjar/react-native-fast-confetti",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-native-animations",
+          "fullName": "AlirezaHadjar/react-native-animations",
+          "stars": 132,
+          "url": "https://github.com/AlirezaHadjar/react-native-animations",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

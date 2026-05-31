@@ -1,0 +1,48 @@
+{
+  "login": "JacobLinCool",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/28478594?v=4",
+  "htmlUrl": "https://github.com/JacobLinCool",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1162,
+      "repoCountPrimary": 3,
+      "starsContains": 1162,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "LeetCode-Stats-Card",
+          "fullName": "JacobLinCool/LeetCode-Stats-Card",
+          "stars": 935,
+          "url": "https://github.com/JacobLinCool/LeetCode-Stats-Card",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "LeetCode-Query",
+          "fullName": "JacobLinCool/LeetCode-Query",
+          "stars": 126,
+          "url": "https://github.com/JacobLinCool/LeetCode-Query",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "node-cloudflared",
+          "fullName": "JacobLinCool/node-cloudflared",
+          "stars": 101,
+          "url": "https://github.com/JacobLinCool/node-cloudflared",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

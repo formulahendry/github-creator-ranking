@@ -1,0 +1,34 @@
+{
+  "login": "crisanlucid",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/340843?v=4",
+  "htmlUrl": "https://github.com/crisanlucid",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 533,
+      "repoCountPrimary": 1,
+      "starsContains": 533,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "primusread",
+          "fullName": "crisanlucid/primusread",
+          "stars": 533,
+          "url": "https://github.com/crisanlucid/primusread",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "netease-youdao",
+  "name": "NetEase Youdao",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3909232?v=4",
+  "htmlUrl": "https://github.com/netease-youdao",
+  "location": "Beijing",
+  "countryCode": "CN",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 5213,
+      "repoCountPrimary": 1,
+      "starsContains": 5213,
+      "repoCountContains": 1,
+      "globalRank": 477,
+      "countryRank": 58,
+      "topRepos": [
+        {
+          "name": "LobsterAI",
+          "fullName": "netease-youdao/LobsterAI",
+          "stars": 5213,
+          "url": "https://github.com/netease-youdao/LobsterAI",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

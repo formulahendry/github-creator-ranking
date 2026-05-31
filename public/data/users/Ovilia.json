@@ -1,0 +1,41 @@
+{
+  "login": "Ovilia",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/779050?v=4",
+  "htmlUrl": "https://github.com/Ovilia",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 680,
+      "repoCountPrimary": 2,
+      "starsContains": 680,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "moonight",
+          "fullName": "Ovilia/moonight",
+          "stars": 342,
+          "url": "https://github.com/Ovilia/moonight",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "2019-typography-calendar",
+          "fullName": "Ovilia/2019-typography-calendar",
+          "stars": 338,
+          "url": "https://github.com/Ovilia/2019-typography-calendar",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

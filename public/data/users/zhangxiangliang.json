@@ -1,0 +1,34 @@
+{
+  "login": "zhangxiangliang",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/43999765?v=4",
+  "htmlUrl": "https://github.com/zhangxiangliang",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1339,
+      "repoCountPrimary": 1,
+      "starsContains": 1339,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "stock-api",
+          "fullName": "zhangxiangliang/stock-api",
+          "stars": 1339,
+          "url": "https://github.com/zhangxiangliang/stock-api",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

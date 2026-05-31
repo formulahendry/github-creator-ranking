@@ -1,0 +1,48 @@
+{
+  "login": "nfroidure",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/229633?v=4",
+  "htmlUrl": "https://github.com/nfroidure",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1423,
+      "repoCountPrimary": 3,
+      "starsContains": 1423,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "gulp-iconfont",
+          "fullName": "nfroidure/gulp-iconfont",
+          "stars": 849,
+          "url": "https://github.com/nfroidure/gulp-iconfont",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "svgicons2svgfont",
+          "fullName": "nfroidure/svgicons2svgfont",
+          "stars": 362,
+          "url": "https://github.com/nfroidure/svgicons2svgfont",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "svg-pathdata",
+          "fullName": "nfroidure/svg-pathdata",
+          "stars": 212,
+          "url": "https://github.com/nfroidure/svg-pathdata",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

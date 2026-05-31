@@ -1,0 +1,34 @@
+{
+  "login": "mikinty",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/12106484?v=4",
+  "htmlUrl": "https://github.com/mikinty",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 965,
+      "repoCountPrimary": 1,
+      "starsContains": 965,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Trading-Interview-Questions",
+          "fullName": "mikinty/Trading-Interview-Questions",
+          "stars": 965,
+          "url": "https://github.com/mikinty/Trading-Interview-Questions",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

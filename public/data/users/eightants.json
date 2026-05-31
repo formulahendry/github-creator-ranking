@@ -1,0 +1,41 @@
+{
+  "login": "eightants",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/29858539?v=4",
+  "htmlUrl": "https://github.com/eightants",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 479,
+      "repoCountPrimary": 2,
+      "starsContains": 479,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "whisperify",
+          "fullName": "eightants/whisperify",
+          "stars": 338,
+          "url": "https://github.com/eightants/whisperify",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "reddium",
+          "fullName": "eightants/reddium",
+          "stars": 141,
+          "url": "https://github.com/eightants/reddium",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

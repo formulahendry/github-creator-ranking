@@ -1,0 +1,41 @@
+{
+  "login": "zhangyuang",
+  "name": "yuuang",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/17424434?v=4",
+  "htmlUrl": "https://github.com/zhangyuang",
+  "location": "guangdong",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 4610,
+      "repoCountPrimary": 2,
+      "starsContains": 4610,
+      "repoCountContains": 2,
+      "globalRank": 558,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ssr",
+          "fullName": "zhangyuang/ssr",
+          "stars": 2701,
+          "url": "https://github.com/zhangyuang/ssr",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "egg-react-ssr",
+          "fullName": "zhangyuang/egg-react-ssr",
+          "stars": 1909,
+          "url": "https://github.com/zhangyuang/egg-react-ssr",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "login": "dabbott",
+  "name": "Devin Abbott",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1198882?v=4",
+  "htmlUrl": "https://github.com/dabbott",
+  "location": "San Francisco, California",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 6126,
+      "repoCountPrimary": 4,
+      "starsContains": 6126,
+      "repoCountContains": 4,
+      "globalRank": 385,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-express",
+          "fullName": "dabbott/react-express",
+          "stars": 2590,
+          "url": "https://github.com/dabbott/react-express",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-native-express",
+          "fullName": "dabbott/react-native-express",
+          "stars": 1861,
+          "url": "https://github.com/dabbott/react-native-express",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "javascript-playgrounds",
+          "fullName": "dabbott/javascript-playgrounds",
+          "stars": 1411,
+          "url": "https://github.com/dabbott/javascript-playgrounds",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "studio721",
+          "fullName": "dabbott/studio721",
+          "stars": 264,
+          "url": "https://github.com/dabbott/studio721",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

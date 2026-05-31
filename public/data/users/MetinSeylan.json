@@ -1,0 +1,34 @@
+{
+  "login": "MetinSeylan",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1490081?v=4",
+  "htmlUrl": "https://github.com/MetinSeylan",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 389,
+      "repoCountPrimary": 1,
+      "starsContains": 389,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Nestjs-OpenTelemetry",
+          "fullName": "MetinSeylan/Nestjs-OpenTelemetry",
+          "stars": 389,
+          "url": "https://github.com/MetinSeylan/Nestjs-OpenTelemetry",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

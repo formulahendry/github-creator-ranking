@@ -1,0 +1,34 @@
+{
+  "login": "adamalston",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/18297826?v=4",
+  "htmlUrl": "https://github.com/adamalston",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 208,
+      "repoCountPrimary": 1,
+      "starsContains": 208,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "v2",
+          "fullName": "adamalston/v2",
+          "stars": 208,
+          "url": "https://github.com/adamalston/v2",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "CassiopeiaCode",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/212207110?v=4",
+  "htmlUrl": "https://github.com/CassiopeiaCode",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 125,
+      "repoCountPrimary": 1,
+      "starsContains": 125,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "b4u2cc",
+          "fullName": "CassiopeiaCode/b4u2cc",
+          "stars": 125,
+          "url": "https://github.com/CassiopeiaCode/b4u2cc",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

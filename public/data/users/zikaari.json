@@ -1,0 +1,48 @@
+{
+  "login": "zikaari",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/11316020?v=4",
+  "htmlUrl": "https://github.com/zikaari",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 482,
+      "repoCountPrimary": 3,
+      "starsContains": 482,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "aspen",
+          "fullName": "zikaari/aspen",
+          "stars": 188,
+          "url": "https://github.com/zikaari/aspen",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "regexly",
+          "fullName": "zikaari/regexly",
+          "stars": 163,
+          "url": "https://github.com/zikaari/regexly",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "monaco-editor-textmate",
+          "fullName": "zikaari/monaco-editor-textmate",
+          "stars": 131,
+          "url": "https://github.com/zikaari/monaco-editor-textmate",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

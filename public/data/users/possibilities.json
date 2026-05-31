@@ -1,0 +1,34 @@
+{
+  "login": "possibilities",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/502777?v=4",
+  "htmlUrl": "https://github.com/possibilities",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 677,
+      "repoCountPrimary": 1,
+      "starsContains": 677,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "claude-composer",
+          "fullName": "possibilities/claude-composer",
+          "stars": 677,
+          "url": "https://github.com/possibilities/claude-composer",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

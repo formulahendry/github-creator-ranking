@@ -1,0 +1,41 @@
+{
+  "login": "changhuixu",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/16184464?v=4",
+  "htmlUrl": "https://github.com/changhuixu",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 314,
+      "repoCountPrimary": 2,
+      "starsContains": 314,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ngx-digit-only",
+          "fullName": "changhuixu/ngx-digit-only",
+          "stars": 159,
+          "url": "https://github.com/changhuixu/ngx-digit-only",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "angular-material-admin",
+          "fullName": "changhuixu/angular-material-admin",
+          "stars": 155,
+          "url": "https://github.com/changhuixu/angular-material-admin",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

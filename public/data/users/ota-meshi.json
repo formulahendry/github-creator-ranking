@@ -1,0 +1,55 @@
+{
+  "login": "ota-meshi",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/16508807?v=4",
+  "htmlUrl": "https://github.com/ota-meshi",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1605,
+      "repoCountPrimary": 4,
+      "starsContains": 1605,
+      "repoCountContains": 4,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "eslint-plugin-regexp",
+          "fullName": "ota-meshi/eslint-plugin-regexp",
+          "stars": 762,
+          "url": "https://github.com/ota-meshi/eslint-plugin-regexp",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "eslint-plugin-astro",
+          "fullName": "ota-meshi/eslint-plugin-astro",
+          "stars": 426,
+          "url": "https://github.com/ota-meshi/eslint-plugin-astro",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "eslint-plugin-jsonc",
+          "fullName": "ota-meshi/eslint-plugin-jsonc",
+          "stars": 235,
+          "url": "https://github.com/ota-meshi/eslint-plugin-jsonc",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "eslint-plugin-yml",
+          "fullName": "ota-meshi/eslint-plugin-yml",
+          "stars": 182,
+          "url": "https://github.com/ota-meshi/eslint-plugin-yml",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

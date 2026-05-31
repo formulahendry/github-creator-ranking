@@ -1,0 +1,41 @@
+{
+  "login": "cdimascio",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/4706618?v=4",
+  "htmlUrl": "https://github.com/cdimascio",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1365,
+      "repoCountPrimary": 2,
+      "starsContains": 1365,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "express-openapi-validator",
+          "fullName": "cdimascio/express-openapi-validator",
+          "stars": 1004,
+          "url": "https://github.com/cdimascio/express-openapi-validator",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "generator-express-no-stress-typescript",
+          "fullName": "cdimascio/generator-express-no-stress-typescript",
+          "stars": 361,
+          "url": "https://github.com/cdimascio/generator-express-no-stress-typescript",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

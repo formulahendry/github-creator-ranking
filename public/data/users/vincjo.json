@@ -1,0 +1,34 @@
+{
+  "login": "vincjo",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/37813278?v=4",
+  "htmlUrl": "https://github.com/vincjo",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 585,
+      "repoCountPrimary": 1,
+      "starsContains": 585,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "datatables",
+          "fullName": "vincjo/datatables",
+          "stars": 585,
+          "url": "https://github.com/vincjo/datatables",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

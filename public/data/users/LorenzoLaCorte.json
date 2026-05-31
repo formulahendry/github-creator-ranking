@@ -1,0 +1,34 @@
+{
+  "login": "LorenzoLaCorte",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/49609738?v=4",
+  "htmlUrl": "https://github.com/LorenzoLaCorte",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 720,
+      "repoCountPrimary": 1,
+      "starsContains": 720,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "european-tech-internships-2026",
+          "fullName": "LorenzoLaCorte/european-tech-internships-2026",
+          "stars": 720,
+          "url": "https://github.com/LorenzoLaCorte/european-tech-internships-2026",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

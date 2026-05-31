@@ -1,0 +1,34 @@
+{
+  "login": "ooyyh",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/141542652?v=4",
+  "htmlUrl": "https://github.com/ooyyh",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 380,
+      "repoCountPrimary": 1,
+      "starsContains": 380,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Cloudflare-Clist",
+          "fullName": "ooyyh/Cloudflare-Clist",
+          "stars": 380,
+          "url": "https://github.com/ooyyh/Cloudflare-Clist",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

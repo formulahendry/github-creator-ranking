@@ -1,0 +1,34 @@
+{
+  "login": "qwtel",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/951987?v=4",
+  "htmlUrl": "https://github.com/qwtel",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 299,
+      "repoCountPrimary": 1,
+      "starsContains": 299,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "sqlite-viewer-vscode",
+          "fullName": "qwtel/sqlite-viewer-vscode",
+          "stars": 299,
+          "url": "https://github.com/qwtel/sqlite-viewer-vscode",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

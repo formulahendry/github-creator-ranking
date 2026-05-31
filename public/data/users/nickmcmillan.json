@@ -1,0 +1,34 @@
+{
+  "login": "nickmcmillan",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3969800?v=4",
+  "htmlUrl": "https://github.com/nickmcmillan",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 198,
+      "repoCountPrimary": 1,
+      "starsContains": 198,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-physics-dragger",
+          "fullName": "nickmcmillan/react-physics-dragger",
+          "stars": 198,
+          "url": "https://github.com/nickmcmillan/react-physics-dragger",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

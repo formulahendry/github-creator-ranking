@@ -1,0 +1,41 @@
+{
+  "login": "ineo6",
+  "name": "ineo6",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3783838?v=4",
+  "htmlUrl": "https://github.com/ineo6",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 5425,
+      "repoCountPrimary": 2,
+      "starsContains": 5425,
+      "repoCountContains": 2,
+      "globalRank": 453,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "hosts",
+          "fullName": "ineo6/hosts",
+          "stars": 5324,
+          "url": "https://github.com/ineo6/hosts",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "mp-ci",
+          "fullName": "ineo6/mp-ci",
+          "stars": 101,
+          "url": "https://github.com/ineo6/mp-ci",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

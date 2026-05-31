@@ -1,0 +1,34 @@
+{
+  "login": "zernonia",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/59365435?v=4",
+  "htmlUrl": "https://github.com/zernonia",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 247,
+      "repoCountPrimary": 1,
+      "starsContains": 247,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "tweetic",
+          "fullName": "zernonia/tweetic",
+          "stars": 247,
+          "url": "https://github.com/zernonia/tweetic",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

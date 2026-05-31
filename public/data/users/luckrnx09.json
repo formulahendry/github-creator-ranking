@@ -1,0 +1,34 @@
+{
+  "login": "luckrnx09",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/113882203?v=4",
+  "htmlUrl": "https://github.com/luckrnx09",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 365,
+      "repoCountPrimary": 1,
+      "starsContains": 365,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "python-guide-for-javascript-engineers",
+          "fullName": "luckrnx09/python-guide-for-javascript-engineers",
+          "stars": 365,
+          "url": "https://github.com/luckrnx09/python-guide-for-javascript-engineers",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

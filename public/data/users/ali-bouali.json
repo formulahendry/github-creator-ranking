@@ -1,0 +1,34 @@
+{
+  "login": "ali-bouali",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/16446014?v=4",
+  "htmlUrl": "https://github.com/ali-bouali",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1048,
+      "repoCountPrimary": 1,
+      "starsContains": 1048,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "book-social-network",
+          "fullName": "ali-bouali/book-social-network",
+          "stars": 1048,
+          "url": "https://github.com/ali-bouali/book-social-network",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

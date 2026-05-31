@@ -1,0 +1,34 @@
+{
+  "login": "codeaashu",
+  "name": "aashuu ✦",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/130897584?v=4",
+  "htmlUrl": "https://github.com/codeaashu",
+  "location": "भारत",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2763,
+      "repoCountPrimary": 1,
+      "starsContains": 2763,
+      "repoCountContains": 1,
+      "globalRank": 971,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "claude-code",
+          "fullName": "codeaashu/claude-code",
+          "stars": 2763,
+          "url": "https://github.com/codeaashu/claude-code",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "tamino-martinius",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3111766?v=4",
+  "htmlUrl": "https://github.com/tamino-martinius",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 325,
+      "repoCountPrimary": 2,
+      "starsContains": 325,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "node-ts-dedent",
+          "fullName": "tamino-martinius/node-ts-dedent",
+          "stars": 177,
+          "url": "https://github.com/tamino-martinius/node-ts-dedent",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "metrics.tamino.dev",
+          "fullName": "tamino-martinius/metrics.tamino.dev",
+          "stars": 148,
+          "url": "https://github.com/tamino-martinius/metrics.tamino.dev",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

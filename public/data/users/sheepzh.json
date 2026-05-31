@@ -1,0 +1,34 @@
+{
+  "login": "sheepzh",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/19428473?v=4",
+  "htmlUrl": "https://github.com/sheepzh",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 910,
+      "repoCountPrimary": 1,
+      "starsContains": 910,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "time-tracker-4-browser",
+          "fullName": "sheepzh/time-tracker-4-browser",
+          "stars": 910,
+          "url": "https://github.com/sheepzh/time-tracker-4-browser",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

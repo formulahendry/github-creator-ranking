@@ -1,0 +1,62 @@
+{
+  "login": "theodorusclarence",
+  "name": "Theodorus Clarence",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/55318172?v=4",
+  "htmlUrl": "https://github.com/theodorusclarence",
+  "location": "Indonesia",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 4175,
+      "repoCountPrimary": 6,
+      "starsContains": 4175,
+      "repoCountContains": 6,
+      "globalRank": 625,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ts-nextjs-tailwind-starter",
+          "fullName": "theodorusclarence/ts-nextjs-tailwind-starter",
+          "stars": 3412,
+          "url": "https://github.com/theodorusclarence/ts-nextjs-tailwind-starter",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "notiolink",
+          "fullName": "theodorusclarence/notiolink",
+          "stars": 207,
+          "url": "https://github.com/theodorusclarence/notiolink",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "rhf-stepform",
+          "fullName": "theodorusclarence/rhf-stepform",
+          "stars": 196,
+          "url": "https://github.com/theodorusclarence/rhf-stepform",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "aether-design-system",
+          "fullName": "theodorusclarence/aether-design-system",
+          "stars": 137,
+          "url": "https://github.com/theodorusclarence/aether-design-system",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "og",
+          "fullName": "theodorusclarence/og",
+          "stars": 116,
+          "url": "https://github.com/theodorusclarence/og",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

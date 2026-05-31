@@ -1,0 +1,55 @@
+{
+  "login": "oukayuka",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/31567?v=4",
+  "htmlUrl": "https://github.com/oukayuka",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 715,
+      "repoCountPrimary": 4,
+      "starsContains": 715,
+      "repoCountContains": 4,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Riakuto-StartingReact-ja3.1",
+          "fullName": "oukayuka/Riakuto-StartingReact-ja3.1",
+          "stars": 265,
+          "url": "https://github.com/oukayuka/Riakuto-StartingReact-ja3.1",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ReactBeginnersBook-2.0",
+          "fullName": "oukayuka/ReactBeginnersBook-2.0",
+          "stars": 204,
+          "url": "https://github.com/oukayuka/ReactBeginnersBook-2.0",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Riakuto-StartingReact-ja3.0",
+          "fullName": "oukayuka/Riakuto-StartingReact-ja3.0",
+          "stars": 135,
+          "url": "https://github.com/oukayuka/Riakuto-StartingReact-ja3.0",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ReactFirebaseBook",
+          "fullName": "oukayuka/ReactFirebaseBook",
+          "stars": 111,
+          "url": "https://github.com/oukayuka/ReactFirebaseBook",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

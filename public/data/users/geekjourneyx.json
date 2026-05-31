@@ -1,0 +1,41 @@
+{
+  "login": "geekjourneyx",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/24422856?v=4",
+  "htmlUrl": "https://github.com/geekjourneyx",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 557,
+      "repoCountPrimary": 2,
+      "starsContains": 557,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "claude-design-card",
+          "fullName": "geekjourneyx/claude-design-card",
+          "stars": 333,
+          "url": "https://github.com/geekjourneyx/claude-design-card",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "obsidian-md2wechat",
+          "fullName": "geekjourneyx/obsidian-md2wechat",
+          "stars": 224,
+          "url": "https://github.com/geekjourneyx/obsidian-md2wechat",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

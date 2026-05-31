@@ -1,0 +1,48 @@
+{
+  "login": "chronark",
+  "name": "Andreas Thomas",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/18246773?v=4",
+  "htmlUrl": "https://github.com/chronark",
+  "location": "Germany",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 4152,
+      "repoCountPrimary": 3,
+      "starsContains": 4152,
+      "repoCountContains": 3,
+      "globalRank": 627,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "highstorm",
+          "fullName": "chronark/highstorm",
+          "stars": 3318,
+          "url": "https://github.com/chronark/highstorm",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "envshare",
+          "fullName": "chronark/envshare",
+          "stars": 656,
+          "url": "https://github.com/chronark/envshare",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "zod-bird",
+          "fullName": "chronark/zod-bird",
+          "stars": 178,
+          "url": "https://github.com/chronark/zod-bird",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "sanjeevyadavIT",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/13250741?v=4",
+  "htmlUrl": "https://github.com/sanjeevyadavIT",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 297,
+      "repoCountPrimary": 1,
+      "starsContains": 297,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "magento_react_native",
+          "fullName": "sanjeevyadavIT/magento_react_native",
+          "stars": 297,
+          "url": "https://github.com/sanjeevyadavIT/magento_react_native",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

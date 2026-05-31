@@ -1,0 +1,48 @@
+{
+  "login": "wzc520pyfm",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/69044080?v=4",
+  "htmlUrl": "https://github.com/wzc520pyfm",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2332,
+      "repoCountPrimary": 3,
+      "starsContains": 2332,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ant-design-x-vue",
+          "fullName": "wzc520pyfm/ant-design-x-vue",
+          "stars": 1788,
+          "url": "https://github.com/wzc520pyfm/ant-design-x-vue",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-devtools-plus",
+          "fullName": "wzc520pyfm/react-devtools-plus",
+          "stars": 306,
+          "url": "https://github.com/wzc520pyfm/react-devtools-plus",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "mail-studio",
+          "fullName": "wzc520pyfm/mail-studio",
+          "stars": 238,
+          "url": "https://github.com/wzc520pyfm/mail-studio",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

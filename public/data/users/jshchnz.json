@@ -1,0 +1,34 @@
+{
+  "login": "jshchnz",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6634452?v=4",
+  "htmlUrl": "https://github.com/jshchnz",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 500,
+      "repoCountPrimary": 1,
+      "starsContains": 500,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "claude-code-scheduler",
+          "fullName": "jshchnz/claude-code-scheduler",
+          "stars": 500,
+          "url": "https://github.com/jshchnz/claude-code-scheduler",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

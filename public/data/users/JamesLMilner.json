@@ -1,0 +1,41 @@
+{
+  "login": "JamesLMilner",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/8822075?v=4",
+  "htmlUrl": "https://github.com/JamesLMilner",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1195,
+      "repoCountPrimary": 2,
+      "starsContains": 1195,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "terra-draw",
+          "fullName": "JamesLMilner/terra-draw",
+          "stars": 1017,
+          "url": "https://github.com/JamesLMilner/terra-draw",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "THREEAR",
+          "fullName": "JamesLMilner/THREEAR",
+          "stars": 178,
+          "url": "https://github.com/JamesLMilner/THREEAR",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

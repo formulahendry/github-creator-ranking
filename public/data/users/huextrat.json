@@ -1,0 +1,48 @@
+{
+  "login": "huextrat",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/22995315?v=4",
+  "htmlUrl": "https://github.com/huextrat",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 800,
+      "repoCountPrimary": 3,
+      "starsContains": 800,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-native-screenshot-aware",
+          "fullName": "huextrat/react-native-screenshot-aware",
+          "stars": 350,
+          "url": "https://github.com/huextrat/react-native-screenshot-aware",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-native-rate-app",
+          "fullName": "huextrat/react-native-rate-app",
+          "stars": 246,
+          "url": "https://github.com/huextrat/react-native-rate-app",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-native-maps-routes",
+          "fullName": "huextrat/react-native-maps-routes",
+          "stars": 204,
+          "url": "https://github.com/huextrat/react-native-maps-routes",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

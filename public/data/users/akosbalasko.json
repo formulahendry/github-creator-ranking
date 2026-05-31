@@ -1,0 +1,41 @@
+{
+  "login": "akosbalasko",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/11886731?v=4",
+  "htmlUrl": "https://github.com/akosbalasko",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1967,
+      "repoCountPrimary": 2,
+      "starsContains": 1967,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "yarle",
+          "fullName": "akosbalasko/yarle",
+          "stars": 1738,
+          "url": "https://github.com/akosbalasko/yarle",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "zoottelkeeper-obsidian-plugin",
+          "fullName": "akosbalasko/zoottelkeeper-obsidian-plugin",
+          "stars": 229,
+          "url": "https://github.com/akosbalasko/zoottelkeeper-obsidian-plugin",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

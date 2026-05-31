@@ -1,0 +1,62 @@
+{
+  "login": "gitdagray",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/31679671?v=4",
+  "htmlUrl": "https://github.com/gitdagray",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1450,
+      "repoCountPrimary": 6,
+      "starsContains": 1450,
+      "repoCountContains": 6,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "next-js-course",
+          "fullName": "gitdagray/next-js-course",
+          "stars": 452,
+          "url": "https://github.com/gitdagray/next-js-course",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "typescript-course",
+          "fullName": "gitdagray/typescript-course",
+          "stars": 418,
+          "url": "https://github.com/gitdagray/typescript-course",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "next-auth-intro",
+          "fullName": "gitdagray/next-auth-intro",
+          "stars": 167,
+          "url": "https://github.com/gitdagray/next-auth-intro",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "nestjs-course",
+          "fullName": "gitdagray/nestjs-course",
+          "stars": 159,
+          "url": "https://github.com/gitdagray/nestjs-course",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "next-auth-role-based",
+          "fullName": "gitdagray/next-auth-role-based",
+          "stars": 133,
+          "url": "https://github.com/gitdagray/next-auth-role-based",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

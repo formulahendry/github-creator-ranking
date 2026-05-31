@@ -1,0 +1,34 @@
+{
+  "login": "traverse1984",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/75476378?v=4",
+  "htmlUrl": "https://github.com/traverse1984",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 588,
+      "repoCountPrimary": 1,
+      "starsContains": 588,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "oxide.ts",
+          "fullName": "traverse1984/oxide.ts",
+          "stars": 588,
+          "url": "https://github.com/traverse1984/oxide.ts",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "acheroncrypto",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/98934430?v=4",
+  "htmlUrl": "https://github.com/acheroncrypto",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 146,
+      "repoCountPrimary": 1,
+      "starsContains": 146,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "native-to-anchor",
+          "fullName": "acheroncrypto/native-to-anchor",
+          "stars": 146,
+          "url": "https://github.com/acheroncrypto/native-to-anchor",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

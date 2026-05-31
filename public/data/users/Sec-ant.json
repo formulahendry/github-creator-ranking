@@ -1,0 +1,41 @@
+{
+  "login": "Sec-ant",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/10386119?v=4",
+  "htmlUrl": "https://github.com/Sec-ant",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 437,
+      "repoCountPrimary": 2,
+      "starsContains": 437,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "zxing-wasm",
+          "fullName": "Sec-ant/zxing-wasm",
+          "stars": 220,
+          "url": "https://github.com/Sec-ant/zxing-wasm",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "barcode-detector",
+          "fullName": "Sec-ant/barcode-detector",
+          "stars": 217,
+          "url": "https://github.com/Sec-ant/barcode-detector",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

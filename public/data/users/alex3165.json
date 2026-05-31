@@ -1,0 +1,34 @@
+{
+  "login": "alex3165",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/4259832?v=4",
+  "htmlUrl": "https://github.com/alex3165",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1989,
+      "repoCountPrimary": 1,
+      "starsContains": 1989,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-mapbox-gl",
+          "fullName": "alex3165/react-mapbox-gl",
+          "stars": 1989,
+          "url": "https://github.com/alex3165/react-mapbox-gl",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

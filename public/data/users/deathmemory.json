@@ -1,0 +1,41 @@
+{
+  "login": "deathmemory",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/4038034?v=4",
+  "htmlUrl": "https://github.com/deathmemory",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1842,
+      "repoCountPrimary": 2,
+      "starsContains": 1842,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "FridaContainer",
+          "fullName": "deathmemory/FridaContainer",
+          "stars": 1491,
+          "url": "https://github.com/deathmemory/FridaContainer",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "fridaRegstNtv",
+          "fullName": "deathmemory/fridaRegstNtv",
+          "stars": 351,
+          "url": "https://github.com/deathmemory/fridaRegstNtv",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

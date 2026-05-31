@@ -1,0 +1,48 @@
+{
+  "login": "deathau",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1421840?v=4",
+  "htmlUrl": "https://github.com/deathau",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1214,
+      "repoCountPrimary": 3,
+      "starsContains": 1214,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "sliding-panes-obsidian",
+          "fullName": "deathau/sliding-panes-obsidian",
+          "stars": 868,
+          "url": "https://github.com/deathau/sliding-panes-obsidian",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "cm-typewriter-scroll-obsidian",
+          "fullName": "deathau/cm-typewriter-scroll-obsidian",
+          "stars": 207,
+          "url": "https://github.com/deathau/cm-typewriter-scroll-obsidian",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "csv-obsidian",
+          "fullName": "deathau/csv-obsidian",
+          "stars": 139,
+          "url": "https://github.com/deathau/csv-obsidian",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

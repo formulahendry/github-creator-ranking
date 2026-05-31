@@ -1,0 +1,62 @@
+{
+  "login": "wcandillon",
+  "name": "William Candillon",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/306134?v=4",
+  "htmlUrl": "https://github.com/wcandillon",
+  "location": "Zürich",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 9608,
+      "repoCountPrimary": 9,
+      "starsContains": 9608,
+      "repoCountContains": 9,
+      "globalRank": 234,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "can-it-be-done-in-react-native",
+          "fullName": "wcandillon/can-it-be-done-in-react-native",
+          "stars": 4201,
+          "url": "https://github.com/wcandillon/can-it-be-done-in-react-native",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-native-redash",
+          "fullName": "wcandillon/react-native-redash",
+          "stars": 2062,
+          "url": "https://github.com/wcandillon/react-native-redash",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-native-webgpu",
+          "fullName": "wcandillon/react-native-webgpu",
+          "stars": 1124,
+          "url": "https://github.com/wcandillon/react-native-webgpu",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-native-img-cache",
+          "fullName": "wcandillon/react-native-img-cache",
+          "stars": 728,
+          "url": "https://github.com/wcandillon/react-native-img-cache",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-native-expo-image-cache",
+          "fullName": "wcandillon/react-native-expo-image-cache",
+          "stars": 684,
+          "url": "https://github.com/wcandillon/react-native-expo-image-cache",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "gidongkwon",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2127206?v=4",
+  "htmlUrl": "https://github.com/gidongkwon",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 146,
+      "repoCountPrimary": 1,
+      "starsContains": 146,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "logseq-plugin-tags",
+          "fullName": "gidongkwon/logseq-plugin-tags",
+          "stars": 146,
+          "url": "https://github.com/gidongkwon/logseq-plugin-tags",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "chriskitson",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1284077?v=4",
+  "htmlUrl": "https://github.com/chriskitson",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 436,
+      "repoCountPrimary": 2,
+      "starsContains": 436,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-drag-drop-layout-builder",
+          "fullName": "chriskitson/react-drag-drop-layout-builder",
+          "stars": 248,
+          "url": "https://github.com/chriskitson/react-drag-drop-layout-builder",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "micro-frontends-with-web-components",
+          "fullName": "chriskitson/micro-frontends-with-web-components",
+          "stars": 188,
+          "url": "https://github.com/chriskitson/micro-frontends-with-web-components",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

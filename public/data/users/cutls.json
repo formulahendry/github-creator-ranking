@@ -1,0 +1,34 @@
+{
+  "login": "cutls",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/17561618?v=4",
+  "htmlUrl": "https://github.com/cutls",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 277,
+      "repoCountPrimary": 1,
+      "starsContains": 277,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "TheDesk",
+          "fullName": "cutls/TheDesk",
+          "stars": 277,
+          "url": "https://github.com/cutls/TheDesk",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

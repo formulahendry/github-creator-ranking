@@ -1,0 +1,34 @@
+{
+  "login": "glacambre",
+  "name": "Ghjuvan Lacambre",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/11534587?v=4",
+  "htmlUrl": "https://github.com/glacambre",
+  "location": "Paris, France",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 6056,
+      "repoCountPrimary": 1,
+      "starsContains": 6056,
+      "repoCountContains": 1,
+      "globalRank": 391,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "firenvim",
+          "fullName": "glacambre/firenvim",
+          "stars": 6056,
+          "url": "https://github.com/glacambre/firenvim",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

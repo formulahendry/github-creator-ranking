@@ -1,0 +1,41 @@
+{
+  "login": "softprops",
+  "name": "Doug Tangren",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2242?v=4",
+  "htmlUrl": "https://github.com/softprops",
+  "location": "nyc",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 6018,
+      "repoCountPrimary": 2,
+      "starsContains": 6018,
+      "repoCountContains": 2,
+      "globalRank": 396,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "action-gh-release",
+          "fullName": "softprops/action-gh-release",
+          "stars": 5647,
+          "url": "https://github.com/softprops/action-gh-release",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "turnstyle",
+          "fullName": "softprops/turnstyle",
+          "stars": 371,
+          "url": "https://github.com/softprops/turnstyle",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

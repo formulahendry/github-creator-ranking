@@ -1,0 +1,34 @@
+{
+  "login": "natefrisch01",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/44580969?v=4",
+  "htmlUrl": "https://github.com/natefrisch01",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 145,
+      "repoCountPrimary": 1,
+      "starsContains": 145,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Graph-Link-Types",
+          "fullName": "natefrisch01/Graph-Link-Types",
+          "stars": 145,
+          "url": "https://github.com/natefrisch01/Graph-Link-Types",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

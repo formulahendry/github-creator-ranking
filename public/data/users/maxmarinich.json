@@ -1,0 +1,34 @@
+{
+  "login": "maxmarinich",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/9882979?v=4",
+  "htmlUrl": "https://github.com/maxmarinich",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 851,
+      "repoCountPrimary": 1,
+      "starsContains": 851,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-alice-carousel",
+          "fullName": "maxmarinich/react-alice-carousel",
+          "stars": 851,
+          "url": "https://github.com/maxmarinich/react-alice-carousel",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

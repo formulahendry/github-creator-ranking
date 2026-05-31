@@ -1,0 +1,41 @@
+{
+  "login": "clayrisser",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6234038?v=4",
+  "htmlUrl": "https://github.com/clayrisser",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 697,
+      "repoCountPrimary": 2,
+      "starsContains": 697,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-gtk",
+          "fullName": "clayrisser/react-gtk",
+          "stars": 360,
+          "url": "https://github.com/clayrisser/react-gtk",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-ast",
+          "fullName": "clayrisser/react-ast",
+          "stars": 337,
+          "url": "https://github.com/clayrisser/react-ast",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

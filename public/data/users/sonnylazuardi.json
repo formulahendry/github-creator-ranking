@@ -1,0 +1,55 @@
+{
+  "login": "sonnylazuardi",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/856609?v=4",
+  "htmlUrl": "https://github.com/sonnylazuardi",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 970,
+      "repoCountPrimary": 4,
+      "starsContains": 970,
+      "repoCountContains": 4,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "colorGPT",
+          "fullName": "sonnylazuardi/colorGPT",
+          "stars": 577,
+          "url": "https://github.com/sonnylazuardi/colorGPT",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "globe-3d",
+          "fullName": "sonnylazuardi/globe-3d",
+          "stars": 160,
+          "url": "https://github.com/sonnylazuardi/globe-3d",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "bibleify-mobile",
+          "fullName": "sonnylazuardi/bibleify-mobile",
+          "stars": 133,
+          "url": "https://github.com/sonnylazuardi/bibleify-mobile",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "gramatika.app",
+          "fullName": "sonnylazuardi/gramatika.app",
+          "stars": 100,
+          "url": "https://github.com/sonnylazuardi/gramatika.app",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

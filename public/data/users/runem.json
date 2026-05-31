@@ -1,0 +1,41 @@
+{
+  "login": "runem",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5372940?v=4",
+  "htmlUrl": "https://github.com/runem",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 876,
+      "repoCountPrimary": 2,
+      "starsContains": 876,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "web-component-analyzer",
+          "fullName": "runem/web-component-analyzer",
+          "stars": 517,
+          "url": "https://github.com/runem/web-component-analyzer",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "lit-analyzer",
+          "fullName": "runem/lit-analyzer",
+          "stars": 359,
+          "url": "https://github.com/runem/lit-analyzer",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

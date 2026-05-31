@@ -1,0 +1,34 @@
+{
+  "login": "SudoPlz",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3070948?v=4",
+  "htmlUrl": "https://github.com/SudoPlz",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 576,
+      "repoCountPrimary": 1,
+      "starsContains": 576,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "sp-react-native-in-app-updates",
+          "fullName": "SudoPlz/sp-react-native-in-app-updates",
+          "stars": 576,
+          "url": "https://github.com/SudoPlz/sp-react-native-in-app-updates",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

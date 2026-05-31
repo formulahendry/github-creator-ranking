@@ -1,0 +1,41 @@
+{
+  "login": "NullVoxPopuli",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/199018?v=4",
+  "htmlUrl": "https://github.com/NullVoxPopuli",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 299,
+      "repoCountPrimary": 2,
+      "starsContains": 299,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "emberclear",
+          "fullName": "NullVoxPopuli/emberclear",
+          "stars": 198,
+          "url": "https://github.com/NullVoxPopuli/emberclear",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ember-resources",
+          "fullName": "NullVoxPopuli/ember-resources",
+          "stars": 101,
+          "url": "https://github.com/NullVoxPopuli/ember-resources",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

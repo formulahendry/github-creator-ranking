@@ -1,0 +1,41 @@
+{
+  "login": "ndycode",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/405533?v=4",
+  "htmlUrl": "https://github.com/ndycode",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 449,
+      "repoCountPrimary": 2,
+      "starsContains": 449,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "codex-multi-auth",
+          "fullName": "ndycode/codex-multi-auth",
+          "stars": 330,
+          "url": "https://github.com/ndycode/codex-multi-auth",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "oc-codex-multi-auth",
+          "fullName": "ndycode/oc-codex-multi-auth",
+          "stars": 119,
+          "url": "https://github.com/ndycode/oc-codex-multi-auth",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

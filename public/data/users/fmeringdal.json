@@ -1,0 +1,34 @@
+{
+  "login": "fmeringdal",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/37556332?v=4",
+  "htmlUrl": "https://github.com/fmeringdal",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2404,
+      "repoCountPrimary": 1,
+      "starsContains": 2404,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "nettu-meet",
+          "fullName": "fmeringdal/nettu-meet",
+          "stars": 2404,
+          "url": "https://github.com/fmeringdal/nettu-meet",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

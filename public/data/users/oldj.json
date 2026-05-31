@@ -1,11 +1,11 @@
 {
   "login": "oldj",
-  "name": null,
+  "name": "oldj",
   "avatarUrl": "https://avatars.githubusercontent.com/u/416130?v=4",
   "htmlUrl": "https://github.com/oldj",
-  "location": null,
-  "countryCode": null,
-  "generatedAt": "2026-05-31T13:50:40.799Z",
+  "location": "Hangzhou, China",
+  "countryCode": "CN",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
   "isPartial": true,
   "languages": [
     {
@@ -14,17 +14,17 @@
         "name": "TypeScript",
         "githubQuery": "TypeScript"
       },
-      "starsPrimary": 26733,
+      "starsPrimary": 26736,
       "repoCountPrimary": 1,
-      "starsContains": 26733,
+      "starsContains": 26736,
       "repoCountContains": 1,
-      "globalRank": null,
-      "countryRank": null,
+      "globalRank": 55,
+      "countryRank": 5,
       "topRepos": [
         {
           "name": "SwitchHosts",
           "fullName": "oldj/SwitchHosts",
-          "stars": 26733,
+          "stars": 26736,
           "url": "https://github.com/oldj/SwitchHosts",
           "primaryLanguage": "TypeScript"
         }

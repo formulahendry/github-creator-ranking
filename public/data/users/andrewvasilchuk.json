@@ -1,0 +1,34 @@
+{
+  "login": "andrewvasilchuk",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/44983823?v=4",
+  "htmlUrl": "https://github.com/andrewvasilchuk",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 104,
+      "repoCountPrimary": 1,
+      "starsContains": 104,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vue-lazy-youtube-video",
+          "fullName": "andrewvasilchuk/vue-lazy-youtube-video",
+          "stars": 104,
+          "url": "https://github.com/andrewvasilchuk/vue-lazy-youtube-video",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

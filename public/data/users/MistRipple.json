@@ -1,0 +1,41 @@
+{
+  "login": "MistRipple",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/29222508?v=4",
+  "htmlUrl": "https://github.com/MistRipple",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 646,
+      "repoCountPrimary": 2,
+      "starsContains": 646,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ace-tool",
+          "fullName": "MistRipple/ace-tool",
+          "stars": 445,
+          "url": "https://github.com/MistRipple/ace-tool",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "magi-code",
+          "fullName": "MistRipple/magi-code",
+          "stars": 201,
+          "url": "https://github.com/MistRipple/magi-code",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

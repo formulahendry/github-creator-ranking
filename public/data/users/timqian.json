@@ -1,0 +1,41 @@
+{
+  "login": "timqian",
+  "name": "Tim Qian",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5512552?v=4",
+  "htmlUrl": "https://github.com/timqian",
+  "location": "ChongQing, China",
+  "countryCode": "CN",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3877,
+      "repoCountPrimary": 2,
+      "starsContains": 3877,
+      "repoCountContains": 2,
+      "globalRank": 687,
+      "countryRank": 82,
+      "topRepos": [
+        {
+          "name": "open-source-jobs",
+          "fullName": "timqian/open-source-jobs",
+          "stars": 2934,
+          "url": "https://github.com/timqian/open-source-jobs",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "bambot",
+          "fullName": "timqian/bambot",
+          "stars": 943,
+          "url": "https://github.com/timqian/bambot",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

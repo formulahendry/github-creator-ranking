@@ -1,0 +1,41 @@
+{
+  "login": "xun082",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/73689580?v=4",
+  "htmlUrl": "https://github.com/xun082",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2005,
+      "repoCountPrimary": 2,
+      "starsContains": 2005,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "DocFlow",
+          "fullName": "xun082/DocFlow",
+          "stars": 1242,
+          "url": "https://github.com/xun082/DocFlow",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "online-edit-web",
+          "fullName": "xun082/online-edit-web",
+          "stars": 763,
+          "url": "https://github.com/xun082/online-edit-web",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

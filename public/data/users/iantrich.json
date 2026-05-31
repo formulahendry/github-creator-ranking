@@ -1,0 +1,55 @@
+{
+  "login": "iantrich",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1287159?v=4",
+  "htmlUrl": "https://github.com/iantrich",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1107,
+      "repoCountPrimary": 4,
+      "starsContains": 1107,
+      "repoCountContains": 4,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "config-template-card",
+          "fullName": "iantrich/config-template-card",
+          "stars": 551,
+          "url": "https://github.com/iantrich/config-template-card",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "restriction-card",
+          "fullName": "iantrich/restriction-card",
+          "stars": 317,
+          "url": "https://github.com/iantrich/restriction-card",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "roku-card",
+          "fullName": "iantrich/roku-card",
+          "stars": 132,
+          "url": "https://github.com/iantrich/roku-card",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "text-divider-row",
+          "fullName": "iantrich/text-divider-row",
+          "stars": 107,
+          "url": "https://github.com/iantrich/text-divider-row",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

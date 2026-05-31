@@ -1,0 +1,34 @@
+{
+  "login": "gabeklein",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/17736627?v=4",
+  "htmlUrl": "https://github.com/gabeklein",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 101,
+      "repoCountPrimary": 1,
+      "starsContains": 101,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "expressive-state",
+          "fullName": "gabeklein/expressive-state",
+          "stars": 101,
+          "url": "https://github.com/gabeklein/expressive-state",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

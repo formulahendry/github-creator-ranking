@@ -1,0 +1,34 @@
+{
+  "login": "aarkue",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/20766652?v=4",
+  "htmlUrl": "https://github.com/aarkue",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 106,
+      "repoCountPrimary": 1,
+      "starsContains": 106,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "tiptap-math-extension",
+          "fullName": "aarkue/tiptap-math-extension",
+          "stars": 106,
+          "url": "https://github.com/aarkue/tiptap-math-extension",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

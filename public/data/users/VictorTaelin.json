@@ -1,0 +1,34 @@
+{
+  "login": "VictorTaelin",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/13090166?v=4",
+  "htmlUrl": "https://github.com/VictorTaelin",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 679,
+      "repoCountPrimary": 1,
+      "starsContains": 679,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "AI-scripts",
+          "fullName": "VictorTaelin/AI-scripts",
+          "stars": 679,
+          "url": "https://github.com/VictorTaelin/AI-scripts",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

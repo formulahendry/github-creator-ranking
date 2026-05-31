@@ -1,0 +1,34 @@
+{
+  "login": "oslook",
+  "name": "oslook",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6346865?v=4",
+  "htmlUrl": "https://github.com/oslook",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3200,
+      "repoCountPrimary": 1,
+      "starsContains": 3200,
+      "repoCountContains": 1,
+      "globalRank": 839,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "cursor-ai-downloads",
+          "fullName": "oslook/cursor-ai-downloads",
+          "stars": 3200,
+          "url": "https://github.com/oslook/cursor-ai-downloads",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

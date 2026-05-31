@@ -1,0 +1,62 @@
+{
+  "login": "RylanBot",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/116578480?v=4",
+  "htmlUrl": "https://github.com/RylanBot",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1631,
+      "repoCountPrimary": 5,
+      "starsContains": 1631,
+      "repoCountContains": 5,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "threejs-tetris-react",
+          "fullName": "RylanBot/threejs-tetris-react",
+          "stars": 545,
+          "url": "https://github.com/RylanBot/threejs-tetris-react",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "awesome-hands-control",
+          "fullName": "RylanBot/awesome-hands-control",
+          "stars": 339,
+          "url": "https://github.com/RylanBot/awesome-hands-control",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "resume-json-pdf",
+          "fullName": "RylanBot/resume-json-pdf",
+          "stars": 267,
+          "url": "https://github.com/RylanBot/resume-json-pdf",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "melody-canvas",
+          "fullName": "RylanBot/melody-canvas",
+          "stars": 248,
+          "url": "https://github.com/RylanBot/melody-canvas",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "melody-workshop",
+          "fullName": "RylanBot/melody-workshop",
+          "stars": 232,
+          "url": "https://github.com/RylanBot/melody-workshop",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "GoldinGuy",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/47064842?v=4",
+  "htmlUrl": "https://github.com/GoldinGuy",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 961,
+      "repoCountPrimary": 1,
+      "starsContains": 961,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "CollegeCompendium",
+          "fullName": "GoldinGuy/CollegeCompendium",
+          "stars": 961,
+          "url": "https://github.com/GoldinGuy/CollegeCompendium",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

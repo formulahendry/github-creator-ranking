@@ -1,0 +1,62 @@
+{
+  "login": "crazy-max",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1951866?v=4",
+  "htmlUrl": "https://github.com/crazy-max",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1503,
+      "repoCountPrimary": 5,
+      "starsContains": 1503,
+      "repoCountContains": 5,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ghaction-github-pages",
+          "fullName": "crazy-max/ghaction-github-pages",
+          "stars": 512,
+          "url": "https://github.com/crazy-max/ghaction-github-pages",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ghaction-import-gpg",
+          "fullName": "crazy-max/ghaction-import-gpg",
+          "stars": 379,
+          "url": "https://github.com/crazy-max/ghaction-import-gpg",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ghaction-docker-buildx",
+          "fullName": "crazy-max/ghaction-docker-buildx",
+          "stars": 225,
+          "url": "https://github.com/crazy-max/ghaction-docker-buildx",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ghaction-virustotal",
+          "fullName": "crazy-max/ghaction-virustotal",
+          "stars": 222,
+          "url": "https://github.com/crazy-max/ghaction-virustotal",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ghaction-github-labeler",
+          "fullName": "crazy-max/ghaction-github-labeler",
+          "stars": 165,
+          "url": "https://github.com/crazy-max/ghaction-github-labeler",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

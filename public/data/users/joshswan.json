@@ -1,0 +1,41 @@
+{
+  "login": "joshswan",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/11714764?v=4",
+  "htmlUrl": "https://github.com/joshswan",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 922,
+      "repoCountPrimary": 2,
+      "starsContains": 922,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-native-autolink",
+          "fullName": "joshswan/react-native-autolink",
+          "stars": 663,
+          "url": "https://github.com/joshswan/react-native-autolink",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-native-globalize",
+          "fullName": "joshswan/react-native-globalize",
+          "stars": 259,
+          "url": "https://github.com/joshswan/react-native-globalize",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

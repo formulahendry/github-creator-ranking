@@ -1,0 +1,41 @@
+{
+  "login": "dartungar",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/36126057?v=4",
+  "htmlUrl": "https://github.com/dartungar",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 441,
+      "repoCountPrimary": 2,
+      "starsContains": 441,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "obsidian-mermaid",
+          "fullName": "dartungar/obsidian-mermaid",
+          "stars": 316,
+          "url": "https://github.com/dartungar/obsidian-mermaid",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "obsidian-mood-tracker",
+          "fullName": "dartungar/obsidian-mood-tracker",
+          "stars": 125,
+          "url": "https://github.com/dartungar/obsidian-mood-tracker",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

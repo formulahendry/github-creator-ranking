@@ -1,0 +1,62 @@
+{
+  "login": "maticzav",
+  "name": "Matic Zavadlal",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3924224?v=4",
+  "htmlUrl": "https://github.com/maticzav",
+  "location": "Ljubljana, Slovenia",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 8673,
+      "repoCountPrimary": 6,
+      "starsContains": 8673,
+      "repoCountContains": 6,
+      "globalRank": 259,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "graphql-shield",
+          "fullName": "maticzav/graphql-shield",
+          "stars": 3576,
+          "url": "https://github.com/maticzav/graphql-shield",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "nookies",
+          "fullName": "maticzav/nookies",
+          "stars": 2354,
+          "url": "https://github.com/maticzav/nookies",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "emma-cli",
+          "fullName": "maticzav/emma-cli",
+          "stars": 1244,
+          "url": "https://github.com/maticzav/emma-cli",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "graphql-middleware",
+          "fullName": "maticzav/graphql-middleware",
+          "stars": 1146,
+          "url": "https://github.com/maticzav/graphql-middleware",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ink-table",
+          "fullName": "maticzav/ink-table",
+          "stars": 225,
+          "url": "https://github.com/maticzav/ink-table",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

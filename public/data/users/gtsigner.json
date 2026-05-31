@@ -1,0 +1,34 @@
+{
+  "login": "gtsigner",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/13638996?v=4",
+  "htmlUrl": "https://github.com/gtsigner",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 161,
+      "repoCountPrimary": 1,
+      "starsContains": 161,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "bsc-swap-autotrade-bot-v1",
+          "fullName": "gtsigner/bsc-swap-autotrade-bot-v1",
+          "stars": 161,
+          "url": "https://github.com/gtsigner/bsc-swap-autotrade-bot-v1",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

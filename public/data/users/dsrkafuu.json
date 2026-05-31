@@ -1,0 +1,34 @@
+{
+  "login": "dsrkafuu",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/21136293?v=4",
+  "htmlUrl": "https://github.com/dsrkafuu",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1574,
+      "repoCountPrimary": 1,
+      "starsContains": 1574,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "sakana-widget",
+          "fullName": "dsrkafuu/sakana-widget",
+          "stars": 1574,
+          "url": "https://github.com/dsrkafuu/sakana-widget",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

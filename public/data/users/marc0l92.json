@@ -1,0 +1,41 @@
+{
+  "login": "marc0l92",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/12623073?v=4",
+  "htmlUrl": "https://github.com/marc0l92",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 406,
+      "repoCountPrimary": 2,
+      "starsContains": 406,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "obsidian-jira-issue",
+          "fullName": "marc0l92/obsidian-jira-issue",
+          "stars": 300,
+          "url": "https://github.com/marc0l92/obsidian-jira-issue",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "joplin-plugin-drawio",
+          "fullName": "marc0l92/joplin-plugin-drawio",
+          "stars": 106,
+          "url": "https://github.com/marc0l92/joplin-plugin-drawio",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

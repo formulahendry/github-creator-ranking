@@ -1,0 +1,34 @@
+{
+  "login": "juchan1220",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/4887623?v=4",
+  "htmlUrl": "https://github.com/juchan1220",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 122,
+      "repoCountPrimary": 1,
+      "starsContains": 122,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "eAMEMu_RN",
+          "fullName": "juchan1220/eAMEMu_RN",
+          "stars": 122,
+          "url": "https://github.com/juchan1220/eAMEMu_RN",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

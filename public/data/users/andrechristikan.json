@@ -1,0 +1,41 @@
+{
+  "login": "andrechristikan",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/28558871?v=4",
+  "htmlUrl": "https://github.com/andrechristikan",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 771,
+      "repoCountPrimary": 2,
+      "starsContains": 771,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ack-nestjs-boilerplate",
+          "fullName": "andrechristikan/ack-nestjs-boilerplate",
+          "stars": 656,
+          "url": "https://github.com/andrechristikan/ack-nestjs-boilerplate",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ack-nestjs-boilerplate-kafka",
+          "fullName": "andrechristikan/ack-nestjs-boilerplate-kafka",
+          "stars": 115,
+          "url": "https://github.com/andrechristikan/ack-nestjs-boilerplate-kafka",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

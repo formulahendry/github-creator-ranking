@@ -1,0 +1,34 @@
+{
+  "login": "Meteo-Pig",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/83995869?v=4",
+  "htmlUrl": "https://github.com/Meteo-Pig",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 367,
+      "repoCountPrimary": 1,
+      "starsContains": 367,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "CursorCode",
+          "fullName": "Meteo-Pig/CursorCode",
+          "stars": 367,
+          "url": "https://github.com/Meteo-Pig/CursorCode",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

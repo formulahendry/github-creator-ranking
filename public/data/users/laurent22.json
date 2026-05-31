@@ -5,7 +5,7 @@
   "htmlUrl": "https://github.com/laurent22",
   "location": "London",
   "countryCode": null,
-  "generatedAt": "2026-05-31T13:50:40.799Z",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
   "isPartial": true,
   "languages": [
     {
@@ -14,17 +14,17 @@
         "name": "TypeScript",
         "githubQuery": "TypeScript"
       },
-      "starsPrimary": 55042,
+      "starsPrimary": 55051,
       "repoCountPrimary": 1,
-      "starsContains": 55042,
+      "starsContains": 55051,
       "repoCountContains": 1,
-      "globalRank": 10,
+      "globalRank": 15,
       "countryRank": null,
       "topRepos": [
         {
           "name": "joplin",
           "fullName": "laurent22/joplin",
-          "stars": 55042,
+          "stars": 55051,
           "url": "https://github.com/laurent22/joplin",
           "primaryLanguage": "TypeScript"
         }

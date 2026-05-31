@@ -1,0 +1,48 @@
+{
+  "login": "ykhli",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3489963?v=4",
+  "htmlUrl": "https://github.com/ykhli",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2071,
+      "repoCountPrimary": 3,
+      "starsContains": 2071,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "local-ai-stack",
+          "fullName": "ykhli/local-ai-stack",
+          "stars": 1389,
+          "url": "https://github.com/ykhli/local-ai-stack",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "AI-tamago",
+          "fullName": "ykhli/AI-tamago",
+          "stars": 520,
+          "url": "https://github.com/ykhli/AI-tamago",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "cat-town",
+          "fullName": "ykhli/cat-town",
+          "stars": 162,
+          "url": "https://github.com/ykhli/cat-town",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

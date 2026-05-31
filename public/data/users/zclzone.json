@@ -1,0 +1,41 @@
+{
+  "login": "zclzone",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/49337591?v=4",
+  "htmlUrl": "https://github.com/zclzone",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 398,
+      "repoCountPrimary": 2,
+      "starsContains": 398,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "isme-nest-serve",
+          "fullName": "zclzone/isme-nest-serve",
+          "stars": 231,
+          "url": "https://github.com/zclzone/isme-nest-serve",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "qs-admin",
+          "fullName": "zclzone/qs-admin",
+          "stars": 167,
+          "url": "https://github.com/zclzone/qs-admin",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

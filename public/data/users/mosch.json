@@ -1,0 +1,34 @@
+{
+  "login": "mosch",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/224866?v=4",
+  "htmlUrl": "https://github.com/mosch",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2496,
+      "repoCountPrimary": 1,
+      "starsContains": 2496,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-avatar-editor",
+          "fullName": "mosch/react-avatar-editor",
+          "stars": 2496,
+          "url": "https://github.com/mosch/react-avatar-editor",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

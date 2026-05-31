@@ -1,0 +1,55 @@
+{
+  "login": "rgommezz",
+  "name": "Raúl Gómez",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/4982414?v=4",
+  "htmlUrl": "https://github.com/rgommezz",
+  "location": "London",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 4654,
+      "repoCountPrimary": 4,
+      "starsContains": 4654,
+      "repoCountContains": 4,
+      "globalRank": 553,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-native-offline",
+          "fullName": "rgommezz/react-native-offline",
+          "stars": 2357,
+          "url": "https://github.com/rgommezz/react-native-offline",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-native-scroll-bottom-sheet",
+          "fullName": "rgommezz/react-native-scroll-bottom-sheet",
+          "stars": 1549,
+          "url": "https://github.com/rgommezz/react-native-scroll-bottom-sheet",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-native-chatgpt",
+          "fullName": "rgommezz/react-native-chatgpt",
+          "stars": 587,
+          "url": "https://github.com/rgommezz/react-native-chatgpt",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-native-animated-stopwatch-timer",
+          "fullName": "rgommezz/react-native-animated-stopwatch-timer",
+          "stars": 161,
+          "url": "https://github.com/rgommezz/react-native-animated-stopwatch-timer",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

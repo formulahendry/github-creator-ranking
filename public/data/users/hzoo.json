@@ -1,0 +1,34 @@
+{
+  "login": "hzoo",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/588473?v=4",
+  "htmlUrl": "https://github.com/hzoo",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 497,
+      "repoCountPrimary": 1,
+      "starsContains": 497,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "contributors-on-github",
+          "fullName": "hzoo/contributors-on-github",
+          "stars": 497,
+          "url": "https://github.com/hzoo/contributors-on-github",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

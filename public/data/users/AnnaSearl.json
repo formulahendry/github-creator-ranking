@@ -1,0 +1,34 @@
+{
+  "login": "AnnaSearl",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/26404546?v=4",
+  "htmlUrl": "https://github.com/AnnaSearl",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 263,
+      "repoCountPrimary": 1,
+      "starsContains": 263,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "annar",
+          "fullName": "AnnaSearl/annar",
+          "stars": 263,
+          "url": "https://github.com/AnnaSearl/annar",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

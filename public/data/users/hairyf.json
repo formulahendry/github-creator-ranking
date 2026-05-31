@@ -1,0 +1,34 @@
+{
+  "login": "hairyf",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/49724027?v=4",
+  "htmlUrl": "https://github.com/hairyf",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 297,
+      "repoCountPrimary": 1,
+      "starsContains": 297,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vue3-pixi",
+          "fullName": "hairyf/vue3-pixi",
+          "stars": 297,
+          "url": "https://github.com/hairyf/vue3-pixi",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

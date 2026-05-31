@@ -1,0 +1,41 @@
+{
+  "login": "blazejkustra",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/46095609?v=4",
+  "htmlUrl": "https://github.com/blazejkustra",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 579,
+      "repoCountPrimary": 2,
+      "starsContains": 579,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-compiler-marker",
+          "fullName": "blazejkustra/react-compiler-marker",
+          "stars": 437,
+          "url": "https://github.com/blazejkustra/react-compiler-marker",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-native-effects",
+          "fullName": "blazejkustra/react-native-effects",
+          "stars": 142,
+          "url": "https://github.com/blazejkustra/react-native-effects",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

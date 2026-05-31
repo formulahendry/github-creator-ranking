@@ -1,0 +1,41 @@
+{
+  "login": "runesleo",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/245669230?v=4",
+  "htmlUrl": "https://github.com/runesleo",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 268,
+      "repoCountPrimary": 2,
+      "starsContains": 268,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "polymarket-toolkit",
+          "fullName": "runesleo/polymarket-toolkit",
+          "stars": 166,
+          "url": "https://github.com/runesleo/polymarket-toolkit",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "claude-video-kit",
+          "fullName": "runesleo/claude-video-kit",
+          "stars": 102,
+          "url": "https://github.com/runesleo/claude-video-kit",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

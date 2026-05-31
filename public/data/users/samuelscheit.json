@@ -1,0 +1,41 @@
+{
+  "login": "samuelscheit",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/34555296?v=4",
+  "htmlUrl": "https://github.com/samuelscheit",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 692,
+      "repoCountPrimary": 2,
+      "starsContains": 692,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "puppeteer-stream",
+          "fullName": "samuelscheit/puppeteer-stream",
+          "stars": 454,
+          "url": "https://github.com/samuelscheit/puppeteer-stream",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-native-skia-list",
+          "fullName": "samuelscheit/react-native-skia-list",
+          "stars": 238,
+          "url": "https://github.com/samuelscheit/react-native-skia-list",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

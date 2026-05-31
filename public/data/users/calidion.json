@@ -1,0 +1,41 @@
+{
+  "login": "calidion",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/131776?v=4",
+  "htmlUrl": "https://github.com/calidion",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 300,
+      "repoCountPrimary": 2,
+      "starsContains": 300,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "webfullstack-awesome",
+          "fullName": "calidion/webfullstack-awesome",
+          "stars": 161,
+          "url": "https://github.com/calidion/webfullstack-awesome",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vig",
+          "fullName": "calidion/vig",
+          "stars": 139,
+          "url": "https://github.com/calidion/vig",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

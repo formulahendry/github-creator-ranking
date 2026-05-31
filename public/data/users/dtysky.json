@@ -1,0 +1,41 @@
+{
+  "login": "dtysky",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7337763?v=4",
+  "htmlUrl": "https://github.com/dtysky",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1012,
+      "repoCountPrimary": 2,
+      "starsContains": 1012,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Awaken",
+          "fullName": "dtysky/Awaken",
+          "stars": 795,
+          "url": "https://github.com/dtysky/Awaken",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "webgpu-renderer",
+          "fullName": "dtysky/webgpu-renderer",
+          "stars": 217,
+          "url": "https://github.com/dtysky/webgpu-renderer",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

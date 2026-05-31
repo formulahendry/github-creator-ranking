@@ -1,0 +1,41 @@
+{
+  "login": "stephenh",
+  "name": "Stephen Haberman",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6401?v=4",
+  "htmlUrl": "https://github.com/stephenh",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2727,
+      "repoCountPrimary": 2,
+      "starsContains": 2727,
+      "repoCountContains": 2,
+      "globalRank": 983,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ts-proto",
+          "fullName": "stephenh/ts-proto",
+          "stars": 2574,
+          "url": "https://github.com/stephenh/ts-proto",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ts-poet",
+          "fullName": "stephenh/ts-poet",
+          "stars": 153,
+          "url": "https://github.com/stephenh/ts-poet",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

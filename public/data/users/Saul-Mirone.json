@@ -1,0 +1,41 @@
+{
+  "login": "Saul-Mirone",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/10047788?v=4",
+  "htmlUrl": "https://github.com/Saul-Mirone",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 393,
+      "repoCountPrimary": 2,
+      "starsContains": 393,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "homura",
+          "fullName": "Saul-Mirone/homura",
+          "stars": 272,
+          "url": "https://github.com/Saul-Mirone/homura",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vite-plugin-book",
+          "fullName": "Saul-Mirone/vite-plugin-book",
+          "stars": 121,
+          "url": "https://github.com/Saul-Mirone/vite-plugin-book",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

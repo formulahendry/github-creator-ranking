@@ -1,0 +1,48 @@
+{
+  "login": "gregrickaby",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/200280?v=4",
+  "htmlUrl": "https://github.com/gregrickaby",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1092,
+      "repoCountPrimary": 3,
+      "starsContains": 1092,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "nextjs-github-pages",
+          "fullName": "gregrickaby/nextjs-github-pages",
+          "stars": 564,
+          "url": "https://github.com/gregrickaby/nextjs-github-pages",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "nextjs-wordpress",
+          "fullName": "gregrickaby/nextjs-wordpress",
+          "stars": 333,
+          "url": "https://github.com/gregrickaby/nextjs-wordpress",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "nextjs-app-router-examples",
+          "fullName": "gregrickaby/nextjs-app-router-examples",
+          "stars": 195,
+          "url": "https://github.com/gregrickaby/nextjs-app-router-examples",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

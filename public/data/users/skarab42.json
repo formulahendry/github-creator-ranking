@@ -1,0 +1,41 @@
+{
+  "login": "skarab42",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/62928763?v=4",
+  "htmlUrl": "https://github.com/skarab42",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 222,
+      "repoCountPrimary": 2,
+      "starsContains": 222,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "zoxy",
+          "fullName": "skarab42/zoxy",
+          "stars": 115,
+          "url": "https://github.com/skarab42/zoxy",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "htms-js",
+          "fullName": "skarab42/htms-js",
+          "stars": 107,
+          "url": "https://github.com/skarab42/htms-js",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "login": "0x0funky",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/148287731?v=4",
+  "htmlUrl": "https://github.com/0x0funky",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 913,
+      "repoCountPrimary": 4,
+      "starsContains": 913,
+      "repoCountContains": 4,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "audioghost-ai",
+          "fullName": "0x0funky/audioghost-ai",
+          "stars": 394,
+          "url": "https://github.com/0x0funky/audioghost-ai",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "TradeVoyage",
+          "fullName": "0x0funky/TradeVoyage",
+          "stars": 182,
+          "url": "https://github.com/0x0funky/TradeVoyage",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vibehq-hub",
+          "fullName": "0x0funky/vibehq-hub",
+          "stars": 182,
+          "url": "https://github.com/0x0funky/vibehq-hub",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "agent-game-forge",
+          "fullName": "0x0funky/agent-game-forge",
+          "stars": 155,
+          "url": "https://github.com/0x0funky/agent-game-forge",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

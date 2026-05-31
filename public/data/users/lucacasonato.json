@@ -1,0 +1,55 @@
+{
+  "login": "lucacasonato",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7829205?v=4",
+  "htmlUrl": "https://github.com/lucacasonato",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1156,
+      "repoCountPrimary": 4,
+      "starsContains": 1156,
+      "repoCountContains": 4,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "deno-puppeteer",
+          "fullName": "lucacasonato/deno-puppeteer",
+          "stars": 458,
+          "url": "https://github.com/lucacasonato/deno-puppeteer",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "now-deno",
+          "fullName": "lucacasonato/now-deno",
+          "stars": 262,
+          "url": "https://github.com/lucacasonato/now-deno",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "dext.ts",
+          "fullName": "lucacasonato/dext.ts",
+          "stars": 239,
+          "url": "https://github.com/lucacasonato/dext.ts",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "esbuild_deno_loader",
+          "fullName": "lucacasonato/esbuild_deno_loader",
+          "stars": 197,
+          "url": "https://github.com/lucacasonato/esbuild_deno_loader",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

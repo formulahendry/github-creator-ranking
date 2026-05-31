@@ -1,0 +1,48 @@
+{
+  "login": "Sean-Bradley",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6302260?v=4",
+  "htmlUrl": "https://github.com/Sean-Bradley",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 939,
+      "repoCountPrimary": 3,
+      "starsContains": 939,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Three.js-TypeScript-Boilerplate",
+          "fullName": "Sean-Bradley/Three.js-TypeScript-Boilerplate",
+          "stars": 587,
+          "url": "https://github.com/Sean-Bradley/Three.js-TypeScript-Boilerplate",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Seans-TypeScript-NodeJS-CRUD-REST-API-Boilerplate",
+          "fullName": "Sean-Bradley/Seans-TypeScript-NodeJS-CRUD-REST-API-Boilerplate",
+          "stars": 178,
+          "url": "https://github.com/Sean-Bradley/Seans-TypeScript-NodeJS-CRUD-REST-API-Boilerplate",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Design-Patterns-In-TypeScript",
+          "fullName": "Sean-Bradley/Design-Patterns-In-TypeScript",
+          "stars": 174,
+          "url": "https://github.com/Sean-Bradley/Design-Patterns-In-TypeScript",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

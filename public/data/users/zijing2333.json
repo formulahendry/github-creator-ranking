@@ -1,0 +1,34 @@
+{
+  "login": "zijing2333",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/121676345?v=4",
+  "htmlUrl": "https://github.com/zijing2333",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 749,
+      "repoCountPrimary": 1,
+      "starsContains": 749,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "CSView",
+          "fullName": "zijing2333/CSView",
+          "stars": 749,
+          "url": "https://github.com/zijing2333/CSView",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

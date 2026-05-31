@@ -1,0 +1,34 @@
+{
+  "login": "decompil3d",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/21011599?v=4",
+  "htmlUrl": "https://github.com/decompil3d",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 393,
+      "repoCountPrimary": 1,
+      "starsContains": 393,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "lovelace-hourly-weather",
+          "fullName": "decompil3d/lovelace-hourly-weather",
+          "stars": 393,
+          "url": "https://github.com/decompil3d/lovelace-hourly-weather",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

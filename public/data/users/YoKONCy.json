@@ -1,0 +1,34 @@
+{
+  "login": "YoKONCy",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/119380992?v=4",
+  "htmlUrl": "https://github.com/YoKONCy",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 135,
+      "repoCountPrimary": 1,
+      "starsContains": 135,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "PeroCore",
+          "fullName": "YoKONCy/PeroCore",
+          "stars": 135,
+          "url": "https://github.com/YoKONCy/PeroCore",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

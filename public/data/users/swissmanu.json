@@ -1,0 +1,34 @@
+{
+  "login": "swissmanu",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/170832?v=4",
+  "htmlUrl": "https://github.com/swissmanu",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 112,
+      "repoCountPrimary": 1,
+      "starsContains": 112,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "rxjs-debugging-for-vscode",
+          "fullName": "swissmanu/rxjs-debugging-for-vscode",
+          "stars": 112,
+          "url": "https://github.com/swissmanu/rxjs-debugging-for-vscode",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

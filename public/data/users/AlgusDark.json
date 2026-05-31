@@ -1,0 +1,34 @@
+{
+  "login": "AlgusDark",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/818856?v=4",
+  "htmlUrl": "https://github.com/AlgusDark",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 674,
+      "repoCountPrimary": 1,
+      "starsContains": 674,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "bloomer",
+          "fullName": "AlgusDark/bloomer",
+          "stars": 674,
+          "url": "https://github.com/AlgusDark/bloomer",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

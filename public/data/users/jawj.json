@@ -1,0 +1,48 @@
+{
+  "login": "jawj",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/141620?v=4",
+  "htmlUrl": "https://github.com/jawj",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1970,
+      "repoCountPrimary": 3,
+      "starsContains": 1970,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "zapatos",
+          "fullName": "jawj/zapatos",
+          "stars": 1401,
+          "url": "https://github.com/jawj/zapatos",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "subtls",
+          "fullName": "jawj/subtls",
+          "stars": 364,
+          "url": "https://github.com/jawj/subtls",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "mostly-ormless",
+          "fullName": "jawj/mostly-ormless",
+          "stars": 205,
+          "url": "https://github.com/jawj/mostly-ormless",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

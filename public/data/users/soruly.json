@@ -1,0 +1,41 @@
+{
+  "login": "soruly",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1979746?v=4",
+  "htmlUrl": "https://github.com/soruly",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 703,
+      "repoCountPrimary": 2,
+      "starsContains": 703,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "trace.moe-telegram-bot",
+          "fullName": "soruly/trace.moe-telegram-bot",
+          "stars": 551,
+          "url": "https://github.com/soruly/trace.moe-telegram-bot",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "trace.moe-api",
+          "fullName": "soruly/trace.moe-api",
+          "stars": 152,
+          "url": "https://github.com/soruly/trace.moe-api",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

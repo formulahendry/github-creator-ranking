@@ -1,0 +1,34 @@
+{
+  "login": "zhcxk1998",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/34026641?v=4",
+  "htmlUrl": "https://github.com/zhcxk1998",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 342,
+      "repoCountPrimary": 1,
+      "starsContains": 342,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "School-Partners",
+          "fullName": "zhcxk1998/School-Partners",
+          "stars": 342,
+          "url": "https://github.com/zhcxk1998/School-Partners",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

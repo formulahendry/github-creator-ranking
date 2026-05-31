@@ -1,0 +1,34 @@
+{
+  "login": "jlarmstrongiv",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/20903247?v=4",
+  "htmlUrl": "https://github.com/jlarmstrongiv",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 201,
+      "repoCountPrimary": 1,
+      "starsContains": 201,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "astro-i18n-aut",
+          "fullName": "jlarmstrongiv/astro-i18n-aut",
+          "stars": 201,
+          "url": "https://github.com/jlarmstrongiv/astro-i18n-aut",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

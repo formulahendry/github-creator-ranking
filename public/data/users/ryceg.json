@@ -1,0 +1,34 @@
+{
+  "login": "ryceg",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/36913739?v=4",
+  "htmlUrl": "https://github.com/ryceg",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 880,
+      "repoCountPrimary": 1,
+      "starsContains": 880,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Eigengrau-s-Essential-Establishment-Generator",
+          "fullName": "ryceg/Eigengrau-s-Essential-Establishment-Generator",
+          "stars": 880,
+          "url": "https://github.com/ryceg/Eigengrau-s-Essential-Establishment-Generator",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

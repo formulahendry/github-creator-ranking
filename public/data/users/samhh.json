@@ -1,0 +1,41 @@
+{
+  "login": "samhh",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6402443?v=4",
+  "htmlUrl": "https://github.com/samhh",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 523,
+      "repoCountPrimary": 2,
+      "starsContains": 523,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "bukubrow-webext",
+          "fullName": "samhh/bukubrow-webext",
+          "stars": 313,
+          "url": "https://github.com/samhh/bukubrow-webext",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "fp-ts-std",
+          "fullName": "samhh/fp-ts-std",
+          "stars": 210,
+          "url": "https://github.com/samhh/fp-ts-std",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

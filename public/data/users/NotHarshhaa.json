@@ -1,0 +1,41 @@
+{
+  "login": "NotHarshhaa",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/112948305?v=4",
+  "htmlUrl": "https://github.com/NotHarshhaa",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 537,
+      "repoCountPrimary": 2,
+      "starsContains": 537,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "devops-cheatsheet",
+          "fullName": "NotHarshhaa/devops-cheatsheet",
+          "stars": 312,
+          "url": "https://github.com/NotHarshhaa/devops-cheatsheet",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "devops-tools",
+          "fullName": "NotHarshhaa/devops-tools",
+          "stars": 225,
+          "url": "https://github.com/NotHarshhaa/devops-tools",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

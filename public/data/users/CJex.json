@@ -1,0 +1,34 @@
+{
+  "login": "CJex",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2967361?v=4",
+  "htmlUrl": "https://github.com/CJex",
+  "location": "China，上海",
+  "countryCode": "CN",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 5837,
+      "repoCountPrimary": 1,
+      "starsContains": 5837,
+      "repoCountContains": 1,
+      "globalRank": 412,
+      "countryRank": 52,
+      "topRepos": [
+        {
+          "name": "regulex",
+          "fullName": "CJex/regulex",
+          "stars": 5837,
+          "url": "https://github.com/CJex/regulex",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

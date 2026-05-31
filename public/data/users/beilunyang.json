@@ -1,0 +1,48 @@
+{
+  "login": "beilunyang",
+  "name": "BeilunYang",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/13795713?v=4",
+  "htmlUrl": "https://github.com/beilunyang",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 4084,
+      "repoCountPrimary": 3,
+      "starsContains": 4084,
+      "repoCountContains": 3,
+      "globalRank": 647,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "moemail",
+          "fullName": "beilunyang/moemail",
+          "stars": 2617,
+          "url": "https://github.com/beilunyang/moemail",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "moepush",
+          "fullName": "beilunyang/moepush",
+          "stars": 1348,
+          "url": "https://github.com/beilunyang/moepush",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "img-mom",
+          "fullName": "beilunyang/img-mom",
+          "stars": 119,
+          "url": "https://github.com/beilunyang/img-mom",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

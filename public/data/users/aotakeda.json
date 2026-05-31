@@ -1,0 +1,41 @@
+{
+  "login": "aotakeda",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/29760526?v=4",
+  "htmlUrl": "https://github.com/aotakeda",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1057,
+      "repoCountPrimary": 2,
+      "starsContains": 1057,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "learn-thing",
+          "fullName": "aotakeda/learn-thing",
+          "stars": 571,
+          "url": "https://github.com/aotakeda/learn-thing",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "trabalhar-na-gringa",
+          "fullName": "aotakeda/trabalhar-na-gringa",
+          "stars": 486,
+          "url": "https://github.com/aotakeda/trabalhar-na-gringa",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

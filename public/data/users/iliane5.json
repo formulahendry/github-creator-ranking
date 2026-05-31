@@ -1,0 +1,34 @@
+{
+  "login": "iliane5",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/88251528?v=4",
+  "htmlUrl": "https://github.com/iliane5",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2415,
+      "repoCountPrimary": 1,
+      "starsContains": 2415,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "meridian",
+          "fullName": "iliane5/meridian",
+          "stars": 2415,
+          "url": "https://github.com/iliane5/meridian",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

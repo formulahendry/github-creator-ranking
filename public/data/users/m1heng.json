@@ -1,0 +1,41 @@
+{
+  "login": "m1heng",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/18018422?v=4",
+  "htmlUrl": "https://github.com/m1heng",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 4847,
+      "repoCountPrimary": 2,
+      "starsContains": 4847,
+      "repoCountContains": 2,
+      "globalRank": 524,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "clawdbot-feishu",
+          "fullName": "m1heng/clawdbot-feishu",
+          "stars": 4287,
+          "url": "https://github.com/m1heng/clawdbot-feishu",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "claude-plugin-weixin",
+          "fullName": "m1heng/claude-plugin-weixin",
+          "stars": 560,
+          "url": "https://github.com/m1heng/claude-plugin-weixin",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

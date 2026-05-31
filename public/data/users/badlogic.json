@@ -1,0 +1,62 @@
+{
+  "login": "badlogic",
+  "name": "Mario Zechner",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/514052?v=4",
+  "htmlUrl": "https://github.com/badlogic",
+  "location": "0xa000",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3558,
+      "repoCountPrimary": 8,
+      "starsContains": 3558,
+      "repoCountContains": 8,
+      "globalRank": 752,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "lemmy",
+          "fullName": "badlogic/lemmy",
+          "stars": 1620,
+          "url": "https://github.com/badlogic/lemmy",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "sitegeist",
+          "fullName": "badlogic/sitegeist",
+          "stars": 630,
+          "url": "https://github.com/badlogic/sitegeist",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "cchistory",
+          "fullName": "badlogic/cchistory",
+          "stars": 445,
+          "url": "https://github.com/badlogic/cchistory",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "pi-telegram",
+          "fullName": "badlogic/pi-telegram",
+          "stars": 218,
+          "url": "https://github.com/badlogic/pi-telegram",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "gmcli",
+          "fullName": "badlogic/gmcli",
+          "stars": 213,
+          "url": "https://github.com/badlogic/gmcli",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

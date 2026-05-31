@@ -1,0 +1,62 @@
+{
+  "login": "Julien-R44",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/8337858?v=4",
+  "htmlUrl": "https://github.com/Julien-R44",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1927,
+      "repoCountPrimary": 8,
+      "starsContains": 1927,
+      "repoCountContains": 8,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "bentocache",
+          "fullName": "Julien-R44/bentocache",
+          "stars": 644,
+          "url": "https://github.com/Julien-R44/bentocache",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "verrou",
+          "fullName": "Julien-R44/verrou",
+          "stars": 237,
+          "url": "https://github.com/Julien-R44/verrou",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vite-plugin-validate-env",
+          "fullName": "Julien-R44/vite-plugin-validate-env",
+          "stars": 231,
+          "url": "https://github.com/Julien-R44/vite-plugin-validate-env",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "hot-hook",
+          "fullName": "Julien-R44/hot-hook",
+          "stars": 228,
+          "url": "https://github.com/Julien-R44/hot-hook",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "tuyau",
+          "fullName": "Julien-R44/tuyau",
+          "stars": 212,
+          "url": "https://github.com/Julien-R44/tuyau",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

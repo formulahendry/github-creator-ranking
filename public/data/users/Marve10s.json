@@ -1,0 +1,34 @@
+{
+  "login": "Marve10s",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/126423069?v=4",
+  "htmlUrl": "https://github.com/Marve10s",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 530,
+      "repoCountPrimary": 1,
+      "starsContains": 530,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Better-Fullstack",
+          "fullName": "Marve10s/Better-Fullstack",
+          "stars": 530,
+          "url": "https://github.com/Marve10s/Better-Fullstack",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

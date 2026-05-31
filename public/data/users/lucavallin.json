@@ -1,0 +1,34 @@
+{
+  "login": "lucavallin",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/14332663?v=4",
+  "htmlUrl": "https://github.com/lucavallin",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 425,
+      "repoCountPrimary": 1,
+      "starsContains": 425,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "verto",
+          "fullName": "lucavallin/verto",
+          "stars": 425,
+          "url": "https://github.com/lucavallin/verto",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

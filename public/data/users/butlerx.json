@@ -1,0 +1,34 @@
+{
+  "login": "butlerx",
+  "name": "Cian Butler",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/867930?v=4",
+  "htmlUrl": "https://github.com/butlerx",
+  "location": "Dublin, Ireland",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 5294,
+      "repoCountPrimary": 1,
+      "starsContains": 5294,
+      "repoCountContains": 1,
+      "globalRank": 467,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "wetty",
+          "fullName": "butlerx/wetty",
+          "stars": 5294,
+          "url": "https://github.com/butlerx/wetty",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

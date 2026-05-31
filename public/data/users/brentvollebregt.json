@@ -1,0 +1,34 @@
+{
+  "login": "brentvollebregt",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/19944838?v=4",
+  "htmlUrl": "https://github.com/brentvollebregt",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 113,
+      "repoCountPrimary": 1,
+      "starsContains": 113,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "whos-on-my-network",
+          "fullName": "brentvollebregt/whos-on-my-network",
+          "stars": 113,
+          "url": "https://github.com/brentvollebregt/whos-on-my-network",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

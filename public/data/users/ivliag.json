@@ -1,0 +1,55 @@
+{
+  "login": "ivliag",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2974415?v=4",
+  "htmlUrl": "https://github.com/ivliag",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 793,
+      "repoCountPrimary": 4,
+      "starsContains": 793,
+      "repoCountContains": 4,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "handy-ones",
+          "fullName": "ivliag/handy-ones",
+          "stars": 263,
+          "url": "https://github.com/ivliag/handy-ones",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "browser-extension-firebase-persistence",
+          "fullName": "ivliag/browser-extension-firebase-persistence",
+          "stars": 192,
+          "url": "https://github.com/ivliag/browser-extension-firebase-persistence",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "multi-debounce",
+          "fullName": "ivliag/multi-debounce",
+          "stars": 185,
+          "url": "https://github.com/ivliag/multi-debounce",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "use-react-query-subscribe",
+          "fullName": "ivliag/use-react-query-subscribe",
+          "stars": 153,
+          "url": "https://github.com/ivliag/use-react-query-subscribe",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

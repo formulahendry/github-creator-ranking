@@ -1,0 +1,41 @@
+{
+  "login": "fdaciuk",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/487669?v=4",
+  "htmlUrl": "https://github.com/fdaciuk",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 286,
+      "repoCountPrimary": 2,
+      "starsContains": 286,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "conduit-api",
+          "fullName": "fdaciuk/conduit-api",
+          "stars": 181,
+          "url": "https://github.com/fdaciuk/conduit-api",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "boilerplate-vite-react",
+          "fullName": "fdaciuk/boilerplate-vite-react",
+          "stars": 105,
+          "url": "https://github.com/fdaciuk/boilerplate-vite-react",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

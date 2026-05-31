@@ -1,0 +1,34 @@
+{
+  "login": "MauriceNino",
+  "name": "Mauz",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/18658092?v=4",
+  "htmlUrl": "https://github.com/MauriceNino",
+  "location": "Linz, Austria",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3451,
+      "repoCountPrimary": 1,
+      "starsContains": 3451,
+      "repoCountContains": 1,
+      "globalRank": 782,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "dashdot",
+          "fullName": "MauriceNino/dashdot",
+          "stars": 3451,
+          "url": "https://github.com/MauriceNino/dashdot",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

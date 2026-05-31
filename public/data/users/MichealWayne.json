@@ -1,0 +1,41 @@
+{
+  "login": "MichealWayne",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/16474680?v=4",
+  "htmlUrl": "https://github.com/MichealWayne",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 387,
+      "repoCountPrimary": 2,
+      "starsContains": 387,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "fe-tools",
+          "fullName": "MichealWayne/fe-tools",
+          "stars": 208,
+          "url": "https://github.com/MichealWayne/fe-tools",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "FundCharts",
+          "fullName": "MichealWayne/FundCharts",
+          "stars": 179,
+          "url": "https://github.com/MichealWayne/FundCharts",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

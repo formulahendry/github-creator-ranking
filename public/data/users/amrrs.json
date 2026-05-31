@@ -1,0 +1,41 @@
+{
+  "login": "amrrs",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5347322?v=4",
+  "htmlUrl": "https://github.com/amrrs",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 532,
+      "repoCountPrimary": 2,
+      "starsContains": 532,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "fal-nanobanana-studio",
+          "fullName": "amrrs/fal-nanobanana-studio",
+          "stars": 343,
+          "url": "https://github.com/amrrs/fal-nanobanana-studio",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "selfieat-nanobanana-pro",
+          "fullName": "amrrs/selfieat-nanobanana-pro",
+          "stars": 189,
+          "url": "https://github.com/amrrs/selfieat-nanobanana-pro",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "login": "axetroy",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/9758711?v=4",
+  "htmlUrl": "https://github.com/axetroy",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1181,
+      "repoCountPrimary": 4,
+      "starsContains": 1181,
+      "repoCountContains": 4,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "anti-redirect",
+          "fullName": "axetroy/anti-redirect",
+          "stars": 499,
+          "url": "https://github.com/axetroy/anti-redirect",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vm.js",
+          "fullName": "axetroy/vm.js",
+          "stars": 437,
+          "url": "https://github.com/axetroy/vm.js",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vscode-changelog-generator",
+          "fullName": "axetroy/vscode-changelog-generator",
+          "stars": 144,
+          "url": "https://github.com/axetroy/vscode-changelog-generator",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vscode-deno",
+          "fullName": "axetroy/vscode-deno",
+          "stars": 101,
+          "url": "https://github.com/axetroy/vscode-deno",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

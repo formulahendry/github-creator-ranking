@@ -1,0 +1,41 @@
+{
+  "login": "kristianfreeman",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/922353?v=4",
+  "htmlUrl": "https://github.com/kristianfreeman",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 295,
+      "repoCountPrimary": 2,
+      "starsContains": 295,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "lilredirector",
+          "fullName": "kristianfreeman/lilredirector",
+          "stars": 161,
+          "url": "https://github.com/kristianfreeman/lilredirector",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "cloudflare-retrieval-augmented-generation-example",
+          "fullName": "kristianfreeman/cloudflare-retrieval-augmented-generation-example",
+          "stars": 134,
+          "url": "https://github.com/kristianfreeman/cloudflare-retrieval-augmented-generation-example",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

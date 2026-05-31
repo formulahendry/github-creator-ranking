@@ -1,0 +1,34 @@
+{
+  "login": "EA1FUO",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/264391611?v=4",
+  "htmlUrl": "https://github.com/EA1FUO",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 224,
+      "repoCountPrimary": 1,
+      "starsContains": 224,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "AntennaSim",
+          "fullName": "EA1FUO/AntennaSim",
+          "stars": 224,
+          "url": "https://github.com/EA1FUO/AntennaSim",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

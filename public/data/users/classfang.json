@@ -1,0 +1,34 @@
+{
+  "login": "classfang",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/27616248?v=4",
+  "htmlUrl": "https://github.com/classfang",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 506,
+      "repoCountPrimary": 1,
+      "starsContains": 506,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ssh-mcp-server",
+          "fullName": "classfang/ssh-mcp-server",
+          "stars": 506,
+          "url": "https://github.com/classfang/ssh-mcp-server",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

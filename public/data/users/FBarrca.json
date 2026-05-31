@@ -1,0 +1,34 @@
+{
+  "login": "FBarrca",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/60709314?v=4",
+  "htmlUrl": "https://github.com/FBarrca",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 287,
+      "repoCountPrimary": 1,
+      "starsContains": 287,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "obsidian-handwritten-notes",
+          "fullName": "FBarrca/obsidian-handwritten-notes",
+          "stars": 287,
+          "url": "https://github.com/FBarrca/obsidian-handwritten-notes",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

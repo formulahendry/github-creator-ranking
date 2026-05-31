@@ -1,0 +1,62 @@
+{
+  "login": "nanxiaobei",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/13369712?v=4",
+  "htmlUrl": "https://github.com/nanxiaobei",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1926,
+      "repoCountPrimary": 6,
+      "starsContains": 1926,
+      "repoCountContains": 6,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "antd-img-crop",
+          "fullName": "nanxiaobei/antd-img-crop",
+          "stars": 545,
+          "url": "https://github.com/nanxiaobei/antd-img-crop",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "resso",
+          "fullName": "nanxiaobei/resso",
+          "stars": 535,
+          "url": "https://github.com/nanxiaobei/resso",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "flooks",
+          "fullName": "nanxiaobei/flooks",
+          "stars": 354,
+          "url": "https://github.com/nanxiaobei/flooks",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ant-plus",
+          "fullName": "nanxiaobei/ant-plus",
+          "stars": 281,
+          "url": "https://github.com/nanxiaobei/ant-plus",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "solid-react",
+          "fullName": "nanxiaobei/solid-react",
+          "stars": 108,
+          "url": "https://github.com/nanxiaobei/solid-react",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

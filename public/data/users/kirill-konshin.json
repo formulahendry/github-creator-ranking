@@ -1,0 +1,41 @@
+{
+  "login": "kirill-konshin",
+  "name": "Kirill Konshin",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1530410?v=4",
+  "htmlUrl": "https://github.com/kirill-konshin",
+  "location": "San Francisco, California, US",
+  "countryCode": "US",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2806,
+      "repoCountPrimary": 2,
+      "starsContains": 2806,
+      "repoCountContains": 2,
+      "globalRank": 955,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "next-redux-wrapper",
+          "fullName": "kirill-konshin/next-redux-wrapper",
+          "stars": 2677,
+          "url": "https://github.com/kirill-konshin/next-redux-wrapper",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "next-electron-rsc",
+          "fullName": "kirill-konshin/next-electron-rsc",
+          "stars": 129,
+          "url": "https://github.com/kirill-konshin/next-electron-rsc",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

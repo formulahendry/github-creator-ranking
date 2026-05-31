@@ -1,0 +1,55 @@
+{
+  "login": "mProjectsCode",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/61602848?v=4",
+  "htmlUrl": "https://github.com/mProjectsCode",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1810,
+      "repoCountPrimary": 4,
+      "starsContains": 1810,
+      "repoCountContains": 4,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "obsidian-meta-bind-plugin",
+          "fullName": "mProjectsCode/obsidian-meta-bind-plugin",
+          "stars": 952,
+          "url": "https://github.com/mProjectsCode/obsidian-meta-bind-plugin",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "obsidian-media-db-plugin",
+          "fullName": "mProjectsCode/obsidian-media-db-plugin",
+          "stars": 452,
+          "url": "https://github.com/mProjectsCode/obsidian-media-db-plugin",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "obsidian-shiki-plugin",
+          "fullName": "mProjectsCode/obsidian-shiki-plugin",
+          "stars": 221,
+          "url": "https://github.com/mProjectsCode/obsidian-shiki-plugin",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "obsidian-js-engine-plugin",
+          "fullName": "mProjectsCode/obsidian-js-engine-plugin",
+          "stars": 185,
+          "url": "https://github.com/mProjectsCode/obsidian-js-engine-plugin",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

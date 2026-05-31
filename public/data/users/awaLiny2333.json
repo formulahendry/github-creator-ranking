@@ -1,0 +1,34 @@
+{
+  "login": "awaLiny2333",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/163953777?v=4",
+  "htmlUrl": "https://github.com/awaLiny2333",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 271,
+      "repoCountPrimary": 1,
+      "starsContains": 271,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "LinysBrowser_NEXT",
+          "fullName": "awaLiny2333/LinysBrowser_NEXT",
+          "stars": 271,
+          "url": "https://github.com/awaLiny2333/LinysBrowser_NEXT",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

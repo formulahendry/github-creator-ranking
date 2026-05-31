@@ -1,0 +1,48 @@
+{
+  "login": "CaoMeiYouRen",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/40430746?v=4",
+  "htmlUrl": "https://github.com/CaoMeiYouRen",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 611,
+      "repoCountPrimary": 3,
+      "starsContains": 611,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "caomei-auth",
+          "fullName": "CaoMeiYouRen/caomei-auth",
+          "stars": 215,
+          "url": "https://github.com/CaoMeiYouRen/caomei-auth",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "push-all-in-one",
+          "fullName": "CaoMeiYouRen/push-all-in-one",
+          "stars": 204,
+          "url": "https://github.com/CaoMeiYouRen/push-all-in-one",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "rss-impact-server",
+          "fullName": "CaoMeiYouRen/rss-impact-server",
+          "stars": 192,
+          "url": "https://github.com/CaoMeiYouRen/rss-impact-server",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

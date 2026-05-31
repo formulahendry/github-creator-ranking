@@ -1,0 +1,48 @@
+{
+  "login": "paularmstrong",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/33297?v=4",
+  "htmlUrl": "https://github.com/paularmstrong",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 947,
+      "repoCountPrimary": 3,
+      "starsContains": 947,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "build-tracker",
+          "fullName": "paularmstrong/build-tracker",
+          "stars": 434,
+          "url": "https://github.com/paularmstrong/build-tracker",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-component-benchmark",
+          "fullName": "paularmstrong/react-component-benchmark",
+          "stars": 381,
+          "url": "https://github.com/paularmstrong/react-component-benchmark",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "onerepo",
+          "fullName": "paularmstrong/onerepo",
+          "stars": 132,
+          "url": "https://github.com/paularmstrong/onerepo",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

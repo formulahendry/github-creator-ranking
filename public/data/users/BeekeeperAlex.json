@@ -1,0 +1,34 @@
+{
+  "login": "BeekeeperAlex",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/874394?v=4",
+  "htmlUrl": "https://github.com/BeekeeperAlex",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 139,
+      "repoCountPrimary": 1,
+      "starsContains": 139,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "angular-spinners",
+          "fullName": "BeekeeperAlex/angular-spinners",
+          "stars": 139,
+          "url": "https://github.com/BeekeeperAlex/angular-spinners",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

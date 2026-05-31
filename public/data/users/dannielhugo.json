@@ -1,0 +1,34 @@
+{
+  "login": "dannielhugo",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/4249245?v=4",
+  "htmlUrl": "https://github.com/dannielhugo",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 192,
+      "repoCountPrimary": 1,
+      "starsContains": 192,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "typescript-clean-architecture",
+          "fullName": "dannielhugo/typescript-clean-architecture",
+          "stars": 192,
+          "url": "https://github.com/dannielhugo/typescript-clean-architecture",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

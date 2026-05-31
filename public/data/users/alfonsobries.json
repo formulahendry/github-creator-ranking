@@ -1,0 +1,34 @@
+{
+  "login": "alfonsobries",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/17262776?v=4",
+  "htmlUrl": "https://github.com/alfonsobries",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2165,
+      "repoCountPrimary": 1,
+      "starsContains": 2165,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vue-tailwind",
+          "fullName": "alfonsobries/vue-tailwind",
+          "stars": 2165,
+          "url": "https://github.com/alfonsobries/vue-tailwind",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

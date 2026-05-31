@@ -1,0 +1,34 @@
+{
+  "login": "interstellard",
+  "name": "H",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/82041474?v=4",
+  "htmlUrl": "https://github.com/interstellard",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 6451,
+      "repoCountPrimary": 1,
+      "starsContains": 6451,
+      "repoCountContains": 1,
+      "globalRank": 361,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "chatgpt-advanced",
+          "fullName": "interstellard/chatgpt-advanced",
+          "stars": 6451,
+          "url": "https://github.com/interstellard/chatgpt-advanced",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

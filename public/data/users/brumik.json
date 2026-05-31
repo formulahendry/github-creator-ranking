@@ -1,0 +1,34 @@
+{
+  "login": "brumik",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/8531681?v=4",
+  "htmlUrl": "https://github.com/brumik",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 176,
+      "repoCountPrimary": 1,
+      "starsContains": 176,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "obsidian-ollama-chat",
+          "fullName": "brumik/obsidian-ollama-chat",
+          "stars": 176,
+          "url": "https://github.com/brumik/obsidian-ollama-chat",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

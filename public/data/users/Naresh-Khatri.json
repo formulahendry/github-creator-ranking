@@ -1,0 +1,34 @@
+{
+  "login": "Naresh-Khatri",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/32219857?v=4",
+  "htmlUrl": "https://github.com/Naresh-Khatri",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1090,
+      "repoCountPrimary": 1,
+      "starsContains": 1090,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "3d-portfolio",
+          "fullName": "Naresh-Khatri/3d-portfolio",
+          "stars": 1090,
+          "url": "https://github.com/Naresh-Khatri/3d-portfolio",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "AmanVarshney01",
+  "name": "Aman Varshney",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/45312299?v=4",
+  "htmlUrl": "https://github.com/AmanVarshney01",
+  "location": "India",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 5421,
+      "repoCountPrimary": 1,
+      "starsContains": 5421,
+      "repoCountContains": 1,
+      "globalRank": 456,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "create-better-t-stack",
+          "fullName": "AmanVarshney01/create-better-t-stack",
+          "stars": 5421,
+          "url": "https://github.com/AmanVarshney01/create-better-t-stack",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

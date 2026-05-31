@@ -1,0 +1,55 @@
+{
+  "login": "ascoders",
+  "name": "黄子毅",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7970947?v=4",
+  "htmlUrl": "https://github.com/ascoders",
+  "location": "Hangzhou, China",
+  "countryCode": "CN",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 4915,
+      "repoCountPrimary": 4,
+      "starsContains": 4915,
+      "repoCountContains": 4,
+      "globalRank": 517,
+      "countryRank": 65,
+      "topRepos": [
+        {
+          "name": "react-native-image-viewer",
+          "fullName": "ascoders/react-native-image-viewer",
+          "stars": 2445,
+          "url": "https://github.com/ascoders/react-native-image-viewer",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "gaea-editor",
+          "fullName": "ascoders/gaea-editor",
+          "stars": 1352,
+          "url": "https://github.com/ascoders/gaea-editor",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-native-image-zoom",
+          "fullName": "ascoders/react-native-image-zoom",
+          "stars": 638,
+          "url": "https://github.com/ascoders/react-native-image-zoom",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "syntax-parser",
+          "fullName": "ascoders/syntax-parser",
+          "stars": 480,
+          "url": "https://github.com/ascoders/syntax-parser",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

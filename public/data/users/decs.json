@@ -1,0 +1,34 @@
+{
+  "login": "decs",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/601381?v=4",
+  "htmlUrl": "https://github.com/decs",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 452,
+      "repoCountPrimary": 1,
+      "starsContains": 452,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "typeschema",
+          "fullName": "decs/typeschema",
+          "stars": 452,
+          "url": "https://github.com/decs/typeschema",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

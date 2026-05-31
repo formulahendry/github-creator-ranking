@@ -1,0 +1,34 @@
+{
+  "login": "LigphiDonk",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/195508603?v=4",
+  "htmlUrl": "https://github.com/LigphiDonk",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 603,
+      "repoCountPrimary": 1,
+      "starsContains": 603,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Oh-my--paper",
+          "fullName": "LigphiDonk/Oh-my--paper",
+          "stars": 603,
+          "url": "https://github.com/LigphiDonk/Oh-my--paper",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

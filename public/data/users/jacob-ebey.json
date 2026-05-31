@@ -1,0 +1,62 @@
+{
+  "login": "jacob-ebey",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/12063586?v=4",
+  "htmlUrl": "https://github.com/jacob-ebey",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1445,
+      "repoCountPrimary": 6,
+      "starsContains": 1445,
+      "repoCountContains": 6,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "remix-ecommerce",
+          "fullName": "jacob-ebey/remix-ecommerce",
+          "stars": 498,
+          "url": "https://github.com/jacob-ebey/remix-ecommerce",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "turbo-stream",
+          "fullName": "jacob-ebey/turbo-stream",
+          "stars": 317,
+          "url": "https://github.com/jacob-ebey/turbo-stream",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "remix-cloudflare-demo",
+          "fullName": "jacob-ebey/remix-cloudflare-demo",
+          "stars": 201,
+          "url": "https://github.com/jacob-ebey/remix-cloudflare-demo",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "remix-shadcn",
+          "fullName": "jacob-ebey/remix-shadcn",
+          "stars": 164,
+          "url": "https://github.com/jacob-ebey/remix-shadcn",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "federated-rsc",
+          "fullName": "jacob-ebey/federated-rsc",
+          "stars": 160,
+          "url": "https://github.com/jacob-ebey/federated-rsc",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

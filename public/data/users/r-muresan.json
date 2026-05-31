@@ -1,0 +1,34 @@
+{
+  "login": "r-muresan",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/56707028?v=4",
+  "htmlUrl": "https://github.com/r-muresan",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 306,
+      "repoCountPrimary": 1,
+      "starsContains": 306,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "screen.vision",
+          "fullName": "r-muresan/screen.vision",
+          "stars": 306,
+          "url": "https://github.com/r-muresan/screen.vision",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

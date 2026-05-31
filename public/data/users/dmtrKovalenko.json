@@ -1,0 +1,41 @@
+{
+  "login": "dmtrKovalenko",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/16926049?v=4",
+  "htmlUrl": "https://github.com/dmtrKovalenko",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 961,
+      "repoCountPrimary": 2,
+      "starsContains": 961,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "date-io",
+          "fullName": "dmtrKovalenko/date-io",
+          "stars": 754,
+          "url": "https://github.com/dmtrKovalenko/date-io",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "eslint-plugin-pretty-imports",
+          "fullName": "dmtrKovalenko/eslint-plugin-pretty-imports",
+          "stars": 207,
+          "url": "https://github.com/dmtrKovalenko/eslint-plugin-pretty-imports",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

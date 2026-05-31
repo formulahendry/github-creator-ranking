@@ -1,0 +1,55 @@
+{
+  "login": "AmyangXYZ",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/23499774?v=4",
+  "htmlUrl": "https://github.com/AmyangXYZ",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1436,
+      "repoCountPrimary": 4,
+      "starsContains": 1436,
+      "repoCountContains": 4,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "MiKaPo",
+          "fullName": "AmyangXYZ/MiKaPo",
+          "stars": 593,
+          "url": "https://github.com/AmyangXYZ/MiKaPo",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "reze-studio",
+          "fullName": "AmyangXYZ/reze-studio",
+          "stars": 399,
+          "url": "https://github.com/AmyangXYZ/reze-studio",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "PoPo",
+          "fullName": "AmyangXYZ/PoPo",
+          "stars": 263,
+          "url": "https://github.com/AmyangXYZ/PoPo",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "reze-engine",
+          "fullName": "AmyangXYZ/reze-engine",
+          "stars": 181,
+          "url": "https://github.com/AmyangXYZ/reze-engine",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

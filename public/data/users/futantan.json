@@ -1,0 +1,41 @@
+{
+  "login": "futantan",
+  "name": "Tantan Fu",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6268441?v=4",
+  "htmlUrl": "https://github.com/futantan",
+  "location": "Sydney",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 4103,
+      "repoCountPrimary": 2,
+      "starsContains": 4103,
+      "repoCountContains": 2,
+      "globalRank": 641,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "OpenGpt",
+          "fullName": "futantan/OpenGpt",
+          "stars": 3909,
+          "url": "https://github.com/futantan/OpenGpt",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "agent-skills.md",
+          "fullName": "futantan/agent-skills.md",
+          "stars": 194,
+          "url": "https://github.com/futantan/agent-skills.md",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

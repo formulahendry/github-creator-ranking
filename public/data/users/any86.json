@@ -1,0 +1,55 @@
+{
+  "login": "any86",
+  "name": "铁皮饭盒",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/8264787?v=4",
+  "htmlUrl": "https://github.com/any86",
+  "location": "哈尔滨",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 10238,
+      "repoCountPrimary": 4,
+      "starsContains": 10238,
+      "repoCountContains": 4,
+      "globalRank": 216,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "any-rule",
+          "fullName": "any86/any-rule",
+          "stars": 8653,
+          "url": "https://github.com/any86/any-rule",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "any-touch",
+          "fullName": "any86/any-touch",
+          "stars": 1243,
+          "url": "https://github.com/any86/any-touch",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "be-full",
+          "fullName": "any86/be-full",
+          "stars": 196,
+          "url": "https://github.com/any86/be-full",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vue-create-root",
+          "fullName": "any86/vue-create-root",
+          "stars": 146,
+          "url": "https://github.com/any86/vue-create-root",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

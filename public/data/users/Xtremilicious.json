@@ -1,0 +1,34 @@
+{
+  "login": "Xtremilicious",
+  "name": "Nilarjun Das",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/47635607?v=4",
+  "htmlUrl": "https://github.com/Xtremilicious",
+  "location": "India",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 5897,
+      "repoCountPrimary": 1,
+      "starsContains": 5897,
+      "repoCountContains": 1,
+      "globalRank": 407,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "projectlearn-project-based-learning",
+          "fullName": "Xtremilicious/projectlearn-project-based-learning",
+          "stars": 5897,
+          "url": "https://github.com/Xtremilicious/projectlearn-project-based-learning",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

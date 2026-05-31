@@ -1,0 +1,34 @@
+{
+  "login": "darrenhinde",
+  "name": "Darren Hinde",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/107584450?v=4",
+  "htmlUrl": "https://github.com/darrenhinde",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 4191,
+      "repoCountPrimary": 1,
+      "starsContains": 4191,
+      "repoCountContains": 1,
+      "globalRank": 622,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "OpenAgentsControl",
+          "fullName": "darrenhinde/OpenAgentsControl",
+          "stars": 4191,
+          "url": "https://github.com/darrenhinde/OpenAgentsControl",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

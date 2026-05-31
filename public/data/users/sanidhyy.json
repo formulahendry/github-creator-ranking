@@ -1,0 +1,62 @@
+{
+  "login": "sanidhyy",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/71302066?v=4",
+  "htmlUrl": "https://github.com/sanidhyy",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1644,
+      "repoCountPrimary": 6,
+      "starsContains": 1644,
+      "repoCountContains": 6,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "duolingo-clone",
+          "fullName": "sanidhyy/duolingo-clone",
+          "stars": 554,
+          "url": "https://github.com/sanidhyy/duolingo-clone",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "space-portfolio",
+          "fullName": "sanidhyy/space-portfolio",
+          "stars": 459,
+          "url": "https://github.com/sanidhyy/space-portfolio",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "3d-portfolio",
+          "fullName": "sanidhyy/3d-portfolio",
+          "stars": 292,
+          "url": "https://github.com/sanidhyy/3d-portfolio",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "next-portfolio",
+          "fullName": "sanidhyy/next-portfolio",
+          "stars": 121,
+          "url": "https://github.com/sanidhyy/next-portfolio",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "game-website",
+          "fullName": "sanidhyy/game-website",
+          "stars": 116,
+          "url": "https://github.com/sanidhyy/game-website",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

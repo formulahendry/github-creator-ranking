@@ -1,0 +1,41 @@
+{
+  "login": "Melkeydev",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/53410236?v=4",
+  "htmlUrl": "https://github.com/Melkeydev",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 379,
+      "repoCountPrimary": 2,
+      "starsContains": 379,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "astrostation",
+          "fullName": "Melkeydev/astrostation",
+          "stars": 257,
+          "url": "https://github.com/Melkeydev/astrostation",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "yappr",
+          "fullName": "Melkeydev/yappr",
+          "stars": 122,
+          "url": "https://github.com/Melkeydev/yappr",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

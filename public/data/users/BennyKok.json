@@ -1,0 +1,41 @@
+{
+  "login": "BennyKok",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/18395202?v=4",
+  "htmlUrl": "https://github.com/BennyKok",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1686,
+      "repoCountPrimary": 2,
+      "starsContains": 1686,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "comfyui-deploy",
+          "fullName": "BennyKok/comfyui-deploy",
+          "stars": 1516,
+          "url": "https://github.com/BennyKok/comfyui-deploy",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "comfyui-deploy-next-example",
+          "fullName": "BennyKok/comfyui-deploy-next-example",
+          "stars": 170,
+          "url": "https://github.com/BennyKok/comfyui-deploy-next-example",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

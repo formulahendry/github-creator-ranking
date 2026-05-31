@@ -1,0 +1,62 @@
+{
+  "login": "hustcc",
+  "name": "hustcc",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7856674?v=4",
+  "htmlUrl": "https://github.com/hustcc",
+  "location": "HangZhou, China",
+  "countryCode": "CN",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 12575,
+      "repoCountPrimary": 8,
+      "starsContains": 12575,
+      "repoCountContains": 8,
+      "globalRank": 163,
+      "countryRank": 17,
+      "topRepos": [
+        {
+          "name": "timeago.js",
+          "fullName": "hustcc/timeago.js",
+          "stars": 5377,
+          "url": "https://github.com/hustcc/timeago.js",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "echarts-for-react",
+          "fullName": "hustcc/echarts-for-react",
+          "stars": 4977,
+          "url": "https://github.com/hustcc/echarts-for-react",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "mcp-mermaid",
+          "fullName": "hustcc/mcp-mermaid",
+          "stars": 571,
+          "url": "https://github.com/hustcc/mcp-mermaid",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "onfire.js",
+          "fullName": "hustcc/onfire.js",
+          "stars": 498,
+          "url": "https://github.com/hustcc/onfire.js",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "timeago-react",
+          "fullName": "hustcc/timeago-react",
+          "stars": 433,
+          "url": "https://github.com/hustcc/timeago-react",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

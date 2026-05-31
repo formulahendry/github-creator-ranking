@@ -1,0 +1,48 @@
+{
+  "login": "uixmat",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/4294822?v=4",
+  "htmlUrl": "https://github.com/uixmat",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1765,
+      "repoCountPrimary": 3,
+      "starsContains": 1765,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "onborda",
+          "fullName": "uixmat/onborda",
+          "stars": 1386,
+          "url": "https://github.com/uixmat/onborda",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "firestarta",
+          "fullName": "uixmat/firestarta",
+          "stars": 244,
+          "url": "https://github.com/uixmat/firestarta",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "shadcn-country-dropdown",
+          "fullName": "uixmat/shadcn-country-dropdown",
+          "stars": 135,
+          "url": "https://github.com/uixmat/shadcn-country-dropdown",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

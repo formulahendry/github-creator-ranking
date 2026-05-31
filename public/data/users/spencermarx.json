@@ -1,0 +1,34 @@
+{
+  "login": "spencermarx",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/39569555?v=4",
+  "htmlUrl": "https://github.com/spencermarx",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 200,
+      "repoCountPrimary": 1,
+      "starsContains": 200,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "open-code-review",
+          "fullName": "spencermarx/open-code-review",
+          "stars": 200,
+          "url": "https://github.com/spencermarx/open-code-review",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

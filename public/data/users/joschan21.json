@@ -1,0 +1,62 @@
+{
+  "login": "joschan21",
+  "name": "Joscha Neske",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/101584158?v=4",
+  "htmlUrl": "https://github.com/joschan21",
+  "location": "Germany",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 12998,
+      "repoCountPrimary": 14,
+      "starsContains": 12998,
+      "repoCountContains": 14,
+      "globalRank": 156,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "digitalhippo",
+          "fullName": "joschan21/digitalhippo",
+          "stars": 3870,
+          "url": "https://github.com/joschan21/digitalhippo",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "quill",
+          "fullName": "joschan21/quill",
+          "stars": 2004,
+          "url": "https://github.com/joschan21/quill",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "profanity.dev",
+          "fullName": "joschan21/profanity.dev",
+          "stars": 1469,
+          "url": "https://github.com/joschan21/profanity.dev",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "breadit",
+          "fullName": "joschan21/breadit",
+          "stars": 1116,
+          "url": "https://github.com/joschan21/breadit",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "nextjs-realtime-chat",
+          "fullName": "joschan21/nextjs-realtime-chat",
+          "stars": 1007,
+          "url": "https://github.com/joschan21/nextjs-realtime-chat",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

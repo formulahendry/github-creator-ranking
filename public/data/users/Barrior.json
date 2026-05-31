@@ -1,0 +1,34 @@
+{
+  "login": "Barrior",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/14271245?v=4",
+  "htmlUrl": "https://github.com/Barrior",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 481,
+      "repoCountPrimary": 1,
+      "starsContains": 481,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "JParticles",
+          "fullName": "Barrior/JParticles",
+          "stars": 481,
+          "url": "https://github.com/Barrior/JParticles",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

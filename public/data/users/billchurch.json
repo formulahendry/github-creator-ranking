@@ -1,0 +1,34 @@
+{
+  "login": "billchurch",
+  "name": "Bill Church",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1668075?v=4",
+  "htmlUrl": "https://github.com/billchurch",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2727,
+      "repoCountPrimary": 1,
+      "starsContains": 2727,
+      "repoCountContains": 1,
+      "globalRank": 982,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "webssh2",
+          "fullName": "billchurch/webssh2",
+          "stars": 2727,
+          "url": "https://github.com/billchurch/webssh2",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

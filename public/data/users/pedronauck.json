@@ -1,11 +1,11 @@
 {
   "login": "pedronauck",
-  "name": null,
+  "name": "Pedro Nauck",
   "avatarUrl": "https://avatars.githubusercontent.com/u/2029172?v=4",
   "htmlUrl": "https://github.com/pedronauck",
-  "location": null,
+  "location": "San Francisco",
   "countryCode": null,
-  "generatedAt": "2026-05-31T13:50:40.799Z",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
   "isPartial": true,
   "languages": [
     {
@@ -14,18 +14,32 @@
         "name": "TypeScript",
         "githubQuery": "TypeScript"
       },
-      "starsPrimary": 23604,
-      "repoCountPrimary": 1,
-      "starsContains": 23604,
-      "repoCountContains": 1,
-      "globalRank": null,
+      "starsPrimary": 26726,
+      "repoCountPrimary": 3,
+      "starsContains": 26726,
+      "repoCountContains": 3,
+      "globalRank": 56,
       "countryRank": null,
       "topRepos": [
         {
           "name": "docz",
           "fullName": "pedronauck/docz",
-          "stars": 23604,
+          "stars": 23603,
           "url": "https://github.com/pedronauck/docz",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-adopt",
+          "fullName": "pedronauck/react-adopt",
+          "stars": 1665,
+          "url": "https://github.com/pedronauck/react-adopt",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "reworm",
+          "fullName": "pedronauck/reworm",
+          "stars": 1458,
+          "url": "https://github.com/pedronauck/reworm",
           "primaryLanguage": "TypeScript"
         }
       ]

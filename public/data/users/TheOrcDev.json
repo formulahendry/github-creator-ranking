@@ -1,0 +1,62 @@
+{
+  "login": "TheOrcDev",
+  "name": "OrcDev",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7549148?v=4",
+  "htmlUrl": "https://github.com/TheOrcDev",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3614,
+      "repoCountPrimary": 7,
+      "starsContains": 3614,
+      "repoCountContains": 7,
+      "globalRank": 736,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "8bitcn-ui",
+          "fullName": "TheOrcDev/8bitcn-ui",
+          "stars": 1874,
+          "url": "https://github.com/TheOrcDev/8bitcn-ui",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "warcraftcn-ui",
+          "fullName": "TheOrcDev/warcraftcn-ui",
+          "stars": 743,
+          "url": "https://github.com/TheOrcDev/warcraftcn-ui",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "better-auth-starter",
+          "fullName": "TheOrcDev/better-auth-starter",
+          "stars": 341,
+          "url": "https://github.com/TheOrcDev/better-auth-starter",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "orcish-dashboard",
+          "fullName": "TheOrcDev/orcish-dashboard",
+          "stars": 189,
+          "url": "https://github.com/TheOrcDev/orcish-dashboard",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "youtube-to-blog",
+          "fullName": "TheOrcDev/youtube-to-blog",
+          "stars": 168,
+          "url": "https://github.com/TheOrcDev/youtube-to-blog",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

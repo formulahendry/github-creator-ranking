@@ -1,0 +1,41 @@
+{
+  "login": "sunls24",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/138029433?v=4",
+  "htmlUrl": "https://github.com/sunls24",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 331,
+      "repoCountPrimary": 2,
+      "starsContains": 331,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "tmail",
+          "fullName": "sunls24/tmail",
+          "stars": 171,
+          "url": "https://github.com/sunls24/tmail",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "divination",
+          "fullName": "sunls24/divination",
+          "stars": 160,
+          "url": "https://github.com/sunls24/divination",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

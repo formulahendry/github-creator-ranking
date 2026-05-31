@@ -1,0 +1,34 @@
+{
+  "login": "Sharcoux",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/797545?v=4",
+  "htmlUrl": "https://github.com/Sharcoux",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 193,
+      "repoCountPrimary": 1,
+      "starsContains": 193,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "slider",
+          "fullName": "Sharcoux/slider",
+          "stars": 193,
+          "url": "https://github.com/Sharcoux/slider",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

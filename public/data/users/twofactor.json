@@ -1,0 +1,34 @@
+{
+  "login": "twofactor",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/639128?v=4",
+  "htmlUrl": "https://github.com/twofactor",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 427,
+      "repoCountPrimary": 1,
+      "starsContains": 427,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "pogicity-demo",
+          "fullName": "twofactor/pogicity-demo",
+          "stars": 427,
+          "url": "https://github.com/twofactor/pogicity-demo",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

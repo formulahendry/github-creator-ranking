@@ -1,0 +1,41 @@
+{
+  "login": "deepsweet",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/266822?v=4",
+  "htmlUrl": "https://github.com/deepsweet",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1273,
+      "repoCountPrimary": 2,
+      "starsContains": 1273,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "foxr",
+          "fullName": "deepsweet/foxr",
+          "stars": 799,
+          "url": "https://github.com/deepsweet/foxr",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "start",
+          "fullName": "deepsweet/start",
+          "stars": 474,
+          "url": "https://github.com/deepsweet/start",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

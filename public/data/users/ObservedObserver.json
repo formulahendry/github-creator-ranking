@@ -1,0 +1,62 @@
+{
+  "login": "ObservedObserver",
+  "name": "Elwynn Chen",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/22167673?v=4",
+  "htmlUrl": "https://github.com/ObservedObserver",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3606,
+      "repoCountPrimary": 6,
+      "starsContains": 3606,
+      "repoCountContains": 6,
+      "globalRank": 739,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "streamlit-shadcn-ui",
+          "fullName": "ObservedObserver/streamlit-shadcn-ui",
+          "stars": 1137,
+          "url": "https://github.com/ObservedObserver/streamlit-shadcn-ui",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "chatgpt-i18n",
+          "fullName": "ObservedObserver/chatgpt-i18n",
+          "stars": 810,
+          "url": "https://github.com/ObservedObserver/chatgpt-i18n",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "viz-gpt",
+          "fullName": "ObservedObserver/viz-gpt",
+          "stars": 624,
+          "url": "https://github.com/ObservedObserver/viz-gpt",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "async-code",
+          "fullName": "ObservedObserver/async-code",
+          "stars": 535,
+          "url": "https://github.com/ObservedObserver/async-code",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "convertfast-ui",
+          "fullName": "ObservedObserver/convertfast-ui",
+          "stars": 395,
+          "url": "https://github.com/ObservedObserver/convertfast-ui",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

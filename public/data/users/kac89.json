@@ -1,0 +1,34 @@
+{
+  "login": "kac89",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5662731?v=4",
+  "htmlUrl": "https://github.com/kac89",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 557,
+      "repoCountPrimary": 1,
+      "starsContains": 557,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vulnrepo",
+          "fullName": "kac89/vulnrepo",
+          "stars": 557,
+          "url": "https://github.com/kac89/vulnrepo",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

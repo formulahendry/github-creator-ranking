@@ -1,0 +1,41 @@
+{
+  "login": "1amageek",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/11146538?v=4",
+  "htmlUrl": "https://github.com/1amageek",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 218,
+      "repoCountPrimary": 2,
+      "starsContains": 218,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "pring.ts",
+          "fullName": "1amageek/pring.ts",
+          "stars": 113,
+          "url": "https://github.com/1amageek/pring.ts",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ballcap.ts",
+          "fullName": "1amageek/ballcap.ts",
+          "stars": 105,
+          "url": "https://github.com/1amageek/ballcap.ts",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

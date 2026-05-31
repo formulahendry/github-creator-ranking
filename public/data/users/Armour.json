@@ -1,0 +1,34 @@
+{
+  "login": "Armour",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5276065?v=4",
+  "htmlUrl": "https://github.com/Armour",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 167,
+      "repoCountPrimary": 1,
+      "starsContains": 167,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "express-webpack-react-redux-typescript-boilerplate",
+          "fullName": "Armour/express-webpack-react-redux-typescript-boilerplate",
+          "stars": 167,
+          "url": "https://github.com/Armour/express-webpack-react-redux-typescript-boilerplate",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

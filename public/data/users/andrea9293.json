@@ -1,0 +1,34 @@
+{
+  "login": "andrea9293",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/4161159?v=4",
+  "htmlUrl": "https://github.com/andrea9293",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 316,
+      "repoCountPrimary": 1,
+      "starsContains": 316,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "mcp-documentation-server",
+          "fullName": "andrea9293/mcp-documentation-server",
+          "stars": 316,
+          "url": "https://github.com/andrea9293/mcp-documentation-server",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

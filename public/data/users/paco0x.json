@@ -1,0 +1,34 @@
+{
+  "login": "paco0x",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6123425?v=4",
+  "htmlUrl": "https://github.com/paco0x",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 145,
+      "repoCountPrimary": 1,
+      "starsContains": 145,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "snx-liquidator",
+          "fullName": "paco0x/snx-liquidator",
+          "stars": 145,
+          "url": "https://github.com/paco0x/snx-liquidator",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

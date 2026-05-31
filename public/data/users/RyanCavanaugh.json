@@ -1,0 +1,48 @@
+{
+  "login": "RyanCavanaugh",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6685088?v=4",
+  "htmlUrl": "https://github.com/RyanCavanaugh",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 575,
+      "repoCountPrimary": 3,
+      "starsContains": 575,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "learn-a",
+          "fullName": "RyanCavanaugh/learn-a",
+          "stars": 257,
+          "url": "https://github.com/RyanCavanaugh/learn-a",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "project-references-demo",
+          "fullName": "RyanCavanaugh/project-references-demo",
+          "stars": 198,
+          "url": "https://github.com/RyanCavanaugh/project-references-demo",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "dts-dom",
+          "fullName": "RyanCavanaugh/dts-dom",
+          "stars": 120,
+          "url": "https://github.com/RyanCavanaugh/dts-dom",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

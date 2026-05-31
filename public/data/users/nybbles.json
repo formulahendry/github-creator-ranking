@@ -1,0 +1,34 @@
+{
+  "login": "nybbles",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/421369?v=4",
+  "htmlUrl": "https://github.com/nybbles",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 246,
+      "repoCountPrimary": 1,
+      "starsContains": 246,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "obsidian-pocket",
+          "fullName": "nybbles/obsidian-pocket",
+          "stars": 246,
+          "url": "https://github.com/nybbles/obsidian-pocket",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

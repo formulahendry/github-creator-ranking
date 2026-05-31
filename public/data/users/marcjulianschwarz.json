@@ -1,0 +1,41 @@
+{
+  "login": "marcjulianschwarz",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/67844154?v=4",
+  "htmlUrl": "https://github.com/marcjulianschwarz",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 291,
+      "repoCountPrimary": 2,
+      "starsContains": 291,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "obsidian-raycast",
+          "fullName": "marcjulianschwarz/obsidian-raycast",
+          "stars": 148,
+          "url": "https://github.com/marcjulianschwarz/obsidian-raycast",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "obsidian-file-link",
+          "fullName": "marcjulianschwarz/obsidian-file-link",
+          "stars": 143,
+          "url": "https://github.com/marcjulianschwarz/obsidian-file-link",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

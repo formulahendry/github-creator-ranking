@@ -1,0 +1,41 @@
+{
+  "login": "arpanghosh8453",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/26424944?v=4",
+  "htmlUrl": "https://github.com/arpanghosh8453",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1558,
+      "repoCountPrimary": 2,
+      "starsContains": 1558,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "open-dronelog",
+          "fullName": "arpanghosh8453/open-dronelog",
+          "stars": 1410,
+          "url": "https://github.com/arpanghosh8453/open-dronelog",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "fit-dashboard",
+          "fullName": "arpanghosh8453/fit-dashboard",
+          "stars": 148,
+          "url": "https://github.com/arpanghosh8453/fit-dashboard",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "amannn",
+  "name": "Jan Amann",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/4038316?v=4",
+  "htmlUrl": "https://github.com/amannn",
+  "location": "Dornbirn, Austria",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 4449,
+      "repoCountPrimary": 2,
+      "starsContains": 4449,
+      "repoCountContains": 2,
+      "globalRank": 577,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "next-intl",
+          "fullName": "amannn/next-intl",
+          "stars": 4278,
+          "url": "https://github.com/amannn/next-intl",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "next-query-params",
+          "fullName": "amannn/next-query-params",
+          "stars": 171,
+          "url": "https://github.com/amannn/next-query-params",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

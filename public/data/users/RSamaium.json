@@ -1,0 +1,41 @@
+{
+  "login": "RSamaium",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/695902?v=4",
+  "htmlUrl": "https://github.com/RSamaium",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1999,
+      "repoCountPrimary": 2,
+      "starsContains": 1999,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "RPG-JS",
+          "fullName": "RSamaium/RPG-JS",
+          "stars": 1602,
+          "url": "https://github.com/RSamaium/RPG-JS",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "CanvasEngine",
+          "fullName": "RSamaium/CanvasEngine",
+          "stars": 397,
+          "url": "https://github.com/RSamaium/CanvasEngine",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

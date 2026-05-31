@@ -1,0 +1,34 @@
+{
+  "login": "pieroproietti",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/958613?v=4",
+  "htmlUrl": "https://github.com/pieroproietti",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 571,
+      "repoCountPrimary": 1,
+      "starsContains": 571,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "penguins-eggs",
+          "fullName": "pieroproietti/penguins-eggs",
+          "stars": 571,
+          "url": "https://github.com/pieroproietti/penguins-eggs",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

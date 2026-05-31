@@ -1,0 +1,62 @@
+{
+  "login": "trekhleb",
+  "name": "Oleksii Trekhleb",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3000285?v=4",
+  "htmlUrl": "https://github.com/trekhleb",
+  "location": "San Francisco Bay Area",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2979,
+      "repoCountPrimary": 5,
+      "starsContains": 2979,
+      "repoCountContains": 5,
+      "globalRank": 905,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "js-image-carver",
+          "fullName": "trekhleb/js-image-carver",
+          "stars": 1596,
+          "url": "https://github.com/trekhleb/js-image-carver",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "self-parking-car-evolution",
+          "fullName": "trekhleb/self-parking-car-evolution",
+          "stars": 759,
+          "url": "https://github.com/trekhleb/self-parking-car-evolution",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "trekhleb.github.io",
+          "fullName": "trekhleb/trekhleb.github.io",
+          "stars": 238,
+          "url": "https://github.com/trekhleb/trekhleb.github.io",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "angular-library-seed",
+          "fullName": "trekhleb/angular-library-seed",
+          "stars": 201,
+          "url": "https://github.com/trekhleb/angular-library-seed",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "links-detector",
+          "fullName": "trekhleb/links-detector",
+          "stars": 185,
+          "url": "https://github.com/trekhleb/links-detector",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "studiobts",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/8479892?v=4",
+  "htmlUrl": "https://github.com/studiobts",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 182,
+      "repoCountPrimary": 1,
+      "starsContains": 182,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "home-assistant-card-builder",
+          "fullName": "studiobts/home-assistant-card-builder",
+          "stars": 182,
+          "url": "https://github.com/studiobts/home-assistant-card-builder",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

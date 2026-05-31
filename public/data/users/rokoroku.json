@@ -1,0 +1,41 @@
+{
+  "login": "rokoroku",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5208632?v=4",
+  "htmlUrl": "https://github.com/rokoroku",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1571,
+      "repoCountPrimary": 2,
+      "starsContains": 1571,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-redux-typescript-boilerplate",
+          "fullName": "rokoroku/react-redux-typescript-boilerplate",
+          "stars": 1192,
+          "url": "https://github.com/rokoroku/react-redux-typescript-boilerplate",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-mobx-typescript-boilerplate",
+          "fullName": "rokoroku/react-mobx-typescript-boilerplate",
+          "stars": 379,
+          "url": "https://github.com/rokoroku/react-mobx-typescript-boilerplate",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "login": "wangrongding",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/42437658?v=4",
+  "htmlUrl": "https://github.com/wangrongding",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 769,
+      "repoCountPrimary": 3,
+      "starsContains": 769,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "wallpaper-box",
+          "fullName": "wangrongding/wallpaper-box",
+          "stars": 416,
+          "url": "https://github.com/wangrongding/wallpaper-box",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "tiny-player",
+          "fullName": "wangrongding/tiny-player",
+          "stars": 230,
+          "url": "https://github.com/wangrongding/tiny-player",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "prm-cli",
+          "fullName": "wangrongding/prm-cli",
+          "stars": 123,
+          "url": "https://github.com/wangrongding/prm-cli",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

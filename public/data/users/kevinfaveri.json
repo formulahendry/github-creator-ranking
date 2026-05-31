@@ -1,0 +1,34 @@
+{
+  "login": "kevinfaveri",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/18222497?v=4",
+  "htmlUrl": "https://github.com/kevinfaveri",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 298,
+      "repoCountPrimary": 1,
+      "starsContains": 298,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "solana-candy-factory",
+          "fullName": "kevinfaveri/solana-candy-factory",
+          "stars": 298,
+          "url": "https://github.com/kevinfaveri/solana-candy-factory",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

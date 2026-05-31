@@ -1,0 +1,41 @@
+{
+  "login": "ortoniKC",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/58769833?v=4",
+  "htmlUrl": "https://github.com/ortoniKC",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 241,
+      "repoCountPrimary": 2,
+      "starsContains": 241,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Playwright_Cucumber_TS",
+          "fullName": "ortoniKC/Playwright_Cucumber_TS",
+          "stars": 126,
+          "url": "https://github.com/ortoniKC/Playwright_Cucumber_TS",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Playwright-Test-Runner",
+          "fullName": "ortoniKC/Playwright-Test-Runner",
+          "stars": 115,
+          "url": "https://github.com/ortoniKC/Playwright-Test-Runner",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

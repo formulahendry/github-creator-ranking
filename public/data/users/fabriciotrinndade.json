@@ -1,0 +1,34 @@
+{
+  "login": "fabriciotrinndade",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/100100511?v=4",
+  "htmlUrl": "https://github.com/fabriciotrinndade",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 167,
+      "repoCountPrimary": 1,
+      "starsContains": 167,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ats-resume-generator-html",
+          "fullName": "fabriciotrinndade/ats-resume-generator-html",
+          "stars": 167,
+          "url": "https://github.com/fabriciotrinndade/ats-resume-generator-html",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "yankouskia",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/10101073?v=4",
+  "htmlUrl": "https://github.com/yankouskia",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 388,
+      "repoCountPrimary": 2,
+      "starsContains": 388,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "hurried",
+          "fullName": "yankouskia/hurried",
+          "stars": 259,
+          "url": "https://github.com/yankouskia/hurried",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "is-incognito-mode",
+          "fullName": "yankouskia/is-incognito-mode",
+          "stars": 129,
+          "url": "https://github.com/yankouskia/is-incognito-mode",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

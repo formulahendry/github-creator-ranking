@@ -1,0 +1,41 @@
+{
+  "login": "crimx",
+  "name": "CRIMX",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6882794?v=4",
+  "htmlUrl": "https://github.com/crimx",
+  "location": "Hangzhou, China",
+  "countryCode": "CN",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 14172,
+      "repoCountPrimary": 2,
+      "starsContains": 14172,
+      "repoCountContains": 2,
+      "globalRank": 141,
+      "countryRank": 14,
+      "topRepos": [
+        {
+          "name": "ext-saladict",
+          "fullName": "crimx/ext-saladict",
+          "stars": 13118,
+          "url": "https://github.com/crimx/ext-saladict",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "observable-hooks",
+          "fullName": "crimx/observable-hooks",
+          "stars": 1054,
+          "url": "https://github.com/crimx/observable-hooks",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "chinayangxiaowei",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/20922589?v=4",
+  "htmlUrl": "https://github.com/chinayangxiaowei",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1252,
+      "repoCountPrimary": 1,
+      "starsContains": 1252,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "marktext-chinese-language-pack",
+          "fullName": "chinayangxiaowei/marktext-chinese-language-pack",
+          "stars": 1252,
+          "url": "https://github.com/chinayangxiaowei/marktext-chinese-language-pack",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

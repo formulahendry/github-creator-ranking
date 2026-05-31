@@ -1,0 +1,34 @@
+{
+  "login": "tdurieux",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5577568?v=4",
+  "htmlUrl": "https://github.com/tdurieux",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2098,
+      "repoCountPrimary": 1,
+      "starsContains": 2098,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "anonymous_github",
+          "fullName": "tdurieux/anonymous_github",
+          "stars": 2098,
+          "url": "https://github.com/tdurieux/anonymous_github",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

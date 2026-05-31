@@ -1,0 +1,34 @@
+{
+  "login": "sunshineLixun",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/15700015?v=4",
+  "htmlUrl": "https://github.com/sunshineLixun",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 107,
+      "repoCountPrimary": 1,
+      "starsContains": 107,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ShipFullStack",
+          "fullName": "sunshineLixun/ShipFullStack",
+          "stars": 107,
+          "url": "https://github.com/sunshineLixun/ShipFullStack",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

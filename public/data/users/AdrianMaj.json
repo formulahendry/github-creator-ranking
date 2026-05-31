@@ -1,0 +1,34 @@
+{
+  "login": "AdrianMaj",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/123100543?v=4",
+  "htmlUrl": "https://github.com/AdrianMaj",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 108,
+      "repoCountPrimary": 1,
+      "starsContains": 108,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "payload-lexical-typography",
+          "fullName": "AdrianMaj/payload-lexical-typography",
+          "stars": 108,
+          "url": "https://github.com/AdrianMaj/payload-lexical-typography",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

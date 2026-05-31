@@ -1,0 +1,62 @@
+{
+  "login": "timdeschryver",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/28659384?v=4",
+  "htmlUrl": "https://github.com/timdeschryver",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 761,
+      "repoCountPrimary": 5,
+      "starsContains": 761,
+      "repoCountContains": 5,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "rx-query",
+          "fullName": "timdeschryver/rx-query",
+          "stars": 198,
+          "url": "https://github.com/timdeschryver/rx-query",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ng-signal-forms",
+          "fullName": "timdeschryver/ng-signal-forms",
+          "stars": 152,
+          "url": "https://github.com/timdeschryver/ng-signal-forms",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "zod-fixture",
+          "fullName": "timdeschryver/zod-fixture",
+          "stars": 147,
+          "url": "https://github.com/timdeschryver/zod-fixture",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "eslint-plugin-ngrx",
+          "fullName": "timdeschryver/eslint-plugin-ngrx",
+          "stars": 140,
+          "url": "https://github.com/timdeschryver/eslint-plugin-ngrx",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ngrx-immer",
+          "fullName": "timdeschryver/ngrx-immer",
+          "stars": 124,
+          "url": "https://github.com/timdeschryver/ngrx-immer",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

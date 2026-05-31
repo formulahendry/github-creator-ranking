@@ -1,0 +1,34 @@
+{
+  "login": "SKaplanOfficial",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7865925?v=4",
+  "htmlUrl": "https://github.com/SKaplanOfficial",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 316,
+      "repoCountPrimary": 1,
+      "starsContains": 316,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Raycast-PromptLab",
+          "fullName": "SKaplanOfficial/Raycast-PromptLab",
+          "stars": 316,
+          "url": "https://github.com/SKaplanOfficial/Raycast-PromptLab",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

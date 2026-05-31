@@ -1,0 +1,34 @@
+{
+  "login": "nyatinte",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/104000239?v=4",
+  "htmlUrl": "https://github.com/nyatinte",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 271,
+      "repoCountPrimary": 1,
+      "starsContains": 271,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ccexp",
+          "fullName": "nyatinte/ccexp",
+          "stars": 271,
+          "url": "https://github.com/nyatinte/ccexp",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

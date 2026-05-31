@@ -1,0 +1,34 @@
+{
+  "login": "jeancabral",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2077886?v=4",
+  "htmlUrl": "https://github.com/jeancabral",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 122,
+      "repoCountPrimary": 1,
+      "starsContains": 122,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-pdv",
+          "fullName": "jeancabral/react-pdv",
+          "stars": 122,
+          "url": "https://github.com/jeancabral/react-pdv",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

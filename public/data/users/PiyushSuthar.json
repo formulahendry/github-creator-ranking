@@ -1,0 +1,41 @@
+{
+  "login": "PiyushSuthar",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/32237558?v=4",
+  "htmlUrl": "https://github.com/PiyushSuthar",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1217,
+      "repoCountPrimary": 2,
+      "starsContains": 1217,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "github-readme-quotes",
+          "fullName": "PiyushSuthar/github-readme-quotes",
+          "stars": 614,
+          "url": "https://github.com/PiyushSuthar/github-readme-quotes",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Windows-11-Web",
+          "fullName": "PiyushSuthar/Windows-11-Web",
+          "stars": 603,
+          "url": "https://github.com/PiyushSuthar/Windows-11-Web",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

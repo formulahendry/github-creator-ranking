@@ -1,0 +1,34 @@
+{
+  "login": "xiong35",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/56919869?v=4",
+  "htmlUrl": "https://github.com/xiong35",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 175,
+      "repoCountPrimary": 1,
+      "starsContains": 175,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "werewolf",
+          "fullName": "xiong35/werewolf",
+          "stars": 175,
+          "url": "https://github.com/xiong35/werewolf",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "dvcol",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/17250935?v=4",
+  "htmlUrl": "https://github.com/dvcol",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 220,
+      "repoCountPrimary": 2,
+      "starsContains": 220,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "svelte-simple-router",
+          "fullName": "dvcol/svelte-simple-router",
+          "stars": 119,
+          "url": "https://github.com/dvcol/svelte-simple-router",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "synology-download",
+          "fullName": "dvcol/synology-download",
+          "stars": 101,
+          "url": "https://github.com/dvcol/synology-download",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

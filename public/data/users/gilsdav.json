@@ -1,0 +1,34 @@
+{
+  "login": "gilsdav",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/21348530?v=4",
+  "htmlUrl": "https://github.com/gilsdav",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 139,
+      "repoCountPrimary": 1,
+      "starsContains": 139,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ngx-translate-router",
+          "fullName": "gilsdav/ngx-translate-router",
+          "stars": 139,
+          "url": "https://github.com/gilsdav/ngx-translate-router",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

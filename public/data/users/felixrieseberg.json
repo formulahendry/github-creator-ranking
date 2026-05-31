@@ -1,11 +1,11 @@
 {
   "login": "felixrieseberg",
-  "name": null,
+  "name": "Felix Rieseberg",
   "avatarUrl": "https://avatars.githubusercontent.com/u/1426799?v=4",
   "htmlUrl": "https://github.com/felixrieseberg",
-  "location": null,
+  "location": "San Francisco",
   "countryCode": null,
-  "generatedAt": "2026-05-31T13:50:40.799Z",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
   "isPartial": true,
   "languages": [
     {
@@ -14,18 +14,46 @@
         "name": "TypeScript",
         "githubQuery": "TypeScript"
       },
-      "starsPrimary": 24143,
-      "repoCountPrimary": 1,
-      "starsContains": 24143,
-      "repoCountContains": 1,
-      "globalRank": null,
+      "starsPrimary": 29400,
+      "repoCountPrimary": 6,
+      "starsContains": 29400,
+      "repoCountContains": 6,
+      "globalRank": 48,
       "countryRank": null,
       "topRepos": [
         {
           "name": "windows95",
           "fullName": "felixrieseberg/windows95",
-          "stars": 24143,
+          "stars": 24142,
           "url": "https://github.com/felixrieseberg/windows95",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "windows-build-tools",
+          "fullName": "felixrieseberg/windows-build-tools",
+          "stars": 3410,
+          "url": "https://github.com/felixrieseberg/windows-build-tools",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "clippy",
+          "fullName": "felixrieseberg/clippy",
+          "stars": 1298,
+          "url": "https://github.com/felixrieseberg/clippy",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "slack-archive",
+          "fullName": "felixrieseberg/slack-archive",
+          "stars": 274,
+          "url": "https://github.com/felixrieseberg/slack-archive",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "electron-notification-state",
+          "fullName": "felixrieseberg/electron-notification-state",
+          "stars": 149,
+          "url": "https://github.com/felixrieseberg/electron-notification-state",
           "primaryLanguage": "TypeScript"
         }
       ]

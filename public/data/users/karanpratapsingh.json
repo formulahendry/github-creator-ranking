@@ -1,0 +1,41 @@
+{
+  "login": "karanpratapsingh",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/29705703?v=4",
+  "htmlUrl": "https://github.com/karanpratapsingh",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1559,
+      "repoCountPrimary": 2,
+      "starsContains": 1559,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "fullstack-starterkit",
+          "fullName": "karanpratapsingh/fullstack-starterkit",
+          "stars": 1199,
+          "url": "https://github.com/karanpratapsingh/fullstack-starterkit",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Proximity",
+          "fullName": "karanpratapsingh/Proximity",
+          "stars": 360,
+          "url": "https://github.com/karanpratapsingh/Proximity",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

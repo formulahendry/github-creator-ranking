@@ -1,0 +1,41 @@
+{
+  "login": "niieani",
+  "name": "Bazyli Brzóska",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/563469?v=4",
+  "htmlUrl": "https://github.com/niieani",
+  "location": "San Francisco, CA",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 5103,
+      "repoCountPrimary": 2,
+      "starsContains": 5103,
+      "repoCountContains": 2,
+      "globalRank": 492,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "hashids.js",
+          "fullName": "niieani/hashids.js",
+          "stars": 4298,
+          "url": "https://github.com/niieani/hashids.js",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "gpt-tokenizer",
+          "fullName": "niieani/gpt-tokenizer",
+          "stars": 805,
+          "url": "https://github.com/niieani/gpt-tokenizer",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

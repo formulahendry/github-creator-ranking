@@ -1,0 +1,34 @@
+{
+  "login": "alanhzw",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/41323555?v=4",
+  "htmlUrl": "https://github.com/alanhzw",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 166,
+      "repoCountPrimary": 1,
+      "starsContains": 166,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "warbler-homepage",
+          "fullName": "alanhzw/warbler-homepage",
+          "stars": 166,
+          "url": "https://github.com/alanhzw/warbler-homepage",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "mostafasadeghi97",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/41698808?v=4",
+  "htmlUrl": "https://github.com/mostafasadeghi97",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 673,
+      "repoCountPrimary": 1,
+      "starsContains": 673,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "design2code",
+          "fullName": "mostafasadeghi97/design2code",
+          "stars": 673,
+          "url": "https://github.com/mostafasadeghi97/design2code",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

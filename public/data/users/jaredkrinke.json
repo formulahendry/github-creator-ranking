@@ -1,0 +1,41 @@
+{
+  "login": "jaredkrinke",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5257820?v=4",
+  "htmlUrl": "https://github.com/jaredkrinke",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 355,
+      "repoCountPrimary": 2,
+      "starsContains": 355,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "100-languages",
+          "fullName": "jaredkrinke/100-languages",
+          "stars": 241,
+          "url": "https://github.com/jaredkrinke/100-languages",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "sic1",
+          "fullName": "jaredkrinke/sic1",
+          "stars": 114,
+          "url": "https://github.com/jaredkrinke/sic1",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

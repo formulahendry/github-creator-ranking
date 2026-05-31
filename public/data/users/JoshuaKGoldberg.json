@@ -1,0 +1,62 @@
+{
+  "login": "JoshuaKGoldberg",
+  "name": "Josh Goldberg ✨",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3335181?v=4",
+  "htmlUrl": "https://github.com/JoshuaKGoldberg",
+  "location": "Somerville, MA, USA",
+  "countryCode": "US",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 4292,
+      "repoCountPrimary": 6,
+      "starsContains": 4292,
+      "repoCountContains": 6,
+      "globalRank": 604,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "TypeStat",
+          "fullName": "JoshuaKGoldberg/TypeStat",
+          "stars": 2239,
+          "url": "https://github.com/JoshuaKGoldberg/TypeStat",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "create-typescript-app",
+          "fullName": "JoshuaKGoldberg/create-typescript-app",
+          "stars": 1377,
+          "url": "https://github.com/JoshuaKGoldberg/create-typescript-app",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "emoji-blast",
+          "fullName": "JoshuaKGoldberg/emoji-blast",
+          "stars": 332,
+          "url": "https://github.com/JoshuaKGoldberg/emoji-blast",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "eslint-plugin-expect-type",
+          "fullName": "JoshuaKGoldberg/eslint-plugin-expect-type",
+          "stars": 120,
+          "url": "https://github.com/JoshuaKGoldberg/eslint-plugin-expect-type",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ts-api-utils",
+          "fullName": "JoshuaKGoldberg/ts-api-utils",
+          "stars": 117,
+          "url": "https://github.com/JoshuaKGoldberg/ts-api-utils",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

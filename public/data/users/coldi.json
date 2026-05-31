@@ -1,0 +1,34 @@
+{
+  "login": "coldi",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/919455?v=4",
+  "htmlUrl": "https://github.com/coldi",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 655,
+      "repoCountPrimary": 1,
+      "starsContains": 655,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "r3f-game-demo",
+          "fullName": "coldi/r3f-game-demo",
+          "stars": 655,
+          "url": "https://github.com/coldi/r3f-game-demo",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

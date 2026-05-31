@@ -1,0 +1,48 @@
+{
+  "login": "mayneyao",
+  "name": "Mayne",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6588202?v=4",
+  "htmlUrl": "https://github.com/mayneyao",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3439,
+      "repoCountPrimary": 3,
+      "starsContains": 3439,
+      "repoCountContains": 3,
+      "globalRank": 784,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "eidos",
+          "fullName": "mayneyao/eidos",
+          "stars": 3134,
+          "url": "https://github.com/mayneyao/eidos",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "NotionPlus",
+          "fullName": "mayneyao/NotionPlus",
+          "stars": 180,
+          "url": "https://github.com/mayneyao/NotionPlus",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "notabase",
+          "fullName": "mayneyao/notabase",
+          "stars": 125,
+          "url": "https://github.com/mayneyao/notabase",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

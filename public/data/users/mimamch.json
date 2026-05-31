@@ -1,0 +1,41 @@
+{
+  "login": "mimamch",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/38609616?v=4",
+  "htmlUrl": "https://github.com/mimamch",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 630,
+      "repoCountPrimary": 2,
+      "starsContains": 630,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "wa-gateway",
+          "fullName": "mimamch/wa-gateway",
+          "stars": 381,
+          "url": "https://github.com/mimamch/wa-gateway",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "wa-multi-session",
+          "fullName": "mimamch/wa-multi-session",
+          "stars": 249,
+          "url": "https://github.com/mimamch/wa-multi-session",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

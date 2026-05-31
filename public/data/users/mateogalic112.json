@@ -1,0 +1,34 @@
+{
+  "login": "mateogalic112",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/61632123?v=4",
+  "htmlUrl": "https://github.com/mateogalic112",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 150,
+      "repoCountPrimary": 1,
+      "starsContains": 150,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "typescript-design-patterns",
+          "fullName": "mateogalic112/typescript-design-patterns",
+          "stars": 150,
+          "url": "https://github.com/mateogalic112/typescript-design-patterns",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

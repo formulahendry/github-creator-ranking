@@ -1,0 +1,34 @@
+{
+  "login": "magcius",
+  "name": "Jasper St. Pierre",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/40890?v=4",
+  "htmlUrl": "https://github.com/magcius",
+  "location": "Tangent Space",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 4150,
+      "repoCountPrimary": 1,
+      "starsContains": 4150,
+      "repoCountContains": 1,
+      "globalRank": 630,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "noclip.website",
+          "fullName": "magcius/noclip.website",
+          "stars": 4150,
+          "url": "https://github.com/magcius/noclip.website",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

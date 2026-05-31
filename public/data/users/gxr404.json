@@ -1,0 +1,41 @@
+{
+  "login": "gxr404",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/17134256?v=4",
+  "htmlUrl": "https://github.com/gxr404",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2317,
+      "repoCountPrimary": 2,
+      "starsContains": 2317,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "yuque-dl",
+          "fullName": "gxr404/yuque-dl",
+          "stars": 2163,
+          "url": "https://github.com/gxr404/yuque-dl",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "BilibiliVideoDownloadFork",
+          "fullName": "gxr404/BilibiliVideoDownloadFork",
+          "stars": 154,
+          "url": "https://github.com/gxr404/BilibiliVideoDownloadFork",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

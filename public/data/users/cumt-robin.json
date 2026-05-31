@@ -1,0 +1,34 @@
+{
+  "login": "cumt-robin",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/30487257?v=4",
+  "htmlUrl": "https://github.com/cumt-robin",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 207,
+      "repoCountPrimary": 1,
+      "starsContains": 207,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "fullstack-blog",
+          "fullName": "cumt-robin/fullstack-blog",
+          "stars": 207,
+          "url": "https://github.com/cumt-robin/fullstack-blog",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

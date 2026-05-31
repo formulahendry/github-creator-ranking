@@ -1,0 +1,34 @@
+{
+  "login": "zdhxiong",
+  "name": "zdhxiong",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3030330?v=4",
+  "htmlUrl": "https://github.com/zdhxiong",
+  "location": "HangZhou, China",
+  "countryCode": "CN",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 4513,
+      "repoCountPrimary": 1,
+      "starsContains": 4513,
+      "repoCountContains": 1,
+      "globalRank": 568,
+      "countryRank": 70,
+      "topRepos": [
+        {
+          "name": "mdui",
+          "fullName": "zdhxiong/mdui",
+          "stars": 4513,
+          "url": "https://github.com/zdhxiong/mdui",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

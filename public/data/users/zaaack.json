@@ -1,0 +1,41 @@
+{
+  "login": "zaaack",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5233940?v=4",
+  "htmlUrl": "https://github.com/zaaack",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 875,
+      "repoCountPrimary": 2,
+      "starsContains": 875,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vscode-markdown-editor",
+          "fullName": "zaaack/vscode-markdown-editor",
+          "stars": 584,
+          "url": "https://github.com/zaaack/vscode-markdown-editor",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "foy",
+          "fullName": "zaaack/foy",
+          "stars": 291,
+          "url": "https://github.com/zaaack/foy",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

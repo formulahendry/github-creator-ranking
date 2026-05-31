@@ -1,0 +1,34 @@
+{
+  "login": "deiucanta",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2116280?v=4",
+  "htmlUrl": "https://github.com/deiucanta",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1487,
+      "repoCountPrimary": 1,
+      "starsContains": 1487,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "chatpad",
+          "fullName": "deiucanta/chatpad",
+          "stars": 1487,
+          "url": "https://github.com/deiucanta/chatpad",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

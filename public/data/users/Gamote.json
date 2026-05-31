@@ -1,0 +1,34 @@
+{
+  "login": "Gamote",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/38785171?v=4",
+  "htmlUrl": "https://github.com/Gamote",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 958,
+      "repoCountPrimary": 1,
+      "starsContains": 958,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "lottie-react",
+          "fullName": "Gamote/lottie-react",
+          "stars": 958,
+          "url": "https://github.com/Gamote/lottie-react",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

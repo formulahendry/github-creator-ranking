@@ -1,0 +1,41 @@
+{
+  "login": "lovasoa",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/552629?v=4",
+  "htmlUrl": "https://github.com/lovasoa",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1897,
+      "repoCountPrimary": 2,
+      "starsContains": 1897,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-contenteditable",
+          "fullName": "lovasoa/react-contenteditable",
+          "stars": 1678,
+          "url": "https://github.com/lovasoa/react-contenteditable",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "jsonjoy-builder",
+          "fullName": "lovasoa/jsonjoy-builder",
+          "stars": 219,
+          "url": "https://github.com/lovasoa/jsonjoy-builder",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

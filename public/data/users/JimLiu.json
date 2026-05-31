@@ -1,0 +1,55 @@
+{
+  "login": "JimLiu",
+  "name": "Jim Liu 宝玉",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/648674?v=4",
+  "htmlUrl": "https://github.com/JimLiu",
+  "location": "Chicago, IL",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 20913,
+      "repoCountPrimary": 4,
+      "starsContains": 20913,
+      "repoCountContains": 4,
+      "globalRank": 88,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "baoyu-skills",
+          "fullName": "JimLiu/baoyu-skills",
+          "stars": 20004,
+          "url": "https://github.com/JimLiu/baoyu-skills",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "claude-agent-kit",
+          "fullName": "JimLiu/claude-agent-kit",
+          "stars": 507,
+          "url": "https://github.com/JimLiu/claude-agent-kit",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "gpt-api",
+          "fullName": "JimLiu/gpt-api",
+          "stars": 232,
+          "url": "https://github.com/JimLiu/gpt-api",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "agent-translator",
+          "fullName": "JimLiu/agent-translator",
+          "stars": 170,
+          "url": "https://github.com/JimLiu/agent-translator",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

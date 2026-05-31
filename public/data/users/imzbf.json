@@ -1,0 +1,41 @@
+{
+  "login": "imzbf",
+  "name": "zbf",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/37092006?v=4",
+  "htmlUrl": "https://github.com/imzbf",
+  "location": "Chong Qing, China",
+  "countryCode": "CN",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2972,
+      "repoCountPrimary": 2,
+      "starsContains": 2972,
+      "repoCountContains": 2,
+      "globalRank": 908,
+      "countryRank": 107,
+      "topRepos": [
+        {
+          "name": "md-editor-v3",
+          "fullName": "imzbf/md-editor-v3",
+          "stars": 2513,
+          "url": "https://github.com/imzbf/md-editor-v3",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "md-editor-rt",
+          "fullName": "imzbf/md-editor-rt",
+          "stars": 459,
+          "url": "https://github.com/imzbf/md-editor-rt",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

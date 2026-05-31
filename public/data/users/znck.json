@@ -1,0 +1,41 @@
+{
+  "login": "znck",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2596484?v=4",
+  "htmlUrl": "https://github.com/znck",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1881,
+      "repoCountPrimary": 2,
+      "starsContains": 1881,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "grammarly",
+          "fullName": "znck/grammarly",
+          "stars": 1637,
+          "url": "https://github.com/znck/grammarly",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vuepack",
+          "fullName": "znck/vuepack",
+          "stars": 244,
+          "url": "https://github.com/znck/vuepack",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

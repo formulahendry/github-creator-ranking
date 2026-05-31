@@ -1,0 +1,34 @@
+{
+  "login": "Rain120",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/20939839?v=4",
+  "htmlUrl": "https://github.com/Rain120",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 984,
+      "repoCountPrimary": 1,
+      "starsContains": 984,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "qq-music-api",
+          "fullName": "Rain120/qq-music-api",
+          "stars": 984,
+          "url": "https://github.com/Rain120/qq-music-api",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

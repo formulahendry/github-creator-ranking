@@ -1,0 +1,48 @@
+{
+  "login": "rayriffy",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/22584594?v=4",
+  "htmlUrl": "https://github.com/rayriffy",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 449,
+      "repoCountPrimary": 3,
+      "starsContains": 449,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "elysia-rate-limit",
+          "fullName": "rayriffy/elysia-rate-limit",
+          "stars": 226,
+          "url": "https://github.com/rayriffy/elysia-rate-limit",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "rayriffy-h",
+          "fullName": "rayriffy/rayriffy-h",
+          "stars": 118,
+          "url": "https://github.com/rayriffy/rayriffy-h",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "thai-lotto-api",
+          "fullName": "rayriffy/thai-lotto-api",
+          "stars": 105,
+          "url": "https://github.com/rayriffy/thai-lotto-api",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

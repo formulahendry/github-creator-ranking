@@ -1,0 +1,34 @@
+{
+  "login": "chibat",
+  "name": "Tomofumi Chiba",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3880201?v=4",
+  "htmlUrl": "https://github.com/chibat",
+  "location": "Sendai, Japan",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2822,
+      "repoCountPrimary": 1,
+      "starsContains": 2822,
+      "repoCountContains": 1,
+      "globalRank": 951,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "chrome-extension-typescript-starter",
+          "fullName": "chibat/chrome-extension-typescript-starter",
+          "stars": 2822,
+          "url": "https://github.com/chibat/chrome-extension-typescript-starter",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

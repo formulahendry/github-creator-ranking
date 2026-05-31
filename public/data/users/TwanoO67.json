@@ -1,0 +1,41 @@
+{
+  "login": "TwanoO67",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7039688?v=4",
+  "htmlUrl": "https://github.com/TwanoO67",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 569,
+      "repoCountPrimary": 2,
+      "starsContains": 569,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "bootstraping-ngx-admin-lte",
+          "fullName": "TwanoO67/bootstraping-ngx-admin-lte",
+          "stars": 460,
+          "url": "https://github.com/TwanoO67/bootstraping-ngx-admin-lte",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ngx-admin-lte",
+          "fullName": "TwanoO67/ngx-admin-lte",
+          "stars": 109,
+          "url": "https://github.com/TwanoO67/ngx-admin-lte",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

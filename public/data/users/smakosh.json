@@ -1,0 +1,41 @@
+{
+  "login": "smakosh",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/20082141?v=4",
+  "htmlUrl": "https://github.com/smakosh",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 338,
+      "repoCountPrimary": 2,
+      "starsContains": 338,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "next-portfolio-dev",
+          "fullName": "smakosh/next-portfolio-dev",
+          "stars": 223,
+          "url": "https://github.com/smakosh/next-portfolio-dev",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "nft-mint-app",
+          "fullName": "smakosh/nft-mint-app",
+          "stars": 115,
+          "url": "https://github.com/smakosh/nft-mint-app",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

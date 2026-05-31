@@ -1,0 +1,41 @@
+{
+  "login": "NomarCub",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5298006?v=4",
+  "htmlUrl": "https://github.com/NomarCub",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 230,
+      "repoCountPrimary": 2,
+      "starsContains": 230,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "obsidian-open-vscode",
+          "fullName": "NomarCub/obsidian-open-vscode",
+          "stars": 128,
+          "url": "https://github.com/NomarCub/obsidian-open-vscode",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "obsidian-copy-url-in-preview",
+          "fullName": "NomarCub/obsidian-copy-url-in-preview",
+          "stars": 102,
+          "url": "https://github.com/NomarCub/obsidian-copy-url-in-preview",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

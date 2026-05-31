@@ -1,0 +1,48 @@
+{
+  "login": "LKbaba",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/31514423?v=4",
+  "htmlUrl": "https://github.com/LKbaba",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 512,
+      "repoCountPrimary": 3,
+      "starsContains": 512,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Claude-code-ChatInWindows",
+          "fullName": "LKbaba/Claude-code-ChatInWindows",
+          "stars": 217,
+          "url": "https://github.com/LKbaba/Claude-code-ChatInWindows",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Grok-mcp",
+          "fullName": "LKbaba/Grok-mcp",
+          "stars": 151,
+          "url": "https://github.com/LKbaba/Grok-mcp",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Gemini-mcp",
+          "fullName": "LKbaba/Gemini-mcp",
+          "stars": 144,
+          "url": "https://github.com/LKbaba/Gemini-mcp",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

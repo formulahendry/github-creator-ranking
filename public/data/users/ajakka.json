@@ -1,0 +1,34 @@
+{
+  "login": "ajakka",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/25665218?v=4",
+  "htmlUrl": "https://github.com/ajakka",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 116,
+      "repoCountPrimary": 1,
+      "starsContains": 116,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-native-here-explore",
+          "fullName": "ajakka/react-native-here-explore",
+          "stars": 116,
+          "url": "https://github.com/ajakka/react-native-here-explore",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

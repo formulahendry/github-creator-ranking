@@ -1,0 +1,34 @@
+{
+  "login": "Krish120003",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/52761222?v=4",
+  "htmlUrl": "https://github.com/Krish120003",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 105,
+      "repoCountPrimary": 1,
+      "starsContains": 105,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "gitfaster",
+          "fullName": "Krish120003/gitfaster",
+          "stars": 105,
+          "url": "https://github.com/Krish120003/gitfaster",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

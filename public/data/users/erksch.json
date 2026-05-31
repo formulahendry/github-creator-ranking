@@ -1,0 +1,41 @@
+{
+  "login": "erksch",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/19290349?v=4",
+  "htmlUrl": "https://github.com/erksch",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 604,
+      "repoCountPrimary": 2,
+      "starsContains": 604,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-native-wheely",
+          "fullName": "erksch/react-native-wheely",
+          "stars": 479,
+          "url": "https://github.com/erksch/react-native-wheely",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "waymo-open-dataset-viewer",
+          "fullName": "erksch/waymo-open-dataset-viewer",
+          "stars": 125,
+          "url": "https://github.com/erksch/waymo-open-dataset-viewer",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

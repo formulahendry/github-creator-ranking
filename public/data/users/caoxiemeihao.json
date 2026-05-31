@@ -1,0 +1,48 @@
+{
+  "login": "caoxiemeihao",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/26263658?v=4",
+  "htmlUrl": "https://github.com/caoxiemeihao",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 705,
+      "repoCountPrimary": 3,
+      "starsContains": 705,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "electron-vite-samples",
+          "fullName": "caoxiemeihao/electron-vite-samples",
+          "stars": 265,
+          "url": "https://github.com/caoxiemeihao/electron-vite-samples",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "nuxt-electron",
+          "fullName": "caoxiemeihao/nuxt-electron",
+          "stars": 227,
+          "url": "https://github.com/caoxiemeihao/nuxt-electron",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "electron-vite-boilerplate",
+          "fullName": "caoxiemeihao/electron-vite-boilerplate",
+          "stars": 213,
+          "url": "https://github.com/caoxiemeihao/electron-vite-boilerplate",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

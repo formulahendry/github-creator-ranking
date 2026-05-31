@@ -1,0 +1,41 @@
+{
+  "login": "pacholoamit",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/69985528?v=4",
+  "htmlUrl": "https://github.com/pacholoamit",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 922,
+      "repoCountPrimary": 2,
+      "starsContains": 922,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "chatgpt-prompts",
+          "fullName": "pacholoamit/chatgpt-prompts",
+          "stars": 709,
+          "url": "https://github.com/pacholoamit/chatgpt-prompts",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "pachtop",
+          "fullName": "pacholoamit/pachtop",
+          "stars": 213,
+          "url": "https://github.com/pacholoamit/pachtop",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

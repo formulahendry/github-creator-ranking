@@ -1,0 +1,34 @@
+{
+  "login": "sandersn",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/293473?v=4",
+  "htmlUrl": "https://github.com/sandersn",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1203,
+      "repoCountPrimary": 1,
+      "starsContains": 1203,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "mini-typescript",
+          "fullName": "sandersn/mini-typescript",
+          "stars": 1203,
+          "url": "https://github.com/sandersn/mini-typescript",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

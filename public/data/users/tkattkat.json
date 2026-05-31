@@ -1,0 +1,34 @@
+{
+  "login": "tkattkat",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/48974763?v=4",
+  "htmlUrl": "https://github.com/tkattkat",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 250,
+      "repoCountPrimary": 1,
+      "starsContains": 250,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "open-claude",
+          "fullName": "tkattkat/open-claude",
+          "stars": 250,
+          "url": "https://github.com/tkattkat/open-claude",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "PierreCapo",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/26744253?v=4",
+  "htmlUrl": "https://github.com/PierreCapo",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 300,
+      "repoCountPrimary": 2,
+      "starsContains": 300,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "treeviz",
+          "fullName": "PierreCapo/treeviz",
+          "stars": 174,
+          "url": "https://github.com/PierreCapo/treeviz",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-native-socials",
+          "fullName": "PierreCapo/react-native-socials",
+          "stars": 126,
+          "url": "https://github.com/PierreCapo/react-native-socials",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

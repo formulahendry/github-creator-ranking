@@ -1,0 +1,34 @@
+{
+  "login": "eryajf",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/33259379?v=4",
+  "htmlUrl": "https://github.com/eryajf",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 288,
+      "repoCountPrimary": 1,
+      "starsContains": 288,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "kite-desktop",
+          "fullName": "eryajf/kite-desktop",
+          "stars": 288,
+          "url": "https://github.com/eryajf/kite-desktop",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

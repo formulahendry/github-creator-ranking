@@ -1,0 +1,34 @@
+{
+  "login": "LokerL",
+  "name": "LokerL",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/44148627?v=4",
+  "htmlUrl": "https://github.com/LokerL",
+  "location": "China",
+  "countryCode": "CN",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 6100,
+      "repoCountPrimary": 1,
+      "starsContains": 6100,
+      "repoCountContains": 1,
+      "globalRank": 388,
+      "countryRank": 50,
+      "topRepos": [
+        {
+          "name": "tts-vue",
+          "fullName": "LokerL/tts-vue",
+          "stars": 6100,
+          "url": "https://github.com/LokerL/tts-vue",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "crittermike",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/32261?v=4",
+  "htmlUrl": "https://github.com/crittermike",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1218,
+      "repoCountPrimary": 1,
+      "starsContains": 1218,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "shortkeys",
+          "fullName": "crittermike/shortkeys",
+          "stars": 1218,
+          "url": "https://github.com/crittermike/shortkeys",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

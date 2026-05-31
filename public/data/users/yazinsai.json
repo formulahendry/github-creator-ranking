@@ -1,0 +1,41 @@
+{
+  "login": "yazinsai",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1846034?v=4",
+  "htmlUrl": "https://github.com/yazinsai",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 461,
+      "repoCountPrimary": 2,
+      "starsContains": 461,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "srt-ai",
+          "fullName": "yazinsai/srt-ai",
+          "stars": 290,
+          "url": "https://github.com/yazinsai/srt-ai",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "quran-validator",
+          "fullName": "yazinsai/quran-validator",
+          "stars": 171,
+          "url": "https://github.com/yazinsai/quran-validator",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

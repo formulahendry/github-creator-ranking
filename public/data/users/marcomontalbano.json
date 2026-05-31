@@ -1,0 +1,41 @@
+{
+  "login": "marcomontalbano",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1681269?v=4",
+  "htmlUrl": "https://github.com/marcomontalbano",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 567,
+      "repoCountPrimary": 2,
+      "starsContains": 567,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "figma-export",
+          "fullName": "marcomontalbano/figma-export",
+          "stars": 345,
+          "url": "https://github.com/marcomontalbano/figma-export",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "video-to-markdown",
+          "fullName": "marcomontalbano/video-to-markdown",
+          "stars": 222,
+          "url": "https://github.com/marcomontalbano/video-to-markdown",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

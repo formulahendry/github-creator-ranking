@@ -1,0 +1,34 @@
+{
+  "login": "max-mapper",
+  "name": "Max",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/39759?v=4",
+  "htmlUrl": "https://github.com/max-mapper",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 6777,
+      "repoCountPrimary": 1,
+      "starsContains": 6777,
+      "repoCountContains": 1,
+      "globalRank": 346,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "menubar",
+          "fullName": "max-mapper/menubar",
+          "stars": 6777,
+          "url": "https://github.com/max-mapper/menubar",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

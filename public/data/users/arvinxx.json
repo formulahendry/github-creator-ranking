@@ -1,0 +1,34 @@
+{
+  "login": "arvinxx",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/28616219?v=4",
+  "htmlUrl": "https://github.com/arvinxx",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 241,
+      "repoCountPrimary": 1,
+      "starsContains": 241,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "gitmoji-commit-workflow",
+          "fullName": "arvinxx/gitmoji-commit-workflow",
+          "stars": 241,
+          "url": "https://github.com/arvinxx/gitmoji-commit-workflow",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

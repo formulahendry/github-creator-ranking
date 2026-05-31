@@ -1,0 +1,34 @@
+{
+  "login": "elebitzero",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/42903164?v=4",
+  "htmlUrl": "https://github.com/elebitzero",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 127,
+      "repoCountPrimary": 1,
+      "starsContains": 127,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "openai-react-chat",
+          "fullName": "elebitzero/openai-react-chat",
+          "stars": 127,
+          "url": "https://github.com/elebitzero/openai-react-chat",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

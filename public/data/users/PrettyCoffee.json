@@ -1,0 +1,41 @@
+{
+  "login": "PrettyCoffee",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/66521452?v=4",
+  "htmlUrl": "https://github.com/PrettyCoffee",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 671,
+      "repoCountPrimary": 2,
+      "starsContains": 671,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "fluidity",
+          "fullName": "PrettyCoffee/fluidity",
+          "stars": 355,
+          "url": "https://github.com/PrettyCoffee/fluidity",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "yet-another-generic-startpage",
+          "fullName": "PrettyCoffee/yet-another-generic-startpage",
+          "stars": 316,
+          "url": "https://github.com/PrettyCoffee/yet-another-generic-startpage",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

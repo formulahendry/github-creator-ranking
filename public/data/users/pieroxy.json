@@ -1,0 +1,34 @@
+{
+  "login": "pieroxy",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1426854?v=4",
+  "htmlUrl": "https://github.com/pieroxy",
+  "location": "Paris",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 4411,
+      "repoCountPrimary": 1,
+      "starsContains": 4411,
+      "repoCountContains": 1,
+      "globalRank": 582,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "lz-string",
+          "fullName": "pieroxy/lz-string",
+          "stars": 4411,
+          "url": "https://github.com/pieroxy/lz-string",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

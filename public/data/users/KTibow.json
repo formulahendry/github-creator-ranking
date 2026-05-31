@@ -1,0 +1,34 @@
+{
+  "login": "KTibow",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/10727862?v=4",
+  "htmlUrl": "https://github.com/KTibow",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 437,
+      "repoCountPrimary": 1,
+      "starsContains": 437,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "m3-svelte",
+          "fullName": "KTibow/m3-svelte",
+          "stars": 437,
+          "url": "https://github.com/KTibow/m3-svelte",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

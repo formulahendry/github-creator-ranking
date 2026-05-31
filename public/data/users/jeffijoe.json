@@ -1,0 +1,62 @@
+{
+  "login": "jeffijoe",
+  "name": "Jeff Hansen",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2505474?v=4",
+  "htmlUrl": "https://github.com/jeffijoe",
+  "location": "Miami, FL",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 6363,
+      "repoCountPrimary": 6,
+      "starsContains": 6363,
+      "repoCountContains": 6,
+      "globalRank": 368,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "awilix",
+          "fullName": "jeffijoe/awilix",
+          "stars": 4176,
+          "url": "https://github.com/jeffijoe/awilix",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "typesync",
+          "fullName": "jeffijoe/typesync",
+          "stars": 1585,
+          "url": "https://github.com/jeffijoe/typesync",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "mobx-task",
+          "fullName": "jeffijoe/mobx-task",
+          "stars": 242,
+          "url": "https://github.com/jeffijoe/mobx-task",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "awilix-koa",
+          "fullName": "jeffijoe/awilix-koa",
+          "stars": 131,
+          "url": "https://github.com/jeffijoe/awilix-koa",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "awilix-express",
+          "fullName": "jeffijoe/awilix-express",
+          "stars": 126,
+          "url": "https://github.com/jeffijoe/awilix-express",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

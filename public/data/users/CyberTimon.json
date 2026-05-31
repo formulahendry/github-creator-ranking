@@ -1,0 +1,34 @@
+{
+  "login": "CyberTimon",
+  "name": "Timon Käch",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/78795905?v=4",
+  "htmlUrl": "https://github.com/CyberTimon",
+  "location": "Switzerland",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 7909,
+      "repoCountPrimary": 1,
+      "starsContains": 7909,
+      "repoCountContains": 1,
+      "globalRank": 288,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "RapidRAW",
+          "fullName": "CyberTimon/RapidRAW",
+          "stars": 7909,
+          "url": "https://github.com/CyberTimon/RapidRAW",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

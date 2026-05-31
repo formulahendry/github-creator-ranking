@@ -1,0 +1,34 @@
+{
+  "login": "yy0691",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/127759935?v=4",
+  "htmlUrl": "https://github.com/yy0691",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 150,
+      "repoCountPrimary": 1,
+      "starsContains": 150,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "PromptMate",
+          "fullName": "yy0691/PromptMate",
+          "stars": 150,
+          "url": "https://github.com/yy0691/PromptMate",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

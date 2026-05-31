@@ -1,0 +1,48 @@
+{
+  "login": "SamHatoum",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2021955?v=4",
+  "htmlUrl": "https://github.com/SamHatoum",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1175,
+      "repoCountPrimary": 3,
+      "starsContains": 1175,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "chimp",
+          "fullName": "SamHatoum/chimp",
+          "stars": 801,
+          "url": "https://github.com/SamHatoum/chimp",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "typescript-event-sourcing",
+          "fullName": "SamHatoum/typescript-event-sourcing",
+          "stars": 268,
+          "url": "https://github.com/SamHatoum/typescript-event-sourcing",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "pojo-observer",
+          "fullName": "SamHatoum/pojo-observer",
+          "stars": 106,
+          "url": "https://github.com/SamHatoum/pojo-observer",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

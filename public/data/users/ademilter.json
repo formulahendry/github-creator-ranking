@@ -1,0 +1,55 @@
+{
+  "login": "ademilter",
+  "name": "Adem ilter",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/187922?v=4",
+  "htmlUrl": "https://github.com/ademilter",
+  "location": "Istanbul",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3156,
+      "repoCountPrimary": 4,
+      "starsContains": 3156,
+      "repoCountContains": 4,
+      "globalRank": 853,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "bricklayer",
+          "fullName": "ademilter/bricklayer",
+          "stars": 2443,
+          "url": "https://github.com/ademilter/bricklayer",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vakitler",
+          "fullName": "ademilter/vakitler",
+          "stars": 378,
+          "url": "https://github.com/ademilter/vakitler",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "homepage",
+          "fullName": "ademilter/homepage",
+          "stars": 214,
+          "url": "https://github.com/ademilter/homepage",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "zelzele",
+          "fullName": "ademilter/zelzele",
+          "stars": 121,
+          "url": "https://github.com/ademilter/zelzele",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

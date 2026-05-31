@@ -1,0 +1,34 @@
+{
+  "login": "itsthatguy",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1118006?v=4",
+  "htmlUrl": "https://github.com/itsthatguy",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 747,
+      "repoCountPrimary": 1,
+      "starsContains": 747,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "avatars-api-middleware",
+          "fullName": "itsthatguy/avatars-api-middleware",
+          "stars": 747,
+          "url": "https://github.com/itsthatguy/avatars-api-middleware",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

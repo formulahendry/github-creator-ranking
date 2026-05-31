@@ -1,0 +1,41 @@
+{
+  "login": "caorushizi",
+  "name": "曹儒士子",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/19359849?v=4",
+  "htmlUrl": "https://github.com/caorushizi",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 9095,
+      "repoCountPrimary": 2,
+      "starsContains": 9095,
+      "repoCountContains": 2,
+      "globalRank": 255,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "mediago",
+          "fullName": "caorushizi/mediago",
+          "stars": 8982,
+          "url": "https://github.com/caorushizi/mediago",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "oss-client",
+          "fullName": "caorushizi/oss-client",
+          "stars": 113,
+          "url": "https://github.com/caorushizi/oss-client",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

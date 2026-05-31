@@ -1,0 +1,34 @@
+{
+  "login": "shubhamku044",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/77788249?v=4",
+  "htmlUrl": "https://github.com/shubhamku044",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 196,
+      "repoCountPrimary": 1,
+      "starsContains": 196,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "la-resume",
+          "fullName": "shubhamku044/la-resume",
+          "stars": 196,
+          "url": "https://github.com/shubhamku044/la-resume",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

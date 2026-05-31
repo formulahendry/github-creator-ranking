@@ -1,0 +1,34 @@
+{
+  "login": "maojindao55",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6436125?v=4",
+  "htmlUrl": "https://github.com/maojindao55",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1658,
+      "repoCountPrimary": 1,
+      "starsContains": 1658,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "botgroup.chat",
+          "fullName": "maojindao55/botgroup.chat",
+          "stars": 1658,
+          "url": "https://github.com/maojindao55/botgroup.chat",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

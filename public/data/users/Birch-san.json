@@ -1,0 +1,34 @@
+{
+  "login": "Birch-san",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6141784?v=4",
+  "htmlUrl": "https://github.com/Birch-san",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 301,
+      "repoCountPrimary": 1,
+      "starsContains": 301,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "box2d-wasm",
+          "fullName": "Birch-san/box2d-wasm",
+          "stars": 301,
+          "url": "https://github.com/Birch-san/box2d-wasm",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

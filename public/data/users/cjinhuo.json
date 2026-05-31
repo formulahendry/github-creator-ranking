@@ -1,0 +1,34 @@
+{
+  "login": "cjinhuo",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/22608658?v=4",
+  "htmlUrl": "https://github.com/cjinhuo",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 474,
+      "repoCountPrimary": 1,
+      "starsContains": 474,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "text-search-engine",
+          "fullName": "cjinhuo/text-search-engine",
+          "stars": 474,
+          "url": "https://github.com/cjinhuo/text-search-engine",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

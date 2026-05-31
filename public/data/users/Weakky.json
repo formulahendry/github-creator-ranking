@@ -1,0 +1,41 @@
+{
+  "login": "Weakky",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/25233379?v=4",
+  "htmlUrl": "https://github.com/Weakky",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 438,
+      "repoCountPrimary": 2,
+      "starsContains": 438,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "prisma-ecommerce",
+          "fullName": "Weakky/prisma-ecommerce",
+          "stars": 277,
+          "url": "https://github.com/Weakky/prisma-ecommerce",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ra-data-opencrud",
+          "fullName": "Weakky/ra-data-opencrud",
+          "stars": 161,
+          "url": "https://github.com/Weakky/ra-data-opencrud",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

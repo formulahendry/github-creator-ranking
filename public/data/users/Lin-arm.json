@@ -1,0 +1,34 @@
+{
+  "login": "Lin-arm",
+  "name": "林灵柒",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/85251920?v=4",
+  "htmlUrl": "https://github.com/Lin-arm",
+  "location": "广州",
+  "countryCode": "CN",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2965,
+      "repoCountPrimary": 1,
+      "starsContains": 2965,
+      "repoCountContains": 1,
+      "globalRank": 910,
+      "countryRank": 108,
+      "topRepos": [
+        {
+          "name": "GKD_subscription",
+          "fullName": "Lin-arm/GKD_subscription",
+          "stars": 2965,
+          "url": "https://github.com/Lin-arm/GKD_subscription",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

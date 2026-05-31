@@ -1,0 +1,62 @@
+{
+  "login": "SukkaW",
+  "name": "Sukka",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/40715044?v=4",
+  "htmlUrl": "https://github.com/SukkaW",
+  "location": "City of Science which may or may not in China",
+  "countryCode": "CN",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 7162,
+      "repoCountPrimary": 8,
+      "starsContains": 7162,
+      "repoCountContains": 8,
+      "globalRank": 323,
+      "countryRank": 41,
+      "topRepos": [
+        {
+          "name": "Surge",
+          "fullName": "SukkaW/Surge",
+          "stars": 4053,
+          "url": "https://github.com/SukkaW/Surge",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "nolyfill",
+          "fullName": "SukkaW/nolyfill",
+          "stars": 1182,
+          "url": "https://github.com/SukkaW/nolyfill",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "DisqusJS",
+          "fullName": "SukkaW/DisqusJS",
+          "stars": 667,
+          "url": "https://github.com/SukkaW/DisqusJS",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Make-Bilibili-Great-Than-Ever-Before",
+          "fullName": "SukkaW/Make-Bilibili-Great-Than-Ever-Before",
+          "stars": 548,
+          "url": "https://github.com/SukkaW/Make-Bilibili-Great-Than-Ever-Before",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "location-guard-ng",
+          "fullName": "SukkaW/location-guard-ng",
+          "stars": 287,
+          "url": "https://github.com/SukkaW/location-guard-ng",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

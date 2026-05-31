@@ -1,0 +1,34 @@
+{
+  "login": "DethAriel",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1497789?v=4",
+  "htmlUrl": "https://github.com/DethAriel",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 478,
+      "repoCountPrimary": 1,
+      "starsContains": 478,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ng-recaptcha",
+          "fullName": "DethAriel/ng-recaptcha",
+          "stars": 478,
+          "url": "https://github.com/DethAriel/ng-recaptcha",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

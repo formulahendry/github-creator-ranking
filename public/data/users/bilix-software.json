@@ -1,0 +1,41 @@
+{
+  "login": "bilix-software",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/170088768?v=4",
+  "htmlUrl": "https://github.com/bilix-software",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 338,
+      "repoCountPrimary": 2,
+      "starsContains": 338,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "pump-fun-token-launcher",
+          "fullName": "bilix-software/pump-fun-token-launcher",
+          "stars": 171,
+          "url": "https://github.com/bilix-software/pump-fun-token-launcher",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "solana-pump-fun",
+          "fullName": "bilix-software/solana-pump-fun",
+          "stars": 167,
+          "url": "https://github.com/bilix-software/solana-pump-fun",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

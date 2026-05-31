@@ -1,0 +1,34 @@
+{
+  "login": "dyaa",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/4283185?v=4",
+  "htmlUrl": "https://github.com/dyaa",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 111,
+      "repoCountPrimary": 1,
+      "starsContains": 111,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ssl-checker",
+          "fullName": "dyaa/ssl-checker",
+          "stars": 111,
+          "url": "https://github.com/dyaa/ssl-checker",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

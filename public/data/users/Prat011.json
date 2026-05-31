@@ -1,0 +1,34 @@
+{
+  "login": "Prat011",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/67639393?v=4",
+  "htmlUrl": "https://github.com/Prat011",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1454,
+      "repoCountPrimary": 1,
+      "starsContains": 1454,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "free-cluely",
+          "fullName": "Prat011/free-cluely",
+          "stars": 1454,
+          "url": "https://github.com/Prat011/free-cluely",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

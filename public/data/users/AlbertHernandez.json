@@ -1,0 +1,41 @@
+{
+  "login": "AlbertHernandez",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/29106063?v=4",
+  "htmlUrl": "https://github.com/AlbertHernandez",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 628,
+      "repoCountPrimary": 2,
+      "starsContains": 628,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "nestjs-service-template",
+          "fullName": "AlbertHernandez/nestjs-service-template",
+          "stars": 474,
+          "url": "https://github.com/AlbertHernandez/nestjs-service-template",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "express-typescript-service-template",
+          "fullName": "AlbertHernandez/express-typescript-service-template",
+          "stars": 154,
+          "url": "https://github.com/AlbertHernandez/express-typescript-service-template",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

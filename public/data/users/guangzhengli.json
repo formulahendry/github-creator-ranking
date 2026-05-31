@@ -1,0 +1,48 @@
+{
+  "login": "guangzhengli",
+  "name": "guangzhengli",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/39078991?v=4",
+  "htmlUrl": "https://github.com/guangzhengli",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3905,
+      "repoCountPrimary": 3,
+      "starsContains": 3905,
+      "repoCountContains": 3,
+      "globalRank": 681,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ChatFiles",
+          "fullName": "guangzhengli/ChatFiles",
+          "stars": 3350,
+          "url": "https://github.com/guangzhengli/ChatFiles",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vectorhub",
+          "fullName": "guangzhengli/vectorhub",
+          "stars": 388,
+          "url": "https://github.com/guangzhengli/vectorhub",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "nextjs-blog-template",
+          "fullName": "guangzhengli/nextjs-blog-template",
+          "stars": 167,
+          "url": "https://github.com/guangzhengli/nextjs-blog-template",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

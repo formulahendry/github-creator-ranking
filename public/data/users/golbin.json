@@ -1,0 +1,41 @@
+{
+  "login": "golbin",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6277035?v=4",
+  "htmlUrl": "https://github.com/golbin",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1538,
+      "repoCountPrimary": 2,
+      "starsContains": 1538,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "hop",
+          "fullName": "golbin/hop",
+          "stars": 1420,
+          "url": "https://github.com/golbin/hop",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ssaju",
+          "fullName": "golbin/ssaju",
+          "stars": 118,
+          "url": "https://github.com/golbin/ssaju",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

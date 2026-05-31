@@ -1,0 +1,34 @@
+{
+  "login": "fynnfluegge",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/16321871?v=4",
+  "htmlUrl": "https://github.com/fynnfluegge",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1334,
+      "repoCountPrimary": 1,
+      "starsContains": 1334,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "rocketnotes",
+          "fullName": "fynnfluegge/rocketnotes",
+          "stars": 1334,
+          "url": "https://github.com/fynnfluegge/rocketnotes",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

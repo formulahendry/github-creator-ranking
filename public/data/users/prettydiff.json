@@ -1,0 +1,41 @@
+{
+  "login": "prettydiff",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/524902?v=4",
+  "htmlUrl": "https://github.com/prettydiff",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1917,
+      "repoCountPrimary": 2,
+      "starsContains": 1917,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "prettydiff",
+          "fullName": "prettydiff/prettydiff",
+          "stars": 1773,
+          "url": "https://github.com/prettydiff/prettydiff",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "share-file-systems",
+          "fullName": "prettydiff/share-file-systems",
+          "stars": 144,
+          "url": "https://github.com/prettydiff/share-file-systems",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

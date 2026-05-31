@@ -1,0 +1,55 @@
+{
+  "login": "turkyden",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/24560160?v=4",
+  "htmlUrl": "https://github.com/turkyden",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1654,
+      "repoCountPrimary": 4,
+      "starsContains": 1654,
+      "repoCountContains": 4,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "lizhi",
+          "fullName": "turkyden/lizhi",
+          "stars": 1050,
+          "url": "https://github.com/turkyden/lizhi",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-darkreader",
+          "fullName": "turkyden/react-darkreader",
+          "stars": 278,
+          "url": "https://github.com/turkyden/react-darkreader",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vue-typical",
+          "fullName": "turkyden/vue-typical",
+          "stars": 172,
+          "url": "https://github.com/turkyden/vue-typical",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "watermark-pro",
+          "fullName": "turkyden/watermark-pro",
+          "stars": 154,
+          "url": "https://github.com/turkyden/watermark-pro",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

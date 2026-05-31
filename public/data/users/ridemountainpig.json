@@ -1,0 +1,41 @@
+{
+  "login": "ridemountainpig",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/92412722?v=4",
+  "htmlUrl": "https://github.com/ridemountainpig",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 281,
+      "repoCountPrimary": 2,
+      "starsContains": 281,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "subflow",
+          "fullName": "ridemountainpig/subflow",
+          "stars": 158,
+          "url": "https://github.com/ridemountainpig/subflow",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "flightcn",
+          "fullName": "ridemountainpig/flightcn",
+          "stars": 123,
+          "url": "https://github.com/ridemountainpig/flightcn",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

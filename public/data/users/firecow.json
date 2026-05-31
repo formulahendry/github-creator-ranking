@@ -1,0 +1,34 @@
+{
+  "login": "firecow",
+  "name": "Mads Jon Nielsen",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/973602?v=4",
+  "htmlUrl": "https://github.com/firecow",
+  "location": "Denmark",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3919,
+      "repoCountPrimary": 1,
+      "starsContains": 3919,
+      "repoCountContains": 1,
+      "globalRank": 678,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "gitlab-ci-local",
+          "fullName": "firecow/gitlab-ci-local",
+          "stars": 3919,
+          "url": "https://github.com/firecow/gitlab-ci-local",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

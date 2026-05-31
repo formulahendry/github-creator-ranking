@@ -1,0 +1,34 @@
+{
+  "login": "web-dave",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/8777127?v=4",
+  "htmlUrl": "https://github.com/web-dave",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 195,
+      "repoCountPrimary": 1,
+      "starsContains": 195,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ngx-img-cropper",
+          "fullName": "web-dave/ngx-img-cropper",
+          "stars": 195,
+          "url": "https://github.com/web-dave/ngx-img-cropper",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

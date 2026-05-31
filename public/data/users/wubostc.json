@@ -1,0 +1,34 @@
+{
+  "login": "wubostc",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/11424697?v=4",
+  "htmlUrl": "https://github.com/wubostc",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 234,
+      "repoCountPrimary": 1,
+      "starsContains": 234,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "virtualized-table-for-antd",
+          "fullName": "wubostc/virtualized-table-for-antd",
+          "stars": 234,
+          "url": "https://github.com/wubostc/virtualized-table-for-antd",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

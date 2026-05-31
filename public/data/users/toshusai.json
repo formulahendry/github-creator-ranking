@@ -1,0 +1,41 @@
+{
+  "login": "toshusai",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/35446607?v=4",
+  "htmlUrl": "https://github.com/toshusai",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 435,
+      "repoCountPrimary": 2,
+      "starsContains": 435,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Vega",
+          "fullName": "toshusai/Vega",
+          "stars": 290,
+          "url": "https://github.com/toshusai/Vega",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "cmpui",
+          "fullName": "toshusai/cmpui",
+          "stars": 145,
+          "url": "https://github.com/toshusai/cmpui",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

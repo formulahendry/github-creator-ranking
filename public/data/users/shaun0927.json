@@ -1,0 +1,34 @@
+{
+  "login": "shaun0927",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/70629228?v=4",
+  "htmlUrl": "https://github.com/shaun0927",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 213,
+      "repoCountPrimary": 1,
+      "starsContains": 213,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "openchrome",
+          "fullName": "shaun0927/openchrome",
+          "stars": 213,
+          "url": "https://github.com/shaun0927/openchrome",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

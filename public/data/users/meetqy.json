@@ -1,0 +1,41 @@
+{
+  "login": "meetqy",
+  "name": "meetqy",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/18411315?v=4",
+  "htmlUrl": "https://github.com/meetqy",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3666,
+      "repoCountPrimary": 2,
+      "starsContains": 3666,
+      "repoCountContains": 2,
+      "globalRank": 722,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "aspoem",
+          "fullName": "meetqy/aspoem",
+          "stars": 2870,
+          "url": "https://github.com/meetqy/aspoem",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "rao-pics",
+          "fullName": "meetqy/rao-pics",
+          "stars": 796,
+          "url": "https://github.com/meetqy/rao-pics",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

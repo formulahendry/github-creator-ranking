@@ -1,0 +1,34 @@
+{
+  "login": "michaelparkadze",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/52443367?v=4",
+  "htmlUrl": "https://github.com/michaelparkadze",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 152,
+      "repoCountPrimary": 1,
+      "starsContains": 152,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "angular-ecommerce-app",
+          "fullName": "michaelparkadze/angular-ecommerce-app",
+          "stars": 152,
+          "url": "https://github.com/michaelparkadze/angular-ecommerce-app",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

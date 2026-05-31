@@ -1,0 +1,34 @@
+{
+  "login": "UniRound-Tec",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/264955271?v=4",
+  "htmlUrl": "https://github.com/UniRound-Tec",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 754,
+      "repoCountPrimary": 1,
+      "starsContains": 754,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Aurogen",
+          "fullName": "UniRound-Tec/Aurogen",
+          "stars": 754,
+          "url": "https://github.com/UniRound-Tec/Aurogen",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "sidthesloth92",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/4656109?v=4",
+  "htmlUrl": "https://github.com/sidthesloth92",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 101,
+      "repoCountPrimary": 1,
+      "starsContains": 101,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "db-portfolio",
+          "fullName": "sidthesloth92/db-portfolio",
+          "stars": 101,
+          "url": "https://github.com/sidthesloth92/db-portfolio",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

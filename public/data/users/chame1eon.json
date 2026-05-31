@@ -1,0 +1,41 @@
+{
+  "login": "chame1eon",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/31794870?v=4",
+  "htmlUrl": "https://github.com/chame1eon",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2176,
+      "repoCountPrimary": 2,
+      "starsContains": 2176,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "jnitrace",
+          "fullName": "chame1eon/jnitrace",
+          "stars": 1844,
+          "url": "https://github.com/chame1eon/jnitrace",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "jnitrace-engine",
+          "fullName": "chame1eon/jnitrace-engine",
+          "stars": 332,
+          "url": "https://github.com/chame1eon/jnitrace-engine",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

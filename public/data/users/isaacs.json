@@ -1,0 +1,62 @@
+{
+  "login": "isaacs",
+  "name": "isaacs",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/9287?v=4",
+  "htmlUrl": "https://github.com/isaacs",
+  "location": "Oakland CA",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 15379,
+      "repoCountPrimary": 6,
+      "starsContains": 15379,
+      "repoCountContains": 6,
+      "globalRank": 125,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "node-glob",
+          "fullName": "isaacs/node-glob",
+          "stars": 8711,
+          "url": "https://github.com/isaacs/node-glob",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "rimraf",
+          "fullName": "isaacs/rimraf",
+          "stars": 5845,
+          "url": "https://github.com/isaacs/rimraf",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "minipass",
+          "fullName": "isaacs/minipass",
+          "stars": 259,
+          "url": "https://github.com/isaacs/minipass",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ttlcache",
+          "fullName": "isaacs/ttlcache",
+          "stars": 222,
+          "url": "https://github.com/isaacs/ttlcache",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "yallist",
+          "fullName": "isaacs/yallist",
+          "stars": 216,
+          "url": "https://github.com/isaacs/yallist",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

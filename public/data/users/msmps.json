@@ -1,0 +1,41 @@
+{
+  "login": "msmps",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7691252?v=4",
+  "htmlUrl": "https://github.com/msmps",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 269,
+      "repoCountPrimary": 2,
+      "starsContains": 269,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "opentui-ui",
+          "fullName": "msmps/opentui-ui",
+          "stars": 145,
+          "url": "https://github.com/msmps/opentui-ui",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "create-tui",
+          "fullName": "msmps/create-tui",
+          "stars": 124,
+          "url": "https://github.com/msmps/create-tui",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

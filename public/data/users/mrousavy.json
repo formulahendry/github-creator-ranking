@@ -1,0 +1,62 @@
+{
+  "login": "mrousavy",
+  "name": "Marc Rousavy",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/15199031?v=4",
+  "htmlUrl": "https://github.com/mrousavy",
+  "location": "Vienna, Austria",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 20459,
+      "repoCountPrimary": 6,
+      "starsContains": 20459,
+      "repoCountContains": 6,
+      "globalRank": 92,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-native-vision-camera",
+          "fullName": "mrousavy/react-native-vision-camera",
+          "stars": 9433,
+          "url": "https://github.com/mrousavy/react-native-vision-camera",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-native-mmkv",
+          "fullName": "mrousavy/react-native-mmkv",
+          "stars": 8368,
+          "url": "https://github.com/mrousavy/react-native-mmkv",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-native-fast-tflite",
+          "fullName": "mrousavy/react-native-fast-tflite",
+          "stars": 1191,
+          "url": "https://github.com/mrousavy/react-native-fast-tflite",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Colorwaver",
+          "fullName": "mrousavy/Colorwaver",
+          "stars": 677,
+          "url": "https://github.com/mrousavy/Colorwaver",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-native-nitro-image",
+          "fullName": "mrousavy/react-native-nitro-image",
+          "stars": 614,
+          "url": "https://github.com/mrousavy/react-native-nitro-image",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

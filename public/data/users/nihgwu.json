@@ -1,0 +1,41 @@
+{
+  "login": "nihgwu",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2595058?v=4",
+  "htmlUrl": "https://github.com/nihgwu",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 637,
+      "repoCountPrimary": 2,
+      "starsContains": 637,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-runner",
+          "fullName": "nihgwu/react-runner",
+          "stars": 530,
+          "url": "https://github.com/nihgwu/react-runner",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "create-slots",
+          "fullName": "nihgwu/create-slots",
+          "stars": 107,
+          "url": "https://github.com/nihgwu/create-slots",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

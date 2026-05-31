@@ -1,0 +1,34 @@
+{
+  "login": "magic-akari",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7829098?v=4",
+  "htmlUrl": "https://github.com/magic-akari",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1319,
+      "repoCountPrimary": 1,
+      "starsContains": 1319,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "lrc-maker",
+          "fullName": "magic-akari/lrc-maker",
+          "stars": 1319,
+          "url": "https://github.com/magic-akari/lrc-maker",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

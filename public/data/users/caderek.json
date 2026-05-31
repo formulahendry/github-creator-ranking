@@ -1,0 +1,48 @@
+{
+  "login": "caderek",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1690967?v=4",
+  "htmlUrl": "https://github.com/caderek",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1159,
+      "repoCountPrimary": 3,
+      "starsContains": 1159,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "benny",
+          "fullName": "caderek/benny",
+          "stars": 768,
+          "url": "https://github.com/caderek/benny",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "aocrunner",
+          "fullName": "caderek/aocrunner",
+          "stars": 198,
+          "url": "https://github.com/caderek/aocrunner",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "arrows",
+          "fullName": "caderek/arrows",
+          "stars": 193,
+          "url": "https://github.com/caderek/arrows",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

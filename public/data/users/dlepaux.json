@@ -1,0 +1,34 @@
+{
+  "login": "dlepaux",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3735879?v=4",
+  "htmlUrl": "https://github.com/dlepaux",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 301,
+      "repoCountPrimary": 1,
+      "starsContains": 301,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "realtime-bpm-analyzer",
+          "fullName": "dlepaux/realtime-bpm-analyzer",
+          "stars": 301,
+          "url": "https://github.com/dlepaux/realtime-bpm-analyzer",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "olasunkanmi-SE",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/60177090?v=4",
+  "htmlUrl": "https://github.com/olasunkanmi-SE",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 360,
+      "repoCountPrimary": 2,
+      "starsContains": 360,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "restaurant",
+          "fullName": "olasunkanmi-SE/restaurant",
+          "stars": 231,
+          "url": "https://github.com/olasunkanmi-SE/restaurant",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "codebuddy",
+          "fullName": "olasunkanmi-SE/codebuddy",
+          "stars": 129,
+          "url": "https://github.com/olasunkanmi-SE/codebuddy",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

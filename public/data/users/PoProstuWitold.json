@@ -1,0 +1,34 @@
+{
+  "login": "PoProstuWitold",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/60403442?v=4",
+  "htmlUrl": "https://github.com/PoProstuWitold",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 114,
+      "repoCountPrimary": 1,
+      "starsContains": 114,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "nest-next-boilerplate",
+          "fullName": "PoProstuWitold/nest-next-boilerplate",
+          "stars": 114,
+          "url": "https://github.com/PoProstuWitold/nest-next-boilerplate",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

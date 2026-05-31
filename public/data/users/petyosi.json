@@ -1,0 +1,34 @@
+{
+  "login": "petyosi",
+  "name": "Petyo Ivanov",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/13347?v=4",
+  "htmlUrl": "https://github.com/petyosi",
+  "location": "Sofia, Bulgaria",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 6330,
+      "repoCountPrimary": 1,
+      "starsContains": 6330,
+      "repoCountContains": 1,
+      "globalRank": 371,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-virtuoso",
+          "fullName": "petyosi/react-virtuoso",
+          "stars": 6330,
+          "url": "https://github.com/petyosi/react-virtuoso",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

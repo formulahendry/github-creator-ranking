@@ -1,0 +1,48 @@
+{
+  "login": "hardyscc",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/4487493?v=4",
+  "htmlUrl": "https://github.com/hardyscc",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 912,
+      "repoCountPrimary": 3,
+      "starsContains": 912,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "nestjs-cqrs-starter",
+          "fullName": "hardyscc/nestjs-cqrs-starter",
+          "stars": 415,
+          "url": "https://github.com/hardyscc/nestjs-cqrs-starter",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "aws-nestjs-starter",
+          "fullName": "hardyscc/aws-nestjs-starter",
+          "stars": 349,
+          "url": "https://github.com/hardyscc/aws-nestjs-starter",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "nestjs-dynamoose",
+          "fullName": "hardyscc/nestjs-dynamoose",
+          "stars": 148,
+          "url": "https://github.com/hardyscc/nestjs-dynamoose",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

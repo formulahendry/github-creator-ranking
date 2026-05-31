@@ -1,0 +1,34 @@
+{
+  "login": "mitaki28",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1253986?v=4",
+  "htmlUrl": "https://github.com/mitaki28",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 129,
+      "repoCountPrimary": 1,
+      "starsContains": 129,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vscode-clang",
+          "fullName": "mitaki28/vscode-clang",
+          "stars": 129,
+          "url": "https://github.com/mitaki28/vscode-clang",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

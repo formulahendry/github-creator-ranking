@@ -1,0 +1,34 @@
+{
+  "login": "aguiarsc",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/72396666?v=4",
+  "htmlUrl": "https://github.com/aguiarsc",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 194,
+      "repoCountPrimary": 1,
+      "starsContains": 194,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "wireframe-ui",
+          "fullName": "aguiarsc/wireframe-ui",
+          "stars": 194,
+          "url": "https://github.com/aguiarsc/wireframe-ui",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

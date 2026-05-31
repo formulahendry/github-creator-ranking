@@ -1,0 +1,48 @@
+{
+  "login": "NiazMorshed2007",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/77217706?v=4",
+  "htmlUrl": "https://github.com/NiazMorshed2007",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1367,
+      "repoCountPrimary": 3,
+      "starsContains": 1367,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "shadcn-tiptap",
+          "fullName": "NiazMorshed2007/shadcn-tiptap",
+          "stars": 701,
+          "url": "https://github.com/NiazMorshed2007/shadcn-tiptap",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "shadcn-address-autocomplete",
+          "fullName": "NiazMorshed2007/shadcn-address-autocomplete",
+          "stars": 379,
+          "url": "https://github.com/NiazMorshed2007/shadcn-address-autocomplete",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "shadcn-tour",
+          "fullName": "NiazMorshed2007/shadcn-tour",
+          "stars": 287,
+          "url": "https://github.com/NiazMorshed2007/shadcn-tour",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

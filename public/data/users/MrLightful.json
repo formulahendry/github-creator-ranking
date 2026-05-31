@@ -1,0 +1,41 @@
+{
+  "login": "MrLightful",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/14923964?v=4",
+  "htmlUrl": "https://github.com/MrLightful",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 609,
+      "repoCountPrimary": 2,
+      "starsContains": 609,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "shadcn-tree-view",
+          "fullName": "MrLightful/shadcn-tree-view",
+          "stars": 384,
+          "url": "https://github.com/MrLightful/shadcn-tree-view",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "create-tauri-react",
+          "fullName": "MrLightful/create-tauri-react",
+          "stars": 225,
+          "url": "https://github.com/MrLightful/create-tauri-react",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

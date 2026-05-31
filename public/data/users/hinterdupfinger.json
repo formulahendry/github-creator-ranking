@@ -1,0 +1,34 @@
+{
+  "login": "hinterdupfinger",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/16844326?v=4",
+  "htmlUrl": "https://github.com/hinterdupfinger",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1016,
+      "repoCountPrimary": 1,
+      "starsContains": 1016,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "obsidian-ollama",
+          "fullName": "hinterdupfinger/obsidian-ollama",
+          "stars": 1016,
+          "url": "https://github.com/hinterdupfinger/obsidian-ollama",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

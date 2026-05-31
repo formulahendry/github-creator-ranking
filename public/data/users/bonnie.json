@@ -1,0 +1,34 @@
+{
+  "login": "bonnie",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6730543?v=4",
+  "htmlUrl": "https://github.com/bonnie",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 260,
+      "repoCountPrimary": 1,
+      "starsContains": 260,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "udemy-REACT-QUERY",
+          "fullName": "bonnie/udemy-REACT-QUERY",
+          "stars": 260,
+          "url": "https://github.com/bonnie/udemy-REACT-QUERY",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

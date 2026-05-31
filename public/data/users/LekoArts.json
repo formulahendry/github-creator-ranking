@@ -1,0 +1,62 @@
+{
+  "login": "LekoArts",
+  "name": "Lennart",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/16143594?v=4",
+  "htmlUrl": "https://github.com/LekoArts",
+  "location": "Germany",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 4214,
+      "repoCountPrimary": 5,
+      "starsContains": 4214,
+      "repoCountContains": 5,
+      "globalRank": 616,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "gatsby-themes",
+          "fullName": "LekoArts/gatsby-themes",
+          "stars": 1885,
+          "url": "https://github.com/LekoArts/gatsby-themes",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "gatsby-starter-portfolio-cara",
+          "fullName": "LekoArts/gatsby-starter-portfolio-cara",
+          "stars": 1446,
+          "url": "https://github.com/LekoArts/gatsby-starter-portfolio-cara",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "gatsby-starter-portfolio-emilia",
+          "fullName": "LekoArts/gatsby-starter-portfolio-emilia",
+          "stars": 356,
+          "url": "https://github.com/LekoArts/gatsby-starter-portfolio-emilia",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "gatsby-starter-portfolio-jodie",
+          "fullName": "LekoArts/gatsby-starter-portfolio-jodie",
+          "stars": 348,
+          "url": "https://github.com/LekoArts/gatsby-starter-portfolio-jodie",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "figma-theme-ui",
+          "fullName": "LekoArts/figma-theme-ui",
+          "stars": 179,
+          "url": "https://github.com/LekoArts/figma-theme-ui",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

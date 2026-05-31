@@ -1,0 +1,34 @@
+{
+  "login": "hipcityreg",
+  "name": "Reggie",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/67387280?v=4",
+  "htmlUrl": "https://github.com/hipcityreg",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 4124,
+      "repoCountPrimary": 1,
+      "starsContains": 4124,
+      "repoCountContains": 1,
+      "globalRank": 635,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "situation-monitor",
+          "fullName": "hipcityreg/situation-monitor",
+          "stars": 4124,
+          "url": "https://github.com/hipcityreg/situation-monitor",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

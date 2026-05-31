@@ -1,0 +1,62 @@
+{
+  "login": "lissy93",
+  "name": "Alicia Sykes",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1862727?v=4",
+  "htmlUrl": "https://github.com/lissy93",
+  "location": "London, UK",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 56617,
+      "repoCountPrimary": 5,
+      "starsContains": 56617,
+      "repoCountContains": 5,
+      "globalRank": 13,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "web-check",
+          "fullName": "lissy93/web-check",
+          "stars": 33267,
+          "url": "https://github.com/lissy93/web-check",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "personal-security-checklist",
+          "fullName": "lissy93/personal-security-checklist",
+          "stars": 21560,
+          "url": "https://github.com/lissy93/personal-security-checklist",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "domain-locker",
+          "fullName": "lissy93/domain-locker",
+          "stars": 1370,
+          "url": "https://github.com/lissy93/domain-locker",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "bug-bounties",
+          "fullName": "lissy93/bug-bounties",
+          "stars": 244,
+          "url": "https://github.com/lissy93/bug-bounties",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "email-comparison",
+          "fullName": "lissy93/email-comparison",
+          "stars": 176,
+          "url": "https://github.com/lissy93/email-comparison",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

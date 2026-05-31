@@ -1,0 +1,41 @@
+{
+  "login": "azouaoui-med",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/25878302?v=4",
+  "htmlUrl": "https://github.com/azouaoui-med",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2004,
+      "repoCountPrimary": 2,
+      "starsContains": 2004,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-pro-sidebar",
+          "fullName": "azouaoui-med/react-pro-sidebar",
+          "stars": 1796,
+          "url": "https://github.com/azouaoui-med/react-pro-sidebar",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "angular-pro-sidebar",
+          "fullName": "azouaoui-med/angular-pro-sidebar",
+          "stars": 208,
+          "url": "https://github.com/azouaoui-med/angular-pro-sidebar",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

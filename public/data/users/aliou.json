@@ -1,0 +1,41 @@
+{
+  "login": "aliou",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/980367?v=4",
+  "htmlUrl": "https://github.com/aliou",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 267,
+      "repoCountPrimary": 2,
+      "starsContains": 267,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "pi-guardrails",
+          "fullName": "aliou/pi-guardrails",
+          "stars": 158,
+          "url": "https://github.com/aliou/pi-guardrails",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "pi-harness",
+          "fullName": "aliou/pi-harness",
+          "stars": 109,
+          "url": "https://github.com/aliou/pi-harness",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

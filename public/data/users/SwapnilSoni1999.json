@@ -1,0 +1,41 @@
+{
+  "login": "SwapnilSoni1999",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/25403317?v=4",
+  "htmlUrl": "https://github.com/SwapnilSoni1999",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 274,
+      "repoCountPrimary": 2,
+      "starsContains": 274,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "amul-notify",
+          "fullName": "SwapnilSoni1999/amul-notify",
+          "stars": 166,
+          "url": "https://github.com/SwapnilSoni1999/amul-notify",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "messages-web",
+          "fullName": "SwapnilSoni1999/messages-web",
+          "stars": 108,
+          "url": "https://github.com/SwapnilSoni1999/messages-web",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

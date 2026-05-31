@@ -1,0 +1,34 @@
+{
+  "login": "simplifaisoul",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/241641249?v=4",
+  "htmlUrl": "https://github.com/simplifaisoul",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3896,
+      "repoCountPrimary": 1,
+      "starsContains": 3896,
+      "repoCountContains": 1,
+      "globalRank": 684,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "osiris",
+          "fullName": "simplifaisoul/osiris",
+          "stars": 3896,
+          "url": "https://github.com/simplifaisoul/osiris",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

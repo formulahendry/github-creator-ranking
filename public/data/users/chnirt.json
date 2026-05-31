@@ -1,0 +1,41 @@
+{
+  "login": "chnirt",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/35022967?v=4",
+  "htmlUrl": "https://github.com/chnirt",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1636,
+      "repoCountPrimary": 2,
+      "starsContains": 1636,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "nestjs-graphql-best-practice",
+          "fullName": "chnirt/nestjs-graphql-best-practice",
+          "stars": 1369,
+          "url": "https://github.com/chnirt/nestjs-graphql-best-practice",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "nestjs-restful-best-practice",
+          "fullName": "chnirt/nestjs-restful-best-practice",
+          "stars": 267,
+          "url": "https://github.com/chnirt/nestjs-restful-best-practice",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

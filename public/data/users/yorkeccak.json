@@ -1,0 +1,55 @@
+{
+  "login": "yorkeccak",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/108807429?v=4",
+  "htmlUrl": "https://github.com/yorkeccak",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2207,
+      "repoCountPrimary": 4,
+      "starsContains": 2207,
+      "repoCountContains": 4,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "finance",
+          "fullName": "yorkeccak/finance",
+          "stars": 856,
+          "url": "https://github.com/yorkeccak/finance",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Polyseer",
+          "fullName": "yorkeccak/Polyseer",
+          "stars": 657,
+          "url": "https://github.com/yorkeccak/Polyseer",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "history",
+          "fullName": "yorkeccak/history",
+          "stars": 369,
+          "url": "https://github.com/yorkeccak/history",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "bio",
+          "fullName": "yorkeccak/bio",
+          "stars": 325,
+          "url": "https://github.com/yorkeccak/bio",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

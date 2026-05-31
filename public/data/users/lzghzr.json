@@ -1,0 +1,41 @@
+{
+  "login": "lzghzr",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/13391314?v=4",
+  "htmlUrl": "https://github.com/lzghzr",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 694,
+      "repoCountPrimary": 2,
+      "starsContains": 694,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "MDR_Proxy",
+          "fullName": "lzghzr/MDR_Proxy",
+          "stars": 418,
+          "url": "https://github.com/lzghzr/MDR_Proxy",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "TampermonkeyJS",
+          "fullName": "lzghzr/TampermonkeyJS",
+          "stars": 276,
+          "url": "https://github.com/lzghzr/TampermonkeyJS",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "vasu31dev",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/32603657?v=4",
+  "htmlUrl": "https://github.com/vasu31dev",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 237,
+      "repoCountPrimary": 2,
+      "starsContains": 237,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "playwright-ts-template",
+          "fullName": "vasu31dev/playwright-ts-template",
+          "stars": 135,
+          "url": "https://github.com/vasu31dev/playwright-ts-template",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "playwright-ts",
+          "fullName": "vasu31dev/playwright-ts",
+          "stars": 102,
+          "url": "https://github.com/vasu31dev/playwright-ts",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

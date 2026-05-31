@@ -1,0 +1,34 @@
+{
+  "login": "851235550",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/12993450?v=4",
+  "htmlUrl": "https://github.com/851235550",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 627,
+      "repoCountPrimary": 1,
+      "starsContains": 627,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "how-to-buy-house",
+          "fullName": "851235550/how-to-buy-house",
+          "stars": 627,
+          "url": "https://github.com/851235550/how-to-buy-house",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

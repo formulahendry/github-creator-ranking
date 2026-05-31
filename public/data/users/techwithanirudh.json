@@ -1,0 +1,41 @@
+{
+  "login": "techwithanirudh",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/70373803?v=4",
+  "htmlUrl": "https://github.com/techwithanirudh",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 368,
+      "repoCountPrimary": 2,
+      "starsContains": 368,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "shadcn-portfolio",
+          "fullName": "techwithanirudh/shadcn-portfolio",
+          "stars": 210,
+          "url": "https://github.com/techwithanirudh/shadcn-portfolio",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "coolify-tweaks",
+          "fullName": "techwithanirudh/coolify-tweaks",
+          "stars": 158,
+          "url": "https://github.com/techwithanirudh/coolify-tweaks",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

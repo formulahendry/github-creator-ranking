@@ -1,0 +1,34 @@
+{
+  "login": "iib0011",
+  "name": "Ibrahima G. Coulibaly",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/58892076?v=4",
+  "htmlUrl": "https://github.com/iib0011",
+  "location": "Casablanca",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 9577,
+      "repoCountPrimary": 1,
+      "starsContains": 9577,
+      "repoCountContains": 1,
+      "globalRank": 235,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "omni-tools",
+          "fullName": "iib0011/omni-tools",
+          "stars": 9577,
+          "url": "https://github.com/iib0011/omni-tools",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

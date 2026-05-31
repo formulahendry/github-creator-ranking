@@ -1,0 +1,41 @@
+{
+  "login": "c4spar",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/61995275?v=4",
+  "htmlUrl": "https://github.com/c4spar",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1296,
+      "repoCountPrimary": 2,
+      "starsContains": 1296,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "cliffy",
+          "fullName": "c4spar/cliffy",
+          "stars": 1155,
+          "url": "https://github.com/c4spar/cliffy",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "deno-dzx",
+          "fullName": "c4spar/deno-dzx",
+          "stars": 141,
+          "url": "https://github.com/c4spar/deno-dzx",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

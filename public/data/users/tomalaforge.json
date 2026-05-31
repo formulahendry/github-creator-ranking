@@ -1,0 +1,34 @@
+{
+  "login": "tomalaforge",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/30832608?v=4",
+  "htmlUrl": "https://github.com/tomalaforge",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1379,
+      "repoCountPrimary": 1,
+      "starsContains": 1379,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "angular-challenges",
+          "fullName": "tomalaforge/angular-challenges",
+          "stars": 1379,
+          "url": "https://github.com/tomalaforge/angular-challenges",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "justinmahar",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3472836?v=4",
+  "htmlUrl": "https://github.com/justinmahar",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 320,
+      "repoCountPrimary": 1,
+      "starsContains": 320,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-social-media-embed",
+          "fullName": "justinmahar/react-social-media-embed",
+          "stars": 320,
+          "url": "https://github.com/justinmahar/react-social-media-embed",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

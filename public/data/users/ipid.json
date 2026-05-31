@@ -1,0 +1,34 @@
+{
+  "login": "ipid",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5251264?v=4",
+  "htmlUrl": "https://github.com/ipid",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1663,
+      "repoCountPrimary": 1,
+      "starsContains": 1663,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "unlock-music",
+          "fullName": "ipid/unlock-music",
+          "stars": 1663,
+          "url": "https://github.com/ipid/unlock-music",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

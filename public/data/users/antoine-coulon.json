@@ -1,0 +1,41 @@
+{
+  "login": "antoine-coulon",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/43391199?v=4",
+  "htmlUrl": "https://github.com/antoine-coulon",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1198,
+      "repoCountPrimary": 2,
+      "starsContains": 1198,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "skott",
+          "fullName": "antoine-coulon/skott",
+          "stars": 858,
+          "url": "https://github.com/antoine-coulon/skott",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "effect-introduction",
+          "fullName": "antoine-coulon/effect-introduction",
+          "stars": 340,
+          "url": "https://github.com/antoine-coulon/effect-introduction",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

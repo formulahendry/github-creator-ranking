@@ -1,0 +1,48 @@
+{
+  "login": "arkon",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/4098258?v=4",
+  "htmlUrl": "https://github.com/arkon",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 827,
+      "repoCountPrimary": 3,
+      "starsContains": 827,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ng-sidebar",
+          "fullName": "arkon/ng-sidebar",
+          "stars": 387,
+          "url": "https://github.com/arkon/ng-sidebar",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ng-click-outside",
+          "fullName": "arkon/ng-click-outside",
+          "stars": 230,
+          "url": "https://github.com/arkon/ng-click-outside",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ng-inline-svg",
+          "fullName": "arkon/ng-inline-svg",
+          "stars": 210,
+          "url": "https://github.com/arkon/ng-inline-svg",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

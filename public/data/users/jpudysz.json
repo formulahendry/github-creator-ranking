@@ -1,0 +1,41 @@
+{
+  "login": "jpudysz",
+  "name": "Jacek Pudysz",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/9088288?v=4",
+  "htmlUrl": "https://github.com/jpudysz",
+  "location": "Poland, Rzeszow",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2994,
+      "repoCountPrimary": 2,
+      "starsContains": 2994,
+      "repoCountContains": 2,
+      "globalRank": 897,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-native-unistyles",
+          "fullName": "jpudysz/react-native-unistyles",
+          "stars": 2885,
+          "url": "https://github.com/jpudysz/react-native-unistyles",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-native-turbo-mock-location-detector",
+          "fullName": "jpudysz/react-native-turbo-mock-location-detector",
+          "stars": 109,
+          "url": "https://github.com/jpudysz/react-native-turbo-mock-location-detector",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

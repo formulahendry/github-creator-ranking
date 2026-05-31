@@ -1,0 +1,41 @@
+{
+  "login": "ovr",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/572096?v=4",
+  "htmlUrl": "https://github.com/ovr",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1126,
+      "repoCountPrimary": 2,
+      "starsContains": 1126,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "StaticScript",
+          "fullName": "ovr/StaticScript",
+          "stars": 656,
+          "url": "https://github.com/ovr/StaticScript",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-native-status-bar-height",
+          "fullName": "ovr/react-native-status-bar-height",
+          "stars": 470,
+          "url": "https://github.com/ovr/react-native-status-bar-height",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

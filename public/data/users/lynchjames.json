@@ -1,0 +1,48 @@
+{
+  "login": "lynchjames",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/113271?v=4",
+  "htmlUrl": "https://github.com/lynchjames",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2110,
+      "repoCountPrimary": 3,
+      "starsContains": 2110,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "obsidian-mind-map",
+          "fullName": "lynchjames/obsidian-mind-map",
+          "stars": 1386,
+          "url": "https://github.com/lynchjames/obsidian-mind-map",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "note-refactor-obsidian",
+          "fullName": "lynchjames/note-refactor-obsidian",
+          "stars": 624,
+          "url": "https://github.com/lynchjames/note-refactor-obsidian",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "obsidian-writing-goals",
+          "fullName": "lynchjames/obsidian-writing-goals",
+          "stars": 100,
+          "url": "https://github.com/lynchjames/obsidian-writing-goals",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

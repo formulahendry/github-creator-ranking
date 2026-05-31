@@ -1,0 +1,34 @@
+{
+  "login": "bluewings",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1563202?v=4",
+  "htmlUrl": "https://github.com/bluewings",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 231,
+      "repoCountPrimary": 1,
+      "starsContains": 231,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "korean-regexp",
+          "fullName": "bluewings/korean-regexp",
+          "stars": 231,
+          "url": "https://github.com/bluewings/korean-regexp",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

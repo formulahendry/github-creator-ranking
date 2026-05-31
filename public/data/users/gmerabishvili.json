@@ -1,0 +1,34 @@
+{
+  "login": "gmerabishvili",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/13429992?v=4",
+  "htmlUrl": "https://github.com/gmerabishvili",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 158,
+      "repoCountPrimary": 1,
+      "starsContains": 158,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "angular-ng-autocomplete",
+          "fullName": "gmerabishvili/angular-ng-autocomplete",
+          "stars": 158,
+          "url": "https://github.com/gmerabishvili/angular-ng-autocomplete",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

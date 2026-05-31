@@ -1,0 +1,34 @@
+{
+  "login": "federico-terzi",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/20475953?v=4",
+  "htmlUrl": "https://github.com/federico-terzi",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 125,
+      "repoCountPrimary": 1,
+      "starsContains": 125,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "raji",
+          "fullName": "federico-terzi/raji",
+          "stars": 125,
+          "url": "https://github.com/federico-terzi/raji",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

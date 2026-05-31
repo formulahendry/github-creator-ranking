@@ -1,0 +1,48 @@
+{
+  "login": "leinelissen",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/10154841?v=4",
+  "htmlUrl": "https://github.com/leinelissen",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1680,
+      "repoCountPrimary": 3,
+      "starsContains": 1680,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "jellyfin-audio-player",
+          "fullName": "leinelissen/jellyfin-audio-player",
+          "stars": 1382,
+          "url": "https://github.com/leinelissen/jellyfin-audio-player",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "aeon",
+          "fullName": "leinelissen/aeon",
+          "stars": 165,
+          "url": "https://github.com/leinelissen/aeon",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "embedded-postgres",
+          "fullName": "leinelissen/embedded-postgres",
+          "stars": 133,
+          "url": "https://github.com/leinelissen/embedded-postgres",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

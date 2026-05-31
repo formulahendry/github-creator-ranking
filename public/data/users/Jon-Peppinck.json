@@ -1,0 +1,41 @@
+{
+  "login": "Jon-Peppinck",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/44833716?v=4",
+  "htmlUrl": "https://github.com/Jon-Peppinck",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 396,
+      "repoCountPrimary": 2,
+      "starsContains": 396,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "linkedin-clone",
+          "fullName": "Jon-Peppinck/linkedin-clone",
+          "stars": 228,
+          "url": "https://github.com/Jon-Peppinck/linkedin-clone",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "messenger-api",
+          "fullName": "Jon-Peppinck/messenger-api",
+          "stars": 168,
+          "url": "https://github.com/Jon-Peppinck/messenger-api",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

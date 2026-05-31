@@ -1,0 +1,34 @@
+{
+  "login": "salarcode",
+  "name": "Salar K",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1272095?v=4",
+  "htmlUrl": "https://github.com/salarcode",
+  "location": "Melbourne",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2688,
+      "repoCountPrimary": 1,
+      "starsContains": 2688,
+      "repoCountContains": 1,
+      "globalRank": 995,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "SmartProxy",
+          "fullName": "salarcode/SmartProxy",
+          "stars": 2688,
+          "url": "https://github.com/salarcode/SmartProxy",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

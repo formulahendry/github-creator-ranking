@@ -1,0 +1,41 @@
+{
+  "login": "lucadibello",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/37295664?v=4",
+  "htmlUrl": "https://github.com/lucadibello",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 244,
+      "repoCountPrimary": 2,
+      "starsContains": 244,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "in-house-greenhouse",
+          "fullName": "lucadibello/in-house-greenhouse",
+          "stars": 130,
+          "url": "https://github.com/lucadibello/in-house-greenhouse",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "nextjs-jwt-auth-boilerplate",
+          "fullName": "lucadibello/nextjs-jwt-auth-boilerplate",
+          "stars": 114,
+          "url": "https://github.com/lucadibello/nextjs-jwt-auth-boilerplate",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

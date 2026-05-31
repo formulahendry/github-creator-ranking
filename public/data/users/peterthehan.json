@@ -1,0 +1,48 @@
+{
+  "login": "peterthehan",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/16639331?v=4",
+  "htmlUrl": "https://github.com/peterthehan",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 412,
+      "repoCountPrimary": 3,
+      "starsContains": 412,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "create-discord-bot",
+          "fullName": "peterthehan/create-discord-bot",
+          "stars": 164,
+          "url": "https://github.com/peterthehan/create-discord-bot",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "discord-reaction-role-bot",
+          "fullName": "peterthehan/discord-reaction-role-bot",
+          "stars": 125,
+          "url": "https://github.com/peterthehan/discord-reaction-role-bot",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "discord-audit-log-bot",
+          "fullName": "peterthehan/discord-audit-log-bot",
+          "stars": 123,
+          "url": "https://github.com/peterthehan/discord-audit-log-bot",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

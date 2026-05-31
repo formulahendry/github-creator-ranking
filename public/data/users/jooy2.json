@@ -1,0 +1,41 @@
+{
+  "login": "jooy2",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/48266008?v=4",
+  "htmlUrl": "https://github.com/jooy2",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 599,
+      "repoCountPrimary": 2,
+      "starsContains": 599,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vutron",
+          "fullName": "jooy2/vutron",
+          "stars": 331,
+          "url": "https://github.com/jooy2/vutron",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vitepress-sidebar",
+          "fullName": "jooy2/vitepress-sidebar",
+          "stars": 268,
+          "url": "https://github.com/jooy2/vitepress-sidebar",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "hanielu",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/28874974?v=4",
+  "htmlUrl": "https://github.com/hanielu",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 477,
+      "repoCountPrimary": 2,
+      "starsContains": 477,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "dnd-kit-svelte",
+          "fullName": "hanielu/dnd-kit-svelte",
+          "stars": 330,
+          "url": "https://github.com/hanielu/dnd-kit-svelte",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "motion-svelte",
+          "fullName": "hanielu/motion-svelte",
+          "stars": 147,
+          "url": "https://github.com/hanielu/motion-svelte",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

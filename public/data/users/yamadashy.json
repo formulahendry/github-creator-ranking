@@ -1,11 +1,11 @@
 {
   "login": "yamadashy",
-  "name": null,
+  "name": "Kazuki Yamada",
   "avatarUrl": "https://avatars.githubusercontent.com/u/5019072?v=4",
   "htmlUrl": "https://github.com/yamadashy",
-  "location": null,
+  "location": "Tokyo/Japan",
   "countryCode": null,
-  "generatedAt": "2026-05-31T13:50:40.799Z",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
   "isPartial": true,
   "languages": [
     {
@@ -14,18 +14,32 @@
         "name": "TypeScript",
         "githubQuery": "TypeScript"
       },
-      "starsPrimary": 25790,
-      "repoCountPrimary": 1,
-      "starsContains": 25790,
-      "repoCountContains": 1,
-      "globalRank": null,
+      "starsPrimary": 26102,
+      "repoCountPrimary": 3,
+      "starsContains": 26102,
+      "repoCountContains": 3,
+      "globalRank": 59,
       "countryRank": null,
       "topRepos": [
         {
           "name": "repomix",
           "fullName": "yamadashy/repomix",
-          "stars": 25790,
+          "stars": 25799,
           "url": "https://github.com/yamadashy/repomix",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "tech-blog-rss-feed",
+          "fullName": "yamadashy/tech-blog-rss-feed",
+          "stars": 198,
+          "url": "https://github.com/yamadashy/tech-blog-rss-feed",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "slack-channels-grouping",
+          "fullName": "yamadashy/slack-channels-grouping",
+          "stars": 105,
+          "url": "https://github.com/yamadashy/slack-channels-grouping",
           "primaryLanguage": "TypeScript"
         }
       ]

@@ -1,0 +1,41 @@
+{
+  "login": "amarkes",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6019683?v=4",
+  "htmlUrl": "https://github.com/amarkes",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 227,
+      "repoCountPrimary": 2,
+      "starsContains": 227,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "br-mask",
+          "fullName": "amarkes/br-mask",
+          "stars": 116,
+          "url": "https://github.com/amarkes/br-mask",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "br-masker-ionic-3",
+          "fullName": "amarkes/br-masker-ionic-3",
+          "stars": 111,
+          "url": "https://github.com/amarkes/br-masker-ionic-3",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

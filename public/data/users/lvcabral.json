@@ -1,0 +1,34 @@
+{
+  "login": "lvcabral",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/16841645?v=4",
+  "htmlUrl": "https://github.com/lvcabral",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 125,
+      "repoCountPrimary": 1,
+      "starsContains": 125,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "brs-engine",
+          "fullName": "lvcabral/brs-engine",
+          "stars": 125,
+          "url": "https://github.com/lvcabral/brs-engine",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

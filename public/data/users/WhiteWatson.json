@@ -1,0 +1,34 @@
+{
+  "login": "WhiteWatson",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/48992972?v=4",
+  "htmlUrl": "https://github.com/WhiteWatson",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 207,
+      "repoCountPrimary": 1,
+      "starsContains": 207,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "wx-bot-client",
+          "fullName": "WhiteWatson/wx-bot-client",
+          "stars": 207,
+          "url": "https://github.com/WhiteWatson/wx-bot-client",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

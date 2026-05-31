@@ -1,0 +1,41 @@
+{
+  "login": "agrawal-d",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7714968?v=4",
+  "htmlUrl": "https://github.com/agrawal-d",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1210,
+      "repoCountPrimary": 2,
+      "starsContains": 1210,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "cph",
+          "fullName": "agrawal-d/cph",
+          "stars": 1078,
+          "url": "https://github.com/agrawal-d/cph",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "cph-submit",
+          "fullName": "agrawal-d/cph-submit",
+          "stars": 132,
+          "url": "https://github.com/agrawal-d/cph-submit",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

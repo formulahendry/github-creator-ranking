@@ -1,0 +1,62 @@
+{
+  "login": "bcherny",
+  "name": "Boris Cherny",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1761758?v=4",
+  "htmlUrl": "https://github.com/bcherny",
+  "location": "San Francisco",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 5933,
+      "repoCountPrimary": 5,
+      "starsContains": 5933,
+      "repoCountContains": 5,
+      "globalRank": 403,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "json-schema-to-typescript",
+          "fullName": "bcherny/json-schema-to-typescript",
+          "stars": 3299,
+          "url": "https://github.com/bcherny/json-schema-to-typescript",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "undux",
+          "fullName": "bcherny/undux",
+          "stars": 1551,
+          "url": "https://github.com/bcherny/undux",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "programming-typescript-answers",
+          "fullName": "bcherny/programming-typescript-answers",
+          "stars": 547,
+          "url": "https://github.com/bcherny/programming-typescript-answers",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "flow-to-typescript",
+          "fullName": "bcherny/flow-to-typescript",
+          "stars": 436,
+          "url": "https://github.com/bcherny/flow-to-typescript",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ngimport",
+          "fullName": "bcherny/ngimport",
+          "stars": 100,
+          "url": "https://github.com/bcherny/ngimport",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

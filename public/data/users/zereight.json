@@ -1,0 +1,34 @@
+{
+  "login": "zereight",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/42544600?v=4",
+  "htmlUrl": "https://github.com/zereight",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1603,
+      "repoCountPrimary": 1,
+      "starsContains": 1603,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "gitlab-mcp",
+          "fullName": "zereight/gitlab-mcp",
+          "stars": 1603,
+          "url": "https://github.com/zereight/gitlab-mcp",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

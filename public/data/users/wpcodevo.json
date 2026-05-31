@@ -1,0 +1,48 @@
+{
+  "login": "wpcodevo",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/58881120?v=4",
+  "htmlUrl": "https://github.com/wpcodevo",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 620,
+      "repoCountPrimary": 3,
+      "starsContains": 620,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "nextauth-nextjs13-prisma",
+          "fullName": "wpcodevo/nextauth-nextjs13-prisma",
+          "stars": 255,
+          "url": "https://github.com/wpcodevo/nextauth-nextjs13-prisma",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "JWT_Authentication_React",
+          "fullName": "wpcodevo/JWT_Authentication_React",
+          "stars": 241,
+          "url": "https://github.com/wpcodevo/JWT_Authentication_React",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "nextjs13-react-query",
+          "fullName": "wpcodevo/nextjs13-react-query",
+          "stars": 124,
+          "url": "https://github.com/wpcodevo/nextjs13-react-query",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

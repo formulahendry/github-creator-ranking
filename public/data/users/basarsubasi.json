@@ -1,0 +1,34 @@
+{
+  "login": "basarsubasi",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/111052826?v=4",
+  "htmlUrl": "https://github.com/basarsubasi",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 216,
+      "repoCountPrimary": 1,
+      "starsContains": 216,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "simplefitnessapp",
+          "fullName": "basarsubasi/simplefitnessapp",
+          "stars": 216,
+          "url": "https://github.com/basarsubasi/simplefitnessapp",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

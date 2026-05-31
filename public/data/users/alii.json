@@ -1,0 +1,62 @@
+{
+  "login": "alii",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/25351731?v=4",
+  "htmlUrl": "https://github.com/alii",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1301,
+      "repoCountPrimary": 7,
+      "starsContains": 1301,
+      "repoCountContains": 7,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "azs",
+          "fullName": "alii/azs",
+          "stars": 343,
+          "url": "https://github.com/alii/azs",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "website",
+          "fullName": "alii/website",
+          "stars": 237,
+          "url": "https://github.com/alii/website",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "pathcat",
+          "fullName": "alii/pathcat",
+          "stars": 200,
+          "url": "https://github.com/alii/pathcat",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "searchy",
+          "fullName": "alii/searchy",
+          "stars": 152,
+          "url": "https://github.com/alii/searchy",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "linear-style",
+          "fullName": "alii/linear-style",
+          "stars": 125,
+          "url": "https://github.com/alii/linear-style",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "indus",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2046274?v=4",
+  "htmlUrl": "https://github.com/indus",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 278,
+      "repoCountPrimary": 2,
+      "starsContains": 278,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ncc",
+          "fullName": "indus/ncc",
+          "stars": 175,
+          "url": "https://github.com/indus/ncc",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Zodiac",
+          "fullName": "indus/Zodiac",
+          "stars": 103,
+          "url": "https://github.com/indus/Zodiac",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

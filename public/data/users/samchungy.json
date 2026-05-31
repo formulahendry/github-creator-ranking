@@ -1,0 +1,41 @@
+{
+  "login": "samchungy",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/18017094?v=4",
+  "htmlUrl": "https://github.com/samchungy",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 749,
+      "repoCountPrimary": 2,
+      "starsContains": 749,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "zod-openapi",
+          "fullName": "samchungy/zod-openapi",
+          "stars": 627,
+          "url": "https://github.com/samchungy/zod-openapi",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "fastify-zod-openapi",
+          "fullName": "samchungy/fastify-zod-openapi",
+          "stars": 122,
+          "url": "https://github.com/samchungy/fastify-zod-openapi",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

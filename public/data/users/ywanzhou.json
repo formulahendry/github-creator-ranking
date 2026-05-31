@@ -1,0 +1,34 @@
+{
+  "login": "ywanzhou",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/70807175?v=4",
+  "htmlUrl": "https://github.com/ywanzhou",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 496,
+      "repoCountPrimary": 1,
+      "starsContains": 496,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vue3-template",
+          "fullName": "ywanzhou/vue3-template",
+          "stars": 496,
+          "url": "https://github.com/ywanzhou/vue3-template",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "login": "qufei1993",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/17956058?v=4",
+  "htmlUrl": "https://github.com/qufei1993",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 374,
+      "repoCountPrimary": 3,
+      "starsContains": 374,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "cc-weixin",
+          "fullName": "qufei1993/cc-weixin",
+          "stars": 142,
+          "url": "https://github.com/qufei1993/cc-weixin",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "nextjs-learn-example",
+          "fullName": "qufei1993/nextjs-learn-example",
+          "stars": 121,
+          "url": "https://github.com/qufei1993/nextjs-learn-example",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "compressor",
+          "fullName": "qufei1993/compressor",
+          "stars": 111,
+          "url": "https://github.com/qufei1993/compressor",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

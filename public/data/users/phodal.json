@@ -1,0 +1,62 @@
+{
+  "login": "phodal",
+  "name": "Fengda Huang",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/472311?v=4",
+  "htmlUrl": "https://github.com/phodal",
+  "location": "Hangzhou",
+  "countryCode": "CN",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 8454,
+      "repoCountPrimary": 8,
+      "starsContains": 8454,
+      "repoCountContains": 8,
+      "globalRank": 268,
+      "countryRank": 32,
+      "topRepos": [
+        {
+          "name": "ledge",
+          "fullName": "phodal/ledge",
+          "stars": 2174,
+          "url": "https://github.com/phodal/ledge",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "growth-ionic",
+          "fullName": "phodal/growth-ionic",
+          "stars": 2150,
+          "url": "https://github.com/phodal/growth-ionic",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "routa",
+          "fullName": "phodal/routa",
+          "stars": 1622,
+          "url": "https://github.com/phodal/routa",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "mooa",
+          "fullName": "phodal/mooa",
+          "stars": 844,
+          "url": "https://github.com/phodal/mooa",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "clean-frontend",
+          "fullName": "phodal/clean-frontend",
+          "stars": 837,
+          "url": "https://github.com/phodal/clean-frontend",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

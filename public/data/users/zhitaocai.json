@@ -1,0 +1,62 @@
+{
+  "login": "zhitaocai",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5856724?v=4",
+  "htmlUrl": "https://github.com/zhitaocai",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1159,
+      "repoCountPrimary": 5,
+      "starsContains": 1159,
+      "repoCountContains": 5,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "CocosCreator-Shader-Effect-Demo",
+          "fullName": "zhitaocai/CocosCreator-Shader-Effect-Demo",
+          "stars": 476,
+          "url": "https://github.com/zhitaocai/CocosCreator-Shader-Effect-Demo",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "CocosCreator-Multi-resolution-Adapter",
+          "fullName": "zhitaocai/CocosCreator-Multi-resolution-Adapter",
+          "stars": 320,
+          "url": "https://github.com/zhitaocai/CocosCreator-Multi-resolution-Adapter",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "CocosCreator-GG-Framework",
+          "fullName": "zhitaocai/CocosCreator-GG-Framework",
+          "stars": 138,
+          "url": "https://github.com/zhitaocai/CocosCreator-GG-Framework",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "CocosCreator-Build-Encrypt",
+          "fullName": "zhitaocai/CocosCreator-Build-Encrypt",
+          "stars": 118,
+          "url": "https://github.com/zhitaocai/CocosCreator-Build-Encrypt",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "CocosCreator-ScrollVIewPlus",
+          "fullName": "zhitaocai/CocosCreator-ScrollVIewPlus",
+          "stars": 107,
+          "url": "https://github.com/zhitaocai/CocosCreator-ScrollVIewPlus",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

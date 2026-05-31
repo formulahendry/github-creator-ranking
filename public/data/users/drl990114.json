@@ -1,0 +1,34 @@
+{
+  "login": "drl990114",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/48054715?v=4",
+  "htmlUrl": "https://github.com/drl990114",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2311,
+      "repoCountPrimary": 1,
+      "starsContains": 2311,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "MarkFlowy",
+          "fullName": "drl990114/MarkFlowy",
+          "stars": 2311,
+          "url": "https://github.com/drl990114/MarkFlowy",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

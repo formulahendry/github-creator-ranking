@@ -1,0 +1,62 @@
+{
+  "login": "jherr",
+  "name": "Jack Herrington",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/22392?v=4",
+  "htmlUrl": "https://github.com/jherr",
+  "location": "Happy Valley, OR",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3104,
+      "repoCountPrimary": 12,
+      "starsContains": 3104,
+      "repoCountContains": 12,
+      "globalRank": 869,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "create-mf-app",
+          "fullName": "jherr/create-mf-app",
+          "stars": 785,
+          "url": "https://github.com/jherr/create-mf-app",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "depth-of-field",
+          "fullName": "jherr/depth-of-field",
+          "stars": 539,
+          "url": "https://github.com/jherr/depth-of-field",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "fast-react-context",
+          "fullName": "jherr/fast-react-context",
+          "stars": 375,
+          "url": "https://github.com/jherr/fast-react-context",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "no-bs-ts",
+          "fullName": "jherr/no-bs-ts",
+          "stars": 267,
+          "url": "https://github.com/jherr/no-bs-ts",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "nextjs-state-management",
+          "fullName": "jherr/nextjs-state-management",
+          "stars": 221,
+          "url": "https://github.com/jherr/nextjs-state-management",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

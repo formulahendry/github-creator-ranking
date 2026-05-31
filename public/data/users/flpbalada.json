@@ -1,0 +1,34 @@
+{
+  "login": "flpbalada",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/23239482?v=4",
+  "htmlUrl": "https://github.com/flpbalada",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 254,
+      "repoCountPrimary": 1,
+      "starsContains": 254,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "my-opencode-config",
+          "fullName": "flpbalada/my-opencode-config",
+          "stars": 254,
+          "url": "https://github.com/flpbalada/my-opencode-config",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

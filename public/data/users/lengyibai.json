@@ -1,0 +1,34 @@
+{
+  "login": "lengyibai",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/74140255?v=4",
+  "htmlUrl": "https://github.com/lengyibai",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 821,
+      "repoCountPrimary": 1,
+      "starsContains": 821,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "wzry",
+          "fullName": "lengyibai/wzry",
+          "stars": 821,
+          "url": "https://github.com/lengyibai/wzry",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

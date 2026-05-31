@@ -1,0 +1,34 @@
+{
+  "login": "kwent",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/879780?v=4",
+  "htmlUrl": "https://github.com/kwent",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 322,
+      "repoCountPrimary": 1,
+      "starsContains": 322,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "syno",
+          "fullName": "kwent/syno",
+          "stars": 322,
+          "url": "https://github.com/kwent/syno",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

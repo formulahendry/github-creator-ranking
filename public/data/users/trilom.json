@@ -1,0 +1,34 @@
+{
+  "login": "trilom",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7476973?v=4",
+  "htmlUrl": "https://github.com/trilom",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 166,
+      "repoCountPrimary": 1,
+      "starsContains": 166,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "file-changes-action",
+          "fullName": "trilom/file-changes-action",
+          "stars": 166,
+          "url": "https://github.com/trilom/file-changes-action",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "Shiyan7",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/57950265?v=4",
+  "htmlUrl": "https://github.com/Shiyan7",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 374,
+      "repoCountPrimary": 2,
+      "starsContains": 374,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "kinomore",
+          "fullName": "Shiyan7/kinomore",
+          "stars": 244,
+          "url": "https://github.com/Shiyan7/kinomore",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "kinomore-v2",
+          "fullName": "Shiyan7/kinomore-v2",
+          "stars": 130,
+          "url": "https://github.com/Shiyan7/kinomore-v2",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

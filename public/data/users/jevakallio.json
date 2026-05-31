@@ -1,0 +1,48 @@
+{
+  "login": "jevakallio",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1203949?v=4",
+  "htmlUrl": "https://github.com/jevakallio",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2016,
+      "repoCountPrimary": 3,
+      "starsContains": 2016,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "git-notify",
+          "fullName": "jevakallio/git-notify",
+          "stars": 1348,
+          "url": "https://github.com/jevakallio/git-notify",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vscode-hacker-typer",
+          "fullName": "jevakallio/vscode-hacker-typer",
+          "stars": 465,
+          "url": "https://github.com/jevakallio/vscode-hacker-typer",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vscode-live-frame",
+          "fullName": "jevakallio/vscode-live-frame",
+          "stars": 203,
+          "url": "https://github.com/jevakallio/vscode-live-frame",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

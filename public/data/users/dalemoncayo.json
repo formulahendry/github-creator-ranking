@@ -1,0 +1,41 @@
+{
+  "login": "dalemoncayo",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/36727928?v=4",
+  "htmlUrl": "https://github.com/dalemoncayo",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 220,
+      "repoCountPrimary": 2,
+      "starsContains": 220,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "nestjs-pokedex-api",
+          "fullName": "dalemoncayo/nestjs-pokedex-api",
+          "stars": 110,
+          "url": "https://github.com/dalemoncayo/nestjs-pokedex-api",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-pokedex-webapp",
+          "fullName": "dalemoncayo/react-pokedex-webapp",
+          "stars": 110,
+          "url": "https://github.com/dalemoncayo/react-pokedex-webapp",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

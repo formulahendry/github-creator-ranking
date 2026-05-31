@@ -1,0 +1,34 @@
+{
+  "login": "t-ho",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/9968546?v=4",
+  "htmlUrl": "https://github.com/t-ho",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 430,
+      "repoCountPrimary": 1,
+      "starsContains": 430,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ngx-ui-loader",
+          "fullName": "t-ho/ngx-ui-loader",
+          "stars": 430,
+          "url": "https://github.com/t-ho/ngx-ui-loader",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

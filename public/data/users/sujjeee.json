@@ -1,0 +1,62 @@
+{
+  "login": "sujjeee",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/101963203?v=4",
+  "htmlUrl": "https://github.com/sujjeee",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1255,
+      "repoCountPrimary": 5,
+      "starsContains": 1255,
+      "repoCountContains": 5,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "shadcn-image-cropper",
+          "fullName": "sujjeee/shadcn-image-cropper",
+          "stars": 452,
+          "url": "https://github.com/sujjeee/shadcn-image-cropper",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "linknode",
+          "fullName": "sujjeee/linknode",
+          "stars": 300,
+          "url": "https://github.com/sujjeee/linknode",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "nextjs-dnd",
+          "fullName": "sujjeee/nextjs-dnd",
+          "stars": 178,
+          "url": "https://github.com/sujjeee/nextjs-dnd",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "chill-guy",
+          "fullName": "sujjeee/chill-guy",
+          "stars": 174,
+          "url": "https://github.com/sujjeee/chill-guy",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "threads-clone",
+          "fullName": "sujjeee/threads-clone",
+          "stars": 151,
+          "url": "https://github.com/sujjeee/threads-clone",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

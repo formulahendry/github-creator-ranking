@@ -1,0 +1,48 @@
+{
+  "login": "tr1ckydev",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/86865279?v=4",
+  "htmlUrl": "https://github.com/tr1ckydev",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1392,
+      "repoCountPrimary": 3,
+      "starsContains": 1392,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "hyperimport",
+          "fullName": "tr1ckydev/hyperimport",
+          "stars": 833,
+          "url": "https://github.com/tr1ckydev/hyperimport",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "webview-bun",
+          "fullName": "tr1ckydev/webview-bun",
+          "stars": 430,
+          "url": "https://github.com/tr1ckydev/webview-bun",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "spotifly",
+          "fullName": "tr1ckydev/spotifly",
+          "stars": 129,
+          "url": "https://github.com/tr1ckydev/spotifly",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

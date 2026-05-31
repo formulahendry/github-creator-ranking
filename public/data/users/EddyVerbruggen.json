@@ -1,0 +1,62 @@
+{
+  "login": "EddyVerbruggen",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1426370?v=4",
+  "htmlUrl": "https://github.com/EddyVerbruggen",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2285,
+      "repoCountPrimary": 9,
+      "starsContains": 2285,
+      "repoCountContains": 9,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "nativescript-plugin-firebase",
+          "fullName": "EddyVerbruggen/nativescript-plugin-firebase",
+          "stars": 1005,
+          "url": "https://github.com/EddyVerbruggen/nativescript-plugin-firebase",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "nativescript-barcodescanner",
+          "fullName": "EddyVerbruggen/nativescript-barcodescanner",
+          "stars": 291,
+          "url": "https://github.com/EddyVerbruggen/nativescript-barcodescanner",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "nativescript-pluginshowcase",
+          "fullName": "EddyVerbruggen/nativescript-pluginshowcase",
+          "stars": 174,
+          "url": "https://github.com/EddyVerbruggen/nativescript-pluginshowcase",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "remove.bg",
+          "fullName": "EddyVerbruggen/remove.bg",
+          "stars": 163,
+          "url": "https://github.com/EddyVerbruggen/remove.bg",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "nativescript-local-notifications",
+          "fullName": "EddyVerbruggen/nativescript-local-notifications",
+          "stars": 162,
+          "url": "https://github.com/EddyVerbruggen/nativescript-local-notifications",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "borabaloglu",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/25693822?v=4",
+  "htmlUrl": "https://github.com/borabaloglu",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 771,
+      "repoCountPrimary": 2,
+      "starsContains": 771,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "9ui",
+          "fullName": "borabaloglu/9ui",
+          "stars": 659,
+          "url": "https://github.com/borabaloglu/9ui",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vaul-base",
+          "fullName": "borabaloglu/vaul-base",
+          "stars": 112,
+          "url": "https://github.com/borabaloglu/vaul-base",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

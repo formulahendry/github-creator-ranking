@@ -1,0 +1,34 @@
+{
+  "login": "tomaspavlin",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7622390?v=4",
+  "htmlUrl": "https://github.com/tomaspavlin",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 110,
+      "repoCountPrimary": 1,
+      "starsContains": 110,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "rohlik-mcp",
+          "fullName": "tomaspavlin/rohlik-mcp",
+          "stars": 110,
+          "url": "https://github.com/tomaspavlin/rohlik-mcp",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

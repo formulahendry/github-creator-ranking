@@ -1,0 +1,41 @@
+{
+  "login": "iErcann",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/25112067?v=4",
+  "htmlUrl": "https://github.com/iErcann",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 443,
+      "repoCountPrimary": 2,
+      "starsContains": 443,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "enari-engine",
+          "fullName": "iErcann/enari-engine",
+          "stars": 270,
+          "url": "https://github.com/iErcann/enari-engine",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "NotBlox",
+          "fullName": "iErcann/NotBlox",
+          "stars": 173,
+          "url": "https://github.com/iErcann/NotBlox",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

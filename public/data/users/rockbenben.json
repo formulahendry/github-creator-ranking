@@ -1,0 +1,48 @@
+{
+  "login": "rockbenben",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/28252913?v=4",
+  "htmlUrl": "https://github.com/rockbenben",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 9713,
+      "repoCountPrimary": 3,
+      "starsContains": 9713,
+      "repoCountContains": 3,
+      "globalRank": 230,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ChatGPT-Shortcut",
+          "fullName": "rockbenben/ChatGPT-Shortcut",
+          "stars": 8501,
+          "url": "https://github.com/rockbenben/ChatGPT-Shortcut",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "subtitle-translator",
+          "fullName": "rockbenben/subtitle-translator",
+          "stars": 888,
+          "url": "https://github.com/rockbenben/subtitle-translator",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "img-prompt",
+          "fullName": "rockbenben/img-prompt",
+          "stars": 324,
+          "url": "https://github.com/rockbenben/img-prompt",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

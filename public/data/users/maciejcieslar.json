@@ -1,0 +1,41 @@
+{
+  "login": "maciejcieslar",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/17710467?v=4",
+  "htmlUrl": "https://github.com/maciejcieslar",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 287,
+      "repoCountPrimary": 2,
+      "starsContains": 287,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "scalable-websocket-nestjs",
+          "fullName": "maciejcieslar/scalable-websocket-nestjs",
+          "stars": 158,
+          "url": "https://github.com/maciejcieslar/scalable-websocket-nestjs",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "instagrambot",
+          "fullName": "maciejcieslar/instagrambot",
+          "stars": 129,
+          "url": "https://github.com/maciejcieslar/instagrambot",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

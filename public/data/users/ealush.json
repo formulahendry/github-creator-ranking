@@ -1,0 +1,41 @@
+{
+  "login": "ealush",
+  "name": "Evyatar",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/11255103?v=4",
+  "htmlUrl": "https://github.com/ealush",
+  "location": "Tel Aviv",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 4087,
+      "repoCountPrimary": 2,
+      "starsContains": 4087,
+      "repoCountContains": 2,
+      "globalRank": 646,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vest",
+          "fullName": "ealush/vest",
+          "stars": 2662,
+          "url": "https://github.com/ealush/vest",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "emoji-picker-react",
+          "fullName": "ealush/emoji-picker-react",
+          "stars": 1425,
+          "url": "https://github.com/ealush/emoji-picker-react",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "aitorllj93",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5903438?v=4",
+  "htmlUrl": "https://github.com/aitorllj93",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 247,
+      "repoCountPrimary": 2,
+      "starsContains": 247,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "obsidian-lovely-bases",
+          "fullName": "aitorllj93/obsidian-lovely-bases",
+          "stars": 144,
+          "url": "https://github.com/aitorllj93/obsidian-lovely-bases",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "astro-loader-obsidian",
+          "fullName": "aitorllj93/astro-loader-obsidian",
+          "stars": 103,
+          "url": "https://github.com/aitorllj93/astro-loader-obsidian",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

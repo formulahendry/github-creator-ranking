@@ -1,0 +1,41 @@
+{
+  "login": "szhsin",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/41896553?v=4",
+  "htmlUrl": "https://github.com/szhsin",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 696,
+      "repoCountPrimary": 2,
+      "starsContains": 696,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-transition-state",
+          "fullName": "szhsin/react-transition-state",
+          "stars": 489,
+          "url": "https://github.com/szhsin/react-transition-state",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-accordion",
+          "fullName": "szhsin/react-accordion",
+          "stars": 207,
+          "url": "https://github.com/szhsin/react-accordion",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "login": "phongna07",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/74483690?v=4",
+  "htmlUrl": "https://github.com/phongna07",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 745,
+      "repoCountPrimary": 3,
+      "starsContains": 745,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "fireverse",
+          "fullName": "phongna07/fireverse",
+          "stars": 447,
+          "url": "https://github.com/phongna07/fireverse",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "toptop-clone",
+          "fullName": "phongna07/toptop-clone",
+          "stars": 159,
+          "url": "https://github.com/phongna07/toptop-clone",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-tuby",
+          "fullName": "phongna07/react-tuby",
+          "stars": 139,
+          "url": "https://github.com/phongna07/react-tuby",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

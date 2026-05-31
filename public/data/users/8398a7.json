@@ -1,0 +1,34 @@
+{
+  "login": "8398a7",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/8043276?v=4",
+  "htmlUrl": "https://github.com/8398a7",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 620,
+      "repoCountPrimary": 1,
+      "starsContains": 620,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "action-slack",
+          "fullName": "8398a7/action-slack",
+          "stars": 620,
+          "url": "https://github.com/8398a7/action-slack",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

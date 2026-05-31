@@ -1,0 +1,48 @@
+{
+  "login": "hmmhmmhm",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/38493722?v=4",
+  "htmlUrl": "https://github.com/hmmhmmhm",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 551,
+      "repoCountPrimary": 3,
+      "starsContains": 551,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "daiso-mcp",
+          "fullName": "hmmhmmhm/daiso-mcp",
+          "stars": 298,
+          "url": "https://github.com/hmmhmmhm/daiso-mcp",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "friday-gpt",
+          "fullName": "hmmhmmhm/friday-gpt",
+          "stars": 132,
+          "url": "https://github.com/hmmhmmhm/friday-gpt",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "node-packages",
+          "fullName": "hmmhmmhm/node-packages",
+          "stars": 121,
+          "url": "https://github.com/hmmhmmhm/node-packages",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

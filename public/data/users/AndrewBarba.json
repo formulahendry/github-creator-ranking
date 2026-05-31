@@ -1,0 +1,34 @@
+{
+  "login": "AndrewBarba",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1316152?v=4",
+  "htmlUrl": "https://github.com/AndrewBarba",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 173,
+      "repoCountPrimary": 1,
+      "starsContains": 173,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "apns2",
+          "fullName": "AndrewBarba/apns2",
+          "stars": 173,
+          "url": "https://github.com/AndrewBarba/apns2",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

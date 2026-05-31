@@ -1,0 +1,34 @@
+{
+  "login": "crshdn",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/53594482?v=4",
+  "htmlUrl": "https://github.com/crshdn",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2064,
+      "repoCountPrimary": 1,
+      "starsContains": 2064,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "mission-control",
+          "fullName": "crshdn/mission-control",
+          "stars": 2064,
+          "url": "https://github.com/crshdn/mission-control",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

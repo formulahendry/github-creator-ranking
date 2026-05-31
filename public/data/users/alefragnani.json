@@ -1,0 +1,55 @@
+{
+  "login": "alefragnani",
+  "name": "Alessandro Fragnani",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3781424?v=4",
+  "htmlUrl": "https://github.com/alefragnani",
+  "location": "Florianópolis, Brazil",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 5018,
+      "repoCountPrimary": 4,
+      "starsContains": 5018,
+      "repoCountContains": 4,
+      "globalRank": 501,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vscode-project-manager",
+          "fullName": "alefragnani/vscode-project-manager",
+          "stars": 2447,
+          "url": "https://github.com/alefragnani/vscode-project-manager",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vscode-bookmarks",
+          "fullName": "alefragnani/vscode-bookmarks",
+          "stars": 2136,
+          "url": "https://github.com/alefragnani/vscode-bookmarks",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vscode-language-pascal",
+          "fullName": "alefragnani/vscode-language-pascal",
+          "stars": 264,
+          "url": "https://github.com/alefragnani/vscode-language-pascal",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vscode-numbered-bookmarks",
+          "fullName": "alefragnani/vscode-numbered-bookmarks",
+          "stars": 171,
+          "url": "https://github.com/alefragnani/vscode-numbered-bookmarks",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

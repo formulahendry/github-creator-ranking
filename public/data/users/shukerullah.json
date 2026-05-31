@@ -1,0 +1,34 @@
+{
+  "login": "shukerullah",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/963765?v=4",
+  "htmlUrl": "https://github.com/shukerullah",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 210,
+      "repoCountPrimary": 1,
+      "starsContains": 210,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-geocode",
+          "fullName": "shukerullah/react-geocode",
+          "stars": 210,
+          "url": "https://github.com/shukerullah/react-geocode",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

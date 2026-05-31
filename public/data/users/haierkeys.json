@@ -1,0 +1,34 @@
+{
+  "login": "haierkeys",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/4278342?v=4",
+  "htmlUrl": "https://github.com/haierkeys",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2218,
+      "repoCountPrimary": 1,
+      "starsContains": 2218,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "obsidian-fast-note-sync",
+          "fullName": "haierkeys/obsidian-fast-note-sync",
+          "stars": 2218,
+          "url": "https://github.com/haierkeys/obsidian-fast-note-sync",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "tianchangNorth",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/116717451?v=4",
+  "htmlUrl": "https://github.com/tianchangNorth",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 520,
+      "repoCountPrimary": 1,
+      "starsContains": 520,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "pocket-mocker",
+          "fullName": "tianchangNorth/pocket-mocker",
+          "stars": 520,
+          "url": "https://github.com/tianchangNorth/pocket-mocker",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

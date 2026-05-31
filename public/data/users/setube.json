@@ -1,0 +1,48 @@
+{
+  "login": "setube",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/73606411?v=4",
+  "htmlUrl": "https://github.com/setube",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1567,
+      "repoCountPrimary": 3,
+      "starsContains": 1567,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "stackprism",
+          "fullName": "setube/stackprism",
+          "stars": 614,
+          "url": "https://github.com/setube/stackprism",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ogame-vue-ts",
+          "fullName": "setube/ogame-vue-ts",
+          "stars": 488,
+          "url": "https://github.com/setube/ogame-vue-ts",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "taoyuan",
+          "fullName": "setube/taoyuan",
+          "stars": 465,
+          "url": "https://github.com/setube/taoyuan",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

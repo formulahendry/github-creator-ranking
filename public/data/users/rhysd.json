@@ -1,0 +1,62 @@
+{
+  "login": "rhysd",
+  "name": "Linda_pp",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/823277?v=4",
+  "htmlUrl": "https://github.com/rhysd",
+  "location": "Tokyo, Japan",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 4225,
+      "repoCountPrimary": 10,
+      "starsContains": 4225,
+      "repoCountContains": 10,
+      "globalRank": 613,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "NyaoVim",
+          "fullName": "rhysd/NyaoVim",
+          "stars": 2231,
+          "url": "https://github.com/rhysd/NyaoVim",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "electron-about-window",
+          "fullName": "rhysd/electron-about-window",
+          "stars": 419,
+          "url": "https://github.com/rhysd/electron-about-window",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Mstdn",
+          "fullName": "rhysd/Mstdn",
+          "stars": 387,
+          "url": "https://github.com/rhysd/Mstdn",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "neovim-component",
+          "fullName": "rhysd/neovim-component",
+          "stars": 205,
+          "url": "https://github.com/rhysd/neovim-component",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "monolith-of-web",
+          "fullName": "rhysd/monolith-of-web",
+          "stars": 192,
+          "url": "https://github.com/rhysd/monolith-of-web",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

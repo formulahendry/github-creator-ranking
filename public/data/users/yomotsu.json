@@ -1,0 +1,41 @@
+{
+  "login": "yomotsu",
+  "name": "Akihiro Oyamada",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/212837?v=4",
+  "htmlUrl": "https://github.com/yomotsu",
+  "location": "Tokyo, Japan",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2704,
+      "repoCountPrimary": 2,
+      "starsContains": 2704,
+      "repoCountContains": 2,
+      "globalRank": 991,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "camera-controls",
+          "fullName": "yomotsu/camera-controls",
+          "stars": 2401,
+          "url": "https://github.com/yomotsu/camera-controls",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "meshwalk",
+          "fullName": "yomotsu/meshwalk",
+          "stars": 303,
+          "url": "https://github.com/yomotsu/meshwalk",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

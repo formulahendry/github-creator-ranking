@@ -1,0 +1,62 @@
+{
+  "login": "arcanis",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1037931?v=4",
+  "htmlUrl": "https://github.com/arcanis",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2242,
+      "repoCountPrimary": 5,
+      "starsContains": 2242,
+      "repoCountContains": 5,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "clipanion",
+          "fullName": "arcanis/clipanion",
+          "stars": 1249,
+          "url": "https://github.com/arcanis/clipanion",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "secretsanta",
+          "fullName": "arcanis/secretsanta",
+          "stars": 373,
+          "url": "https://github.com/arcanis/secretsanta",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "typanion",
+          "fullName": "arcanis/typanion",
+          "stars": 275,
+          "url": "https://github.com/arcanis/typanion",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "terminosaurus",
+          "fullName": "arcanis/terminosaurus",
+          "stars": 208,
+          "url": "https://github.com/arcanis/terminosaurus",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "sherlock",
+          "fullName": "arcanis/sherlock",
+          "stars": 137,
+          "url": "https://github.com/arcanis/sherlock",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

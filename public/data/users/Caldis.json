@@ -1,0 +1,41 @@
+{
+  "login": "Caldis",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3529490?v=4",
+  "htmlUrl": "https://github.com/Caldis",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1056,
+      "repoCountPrimary": 2,
+      "starsContains": 1056,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-zmage",
+          "fullName": "Caldis/react-zmage",
+          "stars": 937,
+          "url": "https://github.com/Caldis/react-zmage",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "github-releases-downloads-analysis",
+          "fullName": "Caldis/github-releases-downloads-analysis",
+          "stars": 119,
+          "url": "https://github.com/Caldis/github-releases-downloads-analysis",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "basmilius",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/978257?v=4",
+  "htmlUrl": "https://github.com/basmilius",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1557,
+      "repoCountPrimary": 1,
+      "starsContains": 1557,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "meteocons",
+          "fullName": "basmilius/meteocons",
+          "stars": 1557,
+          "url": "https://github.com/basmilius/meteocons",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

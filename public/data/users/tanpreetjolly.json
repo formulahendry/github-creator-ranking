@@ -1,0 +1,34 @@
+{
+  "login": "tanpreetjolly",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/104998427?v=4",
+  "htmlUrl": "https://github.com/tanpreetjolly",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 178,
+      "repoCountPrimary": 1,
+      "starsContains": 178,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "browser-whisper",
+          "fullName": "tanpreetjolly/browser-whisper",
+          "stars": 178,
+          "url": "https://github.com/tanpreetjolly/browser-whisper",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "AprilNEA",
+  "name": "AprilNEA",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/37977109?v=4",
+  "htmlUrl": "https://github.com/AprilNEA",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3643,
+      "repoCountPrimary": 2,
+      "starsContains": 3643,
+      "repoCountContains": 2,
+      "globalRank": 731,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "AChat",
+          "fullName": "AprilNEA/AChat",
+          "stars": 3259,
+          "url": "https://github.com/AprilNEA/AChat",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "claude-code-source",
+          "fullName": "AprilNEA/claude-code-source",
+          "stars": 384,
+          "url": "https://github.com/AprilNEA/claude-code-source",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

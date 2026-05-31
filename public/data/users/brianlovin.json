@@ -1,0 +1,41 @@
+{
+  "login": "brianlovin",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1923260?v=4",
+  "htmlUrl": "https://github.com/brianlovin",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2356,
+      "repoCountPrimary": 2,
+      "starsContains": 2356,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "briOS",
+          "fullName": "brianlovin/briOS",
+          "stars": 2256,
+          "url": "https://github.com/brianlovin/briOS",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "tax-ui",
+          "fullName": "brianlovin/tax-ui",
+          "stars": 100,
+          "url": "https://github.com/brianlovin/tax-ui",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

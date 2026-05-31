@@ -1,0 +1,34 @@
+{
+  "login": "brilliant-js",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/78136037?v=4",
+  "htmlUrl": "https://github.com/brilliant-js",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 114,
+      "repoCountPrimary": 1,
+      "starsContains": 114,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "brilliant",
+          "fullName": "brilliant-js/brilliant",
+          "stars": 114,
+          "url": "https://github.com/brilliant-js/brilliant",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

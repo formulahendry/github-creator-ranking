@@ -1,0 +1,34 @@
+{
+  "login": "kt3k",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/613956?v=4",
+  "htmlUrl": "https://github.com/kt3k",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 337,
+      "repoCountPrimary": 1,
+      "starsContains": 337,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "packup",
+          "fullName": "kt3k/packup",
+          "stars": 337,
+          "url": "https://github.com/kt3k/packup",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

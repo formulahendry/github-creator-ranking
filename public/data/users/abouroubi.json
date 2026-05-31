@@ -1,0 +1,34 @@
+{
+  "login": "abouroubi",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/11291350?v=4",
+  "htmlUrl": "https://github.com/abouroubi",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 373,
+      "repoCountPrimary": 1,
+      "starsContains": 373,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "nestjs-auth-jwt",
+          "fullName": "abouroubi/nestjs-auth-jwt",
+          "stars": 373,
+          "url": "https://github.com/abouroubi/nestjs-auth-jwt",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

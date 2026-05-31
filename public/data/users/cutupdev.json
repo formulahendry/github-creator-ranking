@@ -1,0 +1,62 @@
+{
+  "login": "cutupdev",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/51432121?v=4",
+  "htmlUrl": "https://github.com/cutupdev",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1660,
+      "repoCountPrimary": 9,
+      "starsContains": 1660,
+      "repoCountContains": 9,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Pumpfun-Solana-Smart-Contract",
+          "fullName": "cutupdev/Pumpfun-Solana-Smart-Contract",
+          "stars": 313,
+          "url": "https://github.com/cutupdev/Pumpfun-Solana-Smart-Contract",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "EVM-Pumpfun-Smart-Contract",
+          "fullName": "cutupdev/EVM-Pumpfun-Smart-Contract",
+          "stars": 238,
+          "url": "https://github.com/cutupdev/EVM-Pumpfun-Smart-Contract",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Solana-Pumpfun-Frontend",
+          "fullName": "cutupdev/Solana-Pumpfun-Frontend",
+          "stars": 205,
+          "url": "https://github.com/cutupdev/Solana-Pumpfun-Frontend",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Solana-Pumpfun-Backend",
+          "fullName": "cutupdev/Solana-Pumpfun-Backend",
+          "stars": 193,
+          "url": "https://github.com/cutupdev/Solana-Pumpfun-Backend",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Solana-Volume-Bot",
+          "fullName": "cutupdev/Solana-Volume-Bot",
+          "stars": 169,
+          "url": "https://github.com/cutupdev/Solana-Volume-Bot",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

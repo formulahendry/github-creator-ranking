@@ -1,0 +1,48 @@
+{
+  "login": "nfriend",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1638631?v=4",
+  "htmlUrl": "https://github.com/nfriend",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 777,
+      "repoCountPrimary": 3,
+      "starsContains": 777,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "tree-online",
+          "fullName": "nfriend/tree-online",
+          "stars": 375,
+          "url": "https://github.com/nfriend/tree-online",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "inspiral-web",
+          "fullName": "nfriend/inspiral-web",
+          "stars": 286,
+          "url": "https://github.com/nfriend/inspiral-web",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ts-key-enum",
+          "fullName": "nfriend/ts-key-enum",
+          "stars": 116,
+          "url": "https://github.com/nfriend/ts-key-enum",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

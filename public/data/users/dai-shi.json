@@ -1,0 +1,62 @@
+{
+  "login": "dai-shi",
+  "name": "Daishi Kato",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/490574?v=4",
+  "htmlUrl": "https://github.com/dai-shi",
+  "location": "Tokyo",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 14446,
+      "repoCountPrimary": 20,
+      "starsContains": 14446,
+      "repoCountContains": 20,
+      "globalRank": 135,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "use-context-selector",
+          "fullName": "dai-shi/use-context-selector",
+          "stars": 2951,
+          "url": "https://github.com/dai-shi/use-context-selector",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-tracked",
+          "fullName": "dai-shi/react-tracked",
+          "stars": 2821,
+          "url": "https://github.com/dai-shi/react-tracked",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "excalidraw-animate",
+          "fullName": "dai-shi/excalidraw-animate",
+          "stars": 1963,
+          "url": "https://github.com/dai-shi/excalidraw-animate",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-hooks-global-state",
+          "fullName": "dai-shi/react-hooks-global-state",
+          "stars": 1103,
+          "url": "https://github.com/dai-shi/react-hooks-global-state",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "proxy-memoize",
+          "fullName": "dai-shi/proxy-memoize",
+          "stars": 855,
+          "url": "https://github.com/dai-shi/proxy-memoize",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

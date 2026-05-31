@@ -1,0 +1,48 @@
+{
+  "login": "mcndt",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/23149353?v=4",
+  "htmlUrl": "https://github.com/mcndt",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 827,
+      "repoCountPrimary": 3,
+      "starsContains": 827,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "obsidian-toggl-integration",
+          "fullName": "mcndt/obsidian-toggl-integration",
+          "stars": 336,
+          "url": "https://github.com/mcndt/obsidian-toggl-integration",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "obsidian-quickshare",
+          "fullName": "mcndt/obsidian-quickshare",
+          "stars": 265,
+          "url": "https://github.com/mcndt/obsidian-quickshare",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "noteshare.space",
+          "fullName": "mcndt/noteshare.space",
+          "stars": 226,
+          "url": "https://github.com/mcndt/noteshare.space",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "riwigefi",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/112572602?v=4",
+  "htmlUrl": "https://github.com/riwigefi",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 829,
+      "repoCountPrimary": 1,
+      "starsContains": 829,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "light-gpt",
+          "fullName": "riwigefi/light-gpt",
+          "stars": 829,
+          "url": "https://github.com/riwigefi/light-gpt",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

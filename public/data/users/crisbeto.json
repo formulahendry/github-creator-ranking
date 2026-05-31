@@ -1,0 +1,34 @@
+{
+  "login": "crisbeto",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/4450522?v=4",
+  "htmlUrl": "https://github.com/crisbeto",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 741,
+      "repoCountPrimary": 1,
+      "starsContains": 741,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "angular-svg-round-progressbar",
+          "fullName": "crisbeto/angular-svg-round-progressbar",
+          "stars": 741,
+          "url": "https://github.com/crisbeto/angular-svg-round-progressbar",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "vladmandic",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/57876960?v=4",
+  "htmlUrl": "https://github.com/vladmandic",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 227,
+      "repoCountPrimary": 2,
+      "starsContains": 227,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "human-motion",
+          "fullName": "vladmandic/human-motion",
+          "stars": 115,
+          "url": "https://github.com/vladmandic/human-motion",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "pigallery",
+          "fullName": "vladmandic/pigallery",
+          "stars": 112,
+          "url": "https://github.com/vladmandic/pigallery",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

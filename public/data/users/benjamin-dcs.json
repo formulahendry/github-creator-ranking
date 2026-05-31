@@ -1,0 +1,34 @@
+{
+  "login": "benjamin-dcs",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/78026082?v=4",
+  "htmlUrl": "https://github.com/benjamin-dcs",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 291,
+      "repoCountPrimary": 1,
+      "starsContains": 291,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "gauge-card-pro",
+          "fullName": "benjamin-dcs/gauge-card-pro",
+          "stars": 291,
+          "url": "https://github.com/benjamin-dcs/gauge-card-pro",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

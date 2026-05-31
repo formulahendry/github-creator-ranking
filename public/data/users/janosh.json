@@ -1,0 +1,55 @@
+{
+  "login": "janosh",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/30958850?v=4",
+  "htmlUrl": "https://github.com/janosh",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2126,
+      "repoCountPrimary": 4,
+      "starsContains": 2126,
+      "repoCountContains": 4,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "awesome-sveltekit",
+          "fullName": "janosh/awesome-sveltekit",
+          "stars": 1291,
+          "url": "https://github.com/janosh/awesome-sveltekit",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "svelte-multiselect",
+          "fullName": "janosh/svelte-multiselect",
+          "stars": 374,
+          "url": "https://github.com/janosh/svelte-multiselect",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "matterviz",
+          "fullName": "janosh/matterviz",
+          "stars": 336,
+          "url": "https://github.com/janosh/matterviz",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "svelte-toc",
+          "fullName": "janosh/svelte-toc",
+          "stars": 125,
+          "url": "https://github.com/janosh/svelte-toc",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

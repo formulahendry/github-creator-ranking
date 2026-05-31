@@ -1,0 +1,34 @@
+{
+  "login": "lx544690189",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/18190607?v=4",
+  "htmlUrl": "https://github.com/lx544690189",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 101,
+      "repoCountPrimary": 1,
+      "starsContains": 101,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "scorpio-h5-design",
+          "fullName": "lx544690189/scorpio-h5-design",
+          "stars": 101,
+          "url": "https://github.com/lx544690189/scorpio-h5-design",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "Done-0",
+  "name": "Fender",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/168193380?v=4",
+  "htmlUrl": "https://github.com/Done-0",
+  "location": "The Milky Way Galaxy",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 7535,
+      "repoCountPrimary": 2,
+      "starsContains": 7535,
+      "repoCountContains": 2,
+      "globalRank": 301,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "fuck-u-code",
+          "fullName": "Done-0/fuck-u-code",
+          "stars": 7020,
+          "url": "https://github.com/Done-0/fuck-u-code",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Jank",
+          "fullName": "Done-0/Jank",
+          "stars": 515,
+          "url": "https://github.com/Done-0/Jank",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

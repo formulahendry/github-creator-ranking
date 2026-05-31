@@ -1,0 +1,34 @@
+{
+  "login": "joelbqz",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/19965325?v=4",
+  "htmlUrl": "https://github.com/joelbqz",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 683,
+      "repoCountPrimary": 1,
+      "starsContains": 683,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "writer-computer",
+          "fullName": "joelbqz/writer-computer",
+          "stars": 683,
+          "url": "https://github.com/joelbqz/writer-computer",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

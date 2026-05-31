@@ -1,0 +1,48 @@
+{
+  "login": "soroushchehresa",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/20001233?v=4",
+  "htmlUrl": "https://github.com/soroushchehresa",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1831,
+      "repoCountPrimary": 3,
+      "starsContains": 1831,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "awesome-coronavirus",
+          "fullName": "soroushchehresa/awesome-coronavirus",
+          "stars": 1572,
+          "url": "https://github.com/soroushchehresa/awesome-coronavirus",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "github-readme-linkedin",
+          "fullName": "soroushchehresa/github-readme-linkedin",
+          "stars": 138,
+          "url": "https://github.com/soroushchehresa/github-readme-linkedin",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "giant-sur",
+          "fullName": "soroushchehresa/giant-sur",
+          "stars": 121,
+          "url": "https://github.com/soroushchehresa/giant-sur",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

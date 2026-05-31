@@ -1,0 +1,34 @@
+{
+  "login": "okwasniewski",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/52801365?v=4",
+  "htmlUrl": "https://github.com/okwasniewski",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 123,
+      "repoCountPrimary": 1,
+      "starsContains": 123,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "expo-icloud-storage",
+          "fullName": "okwasniewski/expo-icloud-storage",
+          "stars": 123,
+          "url": "https://github.com/okwasniewski/expo-icloud-storage",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

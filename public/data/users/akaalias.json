@@ -1,0 +1,48 @@
+{
+  "login": "akaalias",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/111555?v=4",
+  "htmlUrl": "https://github.com/akaalias",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 548,
+      "repoCountPrimary": 3,
+      "starsContains": 548,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "obsidian-extract-pdf-highlights",
+          "fullName": "akaalias/obsidian-extract-pdf-highlights",
+          "stars": 237,
+          "url": "https://github.com/akaalias/obsidian-extract-pdf-highlights",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "obsidian-journey-plugin",
+          "fullName": "akaalias/obsidian-journey-plugin",
+          "stars": 167,
+          "url": "https://github.com/akaalias/obsidian-journey-plugin",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "obsidian-footnotes",
+          "fullName": "akaalias/obsidian-footnotes",
+          "stars": 144,
+          "url": "https://github.com/akaalias/obsidian-footnotes",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "gokulkrishh",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2944237?v=4",
+  "htmlUrl": "https://github.com/gokulkrishh",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1081,
+      "repoCountPrimary": 2,
+      "starsContains": 1081,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "expense.fyi",
+          "fullName": "gokulkrishh/expense.fyi",
+          "stars": 758,
+          "url": "https://github.com/gokulkrishh/expense.fyi",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "bmrk.cc",
+          "fullName": "gokulkrishh/bmrk.cc",
+          "stars": 323,
+          "url": "https://github.com/gokulkrishh/bmrk.cc",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

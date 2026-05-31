@@ -1,0 +1,41 @@
+{
+  "login": "vixalien",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/37999241?v=4",
+  "htmlUrl": "https://github.com/vixalien",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 596,
+      "repoCountPrimary": 2,
+      "starsContains": 596,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "muzika",
+          "fullName": "vixalien/muzika",
+          "stars": 320,
+          "url": "https://github.com/vixalien/muzika",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "sticky",
+          "fullName": "vixalien/sticky",
+          "stars": 276,
+          "url": "https://github.com/vixalien/sticky",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

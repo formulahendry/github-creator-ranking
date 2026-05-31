@@ -1,0 +1,34 @@
+{
+  "login": "imtaotao",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/26618593?v=4",
+  "htmlUrl": "https://github.com/imtaotao",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 491,
+      "repoCountPrimary": 1,
+      "starsContains": 491,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "danmu",
+          "fullName": "imtaotao/danmu",
+          "stars": 491,
+          "url": "https://github.com/imtaotao/danmu",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "login": "mariohmol",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5495763?v=4",
+  "htmlUrl": "https://github.com/mariohmol",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 523,
+      "repoCountPrimary": 3,
+      "starsContains": 523,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "js-brasil",
+          "fullName": "mariohmol/js-brasil",
+          "stars": 245,
+          "url": "https://github.com/mariohmol/js-brasil",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ang-jsoneditor",
+          "fullName": "mariohmol/ang-jsoneditor",
+          "stars": 162,
+          "url": "https://github.com/mariohmol/ang-jsoneditor",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ng-brazil",
+          "fullName": "mariohmol/ng-brazil",
+          "stars": 116,
+          "url": "https://github.com/mariohmol/ng-brazil",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

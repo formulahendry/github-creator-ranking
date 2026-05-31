@@ -1,0 +1,62 @@
+{
+  "login": "KartikLabhshetwar",
+  "name": "Kartik Labhshetwar",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/141413343?v=4",
+  "htmlUrl": "https://github.com/KartikLabhshetwar",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3331,
+      "repoCountPrimary": 6,
+      "starsContains": 3331,
+      "repoCountContains": 6,
+      "globalRank": 814,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "better-shot",
+          "fullName": "KartikLabhshetwar/better-shot",
+          "stars": 1733,
+          "url": "https://github.com/KartikLabhshetwar/better-shot",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "screenshot-studio",
+          "fullName": "KartikLabhshetwar/screenshot-studio",
+          "stars": 685,
+          "url": "https://github.com/KartikLabhshetwar/screenshot-studio",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "oneurl",
+          "fullName": "KartikLabhshetwar/oneurl",
+          "stars": 402,
+          "url": "https://github.com/KartikLabhshetwar/oneurl",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "lazycommit",
+          "fullName": "KartikLabhshetwar/lazycommit",
+          "stars": 229,
+          "url": "https://github.com/KartikLabhshetwar/lazycommit",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "mind-mentor",
+          "fullName": "KartikLabhshetwar/mind-mentor",
+          "stars": 143,
+          "url": "https://github.com/KartikLabhshetwar/mind-mentor",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

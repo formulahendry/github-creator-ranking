@@ -1,0 +1,55 @@
+{
+  "login": "btroncone",
+  "name": "Brian Troncone",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5085101?v=4",
+  "htmlUrl": "https://github.com/btroncone",
+  "location": "Louisville, KY",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 4802,
+      "repoCountPrimary": 4,
+      "starsContains": 4802,
+      "repoCountContains": 4,
+      "globalRank": 533,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "learn-rxjs",
+          "fullName": "btroncone/learn-rxjs",
+          "stars": 3672,
+          "url": "https://github.com/btroncone/learn-rxjs",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ngrx-store-localstorage",
+          "fullName": "btroncone/ngrx-store-localstorage",
+          "stars": 623,
+          "url": "https://github.com/btroncone/ngrx-store-localstorage",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ngrx-examples",
+          "fullName": "btroncone/ngrx-examples",
+          "stars": 369,
+          "url": "https://github.com/btroncone/ngrx-examples",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ngrx-store-logger",
+          "fullName": "btroncone/ngrx-store-logger",
+          "stars": 138,
+          "url": "https://github.com/btroncone/ngrx-store-logger",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

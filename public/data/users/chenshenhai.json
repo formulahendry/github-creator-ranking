@@ -1,0 +1,41 @@
+{
+  "login": "chenshenhai",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/8216630?v=4",
+  "htmlUrl": "https://github.com/chenshenhai",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 832,
+      "repoCountPrimary": 2,
+      "starsContains": 832,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "deno_note",
+          "fullName": "chenshenhai/deno_note",
+          "stars": 655,
+          "url": "https://github.com/chenshenhai/deno_note",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "pictool",
+          "fullName": "chenshenhai/pictool",
+          "stars": 177,
+          "url": "https://github.com/chenshenhai/pictool",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "syt2",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/15265829?v=4",
+  "htmlUrl": "https://github.com/syt2",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2485,
+      "repoCountPrimary": 2,
+      "starsContains": 2485,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "zotero-addons",
+          "fullName": "syt2/zotero-addons",
+          "stars": 1566,
+          "url": "https://github.com/syt2/zotero-addons",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "zotero-scipdf",
+          "fullName": "syt2/zotero-scipdf",
+          "stars": 919,
+          "url": "https://github.com/syt2/zotero-scipdf",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

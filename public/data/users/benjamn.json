@@ -1,0 +1,48 @@
+{
+  "login": "benjamn",
+  "name": "Ben Newman",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5750?v=4",
+  "htmlUrl": "https://github.com/benjamn",
+  "location": "New York City",
+  "countryCode": "US",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 6534,
+      "repoCountPrimary": 3,
+      "starsContains": 6534,
+      "repoCountContains": 3,
+      "globalRank": 357,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "recast",
+          "fullName": "benjamn/recast",
+          "stars": 5243,
+          "url": "https://github.com/benjamn/recast",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ast-types",
+          "fullName": "benjamn/ast-types",
+          "stars": 1172,
+          "url": "https://github.com/benjamn/ast-types",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "optimism",
+          "fullName": "benjamn/optimism",
+          "stars": 119,
+          "url": "https://github.com/benjamn/optimism",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

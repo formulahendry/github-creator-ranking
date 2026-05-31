@@ -1,0 +1,34 @@
+{
+  "login": "serendipious",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/909781?v=4",
+  "htmlUrl": "https://github.com/serendipious",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 220,
+      "repoCountPrimary": 1,
+      "starsContains": 220,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "nodejs-decision-tree",
+          "fullName": "serendipious/nodejs-decision-tree",
+          "stars": 220,
+          "url": "https://github.com/serendipious/nodejs-decision-tree",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

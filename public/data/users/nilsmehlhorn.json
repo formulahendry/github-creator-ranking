@@ -1,0 +1,41 @@
+{
+  "login": "nilsmehlhorn",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7558607?v=4",
+  "htmlUrl": "https://github.com/nilsmehlhorn",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 266,
+      "repoCountPrimary": 2,
+      "starsContains": 266,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ngx-operators",
+          "fullName": "nilsmehlhorn/ngx-operators",
+          "stars": 139,
+          "url": "https://github.com/nilsmehlhorn/ngx-operators",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ngrx-wieder",
+          "fullName": "nilsmehlhorn/ngrx-wieder",
+          "stars": 127,
+          "url": "https://github.com/nilsmehlhorn/ngrx-wieder",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

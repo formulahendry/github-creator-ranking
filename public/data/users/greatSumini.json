@@ -1,0 +1,34 @@
+{
+  "login": "greatSumini",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/48555121?v=4",
+  "htmlUrl": "https://github.com/greatSumini",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 113,
+      "repoCountPrimary": 1,
+      "starsContains": 113,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-facebook-login",
+          "fullName": "greatSumini/react-facebook-login",
+          "stars": 113,
+          "url": "https://github.com/greatSumini/react-facebook-login",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

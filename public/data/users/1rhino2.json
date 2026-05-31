@@ -1,0 +1,34 @@
+{
+  "login": "1rhino2",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/195818135?v=4",
+  "htmlUrl": "https://github.com/1rhino2",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 255,
+      "repoCountPrimary": 1,
+      "starsContains": 255,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "go-memory-visualizer",
+          "fullName": "1rhino2/go-memory-visualizer",
+          "stars": 255,
+          "url": "https://github.com/1rhino2/go-memory-visualizer",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

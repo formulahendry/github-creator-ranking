@@ -1,0 +1,48 @@
+{
+  "login": "esm7",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/10722656?v=4",
+  "htmlUrl": "https://github.com/esm7",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2457,
+      "repoCountPrimary": 3,
+      "starsContains": 2457,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "obsidian-vimrc-support",
+          "fullName": "esm7/obsidian-vimrc-support",
+          "stars": 1443,
+          "url": "https://github.com/esm7/obsidian-vimrc-support",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "obsidian-map-view",
+          "fullName": "esm7/obsidian-map-view",
+          "stars": 862,
+          "url": "https://github.com/esm7/obsidian-map-view",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "obsidian-rtl",
+          "fullName": "esm7/obsidian-rtl",
+          "stars": 152,
+          "url": "https://github.com/esm7/obsidian-rtl",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

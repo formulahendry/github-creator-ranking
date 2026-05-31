@@ -1,0 +1,41 @@
+{
+  "login": "santiq",
+  "name": "santy",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7070683?v=4",
+  "htmlUrl": "https://github.com/santiq",
+  "location": "Space",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 6019,
+      "repoCountPrimary": 2,
+      "starsContains": 6019,
+      "repoCountContains": 2,
+      "globalRank": 395,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "bulletproof-nodejs",
+          "fullName": "santiq/bulletproof-nodejs",
+          "stars": 5759,
+          "url": "https://github.com/santiq/bulletproof-nodejs",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "nodejs-auth",
+          "fullName": "santiq/nodejs-auth",
+          "stars": 260,
+          "url": "https://github.com/santiq/nodejs-auth",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

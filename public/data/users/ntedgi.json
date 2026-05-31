@@ -1,0 +1,34 @@
+{
+  "login": "ntedgi",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/31243793?v=4",
+  "htmlUrl": "https://github.com/ntedgi",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 260,
+      "repoCountPrimary": 1,
+      "starsContains": 260,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "node-efficientnet",
+          "fullName": "ntedgi/node-efficientnet",
+          "stars": 260,
+          "url": "https://github.com/ntedgi/node-efficientnet",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

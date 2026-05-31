@@ -1,0 +1,34 @@
+{
+  "login": "mxtommy",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/737774?v=4",
+  "htmlUrl": "https://github.com/mxtommy",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 122,
+      "repoCountPrimary": 1,
+      "starsContains": 122,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Kip",
+          "fullName": "mxtommy/Kip",
+          "stars": 122,
+          "url": "https://github.com/mxtommy/Kip",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

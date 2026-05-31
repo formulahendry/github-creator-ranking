@@ -1,0 +1,34 @@
+{
+  "login": "nicky-lenaers",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2785350?v=4",
+  "htmlUrl": "https://github.com/nicky-lenaers",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 276,
+      "repoCountPrimary": 1,
+      "starsContains": 276,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ngx-scroll-to",
+          "fullName": "nicky-lenaers/ngx-scroll-to",
+          "stars": 276,
+          "url": "https://github.com/nicky-lenaers/ngx-scroll-to",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

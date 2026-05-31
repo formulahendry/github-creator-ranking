@@ -1,0 +1,34 @@
+{
+  "login": "halitsever",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/34791459?v=4",
+  "htmlUrl": "https://github.com/halitsever",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 125,
+      "repoCountPrimary": 1,
+      "starsContains": 125,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "girici-web-proxy",
+          "fullName": "halitsever/girici-web-proxy",
+          "stars": 125,
+          "url": "https://github.com/halitsever/girici-web-proxy",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

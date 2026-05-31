@@ -1,0 +1,62 @@
+{
+  "login": "mayooear",
+  "name": "Mayo Oshin",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/107035552?v=4",
+  "htmlUrl": "https://github.com/mayooear",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 17937,
+      "repoCountPrimary": 5,
+      "starsContains": 17937,
+      "repoCountContains": 5,
+      "globalRank": 107,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ai-pdf-chatbot-langchain",
+          "fullName": "mayooear/ai-pdf-chatbot-langchain",
+          "stars": 16532,
+          "url": "https://github.com/mayooear/ai-pdf-chatbot-langchain",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "langchain-supabase-website-chatbot",
+          "fullName": "mayooear/langchain-supabase-website-chatbot",
+          "stars": 700,
+          "url": "https://github.com/mayooear/langchain-supabase-website-chatbot",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "notion-chat-langchain",
+          "fullName": "mayooear/notion-chat-langchain",
+          "stars": 313,
+          "url": "https://github.com/mayooear/notion-chat-langchain",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ai-company-researcher",
+          "fullName": "mayooear/ai-company-researcher",
+          "stars": 201,
+          "url": "https://github.com/mayooear/ai-company-researcher",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "langchain-js-tutorial",
+          "fullName": "mayooear/langchain-js-tutorial",
+          "stars": 191,
+          "url": "https://github.com/mayooear/langchain-js-tutorial",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

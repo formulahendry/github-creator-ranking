@@ -1,0 +1,34 @@
+{
+  "login": "newcat",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1523157?v=4",
+  "htmlUrl": "https://github.com/newcat",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2040,
+      "repoCountPrimary": 1,
+      "starsContains": 2040,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "baklavajs",
+          "fullName": "newcat/baklavajs",
+          "stars": 2040,
+          "url": "https://github.com/newcat/baklavajs",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

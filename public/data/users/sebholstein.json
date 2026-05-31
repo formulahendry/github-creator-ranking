@@ -1,0 +1,48 @@
+{
+  "login": "sebholstein",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/275268?v=4",
+  "htmlUrl": "https://github.com/sebholstein",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2374,
+      "repoCountPrimary": 3,
+      "starsContains": 2374,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "angular-google-maps",
+          "fullName": "sebholstein/angular-google-maps",
+          "stars": 2028,
+          "url": "https://github.com/sebholstein/angular-google-maps",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "tinystate",
+          "fullName": "sebholstein/tinystate",
+          "stars": 223,
+          "url": "https://github.com/sebholstein/tinystate",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "astro-google-fonts-optimizer",
+          "fullName": "sebholstein/astro-google-fonts-optimizer",
+          "stars": 123,
+          "url": "https://github.com/sebholstein/astro-google-fonts-optimizer",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

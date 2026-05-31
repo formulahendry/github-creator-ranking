@@ -1,0 +1,34 @@
+{
+  "login": "JOYCEQL",
+  "name": "siyue",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/34961949?v=4",
+  "htmlUrl": "https://github.com/JOYCEQL",
+  "location": "chengdu",
+  "countryCode": "CN",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 8323,
+      "repoCountPrimary": 1,
+      "starsContains": 8323,
+      "repoCountContains": 1,
+      "globalRank": 272,
+      "countryRank": 33,
+      "topRepos": [
+        {
+          "name": "magic-resume",
+          "fullName": "JOYCEQL/magic-resume",
+          "stars": 8323,
+          "url": "https://github.com/JOYCEQL/magic-resume",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

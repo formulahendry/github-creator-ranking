@@ -1,0 +1,62 @@
+{
+  "login": "remvze",
+  "name": "MAZE",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/115296471?v=4",
+  "htmlUrl": "https://github.com/remvze",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 4327,
+      "repoCountPrimary": 5,
+      "starsContains": 4327,
+      "repoCountContains": 5,
+      "globalRank": 596,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "moodist",
+          "fullName": "remvze/moodist",
+          "stars": 3546,
+          "url": "https://github.com/remvze/moodist",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "haus",
+          "fullName": "remvze/haus",
+          "stars": 241,
+          "url": "https://github.com/remvze/haus",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "nothing",
+          "fullName": "remvze/nothing",
+          "stars": 234,
+          "url": "https://github.com/remvze/nothing",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "desengs",
+          "fullName": "remvze/desengs",
+          "stars": 164,
+          "url": "https://github.com/remvze/desengs",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "pswd",
+          "fullName": "remvze/pswd",
+          "stars": 142,
+          "url": "https://github.com/remvze/pswd",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

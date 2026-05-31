@@ -1,0 +1,41 @@
+{
+  "login": "kopiro",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/839700?v=4",
+  "htmlUrl": "https://github.com/kopiro",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 277,
+      "repoCountPrimary": 2,
+      "starsContains": 277,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "homebridge-tapo-camera",
+          "fullName": "kopiro/homebridge-tapo-camera",
+          "stars": 164,
+          "url": "https://github.com/kopiro/homebridge-tapo-camera",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "homebridge-playstation",
+          "fullName": "kopiro/homebridge-playstation",
+          "stars": 113,
+          "url": "https://github.com/kopiro/homebridge-playstation",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

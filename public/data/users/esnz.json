@@ -1,0 +1,34 @@
+{
+  "login": "esnz",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/25284536?v=4",
+  "htmlUrl": "https://github.com/esnz",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 100,
+      "repoCountPrimary": 1,
+      "starsContains": 100,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-weather-app",
+          "fullName": "esnz/react-weather-app",
+          "stars": 100,
+          "url": "https://github.com/esnz/react-weather-app",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

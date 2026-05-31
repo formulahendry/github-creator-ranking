@@ -1,0 +1,34 @@
+{
+  "login": "bitrinjani",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/32003421?v=4",
+  "htmlUrl": "https://github.com/bitrinjani",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 813,
+      "repoCountPrimary": 1,
+      "starsContains": 813,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "r2",
+          "fullName": "bitrinjani/r2",
+          "stars": 813,
+          "url": "https://github.com/bitrinjani/r2",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

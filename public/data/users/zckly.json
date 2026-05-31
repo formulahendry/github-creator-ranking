@@ -1,0 +1,48 @@
+{
+  "login": "zckly",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/11340449?v=4",
+  "htmlUrl": "https://github.com/zckly",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 743,
+      "repoCountPrimary": 3,
+      "starsContains": 743,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "create-t3-turbo-ai",
+          "fullName": "zckly/create-t3-turbo-ai",
+          "stars": 355,
+          "url": "https://github.com/zckly/create-t3-turbo-ai",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "dynamic-interface-web",
+          "fullName": "zckly/dynamic-interface-web",
+          "stars": 276,
+          "url": "https://github.com/zckly/dynamic-interface-web",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "wove",
+          "fullName": "zckly/wove",
+          "stars": 112,
+          "url": "https://github.com/zckly/wove",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

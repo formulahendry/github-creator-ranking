@@ -1,0 +1,41 @@
+{
+  "login": "cweijan",
+  "name": "Weijan Chen ",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/27798227?v=4",
+  "htmlUrl": "https://github.com/cweijan",
+  "location": "Guangdong, China",
+  "countryCode": "CN",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3010,
+      "repoCountPrimary": 2,
+      "starsContains": 3010,
+      "repoCountContains": 2,
+      "globalRank": 888,
+      "countryRank": 105,
+      "topRepos": [
+        {
+          "name": "vscode-database-client",
+          "fullName": "cweijan/vscode-database-client",
+          "stars": 2877,
+          "url": "https://github.com/cweijan/vscode-database-client",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "autohotkey-plus",
+          "fullName": "cweijan/autohotkey-plus",
+          "stars": 133,
+          "url": "https://github.com/cweijan/autohotkey-plus",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

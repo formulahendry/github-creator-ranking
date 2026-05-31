@@ -1,0 +1,34 @@
+{
+  "login": "alariej",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/26170770?v=4",
+  "htmlUrl": "https://github.com/alariej",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 105,
+      "repoCountPrimary": 1,
+      "starsContains": 105,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "quadrix",
+          "fullName": "alariej/quadrix",
+          "stars": 105,
+          "url": "https://github.com/alariej/quadrix",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

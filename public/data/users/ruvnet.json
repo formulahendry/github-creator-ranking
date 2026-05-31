@@ -5,7 +5,7 @@
   "htmlUrl": "https://github.com/ruvnet",
   "location": "0x",
   "countryCode": null,
-  "generatedAt": "2026-05-31T13:50:40.799Z",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
   "isPartial": true,
   "languages": [
     {
@@ -14,18 +14,46 @@
         "name": "TypeScript",
         "githubQuery": "TypeScript"
       },
-      "starsPrimary": 56829,
-      "repoCountPrimary": 1,
-      "starsContains": 56829,
-      "repoCountContains": 1,
-      "globalRank": 8,
+      "starsPrimary": 58127,
+      "repoCountPrimary": 5,
+      "starsContains": 58127,
+      "repoCountContains": 5,
+      "globalRank": 12,
       "countryRank": null,
       "topRepos": [
         {
           "name": "ruflo",
           "fullName": "ruvnet/ruflo",
-          "stars": 56829,
+          "stars": 56919,
           "url": "https://github.com/ruvnet/ruflo",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "agentic-flow",
+          "fullName": "ruvnet/agentic-flow",
+          "stars": 732,
+          "url": "https://github.com/ruvnet/agentic-flow",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "dspy.ts",
+          "fullName": "ruvnet/dspy.ts",
+          "stars": 256,
+          "url": "https://github.com/ruvnet/dspy.ts",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "agentic-voice",
+          "fullName": "ruvnet/agentic-voice",
+          "stars": 117,
+          "url": "https://github.com/ruvnet/agentic-voice",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "voicebot",
+          "fullName": "ruvnet/voicebot",
+          "stars": 103,
+          "url": "https://github.com/ruvnet/voicebot",
           "primaryLanguage": "TypeScript"
         }
       ]

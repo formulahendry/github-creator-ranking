@@ -1,0 +1,62 @@
+{
+  "login": "yesmeck",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/465125?v=4",
+  "htmlUrl": "https://github.com/yesmeck",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1128,
+      "repoCountPrimary": 5,
+      "starsContains": 1128,
+      "repoCountContains": 5,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "safe-routes",
+          "fullName": "yesmeck/safe-routes",
+          "stars": 509,
+          "url": "https://github.com/yesmeck/safe-routes",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "waque",
+          "fullName": "yesmeck/waque",
+          "stars": 241,
+          "url": "https://github.com/yesmeck/waque",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "reactive.macro",
+          "fullName": "yesmeck/reactive.macro",
+          "stars": 171,
+          "url": "https://github.com/yesmeck/reactive.macro",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "redux-modal",
+          "fullName": "yesmeck/redux-modal",
+          "stars": 106,
+          "url": "https://github.com/yesmeck/redux-modal",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "mini-store",
+          "fullName": "yesmeck/mini-store",
+          "stars": 101,
+          "url": "https://github.com/yesmeck/mini-store",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

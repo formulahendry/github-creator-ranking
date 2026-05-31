@@ -1,0 +1,34 @@
+{
+  "login": "ben-vargas",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/20713656?v=4",
+  "htmlUrl": "https://github.com/ben-vargas",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 348,
+      "repoCountPrimary": 1,
+      "starsContains": 348,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ai-sdk-provider-claude-code",
+          "fullName": "ben-vargas/ai-sdk-provider-claude-code",
+          "stars": 348,
+          "url": "https://github.com/ben-vargas/ai-sdk-provider-claude-code",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

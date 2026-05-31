@@ -1,0 +1,34 @@
+{
+  "login": "philippetedajo",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/49923201?v=4",
+  "htmlUrl": "https://github.com/philippetedajo",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 223,
+      "repoCountPrimary": 1,
+      "starsContains": 223,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "philippe.tedajo",
+          "fullName": "philippetedajo/philippe.tedajo",
+          "stars": 223,
+          "url": "https://github.com/philippetedajo/philippe.tedajo",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

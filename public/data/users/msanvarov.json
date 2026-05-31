@@ -1,0 +1,41 @@
+{
+  "login": "msanvarov",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/26337118?v=4",
+  "htmlUrl": "https://github.com/msanvarov",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 455,
+      "repoCountPrimary": 2,
+      "starsContains": 455,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "nest-rest-mongo-boilerplate",
+          "fullName": "msanvarov/nest-rest-mongo-boilerplate",
+          "stars": 301,
+          "url": "https://github.com/msanvarov/nest-rest-mongo-boilerplate",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "nest-rest-typeorm-boilerplate",
+          "fullName": "msanvarov/nest-rest-typeorm-boilerplate",
+          "stars": 154,
+          "url": "https://github.com/msanvarov/nest-rest-typeorm-boilerplate",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

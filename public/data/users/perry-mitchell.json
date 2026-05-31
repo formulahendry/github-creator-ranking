@@ -1,0 +1,34 @@
+{
+  "login": "perry-mitchell",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3869469?v=4",
+  "htmlUrl": "https://github.com/perry-mitchell",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 804,
+      "repoCountPrimary": 1,
+      "starsContains": 804,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "webdav-client",
+          "fullName": "perry-mitchell/webdav-client",
+          "stars": 804,
+          "url": "https://github.com/perry-mitchell/webdav-client",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

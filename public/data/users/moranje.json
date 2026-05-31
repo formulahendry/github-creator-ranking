@@ -1,0 +1,34 @@
+{
+  "login": "moranje",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/666528?v=4",
+  "htmlUrl": "https://github.com/moranje",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 324,
+      "repoCountPrimary": 1,
+      "starsContains": 324,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "alfred-workflow-todoist",
+          "fullName": "moranje/alfred-workflow-todoist",
+          "stars": 324,
+          "url": "https://github.com/moranje/alfred-workflow-todoist",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

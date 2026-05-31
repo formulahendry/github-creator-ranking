@@ -1,0 +1,41 @@
+{
+  "login": "advaith1",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/11778454?v=4",
+  "htmlUrl": "https://github.com/advaith1",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 785,
+      "repoCountPrimary": 2,
+      "starsContains": 785,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "activities",
+          "fullName": "advaith1/activities",
+          "stars": 607,
+          "url": "https://github.com/advaith1/activities",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "libs",
+          "fullName": "advaith1/libs",
+          "stars": 178,
+          "url": "https://github.com/advaith1/libs",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

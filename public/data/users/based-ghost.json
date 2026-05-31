@@ -1,0 +1,41 @@
+{
+  "login": "based-ghost",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/45549837?v=4",
+  "htmlUrl": "https://github.com/based-ghost",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 344,
+      "repoCountPrimary": 2,
+      "starsContains": 344,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-functional-select",
+          "fullName": "based-ghost/react-functional-select",
+          "stars": 196,
+          "url": "https://github.com/based-ghost/react-functional-select",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "aspnet-core-react-redux-playground-template",
+          "fullName": "based-ghost/aspnet-core-react-redux-playground-template",
+          "stars": 148,
+          "url": "https://github.com/based-ghost/aspnet-core-react-redux-playground-template",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

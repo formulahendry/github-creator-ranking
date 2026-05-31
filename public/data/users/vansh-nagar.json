@@ -1,0 +1,41 @@
+{
+  "login": "vansh-nagar",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/189650812?v=4",
+  "htmlUrl": "https://github.com/vansh-nagar",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1577,
+      "repoCountPrimary": 2,
+      "starsContains": 1577,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ascii-studio",
+          "fullName": "vansh-nagar/ascii-studio",
+          "stars": 1137,
+          "url": "https://github.com/vansh-nagar/ascii-studio",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Pixel-Perfect",
+          "fullName": "vansh-nagar/Pixel-Perfect",
+          "stars": 440,
+          "url": "https://github.com/vansh-nagar/Pixel-Perfect",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

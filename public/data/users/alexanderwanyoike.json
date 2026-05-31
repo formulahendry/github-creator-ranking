@@ -1,0 +1,34 @@
+{
+  "login": "alexanderwanyoike",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/11722950?v=4",
+  "htmlUrl": "https://github.com/alexanderwanyoike",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 259,
+      "repoCountPrimary": 1,
+      "starsContains": 259,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "the0",
+          "fullName": "alexanderwanyoike/the0",
+          "stars": 259,
+          "url": "https://github.com/alexanderwanyoike/the0",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

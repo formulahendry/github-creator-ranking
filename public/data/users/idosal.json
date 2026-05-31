@@ -1,0 +1,34 @@
+{
+  "login": "idosal",
+  "name": "Ido Salomon",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/18148989?v=4",
+  "htmlUrl": "https://github.com/idosal",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 8119,
+      "repoCountPrimary": 1,
+      "starsContains": 8119,
+      "repoCountContains": 1,
+      "globalRank": 280,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "git-mcp",
+          "fullName": "idosal/git-mcp",
+          "stars": 8119,
+          "url": "https://github.com/idosal/git-mcp",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

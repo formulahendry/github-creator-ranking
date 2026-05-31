@@ -1,0 +1,41 @@
+{
+  "login": "pcattori",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1477317?v=4",
+  "htmlUrl": "https://github.com/pcattori",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 294,
+      "repoCountPrimary": 2,
+      "starsContains": 294,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vite-env-only",
+          "fullName": "pcattori/vite-env-only",
+          "stars": 168,
+          "url": "https://github.com/pcattori/vite-env-only",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "remix-blog-mdx",
+          "fullName": "pcattori/remix-blog-mdx",
+          "stars": 126,
+          "url": "https://github.com/pcattori/remix-blog-mdx",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

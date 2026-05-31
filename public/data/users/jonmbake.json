@@ -1,0 +1,34 @@
+{
+  "login": "jonmbake",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/865534?v=4",
+  "htmlUrl": "https://github.com/jonmbake",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 275,
+      "repoCountPrimary": 1,
+      "starsContains": 275,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-terminal-ui",
+          "fullName": "jonmbake/react-terminal-ui",
+          "stars": 275,
+          "url": "https://github.com/jonmbake/react-terminal-ui",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

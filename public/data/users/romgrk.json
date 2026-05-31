@@ -1,0 +1,34 @@
+{
+  "login": "romgrk",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1423607?v=4",
+  "htmlUrl": "https://github.com/romgrk",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 130,
+      "repoCountPrimary": 1,
+      "starsContains": 130,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "color-bits",
+          "fullName": "romgrk/color-bits",
+          "stars": 130,
+          "url": "https://github.com/romgrk/color-bits",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

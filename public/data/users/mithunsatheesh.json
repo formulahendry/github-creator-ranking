@@ -1,0 +1,34 @@
+{
+  "login": "mithunsatheesh",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/572597?v=4",
+  "htmlUrl": "https://github.com/mithunsatheesh",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 678,
+      "repoCountPrimary": 1,
+      "starsContains": 678,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "node-rules",
+          "fullName": "mithunsatheesh/node-rules",
+          "stars": 678,
+          "url": "https://github.com/mithunsatheesh/node-rules",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

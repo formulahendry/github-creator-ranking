@@ -1,0 +1,41 @@
+{
+  "login": "vincanger",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/70215737?v=4",
+  "htmlUrl": "https://github.com/vincanger",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1324,
+      "repoCountPrimary": 2,
+      "starsContains": 1324,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "coverlettergpt",
+          "fullName": "vincanger/coverlettergpt",
+          "stars": 1219,
+          "url": "https://github.com/vincanger/coverlettergpt",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "envelope-budgeting-test",
+          "fullName": "vincanger/envelope-budgeting-test",
+          "stars": 105,
+          "url": "https://github.com/vincanger/envelope-budgeting-test",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "login": "kunchenguid",
+  "name": "Kun Chen",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3233006?v=4",
+  "htmlUrl": "https://github.com/kunchenguid",
+  "location": "Bellevue, WA",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2783,
+      "repoCountPrimary": 3,
+      "starsContains": 2783,
+      "repoCountContains": 3,
+      "globalRank": 960,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "gnhf",
+          "fullName": "kunchenguid/gnhf",
+          "stars": 1857,
+          "url": "https://github.com/kunchenguid/gnhf",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "axi",
+          "fullName": "kunchenguid/axi",
+          "stars": 813,
+          "url": "https://github.com/kunchenguid/axi",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "TerminalOne",
+          "fullName": "kunchenguid/TerminalOne",
+          "stars": 113,
+          "url": "https://github.com/kunchenguid/TerminalOne",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

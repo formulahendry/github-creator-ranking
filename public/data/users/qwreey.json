@@ -1,0 +1,34 @@
+{
+  "login": "qwreey",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/46598063?v=4",
+  "htmlUrl": "https://github.com/qwreey",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 591,
+      "repoCountPrimary": 1,
+      "starsContains": 591,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "quick-settings-tweaks",
+          "fullName": "qwreey/quick-settings-tweaks",
+          "stars": 591,
+          "url": "https://github.com/qwreey/quick-settings-tweaks",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

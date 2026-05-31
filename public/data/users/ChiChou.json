@@ -1,0 +1,62 @@
+{
+  "login": "ChiChou",
+  "name": "codecolorist",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2802045?v=4",
+  "htmlUrl": "https://github.com/ChiChou",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3720,
+      "repoCountPrimary": 5,
+      "starsContains": 3720,
+      "repoCountContains": 5,
+      "globalRank": 714,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "bagbak",
+          "fullName": "ChiChou/bagbak",
+          "stars": 1458,
+          "url": "https://github.com/ChiChou/bagbak",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "grapefruit",
+          "fullName": "ChiChou/grapefruit",
+          "stars": 1324,
+          "url": "https://github.com/ChiChou/grapefruit",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vscode-frida",
+          "fullName": "ChiChou/vscode-frida",
+          "stars": 593,
+          "url": "https://github.com/ChiChou/vscode-frida",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "XpcScope",
+          "fullName": "ChiChou/XpcScope",
+          "stars": 221,
+          "url": "https://github.com/ChiChou/XpcScope",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "fruity-frida",
+          "fullName": "ChiChou/fruity-frida",
+          "stars": 124,
+          "url": "https://github.com/ChiChou/fruity-frida",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

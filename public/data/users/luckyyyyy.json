@@ -1,0 +1,41 @@
+{
+  "login": "luckyyyyy",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/9210430?v=4",
+  "htmlUrl": "https://github.com/luckyyyyy",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 614,
+      "repoCountPrimary": 2,
+      "starsContains": 614,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "miu2d",
+          "fullName": "luckyyyyy/miu2d",
+          "stars": 407,
+          "url": "https://github.com/luckyyyyy/miu2d",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "blog",
+          "fullName": "luckyyyyy/blog",
+          "stars": 207,
+          "url": "https://github.com/luckyyyyy/blog",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

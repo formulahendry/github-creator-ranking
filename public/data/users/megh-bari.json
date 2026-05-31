@@ -1,0 +1,34 @@
+{
+  "login": "megh-bari",
+  "name": "Megh Bari",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/142393952?v=4",
+  "htmlUrl": "https://github.com/megh-bari",
+  "location": "Mumbai (INDIA)",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2952,
+      "repoCountPrimary": 1,
+      "starsContains": 2952,
+      "repoCountContains": 1,
+      "globalRank": 914,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "pattern-craft",
+          "fullName": "megh-bari/pattern-craft",
+          "stars": 2952,
+          "url": "https://github.com/megh-bari/pattern-craft",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

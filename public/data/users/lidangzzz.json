@@ -1,0 +1,48 @@
+{
+  "login": "lidangzzz",
+  "name": "立党 Lidang",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6800565?v=4",
+  "htmlUrl": "https://github.com/lidangzzz",
+  "location": "Texas",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 6258,
+      "repoCountPrimary": 3,
+      "starsContains": 6258,
+      "repoCountContains": 3,
+      "globalRank": 376,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "How-to-run",
+          "fullName": "lidangzzz/How-to-run",
+          "stars": 5838,
+          "url": "https://github.com/lidangzzz/How-to-run",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "OnlySpecs",
+          "fullName": "lidangzzz/OnlySpecs",
+          "stars": 288,
+          "url": "https://github.com/lidangzzz/OnlySpecs",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "AIGuardPDF",
+          "fullName": "lidangzzz/AIGuardPDF",
+          "stars": 132,
+          "url": "https://github.com/lidangzzz/AIGuardPDF",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

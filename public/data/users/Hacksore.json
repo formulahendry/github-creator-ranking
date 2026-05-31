@@ -1,0 +1,41 @@
+{
+  "login": "Hacksore",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/996134?v=4",
+  "htmlUrl": "https://github.com/Hacksore",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 647,
+      "repoCountPrimary": 2,
+      "starsContains": 647,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "bluelinky",
+          "fullName": "Hacksore/bluelinky",
+          "stars": 457,
+          "url": "https://github.com/Hacksore/bluelinky",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vercel.lol",
+          "fullName": "Hacksore/vercel.lol",
+          "stars": 190,
+          "url": "https://github.com/Hacksore/vercel.lol",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

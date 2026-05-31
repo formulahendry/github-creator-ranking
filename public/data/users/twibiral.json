@@ -1,0 +1,34 @@
+{
+  "login": "twibiral",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/46483257?v=4",
+  "htmlUrl": "https://github.com/twibiral",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1509,
+      "repoCountPrimary": 1,
+      "starsContains": 1509,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "obsidian-execute-code",
+          "fullName": "twibiral/obsidian-execute-code",
+          "stars": 1509,
+          "url": "https://github.com/twibiral/obsidian-execute-code",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "login": "mgechev",
+  "name": "Minko Gechev",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/455023?v=4",
+  "htmlUrl": "https://github.com/mgechev",
+  "location": "California 🌴",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 13069,
+      "repoCountPrimary": 15,
+      "starsContains": 13069,
+      "repoCountContains": 15,
+      "globalRank": 152,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "angular-seed",
+          "fullName": "mgechev/angular-seed",
+          "stars": 4527,
+          "url": "https://github.com/mgechev/angular-seed",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "codelyzer",
+          "fullName": "mgechev/codelyzer",
+          "stars": 2468,
+          "url": "https://github.com/mgechev/codelyzer",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ngrev",
+          "fullName": "mgechev/ngrev",
+          "stars": 1579,
+          "url": "https://github.com/mgechev/ngrev",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "injection-js",
+          "fullName": "mgechev/injection-js",
+          "stars": 1374,
+          "url": "https://github.com/mgechev/injection-js",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ngx-quicklink",
+          "fullName": "mgechev/ngx-quicklink",
+          "stars": 756,
+          "url": "https://github.com/mgechev/ngx-quicklink",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

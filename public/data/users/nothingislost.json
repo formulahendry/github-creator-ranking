@@ -1,0 +1,55 @@
+{
+  "login": "nothingislost",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/89109712?v=4",
+  "htmlUrl": "https://github.com/nothingislost",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1554,
+      "repoCountPrimary": 4,
+      "starsContains": 1554,
+      "repoCountContains": 4,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "obsidian-hover-editor",
+          "fullName": "nothingislost/obsidian-hover-editor",
+          "stars": 754,
+          "url": "https://github.com/nothingislost/obsidian-hover-editor",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "obsidian-query-control",
+          "fullName": "nothingislost/obsidian-query-control",
+          "stars": 354,
+          "url": "https://github.com/nothingislost/obsidian-query-control",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "obsidian-bartender",
+          "fullName": "nothingislost/obsidian-bartender",
+          "stars": 297,
+          "url": "https://github.com/nothingislost/obsidian-bartender",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "obsidian-dynamic-highlights",
+          "fullName": "nothingislost/obsidian-dynamic-highlights",
+          "stars": 149,
+          "url": "https://github.com/nothingislost/obsidian-dynamic-highlights",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

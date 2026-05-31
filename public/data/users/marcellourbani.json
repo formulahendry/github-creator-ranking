@@ -1,0 +1,41 @@
+{
+  "login": "marcellourbani",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2453277?v=4",
+  "htmlUrl": "https://github.com/marcellourbani",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 406,
+      "repoCountPrimary": 2,
+      "starsContains": 406,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vscode_abap_remote_fs",
+          "fullName": "marcellourbani/vscode_abap_remote_fs",
+          "stars": 303,
+          "url": "https://github.com/marcellourbani/vscode_abap_remote_fs",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "abap-adt-api",
+          "fullName": "marcellourbani/abap-adt-api",
+          "stars": 103,
+          "url": "https://github.com/marcellourbani/abap-adt-api",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

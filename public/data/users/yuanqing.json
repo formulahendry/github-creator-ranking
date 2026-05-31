@@ -1,0 +1,55 @@
+{
+  "login": "yuanqing",
+  "name": "Yuan Qing Lim",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3170842?v=4",
+  "htmlUrl": "https://github.com/yuanqing",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3160,
+      "repoCountPrimary": 4,
+      "starsContains": 3160,
+      "repoCountContains": 4,
+      "globalRank": 851,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vdx",
+          "fullName": "yuanqing/vdx",
+          "stars": 1662,
+          "url": "https://github.com/yuanqing/vdx",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "create-figma-plugin",
+          "fullName": "yuanqing/create-figma-plugin",
+          "stars": 1103,
+          "url": "https://github.com/yuanqing/create-figma-plugin",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "figma-plugins",
+          "fullName": "yuanqing/figma-plugins",
+          "stars": 264,
+          "url": "https://github.com/yuanqing/figma-plugins",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "stable-diffusion-rest-api",
+          "fullName": "yuanqing/stable-diffusion-rest-api",
+          "stars": 131,
+          "url": "https://github.com/yuanqing/stable-diffusion-rest-api",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

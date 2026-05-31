@@ -1,0 +1,34 @@
+{
+  "login": "imsyy",
+  "name": "imsyy",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/42232682?v=4",
+  "htmlUrl": "https://github.com/imsyy",
+  "location": "Earth",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3847,
+      "repoCountPrimary": 1,
+      "starsContains": 3847,
+      "repoCountContains": 1,
+      "globalRank": 691,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "DailyHotApi",
+          "fullName": "imsyy/DailyHotApi",
+          "stars": 3847,
+          "url": "https://github.com/imsyy/DailyHotApi",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

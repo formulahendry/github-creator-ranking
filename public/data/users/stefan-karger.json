@@ -1,0 +1,34 @@
+{
+  "login": "stefan-karger",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/8871906?v=4",
+  "htmlUrl": "https://github.com/stefan-karger",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1506,
+      "repoCountPrimary": 1,
+      "starsContains": 1506,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "solid-ui",
+          "fullName": "stefan-karger/solid-ui",
+          "stars": 1506,
+          "url": "https://github.com/stefan-karger/solid-ui",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

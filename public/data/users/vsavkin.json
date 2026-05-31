@@ -1,0 +1,48 @@
+{
+  "login": "vsavkin",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/35996?v=4",
+  "htmlUrl": "https://github.com/vsavkin",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 835,
+      "repoCountPrimary": 3,
+      "starsContains": 835,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "large-monorepo",
+          "fullName": "vsavkin/large-monorepo",
+          "stars": 519,
+          "url": "https://github.com/vsavkin/large-monorepo",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "state_management_ngrx4",
+          "fullName": "vsavkin/state_management_ngrx4",
+          "stars": 203,
+          "url": "https://github.com/vsavkin/state_management_ngrx4",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "router_mailapp",
+          "fullName": "vsavkin/router_mailapp",
+          "stars": 113,
+          "url": "https://github.com/vsavkin/router_mailapp",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

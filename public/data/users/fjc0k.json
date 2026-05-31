@@ -1,0 +1,62 @@
+{
+  "login": "fjc0k",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/13151189?v=4",
+  "htmlUrl": "https://github.com/fjc0k",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2215,
+      "repoCountPrimary": 5,
+      "starsContains": 2215,
+      "repoCountContains": 5,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "docker-YApi",
+          "fullName": "fjc0k/docker-YApi",
+          "stars": 1140,
+          "url": "https://github.com/fjc0k/docker-YApi",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "yapi-to-typescript",
+          "fullName": "fjc0k/yapi-to-typescript",
+          "stars": 472,
+          "url": "https://github.com/fjc0k/yapi-to-typescript",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vtils",
+          "fullName": "fjc0k/vtils",
+          "stars": 252,
+          "url": "https://github.com/fjc0k/vtils",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "tbify",
+          "fullName": "fjc0k/tbify",
+          "stars": 211,
+          "url": "https://github.com/fjc0k/tbify",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "taro-axios",
+          "fullName": "fjc0k/taro-axios",
+          "stars": 140,
+          "url": "https://github.com/fjc0k/taro-axios",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

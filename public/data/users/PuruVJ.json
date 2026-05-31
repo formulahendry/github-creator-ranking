@@ -1,0 +1,62 @@
+{
+  "login": "PuruVJ",
+  "name": "Puru Vijay",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/47742487?v=4",
+  "htmlUrl": "https://github.com/PuruVJ",
+  "location": "Jaipur",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 4224,
+      "repoCountPrimary": 5,
+      "starsContains": 4224,
+      "repoCountContains": 5,
+      "globalRank": 614,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "neodrag",
+          "fullName": "PuruVJ/neodrag",
+          "stars": 2433,
+          "url": "https://github.com/PuruVJ/neodrag",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "macos-preact",
+          "fullName": "PuruVJ/macos-preact",
+          "stars": 1038,
+          "url": "https://github.com/PuruVJ/macos-preact",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "neoconfetti",
+          "fullName": "PuruVJ/neoconfetti",
+          "stars": 311,
+          "url": "https://github.com/PuruVJ/neoconfetti",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "neotraverse",
+          "fullName": "PuruVJ/neotraverse",
+          "stars": 253,
+          "url": "https://github.com/PuruVJ/neotraverse",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "neoqs",
+          "fullName": "PuruVJ/neoqs",
+          "stars": 189,
+          "url": "https://github.com/PuruVJ/neoqs",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

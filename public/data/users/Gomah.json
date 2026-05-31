@@ -1,0 +1,48 @@
+{
+  "login": "Gomah",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2362138?v=4",
+  "htmlUrl": "https://github.com/Gomah",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 629,
+      "repoCountPrimary": 3,
+      "starsContains": 629,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "nuxt-shopify",
+          "fullName": "Gomah/nuxt-shopify",
+          "stars": 354,
+          "url": "https://github.com/Gomah/nuxt-shopify",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "bulmil",
+          "fullName": "Gomah/bulmil",
+          "stars": 159,
+          "url": "https://github.com/Gomah/bulmil",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "prisma-serverless",
+          "fullName": "Gomah/prisma-serverless",
+          "stars": 116,
+          "url": "https://github.com/Gomah/prisma-serverless",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

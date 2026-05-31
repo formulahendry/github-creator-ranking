@@ -1,0 +1,62 @@
+{
+  "login": "transitive-bullshit",
+  "name": "Travis Fischer",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/552829?v=4",
+  "htmlUrl": "https://github.com/transitive-bullshit",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 31988,
+      "repoCountPrimary": 19,
+      "starsContains": 31988,
+      "repoCountContains": 19,
+      "globalRank": 42,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "agentic",
+          "fullName": "transitive-bullshit/agentic",
+          "stars": 18120,
+          "url": "https://github.com/transitive-bullshit/agentic",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "nextjs-notion-starter-kit",
+          "fullName": "transitive-bullshit/nextjs-notion-starter-kit",
+          "stars": 7007,
+          "url": "https://github.com/transitive-bullshit/nextjs-notion-starter-kit",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "bing-chat",
+          "fullName": "transitive-bullshit/bing-chat",
+          "stars": 1208,
+          "url": "https://github.com/transitive-bullshit/bing-chat",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "chatgpt-twitter-bot",
+          "fullName": "transitive-bullshit/chatgpt-twitter-bot",
+          "stars": 758,
+          "url": "https://github.com/transitive-bullshit/chatgpt-twitter-bot",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "functional-typescript",
+          "fullName": "transitive-bullshit/functional-typescript",
+          "stars": 623,
+          "url": "https://github.com/transitive-bullshit/functional-typescript",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

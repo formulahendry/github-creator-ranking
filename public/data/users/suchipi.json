@@ -1,0 +1,62 @@
+{
+  "login": "suchipi",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1341513?v=4",
+  "htmlUrl": "https://github.com/suchipi",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1521,
+      "repoCountPrimary": 7,
+      "starsContains": 1521,
+      "repoCountContains": 7,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "hex-engine",
+          "fullName": "suchipi/hex-engine",
+          "stars": 677,
+          "url": "https://github.com/suchipi/hex-engine",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "switch-joy-con",
+          "fullName": "suchipi/switch-joy-con",
+          "stars": 200,
+          "url": "https://github.com/suchipi/switch-joy-con",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "safety-match",
+          "fullName": "suchipi/safety-match",
+          "stars": 199,
+          "url": "https://github.com/suchipi/safety-match",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "pheno",
+          "fullName": "suchipi/pheno",
+          "stars": 131,
+          "url": "https://github.com/suchipi/pheno",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "yavascript",
+          "fullName": "suchipi/yavascript",
+          "stars": 110,
+          "url": "https://github.com/suchipi/yavascript",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

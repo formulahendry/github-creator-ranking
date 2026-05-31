@@ -1,0 +1,48 @@
+{
+  "login": "vantezzen",
+  "name": "Bennett",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/10333196?v=4",
+  "htmlUrl": "https://github.com/vantezzen",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 4023,
+      "repoCountPrimary": 3,
+      "starsContains": 4023,
+      "repoCountContains": 3,
+      "globalRank": 655,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "autoform",
+          "fullName": "vantezzen/autoform",
+          "stars": 3470,
+          "url": "https://github.com/vantezzen/autoform",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "skip-silence",
+          "fullName": "vantezzen/skip-silence",
+          "stars": 453,
+          "url": "https://github.com/vantezzen/skip-silence",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "wrapped",
+          "fullName": "vantezzen/wrapped",
+          "stars": 100,
+          "url": "https://github.com/vantezzen/wrapped",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

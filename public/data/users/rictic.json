@@ -1,0 +1,34 @@
+{
+  "login": "rictic",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1659?v=4",
+  "htmlUrl": "https://github.com/rictic",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1201,
+      "repoCountPrimary": 1,
+      "starsContains": 1201,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "jsonriver",
+          "fullName": "rictic/jsonriver",
+          "stars": 1201,
+          "url": "https://github.com/rictic/jsonriver",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

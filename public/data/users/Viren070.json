@@ -1,0 +1,41 @@
+{
+  "login": "Viren070",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/71220264?v=4",
+  "htmlUrl": "https://github.com/Viren070",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2469,
+      "repoCountPrimary": 2,
+      "starsContains": 2469,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "AIOStreams",
+          "fullName": "Viren070/AIOStreams",
+          "stars": 2049,
+          "url": "https://github.com/Viren070/AIOStreams",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "guides",
+          "fullName": "Viren070/guides",
+          "stars": 420,
+          "url": "https://github.com/Viren070/guides",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

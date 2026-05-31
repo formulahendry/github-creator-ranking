@@ -1,0 +1,55 @@
+{
+  "login": "JP1016",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5446313?v=4",
+  "htmlUrl": "https://github.com/JP1016",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 576,
+      "repoCountPrimary": 4,
+      "starsContains": 576,
+      "repoCountContains": 4,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Markdown",
+          "fullName": "JP1016/Markdown",
+          "stars": 214,
+          "url": "https://github.com/JP1016/Markdown",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-icon-blur",
+          "fullName": "JP1016/react-icon-blur",
+          "stars": 127,
+          "url": "https://github.com/JP1016/react-icon-blur",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Markdown-Electron",
+          "fullName": "JP1016/Markdown-Electron",
+          "stars": 118,
+          "url": "https://github.com/JP1016/Markdown-Electron",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Paper",
+          "fullName": "JP1016/Paper",
+          "stars": 117,
+          "url": "https://github.com/JP1016/Paper",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

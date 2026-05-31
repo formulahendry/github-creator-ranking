@@ -1,0 +1,34 @@
+{
+  "login": "jaggad",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/11954332?v=4",
+  "htmlUrl": "https://github.com/jaggad",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 461,
+      "repoCountPrimary": 1,
+      "starsContains": 461,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "crunker",
+          "fullName": "jaggad/crunker",
+          "stars": 461,
+          "url": "https://github.com/jaggad/crunker",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "domeccleston",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/31101792?v=4",
+  "htmlUrl": "https://github.com/domeccleston",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1936,
+      "repoCountPrimary": 2,
+      "starsContains": 1936,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "sharegpt",
+          "fullName": "domeccleston/sharegpt",
+          "stars": 1758,
+          "url": "https://github.com/domeccleston/sharegpt",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "dalle-2",
+          "fullName": "domeccleston/dalle-2",
+          "stars": 178,
+          "url": "https://github.com/domeccleston/dalle-2",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

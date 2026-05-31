@@ -1,0 +1,48 @@
+{
+  "login": "benjypng",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/47936793?v=4",
+  "htmlUrl": "https://github.com/benjypng",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 416,
+      "repoCountPrimary": 3,
+      "starsContains": 416,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "logseq-todoist-plugin",
+          "fullName": "benjypng/logseq-todoist-plugin",
+          "stars": 146,
+          "url": "https://github.com/benjypng/logseq-todoist-plugin",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "logseq-kanban-plugin",
+          "fullName": "benjypng/logseq-kanban-plugin",
+          "stars": 138,
+          "url": "https://github.com/benjypng/logseq-kanban-plugin",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "logseq-mermaid-plugin",
+          "fullName": "benjypng/logseq-mermaid-plugin",
+          "stars": 132,
+          "url": "https://github.com/benjypng/logseq-mermaid-plugin",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

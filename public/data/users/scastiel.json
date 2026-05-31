@@ -1,0 +1,55 @@
+{
+  "login": "scastiel",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/301948?v=4",
+  "htmlUrl": "https://github.com/scastiel",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1287,
+      "repoCountPrimary": 4,
+      "starsContains": 1287,
+      "repoCountContains": 4,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "3d-book-image-css-generator",
+          "fullName": "scastiel/3d-book-image-css-generator",
+          "stars": 656,
+          "url": "https://github.com/scastiel/3d-book-image-css-generator",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "github-business-card",
+          "fullName": "scastiel/github-business-card",
+          "stars": 284,
+          "url": "https://github.com/scastiel/github-business-card",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "github-stars-video",
+          "fullName": "scastiel/github-stars-video",
+          "stars": 177,
+          "url": "https://github.com/scastiel/github-stars-video",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "excalidraw-slides",
+          "fullName": "scastiel/excalidraw-slides",
+          "stars": 170,
+          "url": "https://github.com/scastiel/excalidraw-slides",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

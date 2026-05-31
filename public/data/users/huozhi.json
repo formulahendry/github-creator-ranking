@@ -1,0 +1,62 @@
+{
+  "login": "huozhi",
+  "name": "Jiachi Liu",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/4800338?v=4",
+  "htmlUrl": "https://github.com/huozhi",
+  "location": "</>",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3452,
+      "repoCountPrimary": 6,
+      "starsContains": 3452,
+      "repoCountContains": 6,
+      "globalRank": 781,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "bunchee",
+          "fullName": "huozhi/bunchee",
+          "stars": 1392,
+          "url": "https://github.com/huozhi/bunchee",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "sugar-high",
+          "fullName": "huozhi/sugar-high",
+          "stars": 1060,
+          "url": "https://github.com/huozhi/sugar-high",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vaso",
+          "fullName": "huozhi/vaso",
+          "stars": 335,
+          "url": "https://github.com/huozhi/vaso",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "devjar",
+          "fullName": "huozhi/devjar",
+          "stars": 290,
+          "url": "https://github.com/huozhi/devjar",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "respinner",
+          "fullName": "huozhi/respinner",
+          "stars": 231,
+          "url": "https://github.com/huozhi/respinner",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

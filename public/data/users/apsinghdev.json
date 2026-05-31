@@ -1,0 +1,34 @@
+{
+  "login": "apsinghdev",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/109718740?v=4",
+  "htmlUrl": "https://github.com/apsinghdev",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 375,
+      "repoCountPrimary": 1,
+      "starsContains": 375,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "opensox",
+          "fullName": "apsinghdev/opensox",
+          "stars": 375,
+          "url": "https://github.com/apsinghdev/opensox",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

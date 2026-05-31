@@ -1,0 +1,34 @@
+{
+  "login": "calintamas",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/9104454?v=4",
+  "htmlUrl": "https://github.com/calintamas",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2127,
+      "repoCountPrimary": 1,
+      "starsContains": 2127,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-native-toast-message",
+          "fullName": "calintamas/react-native-toast-message",
+          "stars": 2127,
+          "url": "https://github.com/calintamas/react-native-toast-message",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

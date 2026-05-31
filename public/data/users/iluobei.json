@@ -1,0 +1,34 @@
+{
+  "login": "iluobei",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/41221019?v=4",
+  "htmlUrl": "https://github.com/iluobei",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 819,
+      "repoCountPrimary": 1,
+      "starsContains": 819,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "miaomiaowu",
+          "fullName": "iluobei/miaomiaowu",
+          "stars": 819,
+          "url": "https://github.com/iluobei/miaomiaowu",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

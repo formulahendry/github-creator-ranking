@@ -1,0 +1,41 @@
+{
+  "login": "eds2002",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/103544428?v=4",
+  "htmlUrl": "https://github.com/eds2002",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1746,
+      "repoCountPrimary": 2,
+      "starsContains": 1746,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-native-screen-transitions",
+          "fullName": "eds2002/react-native-screen-transitions",
+          "stars": 1448,
+          "url": "https://github.com/eds2002/react-native-screen-transitions",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "immersive-overlay-example",
+          "fullName": "eds2002/immersive-overlay-example",
+          "stars": 298,
+          "url": "https://github.com/eds2002/immersive-overlay-example",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "KieSun",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/11811888?v=4",
+  "htmlUrl": "https://github.com/KieSun",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 242,
+      "repoCountPrimary": 2,
+      "starsContains": 242,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "fullstack-project",
+          "fullName": "KieSun/fullstack-project",
+          "stars": 133,
+          "url": "https://github.com/KieSun/fullstack-project",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "per-moniteur",
+          "fullName": "KieSun/per-moniteur",
+          "stars": 109,
+          "url": "https://github.com/KieSun/per-moniteur",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

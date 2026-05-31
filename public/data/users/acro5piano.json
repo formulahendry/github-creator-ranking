@@ -1,0 +1,55 @@
+{
+  "login": "acro5piano",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/10719495?v=4",
+  "htmlUrl": "https://github.com/acro5piano",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1643,
+      "repoCountPrimary": 4,
+      "starsContains": 1643,
+      "repoCountContains": 4,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "typed-graphqlify",
+          "fullName": "acro5piano/typed-graphqlify",
+          "stars": 648,
+          "url": "https://github.com/acro5piano/typed-graphqlify",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-native-big-calendar",
+          "fullName": "acro5piano/react-native-big-calendar",
+          "stars": 582,
+          "url": "https://github.com/acro5piano/react-native-big-calendar",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "graphql-rest-proxy",
+          "fullName": "acro5piano/graphql-rest-proxy",
+          "stars": 257,
+          "url": "https://github.com/acro5piano/graphql-rest-proxy",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "resume",
+          "fullName": "acro5piano/resume",
+          "stars": 156,
+          "url": "https://github.com/acro5piano/resume",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

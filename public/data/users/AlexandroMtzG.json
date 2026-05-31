@@ -1,0 +1,48 @@
+{
+  "login": "AlexandroMtzG",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/8606530?v=4",
+  "htmlUrl": "https://github.com/AlexandroMtzG",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 716,
+      "repoCountPrimary": 3,
+      "starsContains": 716,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "remix-page-blocks",
+          "fullName": "AlexandroMtzG/remix-page-blocks",
+          "stars": 431,
+          "url": "https://github.com/AlexandroMtzG/remix-page-blocks",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "remix-blocks",
+          "fullName": "AlexandroMtzG/remix-blocks",
+          "stars": 182,
+          "url": "https://github.com/AlexandroMtzG/remix-blocks",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "remix-workflows",
+          "fullName": "AlexandroMtzG/remix-workflows",
+          "stars": 103,
+          "url": "https://github.com/AlexandroMtzG/remix-workflows",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

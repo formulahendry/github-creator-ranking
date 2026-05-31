@@ -1,0 +1,41 @@
+{
+  "login": "maurodesouza",
+  "name": "Mauro de Souza",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/54520907?v=4",
+  "htmlUrl": "https://github.com/maurodesouza",
+  "location": "localhost:3000",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 4217,
+      "repoCountPrimary": 2,
+      "starsContains": 4217,
+      "repoCountContains": 2,
+      "globalRank": 615,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "profile-readme-generator",
+          "fullName": "maurodesouza/profile-readme-generator",
+          "stars": 4084,
+          "url": "https://github.com/maurodesouza/profile-readme-generator",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vscode-simple-readme",
+          "fullName": "maurodesouza/vscode-simple-readme",
+          "stars": 133,
+          "url": "https://github.com/maurodesouza/vscode-simple-readme",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

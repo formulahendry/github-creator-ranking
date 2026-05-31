@@ -1,0 +1,34 @@
+{
+  "login": "joemccann",
+  "name": "Joe McCann",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/48234?v=4",
+  "htmlUrl": "https://github.com/joemccann",
+  "location": "Miami, FL",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 8244,
+      "repoCountPrimary": 1,
+      "starsContains": 8244,
+      "repoCountContains": 1,
+      "globalRank": 274,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "dillinger",
+          "fullName": "joemccann/dillinger",
+          "stars": 8244,
+          "url": "https://github.com/joemccann/dillinger",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

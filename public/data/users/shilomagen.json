@@ -1,0 +1,34 @@
+{
+  "login": "shilomagen",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/11750657?v=4",
+  "htmlUrl": "https://github.com/shilomagen",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 129,
+      "repoCountPrimary": 1,
+      "starsContains": 129,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "passport-extension",
+          "fullName": "shilomagen/passport-extension",
+          "stars": 129,
+          "url": "https://github.com/shilomagen/passport-extension",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

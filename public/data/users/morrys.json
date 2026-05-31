@@ -1,0 +1,41 @@
+{
+  "login": "morrys",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2670647?v=4",
+  "htmlUrl": "https://github.com/morrys",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 413,
+      "repoCountPrimary": 2,
+      "starsContains": 413,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-relay-offline",
+          "fullName": "morrys/react-relay-offline",
+          "stars": 238,
+          "url": "https://github.com/morrys/react-relay-offline",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "wora",
+          "fullName": "morrys/wora",
+          "stars": 175,
+          "url": "https://github.com/morrys/wora",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

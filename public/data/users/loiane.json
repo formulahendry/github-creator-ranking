@@ -1,0 +1,62 @@
+{
+  "login": "loiane",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/59545?v=4",
+  "htmlUrl": "https://github.com/loiane",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2595,
+      "repoCountPrimary": 5,
+      "starsContains": 2595,
+      "repoCountContains": 5,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "curso-angular",
+          "fullName": "loiane/curso-angular",
+          "stars": 1972,
+          "url": "https://github.com/loiane/curso-angular",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "modern-angular",
+          "fullName": "loiane/modern-angular",
+          "stars": 190,
+          "url": "https://github.com/loiane/modern-angular",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ionic2-pokedex",
+          "fullName": "loiane/ionic2-pokedex",
+          "stars": 154,
+          "url": "https://github.com/loiane/ionic2-pokedex",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "angular2-crud-rest",
+          "fullName": "loiane/angular2-crud-rest",
+          "stars": 144,
+          "url": "https://github.com/loiane/angular2-crud-rest",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "angular-ngrx-example-old",
+          "fullName": "loiane/angular-ngrx-example-old",
+          "stars": 135,
+          "url": "https://github.com/loiane/angular-ngrx-example-old",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

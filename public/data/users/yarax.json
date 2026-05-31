@@ -1,0 +1,34 @@
+{
+  "login": "yarax",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1425951?v=4",
+  "htmlUrl": "https://github.com/yarax",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 923,
+      "repoCountPrimary": 1,
+      "starsContains": 923,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "swagger-to-graphql",
+          "fullName": "yarax/swagger-to-graphql",
+          "stars": 923,
+          "url": "https://github.com/yarax/swagger-to-graphql",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

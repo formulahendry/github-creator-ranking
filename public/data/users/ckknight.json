@@ -1,0 +1,34 @@
+{
+  "login": "ckknight",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/66227?v=4",
+  "htmlUrl": "https://github.com/ckknight",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 616,
+      "repoCountPrimary": 1,
+      "starsContains": 616,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "random-js",
+          "fullName": "ckknight/random-js",
+          "stars": 616,
+          "url": "https://github.com/ckknight/random-js",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "Swatinem",
+  "name": "Arpad Borsos",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/580492?v=4",
+  "htmlUrl": "https://github.com/Swatinem",
+  "location": "Vienna, Austria",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2694,
+      "repoCountPrimary": 2,
+      "starsContains": 2694,
+      "repoCountContains": 2,
+      "globalRank": 994,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "rust-cache",
+          "fullName": "Swatinem/rust-cache",
+          "stars": 1823,
+          "url": "https://github.com/Swatinem/rust-cache",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "rollup-plugin-dts",
+          "fullName": "Swatinem/rollup-plugin-dts",
+          "stars": 871,
+          "url": "https://github.com/Swatinem/rollup-plugin-dts",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

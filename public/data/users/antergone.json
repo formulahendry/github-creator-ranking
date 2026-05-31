@@ -1,0 +1,41 @@
+{
+  "login": "antergone",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5568837?v=4",
+  "htmlUrl": "https://github.com/antergone",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 590,
+      "repoCountPrimary": 2,
+      "starsContains": 590,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "palm-proxy",
+          "fullName": "antergone/palm-proxy",
+          "stars": 335,
+          "url": "https://github.com/antergone/palm-proxy",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "palm-netlify-proxy",
+          "fullName": "antergone/palm-netlify-proxy",
+          "stars": 255,
+          "url": "https://github.com/antergone/palm-netlify-proxy",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

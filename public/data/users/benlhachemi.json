@@ -1,0 +1,41 @@
+{
+  "login": "benlhachemi",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/53281567?v=4",
+  "htmlUrl": "https://github.com/benlhachemi",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 366,
+      "repoCountPrimary": 2,
+      "starsContains": 366,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "modifio",
+          "fullName": "benlhachemi/modifio",
+          "stars": 263,
+          "url": "https://github.com/benlhachemi/modifio",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "BestShape",
+          "fullName": "benlhachemi/BestShape",
+          "stars": 103,
+          "url": "https://github.com/benlhachemi/BestShape",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

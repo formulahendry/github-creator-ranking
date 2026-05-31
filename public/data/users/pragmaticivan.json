@@ -1,0 +1,34 @@
+{
+  "login": "pragmaticivan",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/301291?v=4",
+  "htmlUrl": "https://github.com/pragmaticivan",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 783,
+      "repoCountPrimary": 1,
+      "starsContains": 783,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "nestjs-otel",
+          "fullName": "pragmaticivan/nestjs-otel",
+          "stars": 783,
+          "url": "https://github.com/pragmaticivan/nestjs-otel",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

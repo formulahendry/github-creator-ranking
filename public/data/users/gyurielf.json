@@ -1,0 +1,34 @@
+{
+  "login": "gyurielf",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/12744391?v=4",
+  "htmlUrl": "https://github.com/gyurielf",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 127,
+      "repoCountPrimary": 1,
+      "starsContains": 127,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "svelte-tel-input",
+          "fullName": "gyurielf/svelte-tel-input",
+          "stars": 127,
+          "url": "https://github.com/gyurielf/svelte-tel-input",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

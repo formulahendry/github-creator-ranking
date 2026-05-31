@@ -1,0 +1,48 @@
+{
+  "login": "molefrog",
+  "name": "Alexey Taktarov",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/671276?v=4",
+  "htmlUrl": "https://github.com/molefrog",
+  "location": "Copenhagen",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 8412,
+      "repoCountPrimary": 3,
+      "starsContains": 8412,
+      "repoCountContains": 3,
+      "globalRank": 269,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "wouter",
+          "fullName": "molefrog/wouter",
+          "stars": 7838,
+          "url": "https://github.com/molefrog/wouter",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "spoiled",
+          "fullName": "molefrog/spoiled",
+          "stars": 421,
+          "url": "https://github.com/molefrog/spoiled",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "skills",
+          "fullName": "molefrog/skills",
+          "stars": 153,
+          "url": "https://github.com/molefrog/skills",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

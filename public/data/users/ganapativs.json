@@ -1,0 +1,34 @@
+{
+  "login": "ganapativs",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/4010960?v=4",
+  "htmlUrl": "https://github.com/ganapativs",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 318,
+      "repoCountPrimary": 1,
+      "starsContains": 318,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-spectrum",
+          "fullName": "ganapativs/react-spectrum",
+          "stars": 318,
+          "url": "https://github.com/ganapativs/react-spectrum",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

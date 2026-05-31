@@ -1,0 +1,34 @@
+{
+  "login": "LukasBombach",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2379652?v=4",
+  "htmlUrl": "https://github.com/LukasBombach",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 418,
+      "repoCountPrimary": 1,
+      "starsContains": 418,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "next-super-performance",
+          "fullName": "LukasBombach/next-super-performance",
+          "stars": 418,
+          "url": "https://github.com/LukasBombach/next-super-performance",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

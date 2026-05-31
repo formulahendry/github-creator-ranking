@@ -1,0 +1,34 @@
+{
+  "login": "hmarr",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/110275?v=4",
+  "htmlUrl": "https://github.com/hmarr",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 476,
+      "repoCountPrimary": 1,
+      "starsContains": 476,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "auto-approve-action",
+          "fullName": "hmarr/auto-approve-action",
+          "stars": 476,
+          "url": "https://github.com/hmarr/auto-approve-action",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "dukeluo",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/26000789?v=4",
+  "htmlUrl": "https://github.com/dukeluo",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 873,
+      "repoCountPrimary": 1,
+      "starsContains": 873,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "wai",
+          "fullName": "dukeluo/wai",
+          "stars": 873,
+          "url": "https://github.com/dukeluo/wai",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

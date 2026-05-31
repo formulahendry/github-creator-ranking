@@ -1,0 +1,48 @@
+{
+  "login": "f",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/196477?v=4",
+  "htmlUrl": "https://github.com/f",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2161,
+      "repoCountPrimary": 3,
+      "starsContains": 2161,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "git-rewrite-commits",
+          "fullName": "f/git-rewrite-commits",
+          "stars": 1411,
+          "url": "https://github.com/f/git-rewrite-commits",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "fatura",
+          "fullName": "f/fatura",
+          "stars": 623,
+          "url": "https://github.com/f/fatura",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "mcp-startup-framework",
+          "fullName": "f/mcp-startup-framework",
+          "stars": 127,
+          "url": "https://github.com/f/mcp-startup-framework",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

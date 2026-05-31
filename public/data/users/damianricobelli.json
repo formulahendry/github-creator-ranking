@@ -1,0 +1,55 @@
+{
+  "login": "damianricobelli",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/22398603?v=4",
+  "htmlUrl": "https://github.com/damianricobelli",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2557,
+      "repoCountPrimary": 4,
+      "starsContains": 2557,
+      "repoCountContains": 4,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "stepperize",
+          "fullName": "damianricobelli/stepperize",
+          "stars": 1576,
+          "url": "https://github.com/damianricobelli/stepperize",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "shadcn-cal-com",
+          "fullName": "damianricobelli/shadcn-cal-com",
+          "stars": 438,
+          "url": "https://github.com/damianricobelli/shadcn-cal-com",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "shadcn-phone-input",
+          "fullName": "damianricobelli/shadcn-phone-input",
+          "stars": 279,
+          "url": "https://github.com/damianricobelli/shadcn-phone-input",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "shadcn-linear-combobox",
+          "fullName": "damianricobelli/shadcn-linear-combobox",
+          "stars": 264,
+          "url": "https://github.com/damianricobelli/shadcn-linear-combobox",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

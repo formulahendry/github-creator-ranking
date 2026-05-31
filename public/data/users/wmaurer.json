@@ -1,0 +1,41 @@
+{
+  "login": "wmaurer",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2899448?v=4",
+  "htmlUrl": "https://github.com/wmaurer",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 488,
+      "repoCountPrimary": 2,
+      "starsContains": 488,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vscode-change-case",
+          "fullName": "wmaurer/vscode-change-case",
+          "stars": 360,
+          "url": "https://github.com/wmaurer/vscode-change-case",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vscode-jumpy",
+          "fullName": "wmaurer/vscode-jumpy",
+          "stars": 128,
+          "url": "https://github.com/wmaurer/vscode-jumpy",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

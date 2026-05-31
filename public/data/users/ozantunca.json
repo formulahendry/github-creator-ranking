@@ -1,0 +1,41 @@
+{
+  "login": "ozantunca",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1837579?v=4",
+  "htmlUrl": "https://github.com/ozantunca",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 610,
+      "repoCountPrimary": 2,
+      "starsContains": 610,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "locally",
+          "fullName": "ozantunca/locally",
+          "stars": 370,
+          "url": "https://github.com/ozantunca/locally",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "elb-log-analyzer",
+          "fullName": "ozantunca/elb-log-analyzer",
+          "stars": 240,
+          "url": "https://github.com/ozantunca/elb-log-analyzer",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "jvilk",
+  "name": "John Vilk",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1141042?v=4",
+  "htmlUrl": "https://github.com/jvilk",
+  "location": "United States",
+  "countryCode": "US",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3633,
+      "repoCountPrimary": 2,
+      "starsContains": 3633,
+      "repoCountContains": 2,
+      "globalRank": 732,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "BrowserFS",
+          "fullName": "jvilk/BrowserFS",
+          "stars": 3165,
+          "url": "https://github.com/jvilk/BrowserFS",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "MakeTypes",
+          "fullName": "jvilk/MakeTypes",
+          "stars": 468,
+          "url": "https://github.com/jvilk/MakeTypes",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "KeJunMao",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/18414281?v=4",
+  "htmlUrl": "https://github.com/KeJunMao",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 252,
+      "repoCountPrimary": 2,
+      "starsContains": 252,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vscode-devtoys",
+          "fullName": "KeJunMao/vscode-devtoys",
+          "stars": 144,
+          "url": "https://github.com/KeJunMao/vscode-devtoys",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "open-block-war",
+          "fullName": "KeJunMao/open-block-war",
+          "stars": 108,
+          "url": "https://github.com/KeJunMao/open-block-war",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

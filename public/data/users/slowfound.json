@@ -1,0 +1,34 @@
+{
+  "login": "slowfound",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/45223699?v=4",
+  "htmlUrl": "https://github.com/slowfound",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 372,
+      "repoCountPrimary": 1,
+      "starsContains": 372,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "next-prisma-tailwind-ecommerce",
+          "fullName": "slowfound/next-prisma-tailwind-ecommerce",
+          "stars": 372,
+          "url": "https://github.com/slowfound/next-prisma-tailwind-ecommerce",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "prettymuchbryce",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/709042?v=4",
+  "htmlUrl": "https://github.com/prettymuchbryce",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1121,
+      "repoCountPrimary": 1,
+      "starsContains": 1121,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "http-status-codes",
+          "fullName": "prettymuchbryce/http-status-codes",
+          "stars": 1121,
+          "url": "https://github.com/prettymuchbryce/http-status-codes",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

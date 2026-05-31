@@ -1,0 +1,34 @@
+{
+  "login": "l2hyunwoo",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/54518925?v=4",
+  "htmlUrl": "https://github.com/l2hyunwoo",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 175,
+      "repoCountPrimary": 1,
+      "starsContains": 175,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-native-nitro-device-info",
+          "fullName": "l2hyunwoo/react-native-nitro-device-info",
+          "stars": 175,
+          "url": "https://github.com/l2hyunwoo/react-native-nitro-device-info",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

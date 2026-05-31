@@ -1,0 +1,55 @@
+{
+  "login": "fantasticit",
+  "name": "fantasticit",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/26452939?v=4",
+  "htmlUrl": "https://github.com/fantasticit",
+  "location": "China",
+  "countryCode": "CN",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3223,
+      "repoCountPrimary": 4,
+      "starsContains": 3223,
+      "repoCountContains": 4,
+      "globalRank": 836,
+      "countryRank": 96,
+      "topRepos": [
+        {
+          "name": "think",
+          "fullName": "fantasticit/think",
+          "stars": 2147,
+          "url": "https://github.com/fantasticit/think",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "wipi",
+          "fullName": "fantasticit/wipi",
+          "stars": 619,
+          "url": "https://github.com/fantasticit/wipi",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ramiko",
+          "fullName": "fantasticit/ramiko",
+          "stars": 304,
+          "url": "https://github.com/fantasticit/ramiko",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "coding",
+          "fullName": "fantasticit/coding",
+          "stars": 153,
+          "url": "https://github.com/fantasticit/coding",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

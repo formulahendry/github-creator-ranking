@@ -1,0 +1,34 @@
+{
+  "login": "jwl-7",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/37751085?v=4",
+  "htmlUrl": "https://github.com/jwl-7",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 122,
+      "repoCountPrimary": 1,
+      "starsContains": 122,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "leetcode-cheatsheet",
+          "fullName": "jwl-7/leetcode-cheatsheet",
+          "stars": 122,
+          "url": "https://github.com/jwl-7/leetcode-cheatsheet",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

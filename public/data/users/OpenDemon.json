@@ -1,0 +1,34 @@
+{
+  "login": "OpenDemon",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/259313837?v=4",
+  "htmlUrl": "https://github.com/OpenDemon",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 197,
+      "repoCountPrimary": 1,
+      "starsContains": 197,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ex-skills",
+          "fullName": "OpenDemon/ex-skills",
+          "stars": 197,
+          "url": "https://github.com/OpenDemon/ex-skills",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

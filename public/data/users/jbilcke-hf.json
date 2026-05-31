@@ -1,0 +1,41 @@
+{
+  "login": "jbilcke-hf",
+  "name": "(ARCHIVED ACCOUNT)",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/137051437?v=4",
+  "htmlUrl": "https://github.com/jbilcke-hf",
+  "location": "Paris, France",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3645,
+      "repoCountPrimary": 2,
+      "starsContains": 3645,
+      "repoCountContains": 2,
+      "globalRank": 729,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "clapper",
+          "fullName": "jbilcke-hf/clapper",
+          "stars": 2327,
+          "url": "https://github.com/jbilcke-hf/clapper",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ai-comic-factory",
+          "fullName": "jbilcke-hf/ai-comic-factory",
+          "stars": 1318,
+          "url": "https://github.com/jbilcke-hf/ai-comic-factory",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

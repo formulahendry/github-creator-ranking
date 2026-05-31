@@ -1,0 +1,34 @@
+{
+  "login": "pararell",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/12561767?v=4",
+  "htmlUrl": "https://github.com/pararell",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 116,
+      "repoCountPrimary": 1,
+      "starsContains": 116,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "eshop_mean",
+          "fullName": "pararell/eshop_mean",
+          "stars": 116,
+          "url": "https://github.com/pararell/eshop_mean",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

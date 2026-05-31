@@ -1,0 +1,34 @@
+{
+  "login": "Foveluy",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/16814336?v=4",
+  "htmlUrl": "https://github.com/Foveluy",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 760,
+      "repoCountPrimary": 1,
+      "starsContains": 760,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Dragact",
+          "fullName": "Foveluy/Dragact",
+          "stars": 760,
+          "url": "https://github.com/Foveluy/Dragact",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

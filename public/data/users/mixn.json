@@ -1,0 +1,34 @@
+{
+  "login": "mixn",
+  "name": "Miloš Sutanovac",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/672237?v=4",
+  "htmlUrl": "https://github.com/mixn",
+  "location": "Munich",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 6021,
+      "repoCountPrimary": 1,
+      "starsContains": 6021,
+      "repoCountContains": 1,
+      "globalRank": 394,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "carbon-now-cli",
+          "fullName": "mixn/carbon-now-cli",
+          "stars": 6021,
+          "url": "https://github.com/mixn/carbon-now-cli",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

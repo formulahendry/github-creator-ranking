@@ -1,0 +1,41 @@
+{
+  "login": "donatj",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/133747?v=4",
+  "htmlUrl": "https://github.com/donatj",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 427,
+      "repoCountPrimary": 2,
+      "starsContains": 427,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "CsvToMarkdownTable",
+          "fullName": "donatj/CsvToMarkdownTable",
+          "stars": 300,
+          "url": "https://github.com/donatj/CsvToMarkdownTable",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Circle-Generator",
+          "fullName": "donatj/Circle-Generator",
+          "stars": 127,
+          "url": "https://github.com/donatj/Circle-Generator",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

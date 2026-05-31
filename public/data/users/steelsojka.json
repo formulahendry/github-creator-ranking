@@ -1,0 +1,34 @@
+{
+  "login": "steelsojka",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2062154?v=4",
+  "htmlUrl": "https://github.com/steelsojka",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 728,
+      "repoCountPrimary": 1,
+      "starsContains": 728,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "lodash-decorators",
+          "fullName": "steelsojka/lodash-decorators",
+          "stars": 728,
+          "url": "https://github.com/steelsojka/lodash-decorators",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

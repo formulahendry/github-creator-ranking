@@ -1,0 +1,41 @@
+{
+  "login": "JoseRFelix",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/21092519?v=4",
+  "htmlUrl": "https://github.com/JoseRFelix",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 293,
+      "repoCountPrimary": 2,
+      "starsContains": 293,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-toggle-dark-mode",
+          "fullName": "JoseRFelix/react-toggle-dark-mode",
+          "stars": 189,
+          "url": "https://github.com/JoseRFelix/react-toggle-dark-mode",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-css-theme-switcher",
+          "fullName": "JoseRFelix/react-css-theme-switcher",
+          "stars": 104,
+          "url": "https://github.com/JoseRFelix/react-css-theme-switcher",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

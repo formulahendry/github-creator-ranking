@@ -1,0 +1,34 @@
+{
+  "login": "knight-L",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/32477319?v=4",
+  "htmlUrl": "https://github.com/knight-L",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 665,
+      "repoCountPrimary": 1,
+      "starsContains": 665,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "sc-datav",
+          "fullName": "knight-L/sc-datav",
+          "stars": 665,
+          "url": "https://github.com/knight-L/sc-datav",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

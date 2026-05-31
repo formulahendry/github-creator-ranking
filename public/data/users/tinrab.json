@@ -1,0 +1,34 @@
+{
+  "login": "tinrab",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6238910?v=4",
+  "htmlUrl": "https://github.com/tinrab",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 180,
+      "repoCountPrimary": 1,
+      "starsContains": 180,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "rusty-chat",
+          "fullName": "tinrab/rusty-chat",
+          "stars": 180,
+          "url": "https://github.com/tinrab/rusty-chat",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

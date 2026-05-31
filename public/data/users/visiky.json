@@ -1,0 +1,34 @@
+{
+  "login": "visiky",
+  "name": "visiky",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/15646325?v=4",
+  "htmlUrl": "https://github.com/visiky",
+  "location": "Hangzhou(杭州) -> Shenzhen (深圳)",
+  "countryCode": "CN",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3104,
+      "repoCountPrimary": 1,
+      "starsContains": 3104,
+      "repoCountContains": 1,
+      "globalRank": 868,
+      "countryRank": 103,
+      "topRepos": [
+        {
+          "name": "resume",
+          "fullName": "visiky/resume",
+          "stars": 3104,
+          "url": "https://github.com/visiky/resume",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

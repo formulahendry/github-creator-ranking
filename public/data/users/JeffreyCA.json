@@ -1,0 +1,41 @@
+{
+  "login": "JeffreyCA",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/9157833?v=4",
+  "htmlUrl": "https://github.com/JeffreyCA",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 626,
+      "repoCountPrimary": 2,
+      "starsContains": 626,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "spotify-recently-played-readme",
+          "fullName": "JeffreyCA/spotify-recently-played-readme",
+          "stars": 451,
+          "url": "https://github.com/JeffreyCA/spotify-recently-played-readme",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "lastfm-recently-played-readme",
+          "fullName": "JeffreyCA/lastfm-recently-played-readme",
+          "stars": 175,
+          "url": "https://github.com/JeffreyCA/lastfm-recently-played-readme",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

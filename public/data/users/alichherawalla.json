@@ -1,0 +1,34 @@
+{
+  "login": "alichherawalla",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/4958010?v=4",
+  "htmlUrl": "https://github.com/alichherawalla",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2323,
+      "repoCountPrimary": 1,
+      "starsContains": 2323,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "off-grid-mobile-ai",
+          "fullName": "alichherawalla/off-grid-mobile-ai",
+          "stars": 2323,
+          "url": "https://github.com/alichherawalla/off-grid-mobile-ai",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

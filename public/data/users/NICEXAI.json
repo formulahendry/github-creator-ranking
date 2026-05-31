@@ -1,0 +1,34 @@
+{
+  "login": "NICEXAI",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/19580983?v=4",
+  "htmlUrl": "https://github.com/NICEXAI",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 138,
+      "repoCountPrimary": 1,
+      "starsContains": 138,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "figma-i18n",
+          "fullName": "NICEXAI/figma-i18n",
+          "stars": 138,
+          "url": "https://github.com/NICEXAI/figma-i18n",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

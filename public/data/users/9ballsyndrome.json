@@ -1,0 +1,34 @@
+{
+  "login": "9ballsyndrome",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/984912?v=4",
+  "htmlUrl": "https://github.com/9ballsyndrome",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 326,
+      "repoCountPrimary": 1,
+      "starsContains": 326,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "WebGL_Compute_shader",
+          "fullName": "9ballsyndrome/WebGL_Compute_shader",
+          "stars": 326,
+          "url": "https://github.com/9ballsyndrome/WebGL_Compute_shader",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "xyxc0673",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3444584?v=4",
+  "htmlUrl": "https://github.com/xyxc0673",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 598,
+      "repoCountPrimary": 2,
+      "starsContains": 598,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "calendar-remark",
+          "fullName": "xyxc0673/calendar-remark",
+          "stars": 457,
+          "url": "https://github.com/xyxc0673/calendar-remark",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "v2ex-plus",
+          "fullName": "xyxc0673/v2ex-plus",
+          "stars": 141,
+          "url": "https://github.com/xyxc0673/v2ex-plus",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

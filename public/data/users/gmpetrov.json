@@ -1,0 +1,41 @@
+{
+  "login": "gmpetrov",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/4693180?v=4",
+  "htmlUrl": "https://github.com/gmpetrov",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1408,
+      "repoCountPrimary": 2,
+      "starsContains": 1408,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ultimate-saas-ts",
+          "fullName": "gmpetrov/ultimate-saas-ts",
+          "stars": 1281,
+          "url": "https://github.com/gmpetrov/ultimate-saas-ts",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "openai-chatgpt",
+          "fullName": "gmpetrov/openai-chatgpt",
+          "stars": 127,
+          "url": "https://github.com/gmpetrov/openai-chatgpt",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

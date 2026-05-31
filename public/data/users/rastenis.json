@@ -1,0 +1,34 @@
+{
+  "login": "rastenis",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/20760114?v=4",
+  "htmlUrl": "https://github.com/rastenis",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 108,
+      "repoCountPrimary": 1,
+      "starsContains": 108,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-hooks-uikit-express-oauth-boiler-v2",
+          "fullName": "rastenis/react-hooks-uikit-express-oauth-boiler-v2",
+          "stars": 108,
+          "url": "https://github.com/rastenis/react-hooks-uikit-express-oauth-boiler-v2",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

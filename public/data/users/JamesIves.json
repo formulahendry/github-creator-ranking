@@ -1,0 +1,41 @@
+{
+  "login": "JamesIves",
+  "name": "Jives",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/10888441?v=4",
+  "htmlUrl": "https://github.com/JamesIves",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 4712,
+      "repoCountPrimary": 2,
+      "starsContains": 4712,
+      "repoCountContains": 2,
+      "globalRank": 543,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "github-pages-deploy-action",
+          "fullName": "JamesIves/github-pages-deploy-action",
+          "stars": 4580,
+          "url": "https://github.com/JamesIves/github-pages-deploy-action",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "fetch-api-data-action",
+          "fullName": "JamesIves/fetch-api-data-action",
+          "stars": 132,
+          "url": "https://github.com/JamesIves/fetch-api-data-action",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

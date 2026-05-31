@@ -1,0 +1,34 @@
+{
+  "login": "youmengde",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/52769649?v=4",
+  "htmlUrl": "https://github.com/youmengde",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 203,
+      "repoCountPrimary": 1,
+      "starsContains": 203,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "claude-code-snapshot-backup",
+          "fullName": "youmengde/claude-code-snapshot-backup",
+          "stars": 203,
+          "url": "https://github.com/youmengde/claude-code-snapshot-backup",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

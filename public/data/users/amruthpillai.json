@@ -1,11 +1,11 @@
 {
   "login": "amruthpillai",
-  "name": null,
+  "name": "Amruth Pillai",
   "avatarUrl": "https://avatars.githubusercontent.com/u/1134738?v=4",
   "htmlUrl": "https://github.com/amruthpillai",
-  "location": null,
+  "location": "Berlin, Germany",
   "countryCode": null,
-  "generatedAt": "2026-05-31T13:50:40.799Z",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
   "isPartial": true,
   "languages": [
     {
@@ -14,17 +14,17 @@
         "name": "TypeScript",
         "githubQuery": "TypeScript"
       },
-      "starsPrimary": 38097,
+      "starsPrimary": 38104,
       "repoCountPrimary": 1,
-      "starsContains": 38097,
+      "starsContains": 38104,
       "repoCountContains": 1,
-      "globalRank": 22,
+      "globalRank": 30,
       "countryRank": null,
       "topRepos": [
         {
           "name": "reactive-resume",
           "fullName": "amruthpillai/reactive-resume",
-          "stars": 38097,
+          "stars": 38104,
           "url": "https://github.com/amruthpillai/reactive-resume",
           "primaryLanguage": "TypeScript"
         }

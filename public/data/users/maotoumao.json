@@ -1,11 +1,11 @@
 {
   "login": "maotoumao",
-  "name": null,
+  "name": "猫头猫",
   "avatarUrl": "https://avatars.githubusercontent.com/u/31655147?v=4",
   "htmlUrl": "https://github.com/maotoumao",
-  "location": null,
-  "countryCode": null,
-  "generatedAt": "2026-05-31T13:50:40.799Z",
+  "location": "Beijing, China",
+  "countryCode": "CN",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
   "isPartial": true,
   "languages": [
     {
@@ -14,18 +14,32 @@
         "name": "TypeScript",
         "githubQuery": "TypeScript"
       },
-      "starsPrimary": 25043,
-      "repoCountPrimary": 1,
-      "starsContains": 25043,
-      "repoCountContains": 1,
-      "globalRank": null,
-      "countryRank": null,
+      "starsPrimary": 35194,
+      "repoCountPrimary": 3,
+      "starsContains": 35194,
+      "repoCountContains": 3,
+      "globalRank": 36,
+      "countryRank": 1,
       "topRepos": [
         {
           "name": "MusicFree",
           "fullName": "maotoumao/MusicFree",
-          "stars": 25043,
+          "stars": 25048,
           "url": "https://github.com/maotoumao/MusicFree",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "MusicFreeDesktop",
+          "fullName": "maotoumao/MusicFreeDesktop",
+          "stars": 8428,
+          "url": "https://github.com/maotoumao/MusicFreeDesktop",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "MusicFreePlugins",
+          "fullName": "maotoumao/MusicFreePlugins",
+          "stars": 1718,
+          "url": "https://github.com/maotoumao/MusicFreePlugins",
           "primaryLanguage": "TypeScript"
         }
       ]

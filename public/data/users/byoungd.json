@@ -1,0 +1,34 @@
+{
+  "login": "byoungd",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/16145783?v=4",
+  "htmlUrl": "https://github.com/byoungd",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 285,
+      "repoCountPrimary": 1,
+      "starsContains": 285,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "modern-vue-template",
+          "fullName": "byoungd/modern-vue-template",
+          "stars": 285,
+          "url": "https://github.com/byoungd/modern-vue-template",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

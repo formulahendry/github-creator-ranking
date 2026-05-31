@@ -1,0 +1,34 @@
+{
+  "login": "jakiestfu",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1041792?v=4",
+  "htmlUrl": "https://github.com/jakiestfu",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 159,
+      "repoCountPrimary": 1,
+      "starsContains": 159,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "stability-ts",
+          "fullName": "jakiestfu/stability-ts",
+          "stars": 159,
+          "url": "https://github.com/jakiestfu/stability-ts",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

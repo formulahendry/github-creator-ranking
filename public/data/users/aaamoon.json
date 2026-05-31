@@ -1,0 +1,34 @@
+{
+  "login": "aaamoon",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/25700476?v=4",
+  "htmlUrl": "https://github.com/aaamoon",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 223,
+      "repoCountPrimary": 1,
+      "starsContains": 223,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react1s",
+          "fullName": "aaamoon/react1s",
+          "stars": 223,
+          "url": "https://github.com/aaamoon/react1s",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

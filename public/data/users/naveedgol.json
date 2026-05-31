@@ -1,0 +1,34 @@
+{
+  "login": "naveedgol",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/22432640?v=4",
+  "htmlUrl": "https://github.com/naveedgol",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 926,
+      "repoCountPrimary": 1,
+      "starsContains": 926,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "music-web-player",
+          "fullName": "naveedgol/music-web-player",
+          "stars": 926,
+          "url": "https://github.com/naveedgol/music-web-player",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

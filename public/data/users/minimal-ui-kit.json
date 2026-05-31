@@ -1,0 +1,34 @@
+{
+  "login": "minimal-ui-kit",
+  "name": "Minimal UI",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/77919068?v=4",
+  "htmlUrl": "https://github.com/minimal-ui-kit",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2773,
+      "repoCountPrimary": 1,
+      "starsContains": 2773,
+      "repoCountContains": 1,
+      "globalRank": 965,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "material-kit-react",
+          "fullName": "minimal-ui-kit/material-kit-react",
+          "stars": 2773,
+          "url": "https://github.com/minimal-ui-kit/material-kit-react",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "Lorenzo-Coslado",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/93212434?v=4",
+  "htmlUrl": "https://github.com/Lorenzo-Coslado",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 101,
+      "repoCountPrimary": 1,
+      "starsContains": 101,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "fingerprinter-js",
+          "fullName": "Lorenzo-Coslado/fingerprinter-js",
+          "stars": 101,
+          "url": "https://github.com/Lorenzo-Coslado/fingerprinter-js",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

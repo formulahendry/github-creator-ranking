@@ -1,0 +1,34 @@
+{
+  "login": "ColeMurray",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2492022?v=4",
+  "htmlUrl": "https://github.com/ColeMurray",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1819,
+      "repoCountPrimary": 1,
+      "starsContains": 1819,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "background-agents",
+          "fullName": "ColeMurray/background-agents",
+          "stars": 1819,
+          "url": "https://github.com/ColeMurray/background-agents",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "rauschma",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/526114?v=4",
+  "htmlUrl": "https://github.com/rauschma",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 670,
+      "repoCountPrimary": 1,
+      "starsContains": 670,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "enumify",
+          "fullName": "rauschma/enumify",
+          "stars": 670,
+          "url": "https://github.com/rauschma/enumify",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

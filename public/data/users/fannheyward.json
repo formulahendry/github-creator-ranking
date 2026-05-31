@@ -1,0 +1,62 @@
+{
+  "login": "fannheyward",
+  "name": "Heyward Fann",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/345274?v=4",
+  "htmlUrl": "https://github.com/fannheyward",
+  "location": "Beijing, China",
+  "countryCode": "CN",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3784,
+      "repoCountPrimary": 9,
+      "starsContains": 3784,
+      "repoCountContains": 9,
+      "globalRank": 704,
+      "countryRank": 84,
+      "topRepos": [
+        {
+          "name": "coc-pyright",
+          "fullName": "fannheyward/coc-pyright",
+          "stars": 1360,
+          "url": "https://github.com/fannheyward/coc-pyright",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "coc-rust-analyzer",
+          "fullName": "fannheyward/coc-rust-analyzer",
+          "stars": 1153,
+          "url": "https://github.com/fannheyward/coc-rust-analyzer",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "coc-marketplace",
+          "fullName": "fannheyward/coc-marketplace",
+          "stars": 351,
+          "url": "https://github.com/fannheyward/coc-marketplace",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "create-coc-extension",
+          "fullName": "fannheyward/create-coc-extension",
+          "stars": 216,
+          "url": "https://github.com/fannheyward/create-coc-extension",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "coc-markdownlint",
+          "fullName": "fannheyward/coc-markdownlint",
+          "stars": 174,
+          "url": "https://github.com/fannheyward/coc-markdownlint",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

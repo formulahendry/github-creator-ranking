@@ -1,0 +1,41 @@
+{
+  "login": "nikolovlazar",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5396211?v=4",
+  "htmlUrl": "https://github.com/nikolovlazar",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 996,
+      "repoCountPrimary": 2,
+      "starsContains": 996,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "nextjs-clean-architecture",
+          "fullName": "nikolovlazar/nextjs-clean-architecture",
+          "stars": 851,
+          "url": "https://github.com/nikolovlazar/nextjs-clean-architecture",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "v1.nikolovlazar.com",
+          "fullName": "nikolovlazar/v1.nikolovlazar.com",
+          "stars": 145,
+          "url": "https://github.com/nikolovlazar/v1.nikolovlazar.com",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

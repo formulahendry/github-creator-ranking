@@ -1,0 +1,62 @@
+{
+  "login": "kdcokenny",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/99611484?v=4",
+  "htmlUrl": "https://github.com/kdcokenny",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2275,
+      "repoCountPrimary": 5,
+      "starsContains": 2275,
+      "repoCountContains": 5,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ocx",
+          "fullName": "kdcokenny/ocx",
+          "stars": 759,
+          "url": "https://github.com/kdcokenny/ocx",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "opencode-worktree",
+          "fullName": "kdcokenny/opencode-worktree",
+          "stars": 571,
+          "url": "https://github.com/kdcokenny/opencode-worktree",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "opencode-workspace",
+          "fullName": "kdcokenny/opencode-workspace",
+          "stars": 466,
+          "url": "https://github.com/kdcokenny/opencode-workspace",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "opencode-background-agents",
+          "fullName": "kdcokenny/opencode-background-agents",
+          "stars": 269,
+          "url": "https://github.com/kdcokenny/opencode-background-agents",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "opencode-notify",
+          "fullName": "kdcokenny/opencode-notify",
+          "stars": 210,
+          "url": "https://github.com/kdcokenny/opencode-notify",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

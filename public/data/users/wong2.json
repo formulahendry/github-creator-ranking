@@ -1,0 +1,55 @@
+{
+  "login": "wong2",
+  "name": "wong2",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/321947?v=4",
+  "htmlUrl": "https://github.com/wong2",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 14602,
+      "repoCountPrimary": 4,
+      "starsContains": 14602,
+      "repoCountContains": 4,
+      "globalRank": 133,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "chatgpt-google-extension",
+          "fullName": "wong2/chatgpt-google-extension",
+          "stars": 13090,
+          "url": "https://github.com/wong2/chatgpt-google-extension",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "weixin-agent-sdk",
+          "fullName": "wong2/weixin-agent-sdk",
+          "stars": 1177,
+          "url": "https://github.com/wong2/weixin-agent-sdk",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "litemcp",
+          "fullName": "wong2/litemcp",
+          "stars": 185,
+          "url": "https://github.com/wong2/litemcp",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "diffx",
+          "fullName": "wong2/diffx",
+          "stars": 150,
+          "url": "https://github.com/wong2/diffx",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

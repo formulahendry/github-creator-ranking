@@ -1,0 +1,41 @@
+{
+  "login": "FrogTheFrog",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/22381748?v=4",
+  "htmlUrl": "https://github.com/FrogTheFrog",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 446,
+      "repoCountPrimary": 2,
+      "starsContains": 446,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "moondeck",
+          "fullName": "FrogTheFrog/moondeck",
+          "stars": 278,
+          "url": "https://github.com/FrogTheFrog/moondeck",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "steam-gyro-for-cemuhook",
+          "fullName": "FrogTheFrog/steam-gyro-for-cemuhook",
+          "stars": 168,
+          "url": "https://github.com/FrogTheFrog/steam-gyro-for-cemuhook",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

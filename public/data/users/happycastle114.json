@@ -1,0 +1,34 @@
+{
+  "login": "happycastle114",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/41810556?v=4",
+  "htmlUrl": "https://github.com/happycastle114",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 180,
+      "repoCountPrimary": 1,
+      "starsContains": 180,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "oh-my-openclaw",
+          "fullName": "happycastle114/oh-my-openclaw",
+          "stars": 180,
+          "url": "https://github.com/happycastle114/oh-my-openclaw",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

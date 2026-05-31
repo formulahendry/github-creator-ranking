@@ -1,0 +1,62 @@
+{
+  "login": "ascorbic",
+  "name": "Matt Kane",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/213306?v=4",
+  "htmlUrl": "https://github.com/ascorbic",
+  "location": "UK",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 4375,
+      "repoCountPrimary": 13,
+      "starsContains": 4375,
+      "repoCountContains": 13,
+      "globalRank": 591,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "unpic-img",
+          "fullName": "ascorbic/unpic-img",
+          "stars": 2048,
+          "url": "https://github.com/ascorbic/unpic-img",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "unpic",
+          "fullName": "ascorbic/unpic",
+          "stars": 418,
+          "url": "https://github.com/ascorbic/unpic",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "am-i-vibing",
+          "fullName": "ascorbic/am-i-vibing",
+          "stars": 338,
+          "url": "https://github.com/ascorbic/am-i-vibing",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "cirrus",
+          "fullName": "ascorbic/cirrus",
+          "stars": 276,
+          "url": "https://github.com/ascorbic/cirrus",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "use-php",
+          "fullName": "ascorbic/use-php",
+          "stars": 211,
+          "url": "https://github.com/ascorbic/use-php",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

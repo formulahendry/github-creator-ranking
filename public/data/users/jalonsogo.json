@@ -1,0 +1,34 @@
+{
+  "login": "jalonsogo",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/126575560?v=4",
+  "htmlUrl": "https://github.com/jalonsogo",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1394,
+      "repoCountPrimary": 1,
+      "starsContains": 1394,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "tui-studio",
+          "fullName": "jalonsogo/tui-studio",
+          "stars": 1394,
+          "url": "https://github.com/jalonsogo/tui-studio",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

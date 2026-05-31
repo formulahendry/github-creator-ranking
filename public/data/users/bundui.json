@@ -1,0 +1,41 @@
+{
+  "login": "bundui",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/141479011?v=4",
+  "htmlUrl": "https://github.com/bundui",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 755,
+      "repoCountPrimary": 2,
+      "starsContains": 755,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "components",
+          "fullName": "bundui/components",
+          "stars": 386,
+          "url": "https://github.com/bundui/components",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "shadcn-admin-dashboard-free",
+          "fullName": "bundui/shadcn-admin-dashboard-free",
+          "stars": 369,
+          "url": "https://github.com/bundui/shadcn-admin-dashboard-free",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

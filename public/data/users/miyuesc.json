@@ -1,0 +1,41 @@
+{
+  "login": "miyuesc",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/50617660?v=4",
+  "htmlUrl": "https://github.com/miyuesc",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2008,
+      "repoCountPrimary": 2,
+      "starsContains": 2008,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "bpmn-process-designer",
+          "fullName": "miyuesc/bpmn-process-designer",
+          "stars": 1787,
+          "url": "https://github.com/miyuesc/bpmn-process-designer",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vue-data-visualization",
+          "fullName": "miyuesc/vue-data-visualization",
+          "stars": 221,
+          "url": "https://github.com/miyuesc/vue-data-visualization",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

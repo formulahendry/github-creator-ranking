@@ -1,0 +1,34 @@
+{
+  "login": "diandian18",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/13234154?v=4",
+  "htmlUrl": "https://github.com/diandian18",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 199,
+      "repoCountPrimary": 1,
+      "starsContains": 199,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-antd-console",
+          "fullName": "diandian18/react-antd-console",
+          "stars": 199,
+          "url": "https://github.com/diandian18/react-antd-console",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

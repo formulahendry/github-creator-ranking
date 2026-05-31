@@ -1,0 +1,48 @@
+{
+  "login": "eamesh",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/99599010?v=4",
+  "htmlUrl": "https://github.com/eamesh",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 555,
+      "repoCountPrimary": 3,
+      "starsContains": 555,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "free-core",
+          "fullName": "eamesh/free-core",
+          "stars": 276,
+          "url": "https://github.com/eamesh/free-core",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "free-nutui",
+          "fullName": "eamesh/free-nutui",
+          "stars": 147,
+          "url": "https://github.com/eamesh/free-nutui",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "emesh",
+          "fullName": "eamesh/emesh",
+          "stars": 132,
+          "url": "https://github.com/eamesh/emesh",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

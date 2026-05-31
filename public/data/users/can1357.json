@@ -1,0 +1,34 @@
+{
+  "login": "can1357",
+  "name": "Can Bölük",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/11807264?v=4",
+  "htmlUrl": "https://github.com/can1357",
+  "location": "The Netherlands",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 9105,
+      "repoCountPrimary": 1,
+      "starsContains": 9105,
+      "repoCountContains": 1,
+      "globalRank": 253,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "oh-my-pi",
+          "fullName": "can1357/oh-my-pi",
+          "stars": 9105,
+          "url": "https://github.com/can1357/oh-my-pi",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

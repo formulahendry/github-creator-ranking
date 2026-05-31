@@ -1,0 +1,34 @@
+{
+  "login": "ferdikoomen",
+  "name": "Ferdi Koomen",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1791679?v=4",
+  "htmlUrl": "https://github.com/ferdikoomen",
+  "location": "Almere",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3371,
+      "repoCountPrimary": 1,
+      "starsContains": 3371,
+      "repoCountContains": 1,
+      "globalRank": 803,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "openapi-typescript-codegen",
+          "fullName": "ferdikoomen/openapi-typescript-codegen",
+          "stars": 3371,
+          "url": "https://github.com/ferdikoomen/openapi-typescript-codegen",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

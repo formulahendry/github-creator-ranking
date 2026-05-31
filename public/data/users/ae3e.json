@@ -1,0 +1,34 @@
+{
+  "login": "ae3e",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/12472719?v=4",
+  "htmlUrl": "https://github.com/ae3e",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 110,
+      "repoCountPrimary": 1,
+      "starsContains": 110,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ae3e-plotly-panel",
+          "fullName": "ae3e/ae3e-plotly-panel",
+          "stars": 110,
+          "url": "https://github.com/ae3e/ae3e-plotly-panel",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "seognil",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5526096?v=4",
+  "htmlUrl": "https://github.com/seognil",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 208,
+      "repoCountPrimary": 1,
+      "starsContains": 208,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "fe-foundation",
+          "fullName": "seognil/fe-foundation",
+          "stars": 208,
+          "url": "https://github.com/seognil/fe-foundation",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

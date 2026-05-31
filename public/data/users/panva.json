@@ -1,0 +1,48 @@
+{
+  "login": "panva",
+  "name": "Filip Skokan",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/241506?v=4",
+  "htmlUrl": "https://github.com/panva",
+  "location": "Czech Republic",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 10709,
+      "repoCountPrimary": 3,
+      "starsContains": 10709,
+      "repoCountContains": 3,
+      "globalRank": 202,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "jose",
+          "fullName": "panva/jose",
+          "stars": 7605,
+          "url": "https://github.com/panva/jose",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "openid-client",
+          "fullName": "panva/openid-client",
+          "stars": 2345,
+          "url": "https://github.com/panva/openid-client",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "oauth4webapi",
+          "fullName": "panva/oauth4webapi",
+          "stars": 759,
+          "url": "https://github.com/panva/oauth4webapi",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

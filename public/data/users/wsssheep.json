@@ -1,0 +1,34 @@
+{
+  "login": "wsssheep",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/26425242?v=4",
+  "htmlUrl": "https://github.com/wsssheep",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 546,
+      "repoCountPrimary": 1,
+      "starsContains": 546,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "cocos_creator_mvvm_tools",
+          "fullName": "wsssheep/cocos_creator_mvvm_tools",
+          "stars": 546,
+          "url": "https://github.com/wsssheep/cocos_creator_mvvm_tools",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

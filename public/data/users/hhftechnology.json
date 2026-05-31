@@ -1,0 +1,48 @@
+{
+  "login": "hhftechnology",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/171442910?v=4",
+  "htmlUrl": "https://github.com/hhftechnology",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1485,
+      "repoCountPrimary": 3,
+      "starsContains": 1485,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "traefik-log-dashboard",
+          "fullName": "hhftechnology/traefik-log-dashboard",
+          "stars": 773,
+          "url": "https://github.com/hhftechnology/traefik-log-dashboard",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "crowdsec_manager",
+          "fullName": "hhftechnology/crowdsec_manager",
+          "stars": 475,
+          "url": "https://github.com/hhftechnology/crowdsec_manager",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Dock-Dploy",
+          "fullName": "hhftechnology/Dock-Dploy",
+          "stars": 237,
+          "url": "https://github.com/hhftechnology/Dock-Dploy",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

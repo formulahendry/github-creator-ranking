@@ -1,0 +1,48 @@
+{
+  "login": "Sh4yy",
+  "name": "Shayan",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/23535123?v=4",
+  "htmlUrl": "https://github.com/Sh4yy",
+  "location": "Maryland",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2826,
+      "repoCountPrimary": 3,
+      "starsContains": 2826,
+      "repoCountContains": 3,
+      "globalRank": 948,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "cloudflare-email",
+          "fullName": "Sh4yy/cloudflare-email",
+          "stars": 1588,
+          "url": "https://github.com/Sh4yy/cloudflare-email",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "personal-ai",
+          "fullName": "Sh4yy/personal-ai",
+          "stars": 807,
+          "url": "https://github.com/Sh4yy/personal-ai",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vercel-email",
+          "fullName": "Sh4yy/vercel-email",
+          "stars": 431,
+          "url": "https://github.com/Sh4yy/vercel-email",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

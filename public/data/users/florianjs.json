@@ -1,0 +1,34 @@
+{
+  "login": "florianjs",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/52180080?v=4",
+  "htmlUrl": "https://github.com/florianjs",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 160,
+      "repoCountPrimary": 1,
+      "starsContains": 160,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "trackarr",
+          "fullName": "florianjs/trackarr",
+          "stars": 160,
+          "url": "https://github.com/florianjs/trackarr",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

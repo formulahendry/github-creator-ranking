@@ -1,0 +1,41 @@
+{
+  "login": "TooTallNate",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/71256?v=4",
+  "htmlUrl": "https://github.com/TooTallNate",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1745,
+      "repoCountPrimary": 2,
+      "starsContains": 1745,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "proxy-agents",
+          "fullName": "TooTallNate/proxy-agents",
+          "stars": 1145,
+          "url": "https://github.com/TooTallNate/proxy-agents",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "plist.js",
+          "fullName": "TooTallNate/plist.js",
+          "stars": 600,
+          "url": "https://github.com/TooTallNate/plist.js",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

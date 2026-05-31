@@ -1,0 +1,34 @@
+{
+  "login": "abielzulio",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7030944?v=4",
+  "htmlUrl": "https://github.com/abielzulio",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 615,
+      "repoCountPrimary": 1,
+      "starsContains": 615,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "chatgpt-raycast",
+          "fullName": "abielzulio/chatgpt-raycast",
+          "stars": 615,
+          "url": "https://github.com/abielzulio/chatgpt-raycast",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "openocta",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/264121059?v=4",
+  "htmlUrl": "https://github.com/openocta",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2726,
+      "repoCountPrimary": 1,
+      "starsContains": 2726,
+      "repoCountContains": 1,
+      "globalRank": 984,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "openocta",
+          "fullName": "openocta/openocta",
+          "stars": 2726,
+          "url": "https://github.com/openocta/openocta",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

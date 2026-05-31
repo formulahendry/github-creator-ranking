@@ -1,0 +1,34 @@
+{
+  "login": "Nagi-ovo",
+  "name": "Jesse Zhang",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/101612750?v=4",
+  "htmlUrl": "https://github.com/Nagi-ovo",
+  "location": "London",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 18464,
+      "repoCountPrimary": 1,
+      "starsContains": 18464,
+      "repoCountContains": 1,
+      "globalRank": 101,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "gemini-voyager",
+          "fullName": "Nagi-ovo/gemini-voyager",
+          "stars": 18464,
+          "url": "https://github.com/Nagi-ovo/gemini-voyager",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

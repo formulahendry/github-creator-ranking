@@ -1,0 +1,41 @@
+{
+  "login": "jjenzz",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/175330?v=4",
+  "htmlUrl": "https://github.com/jjenzz",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 371,
+      "repoCountPrimary": 2,
+      "starsContains": 371,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "pretty-cache-header",
+          "fullName": "jjenzz/pretty-cache-header",
+          "stars": 254,
+          "url": "https://github.com/jjenzz/pretty-cache-header",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "slot-jsx-pragma",
+          "fullName": "jjenzz/slot-jsx-pragma",
+          "stars": 117,
+          "url": "https://github.com/jjenzz/slot-jsx-pragma",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

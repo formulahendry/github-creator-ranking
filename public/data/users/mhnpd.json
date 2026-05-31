@@ -1,0 +1,34 @@
+{
+  "login": "mhnpd",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/33191954?v=4",
+  "htmlUrl": "https://github.com/mhnpd",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1036,
+      "repoCountPrimary": 1,
+      "starsContains": 1036,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-loader-spinner",
+          "fullName": "mhnpd/react-loader-spinner",
+          "stars": 1036,
+          "url": "https://github.com/mhnpd/react-loader-spinner",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

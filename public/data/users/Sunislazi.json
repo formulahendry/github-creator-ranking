@@ -1,0 +1,34 @@
+{
+  "login": "Sunislazi",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/95230486?v=4",
+  "htmlUrl": "https://github.com/Sunislazi",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 311,
+      "repoCountPrimary": 1,
+      "starsContains": 311,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "rbxfpsunlocker-boost-More-240FPS",
+          "fullName": "Sunislazi/rbxfpsunlocker-boost-More-240FPS",
+          "stars": 311,
+          "url": "https://github.com/Sunislazi/rbxfpsunlocker-boost-More-240FPS",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

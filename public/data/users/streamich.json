@@ -1,11 +1,11 @@
 {
   "login": "streamich",
-  "name": null,
+  "name": "Va Da",
   "avatarUrl": "https://avatars.githubusercontent.com/u/9773803?v=4",
   "htmlUrl": "https://github.com/streamich",
-  "location": null,
+  "location": "Metaverse",
   "countryCode": null,
-  "generatedAt": "2026-05-31T13:50:40.799Z",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
   "isPartial": true,
   "languages": [
     {
@@ -14,18 +14,46 @@
         "name": "TypeScript",
         "githubQuery": "TypeScript"
       },
-      "starsPrimary": 43987,
-      "repoCountPrimary": 1,
-      "starsContains": 43987,
-      "repoCountContains": 1,
-      "globalRank": 16,
+      "starsPrimary": 51157,
+      "repoCountPrimary": 9,
+      "starsContains": 51157,
+      "repoCountContains": 9,
+      "globalRank": 17,
       "countryRank": null,
       "topRepos": [
         {
           "name": "react-use",
           "fullName": "streamich/react-use",
-          "stars": 43987,
+          "stars": 43986,
           "url": "https://github.com/streamich/react-use",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "libreact",
+          "fullName": "streamich/libreact",
+          "stars": 2614,
+          "url": "https://github.com/streamich/libreact",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "memfs",
+          "fullName": "streamich/memfs",
+          "stars": 2061,
+          "url": "https://github.com/streamich/memfs",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "json-joy",
+          "fullName": "streamich/json-joy",
+          "stars": 1075,
+          "url": "https://github.com/streamich/json-joy",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "use-media",
+          "fullName": "streamich/use-media",
+          "stars": 522,
+          "url": "https://github.com/streamich/use-media",
           "primaryLanguage": "TypeScript"
         }
       ]

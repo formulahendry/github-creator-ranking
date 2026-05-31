@@ -1,0 +1,62 @@
+{
+  "login": "SashenJayathilaka",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/99184393?v=4",
+  "htmlUrl": "https://github.com/SashenJayathilaka",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1321,
+      "repoCountPrimary": 7,
+      "starsContains": 1321,
+      "repoCountContains": 7,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Airbnb-Build",
+          "fullName": "SashenJayathilaka/Airbnb-Build",
+          "stars": 372,
+          "url": "https://github.com/SashenJayathilaka/Airbnb-Build",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Project-Management-App",
+          "fullName": "SashenJayathilaka/Project-Management-App",
+          "stars": 226,
+          "url": "https://github.com/SashenJayathilaka/Project-Management-App",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Reddit-Clone",
+          "fullName": "SashenJayathilaka/Reddit-Clone",
+          "stars": 208,
+          "url": "https://github.com/SashenJayathilaka/Reddit-Clone",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Awesome-Github-Readme-Generator",
+          "fullName": "SashenJayathilaka/Awesome-Github-Readme-Generator",
+          "stars": 172,
+          "url": "https://github.com/SashenJayathilaka/Awesome-Github-Readme-Generator",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Instagram-Clone",
+          "fullName": "SashenJayathilaka/Instagram-Clone",
+          "stars": 119,
+          "url": "https://github.com/SashenJayathilaka/Instagram-Clone",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

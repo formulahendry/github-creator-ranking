@@ -1,0 +1,34 @@
+{
+  "login": "mientjan",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/641320?v=4",
+  "htmlUrl": "https://github.com/mientjan",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 482,
+      "repoCountPrimary": 1,
+      "starsContains": 482,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-native-markdown-renderer",
+          "fullName": "mientjan/react-native-markdown-renderer",
+          "stars": 482,
+          "url": "https://github.com/mientjan/react-native-markdown-renderer",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

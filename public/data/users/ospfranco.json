@@ -1,0 +1,34 @@
+{
+  "login": "ospfranco",
+  "name": "Oscar Franco",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1634213?v=4",
+  "htmlUrl": "https://github.com/ospfranco",
+  "location": "Barcelona, Spain",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2940,
+      "repoCountPrimary": 1,
+      "starsContains": 2940,
+      "repoCountContains": 1,
+      "globalRank": 919,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "sol",
+          "fullName": "ospfranco/sol",
+          "stars": 2940,
+          "url": "https://github.com/ospfranco/sol",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

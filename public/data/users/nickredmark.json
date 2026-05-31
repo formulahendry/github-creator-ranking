@@ -1,0 +1,41 @@
+{
+  "login": "nickredmark",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/574453?v=4",
+  "htmlUrl": "https://github.com/nickredmark",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 919,
+      "repoCountPrimary": 2,
+      "starsContains": 919,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ooth",
+          "fullName": "nickredmark/ooth",
+          "stars": 605,
+          "url": "https://github.com/nickredmark/ooth",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "staart",
+          "fullName": "nickredmark/staart",
+          "stars": 314,
+          "url": "https://github.com/nickredmark/staart",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "login": "daltonmenezes",
+  "name": "Dalton Menezes",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1149845?v=4",
+  "htmlUrl": "https://github.com/daltonmenezes",
+  "location": "Cansanção, Bahia, Brazil",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 5289,
+      "repoCountPrimary": 6,
+      "starsContains": 5289,
+      "repoCountContains": 6,
+      "globalRank": 470,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "aura-theme",
+          "fullName": "daltonmenezes/aura-theme",
+          "stars": 3792,
+          "url": "https://github.com/daltonmenezes/aura-theme",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "electron-app",
+          "fullName": "daltonmenezes/electron-app",
+          "stars": 805,
+          "url": "https://github.com/daltonmenezes/electron-app",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "opendocs",
+          "fullName": "daltonmenezes/opendocs",
+          "stars": 278,
+          "url": "https://github.com/daltonmenezes/opendocs",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "electron-router-dom",
+          "fullName": "daltonmenezes/electron-router-dom",
+          "stars": 200,
+          "url": "https://github.com/daltonmenezes/electron-router-dom",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "interprocess",
+          "fullName": "daltonmenezes/interprocess",
+          "stars": 114,
+          "url": "https://github.com/daltonmenezes/interprocess",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "codyogden",
+  "name": "Cody Ogden",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/11383626?v=4",
+  "htmlUrl": "https://github.com/codyogden",
+  "location": "San Francisco, CA",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2680,
+      "repoCountPrimary": 1,
+      "starsContains": 2680,
+      "repoCountContains": 1,
+      "globalRank": 1000,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "killedbygoogle",
+          "fullName": "codyogden/killedbygoogle",
+          "stars": 2680,
+          "url": "https://github.com/codyogden/killedbygoogle",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

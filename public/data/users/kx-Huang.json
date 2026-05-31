@@ -1,0 +1,34 @@
+{
+  "login": "kx-Huang",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/72541528?v=4",
+  "htmlUrl": "https://github.com/kx-Huang",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 913,
+      "repoCountPrimary": 1,
+      "starsContains": 913,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ChatGPT-on-WeChat",
+          "fullName": "kx-Huang/ChatGPT-on-WeChat",
+          "stars": 913,
+          "url": "https://github.com/kx-Huang/ChatGPT-on-WeChat",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

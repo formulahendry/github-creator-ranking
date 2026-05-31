@@ -1,0 +1,41 @@
+{
+  "login": "lukehorvat",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1034878?v=4",
+  "htmlUrl": "https://github.com/lukehorvat",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 299,
+      "repoCountPrimary": 2,
+      "starsContains": 299,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-osx-dock",
+          "fullName": "lukehorvat/react-osx-dock",
+          "stars": 187,
+          "url": "https://github.com/lukehorvat/react-osx-dock",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "computed-style-to-inline-style",
+          "fullName": "lukehorvat/computed-style-to-inline-style",
+          "stars": 112,
+          "url": "https://github.com/lukehorvat/computed-style-to-inline-style",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

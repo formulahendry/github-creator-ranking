@@ -1,0 +1,34 @@
+{
+  "login": "Majorfi",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/90963895?v=4",
+  "htmlUrl": "https://github.com/Majorfi",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 132,
+      "repoCountPrimary": 1,
+      "starsContains": 132,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "immich-places",
+          "fullName": "Majorfi/immich-places",
+          "stars": 132,
+          "url": "https://github.com/Majorfi/immich-places",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

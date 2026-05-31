@@ -1,11 +1,11 @@
 {
   "login": "colbymchenry",
-  "name": null,
+  "name": "Colby Mchenry",
   "avatarUrl": "https://avatars.githubusercontent.com/u/18431132?v=4",
   "htmlUrl": "https://github.com/colbymchenry",
   "location": null,
   "countryCode": null,
-  "generatedAt": "2026-05-31T13:50:40.799Z",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
   "isPartial": true,
   "languages": [
     {
@@ -14,17 +14,17 @@
         "name": "TypeScript",
         "githubQuery": "TypeScript"
       },
-      "starsPrimary": 34979,
+      "starsPrimary": 35273,
       "repoCountPrimary": 1,
-      "starsContains": 34979,
+      "starsContains": 35273,
       "repoCountContains": 1,
-      "globalRank": null,
+      "globalRank": 34,
       "countryRank": null,
       "topRepos": [
         {
           "name": "codegraph",
           "fullName": "colbymchenry/codegraph",
-          "stars": 34979,
+          "stars": 35273,
           "url": "https://github.com/colbymchenry/codegraph",
           "primaryLanguage": "TypeScript"
         }

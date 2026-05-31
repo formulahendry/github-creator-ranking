@@ -1,0 +1,48 @@
+{
+  "login": "janwilmake",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/97664551?v=4",
+  "htmlUrl": "https://github.com/janwilmake",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1162,
+      "repoCountPrimary": 3,
+      "starsContains": 1162,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "openapi-mcp-server",
+          "fullName": "janwilmake/openapi-mcp-server",
+          "stars": 894,
+          "url": "https://github.com/janwilmake/openapi-mcp-server",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "dorm",
+          "fullName": "janwilmake/dorm",
+          "stars": 137,
+          "url": "https://github.com/janwilmake/dorm",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "forgithub",
+          "fullName": "janwilmake/forgithub",
+          "stars": 131,
+          "url": "https://github.com/janwilmake/forgithub",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

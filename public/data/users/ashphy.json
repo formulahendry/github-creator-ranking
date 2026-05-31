@@ -1,0 +1,34 @@
+{
+  "login": "ashphy",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/413896?v=4",
+  "htmlUrl": "https://github.com/ashphy",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 697,
+      "repoCountPrimary": 1,
+      "starsContains": 697,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "jsonpath-online-evaluator",
+          "fullName": "ashphy/jsonpath-online-evaluator",
+          "stars": 697,
+          "url": "https://github.com/ashphy/jsonpath-online-evaluator",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "login": "Peiiii",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/42300463?v=4",
+  "htmlUrl": "https://github.com/Peiiii",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 628,
+      "repoCountPrimary": 3,
+      "starsContains": 628,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "AgentVerse",
+          "fullName": "Peiiii/AgentVerse",
+          "stars": 306,
+          "url": "https://github.com/Peiiii/AgentVerse",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "nextclaw",
+          "fullName": "Peiiii/nextclaw",
+          "stars": 214,
+          "url": "https://github.com/Peiiii/nextclaw",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "skild",
+          "fullName": "Peiiii/skild",
+          "stars": 108,
+          "url": "https://github.com/Peiiii/skild",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

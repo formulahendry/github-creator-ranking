@@ -1,0 +1,48 @@
+{
+  "login": "vortesnail",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/18679842?v=4",
+  "htmlUrl": "https://github.com/vortesnail",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1469,
+      "repoCountPrimary": 3,
+      "starsContains": 1469,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "blog",
+          "fullName": "vortesnail/blog",
+          "stars": 568,
+          "url": "https://github.com/vortesnail/blog",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "qier-player",
+          "fullName": "vortesnail/qier-player",
+          "stars": 494,
+          "url": "https://github.com/vortesnail/qier-player",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "qier-progress",
+          "fullName": "vortesnail/qier-progress",
+          "stars": 407,
+          "url": "https://github.com/vortesnail/qier-progress",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

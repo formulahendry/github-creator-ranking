@@ -1,0 +1,34 @@
+{
+  "login": "RAIT-09",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/51452399?v=4",
+  "htmlUrl": "https://github.com/RAIT-09",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2108,
+      "repoCountPrimary": 1,
+      "starsContains": 2108,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "obsidian-agent-client",
+          "fullName": "RAIT-09/obsidian-agent-client",
+          "stars": 2108,
+          "url": "https://github.com/RAIT-09/obsidian-agent-client",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

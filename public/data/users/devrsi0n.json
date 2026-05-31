@@ -1,0 +1,34 @@
+{
+  "login": "devrsi0n",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7880675?v=4",
+  "htmlUrl": "https://github.com/devrsi0n",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 604,
+      "repoCountPrimary": 1,
+      "starsContains": 604,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "chirpy",
+          "fullName": "devrsi0n/chirpy",
+          "stars": 604,
+          "url": "https://github.com/devrsi0n/chirpy",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

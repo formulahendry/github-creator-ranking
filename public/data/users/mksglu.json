@@ -1,0 +1,41 @@
+{
+  "login": "mksglu",
+  "name": "Mert Köseoğlu",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6067714?v=4",
+  "htmlUrl": "https://github.com/mksglu",
+  "location": "London",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 16227,
+      "repoCountPrimary": 2,
+      "starsContains": 16227,
+      "repoCountContains": 2,
+      "globalRank": 118,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "context-mode",
+          "fullName": "mksglu/context-mode",
+          "stars": 16093,
+          "url": "https://github.com/mksglu/context-mode",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "hatice",
+          "fullName": "mksglu/hatice",
+          "stars": 134,
+          "url": "https://github.com/mksglu/hatice",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

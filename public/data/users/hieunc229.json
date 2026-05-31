@@ -1,0 +1,41 @@
+{
+  "login": "hieunc229",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/8464869?v=4",
+  "htmlUrl": "https://github.com/hieunc229",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1996,
+      "repoCountPrimary": 2,
+      "starsContains": 1996,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "copilot-clone",
+          "fullName": "hieunc229/copilot-clone",
+          "stars": 1781,
+          "url": "https://github.com/hieunc229/copilot-clone",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "mailflare",
+          "fullName": "hieunc229/mailflare",
+          "stars": 215,
+          "url": "https://github.com/hieunc229/mailflare",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

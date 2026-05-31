@@ -1,0 +1,34 @@
+{
+  "login": "lcjqyml",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/20917563?v=4",
+  "htmlUrl": "https://github.com/lcjqyml",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 256,
+      "repoCountPrimary": 1,
+      "starsContains": 256,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "wechatbot",
+          "fullName": "lcjqyml/wechatbot",
+          "stars": 256,
+          "url": "https://github.com/lcjqyml/wechatbot",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

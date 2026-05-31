@@ -1,0 +1,34 @@
+{
+  "login": "FaridSafi",
+  "name": "Farid Safi",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/388375?v=4",
+  "htmlUrl": "https://github.com/FaridSafi",
+  "location": "Paris, France",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 14412,
+      "repoCountPrimary": 1,
+      "starsContains": 14412,
+      "repoCountContains": 1,
+      "globalRank": 136,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-native-gifted-chat",
+          "fullName": "FaridSafi/react-native-gifted-chat",
+          "stars": 14412,
+          "url": "https://github.com/FaridSafi/react-native-gifted-chat",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

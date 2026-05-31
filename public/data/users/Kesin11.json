@@ -1,0 +1,48 @@
+{
+  "login": "Kesin11",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1324862?v=4",
+  "htmlUrl": "https://github.com/Kesin11",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 598,
+      "repoCountPrimary": 3,
+      "starsContains": 598,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "actions-timeline",
+          "fullName": "Kesin11/actions-timeline",
+          "stars": 331,
+          "url": "https://github.com/Kesin11/actions-timeline",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Firestore-simple",
+          "fullName": "Kesin11/Firestore-simple",
+          "stars": 153,
+          "url": "https://github.com/Kesin11/Firestore-simple",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "CIAnalyzer",
+          "fullName": "Kesin11/CIAnalyzer",
+          "stars": 114,
+          "url": "https://github.com/Kesin11/CIAnalyzer",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "awehook",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/43373978?v=4",
+  "htmlUrl": "https://github.com/awehook",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1089,
+      "repoCountPrimary": 2,
+      "starsContains": 1089,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "blink-mind-desktop",
+          "fullName": "awehook/blink-mind-desktop",
+          "stars": 725,
+          "url": "https://github.com/awehook/blink-mind-desktop",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "blink-mind",
+          "fullName": "awehook/blink-mind",
+          "stars": 364,
+          "url": "https://github.com/awehook/blink-mind",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

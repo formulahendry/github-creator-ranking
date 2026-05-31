@@ -1,0 +1,34 @@
+{
+  "login": "MrTreasure",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/22043285?v=4",
+  "htmlUrl": "https://github.com/MrTreasure",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 183,
+      "repoCountPrimary": 1,
+      "starsContains": 183,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Algorithm",
+          "fullName": "MrTreasure/Algorithm",
+          "stars": 183,
+          "url": "https://github.com/MrTreasure/Algorithm",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "hamzasaleem2",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/133140745?v=4",
+  "htmlUrl": "https://github.com/hamzasaleem2",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 499,
+      "repoCountPrimary": 2,
+      "starsContains": 499,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "s3oosh",
+          "fullName": "hamzasaleem2/s3oosh",
+          "stars": 330,
+          "url": "https://github.com/hamzasaleem2/s3oosh",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "sticky",
+          "fullName": "hamzasaleem2/sticky",
+          "stars": 169,
+          "url": "https://github.com/hamzasaleem2/sticky",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

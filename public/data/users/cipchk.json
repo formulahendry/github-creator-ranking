@@ -1,0 +1,48 @@
+{
+  "login": "cipchk",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2987467?v=4",
+  "htmlUrl": "https://github.com/cipchk",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 773,
+      "repoCountPrimary": 3,
+      "starsContains": 773,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ngx-weui",
+          "fullName": "cipchk/ngx-weui",
+          "stars": 419,
+          "url": "https://github.com/cipchk/ngx-weui",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ngx-countdown",
+          "fullName": "cipchk/ngx-countdown",
+          "stars": 193,
+          "url": "https://github.com/cipchk/ngx-countdown",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vscode-cssrem",
+          "fullName": "cipchk/vscode-cssrem",
+          "stars": 161,
+          "url": "https://github.com/cipchk/vscode-cssrem",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "alexjoverm",
+  "name": "Alex Jover",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5701162?v=4",
+  "htmlUrl": "https://github.com/alexjoverm",
+  "location": "Alicante",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 4362,
+      "repoCountPrimary": 1,
+      "starsContains": 4362,
+      "repoCountContains": 1,
+      "globalRank": 593,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "typescript-library-starter",
+          "fullName": "alexjoverm/typescript-library-starter",
+          "stars": 4362,
+          "url": "https://github.com/alexjoverm/typescript-library-starter",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "kennethnnabuife",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/110793854?v=4",
+  "htmlUrl": "https://github.com/kennethnnabuife",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 255,
+      "repoCountPrimary": 1,
+      "starsContains": 255,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "auth-flow-kit",
+          "fullName": "kennethnnabuife/auth-flow-kit",
+          "stars": 255,
+          "url": "https://github.com/kennethnnabuife/auth-flow-kit",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "m5kr1pka",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/8706132?v=4",
+  "htmlUrl": "https://github.com/m5kr1pka",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 115,
+      "repoCountPrimary": 1,
+      "starsContains": 115,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "canvas-scroll-clip",
+          "fullName": "m5kr1pka/canvas-scroll-clip",
+          "stars": 115,
+          "url": "https://github.com/m5kr1pka/canvas-scroll-clip",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

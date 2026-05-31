@@ -1,0 +1,41 @@
+{
+  "login": "crocofied",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/132705454?v=4",
+  "htmlUrl": "https://github.com/crocofied",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2551,
+      "repoCountPrimary": 2,
+      "starsContains": 2551,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "CoreObs",
+          "fullName": "crocofied/CoreObs",
+          "stars": 1294,
+          "url": "https://github.com/crocofied/CoreObs",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "PortNote",
+          "fullName": "crocofied/PortNote",
+          "stars": 1257,
+          "url": "https://github.com/crocofied/PortNote",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "storycraft",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/11706717?v=4",
+  "htmlUrl": "https://github.com/storycraft",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 422,
+      "repoCountPrimary": 1,
+      "starsContains": 422,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "node-kakao",
+          "fullName": "storycraft/node-kakao",
+          "stars": 422,
+          "url": "https://github.com/storycraft/node-kakao",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "nikgraf",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/223045?v=4",
+  "htmlUrl": "https://github.com/nikgraf",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 339,
+      "repoCountPrimary": 2,
+      "starsContains": 339,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "secsync",
+          "fullName": "nikgraf/secsync",
+          "stars": 228,
+          "url": "https://github.com/nikgraf/secsync",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-yjs",
+          "fullName": "nikgraf/react-yjs",
+          "stars": 111,
+          "url": "https://github.com/nikgraf/react-yjs",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

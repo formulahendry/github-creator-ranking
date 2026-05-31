@@ -1,0 +1,48 @@
+{
+  "login": "justjake",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/296279?v=4",
+  "htmlUrl": "https://github.com/justjake",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2173,
+      "repoCountPrimary": 3,
+      "starsContains": 2173,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "quickjs-emscripten",
+          "fullName": "justjake/quickjs-emscripten",
+          "stars": 1656,
+          "url": "https://github.com/justjake/quickjs-emscripten",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "gmail-unsubscribe",
+          "fullName": "justjake/gmail-unsubscribe",
+          "stars": 301,
+          "url": "https://github.com/justjake/gmail-unsubscribe",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "eslint-seatbelt",
+          "fullName": "justjake/eslint-seatbelt",
+          "stars": 216,
+          "url": "https://github.com/justjake/eslint-seatbelt",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

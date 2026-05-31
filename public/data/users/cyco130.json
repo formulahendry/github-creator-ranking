@@ -1,0 +1,41 @@
+{
+  "login": "cyco130",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/10846005?v=4",
+  "htmlUrl": "https://github.com/cyco130",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 721,
+      "repoCountPrimary": 2,
+      "starsContains": 721,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vavite",
+          "fullName": "cyco130/vavite",
+          "stars": 558,
+          "url": "https://github.com/cyco130/vavite",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vite-rsc",
+          "fullName": "cyco130/vite-rsc",
+          "stars": 163,
+          "url": "https://github.com/cyco130/vite-rsc",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

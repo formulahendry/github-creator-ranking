@@ -1,0 +1,48 @@
+{
+  "login": "caronchen",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/150803?v=4",
+  "htmlUrl": "https://github.com/caronchen",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 612,
+      "repoCountPrimary": 3,
+      "starsContains": 612,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "obsidian-chartsview-plugin",
+          "fullName": "caronchen/obsidian-chartsview-plugin",
+          "stars": 291,
+          "url": "https://github.com/caronchen/obsidian-chartsview-plugin",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "obsidian-calibre-plugin",
+          "fullName": "caronchen/obsidian-calibre-plugin",
+          "stars": 191,
+          "url": "https://github.com/caronchen/obsidian-calibre-plugin",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "obsidian-epub-plugin",
+          "fullName": "caronchen/obsidian-epub-plugin",
+          "stars": 130,
+          "url": "https://github.com/caronchen/obsidian-epub-plugin",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

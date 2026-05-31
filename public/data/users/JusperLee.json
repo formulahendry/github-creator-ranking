@@ -1,0 +1,34 @@
+{
+  "login": "JusperLee",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/33806018?v=4",
+  "htmlUrl": "https://github.com/JusperLee",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 937,
+      "repoCountPrimary": 1,
+      "starsContains": 937,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Speech-Separation-Paper-Tutorial",
+          "fullName": "JusperLee/Speech-Separation-Paper-Tutorial",
+          "stars": 937,
+          "url": "https://github.com/JusperLee/Speech-Separation-Paper-Tutorial",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

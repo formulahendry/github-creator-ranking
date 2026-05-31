@@ -1,0 +1,41 @@
+{
+  "login": "wizardpisces",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3377557?v=4",
+  "htmlUrl": "https://github.com/wizardpisces",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 477,
+      "repoCountPrimary": 2,
+      "starsContains": 477,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "tiny-sass-compiler",
+          "fullName": "wizardpisces/tiny-sass-compiler",
+          "stars": 288,
+          "url": "https://github.com/wizardpisces/tiny-sass-compiler",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "js-ziju",
+          "fullName": "wizardpisces/js-ziju",
+          "stars": 189,
+          "url": "https://github.com/wizardpisces/js-ziju",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

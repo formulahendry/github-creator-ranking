@@ -1,0 +1,34 @@
+{
+  "login": "heyhuynhgiabuu",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/111694395?v=4",
+  "htmlUrl": "https://github.com/heyhuynhgiabuu",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1151,
+      "repoCountPrimary": 1,
+      "starsContains": 1151,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "proxypal",
+          "fullName": "heyhuynhgiabuu/proxypal",
+          "stars": 1151,
+          "url": "https://github.com/heyhuynhgiabuu/proxypal",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

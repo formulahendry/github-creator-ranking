@@ -1,0 +1,34 @@
+{
+  "login": "zuihou",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/8500410?v=4",
+  "htmlUrl": "https://github.com/zuihou",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 259,
+      "repoCountPrimary": 1,
+      "starsContains": 259,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "lamp-web",
+          "fullName": "zuihou/lamp-web",
+          "stars": 259,
+          "url": "https://github.com/zuihou/lamp-web",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

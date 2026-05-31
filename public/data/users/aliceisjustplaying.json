@@ -1,0 +1,34 @@
+{
+  "login": "aliceisjustplaying",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/81575558?v=4",
+  "htmlUrl": "https://github.com/aliceisjustplaying",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 202,
+      "repoCountPrimary": 1,
+      "starsContains": 202,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "labeler-starter-kit-bsky",
+          "fullName": "aliceisjustplaying/labeler-starter-kit-bsky",
+          "stars": 202,
+          "url": "https://github.com/aliceisjustplaying/labeler-starter-kit-bsky",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

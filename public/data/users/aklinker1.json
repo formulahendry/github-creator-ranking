@@ -1,0 +1,41 @@
+{
+  "login": "aklinker1",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/10101283?v=4",
+  "htmlUrl": "https://github.com/aklinker1",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1152,
+      "repoCountPrimary": 2,
+      "starsContains": 1152,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vite-plugin-web-extension",
+          "fullName": "aklinker1/vite-plugin-web-extension",
+          "stars": 841,
+          "url": "https://github.com/aklinker1/vite-plugin-web-extension",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "webext-core",
+          "fullName": "aklinker1/webext-core",
+          "stars": 311,
+          "url": "https://github.com/aklinker1/webext-core",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

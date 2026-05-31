@@ -1,0 +1,34 @@
+{
+  "login": "ayusshrathore",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/61450246?v=4",
+  "htmlUrl": "https://github.com/ayusshrathore",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 205,
+      "repoCountPrimary": 1,
+      "starsContains": 205,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ai-saas",
+          "fullName": "ayusshrathore/ai-saas",
+          "stars": 205,
+          "url": "https://github.com/ayusshrathore/ai-saas",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

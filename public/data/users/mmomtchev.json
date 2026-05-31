@@ -1,0 +1,41 @@
+{
+  "login": "mmomtchev",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/31410344?v=4",
+  "htmlUrl": "https://github.com/mmomtchev",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 349,
+      "repoCountPrimary": 2,
+      "starsContains": 349,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "rlayers",
+          "fullName": "mmomtchev/rlayers",
+          "stars": 196,
+          "url": "https://github.com/mmomtchev/rlayers",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "sqlite-wasm-http",
+          "fullName": "mmomtchev/sqlite-wasm-http",
+          "stars": 153,
+          "url": "https://github.com/mmomtchev/sqlite-wasm-http",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

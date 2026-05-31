@@ -1,0 +1,48 @@
+{
+  "login": "ammaarreshi",
+  "name": "ammaar",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/159876365?v=4",
+  "htmlUrl": "https://github.com/ammaarreshi",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3678,
+      "repoCountPrimary": 3,
+      "starsContains": 3678,
+      "repoCountContains": 3,
+      "globalRank": 720,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Gemini-Search",
+          "fullName": "ammaarreshi/Gemini-Search",
+          "stars": 2065,
+          "url": "https://github.com/ammaarreshi/Gemini-Search",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "gemma-chat",
+          "fullName": "ammaarreshi/gemma-chat",
+          "stars": 1365,
+          "url": "https://github.com/ammaarreshi/gemma-chat",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "openjourney",
+          "fullName": "ammaarreshi/openjourney",
+          "stars": 248,
+          "url": "https://github.com/ammaarreshi/openjourney",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

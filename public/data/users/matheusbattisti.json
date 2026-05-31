@@ -1,0 +1,41 @@
+{
+  "login": "matheusbattisti",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/11837941?v=4",
+  "htmlUrl": "https://github.com/matheusbattisti",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 689,
+      "repoCountPrimary": 2,
+      "starsContains": 689,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "curso_typescript",
+          "fullName": "matheusbattisti/curso_typescript",
+          "stars": 464,
+          "url": "https://github.com/matheusbattisti/curso_typescript",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "curso_angular_yt",
+          "fullName": "matheusbattisti/curso_angular_yt",
+          "stars": 225,
+          "url": "https://github.com/matheusbattisti/curso_angular_yt",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

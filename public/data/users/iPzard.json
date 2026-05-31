@@ -1,0 +1,34 @@
+{
+  "login": "iPzard",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/8584126?v=4",
+  "htmlUrl": "https://github.com/iPzard",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 204,
+      "repoCountPrimary": 1,
+      "starsContains": 204,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "electron-react-python-template",
+          "fullName": "iPzard/electron-react-python-template",
+          "stars": 204,
+          "url": "https://github.com/iPzard/electron-react-python-template",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "gzuidhof",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1039510?v=4",
+  "htmlUrl": "https://github.com/gzuidhof",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1504,
+      "repoCountPrimary": 2,
+      "starsContains": 1504,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "starboard-notebook",
+          "fullName": "gzuidhof/starboard-notebook",
+          "stars": 1349,
+          "url": "https://github.com/gzuidhof/starboard-notebook",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "zarr.js",
+          "fullName": "gzuidhof/zarr.js",
+          "stars": 155,
+          "url": "https://github.com/gzuidhof/zarr.js",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "rashagu",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/80970516?v=4",
+  "htmlUrl": "https://github.com/rashagu",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 195,
+      "repoCountPrimary": 1,
+      "starsContains": 195,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "semi-design-vue",
+          "fullName": "rashagu/semi-design-vue",
+          "stars": 195,
+          "url": "https://github.com/rashagu/semi-design-vue",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

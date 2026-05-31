@@ -1,0 +1,41 @@
+{
+  "login": "alimek",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/4248465?v=4",
+  "htmlUrl": "https://github.com/alimek",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 264,
+      "repoCountPrimary": 2,
+      "starsContains": 264,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-native-tooltip-menu",
+          "fullName": "alimek/react-native-tooltip-menu",
+          "stars": 158,
+          "url": "https://github.com/alimek/react-native-tooltip-menu",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-navigation-custom-bottom-tab-component",
+          "fullName": "alimek/react-navigation-custom-bottom-tab-component",
+          "stars": 106,
+          "url": "https://github.com/alimek/react-navigation-custom-bottom-tab-component",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

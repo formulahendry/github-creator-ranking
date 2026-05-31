@@ -1,0 +1,41 @@
+{
+  "login": "frankhale",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/190154?v=4",
+  "htmlUrl": "https://github.com/frankhale",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 822,
+      "repoCountPrimary": 2,
+      "starsContains": 822,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "electron-with-express",
+          "fullName": "frankhale/electron-with-express",
+          "stars": 683,
+          "url": "https://github.com/frankhale/electron-with-express",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "toby",
+          "fullName": "frankhale/toby",
+          "stars": 139,
+          "url": "https://github.com/frankhale/toby",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

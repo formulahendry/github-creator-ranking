@@ -1,0 +1,62 @@
+{
+  "login": "felixfbecker",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/10532611?v=4",
+  "htmlUrl": "https://github.com/felixfbecker",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2384,
+      "repoCountPrimary": 5,
+      "starsContains": 2384,
+      "repoCountContains": 5,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "svg-screenshots",
+          "fullName": "felixfbecker/svg-screenshots",
+          "stars": 911,
+          "url": "https://github.com/felixfbecker/svg-screenshots",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "dom-to-svg",
+          "fullName": "felixfbecker/dom-to-svg",
+          "stars": 432,
+          "url": "https://github.com/felixfbecker/dom-to-svg",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vscode-php-intellisense",
+          "fullName": "felixfbecker/vscode-php-intellisense",
+          "stars": 419,
+          "url": "https://github.com/felixfbecker/vscode-php-intellisense",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "cli-highlight",
+          "fullName": "felixfbecker/cli-highlight",
+          "stars": 332,
+          "url": "https://github.com/felixfbecker/cli-highlight",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "iterare",
+          "fullName": "felixfbecker/iterare",
+          "stars": 290,
+          "url": "https://github.com/felixfbecker/iterare",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

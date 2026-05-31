@@ -1,0 +1,48 @@
+{
+  "login": "xushengfeng",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/28475549?v=4",
+  "htmlUrl": "https://github.com/xushengfeng",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 7200,
+      "repoCountPrimary": 3,
+      "starsContains": 7200,
+      "repoCountContains": 3,
+      "globalRank": 319,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "eSearch",
+          "fullName": "xushengfeng/eSearch",
+          "stars": 6413,
+          "url": "https://github.com/xushengfeng/eSearch",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "lime",
+          "fullName": "xushengfeng/lime",
+          "stars": 662,
+          "url": "https://github.com/xushengfeng/lime",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "eSearch-OCR",
+          "fullName": "xushengfeng/eSearch-OCR",
+          "stars": 125,
+          "url": "https://github.com/xushengfeng/eSearch-OCR",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

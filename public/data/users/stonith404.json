@@ -1,0 +1,34 @@
+{
+  "login": "stonith404",
+  "name": "Elias Schneider",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/58886915?v=4",
+  "htmlUrl": "https://github.com/stonith404",
+  "location": "Switzerland",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 4689,
+      "repoCountPrimary": 1,
+      "starsContains": 4689,
+      "repoCountContains": 1,
+      "globalRank": 548,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "pingvin-share",
+          "fullName": "stonith404/pingvin-share",
+          "stars": 4689,
+          "url": "https://github.com/stonith404/pingvin-share",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

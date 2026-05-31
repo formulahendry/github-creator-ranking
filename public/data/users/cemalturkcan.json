@@ -1,0 +1,34 @@
+{
+  "login": "cemalturkcan",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/101227219?v=4",
+  "htmlUrl": "https://github.com/cemalturkcan",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 111,
+      "repoCountPrimary": 1,
+      "starsContains": 111,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "opencode-anthropic-login-via-cli",
+          "fullName": "cemalturkcan/opencode-anthropic-login-via-cli",
+          "stars": 111,
+          "url": "https://github.com/cemalturkcan/opencode-anthropic-login-via-cli",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

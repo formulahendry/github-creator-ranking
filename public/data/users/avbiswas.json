@@ -1,0 +1,34 @@
+{
+  "login": "avbiswas",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/13276786?v=4",
+  "htmlUrl": "https://github.com/avbiswas",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 374,
+      "repoCountPrimary": 1,
+      "starsContains": 374,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "fast-rlm",
+          "fullName": "avbiswas/fast-rlm",
+          "stars": 374,
+          "url": "https://github.com/avbiswas/fast-rlm",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "login": "lio-mengxiang",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/26076975?v=4",
+  "htmlUrl": "https://github.com/lio-mengxiang",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1239,
+      "repoCountPrimary": 3,
+      "starsContains": 1239,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "mx-design",
+          "fullName": "lio-mengxiang/mx-design",
+          "stars": 891,
+          "url": "https://github.com/lio-mengxiang/mx-design",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "t-ui",
+          "fullName": "lio-mengxiang/t-ui",
+          "stars": 248,
+          "url": "https://github.com/lio-mengxiang/t-ui",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "mx-design-cli",
+          "fullName": "lio-mengxiang/mx-design-cli",
+          "stars": 100,
+          "url": "https://github.com/lio-mengxiang/mx-design-cli",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

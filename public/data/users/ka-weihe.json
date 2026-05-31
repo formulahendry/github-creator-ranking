@@ -1,0 +1,34 @@
+{
+  "login": "ka-weihe",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/16865900?v=4",
+  "htmlUrl": "https://github.com/ka-weihe",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 768,
+      "repoCountPrimary": 1,
+      "starsContains": 768,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "fastest-levenshtein",
+          "fullName": "ka-weihe/fastest-levenshtein",
+          "stars": 768,
+          "url": "https://github.com/ka-weihe/fastest-levenshtein",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

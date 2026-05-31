@@ -1,0 +1,48 @@
+{
+  "login": "grantila",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5362579?v=4",
+  "htmlUrl": "https://github.com/grantila",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1289,
+      "repoCountPrimary": 3,
+      "starsContains": 1289,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "suretype",
+          "fullName": "grantila/suretype",
+          "stars": 505,
+          "url": "https://github.com/grantila/suretype",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "typeconv",
+          "fullName": "grantila/typeconv",
+          "stars": 448,
+          "url": "https://github.com/grantila/typeconv",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "fetch-h2",
+          "fullName": "grantila/fetch-h2",
+          "stars": 336,
+          "url": "https://github.com/grantila/fetch-h2",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

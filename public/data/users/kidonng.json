@@ -1,0 +1,34 @@
+{
+  "login": "kidonng",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/44045911?v=4",
+  "htmlUrl": "https://github.com/kidonng",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 237,
+      "repoCountPrimary": 1,
+      "starsContains": 237,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "unocss-preset-daisy",
+          "fullName": "kidonng/unocss-preset-daisy",
+          "stars": 237,
+          "url": "https://github.com/kidonng/unocss-preset-daisy",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

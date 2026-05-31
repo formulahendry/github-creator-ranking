@@ -1,0 +1,41 @@
+{
+  "login": "neurosnap",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1940365?v=4",
+  "htmlUrl": "https://github.com/neurosnap",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 468,
+      "repoCountPrimary": 2,
+      "starsContains": 468,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "neovimcraft",
+          "fullName": "neurosnap/neovimcraft",
+          "stars": 367,
+          "url": "https://github.com/neurosnap/neovimcraft",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "robodux",
+          "fullName": "neurosnap/robodux",
+          "stars": 101,
+          "url": "https://github.com/neurosnap/robodux",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

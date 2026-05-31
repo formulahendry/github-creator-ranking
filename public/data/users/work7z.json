@@ -1,0 +1,41 @@
+{
+  "login": "work7z",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/60811462?v=4",
+  "htmlUrl": "https://github.com/work7z",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1245,
+      "repoCountPrimary": 2,
+      "starsContains": 1245,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "MDGJX",
+          "fullName": "work7z/MDGJX",
+          "stars": 877,
+          "url": "https://github.com/work7z/MDGJX",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "LafTools",
+          "fullName": "work7z/LafTools",
+          "stars": 368,
+          "url": "https://github.com/work7z/LafTools",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

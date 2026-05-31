@@ -1,0 +1,34 @@
+{
+  "login": "josefjadrny",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/11270818?v=4",
+  "htmlUrl": "https://github.com/josefjadrny",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 162,
+      "repoCountPrimary": 1,
+      "starsContains": 162,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "js-chess-engine",
+          "fullName": "josefjadrny/js-chess-engine",
+          "stars": 162,
+          "url": "https://github.com/josefjadrny/js-chess-engine",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

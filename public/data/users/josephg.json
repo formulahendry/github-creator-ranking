@@ -1,0 +1,48 @@
+{
+  "login": "josephg",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/47413?v=4",
+  "htmlUrl": "https://github.com/josephg",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 506,
+      "repoCountPrimary": 3,
+      "starsContains": 506,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "statecraft",
+          "fullName": "josephg/statecraft",
+          "stars": 191,
+          "url": "https://github.com/josephg/statecraft",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "eg-walker-reference",
+          "fullName": "josephg/eg-walker-reference",
+          "stars": 174,
+          "url": "https://github.com/josephg/eg-walker-reference",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "reference-crdts",
+          "fullName": "josephg/reference-crdts",
+          "stars": 141,
+          "url": "https://github.com/josephg/reference-crdts",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

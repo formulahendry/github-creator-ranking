@@ -1,0 +1,41 @@
+{
+  "login": "Yukaii",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/4230968?v=4",
+  "htmlUrl": "https://github.com/Yukaii",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 245,
+      "repoCountPrimary": 2,
+      "starsContains": 245,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vscode-ptt",
+          "fullName": "Yukaii/vscode-ptt",
+          "stars": 136,
+          "url": "https://github.com/Yukaii/vscode-ptt",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "yet-another-opencode-cursor-auth",
+          "fullName": "Yukaii/yet-another-opencode-cursor-auth",
+          "stars": 109,
+          "url": "https://github.com/Yukaii/yet-another-opencode-cursor-auth",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

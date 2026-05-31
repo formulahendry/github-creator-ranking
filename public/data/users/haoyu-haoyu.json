@@ -1,0 +1,34 @@
+{
+  "login": "haoyu-haoyu",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/85037553?v=4",
+  "htmlUrl": "https://github.com/haoyu-haoyu",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 126,
+      "repoCountPrimary": 1,
+      "starsContains": 126,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Multi-AI-Workflow",
+          "fullName": "haoyu-haoyu/Multi-AI-Workflow",
+          "stars": 126,
+          "url": "https://github.com/haoyu-haoyu/Multi-AI-Workflow",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

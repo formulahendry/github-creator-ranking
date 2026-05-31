@@ -1,0 +1,41 @@
+{
+  "login": "Sairyss",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/42232541?v=4",
+  "htmlUrl": "https://github.com/Sairyss",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 15002,
+      "repoCountPrimary": 2,
+      "starsContains": 15002,
+      "repoCountContains": 2,
+      "globalRank": 127,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "domain-driven-hexagon",
+          "fullName": "Sairyss/domain-driven-hexagon",
+          "stars": 14672,
+          "url": "https://github.com/Sairyss/domain-driven-hexagon",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "fullstack-starter-template",
+          "fullName": "Sairyss/fullstack-starter-template",
+          "stars": 330,
+          "url": "https://github.com/Sairyss/fullstack-starter-template",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

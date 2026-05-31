@@ -1,0 +1,34 @@
+{
+  "login": "huodoushigemi",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/41646242?v=4",
+  "htmlUrl": "https://github.com/huodoushigemi",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 209,
+      "repoCountPrimary": 1,
+      "starsContains": 209,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "wc-flow-layout",
+          "fullName": "huodoushigemi/wc-flow-layout",
+          "stars": 209,
+          "url": "https://github.com/huodoushigemi/wc-flow-layout",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

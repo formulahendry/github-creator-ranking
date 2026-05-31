@@ -1,0 +1,34 @@
+{
+  "login": "foxdonut",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1706600?v=4",
+  "htmlUrl": "https://github.com/foxdonut",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 414,
+      "repoCountPrimary": 1,
+      "starsContains": 414,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "meiosis",
+          "fullName": "foxdonut/meiosis",
+          "stars": 414,
+          "url": "https://github.com/foxdonut/meiosis",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

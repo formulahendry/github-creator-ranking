@@ -1,0 +1,48 @@
+{
+  "login": "IndexXuan",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6322673?v=4",
+  "htmlUrl": "https://github.com/IndexXuan",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 756,
+      "repoCountPrimary": 3,
+      "starsContains": 756,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vue-cli-plugin-vite",
+          "fullName": "IndexXuan/vue-cli-plugin-vite",
+          "stars": 394,
+          "url": "https://github.com/IndexXuan/vue-cli-plugin-vite",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vite-plugin-mpa",
+          "fullName": "IndexXuan/vite-plugin-mpa",
+          "stars": 241,
+          "url": "https://github.com/IndexXuan/vite-plugin-mpa",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vite-plugin-html-template",
+          "fullName": "IndexXuan/vite-plugin-html-template",
+          "stars": 121,
+          "url": "https://github.com/IndexXuan/vite-plugin-html-template",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

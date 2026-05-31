@@ -1,0 +1,34 @@
+{
+  "login": "Deodat-Lawson",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/55767165?v=4",
+  "htmlUrl": "https://github.com/Deodat-Lawson",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 854,
+      "repoCountPrimary": 1,
+      "starsContains": 854,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "LaunchStack",
+          "fullName": "Deodat-Lawson/LaunchStack",
+          "stars": 854,
+          "url": "https://github.com/Deodat-Lawson/LaunchStack",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "xzdarcy",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/43289714?v=4",
+  "htmlUrl": "https://github.com/xzdarcy",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 744,
+      "repoCountPrimary": 1,
+      "starsContains": 744,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-timeline-editor",
+          "fullName": "xzdarcy/react-timeline-editor",
+          "stars": 744,
+          "url": "https://github.com/xzdarcy/react-timeline-editor",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

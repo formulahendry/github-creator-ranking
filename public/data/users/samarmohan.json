@@ -1,0 +1,34 @@
+{
+  "login": "samarmohan",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/71091489?v=4",
+  "htmlUrl": "https://github.com/samarmohan",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 156,
+      "repoCountPrimary": 1,
+      "starsContains": 156,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-text-loop-next",
+          "fullName": "samarmohan/react-text-loop-next",
+          "stars": 156,
+          "url": "https://github.com/samarmohan/react-text-loop-next",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

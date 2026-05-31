@@ -1,0 +1,48 @@
+{
+  "login": "xcarpentier",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/923036?v=4",
+  "htmlUrl": "https://github.com/xcarpentier",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2364,
+      "repoCountPrimary": 3,
+      "starsContains": 2364,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-native-country-picker-modal",
+          "fullName": "xcarpentier/react-native-country-picker-modal",
+          "stars": 1112,
+          "url": "https://github.com/xcarpentier/react-native-country-picker-modal",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "rn-tourguide",
+          "fullName": "xcarpentier/rn-tourguide",
+          "stars": 854,
+          "url": "https://github.com/xcarpentier/rn-tourguide",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "rn-pdf-reader-js",
+          "fullName": "xcarpentier/rn-pdf-reader-js",
+          "stars": 398,
+          "url": "https://github.com/xcarpentier/rn-pdf-reader-js",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

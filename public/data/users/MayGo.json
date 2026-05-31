@@ -1,0 +1,34 @@
+{
+  "login": "MayGo",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1929299?v=4",
+  "htmlUrl": "https://github.com/MayGo",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1063,
+      "repoCountPrimary": 1,
+      "starsContains": 1063,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "tockler",
+          "fullName": "MayGo/tockler",
+          "stars": 1063,
+          "url": "https://github.com/MayGo/tockler",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "zunnzunn",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/28678851?v=4",
+  "htmlUrl": "https://github.com/zunnzunn",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 711,
+      "repoCountPrimary": 1,
+      "starsContains": 711,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vue-ganttastic",
+          "fullName": "zunnzunn/vue-ganttastic",
+          "stars": 711,
+          "url": "https://github.com/zunnzunn/vue-ganttastic",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

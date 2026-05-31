@@ -1,0 +1,41 @@
+{
+  "login": "theaiautomators",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/215132130?v=4",
+  "htmlUrl": "https://github.com/theaiautomators",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 753,
+      "repoCountPrimary": 2,
+      "starsContains": 753,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "insights-lm-public",
+          "fullName": "theaiautomators/insights-lm-public",
+          "stars": 539,
+          "url": "https://github.com/theaiautomators/insights-lm-public",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "insights-lm-local-package",
+          "fullName": "theaiautomators/insights-lm-local-package",
+          "stars": 214,
+          "url": "https://github.com/theaiautomators/insights-lm-local-package",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

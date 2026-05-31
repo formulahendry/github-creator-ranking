@@ -1,0 +1,41 @@
+{
+  "login": "FabianGosebrink",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/11268349?v=4",
+  "htmlUrl": "https://github.com/FabianGosebrink",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 458,
+      "repoCountPrimary": 2,
+      "starsContains": 458,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ASPNETCore-Angular-SignalR-Typescript",
+          "fullName": "FabianGosebrink/ASPNETCore-Angular-SignalR-Typescript",
+          "stars": 303,
+          "url": "https://github.com/FabianGosebrink/ASPNETCore-Angular-SignalR-Typescript",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ASPNETCore-Angular-Ngrx",
+          "fullName": "FabianGosebrink/ASPNETCore-Angular-Ngrx",
+          "stars": 155,
+          "url": "https://github.com/FabianGosebrink/ASPNETCore-Angular-Ngrx",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "Trancever",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/18584155?v=4",
+  "htmlUrl": "https://github.com/Trancever",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 536,
+      "repoCountPrimary": 2,
+      "starsContains": 536,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "twitterClone",
+          "fullName": "Trancever/twitterClone",
+          "stars": 375,
+          "url": "https://github.com/Trancever/twitterClone",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "reanimated-collapsible-helpers",
+          "fullName": "Trancever/reanimated-collapsible-helpers",
+          "stars": 161,
+          "url": "https://github.com/Trancever/reanimated-collapsible-helpers",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

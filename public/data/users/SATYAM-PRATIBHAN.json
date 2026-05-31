@@ -1,0 +1,34 @@
+{
+  "login": "SATYAM-PRATIBHAN",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/142714564?v=4",
+  "htmlUrl": "https://github.com/SATYAM-PRATIBHAN",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 153,
+      "repoCountPrimary": 1,
+      "starsContains": 153,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "arcmindAI",
+          "fullName": "SATYAM-PRATIBHAN/arcmindAI",
+          "stars": 153,
+          "url": "https://github.com/SATYAM-PRATIBHAN/arcmindAI",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

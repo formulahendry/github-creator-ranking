@@ -1,0 +1,34 @@
+{
+  "login": "zainzafar90",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/9788221?v=4",
+  "htmlUrl": "https://github.com/zainzafar90",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 113,
+      "repoCountPrimary": 1,
+      "starsContains": 113,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "meelio",
+          "fullName": "zainzafar90/meelio",
+          "stars": 113,
+          "url": "https://github.com/zainzafar90/meelio",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

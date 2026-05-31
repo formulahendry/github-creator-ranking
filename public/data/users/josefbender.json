@@ -1,0 +1,34 @@
+{
+  "login": "josefbender",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/9917897?v=4",
+  "htmlUrl": "https://github.com/josefbender",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 459,
+      "repoCountPrimary": 1,
+      "starsContains": 459,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-patterns",
+          "fullName": "josefbender/react-patterns",
+          "stars": 459,
+          "url": "https://github.com/josefbender/react-patterns",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

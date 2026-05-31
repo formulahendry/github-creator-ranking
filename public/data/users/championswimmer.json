@@ -1,0 +1,48 @@
+{
+  "login": "championswimmer",
+  "name": "Arnav Gupta",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1327050?v=4",
+  "htmlUrl": "https://github.com/championswimmer",
+  "location": "London, UK",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3602,
+      "repoCountPrimary": 3,
+      "starsContains": 3602,
+      "repoCountContains": 3,
+      "globalRank": 740,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vuex-module-decorators",
+          "fullName": "championswimmer/vuex-module-decorators",
+          "stars": 1778,
+          "url": "https://github.com/championswimmer/vuex-module-decorators",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vuex-persist",
+          "fullName": "championswimmer/vuex-persist",
+          "stars": 1649,
+          "url": "https://github.com/championswimmer/vuex-persist",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "pi-context-prune",
+          "fullName": "championswimmer/pi-context-prune",
+          "stars": 175,
+          "url": "https://github.com/championswimmer/pi-context-prune",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

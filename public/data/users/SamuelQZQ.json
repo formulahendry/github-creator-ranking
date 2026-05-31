@@ -1,0 +1,34 @@
+{
+  "login": "SamuelQZQ",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/19623228?v=4",
+  "htmlUrl": "https://github.com/SamuelQZQ",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1011,
+      "repoCountPrimary": 1,
+      "starsContains": 1011,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "auto-coding-agent-demo",
+          "fullName": "SamuelQZQ/auto-coding-agent-demo",
+          "stars": 1011,
+          "url": "https://github.com/SamuelQZQ/auto-coding-agent-demo",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

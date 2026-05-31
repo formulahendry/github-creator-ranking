@@ -1,0 +1,41 @@
+{
+  "login": "ghostwriternr",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/10023615?v=4",
+  "htmlUrl": "https://github.com/ghostwriternr",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 348,
+      "repoCountPrimary": 2,
+      "starsContains": 348,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "claude-code-containers",
+          "fullName": "ghostwriternr/claude-code-containers",
+          "stars": 243,
+          "url": "https://github.com/ghostwriternr/claude-code-containers",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "codeflare",
+          "fullName": "ghostwriternr/codeflare",
+          "stars": 105,
+          "url": "https://github.com/ghostwriternr/codeflare",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "login": "ghoshnirmalya",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6391763?v=4",
+  "htmlUrl": "https://github.com/ghoshnirmalya",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 953,
+      "repoCountPrimary": 4,
+      "starsContains": 953,
+      "repoCountContains": 4,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "nextjs-strapi-boilerplate",
+          "fullName": "ghoshnirmalya/nextjs-strapi-boilerplate",
+          "stars": 324,
+          "url": "https://github.com/ghoshnirmalya/nextjs-strapi-boilerplate",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "nextjs-hasura-boilerplate",
+          "fullName": "ghoshnirmalya/nextjs-hasura-boilerplate",
+          "stars": 294,
+          "url": "https://github.com/ghoshnirmalya/nextjs-hasura-boilerplate",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-search-box",
+          "fullName": "ghoshnirmalya/react-search-box",
+          "stars": 235,
+          "url": "https://github.com/ghoshnirmalya/react-search-box",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "writy",
+          "fullName": "ghoshnirmalya/writy",
+          "stars": 100,
+          "url": "https://github.com/ghoshnirmalya/writy",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

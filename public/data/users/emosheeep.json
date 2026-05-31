@@ -1,0 +1,41 @@
+{
+  "login": "emosheeep",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/31957758?v=4",
+  "htmlUrl": "https://github.com/emosheeep",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 348,
+      "repoCountPrimary": 2,
+      "starsContains": 348,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vite-plugin-lib-inject-css",
+          "fullName": "emosheeep/vite-plugin-lib-inject-css",
+          "stars": 197,
+          "url": "https://github.com/emosheeep/vite-plugin-lib-inject-css",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vite-plugin-virtual-mpa",
+          "fullName": "emosheeep/vite-plugin-virtual-mpa",
+          "stars": 151,
+          "url": "https://github.com/emosheeep/vite-plugin-virtual-mpa",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

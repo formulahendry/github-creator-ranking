@@ -1,0 +1,34 @@
+{
+  "login": "liuup",
+  "name": "Shang Liu",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/46253793?v=4",
+  "htmlUrl": "https://github.com/liuup",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2855,
+      "repoCountPrimary": 1,
+      "starsContains": 2855,
+      "repoCountContains": 1,
+      "globalRank": 934,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "claude-code-analysis",
+          "fullName": "liuup/claude-code-analysis",
+          "stars": 2855,
+          "url": "https://github.com/liuup/claude-code-analysis",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

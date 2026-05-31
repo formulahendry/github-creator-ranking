@@ -1,0 +1,41 @@
+{
+  "login": "hmsk",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/85887?v=4",
+  "htmlUrl": "https://github.com/hmsk",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 509,
+      "repoCountPrimary": 2,
+      "starsContains": 509,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vite-plugin-markdown",
+          "fullName": "hmsk/vite-plugin-markdown",
+          "stars": 293,
+          "url": "https://github.com/hmsk/vite-plugin-markdown",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vite-plugin-elm",
+          "fullName": "hmsk/vite-plugin-elm",
+          "stars": 216,
+          "url": "https://github.com/hmsk/vite-plugin-elm",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

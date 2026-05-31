@@ -1,0 +1,34 @@
+{
+  "login": "meza",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/211977?v=4",
+  "htmlUrl": "https://github.com/meza",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 268,
+      "repoCountPrimary": 1,
+      "starsContains": 268,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "trance-stack",
+          "fullName": "meza/trance-stack",
+          "stars": 268,
+          "url": "https://github.com/meza/trance-stack",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

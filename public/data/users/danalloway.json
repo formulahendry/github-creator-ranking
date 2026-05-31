@@ -1,0 +1,34 @@
+{
+  "login": "danalloway",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2057295?v=4",
+  "htmlUrl": "https://github.com/danalloway",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 278,
+      "repoCountPrimary": 1,
+      "starsContains": 278,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-country-flag",
+          "fullName": "danalloway/react-country-flag",
+          "stars": 278,
+          "url": "https://github.com/danalloway/react-country-flag",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

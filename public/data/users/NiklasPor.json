@@ -1,0 +1,48 @@
+{
+  "login": "NiklasPor",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/13211347?v=4",
+  "htmlUrl": "https://github.com/NiklasPor",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 804,
+      "repoCountPrimary": 3,
+      "starsContains": 804,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "prettier-plugin-go-template",
+          "fullName": "NiklasPor/prettier-plugin-go-template",
+          "stars": 394,
+          "url": "https://github.com/NiklasPor/prettier-plugin-go-template",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "prettier-plugin-organize-attributes",
+          "fullName": "NiklasPor/prettier-plugin-organize-attributes",
+          "stars": 241,
+          "url": "https://github.com/NiklasPor/prettier-plugin-organize-attributes",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "nx-remotecache-custom",
+          "fullName": "NiklasPor/nx-remotecache-custom",
+          "stars": 169,
+          "url": "https://github.com/NiklasPor/nx-remotecache-custom",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

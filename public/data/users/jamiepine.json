@@ -1,11 +1,11 @@
 {
   "login": "jamiepine",
-  "name": null,
+  "name": "Jamie Pine",
   "avatarUrl": "https://avatars.githubusercontent.com/u/32987599?v=4",
   "htmlUrl": "https://github.com/jamiepine",
-  "location": null,
+  "location": "Vancouver, BC",
   "countryCode": null,
-  "generatedAt": "2026-05-31T13:50:40.799Z",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
   "isPartial": true,
   "languages": [
     {
@@ -14,18 +14,25 @@
         "name": "TypeScript",
         "githubQuery": "TypeScript"
       },
-      "starsPrimary": 28961,
-      "repoCountPrimary": 1,
-      "starsContains": 28961,
-      "repoCountContains": 1,
-      "globalRank": null,
+      "starsPrimary": 29277,
+      "repoCountPrimary": 2,
+      "starsContains": 29277,
+      "repoCountContains": 2,
+      "globalRank": 49,
       "countryRank": null,
       "topRepos": [
         {
           "name": "voicebox",
           "fullName": "jamiepine/voicebox",
-          "stars": 28961,
+          "stars": 28979,
           "url": "https://github.com/jamiepine/voicebox",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "prismix",
+          "fullName": "jamiepine/prismix",
+          "stars": 298,
+          "url": "https://github.com/jamiepine/prismix",
           "primaryLanguage": "TypeScript"
         }
       ]

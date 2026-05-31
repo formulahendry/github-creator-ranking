@@ -1,0 +1,41 @@
+{
+  "login": "pbeshai",
+  "name": "Peter Beshai",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/793847?v=4",
+  "htmlUrl": "https://github.com/pbeshai",
+  "location": "Seattle, WA",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2988,
+      "repoCountPrimary": 2,
+      "starsContains": 2988,
+      "repoCountContains": 2,
+      "globalRank": 900,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "use-query-params",
+          "fullName": "pbeshai/use-query-params",
+          "stars": 2230,
+          "url": "https://github.com/pbeshai/use-query-params",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "tidy",
+          "fullName": "pbeshai/tidy",
+          "stars": 758,
+          "url": "https://github.com/pbeshai/tidy",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

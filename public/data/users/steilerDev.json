@@ -1,0 +1,34 @@
+{
+  "login": "steilerDev",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7031616?v=4",
+  "htmlUrl": "https://github.com/steilerDev",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 478,
+      "repoCountPrimary": 1,
+      "starsContains": 478,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "icloud-photos-sync",
+          "fullName": "steilerDev/icloud-photos-sync",
+          "stars": 478,
+          "url": "https://github.com/steilerDev/icloud-photos-sync",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

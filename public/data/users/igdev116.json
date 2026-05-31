@@ -1,0 +1,34 @@
+{
+  "login": "igdev116",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/70432453?v=4",
+  "htmlUrl": "https://github.com/igdev116",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 144,
+      "repoCountPrimary": 1,
+      "starsContains": 144,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vite-react-ts-eslint-prettier",
+          "fullName": "igdev116/vite-react-ts-eslint-prettier",
+          "stars": 144,
+          "url": "https://github.com/igdev116/vite-react-ts-eslint-prettier",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

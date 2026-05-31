@@ -1,0 +1,34 @@
+{
+  "login": "slipx06",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7227275?v=4",
+  "htmlUrl": "https://github.com/slipx06",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 381,
+      "repoCountPrimary": 1,
+      "starsContains": 381,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "sunsynk-power-flow-card",
+          "fullName": "slipx06/sunsynk-power-flow-card",
+          "stars": 381,
+          "url": "https://github.com/slipx06/sunsynk-power-flow-card",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

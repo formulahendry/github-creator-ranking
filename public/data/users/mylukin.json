@@ -1,0 +1,34 @@
+{
+  "login": "mylukin",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1021019?v=4",
+  "htmlUrl": "https://github.com/mylukin",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 247,
+      "repoCountPrimary": 1,
+      "starsContains": 247,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "agent-foreman",
+          "fullName": "mylukin/agent-foreman",
+          "stars": 247,
+          "url": "https://github.com/mylukin/agent-foreman",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

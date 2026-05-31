@@ -1,0 +1,41 @@
+{
+  "login": "vitaly-t",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5108906?v=4",
+  "htmlUrl": "https://github.com/vitaly-t",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 436,
+      "repoCountPrimary": 2,
+      "starsContains": 436,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "pg-promise-demo",
+          "fullName": "vitaly-t/pg-promise-demo",
+          "stars": 285,
+          "url": "https://github.com/vitaly-t/pg-promise-demo",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "iter-ops",
+          "fullName": "vitaly-t/iter-ops",
+          "stars": 151,
+          "url": "https://github.com/vitaly-t/iter-ops",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

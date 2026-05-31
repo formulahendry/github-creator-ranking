@@ -1,0 +1,41 @@
+{
+  "login": "wuji66dde",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/125968687?v=4",
+  "htmlUrl": "https://github.com/wuji66dde",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 383,
+      "repoCountPrimary": 2,
+      "starsContains": 383,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "jshook-skill",
+          "fullName": "wuji66dde/jshook-skill",
+          "stars": 209,
+          "url": "https://github.com/wuji66dde/jshook-skill",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "jshook-reverse-tool",
+          "fullName": "wuji66dde/jshook-reverse-tool",
+          "stars": 174,
+          "url": "https://github.com/wuji66dde/jshook-reverse-tool",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

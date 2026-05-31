@@ -1,0 +1,41 @@
+{
+  "login": "sudongyuer",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/76603360?v=4",
+  "htmlUrl": "https://github.com/sudongyuer",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 364,
+      "repoCountPrimary": 2,
+      "starsContains": 364,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "javascript-mental-models",
+          "fullName": "sudongyuer/javascript-mental-models",
+          "stars": 207,
+          "url": "https://github.com/sudongyuer/javascript-mental-models",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vite-plugin-react-inspector",
+          "fullName": "sudongyuer/vite-plugin-react-inspector",
+          "stars": 157,
+          "url": "https://github.com/sudongyuer/vite-plugin-react-inspector",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

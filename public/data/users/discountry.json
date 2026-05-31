@@ -1,0 +1,41 @@
+{
+  "login": "discountry",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/4507101?v=4",
+  "htmlUrl": "https://github.com/discountry",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 606,
+      "repoCountPrimary": 2,
+      "starsContains": 606,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ritmex-bot",
+          "fullName": "discountry/ritmex-bot",
+          "stars": 444,
+          "url": "https://github.com/discountry/ritmex-bot",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ritmex-ai-trader",
+          "fullName": "discountry/ritmex-ai-trader",
+          "stars": 162,
+          "url": "https://github.com/discountry/ritmex-ai-trader",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "octasoft-ltd",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/213637277?v=4",
+  "htmlUrl": "https://github.com/octasoft-ltd",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 225,
+      "repoCountPrimary": 1,
+      "starsContains": 225,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "wsl-ui",
+          "fullName": "octasoft-ltd/wsl-ui",
+          "stars": 225,
+          "url": "https://github.com/octasoft-ltd/wsl-ui",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

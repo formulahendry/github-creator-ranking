@@ -1,0 +1,62 @@
+{
+  "login": "wessberg",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/20454213?v=4",
+  "htmlUrl": "https://github.com/wessberg",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1397,
+      "repoCountPrimary": 5,
+      "starsContains": 1397,
+      "repoCountContains": 5,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "rollup-plugin-ts",
+          "fullName": "wessberg/rollup-plugin-ts",
+          "stars": 493,
+          "url": "https://github.com/wessberg/rollup-plugin-ts",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "cjstoesm",
+          "fullName": "wessberg/cjstoesm",
+          "stars": 419,
+          "url": "https://github.com/wessberg/cjstoesm",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "DI",
+          "fullName": "wessberg/DI",
+          "stars": 282,
+          "url": "https://github.com/wessberg/DI",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "scroll-behavior-polyfill",
+          "fullName": "wessberg/scroll-behavior-polyfill",
+          "stars": 102,
+          "url": "https://github.com/wessberg/scroll-behavior-polyfill",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ts-evaluator",
+          "fullName": "wessberg/ts-evaluator",
+          "stars": 101,
+          "url": "https://github.com/wessberg/ts-evaluator",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

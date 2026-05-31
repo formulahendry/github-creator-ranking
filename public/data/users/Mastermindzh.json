@@ -1,0 +1,41 @@
+{
+  "login": "Mastermindzh",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/4190290?v=4",
+  "htmlUrl": "https://github.com/Mastermindzh",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2329,
+      "repoCountPrimary": 2,
+      "starsContains": 2329,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "tidal-hifi",
+          "fullName": "Mastermindzh/tidal-hifi",
+          "stars": 1691,
+          "url": "https://github.com/Mastermindzh/tidal-hifi",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-cookie-consent",
+          "fullName": "Mastermindzh/react-cookie-consent",
+          "stars": 638,
+          "url": "https://github.com/Mastermindzh/react-cookie-consent",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

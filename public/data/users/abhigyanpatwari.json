@@ -1,11 +1,11 @@
 {
   "login": "abhigyanpatwari",
-  "name": null,
+  "name": "Abhigyan Patwari",
   "avatarUrl": "https://avatars.githubusercontent.com/u/126312502?v=4",
   "htmlUrl": "https://github.com/abhigyanpatwari",
-  "location": null,
+  "location": "Guwahati, Assam, India",
   "countryCode": null,
-  "generatedAt": "2026-05-31T13:50:40.799Z",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
   "isPartial": true,
   "languages": [
     {
@@ -14,17 +14,17 @@
         "name": "TypeScript",
         "githubQuery": "TypeScript"
       },
-      "starsPrimary": 40887,
+      "starsPrimary": 40934,
       "repoCountPrimary": 1,
-      "starsContains": 40887,
+      "starsContains": 40934,
       "repoCountContains": 1,
-      "globalRank": 18,
+      "globalRank": 27,
       "countryRank": null,
       "topRepos": [
         {
           "name": "GitNexus",
           "fullName": "abhigyanpatwari/GitNexus",
-          "stars": 40887,
+          "stars": 40934,
           "url": "https://github.com/abhigyanpatwari/GitNexus",
           "primaryLanguage": "TypeScript"
         }

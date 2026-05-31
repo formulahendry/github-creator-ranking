@@ -1,0 +1,62 @@
+{
+  "login": "ed-roh",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/36801809?v=4",
+  "htmlUrl": "https://github.com/ed-roh",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1552,
+      "repoCountPrimary": 5,
+      "starsContains": 1552,
+      "repoCountContains": 5,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "inventory-management",
+          "fullName": "ed-roh/inventory-management",
+          "stars": 436,
+          "url": "https://github.com/ed-roh/inventory-management",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "project-management",
+          "fullName": "ed-roh/project-management",
+          "stars": 355,
+          "url": "https://github.com/ed-roh/project-management",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "real-estate-prod",
+          "fullName": "ed-roh/real-estate-prod",
+          "stars": 352,
+          "url": "https://github.com/ed-roh/real-estate-prod",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "learning-management",
+          "fullName": "ed-roh/learning-management",
+          "stars": 231,
+          "url": "https://github.com/ed-roh/learning-management",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "gym-typescript",
+          "fullName": "ed-roh/gym-typescript",
+          "stars": 178,
+          "url": "https://github.com/ed-roh/gym-typescript",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "AtotheY",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/10644934?v=4",
+  "htmlUrl": "https://github.com/AtotheY",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1642,
+      "repoCountPrimary": 2,
+      "starsContains": 1642,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "saas-landingpage",
+          "fullName": "AtotheY/saas-landingpage",
+          "stars": 1521,
+          "url": "https://github.com/AtotheY/saas-landingpage",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "FileFlex",
+          "fullName": "AtotheY/FileFlex",
+          "stars": 121,
+          "url": "https://github.com/AtotheY/FileFlex",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

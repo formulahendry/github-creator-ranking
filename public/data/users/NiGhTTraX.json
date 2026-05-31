@@ -1,0 +1,48 @@
+{
+  "login": "NiGhTTraX",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/485061?v=4",
+  "htmlUrl": "https://github.com/NiGhTTraX",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1865,
+      "repoCountPrimary": 3,
+      "starsContains": 1865,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ts-monorepo",
+          "fullName": "NiGhTTraX/ts-monorepo",
+          "stars": 1619,
+          "url": "https://github.com/NiGhTTraX/ts-monorepo",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "mugshot",
+          "fullName": "NiGhTTraX/mugshot",
+          "stars": 138,
+          "url": "https://github.com/NiGhTTraX/mugshot",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "strong-mock",
+          "fullName": "NiGhTTraX/strong-mock",
+          "stars": 108,
+          "url": "https://github.com/NiGhTTraX/strong-mock",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "kaitranntt",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/61256810?v=4",
+  "htmlUrl": "https://github.com/kaitranntt",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2439,
+      "repoCountPrimary": 1,
+      "starsContains": 2439,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ccs",
+          "fullName": "kaitranntt/ccs",
+          "stars": 2439,
+          "url": "https://github.com/kaitranntt/ccs",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

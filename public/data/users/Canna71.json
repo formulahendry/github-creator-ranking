@@ -1,0 +1,48 @@
+{
+  "login": "Canna71",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5303303?v=4",
+  "htmlUrl": "https://github.com/Canna71",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 377,
+      "repoCountPrimary": 3,
+      "starsContains": 377,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "obsidian-chronology",
+          "fullName": "Canna71/obsidian-chronology",
+          "stars": 146,
+          "url": "https://github.com/Canna71/obsidian-chronology",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "obsidian-sets",
+          "fullName": "Canna71/obsidian-sets",
+          "stars": 126,
+          "url": "https://github.com/Canna71/obsidian-sets",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "obsidian-mathpad",
+          "fullName": "Canna71/obsidian-mathpad",
+          "stars": 105,
+          "url": "https://github.com/Canna71/obsidian-mathpad",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

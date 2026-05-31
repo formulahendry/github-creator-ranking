@@ -1,0 +1,34 @@
+{
+  "login": "theoephraim",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1158956?v=4",
+  "htmlUrl": "https://github.com/theoephraim",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2484,
+      "repoCountPrimary": 1,
+      "starsContains": 2484,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "node-google-spreadsheet",
+          "fullName": "theoephraim/node-google-spreadsheet",
+          "stars": 2484,
+          "url": "https://github.com/theoephraim/node-google-spreadsheet",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

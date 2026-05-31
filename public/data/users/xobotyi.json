@@ -1,0 +1,41 @@
+{
+  "login": "xobotyi",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6178739?v=4",
+  "htmlUrl": "https://github.com/xobotyi",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1130,
+      "repoCountPrimary": 2,
+      "starsContains": 1130,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-scrollbars-custom",
+          "fullName": "xobotyi/react-scrollbars-custom",
+          "stars": 859,
+          "url": "https://github.com/xobotyi/react-scrollbars-custom",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "await-of",
+          "fullName": "xobotyi/await-of",
+          "stars": 271,
+          "url": "https://github.com/xobotyi/await-of",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

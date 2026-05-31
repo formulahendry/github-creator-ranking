@@ -1,0 +1,34 @@
+{
+  "login": "vmoranv",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/98155299?v=4",
+  "htmlUrl": "https://github.com/vmoranv",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1568,
+      "repoCountPrimary": 1,
+      "starsContains": 1568,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "jshookmcp",
+          "fullName": "vmoranv/jshookmcp",
+          "stars": 1568,
+          "url": "https://github.com/vmoranv/jshookmcp",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

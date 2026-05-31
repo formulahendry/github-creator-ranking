@@ -1,0 +1,34 @@
+{
+  "login": "delibae",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/82585834?v=4",
+  "htmlUrl": "https://github.com/delibae",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1525,
+      "repoCountPrimary": 1,
+      "starsContains": 1525,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "claude-prism",
+          "fullName": "delibae/claude-prism",
+          "stars": 1525,
+          "url": "https://github.com/delibae/claude-prism",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

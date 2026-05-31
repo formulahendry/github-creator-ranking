@@ -1,0 +1,62 @@
+{
+  "login": "diego3g",
+  "name": "Diego Fernandes",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2254731?v=4",
+  "htmlUrl": "https://github.com/diego3g",
+  "location": "Brazil",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 5022,
+      "repoCountPrimary": 12,
+      "starsContains": 5022,
+      "repoCountContains": 12,
+      "globalRank": 500,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "rocketredis",
+          "fullName": "diego3g/rocketredis",
+          "stars": 1954,
+          "url": "https://github.com/diego3g/rocketredis",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "umbriel",
+          "fullName": "diego3g/umbriel",
+          "stars": 533,
+          "url": "https://github.com/diego3g/umbriel",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "node-microservices-ddd",
+          "fullName": "diego3g/node-microservices-ddd",
+          "stars": 529,
+          "url": "https://github.com/diego3g/node-microservices-ddd",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "rsxp-2023",
+          "fullName": "diego3g/rsxp-2023",
+          "stars": 434,
+          "url": "https://github.com/diego3g/rsxp-2023",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "responsive-native",
+          "fullName": "diego3g/responsive-native",
+          "stars": 370,
+          "url": "https://github.com/diego3g/responsive-native",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "benc-uk",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/14982936?v=4",
+  "htmlUrl": "https://github.com/benc-uk",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 530,
+      "repoCountPrimary": 2,
+      "starsContains": 530,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "workflow-dispatch",
+          "fullName": "benc-uk/workflow-dispatch",
+          "stars": 382,
+          "url": "https://github.com/benc-uk/workflow-dispatch",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "armview-vscode",
+          "fullName": "benc-uk/armview-vscode",
+          "stars": 148,
+          "url": "https://github.com/benc-uk/armview-vscode",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

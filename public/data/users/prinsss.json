@@ -1,0 +1,34 @@
+{
+  "login": "prinsss",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/11206497?v=4",
+  "htmlUrl": "https://github.com/prinsss",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2458,
+      "repoCountPrimary": 1,
+      "starsContains": 2458,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "twitter-web-exporter",
+          "fullName": "prinsss/twitter-web-exporter",
+          "stars": 2458,
+          "url": "https://github.com/prinsss/twitter-web-exporter",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

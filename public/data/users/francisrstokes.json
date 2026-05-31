@@ -1,0 +1,55 @@
+{
+  "login": "francisrstokes",
+  "name": "Francis Stokes",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/26871492?v=4",
+  "htmlUrl": "https://github.com/francisrstokes",
+  "location": "Utrecht",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3047,
+      "repoCountPrimary": 4,
+      "starsContains": 3047,
+      "repoCountContains": 4,
+      "globalRank": 881,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "construct-js",
+          "fullName": "francisrstokes/construct-js",
+          "stars": 1370,
+          "url": "https://github.com/francisrstokes/construct-js",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "githublog",
+          "fullName": "francisrstokes/githublog",
+          "stars": 827,
+          "url": "https://github.com/francisrstokes/githublog",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "arcsecond",
+          "fullName": "francisrstokes/arcsecond",
+          "stars": 576,
+          "url": "https://github.com/francisrstokes/arcsecond",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "tega",
+          "fullName": "francisrstokes/tega",
+          "stars": 274,
+          "url": "https://github.com/francisrstokes/tega",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

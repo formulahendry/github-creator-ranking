@@ -1,0 +1,34 @@
+{
+  "login": "MishaKav",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/289035?v=4",
+  "htmlUrl": "https://github.com/MishaKav",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 258,
+      "repoCountPrimary": 1,
+      "starsContains": 258,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "pytest-coverage-comment",
+          "fullName": "MishaKav/pytest-coverage-comment",
+          "stars": 258,
+          "url": "https://github.com/MishaKav/pytest-coverage-comment",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

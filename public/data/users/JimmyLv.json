@@ -1,0 +1,41 @@
+{
+  "login": "JimmyLv",
+  "name": "JimmyLv_吕立青",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/4997466?v=4",
+  "htmlUrl": "https://github.com/JimmyLv",
+  "location": "Chengdu, China",
+  "countryCode": "CN",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 6191,
+      "repoCountPrimary": 2,
+      "starsContains": 6191,
+      "repoCountContains": 2,
+      "globalRank": 380,
+      "countryRank": 49,
+      "topRepos": [
+        {
+          "name": "BibiGPT-v1",
+          "fullName": "JimmyLv/BibiGPT-v1",
+          "stars": 6088,
+          "url": "https://github.com/JimmyLv/BibiGPT-v1",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ChatVox",
+          "fullName": "JimmyLv/ChatVox",
+          "stars": 103,
+          "url": "https://github.com/JimmyLv/ChatVox",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

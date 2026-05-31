@@ -1,0 +1,41 @@
+{
+  "login": "cschleiden",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2201819?v=4",
+  "htmlUrl": "https://github.com/cschleiden",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 417,
+      "repoCountPrimary": 2,
+      "starsContains": 417,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vscode-github-actions",
+          "fullName": "cschleiden/vscode-github-actions",
+          "stars": 301,
+          "url": "https://github.com/cschleiden/vscode-github-actions",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "github-actions-hero",
+          "fullName": "cschleiden/github-actions-hero",
+          "stars": 116,
+          "url": "https://github.com/cschleiden/github-actions-hero",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

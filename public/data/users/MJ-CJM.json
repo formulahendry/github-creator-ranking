@@ -1,0 +1,34 @@
+{
+  "login": "MJ-CJM",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/43091605?v=4",
+  "htmlUrl": "https://github.com/MJ-CJM",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 125,
+      "repoCountPrimary": 1,
+      "starsContains": 125,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "fuxi-cli",
+          "fullName": "MJ-CJM/fuxi-cli",
+          "stars": 125,
+          "url": "https://github.com/MJ-CJM/fuxi-cli",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

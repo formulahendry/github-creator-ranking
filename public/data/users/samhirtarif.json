@@ -1,0 +1,41 @@
+{
+  "login": "samhirtarif",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/89391183?v=4",
+  "htmlUrl": "https://github.com/samhirtarif",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 441,
+      "repoCountPrimary": 2,
+      "starsContains": 441,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-audio-recorder",
+          "fullName": "samhirtarif/react-audio-recorder",
+          "stars": 260,
+          "url": "https://github.com/samhirtarif/react-audio-recorder",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-audio-visualize",
+          "fullName": "samhirtarif/react-audio-visualize",
+          "stars": 181,
+          "url": "https://github.com/samhirtarif/react-audio-visualize",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

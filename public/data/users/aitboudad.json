@@ -1,0 +1,34 @@
+{
+  "login": "aitboudad",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1753742?v=4",
+  "htmlUrl": "https://github.com/aitboudad",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 787,
+      "repoCountPrimary": 1,
+      "starsContains": 787,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ngx-loading-bar",
+          "fullName": "aitboudad/ngx-loading-bar",
+          "stars": 787,
+          "url": "https://github.com/aitboudad/ngx-loading-bar",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

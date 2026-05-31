@@ -1,0 +1,48 @@
+{
+  "login": "disler",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7570811?v=4",
+  "htmlUrl": "https://github.com/disler",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1893,
+      "repoCountPrimary": 3,
+      "starsContains": 1893,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "pi-vs-claude-code",
+          "fullName": "disler/pi-vs-claude-code",
+          "stars": 1303,
+          "url": "https://github.com/disler/pi-vs-claude-code",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "benchy",
+          "fullName": "disler/benchy",
+          "stars": 453,
+          "url": "https://github.com/disler/benchy",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "the-verifier-agent",
+          "fullName": "disler/the-verifier-agent",
+          "stars": 137,
+          "url": "https://github.com/disler/the-verifier-agent",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

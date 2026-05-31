@@ -1,0 +1,34 @@
+{
+  "login": "WeiWenxing",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/20411024?v=4",
+  "htmlUrl": "https://github.com/WeiWenxing",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 123,
+      "repoCountPrimary": 1,
+      "starsContains": 123,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "crazycattle3d",
+          "fullName": "WeiWenxing/crazycattle3d",
+          "stars": 123,
+          "url": "https://github.com/WeiWenxing/crazycattle3d",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

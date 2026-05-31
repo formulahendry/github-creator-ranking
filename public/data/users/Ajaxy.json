@@ -1,0 +1,41 @@
+{
+  "login": "Ajaxy",
+  "name": "Alexander Zinchuk",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/357153?v=4",
+  "htmlUrl": "https://github.com/Ajaxy",
+  "location": "Malaga",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3563,
+      "repoCountPrimary": 2,
+      "starsContains": 3563,
+      "repoCountContains": 2,
+      "globalRank": 748,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "telegram-tt",
+          "fullName": "Ajaxy/telegram-tt",
+          "stars": 3423,
+          "url": "https://github.com/Ajaxy/telegram-tt",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "teact",
+          "fullName": "Ajaxy/teact",
+          "stars": 140,
+          "url": "https://github.com/Ajaxy/teact",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

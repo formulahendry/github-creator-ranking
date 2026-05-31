@@ -1,0 +1,41 @@
+{
+  "login": "Houfeng",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1432335?v=4",
+  "htmlUrl": "https://github.com/Houfeng",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 673,
+      "repoCountPrimary": 2,
+      "starsContains": 673,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "safeify",
+          "fullName": "Houfeng/safeify",
+          "stars": 493,
+          "url": "https://github.com/Houfeng/safeify",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "mota",
+          "fullName": "Houfeng/mota",
+          "stars": 180,
+          "url": "https://github.com/Houfeng/mota",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

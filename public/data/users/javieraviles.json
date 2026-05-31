@@ -1,0 +1,34 @@
+{
+  "login": "javieraviles",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/8101719?v=4",
+  "htmlUrl": "https://github.com/javieraviles",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1016,
+      "repoCountPrimary": 1,
+      "starsContains": 1016,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "node-typescript-koa-rest",
+          "fullName": "javieraviles/node-typescript-koa-rest",
+          "stars": 1016,
+          "url": "https://github.com/javieraviles/node-typescript-koa-rest",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

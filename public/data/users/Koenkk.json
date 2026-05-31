@@ -1,0 +1,62 @@
+{
+  "login": "Koenkk",
+  "name": "Koen Kanters",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2892853?v=4",
+  "htmlUrl": "https://github.com/Koenkk",
+  "location": "The Netherlands, Helmond",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 18409,
+      "repoCountPrimary": 5,
+      "starsContains": 18409,
+      "repoCountContains": 5,
+      "globalRank": 102,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "zigbee2mqtt",
+          "fullName": "Koenkk/zigbee2mqtt",
+          "stars": 15170,
+          "url": "https://github.com/Koenkk/zigbee2mqtt",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "zigbee-herdsman-converters",
+          "fullName": "Koenkk/zigbee-herdsman-converters",
+          "stars": 1193,
+          "url": "https://github.com/Koenkk/zigbee-herdsman-converters",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "zigbee2mqtt.io",
+          "fullName": "Koenkk/zigbee2mqtt.io",
+          "stars": 841,
+          "url": "https://github.com/Koenkk/zigbee2mqtt.io",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "zigbee-OTA",
+          "fullName": "Koenkk/zigbee-OTA",
+          "stars": 645,
+          "url": "https://github.com/Koenkk/zigbee-OTA",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "zigbee-herdsman",
+          "fullName": "Koenkk/zigbee-herdsman",
+          "stars": 560,
+          "url": "https://github.com/Koenkk/zigbee-herdsman",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

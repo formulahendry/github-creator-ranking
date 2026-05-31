@@ -1,0 +1,62 @@
+{
+  "login": "adrianhajdin",
+  "name": "Adrian Hajdin - JS Mastery",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/24898559?v=4",
+  "htmlUrl": "https://github.com/adrianhajdin",
+  "location": "Croatia",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 34180,
+      "repoCountPrimary": 38,
+      "starsContains": 34180,
+      "repoCountContains": 38,
+      "globalRank": 38,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "portfolio",
+          "fullName": "adrianhajdin/portfolio",
+          "stars": 3659,
+          "url": "https://github.com/adrianhajdin/portfolio",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "banking",
+          "fullName": "adrianhajdin/banking",
+          "stars": 3142,
+          "url": "https://github.com/adrianhajdin/banking",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "healthcare",
+          "fullName": "adrianhajdin/healthcare",
+          "stars": 2681,
+          "url": "https://github.com/adrianhajdin/healthcare",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "project_next13_car_showcase",
+          "fullName": "adrianhajdin/project_next13_car_showcase",
+          "stars": 1888,
+          "url": "https://github.com/adrianhajdin/project_next13_car_showcase",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "uber",
+          "fullName": "adrianhajdin/uber",
+          "stars": 1746,
+          "url": "https://github.com/adrianhajdin/uber",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

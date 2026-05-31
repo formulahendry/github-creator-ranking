@@ -1,0 +1,48 @@
+{
+  "login": "luizomf",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/553862?v=4",
+  "htmlUrl": "https://github.com/luizomf",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 879,
+      "repoCountPrimary": 3,
+      "starsContains": 879,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "design-patterns-typescript",
+          "fullName": "luizomf/design-patterns-typescript",
+          "stars": 418,
+          "url": "https://github.com/luizomf/design-patterns-typescript",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "clean-architecture-api-boilerplate",
+          "fullName": "luizomf/clean-architecture-api-boilerplate",
+          "stars": 251,
+          "url": "https://github.com/luizomf/clean-architecture-api-boilerplate",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "cursojstypescript",
+          "fullName": "luizomf/cursojstypescript",
+          "stars": 210,
+          "url": "https://github.com/luizomf/cursojstypescript",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

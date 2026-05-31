@@ -1,0 +1,41 @@
+{
+  "login": "ije",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2883484?v=4",
+  "htmlUrl": "https://github.com/ije",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 680,
+      "repoCountPrimary": 2,
+      "starsContains": 680,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "mono-jsx",
+          "fullName": "ije/mono-jsx",
+          "stars": 536,
+          "url": "https://github.com/ije/mono-jsx",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "html",
+          "fullName": "ije/html",
+          "stars": 144,
+          "url": "https://github.com/ije/html",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

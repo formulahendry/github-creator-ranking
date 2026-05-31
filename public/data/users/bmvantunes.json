@@ -1,0 +1,34 @@
+{
+  "login": "bmvantunes",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/9042965?v=4",
+  "htmlUrl": "https://github.com/bmvantunes",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 101,
+      "repoCountPrimary": 1,
+      "starsContains": 101,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "youtube-2020-june-multi-step-form-formik",
+          "fullName": "bmvantunes/youtube-2020-june-multi-step-form-formik",
+          "stars": 101,
+          "url": "https://github.com/bmvantunes/youtube-2020-june-multi-step-form-formik",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

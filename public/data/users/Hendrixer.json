@@ -1,0 +1,62 @@
+{
+  "login": "Hendrixer",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2840504?v=4",
+  "htmlUrl": "https://github.com/Hendrixer",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1513,
+      "repoCountPrimary": 10,
+      "starsContains": 1513,
+      "repoCountContains": 10,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "fullstack-ai-nextjs",
+          "fullName": "Hendrixer/fullstack-ai-nextjs",
+          "stars": 206,
+          "url": "https://github.com/Hendrixer/fullstack-ai-nextjs",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "next.js-fundamentals",
+          "fullName": "Hendrixer/next.js-fundamentals",
+          "stars": 201,
+          "url": "https://github.com/Hendrixer/next.js-fundamentals",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "production-grade-nextjs",
+          "fullName": "Hendrixer/production-grade-nextjs",
+          "stars": 185,
+          "url": "https://github.com/Hendrixer/production-grade-nextjs",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "fullstack-music",
+          "fullName": "Hendrixer/fullstack-music",
+          "stars": 162,
+          "url": "https://github.com/Hendrixer/fullstack-music",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "agent-from-scratch",
+          "fullName": "Hendrixer/agent-from-scratch",
+          "stars": 156,
+          "url": "https://github.com/Hendrixer/agent-from-scratch",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "oiov",
+  "name": "oiov",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/166131050?v=4",
+  "htmlUrl": "https://github.com/oiov",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3630,
+      "repoCountPrimary": 2,
+      "starsContains": 3630,
+      "repoCountContains": 2,
+      "globalRank": 734,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "wr.do",
+          "fullName": "oiov/wr.do",
+          "stars": 2246,
+          "url": "https://github.com/oiov/wr.do",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vmail",
+          "fullName": "oiov/vmail",
+          "stars": 1384,
+          "url": "https://github.com/oiov/vmail",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

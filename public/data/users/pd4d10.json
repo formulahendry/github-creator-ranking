@@ -1,0 +1,62 @@
+{
+  "login": "pd4d10",
+  "name": "Rongjian Zhang",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/9524411?v=4",
+  "htmlUrl": "https://github.com/pd4d10",
+  "location": "UTC+8",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 10312,
+      "repoCountPrimary": 8,
+      "starsContains": 10312,
+      "repoCountContains": 8,
+      "globalRank": 211,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "hashmd",
+          "fullName": "pd4d10/hashmd",
+          "stars": 4343,
+          "url": "https://github.com/pd4d10/hashmd",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "debugtron",
+          "fullName": "pd4d10/debugtron",
+          "stars": 1725,
+          "url": "https://github.com/pd4d10/debugtron",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "bytemd",
+          "fullName": "pd4d10/bytemd",
+          "stars": 1340,
+          "url": "https://github.com/pd4d10/bytemd",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "octohint",
+          "fullName": "pd4d10/octohint",
+          "stars": 966,
+          "url": "https://github.com/pd4d10/octohint",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "console-importer",
+          "fullName": "pd4d10/console-importer",
+          "stars": 948,
+          "url": "https://github.com/pd4d10/console-importer",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

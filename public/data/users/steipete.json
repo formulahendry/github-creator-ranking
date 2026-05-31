@@ -1,0 +1,62 @@
+{
+  "login": "steipete",
+  "name": "Peter Steinberger",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/58493?v=4",
+  "htmlUrl": "https://github.com/steipete",
+  "location": "London / San Francisco",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 10742,
+      "repoCountPrimary": 7,
+      "starsContains": 10742,
+      "repoCountContains": 7,
+      "globalRank": 199,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "summarize",
+          "fullName": "steipete/summarize",
+          "stars": 6077,
+          "url": "https://github.com/steipete/summarize",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "oracle",
+          "fullName": "steipete/oracle",
+          "stars": 2351,
+          "url": "https://github.com/steipete/oracle",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "macos-automator-mcp",
+          "fullName": "steipete/macos-automator-mcp",
+          "stars": 804,
+          "url": "https://github.com/steipete/macos-automator-mcp",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "birdclaw",
+          "fullName": "steipete/birdclaw",
+          "stars": 797,
+          "url": "https://github.com/steipete/birdclaw",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "poltergeist",
+          "fullName": "steipete/poltergeist",
+          "stars": 404,
+          "url": "https://github.com/steipete/poltergeist",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "aswinckr",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5960217?v=4",
+  "htmlUrl": "https://github.com/aswinckr",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 225,
+      "repoCountPrimary": 1,
+      "starsContains": 225,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "figma-cursor",
+          "fullName": "aswinckr/figma-cursor",
+          "stars": 225,
+          "url": "https://github.com/aswinckr/figma-cursor",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

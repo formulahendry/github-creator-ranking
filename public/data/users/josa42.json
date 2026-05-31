@@ -1,0 +1,41 @@
+{
+  "login": "josa42",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/423234?v=4",
+  "htmlUrl": "https://github.com/josa42",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 712,
+      "repoCountPrimary": 2,
+      "starsContains": 712,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "coc-go",
+          "fullName": "josa42/coc-go",
+          "stars": 574,
+          "url": "https://github.com/josa42/coc-go",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "coc-lua",
+          "fullName": "josa42/coc-lua",
+          "stars": 138,
+          "url": "https://github.com/josa42/coc-lua",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

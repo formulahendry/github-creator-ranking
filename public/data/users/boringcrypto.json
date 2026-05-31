@@ -1,0 +1,34 @@
+{
+  "login": "boringcrypto",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/993603?v=4",
+  "htmlUrl": "https://github.com/boringcrypto",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 125,
+      "repoCountPrimary": 1,
+      "starsContains": 125,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "YieldBox",
+          "fullName": "boringcrypto/YieldBox",
+          "stars": 125,
+          "url": "https://github.com/boringcrypto/YieldBox",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

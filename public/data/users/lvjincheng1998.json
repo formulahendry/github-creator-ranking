@@ -1,0 +1,34 @@
+{
+  "login": "lvjincheng1998",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/48816275?v=4",
+  "htmlUrl": "https://github.com/lvjincheng1998",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 153,
+      "repoCountPrimary": 1,
+      "starsContains": 153,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "PetBattle",
+          "fullName": "lvjincheng1998/PetBattle",
+          "stars": 153,
+          "url": "https://github.com/lvjincheng1998/PetBattle",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

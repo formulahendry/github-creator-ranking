@@ -1,0 +1,34 @@
+{
+  "login": "artem-barmin",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/11332147?v=4",
+  "htmlUrl": "https://github.com/artem-barmin",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 134,
+      "repoCountPrimary": 1,
+      "starsContains": 134,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "obsidian-block-drag-n-drop",
+          "fullName": "artem-barmin/obsidian-block-drag-n-drop",
+          "stars": 134,
+          "url": "https://github.com/artem-barmin/obsidian-block-drag-n-drop",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

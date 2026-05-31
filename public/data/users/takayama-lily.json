@@ -1,0 +1,41 @@
+{
+  "login": "takayama-lily",
+  "name": "takayama",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/12014361?v=4",
+  "htmlUrl": "https://github.com/takayama-lily",
+  "location": "Tokyo",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3383,
+      "repoCountPrimary": 2,
+      "starsContains": 3383,
+      "repoCountContains": 2,
+      "globalRank": 798,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "oicq",
+          "fullName": "takayama-lily/oicq",
+          "stars": 2653,
+          "url": "https://github.com/takayama-lily/oicq",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vscode-qq",
+          "fullName": "takayama-lily/vscode-qq",
+          "stars": 730,
+          "url": "https://github.com/takayama-lily/vscode-qq",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

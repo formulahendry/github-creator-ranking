@@ -1,0 +1,41 @@
+{
+  "login": "Cveinnt",
+  "name": "Wensen Wu",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/30604389?v=4",
+  "htmlUrl": "https://github.com/Cveinnt",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 6231,
+      "repoCountPrimary": 2,
+      "starsContains": 6231,
+      "repoCountContains": 2,
+      "globalRank": 378,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "LiveTerm",
+          "fullName": "Cveinnt/LiveTerm",
+          "stars": 5401,
+          "url": "https://github.com/Cveinnt/LiveTerm",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "LetsMarkdown.com",
+          "fullName": "Cveinnt/LetsMarkdown.com",
+          "stars": 830,
+          "url": "https://github.com/Cveinnt/LetsMarkdown.com",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

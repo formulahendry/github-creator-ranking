@@ -5,7 +5,7 @@
   "htmlUrl": "https://github.com/Yeachan-Heo",
   "location": "Seoul ",
   "countryCode": null,
-  "generatedAt": "2026-05-31T13:50:40.799Z",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
   "isPartial": true,
   "languages": [
     {
@@ -14,25 +14,39 @@
         "name": "TypeScript",
         "githubQuery": "TypeScript"
       },
-      "starsPrimary": 65447,
-      "repoCountPrimary": 2,
-      "starsContains": 65447,
-      "repoCountContains": 2,
-      "globalRank": 6,
+      "starsPrimary": 65919,
+      "repoCountPrimary": 4,
+      "starsContains": 65919,
+      "repoCountContains": 4,
+      "globalRank": 8,
       "countryRank": null,
       "topRepos": [
         {
           "name": "oh-my-claudecode",
           "fullName": "Yeachan-Heo/oh-my-claudecode",
-          "stars": 35412,
+          "stars": 35428,
           "url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
           "primaryLanguage": "TypeScript"
         },
         {
           "name": "oh-my-codex",
           "fullName": "Yeachan-Heo/oh-my-codex",
-          "stars": 30035,
+          "stars": 30040,
           "url": "https://github.com/Yeachan-Heo/oh-my-codex",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "My-Jogyo",
+          "fullName": "Yeachan-Heo/My-Jogyo",
+          "stars": 240,
+          "url": "https://github.com/Yeachan-Heo/My-Jogyo",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "gajae-code",
+          "fullName": "Yeachan-Heo/gajae-code",
+          "stars": 211,
+          "url": "https://github.com/Yeachan-Heo/gajae-code",
           "primaryLanguage": "TypeScript"
         }
       ]

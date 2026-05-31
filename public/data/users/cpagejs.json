@@ -1,0 +1,41 @@
+{
+  "login": "cpagejs",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/16756384?v=4",
+  "htmlUrl": "https://github.com/cpagejs",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 517,
+      "repoCountPrimary": 2,
+      "starsContains": 517,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Cpage.js",
+          "fullName": "cpagejs/Cpage.js",
+          "stars": 369,
+          "url": "https://github.com/cpagejs/Cpage.js",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "cate-design",
+          "fullName": "cpagejs/cate-design",
+          "stars": 148,
+          "url": "https://github.com/cpagejs/cate-design",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

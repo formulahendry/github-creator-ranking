@@ -1,0 +1,41 @@
+{
+  "login": "antonmedv",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/141232?v=4",
+  "htmlUrl": "https://github.com/antonmedv",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2539,
+      "repoCountPrimary": 2,
+      "starsContains": 2539,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "codejar",
+          "fullName": "antonmedv/codejar",
+          "stars": 1966,
+          "url": "https://github.com/antonmedv/codejar",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "numbr",
+          "fullName": "antonmedv/numbr",
+          "stars": 573,
+          "url": "https://github.com/antonmedv/numbr",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "ShawnZhang2015",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/10387708?v=4",
+  "htmlUrl": "https://github.com/ShawnZhang2015",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 117,
+      "repoCountPrimary": 1,
+      "starsContains": 117,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ShaderHelper2",
+          "fullName": "ShawnZhang2015/ShaderHelper2",
+          "stars": 117,
+          "url": "https://github.com/ShawnZhang2015/ShaderHelper2",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

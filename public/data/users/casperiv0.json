@@ -1,0 +1,34 @@
+{
+  "login": "casperiv0",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/53900565?v=4",
+  "htmlUrl": "https://github.com/casperiv0",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 220,
+      "repoCountPrimary": 1,
+      "starsContains": 220,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ghostybot",
+          "fullName": "casperiv0/ghostybot",
+          "stars": 220,
+          "url": "https://github.com/casperiv0/ghostybot",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

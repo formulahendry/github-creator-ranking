@@ -1,0 +1,34 @@
+{
+  "login": "FoxxMD",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/4663766?v=4",
+  "htmlUrl": "https://github.com/FoxxMD",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1078,
+      "repoCountPrimary": 1,
+      "starsContains": 1078,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "multi-scrobbler",
+          "fullName": "FoxxMD/multi-scrobbler",
+          "stars": 1078,
+          "url": "https://github.com/FoxxMD/multi-scrobbler",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

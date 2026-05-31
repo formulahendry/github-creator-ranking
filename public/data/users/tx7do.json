@@ -1,0 +1,41 @@
+{
+  "login": "tx7do",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/15902756?v=4",
+  "htmlUrl": "https://github.com/tx7do",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 699,
+      "repoCountPrimary": 2,
+      "starsContains": 699,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "go-wind-admin",
+          "fullName": "tx7do/go-wind-admin",
+          "stars": 489,
+          "url": "https://github.com/tx7do/go-wind-admin",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "go-wind-cms",
+          "fullName": "tx7do/go-wind-cms",
+          "stars": 210,
+          "url": "https://github.com/tx7do/go-wind-cms",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

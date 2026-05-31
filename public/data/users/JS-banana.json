@@ -1,0 +1,41 @@
+{
+  "login": "JS-banana",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/42017491?v=4",
+  "htmlUrl": "https://github.com/JS-banana",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 657,
+      "repoCountPrimary": 2,
+      "starsContains": 657,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vite-vue3-ts",
+          "fullName": "JS-banana/vite-vue3-ts",
+          "stars": 367,
+          "url": "https://github.com/JS-banana/vite-vue3-ts",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "notify-server",
+          "fullName": "JS-banana/notify-server",
+          "stars": 290,
+          "url": "https://github.com/JS-banana/notify-server",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "aleclarson",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1925840?v=4",
+  "htmlUrl": "https://github.com/aleclarson",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1749,
+      "repoCountPrimary": 2,
+      "starsContains": 1749,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vite-tsconfig-paths",
+          "fullName": "aleclarson/vite-tsconfig-paths",
+          "stars": 1625,
+          "url": "https://github.com/aleclarson/vite-tsconfig-paths",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ee-ts",
+          "fullName": "aleclarson/ee-ts",
+          "stars": 124,
+          "url": "https://github.com/aleclarson/ee-ts",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

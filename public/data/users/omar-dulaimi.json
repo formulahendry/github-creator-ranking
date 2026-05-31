@@ -1,0 +1,41 @@
+{
+  "login": "omar-dulaimi",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/11743389?v=4",
+  "htmlUrl": "https://github.com/omar-dulaimi",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1562,
+      "repoCountPrimary": 2,
+      "starsContains": 1562,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "prisma-zod-generator",
+          "fullName": "omar-dulaimi/prisma-zod-generator",
+          "stars": 823,
+          "url": "https://github.com/omar-dulaimi/prisma-zod-generator",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "prisma-trpc-generator",
+          "fullName": "omar-dulaimi/prisma-trpc-generator",
+          "stars": 739,
+          "url": "https://github.com/omar-dulaimi/prisma-trpc-generator",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

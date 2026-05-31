@@ -1,0 +1,34 @@
+{
+  "login": "madhank93",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/15702795?v=4",
+  "htmlUrl": "https://github.com/madhank93",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 132,
+      "repoCountPrimary": 1,
+      "starsContains": 132,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "learn-system-design",
+          "fullName": "madhank93/learn-system-design",
+          "stars": 132,
+          "url": "https://github.com/madhank93/learn-system-design",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

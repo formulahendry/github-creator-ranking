@@ -1,0 +1,62 @@
+{
+  "login": "jaredpalmer",
+  "name": "Jared Palmer",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/4060187?v=4",
+  "htmlUrl": "https://github.com/jaredpalmer",
+  "location": "New York, NY",
+  "countryCode": "US",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 59535,
+      "repoCountPrimary": 12,
+      "starsContains": 59535,
+      "repoCountContains": 12,
+      "globalRank": 11,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "formik",
+          "fullName": "jaredpalmer/formik",
+          "stars": 34357,
+          "url": "https://github.com/jaredpalmer/formik",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "tsdx",
+          "fullName": "jaredpalmer/tsdx",
+          "stars": 11466,
+          "url": "https://github.com/jaredpalmer/tsdx",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "the-platform",
+          "fullName": "jaredpalmer/the-platform",
+          "stars": 4377,
+          "url": "https://github.com/jaredpalmer/the-platform",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "after.js",
+          "fullName": "jaredpalmer/after.js",
+          "stars": 4097,
+          "url": "https://github.com/jaredpalmer/after.js",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-fns",
+          "fullName": "jaredpalmer/react-fns",
+          "stars": 3706,
+          "url": "https://github.com/jaredpalmer/react-fns",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

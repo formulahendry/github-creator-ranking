@@ -1,0 +1,48 @@
+{
+  "login": "damienbod",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3442158?v=4",
+  "htmlUrl": "https://github.com/damienbod",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2155,
+      "repoCountPrimary": 3,
+      "starsContains": 2155,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "angular-auth-oidc-client",
+          "fullName": "damienbod/angular-auth-oidc-client",
+          "stars": 1232,
+          "url": "https://github.com/damienbod/angular-auth-oidc-client",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "AspNet6IdentityServer4AngularOidcFlows",
+          "fullName": "damienbod/AspNet6IdentityServer4AngularOidcFlows",
+          "stars": 722,
+          "url": "https://github.com/damienbod/AspNet6IdentityServer4AngularOidcFlows",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "AspNetCoreAngularSignalR",
+          "fullName": "damienbod/AspNetCoreAngularSignalR",
+          "stars": 201,
+          "url": "https://github.com/damienbod/AspNetCoreAngularSignalR",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "mmpneo",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3977499?v=4",
+  "htmlUrl": "https://github.com/mmpneo",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 810,
+      "repoCountPrimary": 2,
+      "starsContains": 810,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "curses",
+          "fullName": "mmpneo/curses",
+          "stars": 705,
+          "url": "https://github.com/mmpneo/curses",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "simple-obs-stt",
+          "fullName": "mmpneo/simple-obs-stt",
+          "stars": 105,
+          "url": "https://github.com/mmpneo/simple-obs-stt",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

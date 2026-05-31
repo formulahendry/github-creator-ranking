@@ -1,0 +1,34 @@
+{
+  "login": "heysafronov",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/33483015?v=4",
+  "htmlUrl": "https://github.com/heysafronov",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 239,
+      "repoCountPrimary": 1,
+      "starsContains": 239,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "square-react-dashboard",
+          "fullName": "heysafronov/square-react-dashboard",
+          "stars": 239,
+          "url": "https://github.com/heysafronov/square-react-dashboard",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

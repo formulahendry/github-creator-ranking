@@ -1,0 +1,41 @@
+{
+  "login": "epiphone",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1923531?v=4",
+  "htmlUrl": "https://github.com/epiphone",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 556,
+      "repoCountPrimary": 2,
+      "starsContains": 556,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "routing-controllers-openapi",
+          "fullName": "epiphone/routing-controllers-openapi",
+          "stars": 315,
+          "url": "https://github.com/epiphone/routing-controllers-openapi",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "class-validator-jsonschema",
+          "fullName": "epiphone/class-validator-jsonschema",
+          "stars": 241,
+          "url": "https://github.com/epiphone/class-validator-jsonschema",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "Zagrios",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/40181755?v=4",
+  "htmlUrl": "https://github.com/Zagrios",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1083,
+      "repoCountPrimary": 1,
+      "starsContains": 1083,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "bs-manager",
+          "fullName": "Zagrios/bs-manager",
+          "stars": 1083,
+          "url": "https://github.com/Zagrios/bs-manager",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

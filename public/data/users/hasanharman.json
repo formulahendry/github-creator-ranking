@@ -1,0 +1,41 @@
+{
+  "login": "hasanharman",
+  "name": "Hasan Harman",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/26687041?v=4",
+  "htmlUrl": "https://github.com/hasanharman",
+  "location": "Istanbul",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3388,
+      "repoCountPrimary": 2,
+      "starsContains": 3388,
+      "repoCountContains": 2,
+      "globalRank": 794,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "form-builder",
+          "fullName": "hasanharman/form-builder",
+          "stars": 2681,
+          "url": "https://github.com/hasanharman/form-builder",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "isomiddleearth",
+          "fullName": "hasanharman/isomiddleearth",
+          "stars": 707,
+          "url": "https://github.com/hasanharman/isomiddleearth",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

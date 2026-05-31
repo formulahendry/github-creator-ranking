@@ -1,0 +1,34 @@
+{
+  "login": "jj811208",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/25342059?v=4",
+  "htmlUrl": "https://github.com/jj811208",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1708,
+      "repoCountPrimary": 1,
+      "starsContains": 1708,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "watching-you",
+          "fullName": "jj811208/watching-you",
+          "stars": 1708,
+          "url": "https://github.com/jj811208/watching-you",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

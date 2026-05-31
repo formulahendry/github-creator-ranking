@@ -1,0 +1,41 @@
+{
+  "login": "Lusito",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1135267?v=4",
+  "htmlUrl": "https://github.com/Lusito",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 626,
+      "repoCountPrimary": 2,
+      "starsContains": 626,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "webextension-polyfill-ts",
+          "fullName": "Lusito/webextension-polyfill-ts",
+          "stars": 398,
+          "url": "https://github.com/Lusito/webextension-polyfill-ts",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "forget-me-not",
+          "fullName": "Lusito/forget-me-not",
+          "stars": 228,
+          "url": "https://github.com/Lusito/forget-me-not",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "login": "codinginflow",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/52977034?v=4",
+  "htmlUrl": "https://github.com/codinginflow",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 674,
+      "repoCountPrimary": 3,
+      "starsContains": 674,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "nextjs-15-social-media-app",
+          "fullName": "codinginflow/nextjs-15-social-media-app",
+          "stars": 419,
+          "url": "https://github.com/codinginflow/nextjs-15-social-media-app",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "nextjs-15-ai-resume-builder",
+          "fullName": "codinginflow/nextjs-15-ai-resume-builder",
+          "stars": 144,
+          "url": "https://github.com/codinginflow/nextjs-15-ai-resume-builder",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "nextjs-job-board",
+          "fullName": "codinginflow/nextjs-job-board",
+          "stars": 111,
+          "url": "https://github.com/codinginflow/nextjs-job-board",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

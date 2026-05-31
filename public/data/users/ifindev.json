@@ -1,0 +1,34 @@
+{
+  "login": "ifindev",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/60772169?v=4",
+  "htmlUrl": "https://github.com/ifindev",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1349,
+      "repoCountPrimary": 1,
+      "starsContains": 1349,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "fullstack-next-cloudflare",
+          "fullName": "ifindev/fullstack-next-cloudflare",
+          "stars": 1349,
+          "url": "https://github.com/ifindev/fullstack-next-cloudflare",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

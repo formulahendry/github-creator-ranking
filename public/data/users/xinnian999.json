@@ -1,0 +1,34 @@
+{
+  "login": "xinnian999",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/83170875?v=4",
+  "htmlUrl": "https://github.com/xinnian999",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 502,
+      "repoCountPrimary": 1,
+      "starsContains": 502,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vue-form-craft",
+          "fullName": "xinnian999/vue-form-craft",
+          "stars": 502,
+          "url": "https://github.com/xinnian999/vue-form-craft",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

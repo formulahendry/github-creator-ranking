@@ -1,0 +1,48 @@
+{
+  "login": "TahaSh",
+  "name": "Taha Shashtari",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5775341?v=4",
+  "htmlUrl": "https://github.com/TahaSh",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 9418,
+      "repoCountPrimary": 3,
+      "starsContains": 9418,
+      "repoCountContains": 3,
+      "globalRank": 240,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "swapy",
+          "fullName": "TahaSh/swapy",
+          "stars": 8482,
+          "url": "https://github.com/TahaSh/swapy",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "blendy",
+          "fullName": "TahaSh/blendy",
+          "stars": 678,
+          "url": "https://github.com/TahaSh/blendy",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "veloxi",
+          "fullName": "TahaSh/veloxi",
+          "stars": 258,
+          "url": "https://github.com/TahaSh/veloxi",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

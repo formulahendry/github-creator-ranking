@@ -1,0 +1,41 @@
+{
+  "login": "wpcfan",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/85388?v=4",
+  "htmlUrl": "https://github.com/wpcfan",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 548,
+      "repoCountPrimary": 2,
+      "starsContains": 548,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "awesome-tutorials",
+          "fullName": "wpcfan/awesome-tutorials",
+          "stars": 444,
+          "url": "https://github.com/wpcfan/awesome-tutorials",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "taskmgr",
+          "fullName": "wpcfan/taskmgr",
+          "stars": 104,
+          "url": "https://github.com/wpcfan/taskmgr",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

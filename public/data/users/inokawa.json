@@ -1,0 +1,62 @@
+{
+  "login": "inokawa",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/48897392?v=4",
+  "htmlUrl": "https://github.com/inokawa",
+  "location": "Kanagawa, Japan",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 4765,
+      "repoCountPrimary": 7,
+      "starsContains": 4765,
+      "repoCountContains": 7,
+      "globalRank": 537,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "virtua",
+          "fullName": "inokawa/virtua",
+          "stars": 3584,
+          "url": "https://github.com/inokawa/virtua",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "rich-textarea",
+          "fullName": "inokawa/rich-textarea",
+          "stars": 412,
+          "url": "https://github.com/inokawa/rich-textarea",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-native-react-bridge",
+          "fullName": "inokawa/react-native-react-bridge",
+          "stars": 297,
+          "url": "https://github.com/inokawa/react-native-react-bridge",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "editate",
+          "fullName": "inokawa/editate",
+          "stars": 122,
+          "url": "https://github.com/inokawa/editate",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "remark-slate-transformer",
+          "fullName": "inokawa/remark-slate-transformer",
+          "stars": 121,
+          "url": "https://github.com/inokawa/remark-slate-transformer",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

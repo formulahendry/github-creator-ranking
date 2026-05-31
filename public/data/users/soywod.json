@@ -1,0 +1,34 @@
+{
+  "login": "soywod",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/10437171?v=4",
+  "htmlUrl": "https://github.com/soywod",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 418,
+      "repoCountPrimary": 1,
+      "starsContains": 418,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-pin-field",
+          "fullName": "soywod/react-pin-field",
+          "stars": 418,
+          "url": "https://github.com/soywod/react-pin-field",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

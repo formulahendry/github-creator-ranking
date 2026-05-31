@@ -1,0 +1,62 @@
+{
+  "login": "mattpocock",
+  "name": "Matt Pocock",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/28293365?v=4",
+  "htmlUrl": "https://github.com/mattpocock",
+  "location": "Oxfordshire",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 23430,
+      "repoCountPrimary": 16,
+      "starsContains": 23430,
+      "repoCountContains": 16,
+      "globalRank": 71,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ts-reset",
+          "fullName": "mattpocock/ts-reset",
+          "stars": 8514,
+          "url": "https://github.com/mattpocock/ts-reset",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "sandcastle",
+          "fullName": "mattpocock/sandcastle",
+          "stars": 5548,
+          "url": "https://github.com/mattpocock/sandcastle",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ts-error-translator",
+          "fullName": "mattpocock/ts-error-translator",
+          "stars": 2450,
+          "url": "https://github.com/mattpocock/ts-error-translator",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "dictionary-of-ai-coding",
+          "fullName": "mattpocock/dictionary-of-ai-coding",
+          "stars": 1946,
+          "url": "https://github.com/mattpocock/dictionary-of-ai-coding",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "evalite",
+          "fullName": "mattpocock/evalite",
+          "stars": 1580,
+          "url": "https://github.com/mattpocock/evalite",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

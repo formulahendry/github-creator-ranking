@@ -1,0 +1,41 @@
+{
+  "login": "Yuri-NagaSaki",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/77047823?v=4",
+  "htmlUrl": "https://github.com/Yuri-NagaSaki",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 944,
+      "repoCountPrimary": 2,
+      "starsContains": 944,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ImageFlow",
+          "fullName": "Yuri-NagaSaki/ImageFlow",
+          "stars": 596,
+          "url": "https://github.com/Yuri-NagaSaki/ImageFlow",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "CattoPic",
+          "fullName": "Yuri-NagaSaki/CattoPic",
+          "stars": 348,
+          "url": "https://github.com/Yuri-NagaSaki/CattoPic",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

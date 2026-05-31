@@ -1,0 +1,55 @@
+{
+  "login": "ecklf",
+  "name": "Florentin / 珞辰",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/8146736?v=4",
+  "htmlUrl": "https://github.com/ecklf",
+  "location": "Munich, Germany",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2837,
+      "repoCountPrimary": 4,
+      "starsContains": 2837,
+      "repoCountContains": 4,
+      "globalRank": 937,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "tailwindcss-radix",
+          "fullName": "ecklf/tailwindcss-radix",
+          "stars": 2171,
+          "url": "https://github.com/ecklf/tailwindcss-radix",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "tailwindcss-figma-plugin",
+          "fullName": "ecklf/tailwindcss-figma-plugin",
+          "stars": 274,
+          "url": "https://github.com/ecklf/tailwindcss-figma-plugin",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-hooks-mobx-state-tree",
+          "fullName": "ecklf/react-hooks-mobx-state-tree",
+          "stars": 249,
+          "url": "https://github.com/ecklf/react-hooks-mobx-state-tree",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-native-heroicons",
+          "fullName": "ecklf/react-native-heroicons",
+          "stars": 143,
+          "url": "https://github.com/ecklf/react-native-heroicons",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

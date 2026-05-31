@@ -1,0 +1,34 @@
+{
+  "login": "relsunkaev",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/35545693?v=4",
+  "htmlUrl": "https://github.com/relsunkaev",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 179,
+      "repoCountPrimary": 1,
+      "starsContains": 179,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "effect-qb",
+          "fullName": "relsunkaev/effect-qb",
+          "stars": 179,
+          "url": "https://github.com/relsunkaev/effect-qb",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

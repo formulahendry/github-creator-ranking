@@ -1,0 +1,48 @@
+{
+  "login": "artisticat1",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/100622574?v=4",
+  "htmlUrl": "https://github.com/artisticat1",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3183,
+      "repoCountPrimary": 3,
+      "starsContains": 3183,
+      "repoCountContains": 3,
+      "globalRank": 843,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "obsidian-latex-suite",
+          "fullName": "artisticat1/obsidian-latex-suite",
+          "stars": 2375,
+          "url": "https://github.com/artisticat1/obsidian-latex-suite",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "obsidian-tikzjax",
+          "fullName": "artisticat1/obsidian-tikzjax",
+          "stars": 674,
+          "url": "https://github.com/artisticat1/obsidian-tikzjax",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "nl-syntax-highlighting",
+          "fullName": "artisticat1/nl-syntax-highlighting",
+          "stars": 134,
+          "url": "https://github.com/artisticat1/nl-syntax-highlighting",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

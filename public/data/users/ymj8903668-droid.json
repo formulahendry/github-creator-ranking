@@ -1,0 +1,34 @@
+{
+  "login": "ymj8903668-droid",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/235846481?v=4",
+  "htmlUrl": "https://github.com/ymj8903668-droid",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 145,
+      "repoCountPrimary": 1,
+      "starsContains": 145,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "trading-review-wiki",
+          "fullName": "ymj8903668-droid/trading-review-wiki",
+          "stars": 145,
+          "url": "https://github.com/ymj8903668-droid/trading-review-wiki",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

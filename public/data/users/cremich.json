@@ -1,0 +1,41 @@
+{
+  "login": "cremich",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5345186?v=4",
+  "htmlUrl": "https://github.com/cremich",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 595,
+      "repoCountPrimary": 2,
+      "starsContains": 595,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "cdk-bill-bot",
+          "fullName": "cremich/cdk-bill-bot",
+          "stars": 487,
+          "url": "https://github.com/cremich/cdk-bill-bot",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "promptz",
+          "fullName": "cremich/promptz",
+          "stars": 108,
+          "url": "https://github.com/cremich/promptz",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

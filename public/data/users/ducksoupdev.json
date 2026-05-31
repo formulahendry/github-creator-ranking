@@ -1,0 +1,34 @@
+{
+  "login": "ducksoupdev",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/946879?v=4",
+  "htmlUrl": "https://github.com/ducksoupdev",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 652,
+      "repoCountPrimary": 1,
+      "starsContains": 652,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vue-webpack-typescript",
+          "fullName": "ducksoupdev/vue-webpack-typescript",
+          "stars": 652,
+          "url": "https://github.com/ducksoupdev/vue-webpack-typescript",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

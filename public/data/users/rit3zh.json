@@ -1,0 +1,62 @@
+{
+  "login": "rit3zh",
+  "name": "Ritesh.",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/119659853?v=4",
+  "htmlUrl": "https://github.com/rit3zh",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3628,
+      "repoCountPrimary": 13,
+      "starsContains": 3628,
+      "repoCountContains": 13,
+      "globalRank": 735,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "reacticx",
+          "fullName": "rit3zh/reacticx",
+          "stars": 1326,
+          "url": "https://github.com/rit3zh/reacticx",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "expo-liquid-glass-view",
+          "fullName": "rit3zh/expo-liquid-glass-view",
+          "stars": 337,
+          "url": "https://github.com/rit3zh/expo-liquid-glass-view",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "toastiva",
+          "fullName": "rit3zh/toastiva",
+          "stars": 266,
+          "url": "https://github.com/rit3zh/toastiva",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "expo-progressive-blur",
+          "fullName": "rit3zh/expo-progressive-blur",
+          "stars": 233,
+          "url": "https://github.com/rit3zh/expo-progressive-blur",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "expo-animated-toast",
+          "fullName": "rit3zh/expo-animated-toast",
+          "stars": 227,
+          "url": "https://github.com/rit3zh/expo-animated-toast",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

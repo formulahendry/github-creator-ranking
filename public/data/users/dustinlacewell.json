@@ -1,0 +1,34 @@
+{
+  "login": "dustinlacewell",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/53952?v=4",
+  "htmlUrl": "https://github.com/dustinlacewell",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 132,
+      "repoCountPrimary": 1,
+      "starsContains": 132,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-ecs",
+          "fullName": "dustinlacewell/react-ecs",
+          "stars": 132,
+          "url": "https://github.com/dustinlacewell/react-ecs",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

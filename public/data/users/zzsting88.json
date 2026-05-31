@@ -1,0 +1,34 @@
+{
+  "login": "zzsting88",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/266769555?v=4",
+  "htmlUrl": "https://github.com/zzsting88",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1770,
+      "repoCountPrimary": 1,
+      "starsContains": 1770,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "relayAPI",
+          "fullName": "zzsting88/relayAPI",
+          "stars": 1770,
+          "url": "https://github.com/zzsting88/relayAPI",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

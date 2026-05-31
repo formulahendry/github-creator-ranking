@@ -1,0 +1,41 @@
+{
+  "login": "leoMirandaa",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/61714687?v=4",
+  "htmlUrl": "https://github.com/leoMirandaa",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2022,
+      "repoCountPrimary": 2,
+      "starsContains": 2022,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "shadcn-landing-page",
+          "fullName": "leoMirandaa/shadcn-landing-page",
+          "stars": 1919,
+          "url": "https://github.com/leoMirandaa/shadcn-landing-page",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "portfolio",
+          "fullName": "leoMirandaa/portfolio",
+          "stars": 103,
+          "url": "https://github.com/leoMirandaa/portfolio",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

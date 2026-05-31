@@ -1,0 +1,62 @@
+{
+  "login": "steveruizok",
+  "name": "Steve Ruiz",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/23072548?v=4",
+  "htmlUrl": "https://github.com/steveruizok",
+  "location": "London, UK",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 4504,
+      "repoCountPrimary": 6,
+      "starsContains": 4504,
+      "repoCountContains": 6,
+      "globalRank": 569,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "perfect-arrows",
+          "fullName": "steveruizok/perfect-arrows",
+          "stars": 2836,
+          "url": "https://github.com/steveruizok/perfect-arrows",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "perfect-cursors",
+          "fullName": "steveruizok/perfect-cursors",
+          "stars": 695,
+          "url": "https://github.com/steveruizok/perfect-cursors",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "telestrator",
+          "fullName": "steveruizok/telestrator",
+          "stars": 409,
+          "url": "https://github.com/steveruizok/telestrator",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "globs",
+          "fullName": "steveruizok/globs",
+          "stars": 245,
+          "url": "https://github.com/steveruizok/globs",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "rko",
+          "fullName": "steveruizok/rko",
+          "stars": 214,
+          "url": "https://github.com/steveruizok/rko",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

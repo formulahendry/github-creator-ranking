@@ -1,0 +1,41 @@
+{
+  "login": "benjsicam",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1850054?v=4",
+  "htmlUrl": "https://github.com/benjsicam",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 717,
+      "repoCountPrimary": 2,
+      "starsContains": 717,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "nestjs-rest-microservices",
+          "fullName": "benjsicam/nestjs-rest-microservices",
+          "stars": 466,
+          "url": "https://github.com/benjsicam/nestjs-rest-microservices",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "nestjs-graphql-microservices",
+          "fullName": "benjsicam/nestjs-graphql-microservices",
+          "stars": 251,
+          "url": "https://github.com/benjsicam/nestjs-graphql-microservices",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

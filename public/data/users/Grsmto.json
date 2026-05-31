@@ -1,0 +1,34 @@
+{
+  "login": "Grsmto",
+  "name": "Adrien Denat",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/527559?v=4",
+  "htmlUrl": "https://github.com/Grsmto",
+  "location": "London, UK",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 6405,
+      "repoCountPrimary": 1,
+      "starsContains": 6405,
+      "repoCountContains": 1,
+      "globalRank": 366,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "simplebar",
+          "fullName": "Grsmto/simplebar",
+          "stars": 6405,
+          "url": "https://github.com/Grsmto/simplebar",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

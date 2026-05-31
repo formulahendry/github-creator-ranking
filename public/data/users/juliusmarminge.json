@@ -1,0 +1,55 @@
+{
+  "login": "juliusmarminge",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/51714798?v=4",
+  "htmlUrl": "https://github.com/juliusmarminge",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1885,
+      "repoCountPrimary": 4,
+      "starsContains": 1885,
+      "repoCountContains": 4,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "acme-corp",
+          "fullName": "juliusmarminge/acme-corp",
+          "stars": 1180,
+          "url": "https://github.com/juliusmarminge/acme-corp",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "acme-corp-lib",
+          "fullName": "juliusmarminge/acme-corp-lib",
+          "stars": 311,
+          "url": "https://github.com/juliusmarminge/acme-corp-lib",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "t3-complete",
+          "fullName": "juliusmarminge/t3-complete",
+          "stars": 276,
+          "url": "https://github.com/juliusmarminge/t3-complete",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "trellix-trpc",
+          "fullName": "juliusmarminge/trellix-trpc",
+          "stars": 118,
+          "url": "https://github.com/juliusmarminge/trellix-trpc",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

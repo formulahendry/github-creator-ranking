@@ -1,0 +1,34 @@
+{
+  "login": "miikkaylisiurunen",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/69872897?v=4",
+  "htmlUrl": "https://github.com/miikkaylisiurunen",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 273,
+      "repoCountPrimary": 1,
+      "starsContains": 273,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "raycast-ai-openrouter-proxy",
+          "fullName": "miikkaylisiurunen/raycast-ai-openrouter-proxy",
+          "stars": 273,
+          "url": "https://github.com/miikkaylisiurunen/raycast-ai-openrouter-proxy",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "komarovalexander",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/17903747?v=4",
+  "htmlUrl": "https://github.com/komarovalexander",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 852,
+      "repoCountPrimary": 1,
+      "starsContains": 852,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ka-table",
+          "fullName": "komarovalexander/ka-table",
+          "stars": 852,
+          "url": "https://github.com/komarovalexander/ka-table",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

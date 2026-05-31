@@ -1,0 +1,34 @@
+{
+  "login": "YishenTu",
+  "name": "Yishen Tu",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/134207149?v=4",
+  "htmlUrl": "https://github.com/YishenTu",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 12119,
+      "repoCountPrimary": 1,
+      "starsContains": 12119,
+      "repoCountContains": 1,
+      "globalRank": 168,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "claudian",
+          "fullName": "YishenTu/claudian",
+          "stars": 12119,
+          "url": "https://github.com/YishenTu/claudian",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

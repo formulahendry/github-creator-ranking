@@ -1,0 +1,34 @@
+{
+  "login": "hcg1023",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/47942469?v=4",
+  "htmlUrl": "https://github.com/hcg1023",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 716,
+      "repoCountPrimary": 1,
+      "starsContains": 716,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vue3-dnd",
+          "fullName": "hcg1023/vue3-dnd",
+          "stars": 716,
+          "url": "https://github.com/hcg1023/vue3-dnd",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

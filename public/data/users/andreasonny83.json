@@ -1,0 +1,34 @@
+{
+  "login": "andreasonny83",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/8806300?v=4",
+  "htmlUrl": "https://github.com/andreasonny83",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 684,
+      "repoCountPrimary": 1,
+      "starsContains": 684,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "unique-names-generator",
+          "fullName": "andreasonny83/unique-names-generator",
+          "stars": 684,
+          "url": "https://github.com/andreasonny83/unique-names-generator",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

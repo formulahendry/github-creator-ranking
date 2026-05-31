@@ -1,0 +1,48 @@
+{
+  "login": "otaviolemos",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1864126?v=4",
+  "htmlUrl": "https://github.com/otaviolemos",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 867,
+      "repoCountPrimary": 3,
+      "starsContains": 867,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "thewisedev-mailing",
+          "fullName": "otaviolemos/thewisedev-mailing",
+          "stars": 495,
+          "url": "https://github.com/otaviolemos/thewisedev-mailing",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "thewisepad-core",
+          "fullName": "otaviolemos/thewisepad-core",
+          "stars": 265,
+          "url": "https://github.com/otaviolemos/thewisepad-core",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "giveaway",
+          "fullName": "otaviolemos/giveaway",
+          "stars": 107,
+          "url": "https://github.com/otaviolemos/giveaway",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

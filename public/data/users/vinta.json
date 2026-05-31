@@ -1,0 +1,34 @@
+{
+  "login": "vinta",
+  "name": "Vinta Chen",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/652070?v=4",
+  "htmlUrl": "https://github.com/vinta",
+  "location": "Taiwan",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 4763,
+      "repoCountPrimary": 1,
+      "starsContains": 4763,
+      "repoCountContains": 1,
+      "globalRank": 538,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "pangu.js",
+          "fullName": "vinta/pangu.js",
+          "stars": 4763,
+          "url": "https://github.com/vinta/pangu.js",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

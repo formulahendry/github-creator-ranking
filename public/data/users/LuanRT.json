@@ -1,0 +1,48 @@
+{
+  "login": "LuanRT",
+  "name": "Luan",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/30878106?v=4",
+  "htmlUrl": "https://github.com/LuanRT",
+  "location": "Pale Blue Dot",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 5380,
+      "repoCountPrimary": 3,
+      "starsContains": 5380,
+      "repoCountContains": 3,
+      "globalRank": 460,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "YouTube.js",
+          "fullName": "LuanRT/YouTube.js",
+          "stars": 4966,
+          "url": "https://github.com/LuanRT/YouTube.js",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "BgUtils",
+          "fullName": "LuanRT/BgUtils",
+          "stars": 272,
+          "url": "https://github.com/LuanRT/BgUtils",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "googlevideo",
+          "fullName": "LuanRT/googlevideo",
+          "stars": 142,
+          "url": "https://github.com/LuanRT/googlevideo",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

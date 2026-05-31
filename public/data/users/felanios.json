@@ -1,0 +1,34 @@
+{
+  "login": "felanios",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/75332507?v=4",
+  "htmlUrl": "https://github.com/felanios",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 107,
+      "repoCountPrimary": 1,
+      "starsContains": 107,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "murlock",
+          "fullName": "felanios/murlock",
+          "stars": 107,
+          "url": "https://github.com/felanios/murlock",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

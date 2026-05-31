@@ -1,0 +1,41 @@
+{
+  "login": "orta",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/49038?v=4",
+  "htmlUrl": "https://github.com/orta",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 623,
+      "repoCountPrimary": 2,
+      "starsContains": 623,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vscode-twoslash-queries",
+          "fullName": "orta/vscode-twoslash-queries",
+          "stars": 458,
+          "url": "https://github.com/orta/vscode-twoslash-queries",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vscode-react-native-storybooks",
+          "fullName": "orta/vscode-react-native-storybooks",
+          "stars": 165,
+          "url": "https://github.com/orta/vscode-react-native-storybooks",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

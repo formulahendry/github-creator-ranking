@@ -1,0 +1,41 @@
+{
+  "login": "jacobparis",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5633704?v=4",
+  "htmlUrl": "https://github.com/jacobparis",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 478,
+      "repoCountPrimary": 2,
+      "starsContains": 478,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "underkill-stack",
+          "fullName": "jacobparis/underkill-stack",
+          "stars": 268,
+          "url": "https://github.com/jacobparis/underkill-stack",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "with-react",
+          "fullName": "jacobparis/with-react",
+          "stars": 210,
+          "url": "https://github.com/jacobparis/with-react",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

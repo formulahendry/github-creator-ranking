@@ -1,0 +1,41 @@
+{
+  "login": "xenova",
+  "name": "Joshua Lochner",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/26504141?v=4",
+  "htmlUrl": "https://github.com/xenova",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3503,
+      "repoCountPrimary": 2,
+      "starsContains": 3503,
+      "repoCountContains": 2,
+      "globalRank": 768,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "whisper-web",
+          "fullName": "xenova/whisper-web",
+          "stars": 3325,
+          "url": "https://github.com/xenova/whisper-web",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "kokoro-web",
+          "fullName": "xenova/kokoro-web",
+          "stars": 178,
+          "url": "https://github.com/xenova/kokoro-web",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

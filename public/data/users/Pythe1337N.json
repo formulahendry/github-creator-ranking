@@ -1,0 +1,34 @@
+{
+  "login": "Pythe1337N",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/34023103?v=4",
+  "htmlUrl": "https://github.com/Pythe1337N",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 191,
+      "repoCountPrimary": 1,
+      "starsContains": 191,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "garmin-connect",
+          "fullName": "Pythe1337N/garmin-connect",
+          "stars": 191,
+          "url": "https://github.com/Pythe1337N/garmin-connect",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

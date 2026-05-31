@@ -1,0 +1,41 @@
+{
+  "login": "sankeyangshu",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/64878070?v=4",
+  "htmlUrl": "https://github.com/sankeyangshu",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 666,
+      "repoCountPrimary": 2,
+      "starsContains": 666,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "lemon-admin",
+          "fullName": "sankeyangshu/lemon-admin",
+          "stars": 394,
+          "url": "https://github.com/sankeyangshu/lemon-admin",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "lemon-mobile-react",
+          "fullName": "sankeyangshu/lemon-mobile-react",
+          "stars": 272,
+          "url": "https://github.com/sankeyangshu/lemon-mobile-react",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

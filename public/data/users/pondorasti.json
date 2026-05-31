@@ -1,0 +1,41 @@
+{
+  "login": "pondorasti",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/32957606?v=4",
+  "htmlUrl": "https://github.com/pondorasti",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2272,
+      "repoCountPrimary": 2,
+      "starsContains": 2272,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "emojis",
+          "fullName": "pondorasti/emojis",
+          "stars": 1769,
+          "url": "https://github.com/pondorasti/emojis",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "tailwindcss-snippets",
+          "fullName": "pondorasti/tailwindcss-snippets",
+          "stars": 503,
+          "url": "https://github.com/pondorasti/tailwindcss-snippets",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

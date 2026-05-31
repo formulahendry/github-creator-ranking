@@ -1,0 +1,41 @@
+{
+  "login": "Sloaix",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2627625?v=4",
+  "htmlUrl": "https://github.com/Sloaix",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 504,
+      "repoCountPrimary": 2,
+      "starsContains": 504,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Gofi",
+          "fullName": "Sloaix/Gofi",
+          "stars": 342,
+          "url": "https://github.com/Sloaix/Gofi",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "qiniu4js",
+          "fullName": "Sloaix/qiniu4js",
+          "stars": 162,
+          "url": "https://github.com/Sloaix/qiniu4js",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

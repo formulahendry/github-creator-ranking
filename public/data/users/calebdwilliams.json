@@ -1,0 +1,41 @@
+{
+  "login": "calebdwilliams",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3129393?v=4",
+  "htmlUrl": "https://github.com/calebdwilliams",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 249,
+      "repoCountPrimary": 2,
+      "starsContains": 249,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "construct-style-sheets",
+          "fullName": "calebdwilliams/construct-style-sheets",
+          "stars": 144,
+          "url": "https://github.com/calebdwilliams/construct-style-sheets",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "element-internals-polyfill",
+          "fullName": "calebdwilliams/element-internals-polyfill",
+          "stars": 105,
+          "url": "https://github.com/calebdwilliams/element-internals-polyfill",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

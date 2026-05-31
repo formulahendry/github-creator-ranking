@@ -1,0 +1,41 @@
+{
+  "login": "Yamazaki93",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/38804680?v=4",
+  "htmlUrl": "https://github.com/Yamazaki93",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 294,
+      "repoCountPrimary": 2,
+      "starsContains": 294,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "MetroGit",
+          "fullName": "Yamazaki93/MetroGit",
+          "stars": 161,
+          "url": "https://github.com/Yamazaki93/MetroGit",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "S3Uploader",
+          "fullName": "Yamazaki93/S3Uploader",
+          "stars": 133,
+          "url": "https://github.com/Yamazaki93/S3Uploader",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

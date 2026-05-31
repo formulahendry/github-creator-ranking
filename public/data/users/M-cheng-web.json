@@ -1,0 +1,34 @@
+{
+  "login": "M-cheng-web",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/58416262?v=4",
+  "htmlUrl": "https://github.com/M-cheng-web",
+  "location": "HangZhou",
+  "countryCode": "CN",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2927,
+      "repoCountPrimary": 1,
+      "starsContains": 2927,
+      "repoCountContains": 1,
+      "globalRank": 921,
+      "countryRank": 111,
+      "topRepos": [
+        {
+          "name": "web-tracing",
+          "fullName": "M-cheng-web/web-tracing",
+          "stars": 2927,
+          "url": "https://github.com/M-cheng-web/web-tracing",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

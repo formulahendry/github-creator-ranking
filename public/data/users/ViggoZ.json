@@ -1,0 +1,41 @@
+{
+  "login": "ViggoZ",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/10386656?v=4",
+  "htmlUrl": "https://github.com/ViggoZ",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 620,
+      "repoCountPrimary": 2,
+      "starsContains": 620,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "hackernews-cn",
+          "fullName": "ViggoZ/hackernews-cn",
+          "stars": 345,
+          "url": "https://github.com/ViggoZ/hackernews-cn",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "json-translate",
+          "fullName": "ViggoZ/json-translate",
+          "stars": 275,
+          "url": "https://github.com/ViggoZ/json-translate",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

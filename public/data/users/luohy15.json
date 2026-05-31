@@ -1,0 +1,41 @@
+{
+  "login": "luohy15",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/15189961?v=4",
+  "htmlUrl": "https://github.com/luohy15",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 553,
+      "repoCountPrimary": 2,
+      "starsContains": 553,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "y-router",
+          "fullName": "luohy15/y-router",
+          "stars": 384,
+          "url": "https://github.com/luohy15/y-router",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "y-gui",
+          "fullName": "luohy15/y-gui",
+          "stars": 169,
+          "url": "https://github.com/luohy15/y-gui",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

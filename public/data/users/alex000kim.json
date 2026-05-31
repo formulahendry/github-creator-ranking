@@ -1,0 +1,34 @@
+{
+  "login": "alex000kim",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/17241029?v=4",
+  "htmlUrl": "https://github.com/alex000kim",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 227,
+      "repoCountPrimary": 1,
+      "starsContains": 227,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "claude-code",
+          "fullName": "alex000kim/claude-code",
+          "stars": 227,
+          "url": "https://github.com/alex000kim/claude-code",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

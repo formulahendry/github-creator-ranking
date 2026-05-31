@@ -1,0 +1,41 @@
+{
+  "login": "lexmin0412",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/24385370?v=4",
+  "htmlUrl": "https://github.com/lexmin0412",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 890,
+      "repoCountPrimary": 2,
+      "starsContains": 890,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "dify-app-hub",
+          "fullName": "lexmin0412/dify-app-hub",
+          "stars": 761,
+          "url": "https://github.com/lexmin0412/dify-app-hub",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "taro3-react-template",
+          "fullName": "lexmin0412/taro3-react-template",
+          "stars": 129,
+          "url": "https://github.com/lexmin0412/taro3-react-template",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

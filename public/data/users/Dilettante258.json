@@ -1,0 +1,34 @@
+{
+  "login": "Dilettante258",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/113875344?v=4",
+  "htmlUrl": "https://github.com/Dilettante258",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 115,
+      "repoCountPrimary": 1,
+      "starsContains": 115,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "eazy-tieba",
+          "fullName": "Dilettante258/eazy-tieba",
+          "stars": 115,
+          "url": "https://github.com/Dilettante258/eazy-tieba",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

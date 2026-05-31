@@ -1,0 +1,34 @@
+{
+  "login": "szimek",
+  "name": "Szymon Nowak",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/9873?v=4",
+  "htmlUrl": "https://github.com/szimek",
+  "location": "Poland",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 11945,
+      "repoCountPrimary": 1,
+      "starsContains": 11945,
+      "repoCountContains": 1,
+      "globalRank": 173,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "signature_pad",
+          "fullName": "szimek/signature_pad",
+          "stars": 11945,
+          "url": "https://github.com/szimek/signature_pad",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

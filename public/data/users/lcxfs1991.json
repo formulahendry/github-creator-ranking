@@ -1,0 +1,34 @@
+{
+  "login": "lcxfs1991",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3348398?v=4",
+  "htmlUrl": "https://github.com/lcxfs1991",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2186,
+      "repoCountPrimary": 1,
+      "starsContains": 2186,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "blog",
+          "fullName": "lcxfs1991/blog",
+          "stars": 2186,
+          "url": "https://github.com/lcxfs1991/blog",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

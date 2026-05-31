@@ -1,0 +1,34 @@
+{
+  "login": "dancancro",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/880033?v=4",
+  "htmlUrl": "https://github.com/dancancro",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 925,
+      "repoCountPrimary": 1,
+      "starsContains": 925,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "great-big-example-application",
+          "fullName": "dancancro/great-big-example-application",
+          "stars": 925,
+          "url": "https://github.com/dancancro/great-big-example-application",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

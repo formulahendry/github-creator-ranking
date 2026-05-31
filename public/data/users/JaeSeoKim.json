@@ -1,0 +1,41 @@
+{
+  "login": "JaeSeoKim",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/48559454?v=4",
+  "htmlUrl": "https://github.com/JaeSeoKim",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 744,
+      "repoCountPrimary": 2,
+      "starsContains": 744,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "badge42",
+          "fullName": "JaeSeoKim/badge42",
+          "stars": 427,
+          "url": "https://github.com/JaeSeoKim/badge42",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-kakao-maps-sdk",
+          "fullName": "JaeSeoKim/react-kakao-maps-sdk",
+          "stars": 317,
+          "url": "https://github.com/JaeSeoKim/react-kakao-maps-sdk",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

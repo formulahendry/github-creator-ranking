@@ -1,0 +1,34 @@
+{
+  "login": "knowbody",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3802023?v=4",
+  "htmlUrl": "https://github.com/knowbody",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 269,
+      "repoCountPrimary": 1,
+      "starsContains": 269,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-native-text",
+          "fullName": "knowbody/react-native-text",
+          "stars": 269,
+          "url": "https://github.com/knowbody/react-native-text",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "login": "iamcco",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5492542?v=4",
+  "htmlUrl": "https://github.com/iamcco",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2234,
+      "repoCountPrimary": 8,
+      "starsContains": 2234,
+      "repoCountContains": 8,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "coc-flutter",
+          "fullName": "iamcco/coc-flutter",
+          "stars": 480,
+          "url": "https://github.com/iamcco/coc-flutter",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "diagnostic-languageserver",
+          "fullName": "iamcco/diagnostic-languageserver",
+          "stars": 437,
+          "url": "https://github.com/iamcco/diagnostic-languageserver",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "coc-tailwindcss",
+          "fullName": "iamcco/coc-tailwindcss",
+          "stars": 336,
+          "url": "https://github.com/iamcco/coc-tailwindcss",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "coc-spell-checker",
+          "fullName": "iamcco/coc-spell-checker",
+          "stars": 272,
+          "url": "https://github.com/iamcco/coc-spell-checker",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "coc-diagnostic",
+          "fullName": "iamcco/coc-diagnostic",
+          "stars": 245,
+          "url": "https://github.com/iamcco/coc-diagnostic",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "LinusBorg",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1444526?v=4",
+  "htmlUrl": "https://github.com/LinusBorg",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 391,
+      "repoCountPrimary": 2,
+      "starsContains": 391,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vue-mixable",
+          "fullName": "LinusBorg/vue-mixable",
+          "stars": 284,
+          "url": "https://github.com/LinusBorg/vue-mixable",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vue-lib-template",
+          "fullName": "LinusBorg/vue-lib-template",
+          "stars": 107,
+          "url": "https://github.com/LinusBorg/vue-lib-template",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

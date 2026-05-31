@@ -1,0 +1,41 @@
+{
+  "login": "jasonjgardner",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1903667?v=4",
+  "htmlUrl": "https://github.com/jasonjgardner",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 328,
+      "repoCountPrimary": 2,
+      "starsContains": 328,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "blockbench-mcp-plugin",
+          "fullName": "jasonjgardner/blockbench-mcp-plugin",
+          "stars": 195,
+          "url": "https://github.com/jasonjgardner/blockbench-mcp-plugin",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "jg-rtx",
+          "fullName": "jasonjgardner/jg-rtx",
+          "stars": 133,
+          "url": "https://github.com/jasonjgardner/jg-rtx",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

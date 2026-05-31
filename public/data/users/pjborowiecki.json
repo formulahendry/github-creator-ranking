@@ -1,0 +1,41 @@
+{
+  "login": "pjborowiecki",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/27385980?v=4",
+  "htmlUrl": "https://github.com/pjborowiecki",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 585,
+      "repoCountPrimary": 2,
+      "starsContains": 585,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "saasyland.com",
+          "fullName": "pjborowiecki/saasyland.com",
+          "stars": 429,
+          "url": "https://github.com/pjborowiecki/saasyland.com",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ARKA-Veterinary-Clinic-Page-and-Appointment-Booking-System",
+          "fullName": "pjborowiecki/ARKA-Veterinary-Clinic-Page-and-Appointment-Booking-System",
+          "stars": 156,
+          "url": "https://github.com/pjborowiecki/ARKA-Veterinary-Clinic-Page-and-Appointment-Booking-System",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "ryo-ma",
+  "name": "ryo-ma",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6661165?v=4",
+  "htmlUrl": "https://github.com/ryo-ma",
+  "location": "Tokyo, Japan",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 6706,
+      "repoCountPrimary": 2,
+      "starsContains": 6706,
+      "repoCountContains": 2,
+      "globalRank": 350,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "github-profile-trophy",
+          "fullName": "ryo-ma/github-profile-trophy",
+          "stars": 6546,
+          "url": "https://github.com/ryo-ma/github-profile-trophy",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "deno-websocket",
+          "fullName": "ryo-ma/deno-websocket",
+          "stars": 160,
+          "url": "https://github.com/ryo-ma/deno-websocket",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

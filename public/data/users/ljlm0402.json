@@ -1,0 +1,34 @@
+{
+  "login": "ljlm0402",
+  "name": "아구몬",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/42952358?v=4",
+  "htmlUrl": "https://github.com/ljlm0402",
+  "location": "Seoul",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2884,
+      "repoCountPrimary": 1,
+      "starsContains": 2884,
+      "repoCountContains": 1,
+      "globalRank": 931,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "typescript-express-starter",
+          "fullName": "ljlm0402/typescript-express-starter",
+          "stars": 2884,
+          "url": "https://github.com/ljlm0402/typescript-express-starter",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

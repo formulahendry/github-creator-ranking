@@ -1,0 +1,34 @@
+{
+  "login": "hanydd",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/31091101?v=4",
+  "htmlUrl": "https://github.com/hanydd",
+  "location": "Shanghai",
+  "countryCode": "CN",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 5483,
+      "repoCountPrimary": 1,
+      "starsContains": 5483,
+      "repoCountContains": 1,
+      "globalRank": 447,
+      "countryRank": 57,
+      "topRepos": [
+        {
+          "name": "BilibiliSponsorBlock",
+          "fullName": "hanydd/BilibiliSponsorBlock",
+          "stars": 5483,
+          "url": "https://github.com/hanydd/BilibiliSponsorBlock",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

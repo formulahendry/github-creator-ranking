@@ -1,0 +1,34 @@
+{
+  "login": "duanyytop",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5823268?v=4",
+  "htmlUrl": "https://github.com/duanyytop",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 777,
+      "repoCountPrimary": 1,
+      "starsContains": 777,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "agents-radar",
+          "fullName": "duanyytop/agents-radar",
+          "stars": 777,
+          "url": "https://github.com/duanyytop/agents-radar",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

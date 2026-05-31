@@ -1,0 +1,55 @@
+{
+  "login": "tigerabrodi",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/49603590?v=4",
+  "htmlUrl": "https://github.com/tigerabrodi",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 570,
+      "repoCountPrimary": 4,
+      "starsContains": 570,
+      "repoCountContains": 4,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-query-from-scratch",
+          "fullName": "tigerabrodi/react-query-from-scratch",
+          "stars": 165,
+          "url": "https://github.com/tigerabrodi/react-query-from-scratch",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "neiro",
+          "fullName": "tigerabrodi/neiro",
+          "stars": 151,
+          "url": "https://github.com/tigerabrodi/neiro",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "arwaal",
+          "fullName": "tigerabrodi/arwaal",
+          "stars": 139,
+          "url": "https://github.com/tigerabrodi/arwaal",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "sakuraflow",
+          "fullName": "tigerabrodi/sakuraflow",
+          "stars": 115,
+          "url": "https://github.com/tigerabrodi/sakuraflow",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

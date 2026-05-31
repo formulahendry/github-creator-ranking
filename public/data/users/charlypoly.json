@@ -1,0 +1,48 @@
+{
+  "login": "charlypoly",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1252066?v=4",
+  "htmlUrl": "https://github.com/charlypoly",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 702,
+      "repoCountPrimary": 3,
+      "starsContains": 702,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "spotify-graphql",
+          "fullName": "charlypoly/spotify-graphql",
+          "stars": 282,
+          "url": "https://github.com/charlypoly/spotify-graphql",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "graphql-to-json-schema",
+          "fullName": "charlypoly/graphql-to-json-schema",
+          "stars": 221,
+          "url": "https://github.com/charlypoly/graphql-to-json-schema",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-apollo-form",
+          "fullName": "charlypoly/react-apollo-form",
+          "stars": 199,
+          "url": "https://github.com/charlypoly/react-apollo-form",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

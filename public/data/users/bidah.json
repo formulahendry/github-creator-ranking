@@ -1,0 +1,55 @@
+{
+  "login": "bidah",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1574028?v=4",
+  "htmlUrl": "https://github.com/bidah",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 767,
+      "repoCountPrimary": 4,
+      "starsContains": 767,
+      "repoCountContains": 4,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-native-vercel-ai",
+          "fullName": "bidah/react-native-vercel-ai",
+          "stars": 297,
+          "url": "https://github.com/bidah/react-native-vercel-ai",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "universal-medusa",
+          "fullName": "bidah/universal-medusa",
+          "stars": 195,
+          "url": "https://github.com/bidah/universal-medusa",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "uni-stack",
+          "fullName": "bidah/uni-stack",
+          "stars": 156,
+          "url": "https://github.com/bidah/uni-stack",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "mobile-medusa",
+          "fullName": "bidah/mobile-medusa",
+          "stars": 119,
+          "url": "https://github.com/bidah/mobile-medusa",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

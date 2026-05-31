@@ -1,0 +1,34 @@
+{
+  "login": "alexdebrie",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6509926?v=4",
+  "htmlUrl": "https://github.com/alexdebrie",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 337,
+      "repoCountPrimary": 1,
+      "starsContains": 337,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "dynamodb-instagram",
+          "fullName": "alexdebrie/dynamodb-instagram",
+          "stars": 337,
+          "url": "https://github.com/alexdebrie/dynamodb-instagram",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

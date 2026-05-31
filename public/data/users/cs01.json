@@ -1,0 +1,34 @@
+{
+  "login": "cs01",
+  "name": "Chad Smith",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5715368?v=4",
+  "htmlUrl": "https://github.com/cs01",
+  "location": "Bay Area, CA",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 10335,
+      "repoCountPrimary": 1,
+      "starsContains": 10335,
+      "repoCountContains": 1,
+      "globalRank": 210,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "gdbgui",
+          "fullName": "cs01/gdbgui",
+          "stars": 10335,
+          "url": "https://github.com/cs01/gdbgui",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

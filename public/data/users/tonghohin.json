@@ -1,0 +1,41 @@
+{
+  "login": "tonghohin",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/103472449?v=4",
+  "htmlUrl": "https://github.com/tonghohin",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2003,
+      "repoCountPrimary": 2,
+      "starsContains": 2003,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "screen-sharing",
+          "fullName": "tonghohin/screen-sharing",
+          "stars": 1691,
+          "url": "https://github.com/tonghohin/screen-sharing",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "shadcn-map",
+          "fullName": "tonghohin/shadcn-map",
+          "stars": 312,
+          "url": "https://github.com/tonghohin/shadcn-map",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

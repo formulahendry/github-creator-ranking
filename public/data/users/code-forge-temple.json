@@ -1,0 +1,34 @@
+{
+  "login": "code-forge-temple",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/192139221?v=4",
+  "htmlUrl": "https://github.com/code-forge-temple",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 154,
+      "repoCountPrimary": 1,
+      "starsContains": 154,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "agentic-signal",
+          "fullName": "code-forge-temple/agentic-signal",
+          "stars": 154,
+          "url": "https://github.com/code-forge-temple/agentic-signal",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

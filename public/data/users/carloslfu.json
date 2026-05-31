@@ -1,0 +1,41 @@
+{
+  "login": "carloslfu",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5993168?v=4",
+  "htmlUrl": "https://github.com/carloslfu",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 338,
+      "repoCountPrimary": 2,
+      "starsContains": 338,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "use-machine",
+          "fullName": "carloslfu/use-machine",
+          "stars": 225,
+          "url": "https://github.com/carloslfu/use-machine",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "xstate-router",
+          "fullName": "carloslfu/xstate-router",
+          "stars": 113,
+          "url": "https://github.com/carloslfu/xstate-router",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

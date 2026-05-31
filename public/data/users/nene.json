@@ -1,0 +1,41 @@
+{
+  "login": "nene",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/118201?v=4",
+  "htmlUrl": "https://github.com/nene",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 398,
+      "repoCountPrimary": 2,
+      "starsContains": 398,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "prettier-plugin-sql-cst",
+          "fullName": "nene/prettier-plugin-sql-cst",
+          "stars": 212,
+          "url": "https://github.com/nene/prettier-plugin-sql-cst",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "sql-parser-cst",
+          "fullName": "nene/sql-parser-cst",
+          "stars": 186,
+          "url": "https://github.com/nene/sql-parser-cst",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

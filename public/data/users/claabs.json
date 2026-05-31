@@ -1,0 +1,34 @@
+{
+  "login": "claabs",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6274312?v=4",
+  "htmlUrl": "https://github.com/claabs",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1905,
+      "repoCountPrimary": 1,
+      "starsContains": 1905,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "epicgames-freegames-node",
+          "fullName": "claabs/epicgames-freegames-node",
+          "stars": 1905,
+          "url": "https://github.com/claabs/epicgames-freegames-node",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

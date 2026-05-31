@@ -1,0 +1,48 @@
+{
+  "login": "iamolegga",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5501657?v=4",
+  "htmlUrl": "https://github.com/iamolegga",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1983,
+      "repoCountPrimary": 3,
+      "starsContains": 1983,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "nestjs-pino",
+          "fullName": "iamolegga/nestjs-pino",
+          "stars": 1515,
+          "url": "https://github.com/iamolegga/nestjs-pino",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "nestjs-session",
+          "fullName": "iamolegga/nestjs-session",
+          "stars": 248,
+          "url": "https://github.com/iamolegga/nestjs-session",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "nestjs-roles",
+          "fullName": "iamolegga/nestjs-roles",
+          "stars": 220,
+          "url": "https://github.com/iamolegga/nestjs-roles",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

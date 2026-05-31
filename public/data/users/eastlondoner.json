@@ -1,0 +1,41 @@
+{
+  "login": "eastlondoner",
+  "name": "Andrew Jefferson",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/8148776?v=4",
+  "htmlUrl": "https://github.com/eastlondoner",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 4991,
+      "repoCountPrimary": 2,
+      "starsContains": 4991,
+      "repoCountContains": 2,
+      "globalRank": 507,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vibe-tools",
+          "fullName": "eastlondoner/vibe-tools",
+          "stars": 4769,
+          "url": "https://github.com/eastlondoner/vibe-tools",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "mineflare",
+          "fullName": "eastlondoner/mineflare",
+          "stars": 222,
+          "url": "https://github.com/eastlondoner/mineflare",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

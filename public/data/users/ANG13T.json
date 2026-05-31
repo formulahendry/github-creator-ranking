@@ -1,0 +1,34 @@
+{
+  "login": "ANG13T",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/51937266?v=4",
+  "htmlUrl": "https://github.com/ANG13T",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 280,
+      "repoCountPrimary": 1,
+      "starsContains": 280,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "payload-wizard",
+          "fullName": "ANG13T/payload-wizard",
+          "stars": 280,
+          "url": "https://github.com/ANG13T/payload-wizard",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

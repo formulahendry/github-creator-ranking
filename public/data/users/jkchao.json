@@ -1,0 +1,48 @@
+{
+  "login": "jkchao",
+  "name": "三毛",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/22933931?v=4",
+  "htmlUrl": "https://github.com/jkchao",
+  "location": "Shanghai China",
+  "countryCode": "CN",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 7091,
+      "repoCountPrimary": 3,
+      "starsContains": 7091,
+      "repoCountContains": 3,
+      "globalRank": 326,
+      "countryRank": 42,
+      "topRepos": [
+        {
+          "name": "typescript-book-chinese",
+          "fullName": "jkchao/typescript-book-chinese",
+          "stars": 6647,
+          "url": "https://github.com/jkchao/typescript-book-chinese",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "blog-admin",
+          "fullName": "jkchao/blog-admin",
+          "stars": 232,
+          "url": "https://github.com/jkchao/blog-admin",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "blog-service",
+          "fullName": "jkchao/blog-service",
+          "stars": 212,
+          "url": "https://github.com/jkchao/blog-service",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

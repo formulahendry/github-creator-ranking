@@ -1,0 +1,41 @@
+{
+  "login": "Andreaswt",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/47352649?v=4",
+  "htmlUrl": "https://github.com/Andreaswt",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 288,
+      "repoCountPrimary": 2,
+      "starsContains": 288,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ai-podcast-clipper-saas",
+          "fullName": "Andreaswt/ai-podcast-clipper-saas",
+          "stars": 183,
+          "url": "https://github.com/Andreaswt/ai-podcast-clipper-saas",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "figma-clone",
+          "fullName": "Andreaswt/figma-clone",
+          "stars": 105,
+          "url": "https://github.com/Andreaswt/figma-clone",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

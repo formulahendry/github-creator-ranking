@@ -1,0 +1,41 @@
+{
+  "login": "danilowoz",
+  "name": "Danilo Woznica",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/4838076?v=4",
+  "htmlUrl": "https://github.com/danilowoz",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 14227,
+      "repoCountPrimary": 2,
+      "starsContains": 14227,
+      "repoCountContains": 2,
+      "globalRank": 139,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-content-loader",
+          "fullName": "danilowoz/react-content-loader",
+          "stars": 14001,
+          "url": "https://github.com/danilowoz/react-content-loader",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "spatial-keyboard-navigation",
+          "fullName": "danilowoz/spatial-keyboard-navigation",
+          "stars": 226,
+          "url": "https://github.com/danilowoz/spatial-keyboard-navigation",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

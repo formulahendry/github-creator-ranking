@@ -1,0 +1,41 @@
+{
+  "login": "ArthurHeitmann",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/37270165?v=4",
+  "htmlUrl": "https://github.com/ArthurHeitmann",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1171,
+      "repoCountPrimary": 2,
+      "starsContains": 1171,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "arctic_shift",
+          "fullName": "ArthurHeitmann/arctic_shift",
+          "stars": 1064,
+          "url": "https://github.com/ArthurHeitmann/arctic_shift",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "photon-reddit",
+          "fullName": "ArthurHeitmann/photon-reddit",
+          "stars": 107,
+          "url": "https://github.com/ArthurHeitmann/photon-reddit",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

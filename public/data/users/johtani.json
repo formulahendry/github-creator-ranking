@@ -1,0 +1,34 @@
+{
+  "login": "johtani",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1142449?v=4",
+  "htmlUrl": "https://github.com/johtani",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 111,
+      "repoCountPrimary": 1,
+      "starsContains": 111,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "analyze-api-ui-plugin",
+          "fullName": "johtani/analyze-api-ui-plugin",
+          "stars": 111,
+          "url": "https://github.com/johtani/analyze-api-ui-plugin",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

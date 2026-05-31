@@ -1,0 +1,41 @@
+{
+  "login": "foray1010",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3212221?v=4",
+  "htmlUrl": "https://github.com/foray1010",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 250,
+      "repoCountPrimary": 2,
+      "starsContains": 250,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Popup-my-Bookmarks",
+          "fullName": "foray1010/Popup-my-Bookmarks",
+          "stars": 145,
+          "url": "https://github.com/foray1010/Popup-my-Bookmarks",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "didyoumean2",
+          "fullName": "foray1010/didyoumean2",
+          "stars": 105,
+          "url": "https://github.com/foray1010/didyoumean2",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "login": "scttcper",
+  "name": "Scott Cooper",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1400464?v=4",
+  "htmlUrl": "https://github.com/scttcper",
+  "location": "San Francisco",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 5220,
+      "repoCountPrimary": 9,
+      "starsContains": 5220,
+      "repoCountContains": 9,
+      "globalRank": 476,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ngx-toastr",
+          "fullName": "scttcper/ngx-toastr",
+          "stars": 2588,
+          "url": "https://github.com/scttcper/ngx-toastr",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "tinycolor",
+          "fullName": "scttcper/tinycolor",
+          "stars": 612,
+          "url": "https://github.com/scttcper/tinycolor",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "gatsby-casper",
+          "fullName": "scttcper/gatsby-casper",
+          "stars": 470,
+          "url": "https://github.com/scttcper/gatsby-casper",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ngx-emoji-mart",
+          "fullName": "scttcper/ngx-emoji-mart",
+          "stars": 461,
+          "url": "https://github.com/scttcper/ngx-emoji-mart",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ngx-color",
+          "fullName": "scttcper/ngx-color",
+          "stars": 444,
+          "url": "https://github.com/scttcper/ngx-color",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

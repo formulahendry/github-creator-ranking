@@ -1,0 +1,34 @@
+{
+  "login": "tonyantony300",
+  "name": "tony antony",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/54979586?v=4",
+  "htmlUrl": "https://github.com/tonyantony300",
+  "location": "Bengaluru",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 8111,
+      "repoCountPrimary": 1,
+      "starsContains": 8111,
+      "repoCountContains": 1,
+      "globalRank": 281,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "alt-sendme",
+          "fullName": "tonyantony300/alt-sendme",
+          "stars": 8111,
+          "url": "https://github.com/tonyantony300/alt-sendme",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "pranshuchittora",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/32242596?v=4",
+  "htmlUrl": "https://github.com/pranshuchittora",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 579,
+      "repoCountPrimary": 2,
+      "starsContains": 579,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "autarky",
+          "fullName": "pranshuchittora/autarky",
+          "stars": 374,
+          "url": "https://github.com/pranshuchittora/autarky",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "simvyn",
+          "fullName": "pranshuchittora/simvyn",
+          "stars": 205,
+          "url": "https://github.com/pranshuchittora/simvyn",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

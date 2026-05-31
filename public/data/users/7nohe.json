@@ -1,0 +1,41 @@
+{
+  "login": "7nohe",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/9207663?v=4",
+  "htmlUrl": "https://github.com/7nohe",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 530,
+      "repoCountPrimary": 2,
+      "starsContains": 530,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "openapi-react-query-codegen",
+          "fullName": "7nohe/openapi-react-query-codegen",
+          "stars": 427,
+          "url": "https://github.com/7nohe/openapi-react-query-codegen",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "laravel-typegen",
+          "fullName": "7nohe/laravel-typegen",
+          "stars": 103,
+          "url": "https://github.com/7nohe/laravel-typegen",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

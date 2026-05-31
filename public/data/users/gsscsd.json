@@ -1,0 +1,34 @@
+{
+  "login": "gsscsd",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/12953213?v=4",
+  "htmlUrl": "https://github.com/gsscsd",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 446,
+      "repoCountPrimary": 1,
+      "starsContains": 446,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "big_model_radar",
+          "fullName": "gsscsd/big_model_radar",
+          "stars": 446,
+          "url": "https://github.com/gsscsd/big_model_radar",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

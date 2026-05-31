@@ -1,0 +1,41 @@
+{
+  "login": "GoogleFeud",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/36000090?v=4",
+  "htmlUrl": "https://github.com/GoogleFeud",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 813,
+      "repoCountPrimary": 2,
+      "starsContains": 813,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ts-macros",
+          "fullName": "GoogleFeud/ts-macros",
+          "stars": 409,
+          "url": "https://github.com/GoogleFeud/ts-macros",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ts-runtime-checks",
+          "fullName": "GoogleFeud/ts-runtime-checks",
+          "stars": 404,
+          "url": "https://github.com/GoogleFeud/ts-runtime-checks",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

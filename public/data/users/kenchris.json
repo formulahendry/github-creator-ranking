@@ -1,0 +1,34 @@
+{
+  "login": "kenchris",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1101339?v=4",
+  "htmlUrl": "https://github.com/kenchris",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 294,
+      "repoCountPrimary": 1,
+      "starsContains": 294,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "urlpattern-polyfill",
+          "fullName": "kenchris/urlpattern-polyfill",
+          "stars": 294,
+          "url": "https://github.com/kenchris/urlpattern-polyfill",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

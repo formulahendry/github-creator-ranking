@@ -1,0 +1,41 @@
+{
+  "login": "dannysmith",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/28115?v=4",
+  "htmlUrl": "https://github.com/dannysmith",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 723,
+      "repoCountPrimary": 2,
+      "starsContains": 723,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "astro-editor",
+          "fullName": "dannysmith/astro-editor",
+          "stars": 464,
+          "url": "https://github.com/dannysmith/astro-editor",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "tauri-template",
+          "fullName": "dannysmith/tauri-template",
+          "stars": 259,
+          "url": "https://github.com/dannysmith/tauri-template",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

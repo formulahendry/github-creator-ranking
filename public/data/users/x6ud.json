@@ -1,0 +1,34 @@
+{
+  "login": "x6ud",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/29475062?v=4",
+  "htmlUrl": "https://github.com/x6ud",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 281,
+      "repoCountPrimary": 1,
+      "starsContains": 281,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "search-photos-by-model-tool",
+          "fullName": "x6ud/search-photos-by-model-tool",
+          "stars": 281,
+          "url": "https://github.com/x6ud/search-photos-by-model-tool",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

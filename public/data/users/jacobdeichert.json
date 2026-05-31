@@ -1,0 +1,34 @@
+{
+  "login": "jacobdeichert",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1631044?v=4",
+  "htmlUrl": "https://github.com/jacobdeichert",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 292,
+      "repoCountPrimary": 1,
+      "starsContains": 292,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "svelvet",
+          "fullName": "jacobdeichert/svelvet",
+          "stars": 292,
+          "url": "https://github.com/jacobdeichert/svelvet",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

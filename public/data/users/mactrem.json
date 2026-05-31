@@ -1,0 +1,34 @@
+{
+  "login": "mactrem",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/75912142?v=4",
+  "htmlUrl": "https://github.com/mactrem",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 106,
+      "repoCountPrimary": 1,
+      "starsContains": 106,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "com-tiles",
+          "fullName": "mactrem/com-tiles",
+          "stars": 106,
+          "url": "https://github.com/mactrem/com-tiles",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

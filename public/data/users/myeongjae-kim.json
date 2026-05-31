@@ -1,0 +1,34 @@
+{
+  "login": "myeongjae-kim",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/46627301?v=4",
+  "htmlUrl": "https://github.com/myeongjae-kim",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 165,
+      "repoCountPrimary": 1,
+      "starsContains": 165,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "return-fetch",
+          "fullName": "myeongjae-kim/return-fetch",
+          "stars": 165,
+          "url": "https://github.com/myeongjae-kim/return-fetch",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

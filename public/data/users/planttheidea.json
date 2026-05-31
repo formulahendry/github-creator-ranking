@@ -1,0 +1,62 @@
+{
+  "login": "planttheidea",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/9438233?v=4",
+  "htmlUrl": "https://github.com/planttheidea",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2236,
+      "repoCountPrimary": 5,
+      "starsContains": 2236,
+      "repoCountContains": 5,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "moize",
+          "fullName": "planttheidea/moize",
+          "stars": 915,
+          "url": "https://github.com/planttheidea/moize",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "fast-equals",
+          "fullName": "planttheidea/fast-equals",
+          "stars": 608,
+          "url": "https://github.com/planttheidea/fast-equals",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "micro-memoize",
+          "fullName": "planttheidea/micro-memoize",
+          "stars": 262,
+          "url": "https://github.com/planttheidea/micro-memoize",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "unchanged",
+          "fullName": "planttheidea/unchanged",
+          "stars": 238,
+          "url": "https://github.com/planttheidea/unchanged",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "hash-it",
+          "fullName": "planttheidea/hash-it",
+          "stars": 213,
+          "url": "https://github.com/planttheidea/hash-it",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

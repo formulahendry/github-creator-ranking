@@ -1,0 +1,34 @@
+{
+  "login": "codesandtags",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5404833?v=4",
+  "htmlUrl": "https://github.com/codesandtags",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 191,
+      "repoCountPrimary": 1,
+      "starsContains": 191,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "frontend-resources",
+          "fullName": "codesandtags/frontend-resources",
+          "stars": 191,
+          "url": "https://github.com/codesandtags/frontend-resources",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

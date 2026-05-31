@@ -1,0 +1,41 @@
+{
+  "login": "7PH",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/31401273?v=4",
+  "htmlUrl": "https://github.com/7PH",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1638,
+      "repoCountPrimary": 2,
+      "starsContains": 1638,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "powerglitch",
+          "fullName": "7PH/powerglitch",
+          "stars": 1476,
+          "url": "https://github.com/7PH/powerglitch",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-powerglitch",
+          "fullName": "7PH/react-powerglitch",
+          "stars": 162,
+          "url": "https://github.com/7PH/react-powerglitch",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

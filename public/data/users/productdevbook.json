@@ -1,0 +1,62 @@
+{
+  "login": "productdevbook",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/38668796?v=4",
+  "htmlUrl": "https://github.com/productdevbook",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2483,
+      "repoCountPrimary": 6,
+      "starsContains": 2483,
+      "repoCountContains": 6,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "hucre",
+          "fullName": "productdevbook/hucre",
+          "stars": 1388,
+          "url": "https://github.com/productdevbook/hucre",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "etiket",
+          "fullName": "productdevbook/etiket",
+          "stars": 405,
+          "url": "https://github.com/productdevbook/etiket",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "motion",
+          "fullName": "productdevbook/motion",
+          "stars": 248,
+          "url": "https://github.com/productdevbook/motion",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "unemail",
+          "fullName": "productdevbook/unemail",
+          "stars": 195,
+          "url": "https://github.com/productdevbook/unemail",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "sumak",
+          "fullName": "productdevbook/sumak",
+          "stars": 124,
+          "url": "https://github.com/productdevbook/sumak",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

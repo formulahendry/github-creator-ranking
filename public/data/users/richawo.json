@@ -1,0 +1,34 @@
+{
+  "login": "richawo",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/35015261?v=4",
+  "htmlUrl": "https://github.com/richawo",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 356,
+      "repoCountPrimary": 1,
+      "starsContains": 356,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "minimal-llm-ui",
+          "fullName": "richawo/minimal-llm-ui",
+          "stars": 356,
+          "url": "https://github.com/richawo/minimal-llm-ui",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

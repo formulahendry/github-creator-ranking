@@ -1,0 +1,34 @@
+{
+  "login": "wangdicoder",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7374042?v=4",
+  "htmlUrl": "https://github.com/wangdicoder",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 234,
+      "repoCountPrimary": 1,
+      "starsContains": 234,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "tiny-design",
+          "fullName": "wangdicoder/tiny-design",
+          "stars": 234,
+          "url": "https://github.com/wangdicoder/tiny-design",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "shuakami",
+  "name": "速冻饺子",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/149454909?v=4",
+  "htmlUrl": "https://github.com/shuakami",
+  "location": "Hong Kong",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3691,
+      "repoCountPrimary": 1,
+      "starsContains": 3691,
+      "repoCountContains": 1,
+      "globalRank": 717,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "qq-chat-exporter",
+          "fullName": "shuakami/qq-chat-exporter",
+          "stars": 3691,
+          "url": "https://github.com/shuakami/qq-chat-exporter",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

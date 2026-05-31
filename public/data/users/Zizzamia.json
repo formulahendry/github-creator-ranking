@@ -1,0 +1,41 @@
+{
+  "login": "Zizzamia",
+  "name": "Leonardo Zizzamia",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/829214?v=4",
+  "htmlUrl": "https://github.com/Zizzamia",
+  "location": "San Francisco",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3451,
+      "repoCountPrimary": 2,
+      "starsContains": 3451,
+      "repoCountContains": 2,
+      "globalRank": 783,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "perfume.js",
+          "fullName": "Zizzamia/perfume.js",
+          "stars": 3203,
+          "url": "https://github.com/Zizzamia/perfume.js",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "a-frame-in-100-lines",
+          "fullName": "Zizzamia/a-frame-in-100-lines",
+          "stars": 248,
+          "url": "https://github.com/Zizzamia/a-frame-in-100-lines",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

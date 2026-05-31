@@ -1,0 +1,41 @@
+{
+  "login": "andrewcourtice",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/11718453?v=4",
+  "htmlUrl": "https://github.com/andrewcourtice",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 838,
+      "repoCountPrimary": 2,
+      "starsContains": 838,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "harlem",
+          "fullName": "andrewcourtice/harlem",
+          "stars": 516,
+          "url": "https://github.com/andrewcourtice/harlem",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ripl",
+          "fullName": "andrewcourtice/ripl",
+          "stars": 322,
+          "url": "https://github.com/andrewcourtice/ripl",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

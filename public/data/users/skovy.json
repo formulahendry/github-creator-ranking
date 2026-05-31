@@ -1,0 +1,48 @@
+{
+  "login": "skovy",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5247455?v=4",
+  "htmlUrl": "https://github.com/skovy",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 960,
+      "repoCountPrimary": 3,
+      "starsContains": 960,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "typed-scss-modules",
+          "fullName": "skovy/typed-scss-modules",
+          "stars": 664,
+          "url": "https://github.com/skovy/typed-scss-modules",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "llm-markdown",
+          "fullName": "skovy/llm-markdown",
+          "stars": 163,
+          "url": "https://github.com/skovy/llm-markdown",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "cooky-cutter",
+          "fullName": "skovy/cooky-cutter",
+          "stars": 133,
+          "url": "https://github.com/skovy/cooky-cutter",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

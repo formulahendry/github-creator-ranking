@@ -1,0 +1,41 @@
+{
+  "login": "adoresever",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/167835671?v=4",
+  "htmlUrl": "https://github.com/adoresever",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 680,
+      "repoCountPrimary": 2,
+      "starsContains": 680,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "graph-memory",
+          "fullName": "adoresever/graph-memory",
+          "stars": 494,
+          "url": "https://github.com/adoresever/graph-memory",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "AGI_Ananas",
+          "fullName": "adoresever/AGI_Ananas",
+          "stars": 186,
+          "url": "https://github.com/adoresever/AGI_Ananas",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

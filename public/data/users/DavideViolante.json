@@ -1,0 +1,34 @@
+{
+  "login": "DavideViolante",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6844116?v=4",
+  "htmlUrl": "https://github.com/DavideViolante",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1554,
+      "repoCountPrimary": 1,
+      "starsContains": 1554,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Angular-Full-Stack",
+          "fullName": "DavideViolante/Angular-Full-Stack",
+          "stars": 1554,
+          "url": "https://github.com/DavideViolante/Angular-Full-Stack",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

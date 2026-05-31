@@ -1,0 +1,41 @@
+{
+  "login": "blacksmithgu",
+  "name": "Michael \"Tres\" Brenan",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/616490?v=4",
+  "htmlUrl": "https://github.com/blacksmithgu",
+  "location": "Palo Alto, CA",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 11182,
+      "repoCountPrimary": 2,
+      "starsContains": 11182,
+      "repoCountContains": 2,
+      "globalRank": 186,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "obsidian-dataview",
+          "fullName": "blacksmithgu/obsidian-dataview",
+          "stars": 9003,
+          "url": "https://github.com/blacksmithgu/obsidian-dataview",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "datacore",
+          "fullName": "blacksmithgu/datacore",
+          "stars": 2179,
+          "url": "https://github.com/blacksmithgu/datacore",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

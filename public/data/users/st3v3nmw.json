@@ -1,0 +1,34 @@
+{
+  "login": "st3v3nmw",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/43380836?v=4",
+  "htmlUrl": "https://github.com/st3v3nmw",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2403,
+      "repoCountPrimary": 1,
+      "starsContains": 2403,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "obsidian-spaced-repetition",
+          "fullName": "st3v3nmw/obsidian-spaced-repetition",
+          "stars": 2403,
+          "url": "https://github.com/st3v3nmw/obsidian-spaced-repetition",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

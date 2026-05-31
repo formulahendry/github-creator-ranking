@@ -1,0 +1,55 @@
+{
+  "login": "piyushgarg-dev",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/44976328?v=4",
+  "htmlUrl": "https://github.com/piyushgarg-dev",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 764,
+      "repoCountPrimary": 4,
+      "starsContains": 764,
+      "repoCountContains": 4,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "leetcode-whisper-chrome-extension",
+          "fullName": "piyushgarg-dev/leetcode-whisper-chrome-extension",
+          "stars": 238,
+          "url": "https://github.com/piyushgarg-dev/leetcode-whisper-chrome-extension",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vercel-clone",
+          "fullName": "piyushgarg-dev/vercel-clone",
+          "stars": 225,
+          "url": "https://github.com/piyushgarg-dev/vercel-clone",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "review-app",
+          "fullName": "piyushgarg-dev/review-app",
+          "stars": 192,
+          "url": "https://github.com/piyushgarg-dev/review-app",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "trpc-monorepo",
+          "fullName": "piyushgarg-dev/trpc-monorepo",
+          "stars": 109,
+          "url": "https://github.com/piyushgarg-dev/trpc-monorepo",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

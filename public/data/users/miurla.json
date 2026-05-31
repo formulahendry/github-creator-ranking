@@ -1,0 +1,41 @@
+{
+  "login": "miurla",
+  "name": "Yoshiki Miura",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3412179?v=4",
+  "htmlUrl": "https://github.com/miurla",
+  "location": "Tokyo",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 10201,
+      "repoCountPrimary": 2,
+      "starsContains": 10201,
+      "repoCountContains": 2,
+      "globalRank": 217,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "morphic",
+          "fullName": "miurla/morphic",
+          "stars": 8872,
+          "url": "https://github.com/miurla/morphic",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "babyagi-ui",
+          "fullName": "miurla/babyagi-ui",
+          "stars": 1329,
+          "url": "https://github.com/miurla/babyagi-ui",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "zaki-yama",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1001444?v=4",
+  "htmlUrl": "https://github.com/zaki-yama",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 132,
+      "repoCountPrimary": 1,
+      "starsContains": 132,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "copy-title-and-url-as-markdown",
+          "fullName": "zaki-yama/copy-title-and-url-as-markdown",
+          "stars": 132,
+          "url": "https://github.com/zaki-yama/copy-title-and-url-as-markdown",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

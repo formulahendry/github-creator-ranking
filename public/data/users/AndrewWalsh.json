@@ -1,0 +1,41 @@
+{
+  "login": "AndrewWalsh",
+  "name": "Andrew Walsh",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/15863952?v=4",
+  "htmlUrl": "https://github.com/AndrewWalsh",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 4419,
+      "repoCountPrimary": 2,
+      "starsContains": 4419,
+      "repoCountContains": 2,
+      "globalRank": 581,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "openapi-devtools",
+          "fullName": "AndrewWalsh/openapi-devtools",
+          "stars": 4298,
+          "url": "https://github.com/AndrewWalsh/openapi-devtools",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "demystify",
+          "fullName": "AndrewWalsh/demystify",
+          "stars": 121,
+          "url": "https://github.com/AndrewWalsh/demystify",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

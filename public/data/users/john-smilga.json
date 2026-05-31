@@ -1,0 +1,55 @@
+{
+  "login": "john-smilga",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/42133389?v=4",
+  "htmlUrl": "https://github.com/john-smilga",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2510,
+      "repoCountPrimary": 4,
+      "starsContains": 2510,
+      "repoCountContains": 4,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-course-v3",
+          "fullName": "john-smilga/react-course-v3",
+          "stars": 1934,
+          "url": "https://github.com/john-smilga/react-course-v3",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "typescript-course",
+          "fullName": "john-smilga/typescript-course",
+          "stars": 294,
+          "url": "https://github.com/john-smilga/typescript-course",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "nextjs-course-openai",
+          "fullName": "john-smilga/nextjs-course-openai",
+          "stars": 159,
+          "url": "https://github.com/john-smilga/nextjs-course-openai",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "nextjs-course-home-away",
+          "fullName": "john-smilga/nextjs-course-home-away",
+          "stars": 123,
+          "url": "https://github.com/john-smilga/nextjs-course-home-away",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

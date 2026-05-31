@@ -1,0 +1,48 @@
+{
+  "login": "zhbhun",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1996891?v=4",
+  "htmlUrl": "https://github.com/zhbhun",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1564,
+      "repoCountPrimary": 3,
+      "starsContains": 1564,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "idify",
+          "fullName": "zhbhun/idify",
+          "stars": 1039,
+          "url": "https://github.com/zhbhun/idify",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "rmbg",
+          "fullName": "zhbhun/rmbg",
+          "stars": 392,
+          "url": "https://github.com/zhbhun/rmbg",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-native-intersection-observer",
+          "fullName": "zhbhun/react-native-intersection-observer",
+          "stars": 133,
+          "url": "https://github.com/zhbhun/react-native-intersection-observer",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

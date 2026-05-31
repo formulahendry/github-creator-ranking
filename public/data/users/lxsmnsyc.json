@@ -1,0 +1,62 @@
+{
+  "login": "lxsmnsyc",
+  "name": "Alexis H. Munsayac",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/4783372?v=4",
+  "htmlUrl": "https://github.com/lxsmnsyc",
+  "location": "Philippines",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2795,
+      "repoCountPrimary": 9,
+      "starsContains": 2795,
+      "repoCountContains": 9,
+      "globalRank": 956,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "seroval",
+          "fullName": "lxsmnsyc/seroval",
+          "stars": 715,
+          "url": "https://github.com/lxsmnsyc/seroval",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "terracotta",
+          "fullName": "lxsmnsyc/terracotta",
+          "stars": 704,
+          "url": "https://github.com/lxsmnsyc/terracotta",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "forgetti",
+          "fullName": "lxsmnsyc/forgetti",
+          "stars": 353,
+          "url": "https://github.com/lxsmnsyc/forgetti",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "solid-labels",
+          "fullName": "lxsmnsyc/solid-labels",
+          "stars": 256,
+          "url": "https://github.com/lxsmnsyc/solid-labels",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "solid-styled",
+          "fullName": "lxsmnsyc/solid-styled",
+          "stars": 196,
+          "url": "https://github.com/lxsmnsyc/solid-styled",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "login": "wslyvh",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/25974464?v=4",
+  "htmlUrl": "https://github.com/wslyvh",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1338,
+      "repoCountPrimary": 3,
+      "starsContains": 1338,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "nexth",
+          "fullName": "wslyvh/nexth",
+          "stars": 748,
+          "url": "https://github.com/wslyvh/nexth",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "useWeb3",
+          "fullName": "wslyvh/useWeb3",
+          "stars": 407,
+          "url": "https://github.com/wslyvh/useWeb3",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "paperweight",
+          "fullName": "wslyvh/paperweight",
+          "stars": 183,
+          "url": "https://github.com/wslyvh/paperweight",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

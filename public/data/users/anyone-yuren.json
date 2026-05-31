@@ -1,0 +1,41 @@
+{
+  "login": "anyone-yuren",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/14817820?v=4",
+  "htmlUrl": "https://github.com/anyone-yuren",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 373,
+      "repoCountPrimary": 2,
+      "starsContains": 373,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "degital-twin-3d",
+          "fullName": "anyone-yuren/degital-twin-3d",
+          "stars": 266,
+          "url": "https://github.com/anyone-yuren/degital-twin-3d",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-antd-admin-pnpm",
+          "fullName": "anyone-yuren/react-antd-admin-pnpm",
+          "stars": 107,
+          "url": "https://github.com/anyone-yuren/react-antd-admin-pnpm",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

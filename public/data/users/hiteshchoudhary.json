@@ -1,0 +1,62 @@
+{
+  "login": "hiteshchoudhary",
+  "name": "Hitesh Choudhary",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/11613311?v=4",
+  "htmlUrl": "https://github.com/hiteshchoudhary",
+  "location": "India",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3579,
+      "repoCountPrimary": 14,
+      "starsContains": 3579,
+      "repoCountContains": 14,
+      "globalRank": 747,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "nextjs-fullstack-auth",
+          "fullName": "hiteshchoudhary/nextjs-fullstack-auth",
+          "stars": 649,
+          "url": "https://github.com/hiteshchoudhary/nextjs-fullstack-auth",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ama-app",
+          "fullName": "hiteshchoudhary/ama-app",
+          "stars": 497,
+          "url": "https://github.com/hiteshchoudhary/ama-app",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "typescript-youtube-22",
+          "fullName": "hiteshchoudhary/typescript-youtube-22",
+          "stars": 399,
+          "url": "https://github.com/hiteshchoudhary/typescript-youtube-22",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "gitbackup",
+          "fullName": "hiteshchoudhary/gitbackup",
+          "stars": 336,
+          "url": "https://github.com/hiteshchoudhary/gitbackup",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Music-school-hindi",
+          "fullName": "hiteshchoudhary/Music-school-hindi",
+          "stars": 288,
+          "url": "https://github.com/hiteshchoudhary/Music-school-hindi",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

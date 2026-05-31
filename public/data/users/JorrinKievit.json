@@ -1,0 +1,34 @@
+{
+  "login": "JorrinKievit",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/43169049?v=4",
+  "htmlUrl": "https://github.com/JorrinKievit",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 222,
+      "repoCountPrimary": 1,
+      "starsContains": 222,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-ts-tradingview-widgets",
+          "fullName": "JorrinKievit/react-ts-tradingview-widgets",
+          "stars": 222,
+          "url": "https://github.com/JorrinKievit/react-ts-tradingview-widgets",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

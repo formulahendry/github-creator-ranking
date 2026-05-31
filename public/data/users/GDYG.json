@@ -1,0 +1,34 @@
+{
+  "login": "GDYG",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/35097370?v=4",
+  "htmlUrl": "https://github.com/GDYG",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 118,
+      "repoCountPrimary": 1,
+      "starsContains": 118,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "DeFi-Dashboard",
+          "fullName": "GDYG/DeFi-Dashboard",
+          "stars": 118,
+          "url": "https://github.com/GDYG/DeFi-Dashboard",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

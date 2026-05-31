@@ -1,0 +1,34 @@
+{
+  "login": "trojanowski",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1078103?v=4",
+  "htmlUrl": "https://github.com/trojanowski",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2388,
+      "repoCountPrimary": 1,
+      "starsContains": 2388,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-apollo-hooks",
+          "fullName": "trojanowski/react-apollo-hooks",
+          "stars": 2388,
+          "url": "https://github.com/trojanowski/react-apollo-hooks",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

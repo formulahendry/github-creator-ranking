@@ -1,0 +1,34 @@
+{
+  "login": "wvit",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/21981758?v=4",
+  "htmlUrl": "https://github.com/wvit",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 646,
+      "repoCountPrimary": 1,
+      "starsContains": 646,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "web-document",
+          "fullName": "wvit/web-document",
+          "stars": 646,
+          "url": "https://github.com/wvit/web-document",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

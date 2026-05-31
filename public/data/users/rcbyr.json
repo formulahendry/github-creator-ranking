@@ -1,0 +1,34 @@
+{
+  "login": "rcbyr",
+  "name": "Eric Beyer",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/36543855?v=4",
+  "htmlUrl": "https://github.com/rcbyr",
+  "location": "Rostock, Germany",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 5017,
+      "repoCountPrimary": 1,
+      "starsContains": 5017,
+      "repoCountContains": 1,
+      "globalRank": 502,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "keen-slider",
+          "fullName": "rcbyr/keen-slider",
+          "stars": 5017,
+          "url": "https://github.com/rcbyr/keen-slider",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

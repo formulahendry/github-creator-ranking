@@ -1,0 +1,34 @@
+{
+  "login": "pmb0",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2140915?v=4",
+  "htmlUrl": "https://github.com/pmb0",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 151,
+      "repoCountPrimary": 1,
+      "starsContains": 151,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "express-sharp",
+          "fullName": "pmb0/express-sharp",
+          "stars": 151,
+          "url": "https://github.com/pmb0/express-sharp",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

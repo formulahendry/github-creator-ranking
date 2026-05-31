@@ -1,0 +1,34 @@
+{
+  "login": "dermotduffy",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1136829?v=4",
+  "htmlUrl": "https://github.com/dermotduffy",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1070,
+      "repoCountPrimary": 1,
+      "starsContains": 1070,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "advanced-camera-card",
+          "fullName": "dermotduffy/advanced-camera-card",
+          "stars": 1070,
+          "url": "https://github.com/dermotduffy/advanced-camera-card",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "jhades",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5454709?v=4",
+  "htmlUrl": "https://github.com/jhades",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 297,
+      "repoCountPrimary": 2,
+      "starsContains": 297,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "angular2-rxjs-observable-data-services",
+          "fullName": "jhades/angular2-rxjs-observable-data-services",
+          "stars": 189,
+          "url": "https://github.com/jhades/angular2-rxjs-observable-data-services",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "angular2-redux-store",
+          "fullName": "jhades/angular2-redux-store",
+          "stars": 108,
+          "url": "https://github.com/jhades/angular2-redux-store",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "xSNOWM4Nx",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/11644253?v=4",
+  "htmlUrl": "https://github.com/xSNOWM4Nx",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 126,
+      "repoCountPrimary": 1,
+      "starsContains": 126,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-flight-tracker",
+          "fullName": "xSNOWM4Nx/react-flight-tracker",
+          "stars": 126,
+          "url": "https://github.com/xSNOWM4Nx/react-flight-tracker",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

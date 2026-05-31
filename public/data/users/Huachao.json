@@ -1,0 +1,34 @@
+{
+  "login": "Huachao",
+  "name": "Huachao Mao",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2796177?v=4",
+  "htmlUrl": "https://github.com/Huachao",
+  "location": "Wuxi, China",
+  "countryCode": "CN",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 6008,
+      "repoCountPrimary": 1,
+      "starsContains": 6008,
+      "repoCountContains": 1,
+      "globalRank": 397,
+      "countryRank": 51,
+      "topRepos": [
+        {
+          "name": "vscode-restclient",
+          "fullName": "Huachao/vscode-restclient",
+          "stars": 6008,
+          "url": "https://github.com/Huachao/vscode-restclient",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "jsynowiec",
+  "name": "Jakub Synowiec",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1029142?v=4",
+  "htmlUrl": "https://github.com/jsynowiec",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3044,
+      "repoCountPrimary": 2,
+      "starsContains": 3044,
+      "repoCountContains": 2,
+      "globalRank": 883,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "node-typescript-boilerplate",
+          "fullName": "jsynowiec/node-typescript-boilerplate",
+          "stars": 2944,
+          "url": "https://github.com/jsynowiec/node-typescript-boilerplate",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "airqmon",
+          "fullName": "jsynowiec/airqmon",
+          "stars": 100,
+          "url": "https://github.com/jsynowiec/airqmon",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

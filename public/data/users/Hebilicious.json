@@ -1,0 +1,55 @@
+{
+  "login": "Hebilicious",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/13395944?v=4",
+  "htmlUrl": "https://github.com/Hebilicious",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 612,
+      "repoCountPrimary": 4,
+      "starsContains": 612,
+      "repoCountContains": 4,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "authjs-nuxt",
+          "fullName": "Hebilicious/authjs-nuxt",
+          "stars": 248,
+          "url": "https://github.com/Hebilicious/authjs-nuxt",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "form-actions-nuxt",
+          "fullName": "Hebilicious/form-actions-nuxt",
+          "stars": 139,
+          "url": "https://github.com/Hebilicious/form-actions-nuxt",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "server-block-nuxt",
+          "fullName": "Hebilicious/server-block-nuxt",
+          "stars": 116,
+          "url": "https://github.com/Hebilicious/server-block-nuxt",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vue-query-nuxt",
+          "fullName": "Hebilicious/vue-query-nuxt",
+          "stars": 109,
+          "url": "https://github.com/Hebilicious/vue-query-nuxt",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

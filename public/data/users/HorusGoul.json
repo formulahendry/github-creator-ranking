@@ -1,0 +1,41 @@
+{
+  "login": "HorusGoul",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6759612?v=4",
+  "htmlUrl": "https://github.com/HorusGoul",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 241,
+      "repoCountPrimary": 2,
+      "starsContains": 241,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vite-plugin-stylex",
+          "fullName": "HorusGoul/vite-plugin-stylex",
+          "stars": 133,
+          "url": "https://github.com/HorusGoul/vite-plugin-stylex",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "eslint-plugin-react-render-types",
+          "fullName": "HorusGoul/eslint-plugin-react-render-types",
+          "stars": 108,
+          "url": "https://github.com/HorusGoul/eslint-plugin-react-render-types",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

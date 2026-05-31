@@ -1,0 +1,34 @@
+{
+  "login": "Jacse",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3637499?v=4",
+  "htmlUrl": "https://github.com/Jacse",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1723,
+      "repoCountPrimary": 1,
+      "starsContains": 1723,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-native-app-intro-slider",
+          "fullName": "Jacse/react-native-app-intro-slider",
+          "stars": 1723,
+          "url": "https://github.com/Jacse/react-native-app-intro-slider",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

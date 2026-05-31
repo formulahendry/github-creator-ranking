@@ -1,0 +1,41 @@
+{
+  "login": "leaferjs",
+  "name": "Leafer",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/83396016?v=4",
+  "htmlUrl": "https://github.com/leaferjs",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 4409,
+      "repoCountPrimary": 2,
+      "starsContains": 4409,
+      "repoCountContains": 2,
+      "globalRank": 583,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "leafer-ui",
+          "fullName": "leaferjs/leafer-ui",
+          "stars": 4075,
+          "url": "https://github.com/leaferjs/leafer-ui",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "leafer",
+          "fullName": "leaferjs/leafer",
+          "stars": 334,
+          "url": "https://github.com/leaferjs/leafer",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

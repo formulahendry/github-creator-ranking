@@ -1,0 +1,41 @@
+{
+  "login": "ryansolid",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2768267?v=4",
+  "htmlUrl": "https://github.com/ryansolid",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 402,
+      "repoCountPrimary": 2,
+      "starsContains": 402,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "mobx-jsx",
+          "fullName": "ryansolid/mobx-jsx",
+          "stars": 267,
+          "url": "https://github.com/ryansolid/mobx-jsx",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "component-register",
+          "fullName": "ryansolid/component-register",
+          "stars": 135,
+          "url": "https://github.com/ryansolid/component-register",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "slash9494",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/70849655?v=4",
+  "htmlUrl": "https://github.com/slash9494",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 346,
+      "repoCountPrimary": 1,
+      "starsContains": 346,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-modern-audio-player",
+          "fullName": "slash9494/react-modern-audio-player",
+          "stars": 346,
+          "url": "https://github.com/slash9494/react-modern-audio-player",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

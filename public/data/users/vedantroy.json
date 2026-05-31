@@ -1,0 +1,34 @@
+{
+  "login": "vedantroy",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/8407819?v=4",
+  "htmlUrl": "https://github.com/vedantroy",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 412,
+      "repoCountPrimary": 1,
+      "starsContains": 412,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "typecheck.macro",
+          "fullName": "vedantroy/typecheck.macro",
+          "stars": 412,
+          "url": "https://github.com/vedantroy/typecheck.macro",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

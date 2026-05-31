@@ -1,0 +1,34 @@
+{
+  "login": "eightHundreds",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/18695431?v=4",
+  "htmlUrl": "https://github.com/eightHundreds",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 162,
+      "repoCountPrimary": 1,
+      "starsContains": 162,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "obsidian-dida-sync",
+          "fullName": "eightHundreds/obsidian-dida-sync",
+          "stars": 162,
+          "url": "https://github.com/eightHundreds/obsidian-dida-sync",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

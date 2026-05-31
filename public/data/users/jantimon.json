@@ -1,0 +1,41 @@
+{
+  "login": "jantimon",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/4113649?v=4",
+  "htmlUrl": "https://github.com/jantimon",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 559,
+      "repoCountPrimary": 2,
+      "starsContains": 559,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "text-box-trim-examples",
+          "fullName": "jantimon/text-box-trim-examples",
+          "stars": 403,
+          "url": "https://github.com/jantimon/text-box-trim-examples",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "cpuprofile-webpack-plugin",
+          "fullName": "jantimon/cpuprofile-webpack-plugin",
+          "stars": 156,
+          "url": "https://github.com/jantimon/cpuprofile-webpack-plugin",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

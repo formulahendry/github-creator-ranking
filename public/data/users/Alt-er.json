@@ -1,0 +1,41 @@
+{
+  "login": "Alt-er",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/18004903?v=4",
+  "htmlUrl": "https://github.com/Alt-er",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 306,
+      "repoCountPrimary": 2,
+      "starsContains": 306,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "timebox",
+          "fullName": "Alt-er/timebox",
+          "stars": 193,
+          "url": "https://github.com/Alt-er/timebox",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "obsidian-sync-share",
+          "fullName": "Alt-er/obsidian-sync-share",
+          "stars": 113,
+          "url": "https://github.com/Alt-er/obsidian-sync-share",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

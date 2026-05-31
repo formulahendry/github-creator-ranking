@@ -1,0 +1,34 @@
+{
+  "login": "cozmo",
+  "name": "Cosmo Wolfe",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/696340?v=4",
+  "htmlUrl": "https://github.com/cozmo",
+  "location": "San Francisco",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 4015,
+      "repoCountPrimary": 1,
+      "starsContains": 4015,
+      "repoCountContains": 1,
+      "globalRank": 657,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "jsQR",
+          "fullName": "cozmo/jsQR",
+          "stars": 4015,
+          "url": "https://github.com/cozmo/jsQR",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

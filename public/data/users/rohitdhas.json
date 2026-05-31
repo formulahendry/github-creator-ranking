@@ -1,0 +1,34 @@
+{
+  "login": "rohitdhas",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/53969450?v=4",
+  "htmlUrl": "https://github.com/rohitdhas",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1767,
+      "repoCountPrimary": 1,
+      "starsContains": 1767,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "shittier",
+          "fullName": "rohitdhas/shittier",
+          "stars": 1767,
+          "url": "https://github.com/rohitdhas/shittier",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

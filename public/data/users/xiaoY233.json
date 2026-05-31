@@ -1,0 +1,34 @@
+{
+  "login": "xiaoY233",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/17397776?v=4",
+  "htmlUrl": "https://github.com/xiaoY233",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 936,
+      "repoCountPrimary": 1,
+      "starsContains": 936,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Chat2API",
+          "fullName": "xiaoY233/Chat2API",
+          "stars": 936,
+          "url": "https://github.com/xiaoY233/Chat2API",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

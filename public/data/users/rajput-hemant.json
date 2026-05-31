@@ -1,0 +1,48 @@
+{
+  "login": "rajput-hemant",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/68769346?v=4",
+  "htmlUrl": "https://github.com/rajput-hemant",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 828,
+      "repoCountPrimary": 3,
+      "starsContains": 828,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "infinitunes",
+          "fullName": "rajput-hemant/infinitunes",
+          "stars": 359,
+          "url": "https://github.com/rajput-hemant/infinitunes",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "lipi",
+          "fullName": "rajput-hemant/lipi",
+          "stars": 262,
+          "url": "https://github.com/rajput-hemant/lipi",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "threejs-journey",
+          "fullName": "rajput-hemant/threejs-journey",
+          "stars": 207,
+          "url": "https://github.com/rajput-hemant/threejs-journey",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

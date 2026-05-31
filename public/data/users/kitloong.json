@@ -1,0 +1,34 @@
+{
+  "login": "kitloong",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7660346?v=4",
+  "htmlUrl": "https://github.com/kitloong",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 686,
+      "repoCountPrimary": 1,
+      "starsContains": 686,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "nextjs-dashboard",
+          "fullName": "kitloong/nextjs-dashboard",
+          "stars": 686,
+          "url": "https://github.com/kitloong/nextjs-dashboard",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

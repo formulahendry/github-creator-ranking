@@ -1,0 +1,41 @@
+{
+  "login": "emilkowalski",
+  "name": "Emil Kowalski",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/36730035?v=4",
+  "htmlUrl": "https://github.com/emilkowalski",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 20829,
+      "repoCountPrimary": 2,
+      "starsContains": 20829,
+      "repoCountContains": 2,
+      "globalRank": 90,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "sonner",
+          "fullName": "emilkowalski/sonner",
+          "stars": 12441,
+          "url": "https://github.com/emilkowalski/sonner",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vaul",
+          "fullName": "emilkowalski/vaul",
+          "stars": 8388,
+          "url": "https://github.com/emilkowalski/vaul",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

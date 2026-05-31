@@ -1,0 +1,34 @@
+{
+  "login": "mateothegreat",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/11623940?v=4",
+  "htmlUrl": "https://github.com/mateothegreat",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 308,
+      "repoCountPrimary": 1,
+      "starsContains": 308,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "svelte5-router",
+          "fullName": "mateothegreat/svelte5-router",
+          "stars": 308,
+          "url": "https://github.com/mateothegreat/svelte5-router",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

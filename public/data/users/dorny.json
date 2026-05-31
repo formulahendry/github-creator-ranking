@@ -1,0 +1,41 @@
+{
+  "login": "dorny",
+  "name": "Michal Dorner",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1588572?v=4",
+  "htmlUrl": "https://github.com/dorny",
+  "location": "Bratislava, Slovakia",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 4308,
+      "repoCountPrimary": 2,
+      "starsContains": 4308,
+      "repoCountContains": 2,
+      "globalRank": 602,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "paths-filter",
+          "fullName": "dorny/paths-filter",
+          "stars": 3149,
+          "url": "https://github.com/dorny/paths-filter",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "test-reporter",
+          "fullName": "dorny/test-reporter",
+          "stars": 1159,
+          "url": "https://github.com/dorny/test-reporter",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

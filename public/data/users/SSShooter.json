@@ -1,0 +1,41 @@
+{
+  "login": "SSShooter",
+  "name": "DJJo",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/13051472?v=4",
+  "htmlUrl": "https://github.com/SSShooter",
+  "location": "China Guangdong Guangzhou",
+  "countryCode": "CN",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 4274,
+      "repoCountPrimary": 2,
+      "starsContains": 4274,
+      "repoCountContains": 2,
+      "globalRank": 606,
+      "countryRank": 74,
+      "topRepos": [
+        {
+          "name": "mind-elixir-core",
+          "fullName": "SSShooter/mind-elixir-core",
+          "stars": 3051,
+          "url": "https://github.com/SSShooter/mind-elixir-core",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ebook-to-mindmap",
+          "fullName": "SSShooter/ebook-to-mindmap",
+          "stars": 1223,
+          "url": "https://github.com/SSShooter/ebook-to-mindmap",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

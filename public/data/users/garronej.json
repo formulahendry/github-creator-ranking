@@ -1,0 +1,62 @@
+{
+  "login": "garronej",
+  "name": "Joseph Garrone",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6702424?v=4",
+  "htmlUrl": "https://github.com/garronej",
+  "location": "Paris, France",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3118,
+      "repoCountPrimary": 6,
+      "starsContains": 3118,
+      "repoCountContains": 6,
+      "globalRank": 865,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "denoify",
+          "fullName": "garronej/denoify",
+          "stars": 948,
+          "url": "https://github.com/garronej/denoify",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "tss-react",
+          "fullName": "garronej/tss-react",
+          "stars": 718,
+          "url": "https://github.com/garronej/tss-react",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "tsafe",
+          "fullName": "garronej/tsafe",
+          "stars": 477,
+          "url": "https://github.com/garronej/tsafe",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "evt",
+          "fullName": "garronej/evt",
+          "stars": 463,
+          "url": "https://github.com/garronej/evt",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ts-ci",
+          "fullName": "garronej/ts-ci",
+          "stars": 363,
+          "url": "https://github.com/garronej/ts-ci",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

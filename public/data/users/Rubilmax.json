@@ -1,0 +1,48 @@
+{
+  "login": "Rubilmax",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3147812?v=4",
+  "htmlUrl": "https://github.com/Rubilmax",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 410,
+      "repoCountPrimary": 3,
+      "starsContains": 410,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "foundry-gas-diff",
+          "fullName": "Rubilmax/foundry-gas-diff",
+          "stars": 208,
+          "url": "https://github.com/Rubilmax/foundry-gas-diff",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "foundry-storage-check",
+          "fullName": "Rubilmax/foundry-storage-check",
+          "stars": 101,
+          "url": "https://github.com/Rubilmax/foundry-storage-check",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "executooor",
+          "fullName": "Rubilmax/executooor",
+          "stars": 101,
+          "url": "https://github.com/Rubilmax/executooor",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

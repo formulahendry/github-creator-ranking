@@ -1,0 +1,48 @@
+{
+  "login": "Ruimve",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/112361683?v=4",
+  "htmlUrl": "https://github.com/Ruimve",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 893,
+      "repoCountPrimary": 3,
+      "starsContains": 893,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "microhook",
+          "fullName": "Ruimve/microhook",
+          "stars": 338,
+          "url": "https://github.com/Ruimve/microhook",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "resource-hint-webpack-plugin",
+          "fullName": "Ruimve/resource-hint-webpack-plugin",
+          "stars": 302,
+          "url": "https://github.com/Ruimve/resource-hint-webpack-plugin",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "microspot",
+          "fullName": "Ruimve/microspot",
+          "stars": 253,
+          "url": "https://github.com/Ruimve/microspot",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

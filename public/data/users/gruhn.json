@@ -1,0 +1,41 @@
+{
+  "login": "gruhn",
+  "name": "Niklas Gruhn",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/26570572?v=4",
+  "htmlUrl": "https://github.com/gruhn",
+  "location": "Cologne, Germany",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2825,
+      "repoCountPrimary": 2,
+      "starsContains": 2825,
+      "repoCountContains": 2,
+      "globalRank": 949,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vue-qrcode-reader",
+          "fullName": "gruhn/vue-qrcode-reader",
+          "stars": 2308,
+          "url": "https://github.com/gruhn/vue-qrcode-reader",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "typescript-sudoku",
+          "fullName": "gruhn/typescript-sudoku",
+          "stars": 517,
+          "url": "https://github.com/gruhn/typescript-sudoku",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "huizhougit",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/4254119?v=4",
+  "htmlUrl": "https://github.com/huizhougit",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 128,
+      "repoCountPrimary": 1,
+      "starsContains": 128,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "githd",
+          "fullName": "huizhougit/githd",
+          "stars": 128,
+          "url": "https://github.com/huizhougit/githd",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "jsgrrchg",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/25624391?v=4",
+  "htmlUrl": "https://github.com/jsgrrchg",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 669,
+      "repoCountPrimary": 1,
+      "starsContains": 669,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "NeverWrite",
+          "fullName": "jsgrrchg/NeverWrite",
+          "stars": 669,
+          "url": "https://github.com/jsgrrchg/NeverWrite",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

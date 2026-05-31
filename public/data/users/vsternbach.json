@@ -1,0 +1,41 @@
+{
+  "login": "vsternbach",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3830668?v=4",
+  "htmlUrl": "https://github.com/vsternbach",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 296,
+      "repoCountPrimary": 2,
+      "starsContains": 296,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "angular-ts-decorators",
+          "fullName": "vsternbach/angular-ts-decorators",
+          "stars": 151,
+          "url": "https://github.com/vsternbach/angular-ts-decorators",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "angularjs-typescript-webpack",
+          "fullName": "vsternbach/angularjs-typescript-webpack",
+          "stars": 145,
+          "url": "https://github.com/vsternbach/angularjs-typescript-webpack",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

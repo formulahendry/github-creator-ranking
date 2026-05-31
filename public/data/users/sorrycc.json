@@ -1,0 +1,48 @@
+{
+  "login": "sorrycc",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/35128?v=4",
+  "htmlUrl": "https://github.com/sorrycc",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1480,
+      "repoCountPrimary": 3,
+      "starsContains": 1480,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "weekly",
+          "fullName": "sorrycc/weekly",
+          "stars": 1095,
+          "url": "https://github.com/sorrycc/weekly",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "esbuild-webpack-plugin",
+          "fullName": "sorrycc/esbuild-webpack-plugin",
+          "stars": 262,
+          "url": "https://github.com/sorrycc/esbuild-webpack-plugin",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "toy-vite",
+          "fullName": "sorrycc/toy-vite",
+          "stars": 123,
+          "url": "https://github.com/sorrycc/toy-vite",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

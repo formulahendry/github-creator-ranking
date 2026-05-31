@@ -1,0 +1,34 @@
+{
+  "login": "HendrikStrobelt",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/950990?v=4",
+  "htmlUrl": "https://github.com/HendrikStrobelt",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 498,
+      "repoCountPrimary": 1,
+      "starsContains": 498,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "detecting-fake-text",
+          "fullName": "HendrikStrobelt/detecting-fake-text",
+          "stars": 498,
+          "url": "https://github.com/HendrikStrobelt/detecting-fake-text",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

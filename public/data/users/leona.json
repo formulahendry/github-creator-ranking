@@ -1,0 +1,34 @@
+{
+  "login": "leona",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7576361?v=4",
+  "htmlUrl": "https://github.com/leona",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 699,
+      "repoCountPrimary": 1,
+      "starsContains": 699,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "helix-gpt",
+          "fullName": "leona/helix-gpt",
+          "stars": 699,
+          "url": "https://github.com/leona/helix-gpt",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

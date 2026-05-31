@@ -1,0 +1,34 @@
+{
+  "login": "ankeetmaini",
+  "name": "Ankeet Maini",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6652823?v=4",
+  "htmlUrl": "https://github.com/ankeetmaini",
+  "location": "Bangalore",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3085,
+      "repoCountPrimary": 1,
+      "starsContains": 3085,
+      "repoCountContains": 1,
+      "globalRank": 874,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-infinite-scroll-component",
+          "fullName": "ankeetmaini/react-infinite-scroll-component",
+          "stars": 3085,
+          "url": "https://github.com/ankeetmaini/react-infinite-scroll-component",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

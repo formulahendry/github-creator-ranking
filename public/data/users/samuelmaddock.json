@@ -1,0 +1,41 @@
+{
+  "login": "samuelmaddock",
+  "name": "Sam Maddock",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1656324?v=4",
+  "htmlUrl": "https://github.com/samuelmaddock",
+  "location": "New York, NY",
+  "countryCode": "US",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3363,
+      "repoCountPrimary": 2,
+      "starsContains": 3363,
+      "repoCountContains": 2,
+      "globalRank": 806,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "metastream",
+          "fullName": "samuelmaddock/metastream",
+          "stars": 2647,
+          "url": "https://github.com/samuelmaddock/metastream",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "electron-browser-shell",
+          "fullName": "samuelmaddock/electron-browser-shell",
+          "stars": 716,
+          "url": "https://github.com/samuelmaddock/electron-browser-shell",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

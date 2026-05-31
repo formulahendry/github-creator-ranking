@@ -1,0 +1,41 @@
+{
+  "login": "jsayol",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2029586?v=4",
+  "htmlUrl": "https://github.com/jsayol",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 497,
+      "repoCountPrimary": 2,
+      "starsContains": 497,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "FireSQL",
+          "fullName": "jsayol/FireSQL",
+          "stars": 347,
+          "url": "https://github.com/jsayol/FireSQL",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vscode-firebase-explorer",
+          "fullName": "jsayol/vscode-firebase-explorer",
+          "stars": 150,
+          "url": "https://github.com/jsayol/vscode-firebase-explorer",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

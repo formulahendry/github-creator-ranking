@@ -1,0 +1,41 @@
+{
+  "login": "cameronhunter",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/246534?v=4",
+  "htmlUrl": "https://github.com/cameronhunter",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 906,
+      "repoCountPrimary": 2,
+      "starsContains": 906,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "local-ssl-proxy",
+          "fullName": "cameronhunter/local-ssl-proxy",
+          "stars": 749,
+          "url": "https://github.com/cameronhunter/local-ssl-proxy",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "prettier-package-json",
+          "fullName": "cameronhunter/prettier-package-json",
+          "stars": 157,
+          "url": "https://github.com/cameronhunter/prettier-package-json",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

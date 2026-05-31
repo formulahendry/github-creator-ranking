@@ -1,0 +1,41 @@
+{
+  "login": "EndBug",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/26386270?v=4",
+  "htmlUrl": "https://github.com/EndBug",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1386,
+      "repoCountPrimary": 2,
+      "starsContains": 1386,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "add-and-commit",
+          "fullName": "EndBug/add-and-commit",
+          "stars": 1278,
+          "url": "https://github.com/EndBug/add-and-commit",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "version-check",
+          "fullName": "EndBug/version-check",
+          "stars": 108,
+          "url": "https://github.com/EndBug/version-check",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

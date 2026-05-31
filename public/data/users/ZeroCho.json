@@ -1,0 +1,48 @@
+{
+  "login": "ZeroCho",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/10962668?v=4",
+  "htmlUrl": "https://github.com/ZeroCho",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 831,
+      "repoCountPrimary": 3,
+      "starsContains": 831,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "sleact",
+          "fullName": "ZeroCho/sleact",
+          "stars": 311,
+          "url": "https://github.com/ZeroCho/sleact",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ts-all-in-one",
+          "fullName": "ZeroCho/ts-all-in-one",
+          "stars": 297,
+          "url": "https://github.com/ZeroCho/ts-all-in-one",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "next-app-router-z",
+          "fullName": "ZeroCho/next-app-router-z",
+          "stars": 223,
+          "url": "https://github.com/ZeroCho/next-app-router-z",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

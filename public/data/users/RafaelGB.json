@@ -1,0 +1,41 @@
+{
+  "login": "RafaelGB",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/11924043?v=4",
+  "htmlUrl": "https://github.com/RafaelGB",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1562,
+      "repoCountPrimary": 2,
+      "starsContains": 1562,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "obsidian-db-folder",
+          "fullName": "RafaelGB/obsidian-db-folder",
+          "stars": 1401,
+          "url": "https://github.com/RafaelGB/obsidian-db-folder",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Obsidian-ZettelFlow",
+          "fullName": "RafaelGB/Obsidian-ZettelFlow",
+          "stars": 161,
+          "url": "https://github.com/RafaelGB/Obsidian-ZettelFlow",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

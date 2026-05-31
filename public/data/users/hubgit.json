@@ -1,0 +1,34 @@
+{
+  "login": "hubgit",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/14294?v=4",
+  "htmlUrl": "https://github.com/hubgit",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 249,
+      "repoCountPrimary": 1,
+      "starsContains": 249,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-prosemirror",
+          "fullName": "hubgit/react-prosemirror",
+          "stars": 249,
+          "url": "https://github.com/hubgit/react-prosemirror",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

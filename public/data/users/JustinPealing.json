@@ -1,0 +1,34 @@
+{
+  "login": "JustinPealing",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/4189474?v=4",
+  "htmlUrl": "https://github.com/JustinPealing",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 221,
+      "repoCountPrimary": 1,
+      "starsContains": 221,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "html-query-plan",
+          "fullName": "JustinPealing/html-query-plan",
+          "stars": 221,
+          "url": "https://github.com/JustinPealing/html-query-plan",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

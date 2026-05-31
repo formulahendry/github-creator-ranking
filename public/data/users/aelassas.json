@@ -1,0 +1,41 @@
+{
+  "login": "aelassas",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1339626?v=4",
+  "htmlUrl": "https://github.com/aelassas",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 792,
+      "repoCountPrimary": 2,
+      "starsContains": 792,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "bookcars",
+          "fullName": "aelassas/bookcars",
+          "stars": 585,
+          "url": "https://github.com/aelassas/bookcars",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "movinin",
+          "fullName": "aelassas/movinin",
+          "stars": 207,
+          "url": "https://github.com/aelassas/movinin",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

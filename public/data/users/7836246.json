@@ -1,0 +1,34 @@
+{
+  "login": "7836246",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/65436665?v=4",
+  "htmlUrl": "https://github.com/7836246",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1807,
+      "repoCountPrimary": 1,
+      "starsContains": 1807,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "cursor2api",
+          "fullName": "7836246/cursor2api",
+          "stars": 1807,
+          "url": "https://github.com/7836246/cursor2api",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

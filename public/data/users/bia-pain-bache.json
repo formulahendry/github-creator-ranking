@@ -1,0 +1,34 @@
+{
+  "login": "bia-pain-bache",
+  "name": "Bia Pain Bache",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/155004885?v=4",
+  "htmlUrl": "https://github.com/bia-pain-bache",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 10988,
+      "repoCountPrimary": 1,
+      "starsContains": 10988,
+      "repoCountContains": 1,
+      "globalRank": 193,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "BPB-Worker-Panel",
+          "fullName": "bia-pain-bache/BPB-Worker-Panel",
+          "stars": 10988,
+          "url": "https://github.com/bia-pain-bache/BPB-Worker-Panel",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

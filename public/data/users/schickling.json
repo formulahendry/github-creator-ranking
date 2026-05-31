@@ -1,0 +1,48 @@
+{
+  "login": "schickling",
+  "name": "Johannes Schickling",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1567498?v=4",
+  "htmlUrl": "https://github.com/schickling",
+  "location": "Berlin",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 13453,
+      "repoCountPrimary": 3,
+      "starsContains": 13453,
+      "repoCountContains": 3,
+      "globalRank": 147,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "chromeless",
+          "fullName": "schickling/chromeless",
+          "stars": 13228,
+          "url": "https://github.com/schickling/chromeless",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "calculate-size",
+          "fullName": "schickling/calculate-size",
+          "stars": 121,
+          "url": "https://github.com/schickling/calculate-size",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "dilagent",
+          "fullName": "schickling/dilagent",
+          "stars": 104,
+          "url": "https://github.com/schickling/dilagent",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

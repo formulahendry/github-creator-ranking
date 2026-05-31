@@ -1,0 +1,41 @@
+{
+  "login": "jpedroschmitz",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/26466516?v=4",
+  "htmlUrl": "https://github.com/jpedroschmitz",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1739,
+      "repoCountPrimary": 2,
+      "starsContains": 1739,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "typescript-nextjs-starter",
+          "fullName": "jpedroschmitz/typescript-nextjs-starter",
+          "stars": 1436,
+          "url": "https://github.com/jpedroschmitz/typescript-nextjs-starter",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "gatsby-starter-ts",
+          "fullName": "jpedroschmitz/gatsby-starter-ts",
+          "stars": 303,
+          "url": "https://github.com/jpedroschmitz/gatsby-starter-ts",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

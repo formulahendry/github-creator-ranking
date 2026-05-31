@@ -1,0 +1,34 @@
+{
+  "login": "eshaham",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7040645?v=4",
+  "htmlUrl": "https://github.com/eshaham",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 993,
+      "repoCountPrimary": 1,
+      "starsContains": 993,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "israeli-bank-scrapers",
+          "fullName": "eshaham/israeli-bank-scrapers",
+          "stars": 993,
+          "url": "https://github.com/eshaham/israeli-bank-scrapers",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

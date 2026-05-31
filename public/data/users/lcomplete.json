@@ -1,0 +1,34 @@
+{
+  "login": "lcomplete",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3435278?v=4",
+  "htmlUrl": "https://github.com/lcomplete",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2323,
+      "repoCountPrimary": 1,
+      "starsContains": 2323,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "huntly",
+          "fullName": "lcomplete/huntly",
+          "stars": 2323,
+          "url": "https://github.com/lcomplete/huntly",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

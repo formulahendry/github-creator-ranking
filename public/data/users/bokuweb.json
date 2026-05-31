@@ -1,0 +1,55 @@
+{
+  "login": "bokuweb",
+  "name": "bokuweb",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/10220449?v=4",
+  "htmlUrl": "https://github.com/bokuweb",
+  "location": "Japan",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 7787,
+      "repoCountPrimary": 4,
+      "starsContains": 7787,
+      "repoCountContains": 4,
+      "globalRank": 295,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-rnd",
+          "fullName": "bokuweb/react-rnd",
+          "stars": 4305,
+          "url": "https://github.com/bokuweb/react-rnd",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "re-resizable",
+          "fullName": "bokuweb/re-resizable",
+          "stars": 2672,
+          "url": "https://github.com/bokuweb/re-resizable",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-sortable-pane",
+          "fullName": "bokuweb/react-sortable-pane",
+          "stars": 651,
+          "url": "https://github.com/bokuweb/react-sortable-pane",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "zstd-wasm",
+          "fullName": "bokuweb/zstd-wasm",
+          "stars": 159,
+          "url": "https://github.com/bokuweb/zstd-wasm",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "jhlee0409",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/60695299?v=4",
+  "htmlUrl": "https://github.com/jhlee0409",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1439,
+      "repoCountPrimary": 1,
+      "starsContains": 1439,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "claude-code-history-viewer",
+          "fullName": "jhlee0409/claude-code-history-viewer",
+          "stars": 1439,
+          "url": "https://github.com/jhlee0409/claude-code-history-viewer",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

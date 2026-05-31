@@ -1,0 +1,34 @@
+{
+  "login": "jacoblee93",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6952323?v=4",
+  "htmlUrl": "https://github.com/jacoblee93",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1814,
+      "repoCountPrimary": 1,
+      "starsContains": 1814,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "fully-local-pdf-chatbot",
+          "fullName": "jacoblee93/fully-local-pdf-chatbot",
+          "stars": 1814,
+          "url": "https://github.com/jacoblee93/fully-local-pdf-chatbot",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

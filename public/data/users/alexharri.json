@@ -1,0 +1,41 @@
+{
+  "login": "alexharri",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/20321920?v=4",
+  "htmlUrl": "https://github.com/alexharri",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 218,
+      "repoCountPrimary": 2,
+      "starsContains": 218,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "website",
+          "fullName": "alexharri/website",
+          "stars": 112,
+          "url": "https://github.com/alexharri/website",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "animation-editor",
+          "fullName": "alexharri/animation-editor",
+          "stars": 106,
+          "url": "https://github.com/alexharri/animation-editor",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

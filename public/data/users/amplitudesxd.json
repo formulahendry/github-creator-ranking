@@ -1,0 +1,34 @@
+{
+  "login": "amplitudesxd",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/62763456?v=4",
+  "htmlUrl": "https://github.com/amplitudesxd",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 121,
+      "repoCountPrimary": 1,
+      "starsContains": 121,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "discord-k-id-verifier",
+          "fullName": "amplitudesxd/discord-k-id-verifier",
+          "stars": 121,
+          "url": "https://github.com/amplitudesxd/discord-k-id-verifier",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

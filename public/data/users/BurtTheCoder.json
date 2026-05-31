@@ -1,0 +1,41 @@
+{
+  "login": "BurtTheCoder",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/35901329?v=4",
+  "htmlUrl": "https://github.com/BurtTheCoder",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 262,
+      "repoCountPrimary": 2,
+      "starsContains": 262,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "mcp-virustotal",
+          "fullName": "BurtTheCoder/mcp-virustotal",
+          "stars": 131,
+          "url": "https://github.com/BurtTheCoder/mcp-virustotal",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "mcp-shodan",
+          "fullName": "BurtTheCoder/mcp-shodan",
+          "stars": 131,
+          "url": "https://github.com/BurtTheCoder/mcp-shodan",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

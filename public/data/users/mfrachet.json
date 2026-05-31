@@ -1,0 +1,34 @@
+{
+  "login": "mfrachet",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3874873?v=4",
+  "htmlUrl": "https://github.com/mfrachet",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2129,
+      "repoCountPrimary": 1,
+      "starsContains": 2129,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "rn-placeholder",
+          "fullName": "mfrachet/rn-placeholder",
+          "stars": 2129,
+          "url": "https://github.com/mfrachet/rn-placeholder",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "HaithemMosbahi",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3057088?v=4",
+  "htmlUrl": "https://github.com/HaithemMosbahi",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 235,
+      "repoCountPrimary": 1,
+      "starsContains": 235,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ngx-avatar",
+          "fullName": "HaithemMosbahi/ngx-avatar",
+          "stars": 235,
+          "url": "https://github.com/HaithemMosbahi/ngx-avatar",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

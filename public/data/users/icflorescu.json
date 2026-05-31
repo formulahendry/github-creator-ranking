@@ -1,0 +1,48 @@
+{
+  "login": "icflorescu",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/581999?v=4",
+  "htmlUrl": "https://github.com/icflorescu",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2235,
+      "repoCountPrimary": 3,
+      "starsContains": 2235,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "mantine-datatable",
+          "fullName": "icflorescu/mantine-datatable",
+          "stars": 1223,
+          "url": "https://github.com/icflorescu/mantine-datatable",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "trpc-sveltekit",
+          "fullName": "icflorescu/trpc-sveltekit",
+          "stars": 841,
+          "url": "https://github.com/icflorescu/trpc-sveltekit",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "mantine-contextmenu",
+          "fullName": "icflorescu/mantine-contextmenu",
+          "stars": 171,
+          "url": "https://github.com/icflorescu/mantine-contextmenu",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

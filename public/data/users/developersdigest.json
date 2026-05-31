@@ -1,0 +1,55 @@
+{
+  "login": "developersdigest",
+  "name": "Developers Digest",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/124798203?v=4",
+  "htmlUrl": "https://github.com/developersdigest",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 6187,
+      "repoCountPrimary": 4,
+      "starsContains": 6187,
+      "repoCountContains": 4,
+      "globalRank": 381,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "llm-answer-engine",
+          "fullName": "developersdigest/llm-answer-engine",
+          "stars": 5026,
+          "url": "https://github.com/developersdigest/llm-answer-engine",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "llm-api-engine",
+          "fullName": "developersdigest/llm-api-engine",
+          "stars": 755,
+          "url": "https://github.com/developersdigest/llm-api-engine",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ai-devices",
+          "fullName": "developersdigest/ai-devices",
+          "stars": 295,
+          "url": "https://github.com/developersdigest/ai-devices",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "anthropic-claude-clone-v1",
+          "fullName": "developersdigest/anthropic-claude-clone-v1",
+          "stars": 111,
+          "url": "https://github.com/developersdigest/anthropic-claude-clone-v1",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

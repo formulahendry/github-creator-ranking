@@ -1,0 +1,34 @@
+{
+  "login": "IgnisDa",
+  "name": "Diptesh",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/60938164?v=4",
+  "htmlUrl": "https://github.com/IgnisDa",
+  "location": "Betelgeuse",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3310,
+      "repoCountPrimary": 1,
+      "starsContains": 3310,
+      "repoCountContains": 1,
+      "globalRank": 817,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ryot",
+          "fullName": "IgnisDa/ryot",
+          "stars": 3310,
+          "url": "https://github.com/IgnisDa/ryot",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

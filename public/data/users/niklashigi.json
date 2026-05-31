@@ -1,0 +1,41 @@
+{
+  "login": "niklashigi",
+  "name": "Niklas Higi",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/29176678?v=4",
+  "htmlUrl": "https://github.com/niklashigi",
+  "location": "Berlin, Germany",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 5134,
+      "repoCountPrimary": 2,
+      "starsContains": 5134,
+      "repoCountContains": 2,
+      "globalRank": 486,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "apk-mitm",
+          "fullName": "niklashigi/apk-mitm",
+          "stars": 5020,
+          "url": "https://github.com/niklashigi/apk-mitm",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "devstats",
+          "fullName": "niklashigi/devstats",
+          "stars": 114,
+          "url": "https://github.com/niklashigi/devstats",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

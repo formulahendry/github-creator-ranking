@@ -1,0 +1,48 @@
+{
+  "login": "jonluca",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/13029040?v=4",
+  "htmlUrl": "https://github.com/jonluca",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 642,
+      "repoCountPrimary": 3,
+      "starsContains": 642,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vite-typescript-ssr-react",
+          "fullName": "jonluca/vite-typescript-ssr-react",
+          "stars": 349,
+          "url": "https://github.com/jonluca/vite-typescript-ssr-react",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "mimessage",
+          "fullName": "jonluca/mimessage",
+          "stars": 163,
+          "url": "https://github.com/jonluca/mimessage",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "har-to-openapi",
+          "fullName": "jonluca/har-to-openapi",
+          "stars": 130,
+          "url": "https://github.com/jonluca/har-to-openapi",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

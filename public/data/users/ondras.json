@@ -1,0 +1,41 @@
+{
+  "login": "ondras",
+  "name": "Ondřej Žára",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/192172?v=4",
+  "htmlUrl": "https://github.com/ondras",
+  "location": "Prague",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3468,
+      "repoCountPrimary": 2,
+      "starsContains": 3468,
+      "repoCountContains": 2,
+      "globalRank": 778,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "my-mind",
+          "fullName": "ondras/my-mind",
+          "stars": 3364,
+          "url": "https://github.com/ondras/my-mind",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "rri",
+          "fullName": "ondras/rri",
+          "stars": 104,
+          "url": "https://github.com/ondras/rri",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

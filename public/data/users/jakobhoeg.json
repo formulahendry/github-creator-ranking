@@ -1,0 +1,62 @@
+{
+  "login": "jakobhoeg",
+  "name": "Jakob Hoeg Mørk",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/114422072?v=4",
+  "htmlUrl": "https://github.com/jakobhoeg",
+  "location": "Denmark",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 4460,
+      "repoCountPrimary": 5,
+      "starsContains": 4460,
+      "repoCountContains": 5,
+      "globalRank": 576,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "shadcn-chat",
+          "fullName": "jakobhoeg/shadcn-chat",
+          "stars": 1613,
+          "url": "https://github.com/jakobhoeg/shadcn-chat",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "nextjs-ollama-llm-ui",
+          "fullName": "jakobhoeg/nextjs-ollama-llm-ui",
+          "stars": 1417,
+          "url": "https://github.com/jakobhoeg/nextjs-ollama-llm-ui",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "enhanced-button",
+          "fullName": "jakobhoeg/enhanced-button",
+          "stars": 926,
+          "url": "https://github.com/jakobhoeg/enhanced-button",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vscode-pokemon",
+          "fullName": "jakobhoeg/vscode-pokemon",
+          "stars": 335,
+          "url": "https://github.com/jakobhoeg/vscode-pokemon",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "browser-ai",
+          "fullName": "jakobhoeg/browser-ai",
+          "stars": 169,
+          "url": "https://github.com/jakobhoeg/browser-ai",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

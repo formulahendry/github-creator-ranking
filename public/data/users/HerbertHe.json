@@ -1,0 +1,34 @@
+{
+  "login": "HerbertHe",
+  "name": "Herbert He",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/30955264?v=4",
+  "htmlUrl": "https://github.com/HerbertHe",
+  "location": "undefined",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 8764,
+      "repoCountPrimary": 1,
+      "starsContains": 8764,
+      "repoCountContains": 1,
+      "globalRank": 257,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "iptv-sources",
+          "fullName": "HerbertHe/iptv-sources",
+          "stars": 8764,
+          "url": "https://github.com/HerbertHe/iptv-sources",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

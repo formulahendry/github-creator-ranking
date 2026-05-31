@@ -1,0 +1,41 @@
+{
+  "login": "SylarLong",
+  "name": "Sylar",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6510425?v=4",
+  "htmlUrl": "https://github.com/SylarLong",
+  "location": "Chengdu",
+  "countryCode": "CN",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 4271,
+      "repoCountPrimary": 2,
+      "starsContains": 4271,
+      "repoCountContains": 2,
+      "globalRank": 607,
+      "countryRank": 75,
+      "topRepos": [
+        {
+          "name": "iztro",
+          "fullName": "SylarLong/iztro",
+          "stars": 3755,
+          "url": "https://github.com/SylarLong/iztro",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-iztro",
+          "fullName": "SylarLong/react-iztro",
+          "stars": 516,
+          "url": "https://github.com/SylarLong/react-iztro",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

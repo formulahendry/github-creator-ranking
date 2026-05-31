@@ -1,0 +1,48 @@
+{
+  "login": "trungvose",
+  "name": "Trung Vo",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6767322?v=4",
+  "htmlUrl": "https://github.com/trungvose",
+  "location": "Singapore",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 5594,
+      "repoCountPrimary": 3,
+      "starsContains": 5594,
+      "repoCountContains": 3,
+      "globalRank": 433,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "angular-spotify",
+          "fullName": "trungvose/angular-spotify",
+          "stars": 2778,
+          "url": "https://github.com/trungvose/angular-spotify",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "jira-clone-angular",
+          "fullName": "trungvose/jira-clone-angular",
+          "stars": 2274,
+          "url": "https://github.com/trungvose/jira-clone-angular",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "angular-tetris",
+          "fullName": "trungvose/angular-tetris",
+          "stars": 542,
+          "url": "https://github.com/trungvose/angular-tetris",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

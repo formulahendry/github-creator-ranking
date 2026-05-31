@@ -1,0 +1,34 @@
+{
+  "login": "daohoangson",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/239336?v=4",
+  "htmlUrl": "https://github.com/daohoangson",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 333,
+      "repoCountPrimary": 1,
+      "starsContains": 333,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "dvhcvn",
+          "fullName": "daohoangson/dvhcvn",
+          "stars": 333,
+          "url": "https://github.com/daohoangson/dvhcvn",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

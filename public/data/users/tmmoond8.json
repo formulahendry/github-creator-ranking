@@ -1,0 +1,34 @@
+{
+  "login": "tmmoond8",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/11402468?v=4",
+  "htmlUrl": "https://github.com/tmmoond8",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 380,
+      "repoCountPrimary": 1,
+      "starsContains": 380,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "noticon",
+          "fullName": "tmmoond8/noticon",
+          "stars": 380,
+          "url": "https://github.com/tmmoond8/noticon",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

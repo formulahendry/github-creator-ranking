@@ -1,0 +1,41 @@
+{
+  "login": "svtslv",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/45773092?v=4",
+  "htmlUrl": "https://github.com/svtslv",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 370,
+      "repoCountPrimary": 2,
+      "starsContains": 370,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "webdav-cli",
+          "fullName": "svtslv/webdav-cli",
+          "stars": 267,
+          "url": "https://github.com/svtslv/webdav-cli",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "nestjs-kubernetes",
+          "fullName": "svtslv/nestjs-kubernetes",
+          "stars": 103,
+          "url": "https://github.com/svtslv/nestjs-kubernetes",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

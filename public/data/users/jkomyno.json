@@ -1,0 +1,34 @@
+{
+  "login": "jkomyno",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/12381818?v=4",
+  "htmlUrl": "https://github.com/jkomyno",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 217,
+      "repoCountPrimary": 1,
+      "starsContains": 217,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-native-user-inactivity",
+          "fullName": "jkomyno/react-native-user-inactivity",
+          "stars": 217,
+          "url": "https://github.com/jkomyno/react-native-user-inactivity",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

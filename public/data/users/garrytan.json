@@ -5,7 +5,7 @@
   "htmlUrl": "https://github.com/garrytan",
   "location": "San Francisco, CA",
   "countryCode": null,
-  "generatedAt": "2026-05-31T13:50:40.799Z",
+  "generatedAt": "2026-05-31T21:54:15.042Z",
   "isPartial": true,
   "languages": [
     {
@@ -14,18 +14,25 @@
         "name": "TypeScript",
         "githubQuery": "TypeScript"
       },
-      "starsPrimary": 104970,
-      "repoCountPrimary": 1,
-      "starsContains": 104970,
-      "repoCountContains": 1,
+      "starsPrimary": 125235,
+      "repoCountPrimary": 2,
+      "starsContains": 125235,
+      "repoCountContains": 2,
       "globalRank": 2,
       "countryRank": null,
       "topRepos": [
         {
           "name": "gstack",
           "fullName": "garrytan/gstack",
-          "stars": 104970,
+          "stars": 105126,
           "url": "https://github.com/garrytan/gstack",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "gbrain",
+          "fullName": "garrytan/gbrain",
+          "stars": 20109,
+          "url": "https://github.com/garrytan/gbrain",
           "primaryLanguage": "TypeScript"
         }
       ]

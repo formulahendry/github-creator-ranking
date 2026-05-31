@@ -1,0 +1,34 @@
+{
+  "login": "aree6",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/102909326?v=4",
+  "htmlUrl": "https://github.com/aree6",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 438,
+      "repoCountPrimary": 1,
+      "starsContains": 438,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "LiftShift",
+          "fullName": "aree6/LiftShift",
+          "stars": 438,
+          "url": "https://github.com/aree6/LiftShift",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

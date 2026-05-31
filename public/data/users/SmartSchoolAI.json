@@ -1,0 +1,34 @@
+{
+  "login": "SmartSchoolAI",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/157336464?v=4",
+  "htmlUrl": "https://github.com/SmartSchoolAI",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1439,
+      "repoCountPrimary": 1,
+      "starsContains": 1439,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ai-to-pptx",
+          "fullName": "SmartSchoolAI/ai-to-pptx",
+          "stars": 1439,
+          "url": "https://github.com/SmartSchoolAI/ai-to-pptx",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

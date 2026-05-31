@@ -1,0 +1,55 @@
+{
+  "login": "4lejandrito",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1937354?v=4",
+  "htmlUrl": "https://github.com/4lejandrito",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1994,
+      "repoCountPrimary": 4,
+      "starsContains": 1994,
+      "repoCountContains": 4,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "next-plausible",
+          "fullName": "4lejandrito/next-plausible",
+          "stars": 702,
+          "url": "https://github.com/4lejandrito/next-plausible",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-guitar",
+          "fullName": "4lejandrito/react-guitar",
+          "stars": 651,
+          "url": "https://github.com/4lejandrito/react-guitar",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "creepyface",
+          "fullName": "4lejandrito/creepyface",
+          "stars": 491,
+          "url": "https://github.com/4lejandrito/creepyface",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "fetchbook",
+          "fullName": "4lejandrito/fetchbook",
+          "stars": 150,
+          "url": "https://github.com/4lejandrito/fetchbook",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

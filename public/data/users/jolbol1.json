@@ -1,0 +1,41 @@
+{
+  "login": "jolbol1",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/5064896?v=4",
+  "htmlUrl": "https://github.com/jolbol1",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1308,
+      "repoCountPrimary": 2,
+      "starsContains": 1308,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "jolly-ui",
+          "fullName": "jolbol1/jolly-ui",
+          "stars": 1114,
+          "url": "https://github.com/jolbol1/jolly-ui",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "nextjs-velite-blog-template",
+          "fullName": "jolbol1/nextjs-velite-blog-template",
+          "stars": 194,
+          "url": "https://github.com/jolbol1/nextjs-velite-blog-template",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

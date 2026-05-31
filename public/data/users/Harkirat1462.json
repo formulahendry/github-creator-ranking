@@ -1,0 +1,34 @@
+{
+  "login": "Harkirat1462",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/193872769?v=4",
+  "htmlUrl": "https://github.com/Harkirat1462",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 320,
+      "repoCountPrimary": 1,
+      "starsContains": 320,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "claude-code-cli",
+          "fullName": "Harkirat1462/claude-code-cli",
+          "stars": 320,
+          "url": "https://github.com/Harkirat1462/claude-code-cli",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

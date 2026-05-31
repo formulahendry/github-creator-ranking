@@ -1,0 +1,62 @@
+{
+  "login": "ItusiAI",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/196512421?v=4",
+  "htmlUrl": "https://github.com/ItusiAI",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1262,
+      "repoCountPrimary": 5,
+      "starsContains": 1262,
+      "repoCountContains": 5,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Open-VoiceCanvas",
+          "fullName": "ItusiAI/Open-VoiceCanvas",
+          "stars": 460,
+          "url": "https://github.com/ItusiAI/Open-VoiceCanvas",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Open-Aiartools",
+          "fullName": "ItusiAI/Open-Aiartools",
+          "stars": 310,
+          "url": "https://github.com/ItusiAI/Open-Aiartools",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "AI-Translation-Assistant-Pro",
+          "fullName": "ItusiAI/AI-Translation-Assistant-Pro",
+          "stars": 193,
+          "url": "https://github.com/ItusiAI/AI-Translation-Assistant-Pro",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "Open-PDF2MD",
+          "fullName": "ItusiAI/Open-PDF2MD",
+          "stars": 181,
+          "url": "https://github.com/ItusiAI/Open-PDF2MD",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "get-saas",
+          "fullName": "ItusiAI/get-saas",
+          "stars": 118,
+          "url": "https://github.com/ItusiAI/get-saas",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

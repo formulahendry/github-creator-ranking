@@ -1,0 +1,55 @@
+{
+  "login": "grubersjoe",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/3109364?v=4",
+  "htmlUrl": "https://github.com/grubersjoe",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1522,
+      "repoCountPrimary": 4,
+      "starsContains": 1522,
+      "repoCountContains": 4,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-github-calendar",
+          "fullName": "grubersjoe/react-github-calendar",
+          "stars": 652,
+          "url": "https://github.com/grubersjoe/react-github-calendar",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-activity-calendar",
+          "fullName": "grubersjoe/react-activity-calendar",
+          "stars": 571,
+          "url": "https://github.com/grubersjoe/react-activity-calendar",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "github-contributions-api",
+          "fullName": "grubersjoe/github-contributions-api",
+          "stars": 166,
+          "url": "https://github.com/grubersjoe/github-contributions-api",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "slide-menu",
+          "fullName": "grubersjoe/slide-menu",
+          "stars": 133,
+          "url": "https://github.com/grubersjoe/slide-menu",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

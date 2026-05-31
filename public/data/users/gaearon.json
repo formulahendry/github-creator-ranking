@@ -1,0 +1,41 @@
+{
+  "login": "gaearon",
+  "name": "dan",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/810438?v=4",
+  "htmlUrl": "https://github.com/gaearon",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 8366,
+      "repoCountPrimary": 2,
+      "starsContains": 8366,
+      "repoCountContains": 2,
+      "globalRank": 271,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "overreacted.io",
+          "fullName": "gaearon/overreacted.io",
+          "stars": 7269,
+          "url": "https://github.com/gaearon/overreacted.io",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "rscexplorer",
+          "fullName": "gaearon/rscexplorer",
+          "stars": 1097,
+          "url": "https://github.com/gaearon/rscexplorer",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

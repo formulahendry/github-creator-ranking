@@ -1,0 +1,41 @@
+{
+  "login": "plasticrake",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1383980?v=4",
+  "htmlUrl": "https://github.com/plasticrake",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1568,
+      "repoCountPrimary": 2,
+      "starsContains": 1568,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "tplink-smarthome-api",
+          "fullName": "plasticrake/tplink-smarthome-api",
+          "stars": 1055,
+          "url": "https://github.com/plasticrake/tplink-smarthome-api",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "homebridge-tplink-smarthome",
+          "fullName": "plasticrake/homebridge-tplink-smarthome",
+          "stars": 513,
+          "url": "https://github.com/plasticrake/homebridge-tplink-smarthome",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

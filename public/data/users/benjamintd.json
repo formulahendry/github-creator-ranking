@@ -1,0 +1,34 @@
+{
+  "login": "benjamintd",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/11202803?v=4",
+  "htmlUrl": "https://github.com/benjamintd",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 722,
+      "repoCountPrimary": 1,
+      "starsContains": 722,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "chronotrains",
+          "fullName": "benjamintd/chronotrains",
+          "stars": 722,
+          "url": "https://github.com/benjamintd/chronotrains",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

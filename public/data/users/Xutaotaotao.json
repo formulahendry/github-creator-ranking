@@ -1,0 +1,41 @@
+{
+  "login": "Xutaotaotao",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/24652625?v=4",
+  "htmlUrl": "https://github.com/Xutaotaotao",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 351,
+      "repoCountPrimary": 2,
+      "starsContains": 351,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "electron-prokit",
+          "fullName": "Xutaotaotao/electron-prokit",
+          "stars": 240,
+          "url": "https://github.com/Xutaotaotao/electron-prokit",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "get-installed-apps",
+          "fullName": "Xutaotaotao/get-installed-apps",
+          "stars": 111,
+          "url": "https://github.com/Xutaotaotao/get-installed-apps",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

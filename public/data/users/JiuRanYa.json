@@ -1,0 +1,41 @@
+{
+  "login": "JiuRanYa",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/58846658?v=4",
+  "htmlUrl": "https://github.com/JiuRanYa",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 384,
+      "repoCountPrimary": 2,
+      "starsContains": 384,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "text-to-svg",
+          "fullName": "JiuRanYa/text-to-svg",
+          "stars": 236,
+          "url": "https://github.com/JiuRanYa/text-to-svg",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "IconEase",
+          "fullName": "JiuRanYa/IconEase",
+          "stars": 148,
+          "url": "https://github.com/JiuRanYa/IconEase",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

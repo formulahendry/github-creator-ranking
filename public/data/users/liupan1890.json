@@ -1,0 +1,34 @@
+{
+  "login": "liupan1890",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/67817756?v=4",
+  "htmlUrl": "https://github.com/liupan1890",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 11914,
+      "repoCountPrimary": 1,
+      "starsContains": 11914,
+      "repoCountContains": 1,
+      "globalRank": 174,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "aliyunpan",
+          "fullName": "liupan1890/aliyunpan",
+          "stars": 11914,
+          "url": "https://github.com/liupan1890/aliyunpan",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

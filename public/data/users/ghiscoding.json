@@ -1,0 +1,55 @@
+{
+  "login": "ghiscoding",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/643976?v=4",
+  "htmlUrl": "https://github.com/ghiscoding",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 884,
+      "repoCountPrimary": 4,
+      "starsContains": 884,
+      "repoCountContains": 4,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Angular-Slickgrid",
+          "fullName": "ghiscoding/Angular-Slickgrid",
+          "stars": 409,
+          "url": "https://github.com/ghiscoding/Angular-Slickgrid",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "angular-markdown-editor",
+          "fullName": "ghiscoding/angular-markdown-editor",
+          "stars": 177,
+          "url": "https://github.com/ghiscoding/angular-markdown-editor",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "slickgrid-universal",
+          "fullName": "ghiscoding/slickgrid-universal",
+          "stars": 165,
+          "url": "https://github.com/ghiscoding/slickgrid-universal",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "aurelia-slickgrid",
+          "fullName": "ghiscoding/aurelia-slickgrid",
+          "stars": 133,
+          "url": "https://github.com/ghiscoding/aurelia-slickgrid",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

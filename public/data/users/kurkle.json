@@ -1,0 +1,41 @@
+{
+  "login": "kurkle",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/27971921?v=4",
+  "htmlUrl": "https://github.com/kurkle",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 424,
+      "repoCountPrimary": 2,
+      "starsContains": 424,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "chartjs-chart-matrix",
+          "fullName": "kurkle/chartjs-chart-matrix",
+          "stars": 243,
+          "url": "https://github.com/kurkle/chartjs-chart-matrix",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "chartjs-chart-sankey",
+          "fullName": "kurkle/chartjs-chart-sankey",
+          "stars": 181,
+          "url": "https://github.com/kurkle/chartjs-chart-sankey",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

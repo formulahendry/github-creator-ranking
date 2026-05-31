@@ -1,0 +1,34 @@
+{
+  "login": "emeraldsanto",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/33291795?v=4",
+  "htmlUrl": "https://github.com/emeraldsanto",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 573,
+      "repoCountPrimary": 1,
+      "starsContains": 573,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-native-encrypted-storage",
+          "fullName": "emeraldsanto/react-native-encrypted-storage",
+          "stars": 573,
+          "url": "https://github.com/emeraldsanto/react-native-encrypted-storage",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

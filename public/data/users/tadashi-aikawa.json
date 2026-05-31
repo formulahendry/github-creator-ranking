@@ -1,0 +1,41 @@
+{
+  "login": "tadashi-aikawa",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/9500018?v=4",
+  "htmlUrl": "https://github.com/tadashi-aikawa",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1289,
+      "repoCountPrimary": 2,
+      "starsContains": 1289,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "obsidian-various-complements-plugin",
+          "fullName": "tadashi-aikawa/obsidian-various-complements-plugin",
+          "stars": 898,
+          "url": "https://github.com/tadashi-aikawa/obsidian-various-complements-plugin",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "obsidian-another-quick-switcher",
+          "fullName": "tadashi-aikawa/obsidian-another-quick-switcher",
+          "stars": 391,
+          "url": "https://github.com/tadashi-aikawa/obsidian-another-quick-switcher",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

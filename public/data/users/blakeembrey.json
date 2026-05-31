@@ -1,0 +1,62 @@
+{
+  "login": "blakeembrey",
+  "name": "Blake Embrey",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1088987?v=4",
+  "htmlUrl": "https://github.com/blakeembrey",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3787,
+      "repoCountPrimary": 5,
+      "starsContains": 3787,
+      "repoCountContains": 5,
+      "globalRank": 703,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "change-case",
+          "fullName": "blakeembrey/change-case",
+          "stars": 2404,
+          "url": "https://github.com/blakeembrey/change-case",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "free-style",
+          "fullName": "blakeembrey/free-style",
+          "stars": 708,
+          "url": "https://github.com/blakeembrey/free-style",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "sql-template-tag",
+          "fullName": "blakeembrey/sql-template-tag",
+          "stars": 388,
+          "url": "https://github.com/blakeembrey/sql-template-tag",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "javascript-stringify",
+          "fullName": "blakeembrey/javascript-stringify",
+          "stars": 147,
+          "url": "https://github.com/blakeembrey/javascript-stringify",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-free-style",
+          "fullName": "blakeembrey/react-free-style",
+          "stars": 140,
+          "url": "https://github.com/blakeembrey/react-free-style",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

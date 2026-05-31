@@ -1,0 +1,48 @@
+{
+  "login": "codebdy",
+  "name": "Water.Li",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/18096128?v=4",
+  "htmlUrl": "https://github.com/codebdy",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 4227,
+      "repoCountPrimary": 3,
+      "starsContains": 4227,
+      "repoCountContains": 3,
+      "globalRank": 612,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "rxdrag",
+          "fullName": "codebdy/rxdrag",
+          "stars": 3761,
+          "url": "https://github.com/codebdy/rxdrag",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "dragit",
+          "fullName": "codebdy/dragit",
+          "stars": 266,
+          "url": "https://github.com/codebdy/dragit",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "dingflow",
+          "fullName": "codebdy/dingflow",
+          "stars": 200,
+          "url": "https://github.com/codebdy/dingflow",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

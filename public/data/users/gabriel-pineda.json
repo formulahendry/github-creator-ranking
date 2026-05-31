@@ -1,0 +1,34 @@
+{
+  "login": "gabriel-pineda",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/98309935?v=4",
+  "htmlUrl": "https://github.com/gabriel-pineda",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1311,
+      "repoCountPrimary": 1,
+      "starsContains": 1311,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "git-wrapped-api",
+          "fullName": "gabriel-pineda/git-wrapped-api",
+          "stars": 1311,
+          "url": "https://github.com/gabriel-pineda/git-wrapped-api",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

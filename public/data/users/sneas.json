@@ -1,0 +1,41 @@
+{
+  "login": "sneas",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/144651?v=4",
+  "htmlUrl": "https://github.com/sneas",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1014,
+      "repoCountPrimary": 2,
+      "starsContains": 1014,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "img-comparison-slider",
+          "fullName": "sneas/img-comparison-slider",
+          "stars": 854,
+          "url": "https://github.com/sneas/img-comparison-slider",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ionic-native-http-connection-backend",
+          "fullName": "sneas/ionic-native-http-connection-backend",
+          "stars": 160,
+          "url": "https://github.com/sneas/ionic-native-http-connection-backend",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

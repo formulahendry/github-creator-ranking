@@ -1,0 +1,62 @@
+{
+  "login": "dabit3",
+  "name": "Nader Dabit",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1857282?v=4",
+  "htmlUrl": "https://github.com/dabit3",
+  "location": "Madison, Mississippi",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 5059,
+      "repoCountPrimary": 12,
+      "starsContains": 5059,
+      "repoCountContains": 12,
+      "globalRank": 498,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-native-ai",
+          "fullName": "dabit3/react-native-ai",
+          "stars": 1273,
+          "url": "https://github.com/dabit3/react-native-ai",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "full-stack-ethereum",
+          "fullName": "dabit3/full-stack-ethereum",
+          "stars": 822,
+          "url": "https://github.com/dabit3/full-stack-ethereum",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "semantic-search-nextjs-pinecone-langchain-chatgpt",
+          "fullName": "dabit3/semantic-search-nextjs-pinecone-langchain-chatgpt",
+          "stars": 766,
+          "url": "https://github.com/dabit3/semantic-search-nextjs-pinecone-langchain-chatgpt",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "gpt-travel-advisor",
+          "fullName": "dabit3/gpt-travel-advisor",
+          "stars": 552,
+          "url": "https://github.com/dabit3/gpt-travel-advisor",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "openform",
+          "fullName": "dabit3/openform",
+          "stars": 506,
+          "url": "https://github.com/dabit3/openform",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

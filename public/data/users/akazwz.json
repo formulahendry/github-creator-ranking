@@ -1,0 +1,62 @@
+{
+  "login": "akazwz",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/50396286?v=4",
+  "htmlUrl": "https://github.com/akazwz",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2370,
+      "repoCountPrimary": 6,
+      "starsContains": 2370,
+      "repoCountContains": 6,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "smail",
+          "fullName": "akazwz/smail",
+          "stars": 922,
+          "url": "https://github.com/akazwz/smail",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "openchat-monorepo",
+          "fullName": "akazwz/openchat-monorepo",
+          "stars": 566,
+          "url": "https://github.com/akazwz/openchat-monorepo",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "hostc",
+          "fullName": "akazwz/hostc",
+          "stars": 358,
+          "url": "https://github.com/akazwz/hostc",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "WebRTC-Screen-Mirror",
+          "fullName": "akazwz/WebRTC-Screen-Mirror",
+          "stars": 276,
+          "url": "https://github.com/akazwz/WebRTC-Screen-Mirror",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "extract",
+          "fullName": "akazwz/extract",
+          "stars": 135,
+          "url": "https://github.com/akazwz/extract",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

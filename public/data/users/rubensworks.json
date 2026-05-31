@@ -1,0 +1,41 @@
+{
+  "login": "rubensworks",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/440384?v=4",
+  "htmlUrl": "https://github.com/rubensworks",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 237,
+      "repoCountPrimary": 2,
+      "starsContains": 237,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "GraphQL-LD.js",
+          "fullName": "rubensworks/GraphQL-LD.js",
+          "stars": 120,
+          "url": "https://github.com/rubensworks/GraphQL-LD.js",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "graphql-to-sparql.js",
+          "fullName": "rubensworks/graphql-to-sparql.js",
+          "stars": 117,
+          "url": "https://github.com/rubensworks/graphql-to-sparql.js",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

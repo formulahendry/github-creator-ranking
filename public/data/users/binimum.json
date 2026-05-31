@@ -1,0 +1,34 @@
+{
+  "login": "binimum",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/61615730?v=4",
+  "htmlUrl": "https://github.com/binimum",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 313,
+      "repoCountPrimary": 1,
+      "starsContains": 313,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "am-lyrics",
+          "fullName": "binimum/am-lyrics",
+          "stars": 313,
+          "url": "https://github.com/binimum/am-lyrics",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "Mokshit06",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/50412128?v=4",
+  "htmlUrl": "https://github.com/Mokshit06",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2472,
+      "repoCountPrimary": 2,
+      "starsContains": 2472,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "typewind",
+          "fullName": "Mokshit06/typewind",
+          "stars": 2288,
+          "url": "https://github.com/Mokshit06/typewind",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "sveltris",
+          "fullName": "Mokshit06/sveltris",
+          "stars": 184,
+          "url": "https://github.com/Mokshit06/sveltris",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

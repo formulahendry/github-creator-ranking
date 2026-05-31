@@ -1,0 +1,34 @@
+{
+  "login": "worldzhao",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/25662450?v=4",
+  "htmlUrl": "https://github.com/worldzhao",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 511,
+      "repoCountPrimary": 1,
+      "starsContains": 511,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-ui-library-tutorial",
+          "fullName": "worldzhao/react-ui-library-tutorial",
+          "stars": 511,
+          "url": "https://github.com/worldzhao/react-ui-library-tutorial",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

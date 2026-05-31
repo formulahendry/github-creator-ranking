@@ -1,0 +1,41 @@
+{
+  "login": "spacemeowx2",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/8019167?v=4",
+  "htmlUrl": "https://github.com/spacemeowx2",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 702,
+      "repoCountPrimary": 2,
+      "starsContains": 702,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "DouyuHTML5Player",
+          "fullName": "spacemeowx2/DouyuHTML5Player",
+          "stars": 588,
+          "url": "https://github.com/spacemeowx2/DouyuHTML5Player",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "s3si.ts",
+          "fullName": "spacemeowx2/s3si.ts",
+          "stars": 114,
+          "url": "https://github.com/spacemeowx2/s3si.ts",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

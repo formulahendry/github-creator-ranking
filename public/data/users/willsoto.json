@@ -1,0 +1,48 @@
+{
+  "login": "willsoto",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/2791730?v=4",
+  "htmlUrl": "https://github.com/willsoto",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 947,
+      "repoCountPrimary": 3,
+      "starsContains": 947,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "nestjs-prometheus",
+          "fullName": "willsoto/nestjs-prometheus",
+          "stars": 680,
+          "url": "https://github.com/willsoto/nestjs-prometheus",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "nestjs-objection",
+          "fullName": "willsoto/nestjs-objection",
+          "stars": 143,
+          "url": "https://github.com/willsoto/nestjs-objection",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ng-chartist",
+          "fullName": "willsoto/ng-chartist",
+          "stars": 124,
+          "url": "https://github.com/willsoto/ng-chartist",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

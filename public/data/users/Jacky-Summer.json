@@ -1,0 +1,34 @@
+{
+  "login": "Jacky-Summer",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/20832372?v=4",
+  "htmlUrl": "https://github.com/Jacky-Summer",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 111,
+      "repoCountPrimary": 1,
+      "starsContains": 111,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "nextjs-ts-antd-redux-storybook-starter",
+          "fullName": "Jacky-Summer/nextjs-ts-antd-redux-storybook-starter",
+          "stars": 111,
+          "url": "https://github.com/Jacky-Summer/nextjs-ts-antd-redux-storybook-starter",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

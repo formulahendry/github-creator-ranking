@@ -1,0 +1,41 @@
+{
+  "login": "MoonWeSif",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/143678942?v=4",
+  "htmlUrl": "https://github.com/MoonWeSif",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1199,
+      "repoCountPrimary": 2,
+      "starsContains": 1199,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "DuckMail",
+          "fullName": "MoonWeSif/DuckMail",
+          "stars": 788,
+          "url": "https://github.com/MoonWeSif/DuckMail",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "NextCreator",
+          "fullName": "MoonWeSif/NextCreator",
+          "stars": 411,
+          "url": "https://github.com/MoonWeSif/NextCreator",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

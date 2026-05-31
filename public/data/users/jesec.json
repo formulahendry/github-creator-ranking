@@ -1,0 +1,34 @@
+{
+  "login": "jesec",
+  "name": "Jesse Chan",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/11585141?v=4",
+  "htmlUrl": "https://github.com/jesec",
+  "location": "Burlingame, California",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2777,
+      "repoCountPrimary": 1,
+      "starsContains": 2777,
+      "repoCountContains": 1,
+      "globalRank": 963,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "flood",
+          "fullName": "jesec/flood",
+          "stars": 2777,
+          "url": "https://github.com/jesec/flood",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

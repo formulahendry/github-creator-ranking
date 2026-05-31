@@ -1,0 +1,34 @@
+{
+  "login": "univa-agent",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/227862860?v=4",
+  "htmlUrl": "https://github.com/univa-agent",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 501,
+      "repoCountPrimary": 1,
+      "starsContains": 501,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "univa",
+          "fullName": "univa-agent/univa",
+          "stars": 501,
+          "url": "https://github.com/univa-agent/univa",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

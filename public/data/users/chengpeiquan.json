@@ -1,0 +1,48 @@
+{
+  "login": "chengpeiquan",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/24845958?v=4",
+  "htmlUrl": "https://github.com/chengpeiquan",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1756,
+      "repoCountPrimary": 3,
+      "starsContains": 1756,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "learning-vue3",
+          "fullName": "chengpeiquan/learning-vue3",
+          "stars": 1489,
+          "url": "https://github.com/chengpeiquan/learning-vue3",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vue-picture-cropper",
+          "fullName": "chengpeiquan/vue-picture-cropper",
+          "stars": 154,
+          "url": "https://github.com/chengpeiquan/vue-picture-cropper",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "vite-plugin-banner",
+          "fullName": "chengpeiquan/vite-plugin-banner",
+          "stars": 113,
+          "url": "https://github.com/chengpeiquan/vite-plugin-banner",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

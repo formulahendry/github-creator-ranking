@@ -1,0 +1,62 @@
+{
+  "login": "michaelshimeles",
+  "name": "Michael Shimeles",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/69605071?v=4",
+  "htmlUrl": "https://github.com/michaelshimeles",
+  "location": "Toronto",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 7240,
+      "repoCountPrimary": 5,
+      "starsContains": 7240,
+      "repoCountContains": 5,
+      "globalRank": 316,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "nextjs-starter-kit",
+          "fullName": "michaelshimeles/nextjs-starter-kit",
+          "stars": 3041,
+          "url": "https://github.com/michaelshimeles/nextjs-starter-kit",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ralphy",
+          "fullName": "michaelshimeles/ralphy",
+          "stars": 2876,
+          "url": "https://github.com/michaelshimeles/ralphy",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-starter-kit",
+          "fullName": "michaelshimeles/react-starter-kit",
+          "stars": 618,
+          "url": "https://github.com/michaelshimeles/react-starter-kit",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "tsafi",
+          "fullName": "michaelshimeles/tsafi",
+          "stars": 378,
+          "url": "https://github.com/michaelshimeles/tsafi",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "youpac-ai",
+          "fullName": "michaelshimeles/youpac-ai",
+          "stars": 327,
+          "url": "https://github.com/michaelshimeles/youpac-ai",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

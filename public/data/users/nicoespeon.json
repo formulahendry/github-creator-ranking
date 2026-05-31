@@ -1,0 +1,48 @@
+{
+  "login": "nicoespeon",
+  "name": "Nicolas Carlo",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1094774?v=4",
+  "htmlUrl": "https://github.com/nicoespeon",
+  "location": "Montréal",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 4060,
+      "repoCountPrimary": 3,
+      "starsContains": 4060,
+      "repoCountContains": 3,
+      "globalRank": 653,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "gitgraph.js",
+          "fullName": "nicoespeon/gitgraph.js",
+          "stars": 3070,
+          "url": "https://github.com/nicoespeon/gitgraph.js",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "abracadabra",
+          "fullName": "nicoespeon/abracadabra",
+          "stars": 884,
+          "url": "https://github.com/nicoespeon/abracadabra",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "zod-v3-to-v4",
+          "fullName": "nicoespeon/zod-v3-to-v4",
+          "stars": 106,
+          "url": "https://github.com/nicoespeon/zod-v3-to-v4",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

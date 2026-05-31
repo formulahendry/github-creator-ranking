@@ -1,0 +1,55 @@
+{
+  "login": "gregberge",
+  "name": "Greg Bergé",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/266302?v=4",
+  "htmlUrl": "https://github.com/gregberge",
+  "location": "Paris, France",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 14278,
+      "repoCountPrimary": 4,
+      "starsContains": 14278,
+      "repoCountContains": 4,
+      "globalRank": 138,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "svgr",
+          "fullName": "gregberge/svgr",
+          "stars": 11036,
+          "url": "https://github.com/gregberge/svgr",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "twc",
+          "fullName": "gregberge/twc",
+          "stars": 1421,
+          "url": "https://github.com/gregberge/twc",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-teleporter",
+          "fullName": "gregberge/react-teleporter",
+          "stars": 1152,
+          "url": "https://github.com/gregberge/react-teleporter",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-merge-refs",
+          "fullName": "gregberge/react-merge-refs",
+          "stars": 669,
+          "url": "https://github.com/gregberge/react-merge-refs",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "login": "adamiBs",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/22242862?v=4",
+  "htmlUrl": "https://github.com/adamiBs",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 239,
+      "repoCountPrimary": 1,
+      "starsContains": 239,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "vscode-terraform-live-graph",
+          "fullName": "adamiBs/vscode-terraform-live-graph",
+          "stars": 239,
+          "url": "https://github.com/adamiBs/vscode-terraform-live-graph",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

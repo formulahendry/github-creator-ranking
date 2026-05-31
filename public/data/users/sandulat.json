@@ -1,0 +1,34 @@
+{
+  "login": "sandulat",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7345874?v=4",
+  "htmlUrl": "https://github.com/sandulat",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 281,
+      "repoCountPrimary": 1,
+      "starsContains": 281,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "routes-gen",
+          "fullName": "sandulat/routes-gen",
+          "stars": 281,
+          "url": "https://github.com/sandulat/routes-gen",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

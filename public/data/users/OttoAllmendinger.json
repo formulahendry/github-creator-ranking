@@ -1,0 +1,41 @@
+{
+  "login": "OttoAllmendinger",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/283533?v=4",
+  "htmlUrl": "https://github.com/OttoAllmendinger",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 415,
+      "repoCountPrimary": 2,
+      "starsContains": 415,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "gnome-shell-screenshot",
+          "fullName": "OttoAllmendinger/gnome-shell-screenshot",
+          "stars": 267,
+          "url": "https://github.com/OttoAllmendinger/gnome-shell-screenshot",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "gnome-shell-bitcoin-markets",
+          "fullName": "OttoAllmendinger/gnome-shell-bitcoin-markets",
+          "stars": 148,
+          "url": "https://github.com/OttoAllmendinger/gnome-shell-bitcoin-markets",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

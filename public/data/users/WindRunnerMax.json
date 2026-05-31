@@ -1,0 +1,62 @@
+{
+  "login": "WindRunnerMax",
+  "name": "Czy",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/33169019?v=4",
+  "htmlUrl": "https://github.com/WindRunnerMax",
+  "location": "Galaxy",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 4336,
+      "repoCountPrimary": 6,
+      "starsContains": 4336,
+      "repoCountContains": 6,
+      "globalRank": 595,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "EveryDay",
+          "fullName": "WindRunnerMax/EveryDay",
+          "stars": 2242,
+          "url": "https://github.com/WindRunnerMax/EveryDay",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "TKScript",
+          "fullName": "WindRunnerMax/TKScript",
+          "stars": 1359,
+          "url": "https://github.com/WindRunnerMax/TKScript",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "CanvasEditor",
+          "fullName": "WindRunnerMax/CanvasEditor",
+          "stars": 252,
+          "url": "https://github.com/WindRunnerMax/CanvasEditor",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "DocEditor",
+          "fullName": "WindRunnerMax/DocEditor",
+          "stars": 209,
+          "url": "https://github.com/WindRunnerMax/DocEditor",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "FileTransfer",
+          "fullName": "WindRunnerMax/FileTransfer",
+          "stars": 165,
+          "url": "https://github.com/WindRunnerMax/FileTransfer",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

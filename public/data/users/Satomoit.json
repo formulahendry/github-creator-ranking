@@ -1,0 +1,34 @@
+{
+  "login": "Satomoit",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/85591415?v=4",
+  "htmlUrl": "https://github.com/Satomoit",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 148,
+      "repoCountPrimary": 1,
+      "starsContains": 148,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "LCE-Emerald-Launcher",
+          "fullName": "Satomoit/LCE-Emerald-Launcher",
+          "stars": 148,
+          "url": "https://github.com/Satomoit/LCE-Emerald-Launcher",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

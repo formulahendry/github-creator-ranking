@@ -1,0 +1,34 @@
+{
+  "login": "zhang740",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7530656?v=4",
+  "htmlUrl": "https://github.com/zhang740",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 182,
+      "repoCountPrimary": 1,
+      "starsContains": 182,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "power-di",
+          "fullName": "zhang740/power-di",
+          "stars": 182,
+          "url": "https://github.com/zhang740/power-di",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

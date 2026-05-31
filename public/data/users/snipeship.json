@@ -1,0 +1,34 @@
+{
+  "login": "snipeship",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/12926678?v=4",
+  "htmlUrl": "https://github.com/snipeship",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 983,
+      "repoCountPrimary": 1,
+      "starsContains": 983,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ccflare",
+          "fullName": "snipeship/ccflare",
+          "stars": 983,
+          "url": "https://github.com/snipeship/ccflare",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

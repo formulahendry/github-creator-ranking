@@ -1,0 +1,55 @@
+{
+  "login": "TomerAberbach",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/23299544?v=4",
+  "htmlUrl": "https://github.com/TomerAberbach",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 1204,
+      "repoCountPrimary": 4,
+      "starsContains": 1204,
+      "repoCountContains": 4,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "grfn",
+          "fullName": "TomerAberbach/grfn",
+          "stars": 632,
+          "url": "https://github.com/TomerAberbach/grfn",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "lfi",
+          "fullName": "TomerAberbach/lfi",
+          "stars": 349,
+          "url": "https://github.com/TomerAberbach/lfi",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "quetie",
+          "fullName": "TomerAberbach/quetie",
+          "stars": 114,
+          "url": "https://github.com/TomerAberbach/quetie",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "spotify-true-random",
+          "fullName": "TomerAberbach/spotify-true-random",
+          "stars": 109,
+          "url": "https://github.com/TomerAberbach/spotify-true-random",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

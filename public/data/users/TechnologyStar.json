@@ -1,0 +1,34 @@
+{
+  "login": "TechnologyStar",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/112059189?v=4",
+  "htmlUrl": "https://github.com/TechnologyStar",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 350,
+      "repoCountPrimary": 1,
+      "starsContains": 350,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "Openai-Claude-Deepseek-API-provider",
+          "fullName": "TechnologyStar/Openai-Claude-Deepseek-API-provider",
+          "stars": 350,
+          "url": "https://github.com/TechnologyStar/Openai-Claude-Deepseek-API-provider",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

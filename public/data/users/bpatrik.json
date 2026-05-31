@@ -1,0 +1,34 @@
+{
+  "login": "bpatrik",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/7512182?v=4",
+  "htmlUrl": "https://github.com/bpatrik",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2195,
+      "repoCountPrimary": 1,
+      "starsContains": 2195,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "pigallery2",
+          "fullName": "bpatrik/pigallery2",
+          "stars": 2195,
+          "url": "https://github.com/bpatrik/pigallery2",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

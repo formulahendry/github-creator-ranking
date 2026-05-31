@@ -1,0 +1,41 @@
+{
+  "login": "askides",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/9286706?v=4",
+  "htmlUrl": "https://github.com/askides",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 790,
+      "repoCountPrimary": 2,
+      "starsContains": 790,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-plock",
+          "fullName": "askides/react-plock",
+          "stars": 598,
+          "url": "https://github.com/askides/react-plock",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "clean-architecture-react",
+          "fullName": "askides/clean-architecture-react",
+          "stars": 192,
+          "url": "https://github.com/askides/clean-architecture-react",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "login": "moazbuilds",
+  "name": "moaz 👾",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/109697407?v=4",
+  "htmlUrl": "https://github.com/moazbuilds",
+  "location": "Cairo, Egypt",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3631,
+      "repoCountPrimary": 2,
+      "starsContains": 3631,
+      "repoCountContains": 2,
+      "globalRank": 733,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "CodeMachine-CLI",
+          "fullName": "moazbuilds/CodeMachine-CLI",
+          "stars": 2489,
+          "url": "https://github.com/moazbuilds/CodeMachine-CLI",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "claudeclaw",
+          "fullName": "moazbuilds/claudeclaw",
+          "stars": 1142,
+          "url": "https://github.com/moazbuilds/claudeclaw",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

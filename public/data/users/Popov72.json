@@ -1,0 +1,34 @@
+{
+  "login": "Popov72",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/4152247?v=4",
+  "htmlUrl": "https://github.com/Popov72",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 142,
+      "repoCountPrimary": 1,
+      "starsContains": 142,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "OceanDemo",
+          "fullName": "Popov72/OceanDemo",
+          "stars": 142,
+          "url": "https://github.com/Popov72/OceanDemo",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

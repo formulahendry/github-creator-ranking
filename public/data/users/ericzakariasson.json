@@ -1,0 +1,34 @@
+{
+  "login": "ericzakariasson",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/25622412?v=4",
+  "htmlUrl": "https://github.com/ericzakariasson",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 176,
+      "repoCountPrimary": 1,
+      "starsContains": 176,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "pg-mcp-server",
+          "fullName": "ericzakariasson/pg-mcp-server",
+          "stars": 176,
+          "url": "https://github.com/ericzakariasson/pg-mcp-server",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

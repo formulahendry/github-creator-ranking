@@ -1,0 +1,41 @@
+{
+  "login": "amilajack",
+  "name": "Amila Welihinda",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6374832?v=4",
+  "htmlUrl": "https://github.com/amilajack",
+  "location": "San Francisco, CA",
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 3644,
+      "repoCountPrimary": 2,
+      "starsContains": 3644,
+      "repoCountContains": 2,
+      "globalRank": 730,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "eslint-plugin-compat",
+          "fullName": "amilajack/eslint-plugin-compat",
+          "stars": 3173,
+          "url": "https://github.com/amilajack/eslint-plugin-compat",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "popcorn-time-desktop",
+          "fullName": "amilajack/popcorn-time-desktop",
+          "stars": 471,
+          "url": "https://github.com/amilajack/popcorn-time-desktop",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

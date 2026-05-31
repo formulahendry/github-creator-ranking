@@ -1,0 +1,41 @@
+{
+  "login": "nizzyabi",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/140507264?v=4",
+  "htmlUrl": "https://github.com/nizzyabi",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 314,
+      "repoCountPrimary": 2,
+      "starsContains": 314,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "nizzy-starter",
+          "fullName": "nizzyabi/nizzy-starter",
+          "stars": 211,
+          "url": "https://github.com/nizzyabi/nizzy-starter",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "platform",
+          "fullName": "nizzyabi/platform",
+          "stars": 103,
+          "url": "https://github.com/nizzyabi/platform",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

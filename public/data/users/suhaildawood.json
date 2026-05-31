@@ -1,0 +1,34 @@
+{
+  "login": "suhaildawood",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/1642260?v=4",
+  "htmlUrl": "https://github.com/suhaildawood",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 235,
+      "repoCountPrimary": 1,
+      "starsContains": 235,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "SvelteKit-integrated-WebSocket",
+          "fullName": "suhaildawood/SvelteKit-integrated-WebSocket",
+          "stars": 235,
+          "url": "https://github.com/suhaildawood/SvelteKit-integrated-WebSocket",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

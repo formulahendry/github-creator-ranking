@@ -1,0 +1,34 @@
+{
+  "login": "mbnuqw",
+  "name": "Max Badryzlov",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6276694?v=4",
+  "htmlUrl": "https://github.com/mbnuqw",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 4598,
+      "repoCountPrimary": 1,
+      "starsContains": 4598,
+      "repoCountContains": 1,
+      "globalRank": 559,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "sidebery",
+          "fullName": "mbnuqw/sidebery",
+          "stars": 4598,
+          "url": "https://github.com/mbnuqw/sidebery",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

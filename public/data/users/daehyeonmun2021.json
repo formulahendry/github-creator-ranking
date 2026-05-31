@@ -1,0 +1,41 @@
+{
+  "login": "daehyeonmun2021",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/96194917?v=4",
+  "htmlUrl": "https://github.com/daehyeonmun2021",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 295,
+      "repoCountPrimary": 2,
+      "starsContains": 295,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "react-native-skia-lab",
+          "fullName": "daehyeonmun2021/react-native-skia-lab",
+          "stars": 167,
+          "url": "https://github.com/daehyeonmun2021/react-native-skia-lab",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "react-native-neon-city",
+          "fullName": "daehyeonmun2021/react-native-neon-city",
+          "stars": 128,
+          "url": "https://github.com/daehyeonmun2021/react-native-neon-city",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

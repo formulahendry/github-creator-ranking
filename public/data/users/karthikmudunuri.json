@@ -1,0 +1,41 @@
+{
+  "login": "karthikmudunuri",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/102793643?v=4",
+  "htmlUrl": "https://github.com/karthikmudunuri",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 2187,
+      "repoCountPrimary": 2,
+      "starsContains": 2187,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "eldoraui",
+          "fullName": "karthikmudunuri/eldoraui",
+          "stars": 1932,
+          "url": "https://github.com/karthikmudunuri/eldoraui",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "saas-landing-page-template",
+          "fullName": "karthikmudunuri/saas-landing-page-template",
+          "stars": 255,
+          "url": "https://github.com/karthikmudunuri/saas-landing-page-template",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

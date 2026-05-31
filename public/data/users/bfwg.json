@@ -1,0 +1,41 @@
+{
+  "login": "bfwg",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/12819525?v=4",
+  "htmlUrl": "https://github.com/bfwg",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 641,
+      "repoCountPrimary": 2,
+      "starsContains": 641,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ngx-drag-scroll",
+          "fullName": "bfwg/ngx-drag-scroll",
+          "stars": 345,
+          "url": "https://github.com/bfwg/ngx-drag-scroll",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "angular-spring-starter",
+          "fullName": "bfwg/angular-spring-starter",
+          "stars": 296,
+          "url": "https://github.com/bfwg/angular-spring-starter",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

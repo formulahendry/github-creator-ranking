@@ -1,0 +1,41 @@
+{
+  "login": "ilkerzg",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/105287654?v=4",
+  "htmlUrl": "https://github.com/ilkerzg",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 347,
+      "repoCountPrimary": 2,
+      "starsContains": 347,
+      "repoCountContains": 2,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "ad-assets-generator",
+          "fullName": "ilkerzg/ad-assets-generator",
+          "stars": 214,
+          "url": "https://github.com/ilkerzg/ad-assets-generator",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "awesome-video-prompts",
+          "fullName": "ilkerzg/awesome-video-prompts",
+          "stars": 133,
+          "url": "https://github.com/ilkerzg/awesome-video-prompts",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

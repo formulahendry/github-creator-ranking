@@ -1,0 +1,48 @@
+{
+  "login": "swyxio",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/6764957?v=4",
+  "htmlUrl": "https://github.com/swyxio",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 516,
+      "repoCountPrimary": 3,
+      "starsContains": 516,
+      "repoCountContains": 3,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "svelte-actions",
+          "fullName": "swyxio/svelte-actions",
+          "stars": 221,
+          "url": "https://github.com/swyxio/svelte-actions",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "ssg",
+          "fullName": "swyxio/ssg",
+          "stars": 162,
+          "url": "https://github.com/swyxio/ssg",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "skills",
+          "fullName": "swyxio/skills",
+          "stars": 133,
+          "url": "https://github.com/swyxio/skills",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

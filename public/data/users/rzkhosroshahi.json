@@ -1,0 +1,34 @@
+{
+  "login": "rzkhosroshahi",
+  "name": null,
+  "avatarUrl": "https://avatars.githubusercontent.com/u/11410506?v=4",
+  "htmlUrl": "https://github.com/rzkhosroshahi",
+  "location": null,
+  "countryCode": null,
+  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "isPartial": true,
+  "languages": [
+    {
+      "language": {
+        "slug": "typescript",
+        "name": "TypeScript",
+        "githubQuery": "TypeScript"
+      },
+      "starsPrimary": 297,
+      "repoCountPrimary": 1,
+      "starsContains": 297,
+      "repoCountContains": 1,
+      "globalRank": null,
+      "countryRank": null,
+      "topRepos": [
+        {
+          "name": "zaman",
+          "fullName": "rzkhosroshahi/zaman",
+          "stars": 297,
+          "url": "https://github.com/rzkhosroshahi/zaman",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    }
+  ]
+}
