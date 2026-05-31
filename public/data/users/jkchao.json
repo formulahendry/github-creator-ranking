@@ -5,7 +5,7 @@
   "htmlUrl": "https://github.com/jkchao",
   "location": "Shanghai China",
   "countryCode": "CN",
-  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "generatedAt": "2026-05-31T23:16:10.146Z",
   "isPartial": true,
   "languages": [
     {
@@ -18,8 +18,8 @@
       "repoCountPrimary": 3,
       "starsContains": 7091,
       "repoCountContains": 3,
-      "globalRank": 326,
-      "countryRank": 42,
+      "globalRank": 325,
+      "countryRank": 41,
       "topRepos": [
         {
           "name": "typescript-book-chinese",

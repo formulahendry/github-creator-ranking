@@ -5,7 +5,7 @@
   "htmlUrl": "https://github.com/jaywcjlove",
   "location": "Suzhou, China",
   "countryCode": "CN",
-  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "generatedAt": "2026-05-31T23:16:10.146Z",
   "isPartial": true,
   "languages": [
     {
@@ -18,8 +18,8 @@
       "repoCountPrimary": 11,
       "starsContains": 10794,
       "repoCountContains": 11,
-      "globalRank": 197,
-      "countryRank": 25,
+      "globalRank": 196,
+      "countryRank": 24,
       "topRepos": [
         {
           "name": "hotkeys-js",

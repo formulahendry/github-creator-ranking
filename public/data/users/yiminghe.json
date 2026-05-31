@@ -5,7 +5,7 @@
   "htmlUrl": "https://github.com/yiminghe",
   "location": "China, Shanghai",
   "countryCode": "CN",
-  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "generatedAt": "2026-05-31T23:16:10.146Z",
   "isPartial": true,
   "languages": [
     {
@@ -18,8 +18,8 @@
       "repoCountPrimary": 1,
       "starsContains": 9095,
       "repoCountContains": 1,
-      "globalRank": 254,
-      "countryRank": 31,
+      "globalRank": 253,
+      "countryRank": 30,
       "topRepos": [
         {
           "name": "async-validator",

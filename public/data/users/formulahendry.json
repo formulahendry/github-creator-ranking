@@ -5,7 +5,7 @@
   "htmlUrl": "https://github.com/formulahendry",
   "location": "Shanghai, China",
   "countryCode": "CN",
-  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "generatedAt": "2026-05-31T23:16:10.146Z",
   "isPartial": true,
   "languages": [
     {
@@ -14,12 +14,12 @@
         "name": "TypeScript",
         "githubQuery": "TypeScript"
       },
-      "starsPrimary": 11475,
-      "repoCountPrimary": 48,
-      "starsContains": 11837,
-      "repoCountContains": 51,
-      "globalRank": 181,
-      "countryRank": 22,
+      "starsPrimary": 5938,
+      "repoCountPrimary": 36,
+      "starsContains": 6300,
+      "repoCountContains": 39,
+      "globalRank": 400,
+      "countryRank": 51,
       "topRepos": [
         {
           "name": "vscode-code-runner",

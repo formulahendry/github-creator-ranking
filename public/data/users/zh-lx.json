@@ -5,7 +5,7 @@
   "htmlUrl": "https://github.com/zh-lx",
   "location": "北京",
   "countryCode": "CN",
-  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "generatedAt": "2026-05-31T23:16:10.146Z",
   "isPartial": true,
   "languages": [
     {
@@ -18,8 +18,8 @@
       "repoCountPrimary": 4,
       "starsContains": 8065,
       "repoCountContains": 4,
-      "globalRank": 283,
-      "countryRank": 35,
+      "globalRank": 282,
+      "countryRank": 34,
       "topRepos": [
         {
           "name": "pinyin-pro",

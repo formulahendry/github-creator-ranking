@@ -5,7 +5,7 @@
   "htmlUrl": "https://github.com/JOYCEQL",
   "location": "chengdu",
   "countryCode": "CN",
-  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "generatedAt": "2026-05-31T23:16:10.146Z",
   "isPartial": true,
   "languages": [
     {
@@ -18,8 +18,8 @@
       "repoCountPrimary": 1,
       "starsContains": 8323,
       "repoCountContains": 1,
-      "globalRank": 272,
-      "countryRank": 33,
+      "globalRank": 271,
+      "countryRank": 32,
       "topRepos": [
         {
           "name": "magic-resume",

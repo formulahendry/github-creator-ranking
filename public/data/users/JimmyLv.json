@@ -5,7 +5,7 @@
   "htmlUrl": "https://github.com/JimmyLv",
   "location": "Chengdu, China",
   "countryCode": "CN",
-  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "generatedAt": "2026-05-31T23:16:10.146Z",
   "isPartial": true,
   "languages": [
     {
@@ -18,8 +18,8 @@
       "repoCountPrimary": 2,
       "starsContains": 6191,
       "repoCountContains": 2,
-      "globalRank": 380,
-      "countryRank": 49,
+      "globalRank": 379,
+      "countryRank": 48,
       "topRepos": [
         {
           "name": "BibiGPT-v1",

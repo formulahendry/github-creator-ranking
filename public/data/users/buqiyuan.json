@@ -5,7 +5,7 @@
   "htmlUrl": "https://github.com/buqiyuan",
   "location": "GuangZhou, China",
   "countryCode": "CN",
-  "generatedAt": "2026-05-31T21:54:15.042Z",
+  "generatedAt": "2026-05-31T23:16:10.146Z",
   "isPartial": true,
   "languages": [
     {
@@ -18,8 +18,8 @@
       "repoCountPrimary": 5,
       "starsContains": 10641,
       "repoCountContains": 5,
-      "globalRank": 203,
-      "countryRank": 26,
+      "globalRank": 202,
+      "countryRank": 25,
       "topRepos": [
         {
           "name": "vue3-antdv-admin",
