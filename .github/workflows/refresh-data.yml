@@ -2,7 +2,8 @@ name: Refresh ranking data
 
 on:
   schedule:
-    - cron: '17 3 * * *'
+    # Beijing 06:00 and 18:00 (UTC 22:00 and 10:00).
+    - cron: '0 22,10 * * *'
   workflow_dispatch:
 
 permissions:
