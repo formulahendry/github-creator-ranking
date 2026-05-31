@@ -1,0 +1,69 @@
+name: Refresh ranking data
+
+on:
+  schedule:
+    - cron: '17 3 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: refresh-data
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    env:
+      GITHUB_TOKEN: ${{ secrets.RANKING_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
+      DISCOVER_RANKINGS: 'true'
+      LANGUAGES: ${{ vars.LANGUAGES || 'TypeScript' }}
+      TARGET_USERS: ${{ vars.TARGET_USERS || 'formulahendry' }}
+      MIN_STARS: ${{ vars.MIN_STARS || '100' }}
+      MAX_STARS: ${{ vars.MAX_STARS || '250000' }}
+      SEARCH_PAGES: ${{ vars.SEARCH_PAGES || '10' }}
+      SEARCH_BUCKET_LIMIT: ${{ vars.SEARCH_BUCKET_LIMIT || '200' }}
+      OWNER_PROFILE_LIMIT: ${{ vars.OWNER_PROFILE_LIMIT || '1000' }}
+      GLOBAL_LIMIT: ${{ vars.GLOBAL_LIMIT || '1000' }}
+      COUNTRY_LIMIT: ${{ vars.COUNTRY_LIMIT || '500' }}
+      GITHUB_MAX_RETRIES: ${{ vars.GITHUB_MAX_RETRIES || '8' }}
+      GITHUB_MAX_SLEEP_SECONDS: ${{ vars.GITHUB_MAX_SLEEP_SECONDS || '900' }}
+      GITHUB_RETRY_BASE_SECONDS: ${{ vars.GITHUB_RETRY_BASE_SECONDS || '30' }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.RANKING_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - uses: actions/cache@v4
+        with:
+          path: .cache
+          key: github-data-${{ runner.os }}-${{ github.run_id }}
+          restore-keys: |
+            github-data-${{ runner.os }}-
+      - run: npm ci
+      - run: npm run data:generate
+      - run: npm run build
+      - name: Commit refreshed data
+        id: commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/data
+          if git diff --cached --quiet; then
+            echo "No data changes to commit."
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            git commit -m "Refresh ranking data"
+            git push
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+      - name: Trigger Pages deployment
+        if: steps.commit.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.RANKING_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
+        run: gh workflow run deploy.yml --ref main

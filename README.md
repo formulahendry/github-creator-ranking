@@ -13,6 +13,11 @@ npm run build
 npm run dev
 ```
 
+## Workflows
+
+- `Deploy static site` builds and deploys the committed `public/data` files to GitHub Pages. It runs on pushes to `main` and manual dispatch.
+- `Refresh ranking data` runs the GitHub crawler, writes updated JSON into `public/data`, commits those data files back to `main`, and dispatches the deploy workflow when data changes.
+
 ## Data model
 
 Generated static JSON lives in `public/data/`:
@@ -42,8 +47,8 @@ GLOBAL_LIMIT=500
 COUNTRY_LIMIT=200
 ```
 
-The crawler splits GitHub Search by star buckets when a query exceeds GitHub's 1,000-result search cap. API responses are cached in `.cache/github-api/`, so interrupted runs can resume without re-fetching completed requests. Set `DISABLE_GITHUB_CACHE=true` to bypass the cache.
+The crawler splits GitHub Search by star buckets when a query exceeds GitHub's 1,000-result search cap. API responses are cached in `.cache/github-api/`, and refresh checkpoints are stored in `.cache/state/`, so interrupted runs can resume without re-fetching completed requests or reprocessing completed buckets.
 
-GitHub Actions disables discovery by default to keep Pages deployments reliable with the built-in `GITHUB_TOKEN` Search API limits. Set repository variables such as `DISCOVER_RANKINGS=true`, `SEARCH_BUCKET_LIMIT`, and `SEARCH_PAGES` when you want scheduled deployments to run broader discovery.
+Set `DISABLE_GITHUB_CACHE=true` to bypass the API cache, or `RESET_REFRESH_STATE=true` to restart bucket processing from scratch. The refresh workflow restores `.cache/` with GitHub Actions cache and retries rate-limited API requests with backoff.
 
 The country ranking uses public GitHub profile `location` text and is therefore approximate.

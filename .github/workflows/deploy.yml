@@ -3,8 +3,6 @@ name: Deploy static site
 on:
   push:
     branches: [main]
-  schedule:
-    - cron: '17 3 * * *'
   workflow_dispatch:
 
 permissions:
@@ -20,19 +18,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       SITE: https://formulahendry.github.io
       BASE_PATH: /github-creator-ranking
-      DISCOVER_RANKINGS: ${{ vars.DISCOVER_RANKINGS || 'false' }}
-      LANGUAGES: TypeScript
-      TARGET_USERS: formulahendry
-      MIN_STARS: '100'
-      MAX_STARS: '250000'
-      SEARCH_PAGES: ${{ vars.SEARCH_PAGES || '1' }}
-      SEARCH_BUCKET_LIMIT: ${{ vars.SEARCH_BUCKET_LIMIT || '4' }}
-      OWNER_PROFILE_LIMIT: ${{ vars.OWNER_PROFILE_LIMIT || '50' }}
-      GLOBAL_LIMIT: '500'
-      COUNTRY_LIMIT: '200'
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
@@ -40,7 +27,6 @@ jobs:
           node-version: 22
           cache: npm
       - run: npm ci
-      - run: npm run data:generate
       - run: npm run build
       - uses: actions/upload-pages-artifact@v3
         with:

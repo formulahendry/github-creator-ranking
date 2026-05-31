@@ -58,6 +58,7 @@ interface OwnerStats {
   htmlUrl: string;
   location: string | null;
   countryCode: string | null;
+  profileHydrated?: boolean;
   languages: Map<string, LanguageStats>;
 }
 
@@ -83,8 +84,40 @@ interface CoverageReport {
   buckets: SearchBucketCoverage[];
 }
 
+interface SerializedLanguageStats {
+  starsPrimary: number;
+  repoCountPrimary: number;
+  starsContains: number;
+  repoCountContains: number;
+  topRepos: TopRepository[];
+}
+
+interface SerializedOwnerStats {
+  login: string;
+  name: string | null;
+  avatarUrl: string;
+  htmlUrl: string;
+  location: string | null;
+  countryCode: string | null;
+  profileHydrated?: boolean;
+  languages: Array<[string, SerializedLanguageStats]>;
+}
+
+interface RefreshState {
+  version: 1;
+  generatedAt: string;
+  config: {
+    languages: string[];
+    minStars: number;
+    maxStars: number;
+  };
+  owners: SerializedOwnerStats[];
+  coverage: SearchBucketCoverage[];
+}
+
 const dataRoot = fileURLToPath(new URL('../public/data/', import.meta.url));
 const cacheRoot = fileURLToPath(new URL('../.cache/github-api/', import.meta.url));
+const stateRoot = fileURLToPath(new URL('../.cache/state/', import.meta.url));
 const headers = {
   Accept: 'application/vnd.github+json',
   'X-GitHub-Api-Version': '2022-11-28',
@@ -197,6 +230,29 @@ async function writeCache(cacheKey: string, value: unknown): Promise<void> {
   await writeFile(filePath, `${JSON.stringify(value, null, 2)}\n`);
 }
 
+function retryDelaySeconds(response: Response, attempt: number): number | null {
+  if (response.status !== 403 && response.status !== 429) {
+    return null;
+  }
+
+  const retryAfter = Number(response.headers.get('retry-after'));
+  if (Number.isFinite(retryAfter) && retryAfter > 0) {
+    return retryAfter;
+  }
+
+  const remaining = response.headers.get('x-ratelimit-remaining');
+  const reset = Number(response.headers.get('x-ratelimit-reset'));
+  if (remaining === '0' && Number.isFinite(reset)) {
+    return Math.max(reset - Math.floor(Date.now() / 1000) + 5, 5);
+  }
+
+  return Number(process.env.GITHUB_RETRY_BASE_SECONDS ?? '30') * attempt;
+}
+
+function sleep(milliseconds: number): Promise<void> {
+  return new Promise((resolve) => setTimeout(resolve, milliseconds));
+}
+
 async function githubJson<T>(pathOrUrl: string): Promise<T> {
   const url = pathOrUrl.startsWith('http') ? pathOrUrl : `https://api.github.com${pathOrUrl}`;
   const cached = await readCache<T>(url);
@@ -204,16 +260,33 @@ async function githubJson<T>(pathOrUrl: string): Promise<T> {
     return cached;
   }
 
-  const response = await fetch(url, { headers });
+  const maxRetries = Number(process.env.GITHUB_MAX_RETRIES ?? '5');
+  const maxSleepSeconds = Number(process.env.GITHUB_MAX_SLEEP_SECONDS ?? '900');
 
-  if (!response.ok) {
+  for (let attempt = 1; attempt <= maxRetries + 1; attempt += 1) {
+    const response = await fetch(url, { headers });
+
+    if (response.ok) {
+      const result = (await response.json()) as T;
+      await writeCache(url, result);
+      return result;
+    }
+
     const message = await response.text();
+    const delaySeconds = retryDelaySeconds(response, attempt);
+    if (delaySeconds !== null && attempt <= maxRetries) {
+      const boundedDelay = Math.min(delaySeconds, maxSleepSeconds);
+      console.warn(
+        `GitHub API ${response.status} for ${url}; retrying in ${boundedDelay}s (${attempt}/${maxRetries}).`,
+      );
+      await sleep(boundedDelay * 1000);
+      continue;
+    }
+
     throw new Error(`GitHub API ${response.status} for ${url}: ${message}`);
   }
 
-  const result = (await response.json()) as T;
-  await writeCache(url, result);
-  return result;
+  throw new Error(`GitHub API retry loop exited unexpectedly for ${url}`);
 }
 
 async function getUser(login: string): Promise<GitHubUser> {
@@ -250,6 +323,7 @@ function ensureOwner(owners: Map<string, OwnerStats>, repo: GitHubRepo): OwnerSt
     htmlUrl: repo.owner.html_url,
     location: null,
     countryCode: null,
+    profileHydrated: false,
     languages: new Map(),
   };
   owners.set(owner.login, owner);
@@ -334,6 +408,7 @@ async function addTargetUser(owners: Map<string, OwnerStats>, login: string, lan
     htmlUrl: profile.html_url,
     location: profile.location,
     countryCode: normalizeCountry(profile.location),
+    profileHydrated: true,
     languages: new Map(),
   };
 
@@ -356,6 +431,99 @@ function bucketKey(low: number, high: number): string {
   return `${low}..${high}`;
 }
 
+function bucketId(language: LanguageConfig, low: number, high: number): string {
+  return `${language.slug}:${bucketKey(low, high)}`;
+}
+
+function statePath(languages: LanguageConfig[]): string {
+  const minStars = Number(process.env.MIN_STARS ?? '100');
+  const maxStars = Number(process.env.MAX_STARS ?? '250000');
+  const languageKey = languages.map((language) => language.slug).join('-');
+  return join(stateRoot, `${languageKey}-${minStars}-${maxStars}.json`);
+}
+
+function serializeOwner(owner: OwnerStats): SerializedOwnerStats {
+  return {
+    login: owner.login,
+    name: owner.name,
+    avatarUrl: owner.avatarUrl,
+    htmlUrl: owner.htmlUrl,
+    location: owner.location,
+    countryCode: owner.countryCode,
+    profileHydrated: owner.profileHydrated,
+    languages: [...owner.languages.entries()].map(([slug, stats]) => [
+      slug,
+      {
+        starsPrimary: stats.starsPrimary,
+        repoCountPrimary: stats.repoCountPrimary,
+        starsContains: stats.starsContains,
+        repoCountContains: stats.repoCountContains,
+        topRepos: [...stats.topRepos.values()],
+      },
+    ]),
+  };
+}
+
+function deserializeOwner(owner: SerializedOwnerStats): OwnerStats {
+  return {
+    login: owner.login,
+    name: owner.name,
+    avatarUrl: owner.avatarUrl,
+    htmlUrl: owner.htmlUrl,
+    location: owner.location,
+    countryCode: owner.countryCode,
+    profileHydrated: owner.profileHydrated,
+    languages: new Map(
+      owner.languages.map(([slug, stats]) => [
+        slug,
+        {
+          starsPrimary: stats.starsPrimary,
+          repoCountPrimary: stats.repoCountPrimary,
+          starsContains: stats.starsContains,
+          repoCountContains: stats.repoCountContains,
+          topRepos: new Map(stats.topRepos.map((repo) => [repo.fullName, repo])),
+        },
+      ]),
+    ),
+  };
+}
+
+async function readRefreshState(languages: LanguageConfig[]): Promise<RefreshState | null> {
+  if (process.env.RESET_REFRESH_STATE === 'true') {
+    return null;
+  }
+
+  try {
+    return JSON.parse(await readFile(statePath(languages), 'utf8')) as RefreshState;
+  } catch (error) {
+    if (isNodeError(error) && error.code === 'ENOENT') {
+      return null;
+    }
+    throw error;
+  }
+}
+
+async function writeRefreshState(
+  owners: Map<string, OwnerStats>,
+  languages: LanguageConfig[],
+  coverage: SearchBucketCoverage[],
+): Promise<void> {
+  const state: RefreshState = {
+    version: 1,
+    generatedAt: new Date().toISOString(),
+    config: {
+      languages: languages.map((language) => language.slug),
+      minStars: Number(process.env.MIN_STARS ?? '100'),
+      maxStars: Number(process.env.MAX_STARS ?? '250000'),
+    },
+    owners: [...owners.values()].map(serializeOwner),
+    coverage,
+  };
+  const filePath = statePath(languages);
+  await mkdir(dirname(filePath), { recursive: true });
+  await writeFile(filePath, `${JSON.stringify(state, null, 2)}\n`);
+}
+
 async function searchLanguageRepos(
   language: LanguageConfig,
   low: number,
@@ -370,23 +538,30 @@ async function searchLanguageRepos(
 
 async function collectSearchBucket(
   owners: Map<string, OwnerStats>,
+  languages: LanguageConfig[],
   language: LanguageConfig,
   low: number,
   high: number,
   coverage: SearchBucketCoverage[],
+  completedBuckets: Set<string>,
 ): Promise<void> {
   const pagesPerBucket = Number(process.env.SEARCH_PAGES ?? '10');
   const bucketLimit = Number(process.env.SEARCH_BUCKET_LIMIT ?? '50');
+  const currentBucketId = bucketId(language, low, high);
 
   if (coverage.length >= bucketLimit) {
+    return;
+  }
+
+  if (completedBuckets.has(currentBucketId)) {
     return;
   }
 
   const firstPage = await searchLanguageRepos(language, low, high, 1);
   if (firstPage.total_count > 1000 && low < high) {
     const midpoint = Math.floor((low + high) / 2);
-    await collectSearchBucket(owners, language, midpoint + 1, high, coverage);
-    await collectSearchBucket(owners, language, low, midpoint, coverage);
+    await collectSearchBucket(owners, languages, language, midpoint + 1, high, coverage, completedBuckets);
+    await collectSearchBucket(owners, languages, language, low, midpoint, coverage, completedBuckets);
     return;
   }
 
@@ -410,39 +585,59 @@ async function collectSearchBucket(
     addRepo(owner, language, repo, repo.language === language.name);
   }
 
-  coverage.push({
+  const bucketCoverage = {
     language: language.slug,
     stars: bucketKey(low, high),
     totalCount: firstPage.total_count,
     collectedRepos: items.length,
     truncated: items.length < firstPage.total_count,
-  });
+  };
+  coverage.push(bucketCoverage);
+  completedBuckets.add(currentBucketId);
+  await writeRefreshState(owners, languages, coverage);
 }
 
 async function collectSearchRepos(
   owners: Map<string, OwnerStats>,
+  languages: LanguageConfig[],
   language: LanguageConfig,
   coverage: SearchBucketCoverage[],
+  completedBuckets: Set<string>,
 ): Promise<void> {
   const minStars = Number(process.env.MIN_STARS ?? '100');
   const maxStars = Number(process.env.MAX_STARS ?? '250000');
-  await collectSearchBucket(owners, language, minStars, maxStars, coverage);
+  await collectSearchBucket(owners, languages, language, minStars, maxStars, coverage, completedBuckets);
 }
 
-async function hydrateOwnerProfiles(owners: Map<string, OwnerStats>, languages: LanguageConfig[]): Promise<void> {
+async function hydrateOwnerProfiles(
+  owners: Map<string, OwnerStats>,
+  languages: LanguageConfig[],
+  coverage: SearchBucketCoverage[],
+): Promise<void> {
   const profileLimit = Number(process.env.OWNER_PROFILE_LIMIT ?? '1000');
   const ownerList = [...owners.values()]
     .sort((a, b) => maxLanguageStars(b, languages) - maxLanguageStars(a, languages))
     .slice(0, profileLimit);
 
-  for (const owner of ownerList) {
+  for (const [index, owner] of ownerList.entries()) {
+    if (owner.profileHydrated) {
+      continue;
+    }
+
     const profile = await getUser(owner.login);
     owner.name = profile.name;
     owner.avatarUrl = profile.avatar_url;
     owner.htmlUrl = profile.html_url;
     owner.location = profile.location;
     owner.countryCode = normalizeCountry(profile.location);
+    owner.profileHydrated = true;
+
+    if (index % 25 === 0) {
+      await writeRefreshState(owners, languages, coverage);
+    }
   }
+
+  await writeRefreshState(owners, languages, coverage);
 }
 
 function maxLanguageStars(owner: OwnerStats, languages: LanguageConfig[]): number {
@@ -528,6 +723,7 @@ export async function generateData(options: GenerateOptions = {}): Promise<void>
   const owners = new Map<string, OwnerStats>();
   const isPartial = process.env.COMPLETE_DATASET !== 'true';
   const coverage: SearchBucketCoverage[] = [];
+  const completedBuckets = new Set<string>();
 
   await rm(dataRoot, { recursive: true, force: true });
   await mkdir(dataRoot, { recursive: true });
@@ -535,15 +731,28 @@ export async function generateData(options: GenerateOptions = {}): Promise<void>
   if (options.seedOnly) {
     mergeSeedUser(owners);
   } else {
+    if (process.env.DISCOVER_RANKINGS === 'true') {
+      const state = await readRefreshState(languages);
+      if (state) {
+        for (const owner of state.owners) {
+          owners.set(owner.login, deserializeOwner(owner));
+        }
+        coverage.push(...state.coverage);
+        for (const bucket of state.coverage) {
+          completedBuckets.add(`${bucket.language}:${bucket.stars}`);
+        }
+      }
+    }
+
     for (const login of getTargetUsers()) {
       await addTargetUser(owners, login, languages);
     }
 
     if (process.env.DISCOVER_RANKINGS === 'true') {
       for (const language of languages) {
-        await collectSearchRepos(owners, language, coverage);
+        await collectSearchRepos(owners, languages, language, coverage, completedBuckets);
       }
-      await hydrateOwnerProfiles(owners, languages);
+      await hydrateOwnerProfiles(owners, languages, coverage);
     }
   }
 
