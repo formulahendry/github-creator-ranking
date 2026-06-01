@@ -48,6 +48,7 @@ jobs:
             github-data-${{ runner.os }}-
       - run: npm ci
       - run: npm run data:generate
+      - run: npm run data:sync-user-ranks
       - run: npm run build
       - name: Commit refreshed data
         id: commit
