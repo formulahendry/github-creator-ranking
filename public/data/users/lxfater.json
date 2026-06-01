@@ -5,7 +5,7 @@
   "htmlUrl": "https://github.com/lxfater",
   "location": "Beijing",
   "countryCode": "CN",
-  "generatedAt": "2026-05-31T23:16:10.146Z",
+  "generatedAt": "2026-06-01T10:47:16.941Z",
   "isPartial": true,
   "languages": [
     {
@@ -19,7 +19,7 @@
       "starsContains": 8224,
       "repoCountContains": 3,
       "globalRank": 276,
-      "countryRank": 37,
+      "countryRank": 33,
       "topRepos": [
         {
           "name": "inpaint-web",

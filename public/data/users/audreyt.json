@@ -4,8 +4,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/20723?v=4",
   "htmlUrl": "https://github.com/audreyt",
   "location": "Taiwan",
-  "countryCode": "CN",
-  "generatedAt": "2026-05-31T23:16:10.146Z",
+  "countryCode": null,
+  "generatedAt": "2026-06-01T10:47:16.941Z",
   "isPartial": true,
   "languages": [
     {
@@ -19,7 +19,7 @@
       "starsContains": 3033,
       "repoCountContains": 1,
       "globalRank": 884,
-      "countryRank": 116,
+      "countryRank": null,
       "topRepos": [
         {
           "name": "ethercalc",

@@ -11,7 +11,7 @@
     "code": "CN"
   },
   "metric": "starsPrimary",
-  "generatedAt": "2026-05-31T23:16:10.146Z",
+  "generatedAt": "2026-06-01T10:47:16.941Z",
   "isPartial": true,
   "methodology": "Primary metric filtered to users whose public GitHub profile location normalizes to the selected region.",
   "items": [
@@ -298,28 +298,6 @@
     },
     {
       "rank": 9,
-      "login": "louislam",
-      "name": "Louis Lam",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1336778?v=4",
-      "htmlUrl": "https://github.com/louislam",
-      "location": "Hong Kong",
-      "countryCode": "CN",
-      "starsPrimary": 23355,
-      "repoCountPrimary": 1,
-      "starsContains": 23355,
-      "repoCountContains": 1,
-      "topRepos": [
-        {
-          "name": "dockge",
-          "fullName": "louislam/dockge",
-          "stars": 23355,
-          "url": "https://github.com/louislam/dockge",
-          "primaryLanguage": "TypeScript"
-        }
-      ]
-    },
-    {
-      "rank": 10,
       "login": "conwnet",
       "name": "netcon",
       "avatarUrl": "https://avatars.githubusercontent.com/u/17734694?v=4",
@@ -341,7 +319,7 @@
       ]
     },
     {
-      "rank": 11,
+      "rank": 10,
       "login": "whyour",
       "name": "whyour",
       "avatarUrl": "https://avatars.githubusercontent.com/u/22700758?v=4",
@@ -363,7 +341,7 @@
       ]
     },
     {
-      "rank": 12,
+      "rank": 11,
       "login": "idootop",
       "name": "Del",
       "avatarUrl": "https://avatars.githubusercontent.com/u/35302658?v=4",
@@ -413,7 +391,7 @@
       ]
     },
     {
-      "rank": 13,
+      "rank": 12,
       "login": "ustbhuangyi",
       "name": "HuangYi",
       "avatarUrl": "https://avatars.githubusercontent.com/u/5359011?v=4",
@@ -442,7 +420,7 @@
       ]
     },
     {
-      "rank": 14,
+      "rank": 13,
       "login": "fengyuanchen",
       "name": "Fengyuan Chen",
       "avatarUrl": "https://avatars.githubusercontent.com/u/3456749?v=4",
@@ -492,7 +470,7 @@
       ]
     },
     {
-      "rank": 15,
+      "rank": 14,
       "login": "crimx",
       "name": "CRIMX",
       "avatarUrl": "https://avatars.githubusercontent.com/u/6882794?v=4",
@@ -521,36 +499,7 @@
       ]
     },
     {
-      "rank": 16,
-      "login": "ikatyang",
-      "name": "Ika",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/8341033?v=4",
-      "htmlUrl": "https://github.com/ikatyang",
-      "location": "Hsinchu, Taiwan",
-      "countryCode": "CN",
-      "starsPrimary": 13856,
-      "repoCountPrimary": 2,
-      "starsContains": 13856,
-      "repoCountContains": 2,
-      "topRepos": [
-        {
-          "name": "emoji-cheat-sheet",
-          "fullName": "ikatyang/emoji-cheat-sheet",
-          "stars": 13733,
-          "url": "https://github.com/ikatyang/emoji-cheat-sheet",
-          "primaryLanguage": "TypeScript"
-        },
-        {
-          "name": "dts-jest",
-          "fullName": "ikatyang/dts-jest",
-          "stars": 123,
-          "url": "https://github.com/ikatyang/dts-jest",
-          "primaryLanguage": "TypeScript"
-        }
-      ]
-    },
-    {
-      "rank": 17,
+      "rank": 15,
       "login": "fuergaosi233",
       "name": "Holegots",
       "avatarUrl": "https://avatars.githubusercontent.com/u/22197568?v=4",
@@ -579,57 +528,7 @@
       ]
     },
     {
-      "rank": 18,
-      "login": "fuma-nama",
-      "name": "Fuma Nama",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/76240755?v=4",
-      "htmlUrl": "https://github.com/fuma-nama",
-      "location": "Hong Kong",
-      "countryCode": "CN",
-      "starsPrimary": 13226,
-      "repoCountPrimary": 6,
-      "starsContains": 13226,
-      "repoCountContains": 6,
-      "topRepos": [
-        {
-          "name": "fumadocs",
-          "fullName": "fuma-nama/fumadocs",
-          "stars": 12049,
-          "url": "https://github.com/fuma-nama/fumadocs",
-          "primaryLanguage": "TypeScript"
-        },
-        {
-          "name": "fuma-comment",
-          "fullName": "fuma-nama/fuma-comment",
-          "stars": 395,
-          "url": "https://github.com/fuma-nama/fuma-comment",
-          "primaryLanguage": "TypeScript"
-        },
-        {
-          "name": "discord-bot-dashboard-next",
-          "fullName": "fuma-nama/discord-bot-dashboard-next",
-          "stars": 237,
-          "url": "https://github.com/fuma-nama/discord-bot-dashboard-next",
-          "primaryLanguage": "TypeScript"
-        },
-        {
-          "name": "fumadb",
-          "fullName": "fuma-nama/fumadb",
-          "stars": 225,
-          "url": "https://github.com/fuma-nama/fumadb",
-          "primaryLanguage": "TypeScript"
-        },
-        {
-          "name": "shark-chat-js",
-          "fullName": "fuma-nama/shark-chat-js",
-          "stars": 162,
-          "url": "https://github.com/fuma-nama/shark-chat-js",
-          "primaryLanguage": "TypeScript"
-        }
-      ]
-    },
-    {
-      "rank": 19,
+      "rank": 16,
       "login": "codexu",
       "name": null,
       "avatarUrl": "https://avatars.githubusercontent.com/u/15899990?v=4",
@@ -665,7 +564,7 @@
       ]
     },
     {
-      "rank": 20,
+      "rank": 17,
       "login": "hustcc",
       "name": "hustcc",
       "avatarUrl": "https://avatars.githubusercontent.com/u/7856674?v=4",
@@ -715,7 +614,7 @@
       ]
     },
     {
-      "rank": 21,
+      "rank": 18,
       "login": "YunYouJun",
       "name": "云游君",
       "avatarUrl": "https://avatars.githubusercontent.com/u/25154432?v=4",
@@ -765,7 +664,7 @@
       ]
     },
     {
-      "rank": 22,
+      "rank": 19,
       "login": "James-Yu",
       "name": "James Jianqiao Yu",
       "avatarUrl": "https://avatars.githubusercontent.com/u/4210342?v=4",
@@ -787,7 +686,7 @@
       ]
     },
     {
-      "rank": 23,
+      "rank": 20,
       "login": "NanmiCoder",
       "name": "程序员阿江-Relakkes",
       "avatarUrl": "https://avatars.githubusercontent.com/u/47178017?v=4",
@@ -809,7 +708,7 @@
       ]
     },
     {
-      "rank": 24,
+      "rank": 21,
       "login": "xcatliu",
       "name": "xcatliu",
       "avatarUrl": "https://avatars.githubusercontent.com/u/5453359?v=4",
@@ -838,7 +737,7 @@
       ]
     },
     {
-      "rank": 25,
+      "rank": 22,
       "login": "Vanessa219",
       "name": "V",
       "avatarUrl": "https://avatars.githubusercontent.com/u/970828?v=4",
@@ -860,7 +759,7 @@
       ]
     },
     {
-      "rank": 26,
+      "rank": 23,
       "login": "cuixiaorui",
       "name": "阿崔cxr",
       "avatarUrl": "https://avatars.githubusercontent.com/u/12064746?v=4",
@@ -896,7 +795,7 @@
       ]
     },
     {
-      "rank": 27,
+      "rank": 24,
       "login": "jaywcjlove",
       "name": "小弟调调",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1680273?v=4",
@@ -946,7 +845,7 @@
       ]
     },
     {
-      "rank": 28,
+      "rank": 25,
       "login": "buqiyuan",
       "name": "bqy_fe",
       "avatarUrl": "https://avatars.githubusercontent.com/u/39730999?v=4",
@@ -996,7 +895,7 @@
       ]
     },
     {
-      "rank": 29,
+      "rank": 26,
       "login": "lencx",
       "name": null,
       "avatarUrl": "https://avatars.githubusercontent.com/u/16164244?v=4",
@@ -1039,7 +938,7 @@
       ]
     },
     {
-      "rank": 30,
+      "rank": 27,
       "login": "nashsu",
       "name": "nash_su",
       "avatarUrl": "https://avatars.githubusercontent.com/u/2127280?v=4",
@@ -1061,57 +960,7 @@
       ]
     },
     {
-      "rank": 31,
-      "login": "wellyshen",
-      "name": "Welly Shen",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/21308003?v=4",
-      "htmlUrl": "https://github.com/wellyshen",
-      "location": "Taipei, Taiwan",
-      "countryCode": "CN",
-      "starsPrimary": 9775,
-      "repoCountPrimary": 10,
-      "starsContains": 9775,
-      "repoCountContains": 10,
-      "topRepos": [
-        {
-          "name": "react-cool-inview",
-          "fullName": "wellyshen/react-cool-inview",
-          "stars": 1452,
-          "url": "https://github.com/wellyshen/react-cool-inview",
-          "primaryLanguage": "TypeScript"
-        },
-        {
-          "name": "react-cool-starter",
-          "fullName": "wellyshen/react-cool-starter",
-          "stars": 1298,
-          "url": "https://github.com/wellyshen/react-cool-starter",
-          "primaryLanguage": "TypeScript"
-        },
-        {
-          "name": "use-places-autocomplete",
-          "fullName": "wellyshen/use-places-autocomplete",
-          "stars": 1291,
-          "url": "https://github.com/wellyshen/use-places-autocomplete",
-          "primaryLanguage": "TypeScript"
-        },
-        {
-          "name": "use-web-animations",
-          "fullName": "wellyshen/use-web-animations",
-          "stars": 1274,
-          "url": "https://github.com/wellyshen/use-web-animations",
-          "primaryLanguage": "TypeScript"
-        },
-        {
-          "name": "react-cool-virtual",
-          "fullName": "wellyshen/react-cool-virtual",
-          "stars": 1224,
-          "url": "https://github.com/wellyshen/react-cool-virtual",
-          "primaryLanguage": "TypeScript"
-        }
-      ]
-    },
-    {
-      "rank": 32,
+      "rank": 28,
       "login": "zuiidea",
       "name": "zuiidea",
       "avatarUrl": "https://avatars.githubusercontent.com/u/16070518?v=4",
@@ -1133,7 +982,7 @@
       ]
     },
     {
-      "rank": 33,
+      "rank": 29,
       "login": "op7418",
       "name": "歸藏",
       "avatarUrl": "https://avatars.githubusercontent.com/u/13505770?v=4",
@@ -1183,7 +1032,7 @@
       ]
     },
     {
-      "rank": 34,
+      "rank": 30,
       "login": "yiminghe",
       "name": "yiminghe",
       "avatarUrl": "https://avatars.githubusercontent.com/u/200876?v=4",
@@ -1205,7 +1054,7 @@
       ]
     },
     {
-      "rank": 35,
+      "rank": 31,
       "login": "phodal",
       "name": "Fengda Huang",
       "avatarUrl": "https://avatars.githubusercontent.com/u/472311?v=4",
@@ -1255,7 +1104,7 @@
       ]
     },
     {
-      "rank": 36,
+      "rank": 32,
       "login": "JOYCEQL",
       "name": "siyue",
       "avatarUrl": "https://avatars.githubusercontent.com/u/34961949?v=4",
@@ -1277,7 +1126,7 @@
       ]
     },
     {
-      "rank": 37,
+      "rank": 33,
       "login": "lxfater",
       "name": "lxfater",
       "avatarUrl": "https://avatars.githubusercontent.com/u/22794120?v=4",
@@ -1313,7 +1162,7 @@
       ]
     },
     {
-      "rank": 38,
+      "rank": 34,
       "login": "zh-lx",
       "name": "zhoulixiang",
       "avatarUrl": "https://avatars.githubusercontent.com/u/73059627?v=4",
@@ -1356,7 +1205,7 @@
       ]
     },
     {
-      "rank": 39,
+      "rank": 35,
       "login": "miantiao-me",
       "name": "面条",
       "avatarUrl": "https://avatars.githubusercontent.com/u/2959393?v=4",
@@ -1406,7 +1255,7 @@
       ]
     },
     {
-      "rank": 40,
+      "rank": 36,
       "login": "xiangsx",
       "name": "Xiang",
       "avatarUrl": "https://avatars.githubusercontent.com/u/29322721?v=4",
@@ -1428,7 +1277,7 @@
       ]
     },
     {
-      "rank": 41,
+      "rank": 37,
       "login": "l0o0",
       "name": "l0o0",
       "avatarUrl": "https://avatars.githubusercontent.com/u/2743744?v=4",
@@ -1457,7 +1306,7 @@
       ]
     },
     {
-      "rank": 42,
+      "rank": 38,
       "login": "bubkoo",
       "name": "Neo",
       "avatarUrl": "https://avatars.githubusercontent.com/u/6045824?v=4",
@@ -1486,7 +1335,7 @@
       ]
     },
     {
-      "rank": 43,
+      "rank": 39,
       "login": "yinxin630",
       "name": "碎碎酱",
       "avatarUrl": "https://avatars.githubusercontent.com/u/6939365?v=4",
@@ -1515,7 +1364,7 @@
       ]
     },
     {
-      "rank": 44,
+      "rank": 40,
       "login": "SukkaW",
       "name": "Sukka",
       "avatarUrl": "https://avatars.githubusercontent.com/u/40715044?v=4",
@@ -1565,7 +1414,7 @@
       ]
     },
     {
-      "rank": 45,
+      "rank": 41,
       "login": "jkchao",
       "name": "三毛",
       "avatarUrl": "https://avatars.githubusercontent.com/u/22933931?v=4",
@@ -1601,7 +1450,7 @@
       ]
     },
     {
-      "rank": 46,
+      "rank": 42,
       "login": "Bistutu",
       "name": "ThinkStu",
       "avatarUrl": "https://avatars.githubusercontent.com/u/91378285?v=4",
@@ -1623,7 +1472,7 @@
       ]
     },
     {
-      "rank": 47,
+      "rank": 43,
       "login": "Narcooo",
       "name": "Junxian Ma",
       "avatarUrl": "https://avatars.githubusercontent.com/u/33502405?v=4",
@@ -1645,7 +1494,7 @@
       ]
     },
     {
-      "rank": 48,
+      "rank": 44,
       "login": "yezihaohao",
       "name": "叶子",
       "avatarUrl": "https://avatars.githubusercontent.com/u/23539868?v=4",
@@ -1667,7 +1516,7 @@
       ]
     },
     {
-      "rank": 49,
+      "rank": 45,
       "login": "purocean",
       "name": "洋子",
       "avatarUrl": "https://avatars.githubusercontent.com/u/7115690?v=4",
@@ -1689,7 +1538,7 @@
       ]
     },
     {
-      "rank": 50,
+      "rank": 46,
       "login": "zhukunpenglinyutong",
       "name": "朱昆鹏",
       "avatarUrl": "https://avatars.githubusercontent.com/u/31264015?v=4",
@@ -1718,7 +1567,7 @@
       ]
     },
     {
-      "rank": 51,
+      "rank": 47,
       "login": "theajack",
       "name": "Tack Chen",
       "avatarUrl": "https://avatars.githubusercontent.com/u/23377279?v=4",
@@ -1747,7 +1596,7 @@
       ]
     },
     {
-      "rank": 52,
+      "rank": 48,
       "login": "JimmyLv",
       "name": "JimmyLv_吕立青",
       "avatarUrl": "https://avatars.githubusercontent.com/u/4997466?v=4",
@@ -1776,7 +1625,7 @@
       ]
     },
     {
-      "rank": 53,
+      "rank": 49,
       "login": "LokerL",
       "name": "LokerL",
       "avatarUrl": "https://avatars.githubusercontent.com/u/44148627?v=4",
@@ -1798,7 +1647,7 @@
       ]
     },
     {
-      "rank": 54,
+      "rank": 50,
       "login": "Huachao",
       "name": "Huachao Mao",
       "avatarUrl": "https://avatars.githubusercontent.com/u/2796177?v=4",
@@ -1820,7 +1669,7 @@
       ]
     },
     {
-      "rank": 55,
+      "rank": 51,
       "login": "formulahendry",
       "name": "Jun Han",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1050213?v=4",
@@ -1870,7 +1719,7 @@
       ]
     },
     {
-      "rank": 56,
+      "rank": 52,
       "login": "CJex",
       "name": null,
       "avatarUrl": "https://avatars.githubusercontent.com/u/2967361?v=4",
@@ -1892,7 +1741,7 @@
       ]
     },
     {
-      "rank": 57,
+      "rank": 53,
       "login": "alex8088",
       "name": "alex.wei",
       "avatarUrl": "https://avatars.githubusercontent.com/u/25053004?v=4",
@@ -1921,7 +1770,7 @@
       ]
     },
     {
-      "rank": 58,
+      "rank": 54,
       "login": "shfshanyue",
       "name": "shanyue",
       "avatarUrl": "https://avatars.githubusercontent.com/u/13389461?v=4",
@@ -1950,7 +1799,7 @@
       ]
     },
     {
-      "rank": 59,
+      "rank": 55,
       "login": "kimlimjustin",
       "name": "Justin Kimlim",
       "avatarUrl": "https://avatars.githubusercontent.com/u/61906684?v=4",
@@ -1972,7 +1821,7 @@
       ]
     },
     {
-      "rank": 60,
+      "rank": 56,
       "login": "czy0729",
       "name": "Chan",
       "avatarUrl": "https://avatars.githubusercontent.com/u/13514316?v=4",
@@ -1994,7 +1843,7 @@
       ]
     },
     {
-      "rank": 61,
+      "rank": 57,
       "login": "hanydd",
       "name": null,
       "avatarUrl": "https://avatars.githubusercontent.com/u/31091101?v=4",
@@ -2016,36 +1865,7 @@
       ]
     },
     {
-      "rank": 62,
-      "login": "heilcheng",
-      "name": "hailey",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/155233908?v=4",
-      "htmlUrl": "https://github.com/heilcheng",
-      "location": "Hong Kong",
-      "countryCode": "CN",
-      "starsPrimary": 5450,
-      "repoCountPrimary": 2,
-      "starsContains": 5450,
-      "repoCountContains": 2,
-      "topRepos": [
-        {
-          "name": "awesome-agent-skills",
-          "fullName": "heilcheng/awesome-agent-skills",
-          "stars": 5228,
-          "url": "https://github.com/heilcheng/awesome-agent-skills",
-          "primaryLanguage": "TypeScript"
-        },
-        {
-          "name": "website",
-          "fullName": "heilcheng/website",
-          "stars": 222,
-          "url": "https://github.com/heilcheng/website",
-          "primaryLanguage": "TypeScript"
-        }
-      ]
-    },
-    {
-      "rank": 63,
+      "rank": 58,
       "login": "netease-youdao",
       "name": "NetEase Youdao",
       "avatarUrl": "https://avatars.githubusercontent.com/u/3909232?v=4",
@@ -2067,7 +1887,7 @@
       ]
     },
     {
-      "rank": 64,
+      "rank": 59,
       "login": "haishanh",
       "name": "haishan",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1166872?v=4",
@@ -2096,7 +1916,7 @@
       ]
     },
     {
-      "rank": 65,
+      "rank": 60,
       "login": "XPoet",
       "name": "指间的诗意",
       "avatarUrl": "https://avatars.githubusercontent.com/u/24516169?v=4",
@@ -2118,7 +1938,7 @@
       ]
     },
     {
-      "rank": 66,
+      "rank": 61,
       "login": "Hufe921",
       "name": "Hufe",
       "avatarUrl": "https://avatars.githubusercontent.com/u/27001251?v=4",
@@ -2147,7 +1967,7 @@
       ]
     },
     {
-      "rank": 67,
+      "rank": 62,
       "login": "tiajinsha",
       "name": "jinsha",
       "avatarUrl": "https://avatars.githubusercontent.com/u/49967568?v=4",
@@ -2169,7 +1989,7 @@
       ]
     },
     {
-      "rank": 68,
+      "rank": 63,
       "login": "linuxhsj",
       "name": "SeekSage",
       "avatarUrl": "https://avatars.githubusercontent.com/u/7509894?v=4",
@@ -2191,7 +2011,7 @@
       ]
     },
     {
-      "rank": 69,
+      "rank": 64,
       "login": "Mereithhh",
       "name": "WangLu",
       "avatarUrl": "https://avatars.githubusercontent.com/u/22872368?v=4",
@@ -2227,7 +2047,7 @@
       ]
     },
     {
-      "rank": 70,
+      "rank": 65,
       "login": "ascoders",
       "name": "黄子毅",
       "avatarUrl": "https://avatars.githubusercontent.com/u/7970947?v=4",
@@ -2270,7 +2090,7 @@
       ]
     },
     {
-      "rank": 71,
+      "rank": 66,
       "login": "Bowen7",
       "name": "Bowen",
       "avatarUrl": "https://avatars.githubusercontent.com/u/27432981?v=4",
@@ -2299,7 +2119,7 @@
       ]
     },
     {
-      "rank": 72,
+      "rank": 67,
       "login": "zenghongtu",
       "name": "jasonzeng",
       "avatarUrl": "https://avatars.githubusercontent.com/u/25629121?v=4",
@@ -2349,29 +2169,7 @@
       ]
     },
     {
-      "rank": 73,
-      "login": "vinta",
-      "name": "Vinta Chen",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/652070?v=4",
-      "htmlUrl": "https://github.com/vinta",
-      "location": "Taiwan",
-      "countryCode": "CN",
-      "starsPrimary": 4763,
-      "repoCountPrimary": 1,
-      "starsContains": 4763,
-      "repoCountContains": 1,
-      "topRepos": [
-        {
-          "name": "pangu.js",
-          "fullName": "vinta/pangu.js",
-          "stars": 4763,
-          "url": "https://github.com/vinta/pangu.js",
-          "primaryLanguage": "TypeScript"
-        }
-      ]
-    },
-    {
-      "rank": 74,
+      "rank": 68,
       "login": "027xiguapi",
       "name": "西瓜皮",
       "avatarUrl": "https://avatars.githubusercontent.com/u/31228055?v=4",
@@ -2400,7 +2198,7 @@
       ]
     },
     {
-      "rank": 75,
+      "rank": 69,
       "login": "zce",
       "name": "Lei",
       "avatarUrl": "https://avatars.githubusercontent.com/u/6166576?v=4",
@@ -2436,7 +2234,7 @@
       ]
     },
     {
-      "rank": 76,
+      "rank": 70,
       "login": "zdhxiong",
       "name": "zdhxiong",
       "avatarUrl": "https://avatars.githubusercontent.com/u/3030330?v=4",
@@ -2458,7 +2256,7 @@
       ]
     },
     {
-      "rank": 77,
+      "rank": 71,
       "login": "gdh1995",
       "name": "Dahan Gong",
       "avatarUrl": "https://avatars.githubusercontent.com/u/5547703?v=4",
@@ -2480,7 +2278,7 @@
       ]
     },
     {
-      "rank": 78,
+      "rank": 72,
       "login": "ResearAI",
       "name": "ResearAI",
       "avatarUrl": "https://avatars.githubusercontent.com/u/205890474?v=4",
@@ -2509,7 +2307,7 @@
       ]
     },
     {
-      "rank": 79,
+      "rank": 73,
       "login": "djyde",
       "name": "Randy",
       "avatarUrl": "https://avatars.githubusercontent.com/u/914329?v=4",
@@ -2559,36 +2357,7 @@
       ]
     },
     {
-      "rank": 80,
-      "login": "1weiho",
-      "name": "Yiwei Ho",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/75478661?v=4",
-      "htmlUrl": "https://github.com/1weiho",
-      "location": "Taiwan",
-      "countryCode": "CN",
-      "starsPrimary": 4304,
-      "repoCountPrimary": 2,
-      "starsContains": 4304,
-      "repoCountContains": 2,
-      "topRepos": [
-        {
-          "name": "open-slide",
-          "fullName": "1weiho/open-slide",
-          "stars": 4026,
-          "url": "https://github.com/1weiho/open-slide",
-          "primaryLanguage": "TypeScript"
-        },
-        {
-          "name": "next-lens",
-          "fullName": "1weiho/next-lens",
-          "stars": 278,
-          "url": "https://github.com/1weiho/next-lens",
-          "primaryLanguage": "TypeScript"
-        }
-      ]
-    },
-    {
-      "rank": 81,
+      "rank": 74,
       "login": "SSShooter",
       "name": "DJJo",
       "avatarUrl": "https://avatars.githubusercontent.com/u/13051472?v=4",
@@ -2617,7 +2386,7 @@
       ]
     },
     {
-      "rank": 82,
+      "rank": 75,
       "login": "SylarLong",
       "name": "Sylar",
       "avatarUrl": "https://avatars.githubusercontent.com/u/6510425?v=4",
@@ -2646,7 +2415,7 @@
       ]
     },
     {
-      "rank": 83,
+      "rank": 76,
       "login": "doodlewind",
       "name": "Yifeng \"Evan\" Wang",
       "avatarUrl": "https://avatars.githubusercontent.com/u/7312949?v=4",
@@ -2668,29 +2437,7 @@
       ]
     },
     {
-      "rank": 84,
-      "login": "tiann",
-      "name": "weishu",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/4233744?v=4",
-      "htmlUrl": "https://github.com/tiann",
-      "location": "Hong Kong",
-      "countryCode": "CN",
-      "starsPrimary": 4151,
-      "repoCountPrimary": 1,
-      "starsContains": 4151,
-      "repoCountContains": 1,
-      "topRepos": [
-        {
-          "name": "hapi",
-          "fullName": "tiann/hapi",
-          "stars": 4151,
-          "url": "https://github.com/tiann/hapi",
-          "primaryLanguage": "TypeScript"
-        }
-      ]
-    },
-    {
-      "rank": 85,
+      "rank": 77,
       "login": "LingyiChen-AI",
       "name": "LingyiChen-AI",
       "avatarUrl": "https://avatars.githubusercontent.com/u/44161003?v=4",
@@ -2726,7 +2473,7 @@
       ]
     },
     {
-      "rank": 86,
+      "rank": 78,
       "login": "imcuttle",
       "name": "Cong Yu",
       "avatarUrl": "https://avatars.githubusercontent.com/u/13509258?v=4",
@@ -2748,7 +2495,7 @@
       ]
     },
     {
-      "rank": 87,
+      "rank": 79,
       "login": "spencerwooo",
       "name": "Shangbo Wu",
       "avatarUrl": "https://avatars.githubusercontent.com/u/32114380?v=4",
@@ -2777,7 +2524,7 @@
       ]
     },
     {
-      "rank": 88,
+      "rank": 80,
       "login": "justjavac",
       "name": "迷渡",
       "avatarUrl": "https://avatars.githubusercontent.com/u/359395?v=4",
@@ -2827,7 +2574,7 @@
       ]
     },
     {
-      "rank": 89,
+      "rank": 81,
       "login": "buxuku",
       "name": " Lin Xiaodong",
       "avatarUrl": "https://avatars.githubusercontent.com/u/7866330?v=4",
@@ -2849,7 +2596,7 @@
       ]
     },
     {
-      "rank": 90,
+      "rank": 82,
       "login": "timqian",
       "name": "Tim Qian",
       "avatarUrl": "https://avatars.githubusercontent.com/u/5512552?v=4",
@@ -2878,7 +2625,7 @@
       ]
     },
     {
-      "rank": 91,
+      "rank": 83,
       "login": "varHarrie",
       "name": "varHarrie",
       "avatarUrl": "https://avatars.githubusercontent.com/u/14304201?v=4",
@@ -2907,7 +2654,7 @@
       ]
     },
     {
-      "rank": 92,
+      "rank": 84,
       "login": "fannheyward",
       "name": "Heyward Fann",
       "avatarUrl": "https://avatars.githubusercontent.com/u/345274?v=4",
@@ -2957,7 +2704,7 @@
       ]
     },
     {
-      "rank": 93,
+      "rank": 85,
       "login": "Mayandev",
       "name": "MayanDev",
       "avatarUrl": "https://avatars.githubusercontent.com/u/28648715?v=4",
@@ -2993,7 +2740,7 @@
       ]
     },
     {
-      "rank": 94,
+      "rank": 86,
       "login": "i5ting",
       "name": "狼叔",
       "avatarUrl": "https://avatars.githubusercontent.com/u/3118295?v=4",
@@ -3015,29 +2762,7 @@
       ]
     },
     {
-      "rank": 95,
-      "login": "shuakami",
-      "name": "速冻饺子",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/149454909?v=4",
-      "htmlUrl": "https://github.com/shuakami",
-      "location": "Hong Kong",
-      "countryCode": "CN",
-      "starsPrimary": 3691,
-      "repoCountPrimary": 1,
-      "starsContains": 3691,
-      "repoCountContains": 1,
-      "topRepos": [
-        {
-          "name": "qq-chat-exporter",
-          "fullName": "shuakami/qq-chat-exporter",
-          "stars": 3691,
-          "url": "https://github.com/shuakami/qq-chat-exporter",
-          "primaryLanguage": "TypeScript"
-        }
-      ]
-    },
-    {
-      "rank": 96,
+      "rank": 87,
       "login": "ginobefun",
       "name": "Gino Zhang",
       "avatarUrl": "https://avatars.githubusercontent.com/u/21135334?v=4",
@@ -3059,50 +2784,7 @@
       ]
     },
     {
-      "rank": 97,
-      "login": "edmundhung",
-      "name": "Edmund Hung",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/8258047?v=4",
-      "htmlUrl": "https://github.com/edmundhung",
-      "location": "Hong Kong",
-      "countryCode": "CN",
-      "starsPrimary": 3561,
-      "repoCountPrimary": 4,
-      "starsContains": 3561,
-      "repoCountContains": 4,
-      "topRepos": [
-        {
-          "name": "conform",
-          "fullName": "edmundhung/conform",
-          "stars": 2555,
-          "url": "https://github.com/edmundhung/conform",
-          "primaryLanguage": "TypeScript"
-        },
-        {
-          "name": "maildog",
-          "fullName": "edmundhung/maildog",
-          "stars": 401,
-          "url": "https://github.com/edmundhung/maildog",
-          "primaryLanguage": "TypeScript"
-        },
-        {
-          "name": "remix-cloudflare-template",
-          "fullName": "edmundhung/remix-cloudflare-template",
-          "stars": 327,
-          "url": "https://github.com/edmundhung/remix-cloudflare-template",
-          "primaryLanguage": "TypeScript"
-        },
-        {
-          "name": "remix-guide",
-          "fullName": "edmundhung/remix-guide",
-          "stars": 278,
-          "url": "https://github.com/edmundhung/remix-guide",
-          "primaryLanguage": "TypeScript"
-        }
-      ]
-    },
-    {
-      "rank": 98,
+      "rank": 88,
       "login": "easychen",
       "name": "Easy",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1294760?v=4",
@@ -3138,29 +2820,7 @@
       ]
     },
     {
-      "rank": 99,
-      "login": "vn7n24fzkq",
-      "name": "Casper",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/20241522?v=4",
-      "htmlUrl": "https://github.com/vn7n24fzkq",
-      "location": "Taiwan",
-      "countryCode": "CN",
-      "starsPrimary": 3522,
-      "repoCountPrimary": 1,
-      "starsContains": 3522,
-      "repoCountContains": 1,
-      "topRepos": [
-        {
-          "name": "github-profile-summary-cards",
-          "fullName": "vn7n24fzkq/github-profile-summary-cards",
-          "stars": 3522,
-          "url": "https://github.com/vn7n24fzkq/github-profile-summary-cards",
-          "primaryLanguage": "TypeScript"
-        }
-      ]
-    },
-    {
-      "rank": 100,
+      "rank": 89,
       "login": "sunniejs",
       "name": "sunnie",
       "avatarUrl": "https://avatars.githubusercontent.com/u/35954879?v=4",
@@ -3182,7 +2842,7 @@
       ]
     },
     {
-      "rank": 101,
+      "rank": 90,
       "login": "guokaigdg",
       "name": "guokaigdg",
       "avatarUrl": "https://avatars.githubusercontent.com/u/9608847?v=4",
@@ -3211,7 +2871,7 @@
       ]
     },
     {
-      "rank": 102,
+      "rank": 91,
       "login": "ConardLi",
       "name": "ConardLi",
       "avatarUrl": "https://avatars.githubusercontent.com/u/30708545?v=4",
@@ -3254,7 +2914,7 @@
       ]
     },
     {
-      "rank": 103,
+      "rank": 92,
       "login": "LOG1997",
       "name": "LOG1997",
       "avatarUrl": "https://avatars.githubusercontent.com/u/26322485?v=4",
@@ -3276,7 +2936,7 @@
       ]
     },
     {
-      "rank": 104,
+      "rank": 93,
       "login": "hujiulong",
       "name": null,
       "avatarUrl": "https://avatars.githubusercontent.com/u/13267437?v=4",
@@ -3298,7 +2958,7 @@
       ]
     },
     {
-      "rank": 105,
+      "rank": 94,
       "login": "guaguaguaxia",
       "name": "guaguaguaxia",
       "avatarUrl": "https://avatars.githubusercontent.com/u/18466048?v=4",
@@ -3320,7 +2980,7 @@
       ]
     },
     {
-      "rank": 106,
+      "rank": 95,
       "login": "MrXujiang",
       "name": "徐小夕",
       "avatarUrl": "https://avatars.githubusercontent.com/u/28833634?v=4",
@@ -3370,7 +3030,7 @@
       ]
     },
     {
-      "rank": 107,
+      "rank": 96,
       "login": "fantasticit",
       "name": "fantasticit",
       "avatarUrl": "https://avatars.githubusercontent.com/u/26452939?v=4",
@@ -3413,7 +3073,7 @@
       ]
     },
     {
-      "rank": 108,
+      "rank": 97,
       "login": "LHRUN",
       "name": "Leo Song",
       "avatarUrl": "https://avatars.githubusercontent.com/u/51286284?v=4",
@@ -3449,7 +3109,7 @@
       ]
     },
     {
-      "rank": 109,
+      "rank": 98,
       "login": "unadlib",
       "name": "Michael Lin",
       "avatarUrl": "https://avatars.githubusercontent.com/u/18650460?v=4",
@@ -3499,7 +3159,7 @@
       ]
     },
     {
-      "rank": 110,
+      "rank": 99,
       "login": "oboard",
       "name": null,
       "avatarUrl": "https://avatars.githubusercontent.com/u/23210180?v=4",
@@ -3521,7 +3181,7 @@
       ]
     },
     {
-      "rank": 111,
+      "rank": 100,
       "login": "pacexy",
       "name": null,
       "avatarUrl": "https://avatars.githubusercontent.com/u/32255488?v=4",
@@ -3543,7 +3203,7 @@
       ]
     },
     {
-      "rank": 112,
+      "rank": 101,
       "login": "ryan4yin",
       "name": "Ryan Yin",
       "avatarUrl": "https://avatars.githubusercontent.com/u/22363274?v=4",
@@ -3565,7 +3225,7 @@
       ]
     },
     {
-      "rank": 113,
+      "rank": 102,
       "login": "brookshi",
       "name": "Brook Shi",
       "avatarUrl": "https://avatars.githubusercontent.com/u/13607728?v=4",
@@ -3594,7 +3254,7 @@
       ]
     },
     {
-      "rank": 114,
+      "rank": 103,
       "login": "visiky",
       "name": "visiky",
       "avatarUrl": "https://avatars.githubusercontent.com/u/15646325?v=4",
@@ -3616,7 +3276,7 @@
       ]
     },
     {
-      "rank": 115,
+      "rank": 104,
       "login": "mengjian-github",
       "name": "孟健",
       "avatarUrl": "https://avatars.githubusercontent.com/u/8306959?v=4",
@@ -3645,29 +3305,7 @@
       ]
     },
     {
-      "rank": 116,
-      "login": "audreyt",
-      "name": "唐鳳",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/20723?v=4",
-      "htmlUrl": "https://github.com/audreyt",
-      "location": "Taiwan",
-      "countryCode": "CN",
-      "starsPrimary": 3033,
-      "repoCountPrimary": 1,
-      "starsContains": 3033,
-      "repoCountContains": 1,
-      "topRepos": [
-        {
-          "name": "ethercalc",
-          "fullName": "audreyt/ethercalc",
-          "stars": 3033,
-          "url": "https://github.com/audreyt/ethercalc",
-          "primaryLanguage": "TypeScript"
-        }
-      ]
-    },
-    {
-      "rank": 117,
+      "rank": 105,
       "login": "cweijan",
       "name": "Weijan Chen ",
       "avatarUrl": "https://avatars.githubusercontent.com/u/27798227?v=4",
@@ -3696,7 +3334,7 @@
       ]
     },
     {
-      "rank": 118,
+      "rank": 106,
       "login": "Pana",
       "name": "Pana",
       "avatarUrl": "https://avatars.githubusercontent.com/u/552081?v=4",
@@ -3718,7 +3356,7 @@
       ]
     },
     {
-      "rank": 119,
+      "rank": 107,
       "login": "imzbf",
       "name": "zbf",
       "avatarUrl": "https://avatars.githubusercontent.com/u/37092006?v=4",
@@ -3747,7 +3385,7 @@
       ]
     },
     {
-      "rank": 120,
+      "rank": 108,
       "login": "Lin-arm",
       "name": "林灵柒",
       "avatarUrl": "https://avatars.githubusercontent.com/u/85251920?v=4",
@@ -3769,7 +3407,7 @@
       ]
     },
     {
-      "rank": 121,
+      "rank": 109,
       "login": "colinlet",
       "name": "凌枫",
       "avatarUrl": "https://avatars.githubusercontent.com/u/8656366?v=4",
@@ -3791,7 +3429,7 @@
       ]
     },
     {
-      "rank": 122,
+      "rank": 110,
       "login": "ding113",
       "name": "Ding",
       "avatarUrl": "https://avatars.githubusercontent.com/u/44717411?v=4",
@@ -3813,7 +3451,7 @@
       ]
     },
     {
-      "rank": 123,
+      "rank": 111,
       "login": "M-cheng-web",
       "name": null,
       "avatarUrl": "https://avatars.githubusercontent.com/u/58416262?v=4",
@@ -3835,7 +3473,7 @@
       ]
     },
     {
-      "rank": 124,
+      "rank": 112,
       "login": "ZHO-ZHO-ZHO",
       "name": null,
       "avatarUrl": "https://avatars.githubusercontent.com/u/140084057?v=4",
@@ -3878,7 +3516,7 @@
       ]
     },
     {
-      "rank": 125,
+      "rank": 113,
       "login": "zenozeng",
       "name": "Zeno Zeng",
       "avatarUrl": "https://avatars.githubusercontent.com/u/2544489?v=4",
@@ -3907,7 +3545,7 @@
       ]
     },
     {
-      "rank": 126,
+      "rank": 114,
       "login": "codercup",
       "name": "菲鸽",
       "avatarUrl": "https://avatars.githubusercontent.com/u/65991901?v=4",
@@ -3929,7 +3567,7 @@
       ]
     },
     {
-      "rank": 127,
+      "rank": 115,
       "login": "Mouseww",
       "name": "Webber Wei",
       "avatarUrl": "https://avatars.githubusercontent.com/u/28473201?v=4",

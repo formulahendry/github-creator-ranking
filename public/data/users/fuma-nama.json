@@ -4,8 +4,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/76240755?v=4",
   "htmlUrl": "https://github.com/fuma-nama",
   "location": "Hong Kong",
-  "countryCode": "CN",
-  "generatedAt": "2026-05-31T23:16:10.146Z",
+  "countryCode": null,
+  "generatedAt": "2026-06-01T10:47:16.941Z",
   "isPartial": true,
   "languages": [
     {
@@ -19,7 +19,7 @@
       "starsContains": 13226,
       "repoCountContains": 6,
       "globalRank": 151,
-      "countryRank": 18,
+      "countryRank": null,
       "topRepos": [
         {
           "name": "fumadocs",

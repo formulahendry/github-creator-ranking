@@ -4,8 +4,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/149454909?v=4",
   "htmlUrl": "https://github.com/shuakami",
   "location": "Hong Kong",
-  "countryCode": "CN",
-  "generatedAt": "2026-05-31T23:16:10.146Z",
+  "countryCode": null,
+  "generatedAt": "2026-06-01T10:47:16.941Z",
   "isPartial": true,
   "languages": [
     {
@@ -19,7 +19,7 @@
       "starsContains": 3691,
       "repoCountContains": 1,
       "globalRank": 717,
-      "countryRank": 95,
+      "countryRank": null,
       "topRepos": [
         {
           "name": "qq-chat-exporter",

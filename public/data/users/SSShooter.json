@@ -5,7 +5,7 @@
   "htmlUrl": "https://github.com/SSShooter",
   "location": "China Guangdong Guangzhou",
   "countryCode": "CN",
-  "generatedAt": "2026-05-31T23:16:10.146Z",
+  "generatedAt": "2026-06-01T10:47:16.941Z",
   "isPartial": true,
   "languages": [
     {
@@ -19,7 +19,7 @@
       "starsContains": 4274,
       "repoCountContains": 2,
       "globalRank": 606,
-      "countryRank": 81,
+      "countryRank": 74,
       "topRepos": [
         {
           "name": "mind-elixir-core",

@@ -5,7 +5,7 @@
   "htmlUrl": "https://github.com/bubkoo",
   "location": "Hangzhou, China  ",
   "countryCode": "CN",
-  "generatedAt": "2026-05-31T23:16:10.146Z",
+  "generatedAt": "2026-06-01T10:47:16.941Z",
   "isPartial": true,
   "languages": [
     {
@@ -19,7 +19,7 @@
       "starsContains": 7370,
       "repoCountContains": 2,
       "globalRank": 305,
-      "countryRank": 42,
+      "countryRank": 38,
       "topRepos": [
         {
           "name": "html-to-image",

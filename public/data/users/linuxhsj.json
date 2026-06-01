@@ -5,7 +5,7 @@
   "htmlUrl": "https://github.com/linuxhsj",
   "location": "shenzhen",
   "countryCode": "CN",
-  "generatedAt": "2026-05-31T23:16:10.146Z",
+  "generatedAt": "2026-06-01T10:47:16.941Z",
   "isPartial": true,
   "languages": [
     {
@@ -19,7 +19,7 @@
       "starsContains": 4920,
       "repoCountContains": 1,
       "globalRank": 514,
-      "countryRank": 68,
+      "countryRank": 63,
       "topRepos": [
         {
           "name": "openclaw-zero-token",

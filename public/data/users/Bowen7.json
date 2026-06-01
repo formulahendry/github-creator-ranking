@@ -5,7 +5,7 @@
   "htmlUrl": "https://github.com/Bowen7",
   "location": "China",
   "countryCode": "CN",
-  "generatedAt": "2026-05-31T23:16:10.146Z",
+  "generatedAt": "2026-06-01T10:47:16.941Z",
   "isPartial": true,
   "languages": [
     {
@@ -19,7 +19,7 @@
       "starsContains": 4824,
       "repoCountContains": 2,
       "globalRank": 528,
-      "countryRank": 71,
+      "countryRank": 66,
       "topRepos": [
         {
           "name": "regex-vis",

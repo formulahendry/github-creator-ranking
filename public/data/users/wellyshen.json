@@ -4,8 +4,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/21308003?v=4",
   "htmlUrl": "https://github.com/wellyshen",
   "location": "Taipei, Taiwan",
-  "countryCode": "CN",
-  "generatedAt": "2026-05-31T23:16:10.146Z",
+  "countryCode": null,
+  "generatedAt": "2026-06-01T10:47:16.941Z",
   "isPartial": true,
   "languages": [
     {
@@ -19,7 +19,7 @@
       "starsContains": 9775,
       "repoCountContains": 10,
       "globalRank": 226,
-      "countryRank": 31,
+      "countryRank": null,
       "topRepos": [
         {
           "name": "react-cool-inview",
