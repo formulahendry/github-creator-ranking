@@ -20,10 +20,10 @@ const ranking = getCountryRanking(country, language);
 
 <BaseLayout title={`${ranking.country?.name} ${ranking.language.name} Creator Ranking`}>
   <section class="page-heading">
-    <p class="eyebrow">Country ranking</p>
+    <p class="eyebrow">Region ranking</p>
     <h1>{ranking.country?.name} {ranking.language.name} creators</h1>
     <p>{ranking.methodology}</p>
-    <p class="notice">Country is inferred from public GitHub profile location text and may be incomplete.</p>
+    <p class="notice">Location is inferred from public GitHub profile location text and may be incomplete.</p>
   </section>
 
   <section class="stats-grid">

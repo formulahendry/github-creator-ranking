@@ -795,7 +795,7 @@ export async function generateData(options: GenerateOptions = {}): Promise<void>
         generatedAt,
         isPartial,
         methodology:
-          'Primary metric filtered to users whose public GitHub profile location normalizes to the selected country.',
+          'Primary metric filtered to users whose public GitHub profile location normalizes to the selected region.',
         items: countryItems,
       } satisfies RankingDataset);
     }

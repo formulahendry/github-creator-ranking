@@ -15,7 +15,7 @@ const { items } = Astro.props;
       <tr>
         <th>Rank</th>
         <th>Creator</th>
-        <th>Country</th>
+        <th>Location</th>
         <th class="numeric">Stars</th>
         <th class="numeric">Repos</th>
         <th>Top repository</th>
@@ -37,7 +37,7 @@ const { items } = Astro.props;
                   </span>
                 </a>
               </td>
-              <td>{item.countryCode || item.location || 'Unknown'}</td>
+              <td>{item.location || 'Unknown'}</td>
               <td class="numeric">{formatNumber(item.starsPrimary)}</td>
               <td class="numeric">{formatNumber(item.repoCountPrimary)}</td>
               <td>
