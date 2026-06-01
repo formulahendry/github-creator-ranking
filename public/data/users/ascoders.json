@@ -5,7 +5,7 @@
   "htmlUrl": "https://github.com/ascoders",
   "location": "Hangzhou, China",
   "countryCode": "CN",
-  "generatedAt": "2026-06-01T10:48:10.615Z",
+  "generatedAt": "2026-06-01T11:11:52.521Z",
   "isPartial": true,
   "languages": [
     {
@@ -19,7 +19,7 @@
       "starsContains": 4915,
       "repoCountContains": 4,
       "globalRank": 517,
-      "countryRank": 65,
+      "countryRank": 70,
       "topRepos": [
         {
           "name": "react-native-image-viewer",

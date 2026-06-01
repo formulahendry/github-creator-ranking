@@ -4,8 +4,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/75478661?v=4",
   "htmlUrl": "https://github.com/1weiho",
   "location": "Taiwan",
-  "countryCode": null,
-  "generatedAt": "2026-06-01T10:48:10.615Z",
+  "countryCode": "CN",
+  "generatedAt": "2026-06-01T11:11:52.521Z",
   "isPartial": true,
   "languages": [
     {
@@ -19,7 +19,7 @@
       "starsContains": 4304,
       "repoCountContains": 2,
       "globalRank": 603,
-      "countryRank": null,
+      "countryRank": 80,
       "topRepos": [
         {
           "name": "open-slide",

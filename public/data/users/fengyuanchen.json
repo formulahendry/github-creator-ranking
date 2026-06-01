@@ -5,7 +5,7 @@
   "htmlUrl": "https://github.com/fengyuanchen",
   "location": "China",
   "countryCode": "CN",
-  "generatedAt": "2026-06-01T10:48:10.615Z",
+  "generatedAt": "2026-06-01T11:11:52.521Z",
   "isPartial": true,
   "languages": [
     {
@@ -19,7 +19,7 @@
       "starsContains": 15978,
       "repoCountContains": 5,
       "globalRank": 119,
-      "countryRank": 13,
+      "countryRank": 14,
       "topRepos": [
         {
           "name": "cropperjs",

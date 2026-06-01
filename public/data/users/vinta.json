@@ -4,8 +4,8 @@
   "avatarUrl": "https://avatars.githubusercontent.com/u/652070?v=4",
   "htmlUrl": "https://github.com/vinta",
   "location": "Taiwan",
-  "countryCode": null,
-  "generatedAt": "2026-06-01T10:48:10.615Z",
+  "countryCode": "CN",
+  "generatedAt": "2026-06-01T11:11:52.521Z",
   "isPartial": true,
   "languages": [
     {
@@ -19,7 +19,7 @@
       "starsContains": 4763,
       "repoCountContains": 1,
       "globalRank": 538,
-      "countryRank": null,
+      "countryRank": 73,
       "topRepos": [
         {
           "name": "pangu.js",
