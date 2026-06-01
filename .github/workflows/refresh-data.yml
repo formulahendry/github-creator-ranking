@@ -2,8 +2,8 @@ name: Refresh ranking data
 
 on:
   schedule:
-    # Beijing 06:00 and 18:00 (UTC 22:00 and 10:00).
-    - cron: '0 22,10 * * *'
+    # Beijing 06:17 and 18:17 (UTC 22:17 and 10:17), avoiding top-of-hour scheduler congestion.
+    - cron: '17 22,10 * * *'
   workflow_dispatch:
 
 permissions:

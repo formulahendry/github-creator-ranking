@@ -17,7 +17,7 @@ npm run dev
 ## Workflows
 
 - `Deploy static site` builds and deploys the committed `public/data` files to GitHub Pages. It runs on pushes to `main` and manual dispatch.
-- `Refresh ranking data` runs twice daily at Beijing 06:00 and 18:00. It runs the GitHub crawler, syncs user profile ranks from the generated ranking JSON, commits those data files back to `main`, and dispatches the deploy workflow when data changes.
+- `Refresh ranking data` runs twice daily at Beijing 06:17 and 18:17. It runs the GitHub crawler, syncs user profile ranks from the generated ranking JSON, commits those data files back to `main`, and dispatches the deploy workflow when data changes.
 
 ## Data model
 
