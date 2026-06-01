@@ -471,7 +471,7 @@ function deserializeOwner(owner: SerializedOwnerStats): OwnerStats {
     avatarUrl: owner.avatarUrl,
     htmlUrl: owner.htmlUrl,
     location: owner.location,
-    countryCode: owner.countryCode,
+    countryCode: normalizeCountry(owner.location),
     profileHydrated: owner.profileHydrated,
     languages: new Map(
       owner.languages.map(([slug, stats]) => [
