@@ -66,6 +66,10 @@ interface GenerateOptions {
   seedOnly?: boolean;
 }
 
+interface GitHubJsonOptions {
+  cache?: boolean;
+}
+
 interface SearchBucketCoverage {
   language: string;
   stars: string;
@@ -253,11 +257,14 @@ function sleep(milliseconds: number): Promise<void> {
   return new Promise((resolve) => setTimeout(resolve, milliseconds));
 }
 
-async function githubJson<T>(pathOrUrl: string): Promise<T> {
+async function githubJson<T>(pathOrUrl: string, options: GitHubJsonOptions = {}): Promise<T> {
   const url = pathOrUrl.startsWith('http') ? pathOrUrl : `https://api.github.com${pathOrUrl}`;
-  const cached = await readCache<T>(url);
-  if (cached) {
-    return cached;
+  const shouldUseCache = options.cache !== false;
+  if (shouldUseCache) {
+    const cached = await readCache<T>(url);
+    if (cached) {
+      return cached;
+    }
   }
 
   const maxRetries = Number(process.env.GITHUB_MAX_RETRIES ?? '5');
@@ -268,7 +275,9 @@ async function githubJson<T>(pathOrUrl: string): Promise<T> {
 
     if (response.ok) {
       const result = (await response.json()) as T;
-      await writeCache(url, result);
+      if (shouldUseCache) {
+        await writeCache(url, result);
+      }
       return result;
     }
 
@@ -289,15 +298,16 @@ async function githubJson<T>(pathOrUrl: string): Promise<T> {
   throw new Error(`GitHub API retry loop exited unexpectedly for ${url}`);
 }
 
-async function getUser(login: string): Promise<GitHubUser> {
-  return githubJson<GitHubUser>(`/users/${login}`);
+async function getUser(login: string, options?: GitHubJsonOptions): Promise<GitHubUser> {
+  return githubJson<GitHubUser>(`/users/${login}`, options);
 }
 
-async function listUserRepos(login: string): Promise<GitHubRepo[]> {
+async function listUserRepos(login: string, options?: GitHubJsonOptions): Promise<GitHubRepo[]> {
   const repos: GitHubRepo[] = [];
   for (let page = 1; ; page += 1) {
     const batch = await githubJson<GitHubRepo[]>(
       `/users/${login}/repos?type=owner&sort=updated&per_page=100&page=${page}`,
+      options,
     );
     repos.push(...batch);
     if (batch.length < 100) {
@@ -306,8 +316,8 @@ async function listUserRepos(login: string): Promise<GitHubRepo[]> {
   }
 }
 
-async function getRepoLanguages(repo: GitHubRepo): Promise<Record<string, number>> {
-  return githubJson<Record<string, number>>(repo.languages_url);
+async function getRepoLanguages(repo: GitHubRepo, options?: GitHubJsonOptions): Promise<Record<string, number>> {
+  return githubJson<Record<string, number>>(repo.languages_url, options);
 }
 
 function ensureOwner(owners: Map<string, OwnerStats>, repo: GitHubRepo): OwnerStats {
@@ -396,7 +406,8 @@ function structuredCloneOwner(owner: OwnerStats): OwnerStats {
 }
 
 async function addTargetUser(owners: Map<string, OwnerStats>, login: string, languages: LanguageConfig[]): Promise<void> {
-  const profile = await getUser(login);
+  const freshApiOptions = { cache: false };
+  const profile = await getUser(login, freshApiOptions);
   if (profile.type !== 'User') {
     return;
   }
@@ -412,9 +423,9 @@ async function addTargetUser(owners: Map<string, OwnerStats>, login: string, lan
     languages: new Map(),
   };
 
-  const repos = (await listUserRepos(login)).filter((repo) => !repo.fork);
+  const repos = (await listUserRepos(login, freshApiOptions)).filter((repo) => !repo.fork);
   for (const repo of repos) {
-    const repoLanguages = await getRepoLanguages(repo);
+    const repoLanguages = await getRepoLanguages(repo, freshApiOptions);
     for (const language of languages) {
       addRepo(owner, language, repo, Object.prototype.hasOwnProperty.call(repoLanguages, language.name));
     }

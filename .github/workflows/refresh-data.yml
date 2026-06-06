@@ -40,6 +40,12 @@ jobs:
         with:
           node-version: 22
           cache: npm
+      - uses: actions/cache@v4
+        with:
+          path: .cache
+          key: github-data-${{ runner.os }}-${{ github.run_id }}
+          restore-keys: |
+            github-data-${{ runner.os }}-
       - run: npm ci
       - run: npm run data:generate
       - run: npm run data:sync-user-ranks

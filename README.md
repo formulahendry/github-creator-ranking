@@ -48,8 +48,8 @@ GLOBAL_LIMIT=500
 COUNTRY_LIMIT=200
 ```
 
-The crawler splits GitHub Search by star buckets when a query exceeds GitHub's 1,000-result search cap. During a single run, API responses are cached in `.cache/github-api/`, and refresh checkpoints are stored in `.cache/state/`, so repeated requests in that run are not re-fetched.
+The crawler splits GitHub Search by star buckets when a query exceeds GitHub's 1,000-result search cap. API responses are cached in `.cache/github-api/`, and refresh checkpoints are stored in `.cache/state/`, so interrupted runs can resume without re-fetching completed requests or reprocessing completed buckets.
 
-Set `DISABLE_GITHUB_CACHE=true` to bypass the API cache, or `RESET_REFRESH_STATE=true` to restart bucket processing from scratch. The refresh workflow does not restore `.cache/` across scheduled runs because GitHub repository stars and search results are mutable; each scheduled refresh should fetch a fresh snapshot and retries rate-limited API requests with backoff.
+Set `DISABLE_GITHUB_CACHE=true` to bypass the API cache, or `RESET_REFRESH_STATE=true` to restart bucket processing from scratch. The refresh workflow restores `.cache/` with GitHub Actions cache and retries rate-limited API requests with backoff. Users listed in `TARGET_USERS` are always fetched directly from GitHub during data generation, so their profile pages and ranking rows do not reuse stale cached star counts.
 
 The country ranking uses public GitHub profile `location` text and is therefore approximate.
