@@ -9,9 +9,40 @@ interface Props {
 const { items } = Astro.props;
 ---
 
-<div class="table-wrap">
-  <table class="ranking-table">
-    <thead>
+<div class="table-shell" data-ranking-table>
+  <div class="table-sticky-header" aria-hidden="true">
+    <table class="ranking-table">
+      <colgroup>
+        <col class="col-rank" />
+        <col class="col-creator" />
+        <col class="col-location" />
+        <col class="col-stars" />
+        <col class="col-repos" />
+        <col class="col-repository" />
+      </colgroup>
+      <thead>
+        <tr>
+          <th>Rank</th>
+          <th>Creator</th>
+          <th>Location</th>
+          <th class="numeric">Stars</th>
+          <th class="numeric">Repos</th>
+          <th>Top repository</th>
+        </tr>
+      </thead>
+    </table>
+  </div>
+  <div class="table-wrap">
+    <table class="ranking-table">
+      <colgroup>
+        <col class="col-rank" />
+        <col class="col-creator" />
+        <col class="col-location" />
+        <col class="col-stars" />
+        <col class="col-repos" />
+        <col class="col-repository" />
+      </colgroup>
+      <thead class="sr-only">
       <tr>
         <th>Rank</th>
         <th>Creator</th>
@@ -20,41 +51,42 @@ const { items } = Astro.props;
         <th class="numeric">Repos</th>
         <th>Top repository</th>
       </tr>
-    </thead>
-    <tbody>
-      {
-        items.map((item) => {
-          const topRepo = item.topRepos[0];
-          return (
-            <tr>
-              <td class="rank">#{formatNumber(item.rank)}</td>
-              <td>
-                <a class="creator-cell" href={withBase(`/users/${item.login}`)}>
-                  <img src={item.avatarUrl} alt="" loading="lazy" />
-                  <span>
-                    <strong>{item.name || item.login}</strong>
-                    <small>@{item.login}</small>
-                  </span>
-                </a>
-              </td>
-              <td>{item.location || 'Unknown'}</td>
-              <td class="numeric">{formatNumber(item.starsPrimary)}</td>
-              <td class="numeric">{formatNumber(item.repoCountPrimary)}</td>
-              <td>
-                {
-                  topRepo ? (
-                    <a href={topRepo.url} target="_blank" rel="noreferrer">
-                      {topRepo.fullName}
-                    </a>
-                  ) : (
-                    '—'
-                  )
-                }
-              </td>
-            </tr>
-          );
-        })
-      }
-    </tbody>
-  </table>
+      </thead>
+      <tbody>
+        {
+          items.map((item) => {
+            const topRepo = item.topRepos[0];
+            return (
+              <tr>
+                <td class="rank">#{formatNumber(item.rank)}</td>
+                <td>
+                  <a class="creator-cell" href={withBase(`/users/${item.login}`)}>
+                    <img src={item.avatarUrl} alt="" loading="lazy" />
+                    <span>
+                      <strong>{item.name || item.login}</strong>
+                      <small>@{item.login}</small>
+                    </span>
+                  </a>
+                </td>
+                <td>{item.location || 'Unknown'}</td>
+                <td class="numeric">{formatNumber(item.starsPrimary)}</td>
+                <td class="numeric">{formatNumber(item.repoCountPrimary)}</td>
+                <td>
+                  {
+                    topRepo ? (
+                      <a href={topRepo.url} target="_blank" rel="noreferrer">
+                        {topRepo.fullName}
+                      </a>
+                    ) : (
+                      '—'
+                    )
+                  }
+                </td>
+              </tr>
+            );
+          })
+        }
+      </tbody>
+    </table>
+  </div>
 </div>

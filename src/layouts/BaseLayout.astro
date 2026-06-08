@@ -36,5 +36,41 @@ const { title, description = 'GitHub creator rankings by programming language st
     <main class="main">
       <slot />
     </main>
+    <script is:inline>
+      const siteHeader = document.querySelector('.site-header');
+      const syncSiteHeaderHeight = () => {
+        if (!siteHeader) return;
+        document.documentElement.style.setProperty(
+          '--site-header-height',
+          `${siteHeader.getBoundingClientRect().height}px`,
+        );
+      };
+
+      syncSiteHeaderHeight();
+      window.addEventListener('resize', syncSiteHeaderHeight);
+
+      if ('ResizeObserver' in window && siteHeader) {
+        new ResizeObserver(syncSiteHeaderHeight).observe(siteHeader);
+      }
+
+      const syncRankingTableHeaders = () => {
+        document.querySelectorAll('[data-ranking-table]').forEach((table) => {
+          const scroller = table.querySelector('.table-wrap');
+          const header = table.querySelector('.table-sticky-header');
+          if (!scroller || !header || scroller.dataset.headerSync === 'true') return;
+
+          const syncScroll = () => {
+            header.scrollLeft = scroller.scrollLeft;
+          };
+
+          scroller.dataset.headerSync = 'true';
+          scroller.addEventListener('scroll', syncScroll, { passive: true });
+          syncScroll();
+        });
+      };
+
+      syncRankingTableHeaders();
+      window.addEventListener('resize', syncRankingTableHeaders);
+    </script>
   </body>
 </html>

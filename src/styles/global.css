@@ -148,7 +148,7 @@ h2 {
 
 .stat-card,
 .panel,
-.table-wrap,
+.table-shell,
 .content {
   border: 1px solid var(--border);
   border-radius: 24px;
@@ -198,15 +198,61 @@ h2 {
   border-radius: 12px;
 }
 
+.table-shell {
+  overflow: visible;
+}
+
+.table-sticky-header {
+  position: sticky;
+  top: var(--site-header-height);
+  z-index: 2;
+  overflow: hidden;
+  border-radius: 24px 24px 0 0;
+  background: var(--panel);
+}
+
 .table-wrap {
   overflow-x: auto;
 }
 
 .ranking-table {
-  width: 100%;
+  width: max(100%, 860px);
   border-collapse: separate;
   border-spacing: 0;
-  min-width: 860px;
+  table-layout: fixed;
+}
+
+.col-rank {
+  width: 8%;
+}
+
+.col-creator {
+  width: 26%;
+}
+
+.col-location {
+  width: 25%;
+}
+
+.col-stars {
+  width: 10%;
+}
+
+.col-repos {
+  width: 8%;
+}
+
+.col-repository {
+  width: 23%;
+}
+
+.sr-only {
+  position: absolute;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  width: 1px;
+  height: 1px;
+  white-space: nowrap;
 }
 
 .ranking-table th,
@@ -221,6 +267,10 @@ h2 {
   font-size: 12px;
   letter-spacing: 0.08em;
   text-transform: uppercase;
+}
+
+.table-sticky-header th {
+  box-shadow: 0 1px 0 var(--border);
 }
 
 .ranking-table tr:last-child td {
@@ -303,19 +353,5 @@ h2 {
 
   .profile-heading {
     align-items: flex-start;
-  }
-}
-
-@media (min-width: 901px) {
-  .table-wrap {
-    overflow: visible;
-  }
-
-  .ranking-table th {
-    position: sticky;
-    top: var(--site-header-height);
-    z-index: 2;
-    background: var(--panel);
-    box-shadow: 0 1px 0 var(--border);
   }
 }
