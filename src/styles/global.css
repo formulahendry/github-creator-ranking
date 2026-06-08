@@ -199,7 +199,7 @@ h2 {
 }
 
 .table-wrap {
-  overflow: visible;
+  overflow-x: auto;
 }
 
 .ranking-table {
@@ -217,15 +217,10 @@ h2 {
 }
 
 .ranking-table th {
-  position: sticky;
-  top: var(--site-header-height);
-  z-index: 2;
-  background: var(--panel);
   color: var(--muted);
   font-size: 12px;
   letter-spacing: 0.08em;
   text-transform: uppercase;
-  box-shadow: 0 1px 0 var(--border);
 }
 
 .ranking-table tr:last-child td {
@@ -296,10 +291,6 @@ h2 {
 }
 
 @media (max-width: 720px) {
-  :root {
-    --site-header-height: 122px;
-  }
-
   .nav {
     align-items: flex-start;
     flex-direction: column;
@@ -315,8 +306,16 @@ h2 {
   }
 }
 
-@media (max-width: 900px) {
+@media (min-width: 901px) {
   .table-wrap {
-    overflow-x: auto;
+    overflow: visible;
+  }
+
+  .ranking-table th {
+    position: sticky;
+    top: var(--site-header-height);
+    z-index: 2;
+    background: var(--panel);
+    box-shadow: 0 1px 0 var(--border);
   }
 }
