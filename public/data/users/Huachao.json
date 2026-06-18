@@ -5,7 +5,7 @@
   "htmlUrl": "https://github.com/Huachao",
   "location": "Wuxi, China",
   "countryCode": "CN",
-  "generatedAt": "2026-06-17T23:52:25.408Z",
+  "generatedAt": "2026-06-18T13:44:08.224Z",
   "isPartial": true,
   "languages": [
     {
@@ -18,8 +18,8 @@
       "repoCountPrimary": 1,
       "starsContains": 6008,
       "repoCountContains": 1,
-      "globalRank": 396,
-      "countryRank": 54,
+      "globalRank": 397,
+      "countryRank": 55,
       "topRepos": [
         {
           "name": "vscode-restclient",
