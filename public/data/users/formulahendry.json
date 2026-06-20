@@ -5,7 +5,7 @@
   "htmlUrl": "https://github.com/formulahendry",
   "location": "Shanghai, China",
   "countryCode": "CN",
-  "generatedAt": "2026-06-20T12:11:52.455Z",
+  "generatedAt": "2026-06-20T23:37:36.296Z",
   "isPartial": true,
   "languages": [
     {
@@ -14,9 +14,9 @@
         "name": "TypeScript",
         "githubQuery": "TypeScript"
       },
-      "starsPrimary": 6012,
+      "starsPrimary": 6013,
       "repoCountPrimary": 36,
-      "starsContains": 6413,
+      "starsContains": 6414,
       "repoCountContains": 39,
       "globalRank": 396,
       "countryRank": 54,
