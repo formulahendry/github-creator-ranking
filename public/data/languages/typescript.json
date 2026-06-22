@@ -6,7 +6,7 @@
   },
   "scope": "global",
   "metric": "starsPrimary",
-  "generatedAt": "2026-06-22T15:33:26.596Z",
+  "generatedAt": "2026-06-22T23:45:00.583Z",
   "isPartial": true,
   "methodology": "Primary metric: public non-fork repositories whose GitHub primary language matches the selected language.",
   "items": [
@@ -12984,50 +12984,21 @@
     },
     {
       "rank": 394,
-      "login": "santiq",
-      "name": "santy",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/7070683?v=4",
-      "htmlUrl": "https://github.com/santiq",
-      "location": "Space",
-      "countryCode": null,
-      "starsPrimary": 6019,
-      "repoCountPrimary": 2,
-      "starsContains": 6019,
-      "repoCountContains": 2,
-      "topRepos": [
-        {
-          "name": "bulletproof-nodejs",
-          "fullName": "santiq/bulletproof-nodejs",
-          "stars": 5759,
-          "url": "https://github.com/santiq/bulletproof-nodejs",
-          "primaryLanguage": "TypeScript"
-        },
-        {
-          "name": "nodejs-auth",
-          "fullName": "santiq/nodejs-auth",
-          "stars": 260,
-          "url": "https://github.com/santiq/nodejs-auth",
-          "primaryLanguage": "TypeScript"
-        }
-      ]
-    },
-    {
-      "rank": 395,
       "login": "formulahendry",
       "name": "Jun Han",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1050213?v=4",
       "htmlUrl": "https://github.com/formulahendry",
       "location": "Shanghai, China",
       "countryCode": "CN",
-      "starsPrimary": 6018,
+      "starsPrimary": 6019,
       "repoCountPrimary": 36,
-      "starsContains": 6422,
+      "starsContains": 6423,
       "repoCountContains": 39,
       "topRepos": [
         {
           "name": "vscode-code-runner",
           "fullName": "formulahendry/vscode-code-runner",
-          "stars": 2404,
+          "stars": 2403,
           "url": "https://github.com/formulahendry/vscode-code-runner",
           "primaryLanguage": "TypeScript"
         },
@@ -13055,8 +13026,37 @@
         {
           "name": "vscode-acp",
           "fullName": "formulahendry/vscode-acp",
-          "stars": 298,
+          "stars": 300,
           "url": "https://github.com/formulahendry/vscode-acp",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 395,
+      "login": "santiq",
+      "name": "santy",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7070683?v=4",
+      "htmlUrl": "https://github.com/santiq",
+      "location": "Space",
+      "countryCode": null,
+      "starsPrimary": 6019,
+      "repoCountPrimary": 2,
+      "starsContains": 6019,
+      "repoCountContains": 2,
+      "topRepos": [
+        {
+          "name": "bulletproof-nodejs",
+          "fullName": "santiq/bulletproof-nodejs",
+          "stars": 5759,
+          "url": "https://github.com/santiq/bulletproof-nodejs",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "nodejs-auth",
+          "fullName": "santiq/nodejs-auth",
+          "stars": 260,
+          "url": "https://github.com/santiq/nodejs-auth",
           "primaryLanguage": "TypeScript"
         }
       ]
