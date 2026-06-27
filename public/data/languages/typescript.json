@@ -6,7 +6,7 @@
   },
   "scope": "global",
   "metric": "starsPrimary",
-  "generatedAt": "2026-06-26T23:36:28.505Z",
+  "generatedAt": "2026-06-27T11:47:40.669Z",
   "isPartial": true,
   "methodology": "Primary metric: public non-fork repositories whose GitHub primary language matches the selected language.",
   "items": [
@@ -12940,37 +12940,15 @@
     },
     {
       "rank": 392,
-      "login": "crynta",
-      "name": "Crynta",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/135257643?v=4",
-      "htmlUrl": "https://github.com/crynta",
-      "location": null,
-      "countryCode": null,
-      "starsPrimary": 6035,
-      "repoCountPrimary": 1,
-      "starsContains": 6035,
-      "repoCountContains": 1,
-      "topRepos": [
-        {
-          "name": "terax-ai",
-          "fullName": "crynta/terax-ai",
-          "stars": 6035,
-          "url": "https://github.com/crynta/terax-ai",
-          "primaryLanguage": "TypeScript"
-        }
-      ]
-    },
-    {
-      "rank": 393,
       "login": "formulahendry",
       "name": "Jun Han",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1050213?v=4",
       "htmlUrl": "https://github.com/formulahendry",
       "location": "Shanghai, China",
       "countryCode": "CN",
-      "starsPrimary": 6027,
+      "starsPrimary": 6039,
       "repoCountPrimary": 36,
-      "starsContains": 6439,
+      "starsContains": 6451,
       "repoCountContains": 39,
       "topRepos": [
         {
@@ -12983,7 +12961,7 @@
         {
           "name": "wechat-acp",
           "fullName": "formulahendry/wechat-acp",
-          "stars": 716,
+          "stars": 728,
           "url": "https://github.com/formulahendry/wechat-acp",
           "primaryLanguage": "TypeScript"
         },
@@ -13006,6 +12984,28 @@
           "fullName": "formulahendry/vscode-acp",
           "stars": 310,
           "url": "https://github.com/formulahendry/vscode-acp",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 393,
+      "login": "crynta",
+      "name": "Crynta",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/135257643?v=4",
+      "htmlUrl": "https://github.com/crynta",
+      "location": null,
+      "countryCode": null,
+      "starsPrimary": 6035,
+      "repoCountPrimary": 1,
+      "starsContains": 6035,
+      "repoCountContains": 1,
+      "topRepos": [
+        {
+          "name": "terax-ai",
+          "fullName": "crynta/terax-ai",
+          "stars": 6035,
+          "url": "https://github.com/crynta/terax-ai",
           "primaryLanguage": "TypeScript"
         }
       ]
