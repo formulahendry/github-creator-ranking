@@ -6,7 +6,7 @@
   },
   "scope": "global",
   "metric": "starsPrimary",
-  "generatedAt": "2026-07-07T12:39:57.833Z",
+  "generatedAt": "2026-07-07T23:16:03.977Z",
   "isPartial": true,
   "methodology": "Primary metric: public non-fork repositories whose GitHub primary language matches the selected language.",
   "items": [
@@ -12854,7 +12854,7 @@
       "countryCode": "CN",
       "starsPrimary": 6072,
       "repoCountPrimary": 36,
-      "starsContains": 6506,
+      "starsContains": 6507,
       "repoCountContains": 39,
       "topRepos": [
         {
@@ -12881,7 +12881,7 @@
         {
           "name": "acp-ui",
           "fullName": "formulahendry/acp-ui",
-          "stars": 381,
+          "stars": 382,
           "url": "https://github.com/formulahendry/acp-ui",
           "primaryLanguage": "Vue"
         },
