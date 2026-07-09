@@ -11,7 +11,7 @@
     "code": "CN"
   },
   "metric": "starsPrimary",
-  "generatedAt": "2026-07-08T23:32:18.535Z",
+  "generatedAt": "2026-07-09T23:39:22.594Z",
   "isPartial": true,
   "methodology": "Primary metric filtered to users whose public GitHub profile location normalizes to the selected region.",
   "items": [
@@ -1805,43 +1805,43 @@
       "htmlUrl": "https://github.com/formulahendry",
       "location": "Shanghai, China",
       "countryCode": "CN",
-      "starsPrimary": 6077,
+      "starsPrimary": 6084,
       "repoCountPrimary": 36,
-      "starsContains": 6512,
+      "starsContains": 6521,
       "repoCountContains": 39,
       "topRepos": [
         {
           "name": "vscode-code-runner",
           "fullName": "formulahendry/vscode-code-runner",
-          "stars": 2406,
+          "stars": 2407,
           "url": "https://github.com/formulahendry/vscode-code-runner",
           "primaryLanguage": "TypeScript"
         },
         {
           "name": "wechat-acp",
           "fullName": "formulahendry/wechat-acp",
-          "stars": 747,
+          "stars": 749,
           "url": "https://github.com/formulahendry/wechat-acp",
           "primaryLanguage": "TypeScript"
         },
         {
           "name": "mcp-server-spec-driven-development",
           "fullName": "formulahendry/mcp-server-spec-driven-development",
-          "stars": 431,
+          "stars": 432,
           "url": "https://github.com/formulahendry/mcp-server-spec-driven-development",
           "primaryLanguage": "TypeScript"
         },
         {
           "name": "acp-ui",
           "fullName": "formulahendry/acp-ui",
-          "stars": 383,
+          "stars": 385,
           "url": "https://github.com/formulahendry/acp-ui",
           "primaryLanguage": "Vue"
         },
         {
           "name": "vscode-acp",
           "fullName": "formulahendry/vscode-acp",
-          "stars": 322,
+          "stars": 325,
           "url": "https://github.com/formulahendry/vscode-acp",
           "primaryLanguage": "TypeScript"
         }
