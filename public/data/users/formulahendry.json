@@ -5,7 +5,7 @@
   "htmlUrl": "https://github.com/formulahendry",
   "location": "Shanghai, China",
   "countryCode": "CN",
-  "generatedAt": "2026-07-16T11:55:13.155Z",
+  "generatedAt": "2026-07-17T11:43:08.461Z",
   "isPartial": true,
   "languages": [
     {
@@ -14,11 +14,11 @@
         "name": "TypeScript",
         "githubQuery": "TypeScript"
       },
-      "starsPrimary": 6119,
+      "starsPrimary": 6124,
       "repoCountPrimary": 36,
-      "starsContains": 6565,
+      "starsContains": 6573,
       "repoCountContains": 39,
-      "globalRank": 387,
+      "globalRank": 385,
       "countryRank": 53,
       "topRepos": [
         {
@@ -38,21 +38,21 @@
         {
           "name": "mcp-server-spec-driven-development",
           "fullName": "formulahendry/mcp-server-spec-driven-development",
-          "stars": 432,
+          "stars": 433,
           "url": "https://github.com/formulahendry/mcp-server-spec-driven-development",
           "primaryLanguage": "TypeScript"
         },
         {
           "name": "acp-ui",
           "fullName": "formulahendry/acp-ui",
-          "stars": 394,
+          "stars": 397,
           "url": "https://github.com/formulahendry/acp-ui",
           "primaryLanguage": "Vue"
         },
         {
           "name": "vscode-acp",
           "fullName": "formulahendry/vscode-acp",
-          "stars": 330,
+          "stars": 333,
           "url": "https://github.com/formulahendry/vscode-acp",
           "primaryLanguage": "TypeScript"
         }
