@@ -6,7 +6,7 @@
   },
   "scope": "global",
   "metric": "starsPrimary",
-  "generatedAt": "2026-07-18T11:25:20.920Z",
+  "generatedAt": "2026-07-18T23:13:14.376Z",
   "isPartial": true,
   "methodology": "Primary metric: public non-fork repositories whose GitHub primary language matches the selected language.",
   "items": [
@@ -12708,6 +12708,56 @@
     },
     {
       "rank": 384,
+      "login": "formulahendry",
+      "name": "Jun Han",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1050213?v=4",
+      "htmlUrl": "https://github.com/formulahendry",
+      "location": "Shanghai, China",
+      "countryCode": "CN",
+      "starsPrimary": 6127,
+      "repoCountPrimary": 36,
+      "starsContains": 6580,
+      "repoCountContains": 39,
+      "topRepos": [
+        {
+          "name": "vscode-code-runner",
+          "fullName": "formulahendry/vscode-code-runner",
+          "stars": 2430,
+          "url": "https://github.com/formulahendry/vscode-code-runner",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "wechat-acp",
+          "fullName": "formulahendry/wechat-acp",
+          "stars": 756,
+          "url": "https://github.com/formulahendry/wechat-acp",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "mcp-server-spec-driven-development",
+          "fullName": "formulahendry/mcp-server-spec-driven-development",
+          "stars": 433,
+          "url": "https://github.com/formulahendry/mcp-server-spec-driven-development",
+          "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "acp-ui",
+          "fullName": "formulahendry/acp-ui",
+          "stars": 401,
+          "url": "https://github.com/formulahendry/acp-ui",
+          "primaryLanguage": "Vue"
+        },
+        {
+          "name": "vscode-acp",
+          "fullName": "formulahendry/vscode-acp",
+          "stars": 334,
+          "url": "https://github.com/formulahendry/vscode-acp",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 385,
       "login": "dabbott",
       "name": "Devin Abbott",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1198882?v=4",
@@ -12745,56 +12795,6 @@
           "fullName": "dabbott/studio721",
           "stars": 264,
           "url": "https://github.com/dabbott/studio721",
-          "primaryLanguage": "TypeScript"
-        }
-      ]
-    },
-    {
-      "rank": 385,
-      "login": "formulahendry",
-      "name": "Jun Han",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1050213?v=4",
-      "htmlUrl": "https://github.com/formulahendry",
-      "location": "Shanghai, China",
-      "countryCode": "CN",
-      "starsPrimary": 6125,
-      "repoCountPrimary": 36,
-      "starsContains": 6577,
-      "repoCountContains": 39,
-      "topRepos": [
-        {
-          "name": "vscode-code-runner",
-          "fullName": "formulahendry/vscode-code-runner",
-          "stars": 2430,
-          "url": "https://github.com/formulahendry/vscode-code-runner",
-          "primaryLanguage": "TypeScript"
-        },
-        {
-          "name": "wechat-acp",
-          "fullName": "formulahendry/wechat-acp",
-          "stars": 756,
-          "url": "https://github.com/formulahendry/wechat-acp",
-          "primaryLanguage": "TypeScript"
-        },
-        {
-          "name": "mcp-server-spec-driven-development",
-          "fullName": "formulahendry/mcp-server-spec-driven-development",
-          "stars": 433,
-          "url": "https://github.com/formulahendry/mcp-server-spec-driven-development",
-          "primaryLanguage": "TypeScript"
-        },
-        {
-          "name": "acp-ui",
-          "fullName": "formulahendry/acp-ui",
-          "stars": 400,
-          "url": "https://github.com/formulahendry/acp-ui",
-          "primaryLanguage": "Vue"
-        },
-        {
-          "name": "vscode-acp",
-          "fullName": "formulahendry/vscode-acp",
-          "stars": 333,
-          "url": "https://github.com/formulahendry/vscode-acp",
           "primaryLanguage": "TypeScript"
         }
       ]
