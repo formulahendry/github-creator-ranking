@@ -6,7 +6,7 @@
   },
   "scope": "global",
   "metric": "starsPrimary",
-  "generatedAt": "2026-07-21T23:14:03.454Z",
+  "generatedAt": "2026-07-22T12:06:19.646Z",
   "isPartial": true,
   "methodology": "Primary metric: public non-fork repositories whose GitHub primary language matches the selected language.",
   "items": [
@@ -12614,37 +12614,15 @@
     },
     {
       "rank": 381,
-      "login": "mebjas",
-      "name": "minhaz",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/3007365?v=4",
-      "htmlUrl": "https://github.com/mebjas",
-      "location": "Singapore",
-      "countryCode": "SG",
-      "starsPrimary": 6149,
-      "repoCountPrimary": 1,
-      "starsContains": 6149,
-      "repoCountContains": 1,
-      "topRepos": [
-        {
-          "name": "html5-qrcode",
-          "fullName": "mebjas/html5-qrcode",
-          "stars": 6149,
-          "url": "https://github.com/mebjas/html5-qrcode",
-          "primaryLanguage": "TypeScript"
-        }
-      ]
-    },
-    {
-      "rank": 382,
       "login": "formulahendry",
       "name": "Jun Han",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1050213?v=4",
       "htmlUrl": "https://github.com/formulahendry",
       "location": "Shanghai, China",
       "countryCode": "CN",
-      "starsPrimary": 6148,
+      "starsPrimary": 6149,
       "repoCountPrimary": 36,
-      "starsContains": 6608,
+      "starsContains": 6610,
       "repoCountContains": 39,
       "topRepos": [
         {
@@ -12671,15 +12649,37 @@
         {
           "name": "acp-ui",
           "fullName": "formulahendry/acp-ui",
-          "stars": 408,
+          "stars": 409,
           "url": "https://github.com/formulahendry/acp-ui",
           "primaryLanguage": "Vue"
         },
         {
           "name": "vscode-acp",
           "fullName": "formulahendry/vscode-acp",
-          "stars": 338,
+          "stars": 339,
           "url": "https://github.com/formulahendry/vscode-acp",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 382,
+      "login": "mebjas",
+      "name": "minhaz",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/3007365?v=4",
+      "htmlUrl": "https://github.com/mebjas",
+      "location": "Singapore",
+      "countryCode": "SG",
+      "starsPrimary": 6149,
+      "repoCountPrimary": 1,
+      "starsContains": 6149,
+      "repoCountContains": 1,
+      "topRepos": [
+        {
+          "name": "html5-qrcode",
+          "fullName": "mebjas/html5-qrcode",
+          "stars": 6149,
+          "url": "https://github.com/mebjas/html5-qrcode",
           "primaryLanguage": "TypeScript"
         }
       ]
