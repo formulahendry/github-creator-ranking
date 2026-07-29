@@ -6,7 +6,7 @@
   },
   "scope": "global",
   "metric": "starsPrimary",
-  "generatedAt": "2026-07-29T12:23:09.857Z",
+  "generatedAt": "2026-07-29T23:16:26.972Z",
   "isPartial": true,
   "methodology": "Primary metric: public non-fork repositories whose GitHub primary language matches the selected language.",
   "items": [
@@ -12620,9 +12620,9 @@
       "htmlUrl": "https://github.com/formulahendry",
       "location": "Shanghai, China",
       "countryCode": "CN",
-      "starsPrimary": 6173,
+      "starsPrimary": 6174,
       "repoCountPrimary": 36,
-      "starsContains": 6648,
+      "starsContains": 6649,
       "repoCountContains": 39,
       "topRepos": [
         {
@@ -12635,7 +12635,7 @@
         {
           "name": "wechat-acp",
           "fullName": "formulahendry/wechat-acp",
-          "stars": 787,
+          "stars": 788,
           "url": "https://github.com/formulahendry/wechat-acp",
           "primaryLanguage": "TypeScript"
         },
