@@ -5,7 +5,7 @@
   "htmlUrl": "https://github.com/formulahendry",
   "location": "Shanghai, China",
   "countryCode": "CN",
-  "generatedAt": "2026-07-29T23:16:26.972Z",
+  "generatedAt": "2026-07-30T12:06:10.650Z",
   "isPartial": true,
   "languages": [
     {
@@ -16,7 +16,7 @@
       },
       "starsPrimary": 6174,
       "repoCountPrimary": 36,
-      "starsContains": 6649,
+      "starsContains": 6650,
       "repoCountContains": 39,
       "globalRank": 381,
       "countryRank": 53,
@@ -45,14 +45,14 @@
         {
           "name": "acp-ui",
           "fullName": "formulahendry/acp-ui",
-          "stars": 423,
+          "stars": 424,
           "url": "https://github.com/formulahendry/acp-ui",
           "primaryLanguage": "Vue"
         },
         {
           "name": "vscode-acp",
           "fullName": "formulahendry/vscode-acp",
-          "stars": 344,
+          "stars": 345,
           "url": "https://github.com/formulahendry/vscode-acp",
           "primaryLanguage": "TypeScript"
         }
