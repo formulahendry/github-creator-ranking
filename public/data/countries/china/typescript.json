@@ -11,7 +11,7 @@
     "code": "CN"
   },
   "metric": "starsPrimary",
-  "generatedAt": "2026-08-12T23:03:51.259Z",
+  "generatedAt": "2026-08-13T11:12:20.627Z",
   "isPartial": true,
   "methodology": "Primary metric filtered to users whose public GitHub profile location normalizes to the selected region.",
   "items": [
@@ -1756,7 +1756,7 @@
       "countryCode": "CN",
       "starsPrimary": 6197,
       "repoCountPrimary": 36,
-      "starsContains": 6683,
+      "starsContains": 6684,
       "repoCountContains": 39,
       "topRepos": [
         {
@@ -1769,9 +1769,16 @@
         {
           "name": "wechat-acp",
           "fullName": "formulahendry/wechat-acp",
-          "stars": 804,
+          "stars": 803,
           "url": "https://github.com/formulahendry/wechat-acp",
           "primaryLanguage": "TypeScript"
+        },
+        {
+          "name": "acp-ui",
+          "fullName": "formulahendry/acp-ui",
+          "stars": 435,
+          "url": "https://github.com/formulahendry/acp-ui",
+          "primaryLanguage": "Vue"
         },
         {
           "name": "mcp-server-spec-driven-development",
@@ -1781,16 +1788,9 @@
           "primaryLanguage": "TypeScript"
         },
         {
-          "name": "acp-ui",
-          "fullName": "formulahendry/acp-ui",
-          "stars": 434,
-          "url": "https://github.com/formulahendry/acp-ui",
-          "primaryLanguage": "Vue"
-        },
-        {
           "name": "vscode-acp",
           "fullName": "formulahendry/vscode-acp",
-          "stars": 351,
+          "stars": 352,
           "url": "https://github.com/formulahendry/vscode-acp",
           "primaryLanguage": "TypeScript"
         }
