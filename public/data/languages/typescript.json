@@ -6,7 +6,7 @@
   },
   "scope": "global",
   "metric": "starsPrimary",
-  "generatedAt": "2026-09-01T14:56:54.485Z",
+  "generatedAt": "2026-09-02T00:18:29.776Z",
   "isPartial": true,
   "methodology": "Primary metric: public non-fork repositories whose GitHub primary language matches the selected language.",
   "items": [
@@ -12469,37 +12469,15 @@
     },
     {
       "rank": 376,
-      "login": "nickscamara",
-      "name": "Nicolas",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/20311743?v=4",
-      "htmlUrl": "https://github.com/nickscamara",
-      "location": "San Francisco",
-      "countryCode": null,
-      "starsPrimary": 6241,
-      "repoCountPrimary": 1,
-      "starsContains": 6241,
-      "repoCountContains": 1,
-      "topRepos": [
-        {
-          "name": "open-deep-research",
-          "fullName": "nickscamara/open-deep-research",
-          "stars": 6241,
-          "url": "https://github.com/nickscamara/open-deep-research",
-          "primaryLanguage": "TypeScript"
-        }
-      ]
-    },
-    {
-      "rank": 377,
       "login": "formulahendry",
       "name": "Jun Han",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1050213?v=4",
       "htmlUrl": "https://github.com/formulahendry",
       "location": "Shanghai, China",
       "countryCode": "CN",
-      "starsPrimary": 6240,
+      "starsPrimary": 6241,
       "repoCountPrimary": 36,
-      "starsContains": 6745,
+      "starsContains": 6746,
       "repoCountContains": 39,
       "topRepos": [
         {
@@ -12535,6 +12513,28 @@
           "fullName": "formulahendry/vscode-acp",
           "stars": 369,
           "url": "https://github.com/formulahendry/vscode-acp",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 377,
+      "login": "nickscamara",
+      "name": "Nicolas",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/20311743?v=4",
+      "htmlUrl": "https://github.com/nickscamara",
+      "location": "San Francisco",
+      "countryCode": null,
+      "starsPrimary": 6241,
+      "repoCountPrimary": 1,
+      "starsContains": 6241,
+      "repoCountContains": 1,
+      "topRepos": [
+        {
+          "name": "open-deep-research",
+          "fullName": "nickscamara/open-deep-research",
+          "stars": 6241,
+          "url": "https://github.com/nickscamara/open-deep-research",
           "primaryLanguage": "TypeScript"
         }
       ]
