@@ -6,7 +6,7 @@
   },
   "scope": "global",
   "metric": "starsPrimary",
-  "generatedAt": "2026-10-01T17:03:16.423Z",
+  "generatedAt": "2026-10-02T01:43:08.564Z",
   "isPartial": true,
   "methodology": "Primary metric: public non-fork repositories whose GitHub primary language matches the selected language.",
   "items": [
@@ -12410,9 +12410,9 @@
       "htmlUrl": "https://github.com/formulahendry",
       "location": "Shanghai, China",
       "countryCode": "CN",
-      "starsPrimary": 6288,
+      "starsPrimary": 6287,
       "repoCountPrimary": 37,
-      "starsContains": 6841,
+      "starsContains": 6840,
       "repoCountContains": 41,
       "topRepos": [
         {
@@ -12446,7 +12446,7 @@
         {
           "name": "vscode-acp",
           "fullName": "formulahendry/vscode-acp",
-          "stars": 392,
+          "stars": 391,
           "url": "https://github.com/formulahendry/vscode-acp",
           "primaryLanguage": "TypeScript"
         }
