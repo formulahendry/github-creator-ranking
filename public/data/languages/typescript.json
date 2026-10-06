@@ -6,7 +6,7 @@
   },
   "scope": "global",
   "metric": "starsPrimary",
-  "generatedAt": "2026-10-05T19:19:06.690Z",
+  "generatedAt": "2026-10-06T02:20:18.807Z",
   "isPartial": true,
   "methodology": "Primary metric: public non-fork repositories whose GitHub primary language matches the selected language.",
   "items": [
@@ -12410,9 +12410,9 @@
       "htmlUrl": "https://github.com/formulahendry",
       "location": "Shanghai, China",
       "countryCode": "CN",
-      "starsPrimary": 6290,
+      "starsPrimary": 6289,
       "repoCountPrimary": 37,
-      "starsContains": 6846,
+      "starsContains": 6845,
       "repoCountContains": 41,
       "topRepos": [
         {
