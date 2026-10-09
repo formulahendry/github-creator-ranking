@@ -6,7 +6,7 @@
   },
   "scope": "global",
   "metric": "starsPrimary",
-  "generatedAt": "2026-10-08T17:25:20.848Z",
+  "generatedAt": "2026-10-09T02:14:49.888Z",
   "isPartial": true,
   "methodology": "Primary metric: public non-fork repositories whose GitHub primary language matches the selected language.",
   "items": [

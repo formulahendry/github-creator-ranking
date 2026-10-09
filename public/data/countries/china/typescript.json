@@ -11,7 +11,7 @@
     "code": "CN"
   },
   "metric": "starsPrimary",
-  "generatedAt": "2026-10-08T17:25:20.848Z",
+  "generatedAt": "2026-10-09T02:14:49.888Z",
   "isPartial": true,
   "methodology": "Primary metric filtered to users whose public GitHub profile location normalizes to the selected region.",
   "items": [
