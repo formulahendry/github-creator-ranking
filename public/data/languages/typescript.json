@@ -6,7 +6,7 @@
   },
   "scope": "global",
   "metric": "starsPrimary",
-  "generatedAt": "2026-10-19T17:00:01.131Z",
+  "generatedAt": "2026-10-20T01:06:20.701Z",
   "isPartial": true,
   "methodology": "Primary metric: public non-fork repositories whose GitHub primary language matches the selected language.",
   "items": [
@@ -12353,37 +12353,15 @@
     },
     {
       "rank": 372,
-      "login": "al1abb",
-      "name": "Ali Abbasov",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/60220042?v=4",
-      "htmlUrl": "https://github.com/al1abb",
-      "location": "Azerbaijan",
-      "countryCode": null,
-      "starsPrimary": 6302,
-      "repoCountPrimary": 1,
-      "starsContains": 6302,
-      "repoCountContains": 1,
-      "topRepos": [
-        {
-          "name": "invoify",
-          "fullName": "al1abb/invoify",
-          "stars": 6302,
-          "url": "https://github.com/al1abb/invoify",
-          "primaryLanguage": "TypeScript"
-        }
-      ]
-    },
-    {
-      "rank": 373,
       "login": "formulahendry",
       "name": "Jun Han",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1050213?v=4",
       "htmlUrl": "https://github.com/formulahendry",
       "location": "Shanghai, China",
       "countryCode": "CN",
-      "starsPrimary": 6301,
+      "starsPrimary": 6302,
       "repoCountPrimary": 38,
-      "starsContains": 6861,
+      "starsContains": 6862,
       "repoCountContains": 42,
       "topRepos": [
         {
@@ -12419,6 +12397,28 @@
           "fullName": "formulahendry/vscode-acp",
           "stars": 397,
           "url": "https://github.com/formulahendry/vscode-acp",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 373,
+      "login": "al1abb",
+      "name": "Ali Abbasov",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/60220042?v=4",
+      "htmlUrl": "https://github.com/al1abb",
+      "location": "Azerbaijan",
+      "countryCode": null,
+      "starsPrimary": 6302,
+      "repoCountPrimary": 1,
+      "starsContains": 6302,
+      "repoCountContains": 1,
+      "topRepos": [
+        {
+          "name": "invoify",
+          "fullName": "al1abb/invoify",
+          "stars": 6302,
+          "url": "https://github.com/al1abb/invoify",
           "primaryLanguage": "TypeScript"
         }
       ]
