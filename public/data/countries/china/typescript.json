@@ -11,7 +11,7 @@
     "code": "CN"
   },
   "metric": "starsPrimary",
-  "generatedAt": "2026-10-21T15:19:35.871Z",
+  "generatedAt": "2026-10-22T00:42:47.732Z",
   "isPartial": true,
   "methodology": "Primary metric filtered to users whose public GitHub profile location normalizes to the selected region.",
   "items": [
@@ -1754,9 +1754,9 @@
       "htmlUrl": "https://github.com/formulahendry",
       "location": "Shanghai, China",
       "countryCode": "CN",
-      "starsPrimary": 6305,
+      "starsPrimary": 6306,
       "repoCountPrimary": 38,
-      "starsContains": 6868,
+      "starsContains": 6869,
       "repoCountContains": 42,
       "topRepos": [
         {
