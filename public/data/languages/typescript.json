@@ -6,7 +6,7 @@
   },
   "scope": "global",
   "metric": "starsPrimary",
-  "generatedAt": "2026-10-23T15:09:35.617Z",
+  "generatedAt": "2026-10-24T00:46:02.616Z",
   "isPartial": true,
   "methodology": "Primary metric: public non-fork repositories whose GitHub primary language matches the selected language.",
   "items": [
@@ -12366,14 +12366,14 @@
         {
           "name": "mcp-server-spec-driven-development",
           "fullName": "formulahendry/mcp-server-spec-driven-development",
-          "stars": 439,
+          "stars": 438,
           "url": "https://github.com/formulahendry/mcp-server-spec-driven-development",
           "primaryLanguage": "TypeScript"
         },
         {
           "name": "vscode-acp",
           "fullName": "formulahendry/vscode-acp",
-          "stars": 402,
+          "stars": 403,
           "url": "https://github.com/formulahendry/vscode-acp",
           "primaryLanguage": "TypeScript"
         }

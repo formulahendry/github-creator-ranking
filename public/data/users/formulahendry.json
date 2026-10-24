@@ -5,7 +5,7 @@
   "htmlUrl": "https://github.com/formulahendry",
   "location": "Shanghai, China",
   "countryCode": "CN",
-  "generatedAt": "2026-10-23T15:09:35.617Z",
+  "generatedAt": "2026-10-24T00:46:02.616Z",
   "isPartial": true,
   "languages": [
     {
@@ -45,14 +45,14 @@
         {
           "name": "mcp-server-spec-driven-development",
           "fullName": "formulahendry/mcp-server-spec-driven-development",
-          "stars": 439,
+          "stars": 438,
           "url": "https://github.com/formulahendry/mcp-server-spec-driven-development",
           "primaryLanguage": "TypeScript"
         },
         {
           "name": "vscode-acp",
           "fullName": "formulahendry/vscode-acp",
-          "stars": 402,
+          "stars": 403,
           "url": "https://github.com/formulahendry/vscode-acp",
           "primaryLanguage": "TypeScript"
         }
