@@ -5,7 +5,7 @@
   "htmlUrl": "https://github.com/formulahendry",
   "location": "Shanghai, China",
   "countryCode": "CN",
-  "generatedAt": "2026-10-26T16:48:58.621Z",
+  "generatedAt": "2026-10-27T01:30:32.891Z",
   "isPartial": true,
   "languages": [
     {
@@ -14,9 +14,9 @@
         "name": "TypeScript",
         "githubQuery": "TypeScript"
       },
-      "starsPrimary": 6322,
+      "starsPrimary": 6323,
       "repoCountPrimary": 38,
-      "starsContains": 6887,
+      "starsContains": 6888,
       "repoCountContains": 42,
       "globalRank": 371,
       "countryRank": 52,
@@ -45,7 +45,7 @@
         {
           "name": "mcp-server-spec-driven-development",
           "fullName": "formulahendry/mcp-server-spec-driven-development",
-          "stars": 438,
+          "stars": 439,
           "url": "https://github.com/formulahendry/mcp-server-spec-driven-development",
           "primaryLanguage": "TypeScript"
         },
