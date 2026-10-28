@@ -6,7 +6,7 @@
   },
   "scope": "global",
   "metric": "starsPrimary",
-  "generatedAt": "2026-10-28T01:26:15.797Z",
+  "generatedAt": "2026-10-28T16:41:40.575Z",
   "isPartial": true,
   "methodology": "Primary metric: public non-fork repositories whose GitHub primary language matches the selected language.",
   "items": [
@@ -12309,37 +12309,15 @@
     },
     {
       "rank": 370,
-      "login": "petyosi",
-      "name": "Petyo Ivanov",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/13347?v=4",
-      "htmlUrl": "https://github.com/petyosi",
-      "location": "Sofia, Bulgaria",
-      "countryCode": null,
-      "starsPrimary": 6330,
-      "repoCountPrimary": 1,
-      "starsContains": 6330,
-      "repoCountContains": 1,
-      "topRepos": [
-        {
-          "name": "react-virtuoso",
-          "fullName": "petyosi/react-virtuoso",
-          "stars": 6330,
-          "url": "https://github.com/petyosi/react-virtuoso",
-          "primaryLanguage": "TypeScript"
-        }
-      ]
-    },
-    {
-      "rank": 371,
       "login": "formulahendry",
       "name": "Jun Han",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1050213?v=4",
       "htmlUrl": "https://github.com/formulahendry",
       "location": "Shanghai, China",
       "countryCode": "CN",
-      "starsPrimary": 6329,
+      "starsPrimary": 6330,
       "repoCountPrimary": 38,
-      "starsContains": 6894,
+      "starsContains": 6895,
       "repoCountContains": 42,
       "topRepos": [
         {
@@ -12373,8 +12351,30 @@
         {
           "name": "vscode-acp",
           "fullName": "formulahendry/vscode-acp",
-          "stars": 406,
+          "stars": 407,
           "url": "https://github.com/formulahendry/vscode-acp",
+          "primaryLanguage": "TypeScript"
+        }
+      ]
+    },
+    {
+      "rank": 371,
+      "login": "petyosi",
+      "name": "Petyo Ivanov",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/13347?v=4",
+      "htmlUrl": "https://github.com/petyosi",
+      "location": "Sofia, Bulgaria",
+      "countryCode": null,
+      "starsPrimary": 6330,
+      "repoCountPrimary": 1,
+      "starsContains": 6330,
+      "repoCountContains": 1,
+      "topRepos": [
+        {
+          "name": "react-virtuoso",
+          "fullName": "petyosi/react-virtuoso",
+          "stars": 6330,
+          "url": "https://github.com/petyosi/react-virtuoso",
           "primaryLanguage": "TypeScript"
         }
       ]
