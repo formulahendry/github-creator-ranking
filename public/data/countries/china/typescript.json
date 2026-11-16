@@ -11,7 +11,7 @@
     "code": "CN"
   },
   "metric": "starsPrimary",
-  "generatedAt": "2026-11-16T02:12:46.132Z",
+  "generatedAt": "2026-11-16T20:31:52.494Z",
   "isPartial": true,
   "methodology": "Primary metric filtered to users whose public GitHub profile location normalizes to the selected region.",
   "items": [
@@ -1754,9 +1754,9 @@
       "htmlUrl": "https://github.com/formulahendry",
       "location": "Shanghai, China",
       "countryCode": "CN",
-      "starsPrimary": 6349,
+      "starsPrimary": 6350,
       "repoCountPrimary": 38,
-      "starsContains": 6922,
+      "starsContains": 6924,
       "repoCountContains": 42,
       "topRepos": [
         {
@@ -1776,14 +1776,14 @@
         {
           "name": "acp-ui",
           "fullName": "formulahendry/acp-ui",
-          "stars": 510,
+          "stars": 511,
           "url": "https://github.com/formulahendry/acp-ui",
           "primaryLanguage": "Vue"
         },
         {
           "name": "mcp-server-spec-driven-development",
           "fullName": "formulahendry/mcp-server-spec-driven-development",
-          "stars": 440,
+          "stars": 441,
           "url": "https://github.com/formulahendry/mcp-server-spec-driven-development",
           "primaryLanguage": "TypeScript"
         },
