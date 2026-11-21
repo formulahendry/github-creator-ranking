@@ -6,7 +6,7 @@
   },
   "scope": "global",
   "metric": "starsPrimary",
-  "generatedAt": "2026-11-21T03:15:04.846Z",
+  "generatedAt": "2026-11-21T17:36:29.341Z",
   "isPartial": true,
   "methodology": "Primary metric: public non-fork repositories whose GitHub primary language matches the selected language.",
   "items": [
@@ -12271,15 +12271,15 @@
       "htmlUrl": "https://github.com/formulahendry",
       "location": "Shanghai, China",
       "countryCode": "CN",
-      "starsPrimary": 6355,
+      "starsPrimary": 6356,
       "repoCountPrimary": 38,
-      "starsContains": 6934,
+      "starsContains": 6935,
       "repoCountContains": 42,
       "topRepos": [
         {
           "name": "vscode-code-runner",
           "fullName": "formulahendry/vscode-code-runner",
-          "stars": 2447,
+          "stars": 2448,
           "url": "https://github.com/formulahendry/vscode-code-runner",
           "primaryLanguage": "TypeScript"
         },
